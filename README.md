@@ -1,3 +1,5 @@
+##  The Institute for Artificial Intelligence and Fundamental Interactions
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/iaifi/iaifi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
