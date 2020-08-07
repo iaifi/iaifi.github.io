@@ -1,0 +1,13 @@
+header:
+
+  - title: About
+    url: /about.html
+
+  - title: People
+    url: /people.html
+
+  - title: Research
+    url: /research.html
+
+  - title: News
+    url: /news
