@@ -1,39 +1,15 @@
-##  The Institute for Artificial Intelligence and Fundamental Interactions
+###  The Institute for Artificial Intelligence and Fundamental Interactions Website
 
-## Welcome to GitHub Pages
+The IAIFI webpage source is hosted in GitHub and built using GitHub Pages. It is possible to use the [editor on GitHub](https://github.com/iaifi/iaifi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files; however, for most things it's easier to just build and run Jekyll locally.
 
-You can use the [editor on GitHub](https://github.com/iaifi/iaifi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Whenever a commit is made to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages that make up the IAIFI site, from the content in your Markdown files:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- About.md
+- People.md
+- Research.md
 
-### Markdown
+To-do: ADD MORE HERE.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Markdown
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iaifi/iaifi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Since Jekyll converts the simple Markdown files into the html that makes up the site, most IAIFI website updates only require editing Markdown files in your favorite editor. For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
