@@ -1,16 +1,13 @@
 ---
-layout: home
+layout: article
 ---
 
-<br />
+<h3><center><em>The NSF AI Institute for Artificial Intelligence <br> and Fundamental Interactions (IAIFI)</em></center></h3>
 
-<h2><center><em>Institute for Artificial Intelligence <br> and Fundamental Interactions (IAIFI)</em></center></h2>
+There is an embargo on IAIFI information until Tuesday, August 25, 2020.
+{:.error}
 
-<br />
-
-The [Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)](/about.html) is one of inaugural NSF national AI research institutes. The IAIFI will advance physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanize AI research innovation. The IAIFI is comprised of both [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts.  Learn more about our [proposed research](/research.html) at the Physics/AI intersection and about our [IAIFI Fellows](/fellows.html) program.
-
-<br />
+The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI)](/about.html) is one of inaugural NSF national AI research institutes. The IAIFI will advance physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanize AI research innovation. The IAIFI is comprised of both [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts.  Learn more about our [proposed research](/research.html) at the Physics/AI intersection and about our [IAIFI Fellows](/fellows.html) program.
 
 
 #### Featured IAIFI News
