@@ -17,3 +17,14 @@ Any Markdown file added to the *_posts* directory with the naming format *YYYY-M
 #### Markdown
 
 Since Jekyll converts the simple Markdown files into the html that makes up the site, most IAIFI website updates only require editing Markdown files in your favorite editor. For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+#### Cheatsheet
+
+Here are some useful commands for easy copy/pasting:
+
+* Cloning this git repo over ssh:  `git clone git@github.com:iaifi/iaifi.github.io.git`
+* Running Jekyll locally:  `bundle exec jekyll serve`
+* Seeing Jekyll page locally:  <http://localhost:4000>
+* Jekyll TeXt theme documentation:  <https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start>
+
+
