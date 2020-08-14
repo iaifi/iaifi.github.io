@@ -6,6 +6,8 @@ title: People
 
 The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, Northeastern, and Tufts.
 
+### Senior Investigators
+
 <div class="card-columns">
   <!--<div class="row">-->
   {% for member in site.data.senior-investigators.personnel  %}
@@ -48,3 +50,6 @@ The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, North
   </div>
 <br> -->
 </div>
+
+Coming soon: IAIFI Fellows and Phd Students.
+{:.info}
