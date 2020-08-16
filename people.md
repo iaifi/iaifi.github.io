@@ -12,14 +12,14 @@ The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, North
   <!--<div class="row">-->
   {% for member in site.data.senior-investigators.personnel  %}
      {% assign person = site.data.people[member] %}
-       <div class="card" style="width: 13rem; height: 27rem; justify-content: center;">
-         <img class="card-img-top" src="{{person.photo}}" alt="{{person.name}}" height="50%">
+       <div class="card" style="width: 13rem; height: 29rem; justify-content: center;">
+         <img class="card-img-top" src="{{person.photo}}" alt="{{person.name}}" height="210rem">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 6rem;">
          <a href="{{person.website}}">{{person.name}}</a><br>
          <em> {{person.title}} </em> <br>
          </div>
-         <div class="card-text" style="text-align: center; min-height: 3rem; line-height: 120%">
+         <div class="card-text" style="text-align: center; min-height: 5rem; line-height: 120%">
          <small>
 	 <small>
          <em> {{person.interests}} </em> <br>
