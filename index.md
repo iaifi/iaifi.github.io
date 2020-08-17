@@ -3,7 +3,7 @@ layout: article
 ---
 
 <a href="images/iaifi-pressimage.png"> 
-<img src="images/iaifi-pressimage-horizontalcrop.png" alt="Image credit:  IAIFI composite using agsandrew - stock.adobe.com" width="100%">
+<img src="images/iaifi-pressimage-horizontalcrop.png" alt="NSF AI Institute for Artificial Intelligence and Fundamental Interactions" title="Image credit:  IAIFI composite using agsandrew - stock.adobe.com" width="100%">
 </a>
 
 <h2><center>The NSF AI Institute for Artificial Intelligence <br> and Fundamental Interactions (IAIFI)</center></h2>
