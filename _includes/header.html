@@ -1,3 +1,65 @@
+<style>
+
+/* not needed
+li.dropdown {
+  display: inline-block;
+}
+*/
+
+/* changes color of About, etc, not used
+.dropdown a:link {
+  color: #000;
+}
+*/
+
+.dropdown-content {
+  color: #0f0; /* does nothing? */
+  display: none;
+  position: absolute;
+  background-color: #fefefe;  /* 444 is iaifi theme */
+  min-width: 160px;
+  /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2277dd;
+  border-radius: 5px;
+  z-index: 1;
+}
+
+
+.dropdown-content a:link {
+  padding: 5px 16px;
+  display: block;
+  text-align: left;
+}
+
+/*
+.dropdown-content a:hover {
+  background-color: #f0f0f0;
+}
+*/
+
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+.dropdown:hover .dropdown-content a, a:link {
+  color: #2277dd;
+}
+
+
+
+.dropdown:hover .dropdown-content a:hover, a:active {
+  color: #214477;
+  text-decoration: underline; /* does nothing? */
+}
+
+</style>
+
+
+
 {%- if include.theme == 'dark' -%}
   <header class="header header--dark" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
 {%- elsif include.theme == 'light' -%}
@@ -28,7 +90,16 @@
             {%- include snippets/get-nav-url.html path=page.url -%}
             {%- assign _page_url = __return -%}
             {%- include snippets/get-string-from-locale-config.html locale=_item.titles -%}
-            {%- if _nav_url == _page_url or page.nav_key and _item.key and page.nav_key == _item.key -%}
+            {% if _item.subtitles != null %}
+              <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn">{{ _item.title }}</a>
+                <div class="dropdown-content">
+                  {% for subtitle in _item.subtitles %}
+                    <a href="{{subtitle.url}}">{{ subtitle.title }}</a>
+                 {% endfor %}
+               </div>
+             </li>
+            {%- elsif _nav_url == _page_url or page.nav_key and _item.key and page.nav_key == _item.key -%}
               <li class="navigation__item navigation__item--active"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
             {%- else -%}
               <li class="navigation__item"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>

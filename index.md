@@ -7,7 +7,7 @@ article_header:
 ---
 
 <!---
-<a href="images/iaifi-pressimage.png"> 
+<a href="images/iaifi-pressimage.png">
 <img src="images/iaifi-pressimage-horizontalcrop.png" alt="NSF AI Institute for Artificial Intelligence and Fundamental Interactions" title="Image credit:  IAIFI composite using agsandrew - stock.adobe.com" width="100%">
 </a>
 --->
@@ -22,8 +22,8 @@ There is an embargo on IAIFI information until Wednesday, August 26, 2020 at 9am
 
 ### Featured IAIFI News
 
-***IAIFI Launch*** Today the National Science Foundation announced the creation of the Institute for Artificial Intelligence and Fundamental Interactions! [Full story](2020/08/25/launch.html)
+***IAIFI Launch*** Today the National Science Foundation announced the creation of the Institute for Artificial Intelligence and Fundamental Interactions! [Full story](iaifi-news.html#iaifi-launch)
 
-***IAIFI Fellows 2020 Competition*** IAIFI is pleased to announce our 2020 Fellows Competition. The nomination deadline is October 1, with full applications due by October 15. [Full story](2020/08/25/fellows.html)
+***IAIFI Fellows 2020 Competition*** IAIFI is pleased to announce our 2020 Fellows Competition. The nomination deadline is October 1, with full applications due by October 15. [Full story](iaifi-news.html#iaifi-fellows-2020-competition)
 
-***More IAIFI News*** For all IAIFI news, see our [news page](/news).
+***More IAIFI News*** For all IAIFI news, see our [news page](/iaifi-news.html).

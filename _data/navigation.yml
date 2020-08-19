@@ -1,19 +1,21 @@
 header:
 
   - title: About
-    url: /about.html
+    subtitles:
+      - title: Overview
+        url: /about.html
+      - title: People
+        url: /people.html
 
-  - title: People
-    url: /people.html
-
-  - title: Research
-    url: /research.html
+  - title: Activities
+    subtitles:
+      - title: Research
+        url: /research.html
+      - title: Other Activities
+        url: /activities.html
 
   - title: Fellows
     url: /fellows.html
 
-  - title: Activities
-    url: /activities.html
-
   - title: News
-    url: /news
+    url: /iaifi-news.html
