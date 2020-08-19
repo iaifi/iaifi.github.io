@@ -3,12 +3,12 @@ layout: article
 article_header:
   type: cover
   image:
-    src: /images/iaifi-pressimage-horizontalcrop.png
+    src: /images/iaifi-pressimage-horizontalcrop.jpg
 ---
 
 <!---
-<a href="images/iaifi-pressimage.png">
-<img src="images/iaifi-pressimage-horizontalcrop.png" alt="NSF AI Institute for Artificial Intelligence and Fundamental Interactions" title="Image credit:  IAIFI composite using agsandrew - stock.adobe.com" width="100%">
+<a href="images/iaifi-pressimage.jpg">
+<img src="images/iaifi-pressimage-horizontalcrop.jpg" alt="NSF AI Institute for Artificial Intelligence and Fundamental Interactions" title="Image credit:  IAIFI composite using agsandrew - stock.adobe.com" width="100%">
 </a>
 --->
 
