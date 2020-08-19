@@ -1,6 +1,8 @@
 
 ## IAIFI Launch
 
+*August 26, 2020*
+
 Today, the National Science Foundation announced the creation of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions!
 
 <!-- There does not seem to be any way to use a 2nd dollar sign for the $20M without inadvertently going into math mode. Even substituting pure unicode doesn't work, nor does escaping with \ or generating the dollar signs in mathjax. -->
@@ -13,4 +15,3 @@ The IAIFI will advance physics knowledge -- from the smallest building blocks of
 
 You can find more info on our [iaifi.org](/index.html) page and in the following press releases: [NSF](XXX), [MIT](XXX), [Harvard](XXX), [Northeastern](XXX), and [Tufts](XXX).  
 
-*August 25, 2020*
