@@ -23,7 +23,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 There is an embargo on IAIFI information until Wednesday, August 26, 2020 at 9am.
 {:.error}
 
-### Featured IAIFI News
+### IAIFI News
 
 ***IAIFI Launch:*** On August 26, 2020, the National Science Foundation announced the creation of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions! [Full story](about.html#iaifi-launch)
 {:.info}
@@ -32,4 +32,6 @@ There is an embargo on IAIFI information until Wednesday, August 26, 2020 at 9am
 ***IAIFI Fellows 2020 Competition:*** IAIFI is pleased to announce our [2021-2024 IAIFI Fellowships Competition](https://academicjobsonline.org/ajo/jobs/16695). The nomination deadline is early October 2020, with full applications due by October 15. [Full story](about.html#iaifi-fellows-2020-competition)
 {:.info}
 
+<!---
 ***More IAIFI News:*** For all IAIFI news, see our [news page](/iaifi-news.html).
+--->
