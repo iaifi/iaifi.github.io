@@ -3,7 +3,7 @@
 
 *August 26, 2020*
 
-Today, we launched our competition for IAIFI postdoctoral fellows!  Nominations are due in early October 2020.
+Today, we launched our competition for IAIFI postdoctoral fellows!  [Nominations](https://academicjobsonline.org/ajo/jobs/16695) are due in early October 2020.
 
 AI technologies are advancing rapidly, making it both important and challenging to train junior researchers at the intersection of physics and AI. The IAIFI aims to recruit and train a talented, promising, and diverse group of researchers at an early stage of their careers, including at the postdoctoral level through a new IAIFI Fellows Program.  
 

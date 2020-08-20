@@ -29,7 +29,7 @@ There is an embargo on IAIFI information until Wednesday, August 26, 2020 at 9am
 {:.info}
 
 
-***IAIFI Fellows 2020 Competition:*** IAIFI is pleased to announce our 2020 Fellows Competition. The nomination deadline is early October 2020, with full applications due by October 15. [Full story](iaifi-news.html#iaifi-fellows-2020-competition)
+***IAIFI Fellows 2020 Competition:*** IAIFI is pleased to announce our [2021-2024 IAIFI Fellowships Competition](https://academicjobsonline.org/ajo/jobs/16695). The nomination deadline is early October 2020, with full applications due by October 15. [Full story](iaifi-news.html#iaifi-fellows-2020-competition)
 {:.info}
 
 ***More IAIFI News:*** For all IAIFI news, see our [news page](/iaifi-news.html).
