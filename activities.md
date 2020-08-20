@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Other Activities
+title: Synergies
 ---
 
 The IAIFI is involved in many activities in the areas of education and workforce development, outreach, and knowledge transfer.
