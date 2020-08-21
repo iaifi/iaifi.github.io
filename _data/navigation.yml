@@ -1,23 +1,19 @@
 header:
 
-#  - title: About
-#    subtitles:
-#      - title: Overview
-#        url: /about.html
-#      - title: News
-#        url: /iaifi-news.html
-  
   - title: About
-    url: /about.html
-  
+    subtitles:
+      - title: Overview
+        url: /about.html
+      - title: Synergies
+        url: /activities.html
+      - title: News
+        url: /iaifi-news.html
+
   - title: People
     url: /people.html
 
   - title: Research
     url: /research.html
- 
-  - title: Synergy
-    url: /activities.html
 
   - title: Fellows
     url: /fellows.html
