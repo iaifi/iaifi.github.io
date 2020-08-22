@@ -11,7 +11,7 @@ The National Science Foundation (NSF) announced today an investment of over \$10
 
 The IAIFI will advance physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanize AI research innovation.
 
-“Recognizing the critical role of AI, NSF is investing in collaborative research and education hubs, such as the NSF AI Institute for Artificial Intelligence and Fundamental Interactions anchored at MIT, which will bring together academia, industry, and government to unearth profound discoveries and develop new capabilities advancing American competitiveness for decades to come,” said NSF Director Sethuraman Panchanathan. “Just as prior NSF investments enabled the breakthroughs that have given rise to today’s AI revolution, the awards being announced today will drive discovery and innovation that will sustain American leadership and competitiveness in AI for decades to come.”
+“Recognizing the critical role of AI, NSF is investing in collaborative research and education hubs, such as the NSF IAIFI anchored at MIT, which will bring together academia, industry, and government to unearth profound discoveries and develop new capabilities,” said NSF Director Sethuraman Panchanathan. “Just as prior NSF investments enabled the breakthroughs that have given rise to today’s AI revolution, the awards being announced today will drive discovery and innovation that will sustain American leadership and competitiveness in AI for decades to come.”
 
 You can find more info on our [iaifi.org](/index.html) page and in the following press releases: [NSF](XXX), [MIT](XXX), [Harvard](XXX), [Northeastern](XXX), and [Tufts](XXX).  
 
