@@ -7,7 +7,7 @@ for filename in os.listdir("."):
     #print data
     for i in range(0,len(data)):
         if not data[i].startswith('photo:'): continue
-        data[i] = 'photo: images/small-photo-%s.jpg' % (filename.split('.yml')[0])
+        data[i] = 'photo: images/small-photo-%s.jpg \n' % (filename.split('.yml')[0])
         #print data[i]
     f = open(filename, 'w')
     f.writelines(data)
