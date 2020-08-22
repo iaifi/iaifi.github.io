@@ -22,7 +22,7 @@ key: page-about
 ---
 
 <a href="images/iaifi-pressimage.jpg">
-<img src="images/iaifi-pressimage-horizontalcrop.jpg" alt="NSF AI Institute for Artificial Intelligence and Fundamental Interactions" title="Image credit:  IAIFI composite using agsandrew - stock.adobe.com" width="100%">
+<img src="images/iaifi-pressimage-horizontalcrop-smaller.jpg" alt="NSF AI Institute for Artificial Intelligence and Fundamental Interactions" title="Image credit:  IAIFI composite using agsandrew - stock.adobe.com" width="100%">
 </a>
 
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is one of the inaugural NSF AI research institutes. The IAIFI will enable physics discoveries and advance foundational AI through the development of novel AI approaches that incorporate first principles from fundamental physics. AI is transforming many aspects of society, including the ways that scientists are pursuing groundbreaking discoveries. For many years, physicists have been at the forefront of applying AI methods to investigate fundamental questions about the Universe. Further progress will require a revolutionary leap in AI, as both the complexity of physics problems and the size of physics datasets continue to grow.
