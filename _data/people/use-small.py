@@ -2,7 +2,6 @@ import os
 
 for filename in os.listdir("."):
     if not filename.endswith(".yml"): continue
-    if not filename.startswith("jesse"): continue
     f = open(filename, 'r')
     data = f.readlines()
     #print data
