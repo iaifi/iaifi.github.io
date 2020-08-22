@@ -3,14 +3,8 @@ layout: article
 article_header:
   type: cover
   image:
-    src: /images/iaifi-pressimage-horizontalcrop.jpg
+    src: /images/iaifi-pressimage-horizontalcrop-smaller.jpg
 ---
-
-<!---
-<a href="images/iaifi-pressimage.jpg">
-<img src="images/iaifi-pressimage-horizontalcrop.jpg" alt="NSF AI Institute for Artificial Intelligence and Fundamental Interactions" title="Image credit:  IAIFI composite using agsandrew - stock.adobe.com" width="100%">
-</a>
---->
 
 <center>
 <div style="max-width: 650px;">
@@ -29,7 +23,7 @@ There is an embargo on IAIFI information until Wednesday, August 26, 2020 at 9am
 {:.info}
 
 
-***IAIFI Fellows 2020 Competition:*** IAIFI is pleased to announce our [2021-2024 IAIFI Fellowships Competition](https://academicjobsonline.org/ajo/jobs/16695). The nomination deadline is early October 2020, with full applications due by October 15. [Full story](iaifi-news.html#iaifi-fellows-2020-competition)
+***2021-2024 IAIFI Fellows:*** IAIFI is pleased to announce our [2021-2024 IAIFI Fellowship Program](https://academicjobsonline.org/ajo/jobs/16695). The deadline for full applications is October 20, 2020. [Full story](iaifi-news.html#iaifi-fellows-2020-competition)
 {:.info}
 
 <!---
