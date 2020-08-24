@@ -8,7 +8,7 @@ Today, we launched our IAIFI postdoctoral fellows program!  [Applications](https
 
 AI technologies are advancing rapidly, making it both important and challenging to train junior researchers at the intersection of physics and AI. The IAIFI aims to recruit and train a talented and diverse group of early-career researchers, including at the postdoctoral level through its IAIFI Fellows Program.  
 
-“By offering our Fellows their choice of research problems, and the chance to focus on cutting-edge challenges in fundamental interactions, we will prepare many talented young scientists to become future leaders in both academia and industry,” says MIT professor of physics Marin Soljacic of the Research Laboratory of Electronics. 
+“By offering our Fellows their choice of research problems, and the chance to focus on cutting-edge challenges in physics and AI, we will prepare many talented young scientists to become future leaders in both academia and industry,” says MIT professor of physics Marin Soljacic. 
 
 IAIFI researchers hope these Fellows will spark interdisciplinary and multi-investigator collaborations, generate new ideas and approaches, translate physics challenges beyond their native domains, and help develop a common language across disciplines.
 
