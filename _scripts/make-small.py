@@ -1,3 +1,4 @@
+# run this in the images directory 
 import os
 
 for filename in os.listdir("."):
