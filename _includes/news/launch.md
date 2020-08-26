@@ -13,7 +13,8 @@ The IAIFI will advance physics knowledge -- from the smallest building blocks of
 
 “Recognizing the critical role of AI, NSF is investing in collaborative research and education hubs, such as the NSF IAIFI anchored at MIT, which will bring together academia, industry, and government to unearth profound discoveries and develop new capabilities,” said NSF Director Sethuraman Panchanathan. “Just as prior NSF investments enabled the breakthroughs that have given rise to today’s AI revolution, the awards being announced today will drive discovery and innovation that will sustain American leadership and competitiveness in AI for decades to come.”
 
-You can find more info on our [iaifi.org](/index.html) page.
+You can find more info on our [iaifi.org](/index.html) page and in the following press releases: [NSF](https://www.nsf.gov/news/special_reports/announcements/082620.jsp), [NSF blog](https://beta.nsf.gov/science-matters/new-nsf-ai-research-institutes-push-forward-frontiers-artificial-intelligence), [MIT](https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826),
+and [Harvard](https://www.news.harvard.edu/gazette/story/2020/08/harvard-a-partner-in-20-million-ai-institute/).
 
 <!---
 and in the following press releases: [NSF](XXX), [MIT](XXX), [Harvard](XXX), [Northeastern](XXX), and [Tufts](XXX).  
