@@ -21,7 +21,7 @@ There is an embargo on IAIFI information until Wednesday, August 26, 2020 at 9am
 
 ### IAIFI News
 
-***IAIFI Launch:*** On August 26, 2020, the National Science Foundation announced the creation of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions! [Full story](iaifi-news.html#iaifi-launch)
+***IAIFI Launch:*** On August 26, 2020, the National Science Foundation [announced](https://www.nsf.gov/news/special_reports/announcements/082620.jsp) the creation of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions! [Full story](iaifi-news.html#iaifi-launch)
 {:.info}
 
 
