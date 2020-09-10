@@ -3,7 +3,7 @@ layout: article
 title: IAIFI Fellows
 ---
 
-#### Call for Applications
+### Call for Applications
 
 [2021-2024 IAIFI Fellowship Program on AcademicJobsOnline](https://academicjobsonline.org/ajo/jobs/16695)
 {:.info}
@@ -24,3 +24,7 @@ Fellows will be selected through an [annual application process](https://academi
 
 The IAIFI is a joint NSF-funded venture between MIT, Harvard, Northeastern, and Tufts.  Fellows are encouraged to collaborate with other IAIFI members and can have affiliations with any or all of the participating universities.
 
+### FAQ
+
+*  *What is the anticipated start date for the 2021-2024 IAIFI Fellowship?*  The expected start date is September 1, 2021, but we will consider alternative start dates on a case by case basis.
+* *Will you sponsor visas for international applicants?*  If selected for an IAIFI Fellowship, we will work with the MIT International Scholars Office (ISchO) to determine the appropriate visa for your situation.  We cannot make any guarantees about visa sponsorship, however.
