@@ -27,4 +27,6 @@ The IAIFI is a joint NSF-funded venture between MIT, Harvard, Northeastern, and 
 ### FAQ
 
 *  *What is the anticipated start date for the 2021-2024 IAIFI Fellowship?*  The expected start date is September 1, 2021, but we will consider alternative start dates on a case by case basis.
-* *Will you sponsor visas for international applicants?*  If selected for an IAIFI Fellowship, we will work with the MIT International Scholars Office (ISchO) to determine the [appropriate visa for your situation](http://web.mit.edu/scholars/administrators/sponsorshippolicy.html#visaspon).
+*  *Will you sponsor visas for international applicants?*  If selected for an IAIFI Fellowship, we will work with the MIT International Scholars Office (ISchO) to determine the [appropriate visa for your situation](http://web.mit.edu/scholars/administrators/sponsorshippolicy.html#visaspon).
+*  *Am I still eligible for an IAIFI Fellowship if my research is only in Physics or only in AI?*  The aim of the IAIFI is to foster interdisciplinary research at the intersection of Physics and AI.  Even if your expertise is only in one area, your proposed research should aim to build bridges across disciplines.
+
