@@ -14,10 +14,6 @@ article_header:
 
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI)](/about.html) is one of the inaugural NSF AI research institutes. The IAIFI will advance physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanize AI research innovation. The IAIFI is comprised of both [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts.  Learn more about our [proposed research](/research.html) at the Physics/AI intersection and about our [IAIFI Fellows](/fellows.html) program.
 
-<!---
-There is an embargo on IAIFI information until Wednesday, August 26, 2020 at 9am.
-{:.error}
---->
 
 ### Subscribe to IAIFI News
 
@@ -26,6 +22,9 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 
 
 ### IAIFI News
+
+***Provably Exact AI for Nuclear and Particle Physics:***  Read about recent research by Tej Kanwar, Phiala Shanahan (IAIFI Research Coordinator for Physics Theory), and collaborators at MIT, NYU, and Google Deep Mind on using machine learning to explore fundamental forces of nature:  [MIT News](https://news.mit.edu/2020/provably-exact-artificial-intelligence-nuclear-particle-physics-0924), [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.121601)
+{:.info}
 
 ***IAIFI Launch:*** On August 26, 2020, the National Science Foundation [announced](https://www.nsf.gov/news/special_reports/announcements/082620.jsp) the creation of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions! [Full story](iaifi-news.html#iaifi-launch)
 {:.info}
