@@ -23,12 +23,17 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 
 ### IAIFI News
 
-***Provably Exact AI for Nuclear and Particle Physics:***  Read about recent research by Tej Kanwar, Phiala Shanahan (IAIFI Research Coordinator for Physics Theory), and collaborators at MIT, NYU, and Google Deep Mind on using machine learning to explore fundamental forces of nature:  [MIT News](https://news.mit.edu/2020/provably-exact-artificial-intelligence-nuclear-particle-physics-0924), [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.121601)
+***Phiala Shanahan Named One of Ten Scientists to Watch:***  [Science News](https://www.sciencenews.org/article/sn-10-scientists-to-watch-2020), *September 30, 2020*
+{:.info}
+
+***Provably Exact AI for Nuclear and Particle Physics:***  Read about recent research by Tej Kanwar, Phiala Shanahan (IAIFI Research Coordinator for Physics Theory), and collaborators at MIT, NYU, and Google Deep Mind on using machine learning to explore fundamental forces of nature:  [MIT News](https://news.mit.edu/2020/provably-exact-artificial-intelligence-nuclear-particle-physics-0924), [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.121601), *September 24, 2020*
+{:.info}
+
+***Tracy Slatyer Awarded 2021 New Horizons Prize in Physics:***  [MIT News](https://news.mit.edu/2020/2021-new-horizons-new-frontiers-0910), *September 10, 2020*
 {:.info}
 
 ***IAIFI Launch:*** On August 26, 2020, the National Science Foundation [announced](https://www.nsf.gov/news/special_reports/announcements/082620.jsp) the creation of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions! [Full story](iaifi-news.html#iaifi-launch)
 {:.info}
-
 
 ***2021-2024 IAIFI Fellows:*** IAIFI is pleased to announce our [2021-2024 IAIFI Fellowship Program](https://academicjobsonline.org/ajo/jobs/16695). The deadline for full applications is October 20, 2020. [Full story](iaifi-news.html#2021-2024-iaifi-fellows)
 {:.info}
