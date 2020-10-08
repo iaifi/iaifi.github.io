@@ -23,6 +23,9 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 
 ### IAIFI News
 
+***Phiala Shanahan Wins 2021 Maria Goeppert Mayer Award:***  "For key insights into the structure and interactions of hadrons and nuclei using numerical and analytical methods and pioneering the use of machine learning techniques in lattice quantum field theory calculations in particle and nuclear physics."  [American Physical Society](https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Shanahan&first_nm=Phiala&year=2021), *October 7, 2020*
+{:.info}
+
 ***Phiala Shanahan Named One of Ten Scientists to Watch:***  [Science News](https://www.sciencenews.org/article/sn-10-scientists-to-watch-2020), *September 30, 2020*
 {:.info}
 
