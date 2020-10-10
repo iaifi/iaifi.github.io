@@ -16,7 +16,7 @@ Fellows will be selected through an [annual application process](https://academi
 * CV (1-2 pages recommended, but longer accepted);
 * Statement of research interests (no more than 2 pages);
 * List of publications;
-* Three reference letters.
+* Exactly three reference letters.
   
 **The deadline to receive all the materials (including all reference letters) is the 20th of October 2020.**
 
