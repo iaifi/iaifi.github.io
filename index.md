@@ -20,6 +20,13 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news).
 {:.info}
 
+### IAIFI Positions
+
+***Opening for IAIFI Project Manager:***  We are looking to hire a [Project Manager](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=19161&localeCode=en-us) to help coordinate and plan the IAIFI activities.
+{:.info}
+
+***2021-2024 IAIFI Fellows:*** IAIFI is pleased to announce our [2021-2024 IAIFI Fellowship Program](https://academicjobsonline.org/ajo/jobs/16695). The deadline for full applications is October 20, 2020. [Full story](iaifi-news.html#2021-2024-iaifi-fellows)
+{:.info}
 
 ### IAIFI News
 
@@ -36,9 +43,6 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 {:.info}
 
 ***IAIFI Launch:*** On August 26, 2020, the National Science Foundation [announced](https://www.nsf.gov/news/special_reports/announcements/082620.jsp) the creation of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions! [Full story](iaifi-news.html#iaifi-launch)
-{:.info}
-
-***2021-2024 IAIFI Fellows:*** IAIFI is pleased to announce our [2021-2024 IAIFI Fellowship Program](https://academicjobsonline.org/ajo/jobs/16695). The deadline for full applications is October 20, 2020. [Full story](iaifi-news.html#2021-2024-iaifi-fellows)
 {:.info}
 
 <!---
