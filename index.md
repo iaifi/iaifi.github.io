@@ -30,6 +30,9 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 
 ### IAIFI News
 
+***Phiala Shanahan Wins 2020 Kenneth G. Wilson Award:*** "For excellence in the study of hadrons and nuclei in lattice QCD and for pioneering the application of machine learning and artificial intelligence techniques to lattice field theory."  [International Symposium on Lattice Field Theory](https://kwla.llnl.gov/), *October 23, 2020*
+{:.info}
+
 ***Phiala Shanahan Wins 2021 Maria Goeppert Mayer Award:***  "For key insights into the structure and interactions of hadrons and nuclei using numerical and analytical methods and pioneering the use of machine learning techniques in lattice quantum field theory calculations in particle and nuclear physics."  [American Physical Society](https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Shanahan&first_nm=Phiala&year=2021), *October 7, 2020*
 {:.info}
 
