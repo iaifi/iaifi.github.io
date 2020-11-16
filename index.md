@@ -30,6 +30,9 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 
 ### IAIFI News
 
+***AI for Cosmology***:  Read about Cora Dvorkin's work on using machine learning to study the structure of the universe, particularly subhalos of dark matter:  [Quanta Magazine](https://www.quantamagazine.org/harvard-cosmologist-cora-dvorkin-dreams-in-dark-matter-20201105/), [Harvard Gazette](https://news.harvard.edu/gazette/story/2020/11/harvard-physicist-works-to-understand-dark-matter/), *November 5, 2020*
+{:.info}
+
 ***Phiala Shanahan Wins 2020 Kenneth G. Wilson Award:*** "For excellence in the study of hadrons and nuclei in lattice QCD and for pioneering the application of machine learning and artificial intelligence techniques to lattice field theory."  [International Symposium on Lattice Field Theory](https://kwla.llnl.gov/), *October 23, 2020*
 {:.info}
 
