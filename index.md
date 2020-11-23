@@ -30,7 +30,7 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 
 ### IAIFI News
 
-***"Can a Computer Devise a Theory of Everything?"***:   Max Tegmark and Jesse Thaler weigh in on this provactive question in a [New York Times article](https://www.nytimes.com/2020/11/23/science/artificial-intelligence-ai-physics-theory.html) by Dennis Overbye, *November 23, 2020*
+***"Can a Computer Devise a Theory of Everything?"***:   Max Tegmark and Jesse Thaler weigh in on this provocative question in a [New York Times article](https://www.nytimes.com/2020/11/23/science/artificial-intelligence-ai-physics-theory.html) by Dennis Overbye, *November 23, 2020*
 {:.info}
 
 ***AI for Cosmology***:  Read about Cora Dvorkin's work on using machine learning to study the structure of the universe, particularly subhalos of dark matter:  [Quanta Magazine](https://www.quantamagazine.org/harvard-cosmologist-cora-dvorkin-dreams-in-dark-matter-20201105/), [Harvard Gazette](https://news.harvard.edu/gazette/story/2020/11/harvard-physicist-works-to-understand-dark-matter/), *November 5, 2020*
