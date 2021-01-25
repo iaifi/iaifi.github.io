@@ -9,6 +9,9 @@ header:
       - title: News
         url: /iaifi-news.html
 
+  - title: Events
+    url: /events.html
+
   - title: People
     url: /people.html
 
