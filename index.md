@@ -16,7 +16,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Events
 
-***Announcing the IAIFI Colloquium Series***:  On Thursday, February 4, 2021, we will launch a biweekly virtual colloquium series.  For the spring semester, we will showcase IAIFI researchers, starting with Phiala Shanahan and Pulkit Agarwal.  The full list of talks available on our [events page](events.html).
+***Announcing the IAIFI Colloquium Series***:  On Thursday, February 4, 2021, we will launch a biweekly virtual colloquium series.  For the spring semester, we will showcase IAIFI researchers, starting with Phiala Shanahan and Pulkit Agrawal.  The full list of talks available on our [events page](events.html).
 {:.success}
 
 

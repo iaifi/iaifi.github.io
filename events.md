@@ -5,7 +5,7 @@ title: Events
 
 ## IAIFI Colloquia (Spring 2021)
 
-In Spring 2021, our colloquium series will feature IAIFI senior investigators, aiming to introduce you to some of the research being carried out at our institute.
+In Spring 2021, our colloquium series will feature IAIFI senior investigators, aiming to introduce you to some of the exciting research being carried out at our institute.
 
 All times are Boston time.  Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive Zoom links for these events.
 
@@ -14,7 +14,7 @@ All times are Boston time.  Please [sign up for our mailing list](http://mailman
     * *"Ab-initio AI for first-principles calculations of the structure of matter"*
     * Thursday, February 4, 11am-noon
 
-  * **Pulkit Agarwal**
+  * **Pulkit Agrawal**
     * *"Challenges in Real World Reinforcement Learning"*
     * Thursday, February 18, 12:30pm-1:30pm
 
