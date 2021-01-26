@@ -22,7 +22,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### Subscribe to IAIFI News
 
-To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news).
+To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and [follow us @iaifi_news](http://www.twitter.com/iaifi_news).
 {:.info}
 
 ### IAIFI News
