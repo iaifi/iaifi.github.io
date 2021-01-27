@@ -29,6 +29,11 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (I
 
 The goal of the IAIFI is to develop and deploy the next generation of AI technologies, based on the transformative idea that artificial intelligence can directly incorporate physics intelligence.  IAIFI researchers will use these new AI technologies to tackle some of the most challenging problems in physics, from precision calculations of the structure of matter, to gravitational wave detection of merging black holes, to the extraction of new physical laws from noisy data. IAIFI researchers will also transfer these technologies to the broader AI community, since trustworthy AI is as important for physics discovery as it is for other applications of AI in society. To cultivate human intelligence, the IAIFI will promote training, education, and outreach at the intersection of physics and AI. In this way, the IAIFI will advance physics knowledge – from the smallest building blocks of nature to the largest structures in the Universe – and galvanize AI research innovation.
 
-#### Launch Press Releases (August 26, 2020)
+#### Graphics
 
-  * [NSF](https://www.nsf.gov/news/special_reports/announcements/082620.jsp), [NSF blog](https://beta.nsf.gov/science-matters/new-nsf-ai-research-institutes-push-forward-frontiers-artificial-intelligence), [MIT](https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826), [Harvard](https://www.news.harvard.edu/gazette/story/2020/08/harvard-a-partner-in-20-million-ai-institute/), [Northeastern](https://news.northeastern.edu/2020/08/26/why-you-need-a-computer-to-understand-strings-and-knots/)
+  * IAIFI Logo (Transparent Background):  [Black](images/iaifi-logo-black.pdf),  [White](images/iaifi-logo-white.pdf)
+  * IAIFI Press Image: [Full Size](images/iaifi-pressimage.jpg), [Horizontal Crop](images/iaifi-pressimage-horizontalcrop.jpg)
+
+####  Press Coverage 
+
+  * IAIFI Launch (August 26, 2020):  [NSF](https://www.nsf.gov/news/special_reports/announcements/082620.jsp), [NSF blog](https://beta.nsf.gov/science-matters/new-nsf-ai-research-institutes-push-forward-frontiers-artificial-intelligence), [MIT](https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826), [Harvard](https://www.news.harvard.edu/gazette/story/2020/08/harvard-a-partner-in-20-million-ai-institute/), [Northeastern](https://news.northeastern.edu/2020/08/26/why-you-need-a-computer-to-understand-strings-and-knots/)
