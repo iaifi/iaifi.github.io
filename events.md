@@ -30,6 +30,13 @@ All times are Boston time.  Please [sign up for our mailing list](http://mailman
     * *"Title: TBA"*
     * Thursday, April 15, 11am-noon
 
+## Related Events
+
+Here are other organizations that hold events relevant to the IAIFI community:
+
+  * [Physics Meets ML](http://www.physicsmeetsml.org/)
+  * [CLARIPHY Topical Meetings](https://clariphy.org/topical.html)
+  
 
 ## Previous Events
 
