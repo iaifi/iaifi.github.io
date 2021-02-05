@@ -100,5 +100,14 @@ The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, North
 <br> -->
 </div>
 
-Coming soon: IAIFI Fellows and PhD Students.
+## IAIFI Fellows
+
+Coming Soon
 {:.info}
+
+
+## Junior Investigators
+
+Coming Soon
+{:.info}
+
