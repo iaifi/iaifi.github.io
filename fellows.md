@@ -11,7 +11,7 @@ We are pleased to announce our first round of IAIFI Fellows!  We are excited for
 
 <img class="image image--lg" src="images/photo-anna-golubeva.jpg" align="right" hspace="20" vspace="20"/>
 
-**Resesarch Interests**:  Anna Golubeva's main research focus is on developing a theory of deep learning using approaches from theoretical physics. Her goal is to contribute towards understanding the tools of AI and leveraging them to advance both AI and the physical sciences. Her projects include both the application of deep learning methods for quantum many-body problems, as well as a theory-based analysis of deep learning systems, exploiting approaches from information theory, statistical learning theory, and statistical physics. She is currently particularly interested in the subject of sparsity in neural networks.
+**Research Interests**:  Anna Golubeva's main research focus is on developing a theory of deep learning using approaches from theoretical physics. Her goal is to contribute towards understanding the tools of AI and leveraging them to advance both AI and the physical sciences. Her projects include both the application of deep learning methods for quantum many-body problems, as well as a theory-based analysis of deep learning systems, exploiting approaches from information theory, statistical learning theory, and statistical physics. She is currently particularly interested in the subject of sparsity in neural networks.
 
 **Biographical Sketch**:  Anna Golubeva obtained her PhD in 2021 at the Perimeter Institute for Theoretical Physics and the University of Waterloo, where she was advised by Roger Melko. During her PhD, she was also a graduate affiliate at the Vector Institute for AI in Toronto. Previously, she completed the Perimeter Scholars International master's program (2017), a MSc in Theoretical Physics with focus on computational approaches to quantum many-body systems (2016), and a BSc in Biophysics (2014) at the Goethe University in Frankfurt, Germany.
 
@@ -44,7 +44,7 @@ We are pleased to announce our first round of IAIFI Fellows!  We are excited for
 
 ## Call for Applications for 2022-2025 IAIFI Fellows
 
-**We plan to launch a new call for IAIFI Fellows in Summer 2021.**  Please stay tuned and [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive information about this fellowshop.  Below is information adapted from the previous call, but subject to change.
+**We plan to launch a new call for IAIFI Fellows in Summer 2021.**  Please stay tuned and [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive information about this fellowship.  Below is information adapted from the previous call, but subject to change.
 
 Of critical importance to the IAIFI vision is our IAIFI Fellows program, which aims to recruit and train the most talented, promising, and diverse group of researchers at an early stage of their careers. These Fellows will spark vital interdisciplinary, multi-investigator, multi-subfield collaborations. Such collaborations have immense power to generate new ideas and approaches, to facilitate abstracting physics challenges beyond their native domains, and to instill a common language across disciplines.  Our program aims to appoint three new postdoctoral IAIFI Fellows each academic year, for a three-year fellowship term each.
 
