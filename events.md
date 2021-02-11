@@ -71,7 +71,7 @@ These talks are only open to IAIFI members and affiliates.
     
   * **David Kaiser**
     * **Thursday, April 22, 11am-noon**
-    * *"Ethics and AI*
+    * *"Ethics and AI"*
         
   * **Isaac Chuang**
     * **Thursday, May 6, 11am-noon**
