@@ -27,6 +27,9 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 
 ### IAIFI News
 
+***Bill Freeman Elected Member of National Academy of Engineering***:  "For contributions to computer vision and image enhancement."  [National Academy of Engineering](https://www.nae.edu/248499/National-Academy-of-Engineering-Elects-106-Members-and-23-International-Members), *February 9, 2021*
+{:.info}
+
 ***"Can a Computer Devise a Theory of Everything?"***:   Max Tegmark and Jesse Thaler weigh in on this provocative question in a [New York Times article](https://www.nytimes.com/2020/11/23/science/artificial-intelligence-ai-physics-theory.html) by Dennis Overbye, *November 23, 2020*
 {:.info}
 
