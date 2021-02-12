@@ -18,9 +18,10 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
     * [Talk Slides](talks/2021_02_04_IAIFI_Colloquium_Shanahan.pdf), [IAIFI Introduction Slides](talks/2021_02_04_IAIFI_Colloquium_Intro_Thaler.pdf)
     * Abstract:  The unifying theme of IAIFI is “ab-initio AI”: novel approaches to AI that that draw from, and are motivated by, aspects of fundamental physics. In this context, I will discuss opportunities for machine learning, in particular generative models, to accelerate first-principles lattice quantum field theory calculations in particle and nuclear physics. Particular challenges in this context include incorporating complex (gauge) symmetries into model architectures, and scaling models to the large number of degrees of freedom of state-of-the-art numerical studies. I will show the results of proof-of-principle studies that demonstrate that sampling from generative models can be orders of magnitude more efficient than traditional Hamiltonian/hybrid Monte Carlo approaches in this context.
 
-  * **Pulkit Agrawal**
+  * **Pulkit Agrawal** <img class="image" src="images/small-photo-pulkit-agrawal.jpg" align="right" hspace="20" vspace="20"/>
     * **Thursday, February 18, 12:30pm-1:30pm**
     * *"Challenges in Real World Reinforcement Learning"*
+    * Abstract: In recent years, reinforcement learning algorithms have achieved impressive results on many tasks. However, for most systems, RL algorithms still remain impractical. In this talk, I will discuss some of the underlying challenges: (i) defining and measuring reward functions; (ii) data inefficiency; (iii) poor transfer across tasks. I will end by discussing some directions pursued in my lab to overcome these problems. 
 
 
   * **Max Tegmark**
