@@ -54,7 +54,7 @@ These talks are only open to IAIFI members and affiliates.
     * **Thursday, February 11, 11am-noon**
     * *"Geometric Data Processing at MIT"*
 
-  * **Phil Harris and 8.S50 students**
+  * **Phil Harris, Anjali Nambrath, Karna Morey, Michal Szurek, Jade Chongsathapornpong**
     * **Thursday, February 25, 11am-noon**
     * *"Open Data Science in Physics Courses"*
 
