@@ -23,6 +23,11 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
     * *"Challenges in Real World Reinforcement Learning"*
 
 
+  * **Phil Harris, Anjali Nambrath, Karna Morey, Michal Szurek, Jade Chongsathapornpong**
+    * **Thursday, February 25, 11am-noon**
+    * *"Open Data Science in Physics Courses"*
+
+
   * **Max Tegmark**
     * **Thursday, March 4, 11am-noon**
     * *"Title: TBA"*
