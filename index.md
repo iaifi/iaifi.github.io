@@ -16,7 +16,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Events
 
-***Announcing the IAIFI Colloquium Series***:  On Thursday, February 4, 2021, we will launch a biweekly virtual colloquium series.  For the spring semester, we will showcase IAIFI researchers, starting with Phiala Shanahan and Pulkit Agrawal.  The full list of talks available on our [events page](events.html).
+***Announcing the IAIFI Colloquium Series:***  We recently launched our biweekly [virtual colloquium series](events.html)!  For the spring semester, we will showcase IAIFI researchers; see our [events page](events.html) for a full list of talks.  **The next talk is on Thursday, February 18, 2021, when Pulkit Agrawal will talk about "Challenges in Real World Reinforcement Learning".**  [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive the Zoom link.  If you missed Phiala Shanahan's colloquium, you can watch the recording on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 {:.success}
 
 
@@ -27,10 +27,13 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 
 ### IAIFI News
 
-***"Can a Computer Devise a Theory of Everything?"***:   Max Tegmark and Jesse Thaler weigh in on this provocative question in a [New York Times article](https://www.nytimes.com/2020/11/23/science/artificial-intelligence-ai-physics-theory.html) by Dennis Overbye, *November 23, 2020*
+***Bill Freeman Elected Member of National Academy of Engineering:***  "For contributions to computer vision and image enhancement."  [National Academy of Engineering](https://www.nae.edu/248499/National-Academy-of-Engineering-Elects-106-Members-and-23-International-Members), *February 9, 2021*
 {:.info}
 
-***AI for Cosmology***:  Read about Cora Dvorkin's work on using machine learning to study the structure of the universe, particularly subhalos of dark matter:  [Quanta Magazine](https://www.quantamagazine.org/harvard-cosmologist-cora-dvorkin-dreams-in-dark-matter-20201105/), [Harvard Gazette](https://news.harvard.edu/gazette/story/2020/11/harvard-physicist-works-to-understand-dark-matter/), *November 5, 2020*
+***"Can a Computer Devise a Theory of Everything?":***   Max Tegmark and Jesse Thaler weigh in on this provocative question in a [New York Times article](https://www.nytimes.com/2020/11/23/science/artificial-intelligence-ai-physics-theory.html) by Dennis Overbye, *November 23, 2020*
+{:.info}
+
+***AI for Cosmology:***  Read about Cora Dvorkin's work on using machine learning to study the structure of the universe, particularly subhalos of dark matter:  [Quanta Magazine](https://www.quantamagazine.org/harvard-cosmologist-cora-dvorkin-dreams-in-dark-matter-20201105/), [Harvard Gazette](https://news.harvard.edu/gazette/story/2020/11/harvard-physicist-works-to-understand-dark-matter/), *November 5, 2020*
 {:.info}
 
 ***Phiala Shanahan Wins 2020 Kenneth G. Wilson Award:*** "For excellence in the study of hadrons and nuclei in lattice QCD and for pioneering the application of machine learning and artificial intelligence techniques to lattice field theory."  [International Symposium on Lattice Field Theory](https://kwla.llnl.gov/), *October 23, 2020*
