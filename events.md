@@ -21,6 +21,8 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
   * **Pulkit Agrawal** <img class="image" src="images/small-photo-pulkit-agrawal.jpg" align="right" hspace="20" vspace="20"/>
     * **Thursday, February 18, 12:30pm-1:30pm** *Note special time!*
     * *"Challenges in Real World Reinforcement Learning"*
+    * [YouTube Recording](https://www.youtube.com/watch?v=1OSaTZB3WVY)
+    * [Talk Slides](talks/2021_02_18_IAIFI_Colloquium_Agrawal.pdf)
     * Abstract: In recent years, reinforcement learning (RL) algorithms have achieved impressive results on many tasks. However, for most systems, RL algorithms still remain impractical. In this talk, I will discuss some of the underlying challenges: (i) defining and measuring reward functions; (ii) data inefficiency; (iii) poor transfer across tasks. I will end by discussing some directions pursued in my lab to overcome these problems. 
 
 
