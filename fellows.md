@@ -9,7 +9,7 @@ We are pleased to announce our first round of IAIFI Fellows!  We are excited for
 
 ### Anna Golubeva
 
-<img class="image image--lg" src="images/photo-anna-golubeva.jpg" align="right" hspace="20" vspace="20"/>
+<img class="image image--lg" src="images/small-photo-anna-golubeva.jpg" align="right" hspace="20" vspace="20"/>
 
 **Research Interests**:  Anna Golubeva's main research focus is on developing a theory of deep learning using approaches from theoretical physics. Her goal is to contribute towards understanding the tools of AI and leveraging them to advance both AI and the physical sciences. Her projects include both the application of deep learning methods for quantum many-body problems, as well as a theory-based analysis of deep learning systems, exploiting approaches from information theory, statistical learning theory, and statistical physics. She is currently particularly interested in the subject of sparsity in neural networks.
 
@@ -17,7 +17,7 @@ We are pleased to announce our first round of IAIFI Fellows!  We are excited for
 
 ### Di Luo
 
-<img class="image image--lg" src="images/photo-di-lou.jpg" align="right" hspace="20" vspace="20"/>
+<img class="image image--lg" src="images/small-photo-di-lou.jpg" align="right" hspace="20" vspace="20"/>
 
 **Research Interests**:  Di Luo is working on research in the intersection of quantum many-body physics, quantum information science, and artificial intelligence. He is interested in understanding nature from the perspectives of information and computation as well as developing intelligence inspired by ideas from physics. Di Luo has been developing machine learning algorithms and quantum algorithms for condensed matter physics, high energy physics, and quantum information science.
 
@@ -26,7 +26,7 @@ We are pleased to announce our first round of IAIFI Fellows!  We are excited for
 
 ### Siddharth Mishra-Sharma
 
-<img class="image image--lg" src="images/photo-siddharth-mishra-sharma.jpg" align="right" hspace="20" vspace="20"/>
+<img class="image image--lg" src="images/small-photo-siddharth-mishra-sharma.jpg" align="right" hspace="20" vspace="20"/>
 
 **Research Interests**: Siddharth Mishra-Sharma is interested in developing novel statistical methods for accelerating the discovery of new physics in astrophysical and cosmological observations at all accessible scales. He is especially focused on developing analysis techniques based on machine learning that enable new ways of searching for signatures of physics beyond the Standard Model, in particular the nature of dark matter, using data from ongoing and upcoming cosmological surveys. Towards this end, Siddharth is interested in incorporating physical insights, symmetries, and laws into machine learning algorithms as well as extracting physical insights, symmetries, and laws using machine learning algorithms from noisy physics datasets.
 
@@ -35,7 +35,7 @@ We are pleased to announce our first round of IAIFI Fellows!  We are excited for
 
 ### Ge Yang
 
-<img class="image image--lg" src="images/photo-ge-yang.jpg" align="right" hspace="20" vspace="20"/>
+<img class="image image--lg" src="images/small-photo-ge-yang.jpg" align="right" hspace="20" vspace="20"/>
 
 **Research Interests**:  Ge Yang's research involves two sets of related problems. The first is to make distributed representation in a neural net generalizable by finding ways to automatically discover causal structures that are equivariant to symmetry transformations. The second is to solve key open problems in deep reinforcement learning, including exploration and ways to learn off-line from static datasets, using search and planning.
 
