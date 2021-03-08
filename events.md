@@ -28,6 +28,8 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
 
   * **Max Tegmark** <img class="image" src="images/small-photo-max-tegmark.jpg" align="right" hspace="20" vspace="20"/>
     * **Thursday, March 4, 11am-noon**
+    * [YouTube Recording](https://www.youtube.com/watch?v=WgY947vg_aY)
+    * [Talk Slides](talks/2021_03_04_IAIFI_Colloquium_Tegmark.pdf)
     * *"ML-discovery of equations, conservation laws and useful degrees of freedom"*
     * Abstract: A central goal of physics is to discover mathematical patterns in data. For example, after four years of analyzing data tables on planetary orbits, Johannes Kepler started a scientific revolution in 1605 by discovering that Mars' orbit was an ellipse. I describe how we can automate such tasks with machine learning and not only discover symbolic formulas accurately matching datasets (so-called symbolic regression), equations of motion and conserved quantities, but also auto-discover which degrees of freedom are most useful for predicting time evolution (for example, optimal generalized coordinates extracted from video data). The methods I present exploit numerous ideas from physics to recursively simplify neural networks, ranging from symmetries to differentiable manifolds, curvature and topological defects, and also take advantage of mathematical insights from knot theory and graph modularity.
 
