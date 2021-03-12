@@ -63,6 +63,7 @@ Here are other organizations that hold public events relevant to the IAIFI commu
 
   * [Physics Meets ML](http://www.physicsmeetsml.org/)
   * [CLARIPHY Topical Meetings](https://clariphy.org/topical.html)
+  * [Understand the Nature of Inference Colloquia](https://inferenceproject.yale.edu/colloquium-series)
 
 
 ## IAIFI Internal Seminars (Spring 2021)
