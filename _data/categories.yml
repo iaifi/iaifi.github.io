@@ -1,8 +1,21 @@
 categories:
-  - management
-  - senior-investigators
-#  - iaifi-fellows
-#  - postdocs
-#  - graduate-students
-#  - other-affiliates
-  
+  - management:
+    name: Management
+    type1: management
+    type2:
+    type3:
+  - senior-investigators:
+    name: Senior Investigators
+    type1: senior-investigators
+    type2:
+    type3:
+  - post-docs:
+    name: IAIFI Fellows, Research Scientists, and Post-Docs
+    type1: iaifi-fellows
+    type2: postdocs
+    type3:
+  - students:
+    name: Students
+    type1: graduate-students
+    type2:
+    type3:
