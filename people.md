@@ -6,6 +6,12 @@ title: People
 
 The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, Northeastern, and Tufts.
 
+{% for category in site.data.categories.categories  %}
+
+  * [{{category.name}}](#{{category.anchor}})
+
+{% endfor %}
+
 
 {% for category in site.data.categories.categories  %}
 

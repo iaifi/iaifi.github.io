@@ -1,21 +1,25 @@
 categories:
   - management:
     name: Management
+    anchor: management
     type1: management
     type2:
     type3:
   - senior-investigators:
     name: Senior Investigators
+    anchor: senior-investigators
     type1: senior-investigators
     type2:
     type3:
   - post-docs:
-    name: IAIFI Fellows, Research Scientists, and Post-Docs
+    name: IAIFI Fellows, Post-Docs, and Research Scientists
+    anchor: iaifi-fellows-post-docs-and-research-scientists
     type1: iaifi-fellows
     type2: postdocs
     type3:
   - students:
     name: Students
+    anchor: students
     type1: graduate-students
     type2:
     type3:
