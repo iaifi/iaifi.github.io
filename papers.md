@@ -3,9 +3,9 @@ layout: article
 title: IAIFI Papers
 ---
 
-
-{% for product in site.data.products  %}
-{% assign paper = product[1] %}
+{% assign products = site.data.products | sort | reverse %}
+{% for product in products %}
+{% assign paper = product %}
 {% if paper.type == "paper" %}
 ***{{paper.title}}*** <br>
 {{paper.authors}} <br>

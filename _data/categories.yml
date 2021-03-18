@@ -15,11 +15,11 @@ categories:
     name: IAIFI Fellows, Post-Docs, and Research Scientists
     anchor: iaifi-fellows-post-docs-and-research-scientists
     type1: iaifi-fellows
-    type2: postdocs
-    type3:
+    type2: research-scientists
+    type3: postdocs
   - students:
     name: Students
     anchor: students
     type1: graduate-students
-    type2:
-    type3:
+    type2: postbac
+    type3: undergrad-students
