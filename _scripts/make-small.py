@@ -11,3 +11,4 @@ for filename in os.listdir("."):
 os.system('sips -c 200 200 small-photo-georgios-valogiannis.jpg')
 os.system('sips -c 190 200 small-photo-rumen-dangovski.jpg')
 os.system('sips -c 200 200 small-photo-dimitra-pefkou.jpg')
+os.system('sips -c 200 200 small-photo-cristiano-fanelli.jpg')

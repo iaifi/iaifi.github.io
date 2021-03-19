@@ -12,6 +12,8 @@ The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, North
 
 {% endfor %}
 
+We are also currently accepting applications from researchers in both academia and industry to become IAIFI Affiliates. If you are interested in becoming an IAIFI Affiliate, see our [IAIFI Affiliates Application Form](/affiliates.html).
+
 
 {% for category in site.data.categories.categories  %}
 
@@ -35,7 +37,7 @@ The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, North
   {% for member in personnel  %}
      {% assign person = site.data.people[member] %}
      <div class="card" style="width: 17rem; height: 27rem; justify-content: center;">
-         <img class="card-img-top" src="{{person.photo}}" alt="{{person.name}}" height="210rem">
+         <img class="card-img-top" src="{{person.photo}}" alt="{{person.name}}" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          <a href="{{person.website}}">{{person.name}}</a>
