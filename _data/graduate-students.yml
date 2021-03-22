@@ -1,11 +1,17 @@
 name: Graduate Students
 personnel:
   - polina-abratenko
+  - arthur-avkhadiev
   - samuel-alipour-fard
   - floor-broekgaarden
+  - rumen-dangovski
   - arkopal-dutt
   - rikab-gambhir
   - dhruva-ganapathy
+  - jasmine-gill
+  - sebastian-gomez
+  - mark-hamilton
+  - zhangwei-hong
   - gurtej-kanwar
   - ouail-kitouni
   - patrick-komiske
@@ -15,20 +21,21 @@ personnel:
   - peter-lu
   - andrew-ma
   - anindita-maiti
+  - silviu-marian-udrescu
   - john-martyn
   - katie-mason
   - joshua-mills
   - tri-nguyen
-  - curtis-northcutt
+  #- curtis-northcutt
   - sangeon-park
   - dimitra-pefkou
-  - rumen-dangovski
   - andrew-saydjari
-  - caga-sengul
+  - cagan-sengul
   - michael-skuhersky
   - keegan-stoner
-  - yitia-sun
+  - yitian-sun
   - andrew-tan
   - arthur-tsang
   - constantin-weisser
   - chris-whittle
+  - xiyu-zhai

@@ -16,7 +16,11 @@ header:
     url: /people.html
 
   - title: Research
-    url: /research.html
+    subtitles:
+      - title: Themes
+        url: /research.html
+      - title: Papers
+        url: /papers.html 
 
   - title: Fellows
     url: /fellows.html
