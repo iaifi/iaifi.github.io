@@ -3,7 +3,7 @@ iaifi-thrust: E
 title: "Quasi Anomalous Knowledge: Searching for new physics with embedded knowledge"
 authors: Sang Eon Park, Dylan Rankin, Silviu-Marian Udrescu, Mikaeel Yunus, Philip Harris
 abstract: Discoveries of new phenomena often involve a dedicated search for a hypothetical physics signature. Recently, novel deep learning techniques have emerged for anomaly detection in the absence of a signal prior. However, by ignoring signal priors, the sensitivity of these approaches is significantly reduced. We present a new strategy dubbed Quasi Anomalous Knowledge (QUAK), whereby we introduce alternative signal priors that capture some of the salient features of new physics signatures, allowing for the recovery of sensitivity even when the alternative signal is incorrect. This approach can be applied to a broad range of physics models and neural network architectures. In this paper, we apply QUAK to anomaly detection of new physics events at the CERN Large Hadron Collider utilizing variational autoencoders with normalizing flow.
-arxiv: 2011.03550
+arxiv: "2011.03550"
 journal:
 doi:
 nsf-par:
