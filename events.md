@@ -37,7 +37,7 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
   * **Phil Harris**  <img class="image" src="images/small-photo-philip-harris.jpg" align="right" hspace="20" vspace="20"/>
     * **Thursday, March 18, 11am-noon**
     * [YouTube Recording](https://www.youtube.com/watch?v=9_vNh09qqmw&feature=youtu.be)
-    * [Talk Slides](talks/2021_03_04_IAIFI_Colloquium_Harris.pdf)
+    * [Talk Slides](talks/2021_03_18_IAIFI_Colloquium_Harris.pdf)
     * *"Quick and Quirk with Quarks: Ultrafast AI with Real-Time systems and Anomaly detection For the LHC and beyond"*
     * Abstract: With data rates rivaling 1 petabit/s, the LHC detectors have some of the largest data rates in the world. If we were to save every collision to disk, we would exceed the world's storage by many orders of magnitude. As a consequence, we need to analyze the data in real-time. In this talk, we will discuss new technology that allows us to be able to deploy AI algorithms at ultra-low latencies to process information at the LHC at incredible speeds. Furthermore, we comment on how this can change the nature of real-time systems across many domains, including Gravitational Wave Astrophysics. In addition to real-time AI, we present new ideas on anomaly detection that builds on recent developments in the field of semi-supervised learning. We show that these ideas are quickly opening up possibilities for a new class of measurements at the LHC and beyond. 
 
