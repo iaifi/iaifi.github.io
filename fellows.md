@@ -17,7 +17,7 @@ We are pleased to announce our first round of IAIFI Fellows!  We are excited for
 
 ### Di Luo
 
-<img class="image image--lg" src="images/small-photo-di-lou.jpg" align="right" hspace="20" vspace="20"/>
+<img class="image image--lg" src="images/small-photo-di-luo.jpg" align="right" hspace="20" vspace="20"/>
 
 **Research Interests**:  Di Luo is working on research in the intersection of quantum many-body physics, quantum information science, and artificial intelligence. He is interested in understanding nature from the perspectives of information and computation as well as developing intelligence inspired by ideas from physics. Di Luo has been developing machine learning algorithms and quantum algorithms for condensed matter physics, high energy physics, and quantum information science.
 
