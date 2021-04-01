@@ -20,11 +20,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 {:.success}
 
 
+<!---
 ### IAIFI Jobs
-
-***IAIFI Project Manager:***  We are looking to hire a [Project Manager](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=19918&localeCode=en-us) to help coordinate and plan the IAIFI activities.  (Best wishes to our outgoing Project Manager, Melody Abedinejad, in the next phase of her career!)
-{:.success}
-
+-->
 
 ### Subscribe to IAIFI News
 
