@@ -16,15 +16,13 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Events
 
-***Announcing the IAIFI Colloquium Series:***  We recently launched our biweekly [virtual colloquium series](events.html)!  For the spring semester, we will showcase IAIFI researchers; see our [events page](events.html) for a full list of talks.  **The next talk is on Thursday, March 18, 2021, when Phil Harris will talk about "Quick and Quirk with Quarks: Ultrafast AI with Real-Time systems and Anomaly detection For the LHC and beyond".**  [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive the Zoom link.  If you missed any of the previous colloquia, you can watch the recordings on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
+***Announcing the IAIFI Colloquium Series:***  We recently launched our biweekly [virtual colloquium series](events.html)!  For the spring semester, we will showcase IAIFI researchers; see our [events page](events.html) for a full list of talks.  **The next talk is on Thursday, April 1, 2021, when Doug Finkbeiner will talk about "Beyond the Gaussian: A Higher-Order Correlation Statistic for the Interstellar Medium."**  [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive the Zoom link.  If you missed any of the previous colloquia, you can watch the recordings on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 {:.success}
 
 
+<!---
 ### IAIFI Jobs
-
-***IAIFI Project Manager:***  We are looking to hire a [Project Manager](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=19918&localeCode=en-us) to help coordinate and plan the IAIFI activities.  (Best wishes to our outgoing Project Manager, Melody Abedinejad, in the next phase of her career!)
-{:.success}
-
+-->
 
 ### Subscribe to IAIFI News
 
