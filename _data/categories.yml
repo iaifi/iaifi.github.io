@@ -23,3 +23,9 @@ categories:
     type1: graduate-students
     type2: postbac
     type3: undergrad-students
+  - affiliates:
+    name: IAIFI Affiliates
+    anchor:  iaifi-affiliates
+    type1: affiliates
+    type2:
+    type3:
