@@ -44,6 +44,7 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
   * **Doug Finkbeiner** <img class="image" src="images/small-photo-doug-finkbeiner.jpg" align="right" hspace="20" vspace="20"/>
     * **Thursday, April 1, 11am-noon**
     * *"Beyond the Gaussian: A Higher-Order Correlation Statistic for the Interstellar Medium"*
+    * [Talk Slides](talks/2021_04_01_IAIFI_Colloquium_Finkbeiner.pdf)
     * [YouTube Recording](https://www.youtube.com/watch?v=t28zEQWWgFc)
     * Abstract: Our project to map Milky Way dust has produced 3-D maps of dust density and precise cloud distances, leading to the discovery of the structure known as the Radcliffe Wave.  However, these advances have not yet allowed us to do something the CMB community takes for granted: read physical model parameters off of the observed density patterns.  The CMB is (almost) a Gaussian random field, so the power spectrum contains the information needed to constrain cosmological parameters.  In contrast, dust clouds and filaments require higher-order correlation statistics to capture relevant information. I will present a statistic based on the wavelet scattering transform (WST) that captures essential features of ISM turbulence in MHD simulations, and maps them onto physical parameters.  This statistic is light-weight (easy to understand and fast to evaluate) and provides a framework for comparing ISM theory and observation in a rigorous way. 
 
