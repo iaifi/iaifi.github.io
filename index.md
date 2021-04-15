@@ -16,7 +16,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Events
 
-***Announcing the IAIFI Colloquium Series:***  We recently launched our biweekly [virtual colloquium series](events.html)!  For the spring semester, we will showcase IAIFI researchers; see our [events page](events.html) for a full list of talks.  **The next talk is on Thursday, April 15, 2021, when Demba Ba will talk about "Interpretable AI in Neuroscience: Sparse Coding, Artificial Neural Networks, and the Brain."**  [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive the Zoom link.  If you missed any of the previous colloquia, you can watch the recordings on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
+***Announcing the IAIFI Colloquium Series:***  We recently launched our biweekly [virtual colloquium series](events.html)!  For the spring semester, we will showcase IAIFI researchers; see our [events page](events.html) for a full list of talks.  **The next talk is on Thursday, April 29, 2021, when Jim Halverson will talk about "ML for Ab Initio Data: A Tour of Knots and Natural Language."**  [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive the Zoom link.  If you missed any of the previous colloquia, you can watch the recordings on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 {:.success}
 
 
