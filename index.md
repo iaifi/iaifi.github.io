@@ -31,6 +31,9 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 
 ### IAIFI News
 
+***IAIFI Senior Investigators Present at EmTech Digital Conference 2021:*** Watch Jesse Thaler, Phiala Shanahan, and Pulkit Agrawal present Master Classes for MIT Technology Review's EmTech Digital Conference 2021: [IAIFI Master Classes on YouTube](https://youtube.com/playlist?list=PLBY0ED2StbGZV9_8FDiBRdWCr1AZeW9FN), *April 20, 2021*
+{:.info}
+
 ***Bill Freeman Elected Member of National Academy of Engineering:***  "For contributions to computer vision and image enhancement."  [National Academy of Engineering](https://www.nae.edu/248499/National-Academy-of-Engineering-Elects-106-Members-and-23-International-Members), *February 9, 2021*
 {:.info}
 
