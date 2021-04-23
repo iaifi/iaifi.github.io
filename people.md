@@ -39,7 +39,11 @@ We are currently accepting applications from researchers in both academia and in
          <img class="card-img-top" src="{{person.photo}}" alt="{{person.name}}" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
+         {% if person.website %}
          <a href="{{person.website}}">{{person.name}}</a>
+         {% else %}
+         {{person.name}}
+         {% endif %}
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> {{person.title}} </em> <br>
