@@ -41,4 +41,5 @@ The goal of the IAIFI is to develop and deploy the next generation of AI technol
 
 ####  Contact
 
-  * Email [IAIFI Management](mailto:iaifi-management@mit.edu)   
+  * Email [IAIFI Management](mailto:iaifi-management@mit.edu)
+  * [GRID page](https://grid.ac/institutes/grid.510603.1) (Note: Page name is in the process of being corrected to "The NSF AI Institute for Artificial Intelligence and Fundamental Interactions")
