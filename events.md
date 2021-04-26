@@ -100,9 +100,9 @@ These talks are only open to IAIFI members and affiliates.
     * **Thursday, April 22, 11am-noon**
     * *"Ethics and AI"*
         
-  * **Isaac Chuang**
+  * **Alexander Rakhlin**
     * **Thursday, May 6, 11am-noon**
-    * *"Quantum Computation and Machine Learning"*
+    * *"Deep Learning: A Statistical Viewpoint"*
         
   * **Edo Berger**
     * **Thursday, May 20, 11am-noon**
