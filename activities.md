@@ -15,6 +15,3 @@ This page is under construction. Efforts in this area include creating an interd
 * [NSF AI Institute for Student-AI Teaming (iSAT)](https://www.colorado.edu/research/ai-institute/), University of Colorado Boulder
 * [USDA-NIFA AI Institute for Future Agricultural Resilience, Management, and Sustainability (AIFARMS)](https://digitalag.illinois.edu/research/aifarms/), University of Illinois at Urbana-Champaign
 * [Molecule Maker Lab Institute: NSF AI Institute for Molecular Discovery, Synthetic Strategy, and Manufacturing (MMLI)](https://moleculemaker.org), University of Illinois at Urbana-Champaign
-
-
-*The IAIFI is anchored in the [Laboratory for Nuclear Science](https://web.mit.edu/lns/) at MIT.*

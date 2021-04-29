@@ -29,6 +29,8 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (I
 
 The goal of the IAIFI is to develop and deploy the next generation of AI technologies, based on the transformative idea that artificial intelligence can directly incorporate physics intelligence.  IAIFI researchers will use these new AI technologies to tackle some of the most challenging problems in physics, from precision calculations of the structure of matter, to gravitational wave detection of merging black holes, to the extraction of new physical laws from noisy data. IAIFI researchers will also transfer these technologies to the broader AI community, since trustworthy AI is as important for physics discovery as it is for other applications of AI in society. To cultivate human intelligence, the IAIFI will promote training, education, and outreach at the intersection of physics and AI. In this way, the IAIFI will advance physics knowledge – from the smallest building blocks of nature to the largest structures in the Universe – and galvanize AI research innovation.
 
+*The IAIFI is anchored in the [Laboratory for Nuclear Science](https://web.mit.edu/lns/) at MIT.*
+
 #### Graphics
 
   * IAIFI Logo (Transparent Background):  [Black](images/iaifi-logo-black.pdf),  [White](images/iaifi-logo-white.pdf)
