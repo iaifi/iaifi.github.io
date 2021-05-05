@@ -3,8 +3,8 @@ iaifi-thrust: T
 title: "Topological obstructions to autoencoding"
 authors: Joshua Batson, C. Grace Haaf, Yonatan Kahn, Daniel A. Roberts
 abstract: Autoencoders have been proposed as a powerful tool for model-independent anomaly detection in high-energy physics. The operating principle is that events which do not belong to the space of training data will be reconstructed poorly, thus flagging them as anomalies. We point out that in a variety of examples of interest, the connection between large reconstruction error and anomalies is not so clear. In particular, for data sets with nontrivial topology, there will always be points that erroneously seem anomalous due to global issues. Conversely, neural networks typically have an inductive bias or prior to locally interpolate such that undersampled or rare events may be reconstructed with small error, despite actually being the desired anomalies. Taken together, these facts are in tension with the simple picture of the autoencoder as an anomaly detector. Using a series of illustrative low-dimensional examples, we show explicitly how the intrinsic and extrinsic topology of the dataset affects the behavior of an autoencoder and how this topology is manifested in the latent space representation during training. We ground this analysis in the discussion of a mock "bump hunt" in which the autoencoder fails to identify an anomalous "signal" for reasons tied to the intrinsic topology of n-particle phase space.
-arxiv: 2102.08380
-journal: Journal of High Energy Physics
+arxiv: "2102.08380"
+journal: Journal of High Energy Physics, 2021, Issue 4, Article 280
 doi: https://doi.org/10.1007/JHEP04(2021)280
 nsf-par:
 code:
