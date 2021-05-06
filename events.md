@@ -59,6 +59,7 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
   * **Jim Halverson** <img class="image" src="images/small-photo-jim-halverson.jpg" align="right" hspace="20" vspace="20"/>
     * **Thursday, April 29, 11am-noon**
     * *"ML for Ab Initio Data: A Tour of Knots and Natural Language"*
+    * [Talk Slides](talks/2021_04_29_IAIFI_Colloquium_Halverson.pdf)
     * [YouTube Recording](https://youtu.be/aFBQ-ODkGuk)
     * Abstract: Most applications of ML are applied to experimental data collected on Earth, rather than theoretical or mathematical datasets that have ab initio definitions, such as groups, topological classes of manifolds, or chiral gauge theories. Such mathematical landscapes are characterized by a high degree of structure and truly big data, including continuous or discrete infinite sets or finite sets larger than the number of particles in the visible universe. After introducing ab initio data, we will focus on one such dataset: mathematical knots, which admit a treatment using techniques from natural language processing via their braid representatives. Elements of knot theory will be introduced, including the use of ML for various problems that arise in it. For instance, reinforcement learning can be utilized to unknot complicated representations of trivial knots, similar to untangling headphones, but we will also use transformers for the unknot decision problem, as well as treating the general topological problem.
   
