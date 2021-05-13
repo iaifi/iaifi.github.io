@@ -3,7 +3,6 @@ layout: article
 title: Code of Conduct and Resources
 ---
 
-{:.info}
 ## IAIFI Code of Conduct
 
 Regardless of their position or seniority, members of the IAIFI and participants in IAIFI activities are expected to:
@@ -18,6 +17,7 @@ Furthermore, members of the IAIFI and participants in IAIFI activities may not e
 See below for instructions on [reporting violations](#reporting-violations-to-the-code-of-conduct), [definitions of terms](#definitions), and [links to resources](#reporting-resources).
 {:.info}
 
+## Resources
 * [Reporting Violations to the Code of Conduct](#reporting-violations-to-the-code-of-conduct)
     - [Process](#process)
     - [Confidentiality](#confidentiality)
@@ -26,15 +26,15 @@ See below for instructions on [reporting violations](#reporting-violations-to-th
 * [Institutional Harassment and Discrimination Policies](#institutional-harassment-and-discrimination-policies)
 * [Definitions](#definitions)
 
-## Reporting Violations to the Code of Conduct
+### Reporting Violations to the Code of Conduct
 
-### Process
+#### Process
 
-Reports of Code of Conduct (CoC) violations may be made to the IAIFI management and board directly, or to any member of the Early Career and Equity Committee (ECEC). The emails and positions of ECEC members are listed below. ECEC members do not provide counseling or support services; their role in this context is to direct complainants to available resources, including providing a reporting channel to the IAIFI management and board.
+Reports of Code of Conduct (CoC) violations may be made to the IAIFI management and board directly, or to any member of the Early Career and Equity Committee (ECEC). The emails and positions of ECEC members are listed below. ECEC members do not provide counseling or support services; their role in this context is to direct complainants to available resources, including providing a reporting channel to the IAIFI management and board. You may also submit fully anonymous reports via the general [IAIFI suggestion/feedback form](https://docs.google.com/forms/d/1HcWQ5qw4jDWTao00PG8wQAutmih2WIqj2FUyzPOLksc/edit); however, note that IAIFI management and board may be limited in their ability to investigate complaints that do not contain personal identifying information.
 
 Once a CoC violation is reported to the IAIFI management and board, they will work to address it in conjunction with the human resources administration(s) of the relevant institution(s). Consequences for CoC violations may include a verbal or written warning, removal from IAIFI events, loss of IAIFI membership privileges, reporting to the relevant university offices, or other remedies as appropriate.
 
-### Confidentiality
+#### Confidentiality
 
 Information provided to individual members of the ECEC will be shared with the full committee, although complainants may request that their identity not be shared. In general, conversations with ECEC members are private, in the sense described [here](https://facultyguide.mit.edu/section-3/confidential-vs-private-resources), rather than confidential.
 
@@ -42,18 +42,19 @@ That is, the ECEC “will usually keep the conversation undisclosed (if requeste
 
 Whenever possible, ECEC members will ask complainants for permission and/or inform complainants of where their information will go next, before the complaint is shared outside the ECEC. In particular, the ECEC will not directly notify a person accused of violating the CoC of the complaint against them. However, once a report leaves the ECEC, the existence and content of the complaint may be shared by institutional officials as part of the reporting and resolution process.
 
-### Clarification on Mandatory Reporting to Title IX Offices
+#### Clarification on Mandatory Reporting to Title IX Offices
 
 Faculty and postdoc members of the IAIFI Board and ECEC are generally responsible employees under Title IX, meaning they may be required to inform their institutional Title IX offices if they learn of incidents of gender-based discrimination including sexual misconduct, sexual harassment, intimate partner violence, and stalking. The ECEC as a whole has similar reporting obligations. Graduate student members of ECEC are generally not responsible employees, but if in doubt, ask before disclosing information that you do not want shared; note that information about incidents given to any ECEC member will be shared with the full ECEC (with the complainant’s identity removed, if requested), which may impose reporting obligations. Reporting to an institutional Title IX office (either by a complainant directly or via a third party) will not generally trigger an automatic formal investigation. However, for detailed and up-to-date policies on how Title IX offices respond to complaints at the various IAIFI institutions, please consult their websites listed below.
 
-## Reporting Resources
+### Reporting Resources
 
-### Current ECEC Membership:
+#### Current ECEC Membership:
 * Faculty: Tracy Slatyer \(MIT, Chair\), [Email](mailto:tslatyer@mit.edu); Edo Berger \(Harvard\), [Email](mailto:eberger@cfa.harvard.edu)
 * Postdocs/Fellows: Harold Erbin \(MIT\), [Email](mailto:erbin@mit.edu); Siddharth Mishra-Sharma \(MIT\), [Email](mailto:siddharthmishra19@gmail.com)
 * PhD Students: Katie Fraser \(Harvard\), [Email](mailto:kfraser@g.harvard.edu); Kiranjyot \(Jasmine\) Gill \(Harvard\), [Email](mailto:kiranjyot.gill@cfa.harvard.edu); Anindita Maiti \(Northeastern\), [Email](mailto:maiti.a@northeastern.edu)
 
-### Resources for Discrimination/Harassment based on Protected Categories \(Not Confidential\)
+#### Resources for Discrimination/Harassment based on Protected Categories 
+*\(Not Confidential\)*
 * MIT: [Institute Discrimination & Harassment Response Office](https://idhr.mit.edu/); Sarah Rankin, [Email](mailto:idhr@mit.edu); 617-324-7526
 * Tufts: [Office of Equal Opportunity](https://oeo.tufts.edu); Jill Zelmer, [Email](mailto:oeo@tufts.edu); 617-627-3298
 * Northeastern: [Office for University Equity and Compliance](https://www.northeastern.edu/ouec); Mark Jannoni, [Email](mailto:ouec@northeastern.edu) or [Title IX Email](mailto:titleix@northeastern.edu); 617-373-4644
@@ -66,25 +67,26 @@ Faculty and postdoc members of the IAIFI Board and ECEC are generally responsibl
 Detailed policies on how the Title IX offices respond to complaints at the various IAIFI institutions can be found at:  
 [MIT](https://idhr.mit.edu/reporting-options) \| [Tufts](https://oeo.tufts.edu/policies-procedures/title-ix-policy) \| [Northeastern](https://www.northeastern.edu/policies/pdfs/Policy_on_Rights_and_Responsibilities_Under_Title_IX.pdf) \| [Harvard](https://titleix.harvard.edu/policies-procedures)
 
-### Ombuds Resources (Confidential)
+#### Ombuds Resources
+*(Confidential)*
 * [MIT](https://ombudsoffice.mit.edu); Kalina Schloneger, [Email](mailto:kalina_s@mit.edu); 617-253-5921
 * [Tufts](https://oeo.tufts.edu/contact-us)
 * [Northeastern](https://graduateombuds.northeastern.edu); Dr. Kimberly Wong, [Email](mailto:graduateombuds@northeastern.edu); 617-373-6904
 * [Harvard](https://ombudsman.harvard.edu); [Email](university_ombudsman@harvard.edu); 617-495-7748
 
-### Confidential Resources for Sexual Assault/Violence
+#### Confidential Resources for Sexual Assault/Violence
 * MIT: [Violence Prevention and Response](https://studentlife.mit.edu/vpr)
 * Tufts: [Counseling and Mental Health](https://students.tufts.edu/health-and-wellness/counseling-and-mental-health)
 * Northeastern: [Sexual Violence Resource Center](https://studentlife.northeastern.edu/open/meet/sexual-violence-resource-center)
 * Harvard: [Office of Sexual Assault Prevention and Response](https://osapr.harvard.edu)
 
-### Mental Health and Counseling Resources
+#### Mental Health and Counseling Resources
 [MIT](https://medical.mit.edu/my-mit/parents/mental-health-resources) \| [Tufts](https://students.tufts.edu/health-and-wellness/counseling-and-mental-health) \| [Northeastern](https://www.northeastern.edu/uhcs/counseling-services) \| [Harvard](https://camhs.huhs.harvard.edu)
 
-## Institutional Harassment and Discrimination Policies
+### Institutional Harassment and Discrimination Policies
 [MIT](https://policies.mit.edu/policies-procedures/90-relations-and-responsibilities-within-mit-community) \| [Tufts](https://oeo.tufts.edu/policies-procedures/) \| [Northeastern](https://www.northeastern.edu/ouec/title-ix-policy-2/) \| [Harvard](https://titleix.harvard.edu/policies-procedures) \| [NSF](https://www.nsf.gov/od/odi/harassment.jsp)
 
-## Definitions
+### Definitions
 
 The Code of Conduct uses several phrases which may need further explanation; a list of relevant resources is provided here. These definitions are not intended to be authoritative and watertight, especially when applied to contexts outside the IAIFI: they are provided only as guidance to clarify the meaning of the IAIFI Code of Conduct.
 
@@ -104,7 +106,7 @@ The Code of Conduct uses several phrases which may need further explanation; a l
 : Discrimination occurs when a person is subject to negative or adverse treatment that denies or limits the individual’s ability to obtain educational benefits or interferes with the work environment, based on one or more of the protected characteristics described in the IAIFI Code of Conduct and institutional anti-discrimination policies. \([Source](https://www.northeastern.edu/ouec/definitions), slightly modified for the IAIFI context\)
 
 *harassment*
-: Harassment is defined as unwelcome conduct of a verbal, nonverbal or physical nature that is sufficiently severe or pervasive to create a work or academic environment that a reasonable person would consider intimidating, hostile, or abusive and that adversely affects an individual’s educational, work, or living environment. \([Source](https://policies.mit.edu/policies-procedures/90-relations-and-responsibilities-within-mit-community/94-harassment)\)
+: Harassment is defined as words, conduct, or action (usually repeated or persistent) that, being directed at a specific person, annoys, alarms, or causes substantial emotional distress in that person and serves no legitimate purpose. \([Source](https://www.nsf.gov/od/odi/promising_practices/definitions.jsp)\)
 
 *bullying*
 : Bullying occurs when someone intentionally and repeatedly causes another person injury or discomfort. Bullying can take the form of physical contact, words or more subtle actions. \([Source](https://www.apa.org/topics/bullying)\) Typical examples of workplace bullying are discussed in [this document](http://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=5402).
