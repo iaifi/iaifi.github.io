@@ -68,10 +68,10 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
 
 Here are other organizations that hold public events relevant to the IAIFI community:
 
-  * [MIT Stochastics and Statistics Seminars presented by the MIT Statistics and Data Science Center](https://stat.mit.edu/seminars/)
   * [Physics Meets ML](http://www.physicsmeetsml.org/)
   * [CLARIPHY Topical Meetings](https://clariphy.org/topical.html)
   * [Understanding the Nature of Inference Colloquia](https://inferenceproject.yale.edu/colloquium-series)
+  * [Stochastics and Statistics Seminars presented by the MIT Statistics and Data Science Center](https://stat.mit.edu/seminars/)
 
 
 ## IAIFI Internal Seminars (Spring 2021)
