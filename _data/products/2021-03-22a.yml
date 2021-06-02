@@ -4,7 +4,7 @@ title: Modern Machine Learning and Particle Physics
 authors: Matthew D. Schwartz
 abstract: Over the past five years, modern machine learning has been quietly revolutionizing particle physics. Old methodology is being outdated and entirely new ways of thinking about data are becoming commonplace. This article will review some aspects of the natural synergy between modern machine learning and particle physics, focusing on applications at the Large Hadron Collider. A sampling of examples is given, from signal/background discrimination tasks using supervised learning to direct data-driven approaches. Some comments on persistent challenges and possible future directions for the field are included at the end.
 arxiv: 2103.12226
-journal:
-doi:
+journal: Harvard Data Science Review, 2021, Issue 3.2, 13 May
+doi: https://doi.org/10.1162/99608f92.beeb1183
 nsf-par:
 code:
