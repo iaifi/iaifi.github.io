@@ -36,7 +36,7 @@ Once a CoC violation is reported to the IAIFI management and board, they will wo
 
 #### Confidentiality
 
-Information provided to individual members of the ECEC will be shared with the full committee, although complainants may request that their identity not be shared. In general, conversations with ECEC members are private, in the sense described [here](https://facultyguide.mit.edu/section-3/confidential-vs-private-resources), rather than confidential.
+Information provided to individual members of the ECEC will be shared with an ECEC faculty or staff member (typically the chair), and depending on circumstances may be shared with the full committee, although complainants may request that their identity not be shared. In general, conversations with ECEC members are private, in the sense described [here](https://facultyguide.mit.edu/section-3/confidential-vs-private-resources), rather than confidential.
 
 That is, the ECEC “will usually keep the conversation undisclosed (if requested), but, depending on the circumstances, information may need to be shared with other Institute officials. Information needs to be shared in cases of sexual misconduct, hazing, serious concern about health and safety, or when the law requires a release of information. In such cases, information will be shared with the relevant parties who can assist with responding to the situation.” For example, this could involve reporting to the Title IX office of the relevant institution.
 
@@ -142,4 +142,4 @@ The Code of Conduct uses several phrases which may need further explanation; a l
 : The Code of Conduct bars discrimination based on someone’s religion; this also covers discrimination based on other sincerely held religious, ethical, or moral beliefs \(as defined [here](https://www.eeoc.gov/religious-discrimination)\).
 
 *veteran status*
-: Whether someone has formerly served in the military or intends to serve in the military. 
+: The Code of Conduct bars discrimination based on whether someone is serving, has formerly served, or intends to serve in the (United States) military. 
