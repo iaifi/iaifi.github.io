@@ -9,7 +9,7 @@ title: IAIFI Papers
 {% if paper.type == "paper" %}
 ***{{paper.title}}*** <br>
 {{paper.authors}} <br>
-{%if paper.doi %} [{{paper.journal}}]({{paper.doi}}) {% endif %}[ {% if paper.arxiv %} [arXiv:{{paper.arxiv}}](https://arxiv.org/abs/{{paper.arxiv}}) {% endif %} {% if paper.code %} | [code]({{paper.code}}) {% endif %} ]
+{%if paper.doi %} [{{paper.journal}}]({{paper.doi}}) {% elsif paper.alt-url %} [{{paper.alt-url}}]({{paper.alt-url}}) {% endif %}[ {% if paper.arxiv %} [arXiv:{{paper.arxiv}}](https://arxiv.org/abs/{{paper.arxiv}}) {% endif %} {% if paper.code %} | [code]({{paper.code}}) {% endif %} ]
 <div style = "position:relative; top:-1em;" >
 <details>
 <summary>Abstract</summary>
