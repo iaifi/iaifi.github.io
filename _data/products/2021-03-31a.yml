@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: E
+iaifi-thrust: A
 title: "Why is AI hard and Physics simple?"
 authors: Daniel A. Roberts
 abstract: We discuss why AI is hard and why physics is simple. We discuss how physical intuition and the approach of theoretical physics can be brought to bear on the field of artificial intelligence and specifically machine learning. We suggest that the underlying project of machine learning and the underlying project of physics are strongly coupled through the principle of sparsity, and we call upon theoretical physicists to work on AI as physicists. As a first step in that direction, we discuss an upcoming book on the principles of deep learning theory that attempts to realize this approach.
