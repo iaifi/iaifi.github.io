@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: A
+iaifi-thrust: TA
 title: "AI Poincaré: Machine Learning Conservation Laws from Trajectories"
 authors: Ziming Liu and Max Tegmark
 abstract: We present AI Poincaré, a machine learning algorithm for auto-discovering conserved quantities using trajectory data from unknown dynamical systems. We test it on five Hamiltonian systems, including the gravitational 3-body problem, and find that it discovers not only all exactly conserved quantities, but also periodic orbits, phase transitions and breakdown timescales for approximate conservation laws.
@@ -8,3 +8,4 @@ journal: Physical Review Letters, 2021, Volume 126, Issue 18, Article 180604
 doi: https://doi.org/10.1103/PhysRevLett.126.180604
 nsf-par:
 code:
+publication-date: 2021-05-06

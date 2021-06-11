@@ -4,7 +4,8 @@ title: Learning to Unknot
 authors: Sergei Gukov, James Halverson, Fabian Ruehle, and Piotr Sułkowski
 abstract: We introduce natural language processing into the study of knot theory, as made natural by the braid word representation of knots. We study the UNKNOT problem of determining whether or not a given knot is the unknot. After describing an algorithm to randomly generate $N$-crossing braids and their knot closures and discussing the induced prior on the distribution of knots, we apply binary classification to the UNKNOT decision problem. We find that the Reformer and shared-QK Transformer network architectures outperform fully-connected networks, though all perform well. Perhaps surprisingly, we find that accuracy increases with the length of the braid word, and that the networks learn a direct correlation between the confidence of their predictions and the degree of the Jones polynomial. Finally, we utilize reinforcement learning (RL) to find sequences of Markov moves and braid relations that simplify knots and can identify unknots by explicitly giving the sequence of unknotting actions. Trust region policy optimization (TRPO) performs consistently well for a wide range of crossing numbers and thoroughly outperformed other RL algorithms and random walkers. Studying these actions, we find that braid relations are more useful in simplifying to the unknot than one of the Markov moves.
 arxiv: 2010.16263
-journal:
-doi:
+journal: Machine Learning - Science and Technology, 2021, Volume 2, Number 2, Article 025035
+doi: https://doi.org/10.1088/2632-2153/abe91f
 nsf-par:
 code:
+publication-date: 2021-04-21
