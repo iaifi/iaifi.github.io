@@ -4,7 +4,7 @@ title: "Scaffolding Simulations with Deep Learning for High-dimensional Deconvol
 authors: Anders Andreassen, Patrick T. Komiske, Eric M. Metodiev, Benjamin Nachman, Adi Suresh, and Jesse Thaler
 abstract: A common setting for scientific inference is the ability to sample from a high-fidelity forward model (simulation) without having an explicit probability density of the data. We propose a simulation-based maximum likelihood deconvolution approach in this setting called OmniFold. Deep learning enables this approach to be naturally unbinned and (variable-, and) high-dimensional. In contrast to model parameter estimation, the goal of deconvolution is to remove detector distortions in order to enable a variety of down-stream inference tasks. Our approach is the deep learning generalization of the common Richardson-Lucy approach that is also called Iterative Bayesian Unfolding in particle physics. We show how OmniFold can not only remove detector distortions, but it can also account for noise processes and acceptance effects.
 arxiv: 2105.04448
-journal:
+journal: Workshop paper at ICLR 2021 SimDL Workshop
 doi:
 alt-url:  https://simdl.github.io/files/12.pdf
 nsf-par:
