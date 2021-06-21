@@ -1,0 +1,12 @@
+type: paper
+iaifi-thrust: E
+title: "Towards Designing and Exploiting Generative Networks for Neutrino Physics Experiments using Liquid Argon Time Projection Chambers"
+authors: Paul Lutkus, Taritree Wongjirad, Schuchin Aeron
+abstract: In this paper, we show that a hybrid approach to generative modeling via combin- ing the decoder from an autoencoder together with an explicit generative model for the latent space is a promising method for producing images of particle tra- jectories in a liquid argon time projection chamber (LArTPC). LArTPCs are a type of particle physics detector used by several current and future experiments focused on studies of the neutrino. We implement a Vector-Quantized Variational Autoencoder (VQ-VAE) and PixelCNN which produces images with LArTPC- like features and introduce a method to evaluate the quality of the images using a semantic segmentation that identifies important physics-based features.
+arxiv: 
+journal: Conference paper at ICLR 2021
+doi: 
+alt-url: https://simdl.github.io/files/51.pdf
+nsf-par:
+code: https://github.com/NuTufts/LArTPC-VQVAE
+publication-date: 2021-06-21
