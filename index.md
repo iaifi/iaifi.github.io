@@ -14,16 +14,15 @@ article_header:
 
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. The IAIFI will advance physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanize AI research innovation. The IAIFI is comprised of both [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts.  Learn more about our [proposed research](/research.html) at the Physics/AI intersection and about our [IAIFI Fellows](/fellows.html) program.
 
+### IAIFI Jobs
+
+***We are pleased to announce the 2022-2025 IAIFI Fellows competition!*** Visit our [IAIFI Fellows](https://iaifi.org/fellows) page for details. Applications are due by September 21, 2021.
+{:.success}
+
 ### IAIFI Events
 
 ***IAIFI Colloquium Series Will Return in the Fall:***  We recently completed our Spring 2021 biweekly [virtual colloquium series](events.html)!  Throughout the spring semester, the series showcased IAIFI researchers. [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series for Fall 2021. If you missed any of the previous colloquia, you can watch the recordings on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA), including a [playlist](https://youtube.com/playlist?list=PLBY0ED2StbGZihzDLwNtPZtsdUvDRVyfG) of all the talks. 
 {:.success}
-
-
-### IAIFI Jobs
-
-***We are pleased to announce the 2022-2025 IAIFI Fellows competition!*** Visit our [IAIFI Fellows](https://iaifi.org/fellows) page for details. Applications are due by September 21, 2021.
-{:.info}
 
 ### Subscribe to IAIFI News
 

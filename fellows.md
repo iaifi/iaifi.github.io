@@ -8,6 +8,8 @@ title: IAIFI Fellows
 
 **We are pleased to announce our second round of the IAIFI fellowship competition.** 
 
+### [Click here to submit an application via AJO](https://academicjobsonline.org/ajo/jobs/18785)
+
 Of critical importance to the IAIFI vision is our IAIFI Fellows program, which aims to recruit and train the most talented, promising, and diverse group of researchers at an early stage of their careers. These Fellows will spark vital interdisciplinary, multi-investigator, multi-subfield collaborations. Such collaborations have immense power to generate new ideas and approaches, to facilitate abstracting physics challenges beyond their native domains, and to instill a common language across disciplines. Our program aims to appoint three new postdoctoral IAIFI Fellows each academic year, for a three-year fellowship term each.
  
 Fellows will be selected through an annual application process. Applicants should have, or be expected to receive by the 1st of September 2022, a PhD in Physics, Statistics, Computer Science, or a related field. **Applicants must be nominated by a faculty member or senior researcher, and applicants will be asked to provide contact information for the nominator during the application process.** The nominator will then be contacted to confirm eligibility. Complete applications must include:
@@ -26,8 +28,6 @@ The IAIFI is a joint NSF-funded venture between MIT, Harvard, Northeastern, and 
 
 
 MIT is an equal employment opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, genetic information, veteran status, ancestry, or national or ethnic origin. MIT’s full policy on Nondiscrimination can be found [here](https://policies.mit.edu/policies-procedures/90-relations-and-responsibilities-within-mit-community/92-nondiscrimination).
-
-### [Click here to submit an application via AJO](https://academicjobsonline.org/ajo/jobs/18785)
 
 ### FAQ
 
