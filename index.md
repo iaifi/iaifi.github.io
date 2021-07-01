@@ -20,9 +20,10 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 {:.success}
 
 
-<!---
 ### IAIFI Jobs
--->
+
+***We are pleased to announce the 2022-2025 IAIFI Fellows competition!*** Visit our [IAIFI Fellows](https://iaifi.org/fellows) page for details. Applications are due by September 21, 2021.
+{:.info}
 
 ### Subscribe to IAIFI News
 
