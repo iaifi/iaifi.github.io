@@ -20,7 +20,11 @@ header:
       - title: Themes
         url: /research.html
       - title: Papers
-        url: /papers.html 
+        url: /papers.html
 
   - title: Fellows
-    url: /fellows.html
+    subtitles:
+      - title: Fellows
+        url: /fellows.html
+      - title: Current
+        url: /current-fellows.html
