@@ -12,7 +12,7 @@ title: IAIFI Fellows
 
 Of critical importance to the IAIFI vision is our IAIFI Fellows program, which aims to recruit and train the most talented, promising, and diverse group of researchers at an early stage of their careers. These Fellows will spark vital interdisciplinary, multi-investigator, multi-subfield collaborations. Such collaborations have immense power to generate new ideas and approaches, to facilitate abstracting physics challenges beyond their native domains, and to instill a common language across disciplines. Our program aims to appoint three new postdoctoral IAIFI Fellows each academic year, for a three-year fellowship term each.
  
-Fellows will be selected through an annual application process. Applicants should have, or be expected to receive by the 1st of September 2022, a PhD in Physics, Statistics, Computer Science, or a related field. **Applicants must be nominated by a faculty member or senior researcher, and applicants will be asked to provide contact information for the nominator during the application process.** The nominator will then be contacted to confirm eligibility. Complete applications must include:
+Fellows will be selected through an annual application process. Applicants should have, or be expected to receive by the 1st of September 2022, a PhD in Physics, Statistics, Computer Science, or a related field. **Applicants must be nominated by a faculty member or senior researcher, and applicants will be asked to provide contact information for the nominator during the application process.** The nominator, who does not need to be affiliated with IAIFI and should also be one of the applicant's reference letter writers, will then be contacted to confirm eligibility. Complete applications must include:
 - Cover letter (no more than 1 page);
 - CV (1-2 pages recommended, but longer accepted);
 - Statement of research interests (no more than 2 pages);
@@ -35,6 +35,7 @@ MIT is an equal employment opportunity employer. All qualified applicants will r
 *  *Will you sponsor visas for international applicants?*  If selected for an IAIFI Fellowship, we will work with the MIT International Scholars Office (ISchO) to determine the [appropriate visa for your situation](http://web.mit.edu/scholars/administrators/sponsorshippolicy.html#visaspon).
 *  *Am I still eligible for an IAIFI Fellowship if my research is only in Physics or only in AI?*  The aim of the IAIFI is to foster interdisciplinary research at the intersection of Physics and AI.  Even if your expertise is only in one area, your proposed research should aim to build bridges across disciplines.
 *  *Can my application include four reference letters?*  No, in order to keep the selection criteria uniform, each candidate can only have three reference letters in their application.
+*  *Should my nominator be affiliated with IAIFI?* No, your nominator does not need to be affiliated with IAIFI and should also be one of your reference letter writers.
 
 <!---
 ### Call for Applications
