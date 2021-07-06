@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Flow-based sampling for multimodal distributions in lattice field theory"
+authors: Daniel C. Hackett, Chung-Chun Hsieh, Michael S. Albergo, Denis Boyda, Jiunn-Wei Chen, Kai-Feng Chen, Kyle Cranmer, Gurtej Kanwar, Phiala E. Shanahan
+abstract: Recent results have demonstrated that samplers constructed with flow-based generative models are a promising new approach for configuration generation in lattice field theory. In this paper, we present a set of methods to construct flow models for targets with multiple separated modes (i.e. theories with multiple vacua). We demonstrate the application of these methods to modeling two-dimensional real scalar field theory in its symmetry-broken phase. In this context we investigate the performance of different flow-based sampling algorithms, including a composite sampling algorithm where flow-based proposals are occasionally augmented by applying updates using traditional algorithms like HMC.
+arxiv: 2107.00734
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
