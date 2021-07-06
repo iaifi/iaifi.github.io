@@ -4,8 +4,8 @@ title: "Machine Learning the 6th Dimension: Stellar Radial Velocities from 5D Ph
 authors: Adriana Dropulic, Bryan Ostdiek, Laura J. Chang, Hongwan Liu, Timothy Cohen, and Mariangela Lisanti
 abstract: The Gaia satellite will observe the positions and velocities of over a billion Milky Way stars. In the early data releases, the majority of observed stars do not have complete 6D phase-space information. In this Letter, we demonstrate the ability to infer the missing line-of-sight velocities until more spectroscopic observations become available. We utilize a novel neural network architecture that, after being trained on a subset of data with complete phase-space information, takes in a star's 5D astrometry (angular coordinates, proper motions, and parallax) and outputs a predicted line-of-sight velocity with an associated uncertainty. Working with a mock Gaia catalog, we show that the network can successfully recover the distributions and correlations of each velocity component for stars that fall within ∼5 kpc of the Sun. We also demonstrate that the network can accurately reconstruct the velocity distribution of a kinematic substructure in the stellar halo that is spatially uniform, even when it comprises a small fraction of the total star count.
 arxiv: 2103.14039
-journal:
-doi:
+journal: The Astrophysical Journal Letters, 2021, 915, L14
+doi: https://doi.org/10.3847/2041-8213/ac09ef
 nsf-par:
 code:
-publication-date: 
+publication-date: 2021-07-01
