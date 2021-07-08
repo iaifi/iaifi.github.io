@@ -31,6 +31,9 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 
 ### IAIFI News
 
+***Jesse Thaler Interviewed for Communications of the Association for Computing Machinery:*** Read Jesse Thaler's interview on [Using AI to Drill Down in Physics](https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics/fulltext), *July 8, 2021*
+{:.info}
+
 ***Philip Harris Receives Department of Energy Early Career Research Award for 2021:*** The award provides “exceptional researchers during the crucial early career years” with significant funding to support their research. Philip Harris was selected for his research, “Harnessing the Large Hadron Collider with New Insights in Real-Time Data Processing and Artificial Intelligence.” [DOE announces 2021 Early Career Research Awards](https://science.osti.gov/early-career), *May 27, 2021*
 {:.info}
 
