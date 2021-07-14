@@ -36,6 +36,7 @@ MIT is an equal employment opportunity employer. All qualified applicants will r
 *  *Am I still eligible for an IAIFI Fellowship if my research is only in Physics or only in AI?*  The aim of the IAIFI is to foster interdisciplinary research at the intersection of Physics and AI.  Even if your expertise is only in one area, your proposed research should aim to build bridges across disciplines.
 *  *Can my application include four reference letters?*  No, in order to keep the selection criteria uniform, each candidate can only have three reference letters in their application.
 *  *Should my nominator be affiliated with IAIFI?* No, your nominator does not need to be affiliated with IAIFI and should also be one of your reference letter writers.
+*  *Is a nominator able to nominate more than one person?* Yes. There is no limit to the number of nominations a nominator can submit. 
 
 <!---
 ### Call for Applications
@@ -65,4 +66,5 @@ The IAIFI is a joint NSF-funded venture between MIT, Harvard, Northeastern, and 
 *  *Will you sponsor visas for international applicants?*  If selected for an IAIFI Fellowship, we will work with the MIT International Scholars Office (ISchO) to determine the [appropriate visa for your situation](http://web.mit.edu/scholars/administrators/sponsorshippolicy.html#visaspon).
 *  *Am I still eligible for an IAIFI Fellowship if my research is only in Physics or only in AI?*  The aim of the IAIFI is to foster interdisciplinary research at the intersection of Physics and AI.  Even if your expertise is only in one area, your proposed research should aim to build bridges across disciplines.
 *  *Can my application include four reference letters?*  No, in order to keep the selection criteria uniform, each candidate can only have three reference letters in their application.
+
 --->
