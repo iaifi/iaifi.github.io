@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Fast convolutional neural networks on FPGAs with hls4ml"
+authors: Thea Aarrestad, Vladimir Loncar, Nicolò Ghielmetti, Maurizio Pierini, Sioni Summers, Jennifer Ngadiuba, Christoffer Petersson, Hampus Linander, Yutaro Iiyama, Giuseppe Di Guglielmo, Javier Duarte, Philip Harris, Dylan Rankin, Sergo Jindariani, Kevin Pedro, Nhan Tran, Mia Liu, Edward Kreinar, Zhenbin Wu, Duc Hoang
+abstract: We introduce an automated tool for deploying ultra low-latency, low-power deep neural networks with convolutional layers on FPGAs. By extending the hls4ml library, we demonstrate an inference latency of 5μs using convolutional architectures, targeting microsecond latency applications like those at the CERN Large Hadron Collider. Considering benchmark models trained on the Street View House Numbers Dataset, we demonstrate various methods for model compression in order to fit the computational constraints of a typical FPGA device used in trigger and data acquisition systems of particle detectors. In particular, we discuss pruning and quantization-aware training, and demonstrate how resource utilization can be significantly reduced with little to no loss in model accuracy. We show that the FPGA critical resource consumption can be reduced by 97% with zero loss in model accuracy, and by 99% when tolerating a 6% accuracy degradation.
+arxiv: 2101.05108
+journal: Machine Learning Science and Technology, 2021, Volume 2, Issue 4, Article 045015
+doi: https://doi.org/10.1088/2632-2153/ac0ea1
+nsf-par: 
+code: 
+publication-date: 2021-16-07

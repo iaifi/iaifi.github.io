@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "The LHC Olympics 2020: A Community Challenge for Anomaly Detection in High Energy Physics"
+authors: Gregor Kasieczka (ed), Benjamin Nachman (ed), David Shih (ed), Oz Amram, Anders Andreassen, Kees Benkendorfer, Blaz Bortolato, Gustaaf Brooijmans, Florencia Canelli, Jack H. Collins, Biwei Dai, Felipe F. De Freitas, Barry M. Dillon, Ioan-Mihail Dinu, Zhongtian Dong, Julien Donini, Javier Duarte, D. A. Faroughy, Julia Gonski, Philip Harris, Alan Kahn, Jernej F. Kamenik, Charanjit K. Khosa, Patrick Komiske, Luc Le Pottier, Pablo Martín-Ramiro, Andrej Matevc, Eric Metodiev, Vinicius Mikuni, Inês Ochoa, Sang Eon Park, Maurizio Pierini, Dylan Rankin, Veronica Sanz, Nilai Sarda, Urous Seljak, Aleks Smolkovic, George Stein, Cristina Mantilla Suarez, Manuel Szewc, Jesse Thaler, Steven Tsan, Silviu-Marian Udrescu, Louis Vaslin, Jean-Roch Vlimant, Daniel Williams, Mikaeel Yunus
+abstract: "A new paradigm for data-driven, model-agnostic new physics searches at colliders is emerging, and aims to leverage recent breakthroughs in anomaly detection and machine learning. In order to develop and benchmark new anomaly detection methods within this framework, it is essential to have standard datasets. To this end, we have created the LHC Olympics 2020, a community challenge accompanied by a set of simulated collider events. Participants in these Olympics have developed their methods using an R&D dataset and then tested them on black boxes: datasets with an unknown anomaly (or not). This paper will review the LHC Olympics 2020 challenge, including an overview of the competition, a description of methods deployed in the competition, lessons learned from the experience, and implications for data analyses with future datasets as well as future colliders."
+arxiv: "2101.08320"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
