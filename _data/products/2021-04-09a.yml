@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "A Compound Poisson Generator approach to Point-Source Inference in Astrophysics"
+authors: Gabriel H. Collin, Nicholas L. Rodd, Tyler Erjavec, Kerstin Perez
+abstract: "The identification and description of point sources is one of the oldest problems in astronomy; yet, even today the correct statistical treatment for point sources remains as one of the field's hardest problems. For dim or crowded sources, likelihood based inference methods are required to estimate the uncertainty on the characteristics of the source population. In this work, a new parametric likelihood is constructed for this problem using Compound Poisson Generator (CPG) functionals which incorporate instrumental effects from first principles. We demonstrate that the CPG approach exhibits a number advantages over Non-Poissonian Template Fitting (NPTF) - an existing parametric likelihood method - in a series of test scenarios in the context of X-ray astronomy. These demonstrations show that the effect of the point-spread function, effective area, and choice of point-source spatial distribution cannot, in general, be factorised as they are in the NPTF construction, while the new CPG construction is validated in these scenarios. Separately, an examination of the diffuse-flux emission limit is used to show that most simple choices of priors on the standard parameterisation of the population model can result in unexpected biases: when a model comprising both a point-source population and diffuse component is applied to this limit, nearly all observed flux will be assigned to either the population or to the diffuse component. A new parametrisation is presented for these priors which is demonstrated to properly estimate the uncertainties in this limit. In this choice of priors, the CPG correctly identifies that the fraction of flux assigned to the population model cannot be constrained by the data."
+arxiv: 2104.04529
+journal:
+doi:
+nsf-par:
+code: https://github.com/ghcollin/cpg_likelihood
+publication-date:

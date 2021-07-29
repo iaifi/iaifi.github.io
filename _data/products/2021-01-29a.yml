@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: Path integral contour deformations for observables in SU(N) gauge theory
+authors: William Detmold, Gurtej Kanwar, Henry Lamm, Michael L. Wagman, Neill C. Warrington
+abstract: "Path integral contour deformations have been shown to mitigate sign and signal-to-noise problems associated with phase fluctuations in lattice field theories. We define a family of contour deformations applicable to SU(N) lattice gauge theory that can reduce sign and signal-to-noise problems associated with complex actions and complex observables. For observables, these contours can be used to define deformed observables with identical expectation value but different variance. As a proof-of-principle, we apply machine learning techniques to optimize the deformed observables associated with Wilson loops in two dimensional SU(2) and SU(3) gauge theory. We study loops consisting of up to 64 plaquettes and achieve variance reduction of up to 4 orders of magnitude."
+arxiv: 2101.12668
+journal: Physical Review D, 2021, Vol. 103, Issue 9, Article 094517
+doi: https://doi.org/10.1103/PhysRevD.103.094517
+nsf-par:
+code:
+publication-date: 2021-05-01

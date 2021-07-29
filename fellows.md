@@ -37,6 +37,7 @@ MIT is an equal employment opportunity employer. All qualified applicants will r
 *  *Can my application include four reference letters?*  No, in order to keep the selection criteria uniform, each candidate can only have three reference letters in their application.
 *  *Should my nominator be affiliated with IAIFI?* No, your nominator does not need to be affiliated with IAIFI and should also be one of your reference letter writers.
 *  *Is a nominator able to nominate more than one person?* Yes. There is no limit to the number of nominations a nominator can submit. 
+*  *How does the nominator submit a nomination?* The applicant will be asked to provide contact information for the nominator when completing the application, which will then trigger an email to the nominator to complete a form confirming the applicant's eligibility and nomination. No additional action is required on the part of the nominator other than providing a reference letter, which should also be submitted with the application.
 
 <!---
 ### Call for Applications

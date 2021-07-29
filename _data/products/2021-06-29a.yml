@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Learning Task Informed Abstractions"
+authors: Xiang Fu, Ge Yang, Pulkit Agrawal, Tommi Jaakkola
+abstract: Current model-based reinforcement learning methods struggle when operating from complex visual scenes due to their inability to prioritize task-relevant features. To mitigate this problem, we propose learning Task Informed Abstractions (TIA) that explicitly separates reward-correlated visual features from distractors. For learning TIA, we introduce the formalism of Task Informed MDP (TiMDP) that is realized by training two models that learn visual features via cooperative reconstruction, but one model is adversarially dissociated from the reward signal. Empirical evaluation shows that TIA leads to significant performance gains over state-of-the-art methods on many visual control tasks where natural and unconstrained visual distractions pose a formidable challenge.
+arxiv: 2106.15612
+journal: Proceedings of the 38th International Conference on Machine Learning, 2021, PMLR 139
+doi: 
+nsf-par:
+code: https://xiangfu.co/tia
+publication-date: 2021-06-30

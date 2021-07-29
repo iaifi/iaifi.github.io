@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "On the Minimal Error of Empirical Risk Minimization"
+authors: Gil Kur, Alexander Rakhlin
+abstract: RWe study the minimal error of the Empirical Risk Minimization (ERM) procedure in the task of regression, both in the random and the fixed design settings. Our sharp lower bounds shed light on the possibility (or impossibility) of adapting to simplicity of the model generating the data. In the fixed design setting, we show that the error is governed by the global complexity of the entire class. In contrast, in random design, ERM may only adapt to simpler models if the local neighborhoods around the regression function are nearly as complex as the class itself, a somewhat counter-intuitive conclusion. We provide sharp lower bounds for performance of ERM for both Donsker and non-Donsker classes. We also discuss our results through the lens of recent studies on interpolation in overparameterized models.
+arxiv: 2102.12066
+journal: 
+doi:
+nsf-par:
+code:
+publication-date: 
