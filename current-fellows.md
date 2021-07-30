@@ -5,7 +5,7 @@ title: Current IAIFI Fellows
 
 ## 2021-2024 IAIFI Fellows
 
-We are excited for [Anna](#anna-golubeva), [Di](#di-luo), [Siddharth](#siddharth-mishra-sharma), and [Ge](#ge-yang) to join us later this year as our first round of IAIFI Fellows to help spark vital interdisciplinary research at the intersection of Physics and AI!
+We are excited for [Anna](#anna-golubeva), [Di](#di-luo), [Siddharth](#siddharth-mishra-sharma), and [Ge](#ge-yang) to join us as our first round of IAIFI Fellows to help spark vital interdisciplinary research at the intersection of Physics and AI!
 
 ### Anna Golubeva
 
