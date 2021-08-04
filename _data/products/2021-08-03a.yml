@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Nonperturbative renormalization for the neural network--QFT correspondence"
+authors: Harold Erbin, Vincent Lahoche, Dine Ousmane Samary
+abstract: "In a recent work~[1], Halverson, Maiti and Stoner proposed a description of neural networks in terms of a Wilsonian effective field theory. The infinite-width limit is mapped to a free field theory, while finite N corrections are taken into account by interactions (non-Gaussian terms in the action). In this paper, we study two related aspects of this correspondence. First, we comment on the concepts of locality and power-counting in this context. Indeed, these usual space-time notions may not hold for neural networks (since inputs can be arbitrary), however, the renormalization group provides natural notions of locality and scaling. Moreover, we comment on several subtleties, for example, that data components may not have a permutation symmetry: in that case, we argue that random tensor field theories could provide a natural generalization. Second, we improve the perturbative Wilsonian renormalization from~[1] by providing an analysis in terms of the nonperturbative renormalization group using the Wetterich-Morris equation. An important difference with usual nonperturbative RG analysis is that only the effective (IR) 2-point function is known, which requires setting the problem with care. Our aim is to provide a useful formalism to investigate neural networks behavior beyond the large-width limit (i.e.~far from Gaussian limit) in a nonperturbative fashion. A major result of our analysis is that changing the standard deviation of the neural network weight distribution can be interpreted as a renormalization flow in the space of networks. We focus on translations invariant kernels and provide preliminary numerical results."
+arxiv: 2108.01403
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
