@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Deep multi-task mining Calabi-Yau four-folds"
+authors: Harold Erbin, Riccardo Finotello, Robin Schneider, Mohamed Tamaazousti
+abstract: We continue earlier efforts in computing the dimensions of tangent space cohomologies of Calabi-Yau manifolds using deep learning. In this paper, we consider the dataset of all Calabi-Yau four-folds constructed as complete intersections in products of projective spaces. Employing neural networks inspired by state-of-the-art computer vision architectures, we improve earlier benchmarks and demonstrate that all four non-trivial Hodge numbers can be learned at the same time using a multi-task architecture. With 30% (80%) training ratio, we reach an accuracy of 100% for h<sup>(1,1)</sup> and 97% for h<sup>(2,1)</sup> (100% for both), 81% (96%) for h<sup>(3,1)</sup>, and 49% (83%) for h<sup>(2,2)</sup>. Assuming that the Euler number is known, as it is easy to compute, and taking into account the linear constraint arising from index computations, we get 100% total accuracy.
+arxiv: 2108.02221
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
