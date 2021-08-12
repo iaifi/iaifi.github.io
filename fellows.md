@@ -38,7 +38,21 @@ MIT is an equal employment opportunity employer. All qualified applicants will r
 *  *Should my nominator be affiliated with IAIFI?* No, your nominator does not need to be affiliated with IAIFI and should also be one of your reference letter writers.
 *  *Is a nominator able to nominate more than one person?* Yes. There is no limit to the number of nominations a nominator can submit. 
 *  *How does the nominator submit a nomination?* The applicant will be asked to provide contact information for the nominator when completing the application, which will then trigger an email to the nominator to complete a form confirming the applicant's eligibility and nomination. No additional action is required on the part of the nominator other than providing a reference letter, which should also be submitted with the application.
+*  *If I'm offered a fellowship, when would the decision deadline be for me to accept?* January 7, 2022 is the decision deadline, in keeping with the [standard for theoretical high energy physics](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html). However, we appreciate that different fields have different standards, and we aim to accommodate those as they come up. 
 
+### Advertising the Fellowship
+We aim to spread the word about the Fellowship as widely as possible. In addition to sharing the announcement with individuals, we have posted the job in the following places:
+*  [AAS Job Register](https://jobregister.aas.org/ad/60ea22fb)
+*  [Physics Today](https://jobs.physicstoday.org/jobs/15247761/iaifi-fellow)
+*  [Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS)](https://careercenter.sacnas.org/job/iaifi-fellow/58147767/)
+*  [IMDiversity](https://jobs.imdiversity.com/career/90826)
+*  [National Society of Black Physicists (NSBP)](https://nsbp.org/networking/apply_now.aspx?view=1&id=669773) (Only accessible to members)
+*  [Women in Machine Learning mailing list](https://groups.google.com/forum/#!forum/women-in-machine-learning)
+*  [benty-fields.com](https://www.benty-fields.com/job_details?job_id=15745&page=1&app_order=&post_order=descending&search_term=)
+*  [Women in Astronomy mailing list](aaswomen@lists.aas.org)
+
+If you have suggestions for anywhere else where we should be sharing the announcement, please email [iaifi-fellows@mit.edu](mailto:iaifi-fellows@mit.edu).
+ 
 <!---
 ### Call for Applications
 
