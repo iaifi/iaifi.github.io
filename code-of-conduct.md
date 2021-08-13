@@ -106,5 +106,6 @@ IDHR will follow the complaint resolution process set forth in [Section 9.8 of M
 Consequences for violation of the Non Discrimination Policy and policy prohibiting Discriminatory Harassment may include a verbal or written warning, removal from IAIFI events, or loss of IAIFI membership privileges.  In addition, any investigative report or other findings by IDHR and sanctioning outcomes will be provided to the home institution of any IAIFI member found to have violated either of these policies.
 
 **Clarification on Responsible Employee Status**
+
 Faculty and postdoc members of the IAIFI Board and ECEC are considered responsible individuals  under Title IX, meaning they are required to inform MIT’s IDHR office if they learn of incidents of gender-based discrimination including sexual misconduct, sexual harassment, intimate partner violence, and stalking. The ECEC as a whole has similar reporting obligations.  Reporting to MIT’s IDHR office (either by a complainant directly or via a third party) will not generally trigger an automatic formal investigation. However, for detailed information on how MIT’s IDHR office respond to complaints of discrimination and discriminatory harassment, please consult the [IDHR webpage](https://idhr.mit.edu).
 
