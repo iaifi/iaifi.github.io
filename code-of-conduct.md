@@ -31,7 +31,7 @@ Information provided to individual members of the ECEC will be shared with an EC
 
 When a Code of Conduct violation is reported to the IAIFI management and board, they will work to address it in conjunction with the human resources administration(s) of the relevant institution(s). Consequences for Code of Conduct violations may include a verbal or written warning, removal from IAIFI events, loss of IAIFI membership privileges, reporting to the relevant university offices, or other remedies as appropriate.
 
-For information on reporting violations of MIT’s Non-Discrimination Policy and Policy Prohibiting Discriminatory Harassment, and the resolution of such complaints, please click [here](#reporting-process-discrimination).
+For information on reporting violations of MIT’s Non-Discrimination Policy and Policy Prohibiting Discriminatory Harassment, and the resolution of such complaints, please click [here](#reporting-process-non-discrimination).
 
 Note that anyone is free to report any violations of institutional policies to the appropriate institution, but we cannot guarantee that institutions will forward information about a complaint to the IAIFI. If there has been a violation of the IAIFI Code of Conduct or other IAIFI policies and you want the IAIFI to respond, you should report it through one or more of the channels described above. 
 
@@ -52,7 +52,7 @@ The Code of Conduct uses several phrases that may need further explanation, so w
 : The Code of Conduct places responsibility on all IAIFI members and participants for actively maintaining a healthy environment, but does not require members and participants to respond to problems by immediately confronting those involved. Appropriate strategies for bystander intervention are context-dependent and rely on personal judgement. However, all IAIFI members and participants are asked to be active bystanders—people who take steps that can make a difference when they observe unacceptable behavior. These steps could include strategies to defuse the situation, to forestall future similar incidents, or to support the person/people targeted. [This link](http://web.mit.edu/bystanders) provides guidance on being an active bystander. Hosts for IAIFI talks and other events are especially encouraged to explore these resources and preemptively plan strategies for dealing with inappropriate behavior.
 
 *discrimination, harassment*
-: See the [Non-Discrimination Policy and Policy Prohibiting Discriminatory Harassment]{#anti-discrimination) for context and details
+: See the [Non-Discrimination Policy and Policy Prohibiting Discriminatory Harassment](#non-discrimination) for context and details
 
 *bullying*
 : Bullying occurs when someone intentionally and repeatedly causes another person injury or discomfort. Bullying can take the form of physical contact, words or more subtle actions. \([Source](https://www.apa.org/topics/bullying)\) Typical examples of workplace bullying are discussed in [this document](http://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=5402).
