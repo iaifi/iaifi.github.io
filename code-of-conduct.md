@@ -66,7 +66,7 @@ The Code of Conduct uses several phrases that may need further explanation, so w
 * Postdocs/Fellows: Harold Erbin \(MIT\), [Email](mailto:erbin@mit.edu); Siddharth Mishra-Sharma \(MIT\), [Email](mailto:siddharthmishra19@gmail.com)
 * PhD Students: Katie Fraser \(Harvard\), [Email](mailto:kfraser@g.harvard.edu); Kiranjyot \(Jasmine\) Gill \(Harvard\), [Email](mailto:kiranjyot.gill@cfa.harvard.edu); Anindita Maiti \(Northeastern\), [Email](mailto:maiti.a@northeastern.edu)
 
-**Resources for Discrimination/Harassment based on Protected Categories** 
+**Resources for Addressing Discrimination/Harassment** 
 *\(Not Confidential\)*
 * MIT: [Institute Discrimination & Harassment Response Office](https://idhr.mit.edu/); Sarah Rankin, [Email](mailto:idhr@mit.edu); 617-324-7526
 * Tufts: [Office of Equal Opportunity](https://oeo.tufts.edu); Jill Zelmer, [Email](mailto:oeo@tufts.edu); 617-627-3298

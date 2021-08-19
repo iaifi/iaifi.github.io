@@ -63,10 +63,16 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
     * [YouTube Recording](https://youtu.be/aFBQ-ODkGuk)
     * Abstract: Most applications of ML are applied to experimental data collected on Earth, rather than theoretical or mathematical datasets that have ab initio definitions, such as groups, topological classes of manifolds, or chiral gauge theories. Such mathematical landscapes are characterized by a high degree of structure and truly big data, including continuous or discrete infinite sets or finite sets larger than the number of particles in the visible universe. After introducing ab initio data, we will focus on one such dataset: mathematical knots, which admit a treatment using techniques from natural language processing via their braid representatives. Elements of knot theory will be introduced, including the use of ML for various problems that arise in it. For instance, reinforcement learning can be utilized to unknot complicated representations of trivial knots, similar to untangling headphones, but we will also use transformers for the unknot decision problem, as well as treating the general topological problem.
   
+## Related Workshops
+
+Upcoming workshops involving members of the IAIFI community:
+
+  * [AI4EIC-Exp: Experimental Applications of Artificial Intelligence for the Electron Ion Collider, September 7-10, 2021 (online)](https://indico.bnl.gov/event/10699/)
+  * [Machine Learning at GGI - Galileo Galilei Institute, August 22-September 30, 2022](https://www.ggi.infn.it/showevent.pl?id=414)
 
 ## Related Public Events
 
-Here are other organizations that hold public events relevant to the IAIFI community:
+Other organizations that hold public events relevant to the IAIFI community:
 
   * [Physics Meets ML](http://www.physicsmeetsml.org/)
   * [CLARIPHY Topical Meetings](https://clariphy.org/topical.html)
