@@ -50,7 +50,7 @@ These talks are only open to IAIFI members and affiliates.
     * **Friday, September 10, 2:00-3:00pm** 
 
   * **Fabian Ruehle, Assistant Professor, Northeastern University**
-    * **Friday, September 10, 2:00-3:00pm** 
+    * **Friday, September 24, 2:00-3:00pm** 
     * *Details to come*
 
   * **Di Luo, IAIFI Fellow**
