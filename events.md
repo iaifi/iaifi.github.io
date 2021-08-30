@@ -6,7 +6,7 @@ title: Events
 * [Fall 2021 Public Colloquia](#iaifi-public-colloquia)
 * [Fall 2021 Internal Seminars](#iaifi-internal-seminars)
 * [Related Workshops](#related-workshops)
-* [Related Events](#related-events)
+* [Related Events](#related-public-events)
 
 ## IAIFI Public Colloquia 
 ### Fall 2021
@@ -62,7 +62,7 @@ These talks are only open to IAIFI members and affiliates.
     * *Details to come*
     
   * **Bryan Ostdiek, Postdoctoral Fellow, Theoretical Particle Physics, Harvard University**
-    * **Friday, October 22, 2:00-3:00pm**
+    * **Friday, November 5, 2:00-3:00pm**
     * *Details to come*
     
   * **Tess Smidt, Assistant Professor, EECS, MIT**
