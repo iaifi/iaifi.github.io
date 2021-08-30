@@ -10,7 +10,11 @@ header:
         url: /iaifi-news.html
 
   - title: Events
-    url: /events.html
+    subtitles:
+      - title: Current
+        url: /events.html
+      - title: Past
+        url: /past-events.html
 
   - title: People
     url: /people.html
