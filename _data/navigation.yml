@@ -4,6 +4,8 @@ header:
     subtitles:
       - title: Overview
         url: /about.html
+      - title: Code of Conduct
+        url: /code-of-conduct.html
       - title: Synergies
         url: /activities.html
       - title: News

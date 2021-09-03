@@ -40,6 +40,7 @@ MIT is an equal employment opportunity employer. All qualified applicants will r
 *  *How does the nominator submit a nomination?* The applicant will be asked to provide contact information for the nominator when completing the application, which will then trigger an email to the nominator to complete a form confirming the applicant's eligibility and nomination. No additional action is required on the part of the nominator other than providing a reference letter, which should also be submitted with the application.
 *  *If I'm offered a fellowship, when would the decision deadline be for me to accept?* January 7, 2022 is the decision deadline, in keeping with the [standard for theoretical high energy physics](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html). However, we appreciate that different fields have different standards, and we aim to accommodate those as they come up. 
 *  *Are IAIFI Fellows required to have English language skills?* English language proficiency is required to obtain a J-1 Visa and therefore be employed by MIT if you are coming from outside the United States.
+*  *Is there a limit to how many candidates can be nominated by a given nominator?* No, each nominator can nominate as many candidates as they choose.
 
 ### Advertising the Fellowship
 We aim to spread the word about the Fellowship as widely as possible. In addition to sharing the announcement with individuals, we have posted the job in the following places:
