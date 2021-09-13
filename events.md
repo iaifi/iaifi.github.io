@@ -54,7 +54,7 @@ These talks are only open to IAIFI members and affiliates.
 
   * **Fabian Ruehle, Assistant Professor, Northeastern University**
     * **Friday, September 24, 2:00-3:00pm** 
-    * *Learning metrics in extra dimensions*
+    * *"Learning metrics in extra dimensions"*
     * Abstract: String theory is a very promising candidate for a fundamental theory of our universe. An interesting prediction of string theory is that spacetime is ten-dimensional. Since we only observe four spacetime dimensions, the extra six dimensions are small and compact, thus evading detection. These extra six-dimensional spaces, known as Calabi-Yau spaces, are very special and elusive. They are equipped with a special metric needed to make string theory consistent. This special property is given in terms of a (notoriously hard) type of partial differential equation. While we know, thanks to the heroic work of Calabi and Yau, that this PDE has a unique solution and hence that the metric exists, we neither know what it looks like nor how to construct it explicitly. However, the metric is an important quantity that enters in many physical observables, e.g. particle masses. Thinking of the metric as a function that satisfies three constraints that enter in the Calabi-Yau theorem, we can parameterize the metric as a neural network and formulate the problem as multiple continuous optimization tasks. The neural network is trained (akin to self-supervision) by sampling points from the Calabi-Yau space and imposing the constraints entering the theorem as customized loss functions.
 
   * **Di Luo, IAIFI Fellow**
