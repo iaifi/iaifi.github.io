@@ -21,7 +21,8 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Events
 
-***IAIFI Colloquium Series Will Return in the Fall:***  Our biweekly [virtual colloquium series](events.html) will return on Friday, September 17, 2021 at 2:00 pm ET! Every other Friday throughout the semester, the series will showcase researchers working at the intersection of AI and Physics. [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series for Fall 2021. If you missed any of the previous colloquia, you can watch the recordings on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA), including a [playlist](https://youtube.com/playlist?list=PLBY0ED2StbGZihzDLwNtPZtsdUvDRVyfG) of all the talks. 
+***IAIFI Colloquium Series begins September 17 at 2:00 pm ET:***  Our biweekly [virtual colloquium series](events.html) will return on Friday, September 17, 2021 at 2:00 pm ET with a presentation from Surya Ganguli on "Understanding computation using physics and exploiting physics for computation"! Watch on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
+Every other Friday throughout the semester, the series will showcase researchers working at the intersection of AI and Physics. [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series.
 {:.success}
 
 ### Subscribe to IAIFI News
