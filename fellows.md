@@ -41,6 +41,8 @@ MIT is an equal employment opportunity employer. All qualified applicants will r
 *  *If I'm offered a fellowship, when would the decision deadline be for me to accept?* January 7, 2022 is the decision deadline, in keeping with the [standard for theoretical high energy physics](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html). However, we appreciate that different fields have different standards, and we aim to accommodate those as they come up. 
 *  *Are IAIFI Fellows required to have English language skills?* English language proficiency is required to obtain a J-1 Visa and therefore be employed by MIT if you are coming from outside the United States.
 *  *Is there a limit to how many candidates can be nominated by a given nominator?* No, each nominator can nominate as many candidates as they choose.
+*  *What is the role of the nominator?* The nominator should be one of your letter writers, and they will be asked to attest to your eligibility for the IAIFI Fellowship.
+*  *If I am chosen for the fellowship, do I need to be in the Boston area?* We expect our IAIFI Fellows to participate in the life of the institute, which includes working primarily in the Boston area. For certain life circumstances, we can be flexible, but at minimum, Fellows need to be residents of Massachusetts, as MIT will be their official employer.
 
 ### Advertising the Fellowship
 We aim to spread the word about the Fellowship as widely as possible. In addition to sharing the announcement with individuals, we have posted the job in the following places:
