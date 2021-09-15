@@ -45,7 +45,6 @@ For junior researchers interested in getting involved as a **Junior Investigator
   <option value="Choose" selected="" disabled="">Choose</option>
   <option value="1">Junior Investigator</option>
   <option value="2">Friend of IAIFI</option>
-  <option value="2">IAIFI News Subscriber</option>
 </select>
 <br>
 <label>
