@@ -7,9 +7,9 @@ We offer many opportunities for junior researchers to be involved in IAIFI, depe
 
 * **IAIFI Junior Investigators** collaborate with Senior researchers in IAIFI and may or may not receive funding from IAIFI. They are expected to participate in the life of the institute by participating regularly in IAIFI research and activities and to report their IAIFI-related research to the NSF.
 * **Friends of IAIFI** are junior researchers in the Boston area who are welcome to attend our internal events such as discussion seminars, Journal Clubs, and networking events, as well as receiving access to other internal resources. They are not official IAIFI investigators and have no obligation to report activities.
-* **IAIFI News Subscribers** are any researchers interested in learning about public IAIFI events and other newsworthy activities, but are not affiliated with IAIFI in any way.
+* **IAIFI News Subscribers** are any researchers interested in learning about public IAIFI events and other newsworthy activities, but are not affiliated with IAIFI in any way. If you are interested in joining the IAIFI News mailing list, sign up [here](http://mailman.mit.edu/mailman/listinfo/iaifi-news).
 
-For junior researchers interested in getting involved in any of the above ways, please fill out the form below. IAIFI Management will reach out to you with next steps. If you have any questions, contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu).
+For junior researchers interested in getting involved as a **Junior Investigator** or **Friend of IAIFI**, please fill out the form below. IAIFI Management will reach out to you with next steps. If you have any questions, contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu).
 
 
 <form action="https://formspree.io/f/xgerdoqg" method="POST">
@@ -59,7 +59,7 @@ For junior researchers interested in getting involved in any of the above ways, 
 </label>
 <br>
 <label>
-<b>If you are interested in participating as a Junior Investigator, please list [IAIFI Senior Investigators](https://iaifi.org/people) with whom you are most interested in collaborating</b>: <br>
+<b>If you are interested in participating as a Junior Investigator, please list <a href="https://iaifi.org/people#senior-investigators">IAIFI Senior Investigators</a> with whom you are most interested in collaborating</b>: <br>
 <textarea name="collaborators"></textarea>
 </label>
 <br>
