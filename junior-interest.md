@@ -5,7 +5,7 @@ title: IAIFI Junior Members
 
 We offer many opportunities for junior researchers to be involved in IAIFI, depending on their level of interest:
 
-* **IAIFI Junior Investigators** collaborate with Senior researchers in IAIFI and may or may not receive funding from IAIFI. They are expected to participate in the life of the institute by participating regularly in IAIFI research and activities and to report their IAIFI-related research to the NSF.
+* **IAIFI Junior Investigators** collaborate with Senior researchers in IAIFI and may or may not receive funding from IAIFI. They are expected to report their IAIFI-related research to the NSF.
 * **Friends of IAIFI** are junior researchers in the Boston area who are welcome to attend our internal events such as discussion seminars, Journal Clubs, and networking events, as well as receiving access to other internal resources. They are not official IAIFI investigators and have no obligation to report activities.
 * **IAIFI News Subscribers** are any researchers interested in learning about public IAIFI events and other newsworthy activities, but are not affiliated with IAIFI in any way. If you are interested in joining the IAIFI News mailing list, sign up [here](http://mailman.mit.edu/mailman/listinfo/iaifi-news).
 
@@ -50,11 +50,6 @@ For junior researchers interested in getting involved as a **Junior Investigator
 <label>
 <b>Please provide a brief (100 words or less) description of your own IAIFI-related work</b>: <br>
 <textarea name="research"></textarea>
-</label>
-<br>
-<label>
-<b>IAIFI Junior Investigators are expected to participate in the life of the institute.  Examples of how to get involved include research collaborations, serving on committees (e.g. the Early Career and Equity Committee), engaging in outreach, advertising IAIFI to the broader scientific community, etc. If you are interested in participating as a Junior Investigator, please list a few examples of how you plan to participate in IAIFI activities</b>: <br>
-<textarea name="planned-activities"></textarea>
 </label>
 <br>
 <label>
