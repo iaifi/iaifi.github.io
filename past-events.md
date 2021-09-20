@@ -6,6 +6,7 @@ title: Past Events
 * [Spring 2021 Public Colloquia](#iaifi-public-colloquia)
 * [Spring 2021 Internal Seminars](#iaifi-internal-seminars)
 * [Other Internal Events](#other-internal-events)
+* [Related Workshops](#related-workshops)
 
 ## IAIFI Public Colloquia 
 ### Spring 2021
@@ -117,3 +118,9 @@ In Fall 2020, we held two internal events to introduce IAIFI members to each oth
   * **IAIFI Fall 2020 Symposium**
     * Monday, November 23, 2020, 2pm-5pm
     * Internal Meeting 
+
+## Related Workshops
+
+Past workshops involving members of the IAIFI community:
+
+  * [AI4EIC-Exp: Experimental Applications of Artificial Intelligence for the Electron Ion Collider, September 7-10, 2021 (online)](https://indico.bnl.gov/event/10699/)

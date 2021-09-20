@@ -5,7 +5,7 @@ title: IAIFI Junior Members
 
 We offer many opportunities for junior researchers to be involved in IAIFI, depending on their level of interest:
 
-* **IAIFI Junior Investigators** collaborate with Senior researchers in IAIFI and may or may not receive funding from IAIFI. They are expected to report their IAIFI-related research to the NSF.
+* **IAIFI Junior Investigators** are junior researchers in the Boston area who collaborate with Senior researchers in IAIFI and may or may not receive funding from IAIFI. They are expected to report their IAIFI-related research to the NSF.
 * **Friends of IAIFI** are junior researchers in the Boston area who are welcome to attend our internal events such as discussion seminars, Journal Clubs, and networking events, as well as receiving access to other internal resources. They are not official IAIFI investigators and have no obligation to report activities.
 * **IAIFI News Subscribers** are any researchers interested in learning about public IAIFI events and other newsworthy activities, but are not affiliated with IAIFI in any way. If you are interested in joining the IAIFI News mailing list, sign up [here](http://mailman.mit.edu/mailman/listinfo/iaifi-news).
 
