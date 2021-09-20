@@ -21,7 +21,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Events
 
-***IAIFI Colloquium Series begins September 17 at 2:00 pm ET:***  Our biweekly [virtual colloquium series](events.html) will return on Friday, September 17, 2021 at 2:00 pm ET with a presentation from Surya Ganguli on "Understanding computation using physics and exploiting physics for computation"! Watch on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
+***IAIFI Colloquium Series continues October 1 at 2:00 pm ET:***  Our biweekly [virtual colloquium series](events.html) will continue on Friday, October 1, 2021 at 2:00 pm ET with a presentation from Ben Wandelt on "Learning the Universe"! Watch on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
 Every other Friday throughout the semester, the series will showcase researchers working at the intersection of AI and Physics. [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series.
 {:.success}
 
@@ -31,6 +31,9 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 {:.info}
 
 ### IAIFI News
+
+***Jesse Thaler argues that particle physicists must go beyond deep learning and design AI capable of deep thinking:*** Read his [opinion piece in the CERN Courier](https://cerncourier.com/a/designing-an-ai-physicist/) , *September 2, 2021*
+{:.info}
 
 ***Jesse Thaler Interviewed for Communications of the Association for Computing Machinery:*** Read Jesse Thaler's interview on [Using AI to Drill Down in Physics](https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics/fulltext), *July 8, 2021*
 {:.info}
