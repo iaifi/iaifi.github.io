@@ -35,9 +35,10 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
     * *"Physics-Guided AI for Learning Spatiotemporal Dynamics"*
     * Abstract:  Applications such as public health, transportation, and climate science often require learning complex dynamics from large-scale spatiotemporal data. While deep learning has shown tremendous success in these domains, it remains a grand challenge to incorporate physical principles in a systematic manner to the design, training, and inference of such models. In this talk, we will demonstrate how to principally integrate physics in AI models and algorithms to achieve both prediction accuracy and physical consistency. We will showcase the application of these methods to problems such as forecasting COVID-19, traffic modeling, and accelerating turbulence simulations.
 
-* **[Sven Krippendorf](https://krippendorflab.github.io), Senior Researcher, Mathematical Physics and String Theory, Ludwig-Maximilians Universität**
+* **[Sven Krippendorf](https://krippendorflab.github.io), Senior Researcher, Mathematical Physics and String Theory, Ludwig-Maximilians Universität** <img class="image" src="images/small-photo-sven-krippendorf.jpg" align="right" hspace="20" vspace="20"/>
     * **Friday, October 29, 2:00-3:00pm** 
-    * *Details to come*
+    * *"Theoretical Physicists’ Biases Meet Machine Learning"*
+    * Abstract: Many recent successes in machine learning (ML) resemble the success story in theoretical particle physics of utilising symmetries as organising principle. I discuss an introductory example where this procedure applied in ML leads to new insights to PDEs in mathematical physics, more precisely for the study of Calabi-Yau metrics. Then I discuss methods on how to identify symmetries of a system without requiring knowledge about such symmetries, including also how to find a Lax pair/connection associated with integrable systems. If time permits, I discuss how latent representations in neural networks can offer a close resemblance of variables used in dual descriptions established analytically in physical systems.
 
 * **[Yasaman Bahri](https://yasamanb.github.io), Research Scientist, Google Research, Brain Team** <img class="image" src="images/small-photo-yasaman-bahri.jpg" align="right" hspace="20" vspace="20"/>
     * **Friday, November 12, 2:00-3:00pm** 
@@ -63,7 +64,8 @@ These talks are only open to IAIFI members and affiliates.
 
   * **Di Luo, IAIFI Fellow**
     * **Friday, October 8, 2:00-3:00pm**
-    * *Details to come*
+    * *"Machine Learning for Quantum Many-body Physics"*
+    * Abstract: The study of quantum many-body physics plays an crucial role across condensed matter physics, high energy physics and quantum information science. Due to the exponential growing nature of Hilbert space, challenges arise for exact classical simulations of high dimensional wave function which is the core object in quantum many-body physics. A natural question comes as whether machine learning, which is powerful for processing high dimensional probability distribution, can provide new methods for studying quantum many-body physics. In contrast to the standard high dimensional probability distribution, the wave function further exhibits complex phase structure and rich symmetries besides high dimensionality. It opens up a series of interesting questions for high dimensional optimization, sampling and representation imposed by quantum many-body physics. In this talk, I will discuss recent advancement of the field and present (1) neural network representations for quantum states with Fermionic anti-symmetry and gauge symmetries; (2) neural network simulations for ground state and real time dynamics in condensed matter physics, high energy physics and quantum information science; (3) quantum control protocol discovery with machine learning.
 
   * **Cengiz Pehlevan, Assistant Professor, Applied Mathematics, Harvard University (SEAS)**
     * **Friday, October 22, 2:00-3:00pm**
@@ -85,6 +87,7 @@ These talks are only open to IAIFI members and affiliates.
 
 Upcoming workshops involving members of the IAIFI community:
 
+  * [Gaps & Frontier in AI4Science Workshop, NeurIPS 2021, December 13, 2021](https://ai4sciencecommunity.github.io/index.html)
   * [Interplay of Fundamental Physics and Machine Learning, Aspen Center for Physics, May 29-June 19, 2022](https://www.aspenphys.org/physicists/summer/program/currentworkshops.html)
   * [Machine Learning at GGI - Galileo Galilei Institute, August 22-September 30, 2022](https://www.ggi.infn.it/showevent.pl?id=414)
 
