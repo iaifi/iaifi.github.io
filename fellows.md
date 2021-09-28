@@ -6,9 +6,8 @@ title: IAIFI Fellows
 
 ## Call for Applications for 2022-2025 IAIFI Fellows
 
-**We are pleased to announce our second round of the IAIFI fellowship competition.** 
-
-### [Click here to submit an application via AJO](https://academicjobsonline.org/ajo/jobs/18785)
+**We are no longer accepting applications for this round. Please sign up for our [mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive announcements for next year's competition.**
+{:.info}
 
 Of critical importance to the IAIFI vision is our IAIFI Fellows program, which aims to recruit and train the most talented, promising, and diverse group of researchers at an early stage of their careers. These Fellows will spark vital interdisciplinary, multi-investigator, multi-subfield collaborations. Such collaborations have immense power to generate new ideas and approaches, to facilitate abstracting physics challenges beyond their native domains, and to instill a common language across disciplines. Our program aims to appoint three new postdoctoral IAIFI Fellows each academic year, for a three-year fellowship term each.
  
