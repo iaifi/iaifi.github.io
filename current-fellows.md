@@ -7,7 +7,7 @@ title: Current IAIFI Fellows
 
 We are excited for [Anna](#anna-golubeva), [Di](#di-luo), [Siddharth](#siddharth-mishra-sharma), and [Ge](#ge-yang) to join us as our first round of IAIFI Fellows to help spark vital interdisciplinary research at the intersection of Physics and AI!
 
-### Anna Golubeva
+### [Anna Golubeva](mailto:golubeva@mit.edu)
 
 <img class="image image--lg" src="images/small-photo-anna-golubeva.jpg" align="right" hspace="20" vspace="20"/>
 
@@ -15,7 +15,7 @@ We are excited for [Anna](#anna-golubeva), [Di](#di-luo), [Siddharth](#siddharth
 
 **Biographical Sketch**:  Anna Golubeva obtained her PhD in 2021 at the Perimeter Institute for Theoretical Physics and the University of Waterloo, where she was advised by Roger Melko. During her PhD, she was also a graduate affiliate at the Vector Institute for AI in Toronto. Previously, she completed the Perimeter Scholars International master's program (2017), a MSc in Theoretical Physics with focus on computational approaches to quantum many-body systems (2016), and a BSc in Biophysics (2014) at the Goethe University in Frankfurt, Germany.
 
-### Di Luo
+### [Di Luo](mailto:diluo@mit.edu)
 
 <img class="image image--lg" src="images/small-photo-di-luo.jpg" align="right" hspace="20" vspace="20"/>
 
@@ -24,7 +24,7 @@ We are excited for [Anna](#anna-golubeva), [Di](#di-luo), [Siddharth](#siddharth
 **Biographical Sketch**:  Di Luo received his undergraduate degree with majors in physics and mathematics from the University of Hong Kong in 2016 and pursued his Ph.D. in physics at the University of Illinois, Urbana-Champaign.  Di Luo will become an IAIFI Fellow at the NSF AI Institute for Artificial Intelligence and Fundamental Interactions in 2021.
 
 
-### Siddharth Mishra-Sharma
+### [Siddharth Mishra-Sharma](mailto:smsharma@mit.edu)
 
 <img class="image image--lg" src="images/small-photo-siddharth-mishra-sharma.jpg" align="right" hspace="20" vspace="20"/>
 
@@ -33,7 +33,7 @@ We are excited for [Anna](#anna-golubeva), [Di](#di-luo), [Siddharth](#siddharth
 **Biographical Sketch**: Prior to joining the NSF AI Institute for Artificial Intelligence and Fundamental Interactions as an IAIFI Fellow, Siddharth Mishra-Sharma was a postdoctoral associate at the Center for Cosmology and Particle Physics at New York University from 2018-2021. He received his Ph.D. in Physics from Princeton University in 2018. He read Natural Sciences and Mathematics at the University of Cambridge, where he was a member of Peterhouse, receiving his undergraduate degree in 2013.  Siddharth grew up in Moscow, Russia.
 
 
-### Ge Yang
+### [Ge Yang](mailto:ge.ike.yang@gmail.com)
 
 <img class="image image--lg" src="images/small-photo-ge-yang.jpg" align="right" hspace="20" vspace="20"/>
 
