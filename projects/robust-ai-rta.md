@@ -12,6 +12,7 @@ pubs:
  - 2020-10-19a
 ---
 
+<center><img src="../images/mode-performance.png" width="400"/></center> 
 
 The sensor arrays of the LHC experiments produce over 100 TB/s of data, which is over a zettabyte per year. After drastic data-reduction performed by custom-built read-out electronics, the data volumes are still O(100) exabytes per year, which cannot be stored indefinitely. Therefore, each experiment processes the data in real-time and decides whether each event should remain persistent or be discarded permanently, referred to as *triggering* in particle physics.
 
