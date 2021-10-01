@@ -1,0 +1,36 @@
+<h3>IAIFI Team Members</h3>
+
+<ul>
+
+{% for contact in include.team %}
+  {%- assign person = site.data.people[contact] -%}
+  <li>
+  {% if person %}
+    {%- if person.e-mail -%} <a href="mailto:{{person.e-mail}}">{{person.name}}</a> {% else %} {{person.name}} {% endif %} | {{person.institution}}
+    {%- if person.website -%} &nbsp; <a href="{{person.website}}">[website]</a> {% endif %}
+  {% endif %}
+  </li>
+{% endfor %}
+
+</ul>
+
+
+{% if include.pubs.size > 0 %}
+<h3>Publications</h3>
+
+{% assign products = site.data.products %}
+{% for pub in include.pubs %}
+{% assign paper = products[pub] %}
+{% if paper.type == "paper" %}
+***{{paper.title}}*** <br>
+{{paper.authors}} <br>
+{%if paper.doi %} [{{paper.journal}}]({{paper.doi}}) {% elsif paper.alt-url %} [{{paper.journal}}]({{paper.alt-url}}) {% endif %}[ {% if paper.arxiv %} [arXiv:{{paper.arxiv}}](https://arxiv.org/abs/{{paper.arxiv}}) {% endif %} {% if paper.code %} | [code]({{paper.code}}) {% endif %} ]
+<div style = "position:relative; top:-1em;" >
+<details>
+<summary>Abstract</summary>
+<em>{{paper.abstract}}</em>
+</details>
+</div>
+{% endif %}
+{% endfor %}
+{% endif %}
