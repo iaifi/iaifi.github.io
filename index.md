@@ -16,12 +16,12 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Jobs
 
-***We are pleased to announce the 2022-2025 IAIFI Fellows competition!*** Visit our [IAIFI Fellows](https://iaifi.org/fellows) page for details. Applications are due by September 21, 2021.
+***Applications for the 2022-2025 IAIFI Fellowship are now closed.*** Updates on future competitions will be provided on the [IAIFI Fellows page](https://iaifi.org/fellows). You can also [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive announcements for future competitions.
 {:.success}
 
 ### IAIFI Events
 
-***IAIFI Colloquium Series continues October 1 at 2:00 pm ET:***  Our biweekly [virtual colloquium series](events.html) will continue on Friday, October 1, 2021 at 2:00 pm ET with a presentation from Ben Wandelt on "Learning the Universe"! Watch on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
+***IAIFI Colloquium Series continues October 15 at 2:00 pm ET:***  Our biweekly [virtual colloquium series](events.html) will continue on Friday, October 15, 2021 at 2:00 pm ET with a presentation from Rose Yu on "Physics-Guided AI for Learning Spatiotemporal Dynamics"! Watch on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
 Every other Friday throughout the semester, the series will showcase researchers working at the intersection of AI and Physics. [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series.
 {:.success}
 
