@@ -69,7 +69,8 @@ These talks are only open to IAIFI members and affiliates.
 
   * **Cengiz Pehlevan, Assistant Professor, Applied Mathematics, Harvard University (SEAS)**
     * **Friday, October 22, 2:00-3:00pm**
-    * *Details to come*
+    * *"Inductive bias of neural networks"*
+    * Abstract: A learner’s performance depends crucially on how its internal assumptions, or inductive biases, align with the task at hand. I will present a theory that describes the inductive biases of neural networks in the infinite width limit using kernel methods and statistical mechanics. This theory elucidates an inductive bias to explain data with "simple functions" which are identified by solving a related kernel eigenfunction problem on the data distribution. This notion of simplicity allows us to characterize whether a network is compatible with a learning task, facilitating good generalization performance from a small number of training examples. I will present applications of the theory to deep networks (at finite width) trained on synthetic and real datasets, and recordings from the mouse primary visual cortex. Finally, I will briefly present an extension of the theory to out-of-distribution generalization.
     
   * **Bryan Ostdiek, Postdoctoral Fellow, Theoretical Particle Physics, Harvard University**
     * **Friday, November 5, 2:00-3:00pm**
