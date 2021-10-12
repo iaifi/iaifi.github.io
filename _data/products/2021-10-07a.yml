@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Pruning a restricted Boltzmann machine for quantum state reconstruction"
+authors: Anna Golubeva, Roger G. Melko
+abstract: Restricted Boltzmann machines (RBMs) have proven to be a powerful tool for learning quantum wavefunction representations from qubit projective measurement data. Since the number of classical parameters needed to encode a quantum wavefunction scales rapidly with the number of qubits, the ability to learn efficient representations is of critical importance. In this paper we study magnitude-based pruning as a way to compress the wavefunction representation in an RBM, focusing on RBMs trained on data from the transverse-field Ising model in one dimension. We find that pruning can reduce the total number of RBM weights, but the threshold at which the reconstruction accuracy starts to degrade varies significantly depending on the phase of the model. In a gapped region of the phase diagram, the RBM admits pruning over half of the weights while still accurately reproducing relevant physical observables. At the quantum critical point however, even a small amount of pruning can lead to significant loss of accuracy in the physical properties of the reconstructed quantum state. Our results highlight the importance of tracking all relevant observables as their sensitivity varies strongly with pruning. Finally, we find that sparse RBMs are trainable and discuss how a successful sparsity pattern can be created without pruning.
+arxiv: "2110.03676"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
