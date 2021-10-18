@@ -21,7 +21,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Events
 
-***IAIFI Colloquium Series continues October 15 at 2:00 pm ET:***  Our biweekly [virtual colloquium series](events.html) will continue on Friday, October 15, 2021 at 2:00 pm ET with a presentation from Rose Yu on "Physics-Guided AI for Learning Spatiotemporal Dynamics"! Watch on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
+***IAIFI Colloquium Series continues October 29 at 2:00 pm ET:***  Our biweekly [virtual colloquium series](events.html) will continue on Friday, October 29, 2021 at 2:00 pm ET with a presentation from Sven Krippendorf on "Theoretical Physicists' Biases Meet Machine Learning"! Watch on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
 Every other Friday throughout the semester, the series will showcase researchers working at the intersection of AI and Physics. [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series.
 {:.success}
 
