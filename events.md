@@ -35,6 +35,8 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
 * **[Rose Yu](https://roseyu.com), Assistant Professor, Computer Science and Engineering, UC San Diego** <img class="image" src="images/small-photo-rose-yu.jpg" align="right" hspace="20" vspace="20"/>
     * **Friday, October 15, 2:00-3:00pm** 
     * *"Physics-Guided AI for Learning Spatiotemporal Dynamics"*
+    * [YouTube Recording](https://youtu.be/B0VxQXMB53o)
+    * [Talk Slides](talks/2021_10_15_IAIFI_Colloquium_Yu.pdf)
     * Abstract:  Applications such as public health, transportation, and climate science often require learning complex dynamics from large-scale spatiotemporal data. While deep learning has shown tremendous success in these domains, it remains a grand challenge to incorporate physical principles in a systematic manner to the design, training, and inference of such models. In this talk, we will demonstrate how to principally integrate physics in AI models and algorithms to achieve both prediction accuracy and physical consistency. We will showcase the application of these methods to problems such as forecasting COVID-19, traffic modeling, and accelerating turbulence simulations.
 
 * **[Sven Krippendorf](https://krippendorflab.github.io), Senior Researcher, Mathematical Physics and String Theory, Ludwig-Maximilians Universität** <img class="image" src="images/small-photo-sven-krippendorf.jpg" align="right" hspace="20" vspace="20"/>
