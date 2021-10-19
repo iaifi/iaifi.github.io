@@ -48,20 +48,14 @@ For junior researchers interested in getting involved as a **Junior Investigator
 </select>
 <br>
 <label>
+<b>If you are interested in participating as a Junior Investigator, please list <a href="https://iaifi.org/people#senior-investigators">IAIFI Senior Investigators</a> with whom you are most interested in collaborating</b>: <br>
+<textarea name="collaborators"></textarea>
+</label> 
+<br>
+<label>
 <b>Please provide a brief (100 words or less) description of your own IAIFI-related work</b>: <br>
 <textarea name="research"></textarea>
 </label>
-<br>
-<label>
-<b>If you are interested in participating as a Junior Investigator, please list <a href="https://iaifi.org/people#senior-investigators">IAIFI Senior Investigators</a> with whom you are most interested in collaborating</b>: <br>
-<textarea name="collaborators"></textarea>
-</label>
-<br>
-<label>
-<b>Optional additional information can be provided below. Feel free to provide a few references, e.g. links to publications (arXiv, journal, etc), software projects, etc. that showcase your work.</b>
-<br>
-<textarea name="collaborators"></textarea>
-</label> 
 <br>
 <label>
 <b>How did you hear about IAIFI?</b> </label> <br> 
@@ -75,6 +69,13 @@ For junior researchers interested in getting involved as a **Junior Investigator
   <option value="6">Twitter</option>
   <option value="7">Other</option>
 </select>
+<br>
+<label>
+<b>Optional additional information can be provided below. Feel free to provide a few references, e.g. links to publications (arXiv, journal, etc), software projects, etc. that showcase your work.</b>
+<br>
+<textarea name="collaborators"></textarea>
+</label>
+<br>
 <br>
 <button type="submit" class="formbutton"><b>Send</b></button>
 </form>
