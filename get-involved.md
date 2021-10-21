@@ -61,6 +61,8 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 
 IAIFI does not have dedicated faculty opportunities, but there are open faculty positions in IAIFI-affiliated universities.
 
+
+<img class="image image--sm" src="images/ctp-logo.png" align="right" hspace="20" vspace="20"/>
 ### MIT Center for Theoretical Physics
 
 * [Junior faculty openings in the MIT CTP](http://academicjobsonline.org/ajo/mit/ctp/)
@@ -79,7 +81,7 @@ IAIFI does not have dedicated faculty opportunities, but there are open faculty 
 
 ## Prospective Postdocs
 
-The flagship postdoctoral opportunities in IAIFI is the IAIFI Fellowship program, but there are other postdoctoral opportunities with IAIFI-affiliated researchers.
+The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, but there are other postdoctoral opportunities with IAIFI-affiliated researchers.
 
 
 <img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
