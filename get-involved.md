@@ -10,6 +10,7 @@ Thank you for your interest in getting involved with IAIFI! Navigate to the role
 * [Prospective Faculty](#prospective-faculty)
 * [Prospective Postdocs](#prospective-postdocs)
 * [Prospective Graduate Students](#prospective-graduate-students)
+* [Prospective Undergraduate Students](#prospective-undergraduate-students)
 * [Researchers or Practitioners in Industry](#researchers-or-practitioners-in-industry)
 * [Researchers Beyond the Boston Area](#researchers-beyond-the-boston-area)
 
@@ -62,17 +63,22 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 IAIFI does not have dedicated faculty opportunities, but there are open faculty positions in IAIFI-affiliated universities.
 
 
-<img class="image image--sm" src="images/ctp-logo.png" align="right" hspace="20" vspace="20"/>
+<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 ### MIT Center for Theoretical Physics
 
 * [Junior faculty openings in the MIT CTP](http://academicjobsonline.org/ajo/mit/ctp/)
 * Deadline: November 15, 2021 for July 1, 2023 anticipated start
 
+
+<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 ### MIT Physics Division of Experimental Particle and Nuclear Physics
 
 * [Junior faculty openings in MIT Physics NUPAX](https://academicjobsonline.org/ajo/jobs/19978)
 * Deadline: December 1, 2021 for July 1, 2023 anticipated start
 
+
+
+<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 ### MIT Department of Electrical Engineering and Computer Science (EECS)
 
 * [Junior faculty openings in MIT EECS](https://www.eecs.mit.edu/career-opportunities/eecs-faculty-positions-2022)
@@ -95,14 +101,26 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 
 ### Other Postdoc Positions with IAIFI Involvement
 
+
+<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
 #### MIT Center for Theoretical Physics
 
 * [Postdoc openings in the MIT CTP](http://academicjobsonline.org/ajo/mit/ctp/)
 * Deadline: November 15, 2021 for September 1, 2022 anticipated start
 
+<img class="image image--sm" src="images/nsf_logo.png" align="right" hspace="20" vspace="20"/>
+#### NSF MPS-Ascend Fellowship
+
+* [Apply for a Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship](https://www.nsf.gov/pubs/2022/nsf22501/nsf22501.pdf?WT.mc_id=USNSF_34&WT.mc_ev=click)
+* Proposals due January 6, 2022 to start by October 1, 2022
+* Awarded to individual, not institution
+* Candidates need a sponsoring scientist and host institution, so if you are interested in applying to work with IAIFI, identify an [IAIFI Senior Investigator](people.html#senior-investigators) and ask them to sponsor you
 
 ## Prospective Graduate Students
 
+IAIFI does not have a dedicated PhD program, but PhD students at any of the partner institutions may collaborate with IAIFI researchers to become a Junior Investigator.
+
+<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
 ### MIT Graduate Program in Physics
 
 * [Apply to be an MIT Physics graduate student](https://gradapply.mit.edu/physics)
@@ -110,18 +128,25 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * Learn about the [MIT Physics program](https://physics.mit.edu/academic-programs/graduate-students/)
 * Learn about the [Interdisciplinary PhD in Physics, Statistics and Data Science](https://physics.mit.edu/academic-programs/graduate-students/psds-phd/)
 
+
+
+<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
 ### MIT Graduate Program in Electrical Engineering and Computer Science
 
 * [Apply to be an MIT EECS graduate student](https://gradapply.mit.edu/eecs)
 * Deadline: December 15 for the following academic year
 * Learn more about the [MIT EECS program](https://www.eecs.mit.edu/academics-admissions/graduate-program)
 
+
+<img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
 ### Harvard Graduate Program in Physics
 
 * [Apply to be a Harvard Physics graduate student](https://gsas.harvard.edu/programs-of-study/all/physics)
 * Deadline: December 15 for the following academic year
 * Learn more about the [Harvard Physics program](https://www.physics.harvard.edu/academics/grad)
 
+
+<img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
 ### Harvard Graduate Program in Engineering and Applied Sciences (SEAS)
 
 * [Apply to be a Harvard SEAS graduate student](https://gsas.harvard.edu/programs-of-study/divisions/school-engineering-and-applied-sciences)
@@ -129,6 +154,7 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * Learn more about the [Harvard SEAS program](https://www.seas.harvard.edu)
 
 
+<img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
 ### Northeastern Graduate Program in Physics
 
 * [Apply to be a Northeastern graduate student](https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantConnectLogin.asp?id=neu-grad)
@@ -138,18 +164,31 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
     * PhD (Fall admissions only): Priority deadline December 1, rolling admissions until March 15 
 * Learn more about the [Northeastern Physics program](https://www.northeastern.edu/graduate/program/master-of-science-in-physics-14258/)
 
-
+<img class="image image--sm" src="images/tufts_logo.png" align="right" hspace="10" vspace="10"/>
 ### Tufts Graduate Program in Physics and Astronomy
 
 * [Apply to be a Tufts Physics and Astronomy graduate student](https://gradase.admissions.tufts.edu/apply/)
 * Deadline: January 15 for the following academic year
 * Learn more about the [Tufts Physics and Astronomy program](https://asegrad.tufts.edu/academics/explore-graduate-programs/physics)
 
+
+<img class="image image--sm" src="images/tufts_logo.png" align="right" hspace="10" vspace="10"/>
 ### Tufts Graduate Program in Computer Science 
 
 * [Apply to be a Tufts Computer Science graduate student](https://gradase.admissions.tufts.edu/apply/)
 * Deadline: December 15 for PhD applicants, January 15 for MS applicants
 * Learn more about the [Tufts Computer Science program](https://engineering.tufts.edu/cs/)
+
+
+## Prospective Undergraduate Students
+
+
+<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
+### MIT Summer Research Program
+
+* [Apply to the MIT Summer Research Program](https://oge.mit.edu/graddiversity/msrp/)
+* Applications open in November for Summer 2022 (June 5 through August 6)
+* This program’s goal is to increase the number of underrepresented minorities and underserved (e.g. low socio-economic background, first generation) students in the research enterprise.
 
 ## Researchers or Practitioners in Industry
 
@@ -165,6 +204,8 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * [List of IAIFI Senior Investigators](https://iaifi.org/people.html#senior-investigators)
 * List of current research projects [coming soon!]
 
+
+<img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
 ### Discuss Possible Partnerships with IAIFI
 
 * Contact [Todd Zickler](mailto:zickler@seas.harvard.edu), IAIFI Knowledge Transfer Coordinator
