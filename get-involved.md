@@ -113,8 +113,8 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 
 * [Apply for a Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship](https://www.nsf.gov/pubs/2022/nsf22501/nsf22501.pdf?WT.mc_id=USNSF_34&WT.mc_ev=click)
 * Proposals due January 6, 2022 to start by October 1, 2022
-* Awarded to individual, not institution
-* Candidates need a sponsoring scientist and host institution, so if you are interested in applying to work with IAIFI, identify an [IAIFI Senior Investigator](people.html#senior-investigators) and ask them to sponsor you
+* Awarded to an individual, not institution
+* Candidates need a sponsoring scientist and host institution, so if you are interested in applying to work with IAIFI, ask an [IAIFI Senior Investigator](people.html#senior-investigators) to sponsor you or contact [IAIFI Management](mailto:iaifi-management@mit.edu) for help identifying a sponsor
 
 ## Prospective Graduate Students
 
@@ -182,6 +182,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 
 ## Prospective Undergraduate Students
 
+IAIFI investigators often have opportunities for undergraduate students to get involved in research through volunteer projects or formal programs.
 
 <img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
 ### MIT Summer Research Program
@@ -190,8 +191,16 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 * Applications open in November for Summer 2022 (June 5 through August 6)
 * This program’s goal is to increase the number of underrepresented minorities and underserved (e.g. low socio-economic background, first generation) students in the research enterprise.
 
+<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
+### MIT Undergraduate Research Opportunity Program
+
+* Contact an [IAIFI Senior Investigator](https://iaifi.org/people.html#senior-investigators) at MIT to inquire about potential UROP funding
+* Learn more about [becoming a UROP](https://urop.mit.edu/)
+
+
 ## Researchers or Practitioners in Industry
 
+IAIFI is collaborating with researchers outside of academia to advance research at the intersection of physics and AI.
 
 <img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
 ### Apply to be an IAIFI Affiliate
@@ -218,6 +227,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 
 ## Researchers Beyond the Boston Area
 
+Official IAIFI affiliation is currently limited to those in the greater Boston Area, though IAIFI researchers participate in worldwide collaborations and many IAIFI events are open to the broader community.
 
 <img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
 ### Receive Updates on IAIFI Events and Opportunities
