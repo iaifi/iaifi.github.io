@@ -114,10 +114,13 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 * Sign in to [internal.iaifi.org](https://internal.iaifi.org)
 * If you do not have access, [email IAIFI Management](mailto:iaifi-management@mit.edu)
 * Resources on the internal website include:
-    * Affiliation and acknowledgment details for IAIFI-related papers;
-    * Access to sign up for the IAIFI Zulip;
-    * Recordings of previous seminars;
-    * Information on available tools from industry partners.
+    * [Affiliation and acknowledgment details](https://internal.iaifi.org/useful-information/) for IAIFI-related papers;
+    * Access to [sign up for the IAIFI Zulip](https://internal.iaifi.org/useful-information/);
+    * [Recordings of previous seminars](https://internal.iaifi.org/internal-events/).
+
+<!---
+Information on available tools from industry partners.
+--->
 
 ## Explore Career and PhD Opportunities
 * Apply to the [MIT Interdisciplinary PhD in Physics, Statistics, and Data Science](https://physics.mit.edu/academic-programs/graduate-students/psds-phd/)
