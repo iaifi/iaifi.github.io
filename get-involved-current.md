@@ -11,7 +11,7 @@ IAIFI thrives on the energy and enthusiasm of its members!  If you are currently
 --->
 * [Join an IAIFI Committee](#join-an-iaifi-committee)
 * [Lead an IAIFI Journal Club](#lead-an-iaifi-journal-club)
-* [Attend IAIFI Discussion Seminars](#attend-iaifi-discussion-seminars)
+* [Attend IAIFI Discussion Seminars and Public Colloquia](#attend-iaifi-discussion-seminars-and-public-colloquia)
 * [Collaborate on IAIFI Research Projects](#collaborate-on-iaifi-research-projects)
 * [Share Achievements with IAIFI Management](#share-achievements-with-iaifi-management)
 * [Access the IAIFI Internal Website](#access-the-iaifi-internal-website)
@@ -84,12 +84,16 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
 * Any IAIFI member or partner can [sign up to lead an IAIFI Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7)
 * Journal Club is led by Andrew Tan and John Martyn
+* Journal Club for the Fall 2021 semester is held every other Thursday (beginning Sept. 23, 2021) at 11 am ET over Zoom
 * Previous Journal Club slides and resources can be found on the [IAIFI internal website](https://internal.iaifi.org/journal-club) (if you do not have access, [email IAIFI Management](mailto:iaifi-management@mit.edu))
 
-## Attend IAIFI Discussion Seminars
-* View the [full schedule for Discussion Seminars](events.html#iaifi-internal-seminars)
+## Attend IAIFI Discussion Seminars and Public Colloquia
+* View the [full schedule for Discussion Seminars and Colloquia](events.html)
 * Watch [recordings of past seminars](https://internal.iaifi.org/internal-events/) on the IAIFI internal website (if you do not have access,
 [email IAIFI Management](mailto:iaifi-management@mit.edu))
+* Watch [recordings of past colloquia](https://youtube.com/playlist?list=PLBY0ED2StbGZtEAbnyZz9p3pK31qHLXmq) on our [YouTube Channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA)
+* The Discussion Seminars for Fall 2021 are held every other Friday (beginning Sept. 24, 2021) at 2 pm ET over Zoom
+* The Colloquia for Fall 2021 are held every other Friday (beginning Sept. 17, 2021) at 2 pm ET over Zoom and YouTube
 * Make sure you are on the internal IAIFI mailing list to receive announcements and Zoom information  (if you are not receiving iaifi-all emails, [email IAIFI Management](mailto:iaifi-management@mit.edu))
 
 
