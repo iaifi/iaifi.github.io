@@ -103,6 +103,7 @@ Upcoming workshops involving members of the IAIFI community:
 Other organizations that hold public events relevant to the IAIFI community:
 
   * [Physics Meets ML](http://www.physicsmeetsml.org/)
+  * [NSF AI Planning Institute for Data-Driven Discovery in Physics Seminar Series](https://www.cmu.edu/ai-physics-institute/events/index.html)
   * [CLARIPHY Topical Meetings](https://clariphy.org/topical.html)
   * [Understanding the Nature of Inference Colloquia](https://inferenceproject.yale.edu/colloquium-series)
   * [Stochastics and Statistics Seminars presented by the MIT Statistics and Data Science Center](https://stat.mit.edu/seminars/)
