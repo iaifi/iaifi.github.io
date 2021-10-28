@@ -102,15 +102,20 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 ### Other Postdoc Positions with IAIFI Involvement
 
 
-<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
+<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 #### MIT Center for Theoretical Physics
 
 * [Postdoc openings in the MIT CTP](http://academicjobsonline.org/ajo/mit/ctp/)
 * Deadline: November 15, 2021 for September 1, 2022 anticipated start
 
-<img class="image image--sm" src="images/nsf_logo.png" align="right" hspace="20" vspace="20"/>
-#### NSF MPS-Ascend Fellowship
+<img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
+#### Harvard University Physics Department
+* [High Energy Theory Physics Postdoc openings at Harvard](https://academicjobsonline.org/ajo/jobs/20235)
+* Deadline: December 6, 2021 for academic year 2022-2023
 
+
+#### NSF MPS-Ascend Fellowship
+<img class="image image--sm" src="images/nsf_logo.png" align="right" hspace="10" vspace="10"/>
 * [Apply for a Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship](https://www.nsf.gov/pubs/2022/nsf22501/nsf22501.pdf?WT.mc_id=USNSF_34&WT.mc_ev=click)
 * Proposals due January 6, 2022 to start by October 1, 2022
 * Awarded to an individual, not institution

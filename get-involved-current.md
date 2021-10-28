@@ -112,6 +112,11 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 * *When you're in the news:*
   * [Email IAIFI Management](mailto:iaifi-management@mit.edu) so that we can share on the [home page](index.html) (news on the home page is eventually moved to the [News Archive](iaifi-news.html)), [tweet about it](https://twitter.com/iaifi_news), and include in reports
 
+## Advertise and Acknowledge IAIFI
+* Use the IAIFI (with NSF) logo in talks related to IAIFI: [Black](images/iaifi-nsf-logo-black.pdf);  [White](images/iaifi-nsf-logo-white.pdf)
+* Share slides advertising public IAIFI opportunities when appropriate: [Overview Slide](images/iaifi-oneslide-overview.pdf); [Resources and Activities Slide](images/iaifi-oneslide-resources.pdf)
+* Include IAIFI affiliation in papers: The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (Note: There is no address.)
+* Include IAIFI acknowledgment in IAIFI-related papers (required if you are a Junior or Senior Investigator): This work is supported by the National Science Foundation under Cooperative Agreement PHY-2019786 (The NSF AI Institute for Artificial Intelligence and Fundamental Interactions, http://iaifi.org/). 
 
 ## Access the IAIFI Internal Website
 
