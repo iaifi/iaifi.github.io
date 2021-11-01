@@ -21,7 +21,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Events
 
-***IAIFI Colloquium Series continues October 29 at 2:00 pm ET:***  Our biweekly [virtual colloquium series](events.html) will continue on Friday, October 29, 2021 at 2:00 pm ET with a presentation from Sven Krippendorf on "Theoretical Physicists' Biases Meet Machine Learning"! Watch on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
+***IAIFI Colloquium Series continues November 12 at 2:00 pm ET:***  Our biweekly [virtual colloquium series](events.html) will continue on Friday, November 12, 2021 at 2:00 pm ET with a presentation from Yasaman Bahri on "Understanding deep learning"! Watch on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
 Every other Friday throughout the semester, the series will showcase researchers working at the intersection of AI and Physics. [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series.
 {:.success}
 
@@ -33,6 +33,9 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 ### IAIFI News
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html).
+
+***IAIFI Senior Investigator Philip Harris establishes NSF-Funded Institute with Collaborators:*** [Philip Harris will serve as Deputy Director of the Accelerated AI Algorithms for Data-Driven Discovery (A3D3) Institute](https://news.mit.edu/2021/taming-data-deluge-1029), using Artificial Intelligence to accelerate discoveries in physics, astronomy, and neuroscience.
+{:.info}
 
 ***IAIFI Fellow Siddharth Mishra-Sharma and Senior Investigator Phiala Shanahan Interviewed for Nature Careers:*** Read ["How AI is helping the natural sciences"](https://www.nature.com/articles/d41586-021-02762-6), *October 13, 2021*
 {:.info}
