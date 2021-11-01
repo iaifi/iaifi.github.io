@@ -34,25 +34,25 @@ To receive periodic announcements about IAIFI-related activities, [sign up for o
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html).
 
-***IAIFI Senior Investigator Philip Harris establishes NSF-Funded Institute with Collaborators:*** [Philip Harris will serve as Deputy Director of the Accelerated AI Algorithms for Data-Driven Discovery (A3D3) Institute](https://news.mit.edu/2021/taming-data-deluge-1029), using Artificial Intelligence to accelerate discoveries in physics, astronomy, and neuroscience.
+***IAIFI Senior Investigator Philip Harris establishes NSF-Funded Institute with collaborators:*** [Philip Harris will serve as Deputy Director of the Accelerated AI Algorithms for Data-Driven Discovery (A3D3) Institute](https://news.mit.edu/2021/taming-data-deluge-1029), using Artificial Intelligence to accelerate discoveries in physics, astronomy, and neuroscience.
 {:.info}
 
-***IAIFI Fellow Siddharth Mishra-Sharma and Senior Investigator Phiala Shanahan Interviewed for Nature Careers:*** Read ["How AI is helping the natural sciences"](https://www.nature.com/articles/d41586-021-02762-6), *October 13, 2021*
+***IAIFI Fellow Siddharth Mishra-Sharma and Senior Investigator Phiala Shanahan interviewed for Nature Careers:*** Read ["How AI is helping the natural sciences"](https://www.nature.com/articles/d41586-021-02762-6), *October 13, 2021*
 {:.info}
 
 ***Jesse Thaler argues that particle physicists must go beyond deep learning and design AI capable of deep thinking:*** Read his [opinion piece in the CERN Courier](https://cerncourier.com/a/designing-an-ai-physicist/), *September 2, 2021*
 {:.info}
 
-***Jesse Thaler Interviewed for Communications of the Association for Computing Machinery:*** Read Jesse Thaler's interview on [Using AI to Drill Down in Physics](https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics/fulltext), *July 8, 2021*
+***Jesse Thaler interviewed for Communications of the Association for Computing Machinery:*** Read Jesse Thaler's interview on [Using AI to Drill Down in Physics](https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics/fulltext), *July 8, 2021*
 {:.info}
 
-***Philip Harris Receives Department of Energy Early Career Research Award for 2021:*** The award provides “exceptional researchers during the crucial early career years” with significant funding to support their research. Philip Harris was selected for his research, “Harnessing the Large Hadron Collider with New Insights in Real-Time Data Processing and Artificial Intelligence.” [DOE announces 2021 Early Career Research Awards](https://science.osti.gov/early-career), *May 27, 2021*
+***Philip Harris receives Department of Energy Early Career Research Award for 2021:*** The award provides “exceptional researchers during the crucial early career years” with significant funding to support their research. Philip Harris was selected for his research, “Harnessing the Large Hadron Collider with New Insights in Real-Time Data Processing and Artificial Intelligence.” [DOE announces 2021 Early Career Research Awards](https://science.osti.gov/early-career), *May 27, 2021*
 {:.info}
 
-***IAIFI Senior Investigators Present at EmTech Digital Conference 2021:*** Watch Jesse Thaler, Phiala Shanahan, and Pulkit Agrawal present Master Classes for MIT Technology Review's EmTech Digital Conference 2021: [IAIFI Master Classes on YouTube](https://youtube.com/playlist?list=PLBY0ED2StbGZV9_8FDiBRdWCr1AZeW9FN), *April 20, 2021*
+***IAIFI Senior Investigators present at EmTech Digital Conference 2021:*** Watch Jesse Thaler, Phiala Shanahan, and Pulkit Agrawal present Master Classes for MIT Technology Review's EmTech Digital Conference 2021: [IAIFI Master Classes on YouTube](https://youtube.com/playlist?list=PLBY0ED2StbGZV9_8FDiBRdWCr1AZeW9FN), *April 20, 2021*
 {:.info}
 
-***Bill Freeman Elected Member of National Academy of Engineering:***  "For contributions to computer vision and image enhancement."  [National Academy of Engineering](https://www.nae.edu/248499/National-Academy-of-Engineering-Elects-106-Members-and-23-International-Members), *February 9, 2021*
+***Bill Freeman elected member of National Academy of Engineering:***  "For contributions to computer vision and image enhancement."  [National Academy of Engineering](https://www.nae.edu/248499/National-Academy-of-Engineering-Elects-106-Members-and-23-International-Members), *February 9, 2021*
 {:.info}
 
 ***"Can a Computer Devise a Theory of Everything?":***   Max Tegmark and Jesse Thaler weigh in on this provocative question in a [New York Times article](https://www.nytimes.com/2020/11/23/science/artificial-intelligence-ai-physics-theory.html) by Dennis Overbye, *November 23, 2020*
