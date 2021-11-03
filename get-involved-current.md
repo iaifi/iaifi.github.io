@@ -80,6 +80,12 @@ Unless otherwise noted, the opportunities listed on this page are available to m
   * The Committee is currently planning the PhD Summer School for Summer 2022
   * [Email Jim Halverson](mailto:j.halverson@northeastern.edu) if you have ideas or would like to express interest in volunteering for events during the Summer School
 
+### MITx Course
+    * Join the teaching team for MIT's Physics in Data Science class (8.S50), which will be taught over IAP (January 2022) and will be used to help build IAIFI's first MITx (MIT's online education platform) course
+    * As part of the team, you can help shape the material, potentially teach recitation, and help build the online version of the course
+    * Requirements: Completed MIT junior lab or experience in data analysis
+    * [Email Phil Harris](mailto:pcharris@mit.edu)
+
 ## Lead an IAIFI Journal Club
 
 * Any IAIFI member or partner can [sign up to lead an IAIFI Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7)
