@@ -84,6 +84,10 @@ IAIFI does not have dedicated faculty opportunities, but there are open faculty 
 * [Junior faculty openings in MIT EECS](https://www.eecs.mit.edu/career-opportunities/eecs-faculty-positions-2022)
 * Deadline: December 1, 2021 for July 1, 2022 anticipated start
 
+<img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
+### Harvard University School of Engineering and Applied Sciences (SEAS)
+* [Tenure-track faculty openings in Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/office-faculty-affairs/open-academic-positions?job_type%5Btenure%5D=tenure&sort_by=search_api_relevance)
+* Deadline: December 15, 2021 for July 1, 2022 anticipated start
 
 ## Prospective Postdocs
 
@@ -109,9 +113,18 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * Deadline: November 15, 2021 for September 1, 2022 anticipated start
 
 <img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
-#### Harvard University Physics Department
+#### Harvard University
 * [High Energy Theory Physics Postdoc openings at Harvard](https://academicjobsonline.org/ajo/jobs/20235)
 * Deadline: December 6, 2021 for academic year 2022-2023
+
+* [Postdoc opportunities in ML Theory Group](https://mltheory.org/#opportunities)
+* Deadlines vary for Fall 2022 appointments
+
+<img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
+#### Northeastern University Physics Department
+* [Theoretical Particle Physics openings at Northeastern](https://academicjobsonline.org/ajo/jobs/20224)
+* Deadline: December 1, 2021 to start in Fall 2022
+
 
 
 #### NSF MPS-Ascend Fellowship
