@@ -14,6 +14,7 @@ IAIFI thrives on the energy and enthusiasm of its members!  If you are currently
 * [Attend IAIFI Discussion Seminars and Public Colloquia](#attend-iaifi-discussion-seminars-and-public-colloquia)
 * [Collaborate on IAIFI Research Projects](#collaborate-on-iaifi-research-projects)
 * [Share Achievements with IAIFI Management](#share-achievements-with-iaifi-management)
+* [Advertise and Acknowledge IAIFI](#advertise-and-acknowledge-iaifi)
 * [Access the IAIFI Internal Website](#access-the-iaifi-internal-website)
 * [Explore Career and PhD Opportunities](#explore-career-and-phd-opportunities)
 * [Get Involved Beyond IAIFI](#get-involved-beyond-iaifi)
@@ -81,10 +82,10 @@ Unless otherwise noted, the opportunities listed on this page are available to m
   * [Email Jim Halverson](mailto:j.halverson@northeastern.edu) if you have ideas or would like to express interest in volunteering for events during the Summer School
 
 ### MITx Course
-    * Join the teaching team for MIT's Physics in Data Science class (8.S50), which will be taught over IAP (January 2022) and will be used to help build IAIFI's first MITx (MIT's online education platform) course
-    * As part of the team, you can help shape the material, potentially teach recitation, and help build the online version of the course
-    * Requirements: Completed MIT junior lab or experience in data analysis
-    * [Email Phil Harris](mailto:pcharris@mit.edu)
+  * Join the teaching team for MIT's Physics in Data Science class (8.S50), which will be taught over IAP (January 2022) and will be used to help build IAIFI's first MITx (MIT's online education platform) course
+  * As part of the team, you can help shape the material, potentially teach recitation, and help build the online version of the course
+  * Requirements: Completed MIT junior lab or experience in data analysis
+  * [Email Phil Harris](mailto:pcharris@mit.edu) if you're interested in joining the team
 
 ## Lead an IAIFI Journal Club
 
