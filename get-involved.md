@@ -84,11 +84,10 @@ IAIFI does not have dedicated faculty opportunities, but there are open faculty 
 * [Junior faculty openings in MIT EECS](https://www.eecs.mit.edu/career-opportunities/eecs-faculty-positions-2022)
 * Deadline: December 1, 2021 for July 1, 2022 anticipated start
 
-
 <img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
-### Harvard University School of Engineering and Applied Sciences
+### Harvard University School of Engineering and Applied Sciences (SEAS)
 * [Tenure-track faculty openings in Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/office-faculty-affairs/open-academic-positions?job_type%5Btenure%5D=tenure&sort_by=search_api_relevance)
-
+* Deadline: December 15, 2021 for July 1, 2022 anticipated start
 
 ## Prospective Postdocs
 
