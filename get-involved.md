@@ -117,11 +117,14 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * [High Energy Theory Physics Postdoc openings at Harvard](https://academicjobsonline.org/ajo/jobs/20235)
 * Deadline: December 6, 2021 for academic year 2022-2023
 
-* [Postdoc opportunities in ML Theory Group](https://mltheory.org/#opportunities)
+* [Postdoc opportunities in ML Theory Group at Harvard](https://mltheory.org/#opportunities)
 * Deadlines vary for Fall 2022 appointments
 
 * [Institute for Theory and Computation (ITC) Postdoc openings at the Harvard-Smithsonian Center for Astrophysics](https://pweb.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/itc-fellowship)
 * Deadline: November 8, 2021 for September 1, 2022 anticipated start
+
+* [Postdoctoral Fellowship opportunities in Harvard Data Science Initiative](https://datascience.harvard.edu/data-science-postdoctoral-fellows)
+* Deadline: November 22, 2021 for 2022-2023 academic year
 
 * [Center for Astrophysics Postdoc openings at Harvard](https://www.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/cfa-fellowship)
 * Deadline: Applications closed for academic year 2022; updated deadline for academic year 2023 TBA
