@@ -120,6 +120,12 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * [Postdoc opportunities in ML Theory Group](https://mltheory.org/#opportunities)
 * Deadlines vary for Fall 2022 appointments
 
+* [Institute for Theory and Computation (ITC) Postdoc openings at the Harvard-Smithsonian Center for Astrophysics](https://pweb.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/itc-fellowship)
+* Deadline: November 8, 2021 for September 1, 2022 anticipated start
+
+* [Center for Astrophysics Postdoc openings at Harvard](https://www.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/cfa-fellowship)
+* Deadline: Applications closed for academic year 2022; updated deadline for academic year 2023 TBA
+
 <img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
 #### Northeastern University Physics Department
 * [Theoretical Particle Physics openings at Northeastern](https://academicjobsonline.org/ajo/jobs/20224)
