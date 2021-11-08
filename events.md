@@ -85,7 +85,8 @@ These talks are only open to IAIFI members and affiliates.
     
   * **Tess Smidt, Assistant Professor, EECS, MIT**
     * **Friday, November 19, 2:00-3:00pm**
-    * *Details to come*
+    * *"Unexpected properties of symmetry equivariant neural networks"*
+    * Abstract: Physical data and the way that it is represented contains rich context, e.g. symmetries, conserved quantities, and experimental setups. There are many ways to imbue machine learning models with this context (e.g. input representation, training schemes, constraining model structure) and each vary in their flexibility and robustness. In this talk, I’ll give examples of some surprising consequences of what happens when we impose constraints on the functional forms of our models. Specifically, I’ll discuss properties of Euclidean Neural Networks which are constructed to preserve 3D Euclidean symmetry. Perhaps unsurprisingly, symmetry preserving algorithms are extremely data-efficient; they are able to achieve better results with less training data. More unexpectedly, Euclidean Neural Networks also act as “symmetry-compilers”: they can only learn tasks that are symmetrically well-posed and they can also help uncover when there is symmetry implied missing information. I’ll give examples of these properties and how they can be used to craft useful training tasks for physical data. To conclude, I’ll highlight some open questions in symmetry equivariant neural networks particularly relevant to representing physical systems.
         
   * **Harini Suresh**
     * **Friday, December 10, 2:00-3:00pm**
