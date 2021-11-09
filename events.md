@@ -43,6 +43,7 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
     * **Friday, October 29, 2:00-3:00pm** 
     * *"Theoretical Physicists’ Biases Meet Machine Learning"*
     * [YouTube Recording](https://youtu.be/3kGbKpVBfLw)
+    * [Talk Slides](talks/2021_10_29_IAIFI_Colloquium_Krippendorf.pdf)
     * Abstract: Many recent successes in machine learning (ML) resemble the success story in theoretical particle physics of utilising symmetries as organising principle. I discuss an introductory example where this procedure applied in ML leads to new insights to PDEs in mathematical physics, more precisely for the study of Calabi-Yau metrics. Then I discuss methods on how to identify symmetries of a system without requiring knowledge about such symmetries, including also how to find a Lax pair/connection associated with integrable systems. If time permits, I discuss how latent representations in neural networks can offer a close resemblance of variables used in dual descriptions established analytically in physical systems.
 
 * **[Yasaman Bahri](https://yasamanb.github.io), Research Scientist, Google Research, Brain Team** <img class="image" src="images/small-photo-yasaman-bahri.jpg" align="right" hspace="20" vspace="20"/>
