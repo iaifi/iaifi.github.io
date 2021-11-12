@@ -21,7 +21,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Events
 
-***IAIFI Colloquium Series continues November 12 at 2:00 pm ET:***  Our biweekly [virtual colloquium series](events.html) will continue on Friday, November 12, 2021 at 2:00 pm ET with a presentation from Yasaman Bahri on "Understanding deep learning"! Watch on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
+***IAIFI Colloquium Series continues December 10 at 2:00 pm ET:***  Our biweekly [virtual colloquium series](events.html) will continue on Friday, December 10, 2021 at 2:00 pm ET with a presentation from Kazuhiro Terao on "Machines to find ghost particles in big data"! Watch on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
 Every other Friday throughout the semester, the series will showcase researchers working at the intersection of AI and Physics. [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series.
 {:.success}
 

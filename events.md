@@ -8,6 +8,10 @@ title: Events
 * [Related Workshops](#related-workshops)
 * [Related Events](#related-public-events)
 
+<!---
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=MONTH&showPrint=0&showCalendars=0&src=cjcxaHR2czJkYTVyMDlnMHN2cjhpM3A2djhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+--->
+
 ## IAIFI Public Colloquia 
 ### Fall 2021
 
@@ -89,8 +93,8 @@ These talks are only open to IAIFI members and affiliates.
     * *"Unexpected properties of symmetry equivariant neural networks"*
     * Abstract: Physical data and the way that it is represented contains rich context, e.g. symmetries, conserved quantities, and experimental setups. There are many ways to imbue machine learning models with this context (e.g. input representation, training schemes, constraining model structure) and each vary in their flexibility and robustness. In this talk, I’ll give examples of some surprising consequences of what happens when we impose constraints on the functional forms of our models. Specifically, I’ll discuss properties of Euclidean Neural Networks which are constructed to preserve 3D Euclidean symmetry. Perhaps unsurprisingly, symmetry preserving algorithms are extremely data-efficient; they are able to achieve better results with less training data. More unexpectedly, Euclidean Neural Networks also act as “symmetry-compilers”: they can only learn tasks that are symmetrically well-posed and they can also help uncover when there is symmetry implied missing information. I’ll give examples of these properties and how they can be used to craft useful training tasks for physical data. To conclude, I’ll highlight some open questions in symmetry equivariant neural networks particularly relevant to representing physical systems.
         
-  * **Harini Suresh**
-    * **Friday, December 10, 2:00-3:00pm**
+  * **Harini Suresh, PhD Student, Computer Science, MIT**
+    * **Friday, December 3, 2:00-3:00pm**
     * *"Ethics in AI"*
 
 ## Related Workshops
