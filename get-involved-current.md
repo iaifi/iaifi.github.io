@@ -15,6 +15,7 @@ IAIFI thrives on the energy and enthusiasm of its members!  If you are currently
 * [Collaborate on IAIFI Research Projects](#collaborate-on-iaifi-research-projects)
 * [Share Achievements with IAIFI Management](#share-achievements-with-iaifi-management)
 * [Advertise and Acknowledge IAIFI](#advertise-and-acknowledge-iaifi)
+* [Be a Guest in the IAIFI Penthouse](#be-a-guest-in-the-iaifi-penthouse)
 * [Access the IAIFI Internal Website](#access-the-iaifi-internal-website)
 * [Explore Career and PhD Opportunities](#explore-career-and-phd-opportunities)
 * [Get Involved Beyond IAIFI](#get-involved-beyond-iaifi)
@@ -124,6 +125,11 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 * Share slides advertising public IAIFI opportunities when appropriate: [Overview Slide](images/iaifi-oneslide-overview.pdf); [Resources and Activities Slide](images/iaifi-oneslide-resources.pdf)
 * Include IAIFI affiliation in papers: The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (Note: There is no address.)
 * Include IAIFI acknowledgment in IAIFI-related papers (required if you are a Junior or Senior Investigator): This work is supported by the National Science Foundation under Cooperative Agreement PHY-2019786 (The NSF AI Institute for Artificial Intelligence and Fundamental Interactions, http://iaifi.org/). 
+
+## Be a Guest in the IAIFI Penthouse
+* If you are an IAIFI member and would like to visit the IAIFI Penthouse (MIT Building 26, 6th floor), we can provide temporary desk space.
+* View available desks and request a space at the [internal IAIFI Penthouse page](https://internal.iaifi.org/iaifi-penthouse/) (must be signed into the internal website to access; email [IAIFI Management](mailto:iaifi-management@mit.edu) if you are not registered). 
+* If you would like to request a permanent desk in the Penthouse, email [IAIFI Management](mailto:iaifi-management@mit.edu) with your request and rationale. 
 
 ## Access the IAIFI Internal Website
 
