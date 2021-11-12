@@ -16,32 +16,32 @@ For junior researchers interested in getting involved as a **Junior Investigator
 
 <label>
 <b>Name</b>: <br>
-<input type="text" name="name">
+<input type="text" name="name" required>
 </label>
 <br>
 <label>
 <b>Institute/Company</b>: <br>
-<input type="text" name="institute">
+<input type="text" name="institute" required>
 </label>
 <br>
 <label>
 <b>Email</b>: <br>
-<input type="email" name="replyto" >
+<input type="email" name="replyto" required>
 </label>
 <br>
 <label>
 <b>Title(s)/Position(s)/Affiliation(s)</b>: <br>
-<input type="text" name="title">
+<input type="text" name="title" required>
 </label>
 <br>
 <label>
 <b>Permanent Home Location (city, state, country)</b>: <br>
-<input type="text" name="address">
+<input type="text" name="address" required>
 </label>
 <br>
 <label>
 <b>What level of involvement are you interested in (see details above)?</b>: </label> <br> 
-<select name="level" id="timely" required="">
+<select name="level" id="timely" required>
   <option value="Choose" selected="" disabled="">Choose</option>
   <option value="1">Junior Investigator</option>
   <option value="2">Friend of IAIFI</option>
@@ -49,17 +49,17 @@ For junior researchers interested in getting involved as a **Junior Investigator
 <br>
 <label>
 <b>If you are interested in participating as a Junior Investigator, please list <a href="https://iaifi.org/people#senior-investigators">IAIFI Senior Investigators</a> with whom you are most interested in collaborating</b>: <br>
-<textarea name="collaborators"></textarea>
+<textarea name="collaborators" required></textarea>
 </label> 
 <br>
 <label>
 <b>Please provide a brief (100 words or less) description of your own IAIFI-related work</b>: <br>
-<textarea name="research"></textarea>
+<textarea name="research" required></textarea>
 </label>
 <br>
 <label>
 <b>How did you hear about IAIFI?</b> </label> <br> 
-<select name="level" id="timely" required="">
+<select name="level" id="timely" required>
   <option value="Choose" selected="" disabled="">Choose</option>
   <option value="1">IAIFI Senior Investigator or Affiliate</option>
   <option value="2">Junior member of IAIFI</option>

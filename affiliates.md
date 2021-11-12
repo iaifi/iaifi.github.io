@@ -15,44 +15,44 @@ For senior researchers (faculty, industry researcher, etc.), please fill out the
 
 <label>
 <b>Name</b>: <br>
-<input type="text" name="name">
+<input type="text" name="name" required>
 </label>
 <br>
 <label>
 <b>Institute/Company</b>: <br>
-<input type="text" name="institute">
+<input type="text" name="institute" required>
 </label>
 <br>
 <label>
 <b>Email</b>: <br>
-<input type="email" name="replyto" >
+<input type="email" name="replyto" required>
 </label>
 <br>
 <label>
 <b>Title(s)/Position(s)/Affiliation(s)</b>: <br>
-<input type="text" name="title">
+<input type="text" name="title" required>
 </label>
 <br>
 <label>
 <b>Permanent Home Location (city, state, country)</b>: <br>
-<input type="text" name="address">
+<input type="text" name="address" required>
 </label>
 <br>
 <label>
 <b>IAIFI Nominator</b>: <br>
-<input type="text" name="nominator">
+<input type="text" name="nominator" required>
 </label>
 <br>
 <label>
 <b>Please provide a brief (500 words or less) description of your own IAIFI-related work</b>: <br>
-<textarea name="research"></textarea>
+<textarea name="research" required></textarea>
 </label>
 <br>
 IAIFI Affiliates are expected to participate in the life of the institute.  Examples of how to get involved include research collaborations, mentoring, developing educational content, teaching classes, lecturing at the IAIFI Summer School, engaging in outreach, hosting summer research students, advertising IAIFI to the broader scientific community, etc.
 <br>
 <label>
 <b>Please list a few examples of how you plan to participate in IAIFI activities</b>: <br>
-<textarea name="planned-activities"></textarea>
+<textarea name="planned-activities" required></textarea>
 </label>
 <br>
 Optional additional information can be provided below. Feel free to provide a few references, e.g. links to publications (arXiv, journal, etc), software projects, etc. that showcase your work. <br>
