@@ -1,16 +1,14 @@
 ---
 layout: article
-title: Events
+title: Public Events
 ---
 
-* [Fall 2021 Public Colloquia](#iaifi-public-colloquia)
-* [Fall 2021 Internal Seminars](#iaifi-internal-seminars)
-* [Related Workshops](#related-workshops)
-* [Related Events](#related-public-events)
+* [Upcoming IAIFI Public Colloquia](#upcoming-iaifi-public-colloquia)
+* [Past Colloquia](#past-colloquia)
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&title=IAIFI%20Public%20Events&showPrint=0&showCalendars=0&mode=WEEK&src=YzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## IAIFI Public Colloquia 
-### Fall 2021
+## Upcoming IAIFI Public Colloquia 
 
 We are pleased to announce the lineup for our Fall 2021 Colloquium series featuring leaders at the intersection of AI and Physics. 
 
@@ -18,6 +16,13 @@ All times are Boston time.  Please [sign up for our mailing list](http://mailman
 
 You can also [watch our colloquia live on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
+* **[Kazuhiro Terao](https://www.codingkazu.com), Staff Scientist, SLAC National Accelerator Laboratory, Stanford University** <img class="image" src="images/photo-kazuhiro-terao.jpg" align="right" hspace="20" vspace="20"/>
+    * **Friday, December 10, 2:00-3:00pm** 
+    * *"Machines to find ghost particles in big data"*
+    * Abstract: The neutrino is the most mysterious of the standard model particles. They only interact weakly and can pass through light years of matter without leaving a trace. Since the discovery of neutrino oscillations, experiments provided the first positive evidence for physics beyond the standard model. Yet, there are remaining questions which answers may reveal new physics and possible explanation of the asymmetry in the presence of matters and anti-matters in the current universe.  A new generation of neutrino experiments are coming online to address those questions in the era of high precision measurements. The detector is becoming larger and denser to gain high statistics of measurements, and detector technologies evolve toward particle imaging, essentially a hi-resolution "camera", in order to capture every single detail of particles produced in a neutrino interaction. The forefront of such detector technologies is a Liquid Argon Time Projection Chamber (LArTPC), which is capable of recording images of charged particle tracks with breathtaking resolution.  Such detailed information will allow LArTPCs to perform accurate particle identification and calorimetry, making it the detector of choice for many current and future neutrino experiments.  However, analyzing hi-resolution imaging data can be challenging, requiring the development of many algorithms to identify and assemble features of the events in order to reconstruct neutrino interactions.  In the recent years, we have developed new approach using deep neural networks (DNNs), a modern solution to a pattern recognition for image-like data in the field of Computer Vision. A modern DNNs can be applied for various types of problems such as data reconstruction tasks including interaction vertex identification, pixel clustering, particle type and flow reconstruction. In this talk I will discuss the challenges of data reconstruction for imaging detectors, recent work and future plans for deploying a full machine learning based data reconstruction chain for LArTPC experiments. 
+
+## Past Colloquia
+### Fall 2021
 * **[Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html), Associate Professor, Applied Physics, Stanford University** <img class="image" src="images/small-photo-surya-ganguli.jpg" align="right" hspace="20" vspace="20"/>
     * **Friday, September 17, 2:00-3:00pm** 
     * *"Understanding computation using physics and exploiting physics for computation"*
@@ -50,64 +55,68 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
 * **[Yasaman Bahri](https://yasamanb.github.io), Research Scientist, Google Research, Brain Team** <img class="image" src="images/small-photo-yasaman-bahri.jpg" align="right" hspace="20" vspace="20"/>
     * **Friday, November 12, 2:00-3:00pm** 
     * *"Understanding deep learning"*
+    * [YouTube Recording](https://youtu.be/SmswXVP9YnQ)
     * Abstract: Deep neural networks are a rich class of function approximators that are now ubiquitous in many domains and enable new frontiers in physics and other sciences, but their function, limitations, and governing principles are not yet well-understood. I will overview a few results from a research program seeking to understand deep learning by proceeding scientifically. These investigations draw ideas, tools, and inspiration from theoretical physics, with close guidance from computational experiments, and integrate together perspectives from computer science and statistics. I will discuss some past highlights from the study of overparameterized neural networks — such as exact connections to Gaussian processes and linear models, as well as information propagation in deep networks — and then focus on emerging questions surrounding the role of scale (so-called “scaling laws”) and predictability.
 
-* **[Kazuhiro Terao](https://www.codingkazu.com), Staff Scientist, SLAC National Accelerator Laboratory, Stanford University** <img class="image" src="images/photo-kazuhiro-terao.jpg" align="right" hspace="20" vspace="20"/>
-    * **Friday, December 10, 2:00-3:00pm** 
-    * *"Machines to find ghost particles in big data"*
-    * Abstract: The neutrino is the most mysterious of the standard model particles. They only interact weakly and can pass through light years of matter without leaving a trace. Since the discovery of neutrino oscillations, experiments provided the first positive evidence for physics beyond the standard model. Yet, there are remaining questions which answers may reveal new physics and possible explanation of the asymmetry in the presence of matters and anti-matters in the current universe.  A new generation of neutrino experiments are coming online to address those questions in the era of high precision measurements. The detector is becoming larger and denser to gain high statistics of measurements, and detector technologies evolve toward particle imaging, essentially a hi-resolution "camera", in order to capture every single detail of particles produced in a neutrino interaction. The forefront of such detector technologies is a Liquid Argon Time Projection Chamber (LArTPC), which is capable of recording images of charged particle tracks with breathtaking resolution.  Such detailed information will allow LArTPCs to perform accurate particle identification and calorimetry, making it the detector of choice for many current and future neutrino experiments.  However, analyzing hi-resolution imaging data can be challenging, requiring the development of many algorithms to identify and assemble features of the events in order to reconstruct neutrino interactions.  In the recent years, we have developed new approach using deep neural networks (DNNs), a modern solution to a pattern recognition for image-like data in the field of Computer Vision. A modern DNNs can be applied for various types of problems such as data reconstruction tasks including interaction vertex identification, pixel clustering, particle type and flow reconstruction. In this talk I will discuss the challenges of data reconstruction for imaging detectors, recent work and future plans for deploying a full machine learning based data reconstruction chain for LArTPC experiments. 
+### Spring 2021
 
-## IAIFI Internal Seminars 
-### Fall 2021
+In Spring 2021, our colloquium series featured IAIFI senior investigators, aiming to introduce you to some of the exciting research being carried out at our institute.
 
-These talks are only open to IAIFI members and affiliates.
+Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on future events.
 
-  * **Year 2 State of the IAIFI Town Hall**
-    * **Friday, September 10, 2:00-3:00pm** 
+You can also [watch our colloquia live on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
-  * **Fabian Ruehle, Assistant Professor, Northeastern University**
-    * **Friday, September 24, 2:00-3:00pm** 
-    * *"Learning metrics in extra dimensions"*
-    * Abstract: String theory is a very promising candidate for a fundamental theory of our universe. An interesting prediction of string theory is that spacetime is ten-dimensional. Since we only observe four spacetime dimensions, the extra six dimensions are small and compact, thus evading detection. These extra six-dimensional spaces, known as Calabi-Yau spaces, are very special and elusive. They are equipped with a special metric needed to make string theory consistent. This special property is given in terms of a (notoriously hard) type of partial differential equation. While we know, thanks to the heroic work of Calabi and Yau, that this PDE has a unique solution and hence that the metric exists, we neither know what it looks like nor how to construct it explicitly. However, the metric is an important quantity that enters in many physical observables, e.g. particle masses. Thinking of the metric as a function that satisfies three constraints that enter in the Calabi-Yau theorem, we can parameterize the metric as a neural network and formulate the problem as multiple continuous optimization tasks. The neural network is trained (akin to self-supervision) by sampling points from the Calabi-Yau space and imposing the constraints entering the theorem as customized loss functions.
+  * **Phiala Shanahan** <img class="image" src="images/small-photo-phiala-shanahan.jpg" align="right" hspace="20" vspace="20"/>
+    * **Thursday, February 4, 11am-noon** 
+    * *"Ab-initio AI for first-principles calculations of the structure of matter"*
+    * [YouTube Recording](https://www.youtube.com/watch?v=KJQqj-WucWo)
+    * [Talk Slides](talks/2021_02_04_IAIFI_Colloquium_Shanahan.pdf), [IAIFI Introduction Slides](talks/2021_02_04_IAIFI_Colloquium_Intro_Thaler.pdf)
+    * Abstract:  The unifying theme of IAIFI is “ab-initio AI”: novel approaches to AI that that draw from, and are motivated by, aspects of fundamental physics. In this context, I will discuss opportunities for machine learning, in particular generative models, to accelerate first-principles lattice quantum field theory calculations in particle and nuclear physics. Particular challenges in this context include incorporating complex (gauge) symmetries into model architectures, and scaling models to the large number of degrees of freedom of state-of-the-art numerical studies. I will show the results of proof-of-principle studies that demonstrate that sampling from generative models can be orders of magnitude more efficient than traditional Hamiltonian/hybrid Monte Carlo approaches in this context.
 
-  * **Di Luo, IAIFI Fellow**
-    * **Friday, October 8, 2:00-3:00pm**
-    * *"Machine Learning for Quantum Many-body Physics"*
-    * Abstract: The study of quantum many-body physics plays an crucial role across condensed matter physics, high energy physics and quantum information science. Due to the exponential growing nature of Hilbert space, challenges arise for exact classical simulations of high dimensional wave function which is the core object in quantum many-body physics. A natural question comes as whether machine learning, which is powerful for processing high dimensional probability distribution, can provide new methods for studying quantum many-body physics. In contrast to the standard high dimensional probability distribution, the wave function further exhibits complex phase structure and rich symmetries besides high dimensionality. It opens up a series of interesting questions for high dimensional optimization, sampling and representation imposed by quantum many-body physics. In this talk, I will discuss recent advancement of the field and present (1) neural network representations for quantum states with Fermionic anti-symmetry and gauge symmetries; (2) neural network simulations for ground state and real time dynamics in condensed matter physics, high energy physics and quantum information science; (3) quantum control protocol discovery with machine learning.
+  * **Pulkit Agrawal** <img class="image" src="images/small-photo-pulkit-agrawal.jpg" align="right" hspace="20" vspace="20"/>
+    * **Thursday, February 18, 12:30pm-1:30pm** *Note special time!*
+    * *"Challenges in Real World Reinforcement Learning"*
+    * [YouTube Recording](https://www.youtube.com/watch?v=1OSaTZB3WVY)
+    * [Talk Slides](talks/2021_02_18_IAIFI_Colloquium_Agrawal.pdf)
+    * Abstract: In recent years, reinforcement learning (RL) algorithms have achieved impressive results on many tasks. However, for most systems, RL algorithms still remain impractical. In this talk, I will discuss some of the underlying challenges: (i) defining and measuring reward functions; (ii) data inefficiency; (iii) poor transfer across tasks. I will end by discussing some directions pursued in my lab to overcome these problems. 
 
-  * **Cengiz Pehlevan, Assistant Professor, Applied Mathematics, Harvard University (SEAS)**
-    * **Friday, October 22, 2:00-3:00pm**
-    * *"Inductive bias of neural networks"*
-    * Abstract: A learner’s performance depends crucially on how its internal assumptions, or inductive biases, align with the task at hand. I will present a theory that describes the inductive biases of neural networks in the infinite width limit using kernel methods and statistical mechanics. This theory elucidates an inductive bias to explain data with "simple functions" which are identified by solving a related kernel eigenfunction problem on the data distribution. This notion of simplicity allows us to characterize whether a network is compatible with a learning task, facilitating good generalization performance from a small number of training examples. I will present applications of the theory to deep networks (at finite width) trained on synthetic and real datasets, and recordings from the mouse primary visual cortex. Finally, I will briefly present an extension of the theory to out-of-distribution generalization.
+
+  * **Max Tegmark** <img class="image" src="images/small-photo-max-tegmark.jpg" align="right" hspace="20" vspace="20"/>
+    * **Thursday, March 4, 11am-noon**
+    * [YouTube Recording](https://www.youtube.com/watch?v=WgY947vg_aY)
+    * [Talk Slides](talks/2021_03_04_IAIFI_Colloquium_Tegmark.pdf)
+    * *"ML-discovery of equations, conservation laws and useful degrees of freedom"*
+    * Abstract: A central goal of physics is to discover mathematical patterns in data. For example, after four years of analyzing data tables on planetary orbits, Johannes Kepler started a scientific revolution in 1605 by discovering that Mars' orbit was an ellipse. I describe how we can automate such tasks with machine learning and not only discover symbolic formulas accurately matching datasets (so-called symbolic regression), equations of motion and conserved quantities, but also auto-discover which degrees of freedom are most useful for predicting time evolution (for example, optimal generalized coordinates extracted from video data). The methods I present exploit numerous ideas from physics to recursively simplify neural networks, ranging from symmetries to differentiable manifolds, curvature and topological defects, and also take advantage of mathematical insights from knot theory and graph modularity.
+
+
+  * **Phil Harris**  <img class="image" src="images/small-photo-philip-harris.jpg" align="right" hspace="20" vspace="20"/>
+    * **Thursday, March 18, 11am-noon**
+    * [YouTube Recording](https://www.youtube.com/watch?v=9_vNh09qqmw&feature=youtu.be)
+    * [Talk Slides](talks/2021_03_18_IAIFI_Colloquium_Harris.pdf)
+    * *"Quick and Quirk with Quarks: Ultrafast AI with Real-Time systems and Anomaly detection For the LHC and beyond"*
+    * Abstract: With data rates rivaling 1 petabit/s, the LHC detectors have some of the largest data rates in the world. If we were to save every collision to disk, we would exceed the world's storage by many orders of magnitude. As a consequence, we need to analyze the data in real-time. In this talk, we will discuss new technology that allows us to be able to deploy AI algorithms at ultra-low latencies to process information at the LHC at incredible speeds. Furthermore, we comment on how this can change the nature of real-time systems across many domains, including Gravitational Wave Astrophysics. In addition to real-time AI, we present new ideas on anomaly detection that builds on recent developments in the field of semi-supervised learning. We show that these ideas are quickly opening up possibilities for a new class of measurements at the LHC and beyond. 
+
+  * **Doug Finkbeiner** <img class="image" src="images/small-photo-doug-finkbeiner.jpg" align="right" hspace="20" vspace="20"/>
+    * **Thursday, April 1, 11am-noon**
+    * *"Beyond the Gaussian: A Higher-Order Correlation Statistic for the Interstellar Medium"*
+    * [Talk Slides](talks/2021_04_01_IAIFI_Colloquium_Finkbeiner.pdf)
+    * [YouTube Recording](https://www.youtube.com/watch?v=t28zEQWWgFc)
+    * Abstract: Our project to map Milky Way dust has produced 3-D maps of dust density and precise cloud distances, leading to the discovery of the structure known as the Radcliffe Wave.  However, these advances have not yet allowed us to do something the CMB community takes for granted: read physical model parameters off of the observed density patterns.  The CMB is (almost) a Gaussian random field, so the power spectrum contains the information needed to constrain cosmological parameters.  In contrast, dust clouds and filaments require higher-order correlation statistics to capture relevant information. I will present a statistic based on the wavelet scattering transform (WST) that captures essential features of ISM turbulence in MHD simulations, and maps them onto physical parameters.  This statistic is light-weight (easy to understand and fast to evaluate) and provides a framework for comparing ISM theory and observation in a rigorous way. 
+
+  * **Demba Ba** <img class="image" src="images/small-photo-demba-ba.jpg" align="right" hspace="20" vspace="20"/>
+    * **Thursday, April 15, 11am-noon**
+    * *"Interpretable AI in Neuroscience: Sparse Coding, Artificial Neural Networks, and the Brain"*
+    * [Talk Slides](talks/2021_04_15_IAIFI_Colloquium_Ba.pdf)
+    * [YouTube Recording](https://www.youtube.com/watch?v=3sh2JfK0S40)
+    * Abstract: Sparse signal processing relies on the assumption that we can express data of interest as the superposition of a small number of elements from a typically very large set or dictionary. As a guiding principle, sparsity plays an important role in the physical principles that govern many systems, the brain in particular. Neuroscientists have demonstrated, for instance, that sparse dictionary learning applied to natural images explains early visual processing in the brain of mammals. Other examples abound, in seismic exploration, biology, and astrophysics, to name a few. In the field of computer science, it has become apparent in the last few years that sparsity also plays an important role in artificial neural networks (ANNs). The ReLU activation function, for instance, arises from an assumption of sparsity on the hidden layers of a neural network. The current picture points to an intimate link between sparsity, ANNs and the principles behind systems in many scientific fields. In this talk, I will focus on neuroscience. In the first part, I will show how to use sparse dictionary learning to design, in a principled fashion, ANNs for solving unsupervised pattern discovery and source separation problems in neuroscience. This approach leads to interpretable architectures with orders of magnitude fewer parameters than black-box ANNs, that can leverage more efficiently the speed and parallelism offered by GPUs for scalability. In the second part, I will introduce a deep generalization of a sparse coding model that makes predictions as to the principles of hierarchical sensory processing in the brain. Using neuroscience as an example, I will make the case that sparse generative models of data, along with the deep ReLU networks associated with them, may provide a framework that utilizes deep learning, in conjunction with experiment, to guide scientific discovery.
+
+  
+  * **Jim Halverson** <img class="image" src="images/small-photo-jim-halverson.jpg" align="right" hspace="20" vspace="20"/>
+    * **Thursday, April 29, 11am-noon**
+    * [Talk Slides](talks/2021_04_29_IAIFI_Colloquium_Halverson.pdf)
+    * [YouTube Recording](https://youtu.be/aFBQ-ODkGuk)
+    * Abstract: Most applications of ML are applied to experimental data collected on Earth, rather than theoretical or mathematical datasets that have ab initio definitions, such as groups, topological classes of manifolds, or chiral gauge theories. Such mathematical landscapes are characterized by a high degree of structure and truly big data, including continuous or discrete infinite sets or finite sets larger than the number of particles in the visible universe. After introducing ab initio data, we will focus on one such dataset: mathematical knots, which admit a treatment using techniques from natural language processing via their braid representatives. Elements of knot theory will be introduced, including the use of ML for various problems that arise in it. For instance, reinforcement learning can be utilized to unknot complicated representations of trivial knots, similar to untangling headphones, but we will also use transformers for the unknot decision problem, as well as treating the general topological problem.
     
-  * **Bryan Ostdiek, Postdoctoral Fellow, Theoretical Particle Physics, Harvard University**
-    * **Friday, November 5, 2:00-3:00pm**
-    * *"Lessons from the Dark Machines Anomaly Score Challenge"*
-    * Abstract: With LHC experiments producing strong exclusion bounds on theoretical new physics models, there has been recent interest in model agnostic methods to search for physics beyond the standard model. The Dark Machines group conducted a "challenge" as an open playground to examine unsupervised anomaly detection methods on simulated collider events. In this discussion, I briefly motivate and introduce anomaly detection, along with the public data set. We found that the methods which performed best across a wide range of signals shared a common feature; the metric for determining how anomalous an event is depends only on how the event can be encoded into a small representation - there is no decoding step. The discussion will start with speculations about why the "fixed target" encoding can work and look to future tests.
-    
-  * **Tess Smidt, Assistant Professor, EECS, MIT**
-    * **Friday, November 19, 2:00-3:00pm**
-    * *"Unexpected properties of symmetry equivariant neural networks"*
-    * Abstract: Physical data and the way that it is represented contains rich context, e.g. symmetries, conserved quantities, and experimental setups. There are many ways to imbue machine learning models with this context (e.g. input representation, training schemes, constraining model structure) and each vary in their flexibility and robustness. In this talk, I’ll give examples of some surprising consequences of what happens when we impose constraints on the functional forms of our models. Specifically, I’ll discuss properties of Euclidean Neural Networks which are constructed to preserve 3D Euclidean symmetry. Perhaps unsurprisingly, symmetry preserving algorithms are extremely data-efficient; they are able to achieve better results with less training data. More unexpectedly, Euclidean Neural Networks also act as “symmetry-compilers”: they can only learn tasks that are symmetrically well-posed and they can also help uncover when there is symmetry implied missing information. I’ll give examples of these properties and how they can be used to craft useful training tasks for physical data. To conclude, I’ll highlight some open questions in symmetry equivariant neural networks particularly relevant to representing physical systems.
-        
-  * **Harini Suresh, PhD Student, Computer Science, MIT**
-    * **Friday, December 3, 2:00-3:00pm**
-    * *"Ethics in AI"*
 
-## Related Workshops
 
-Upcoming workshops involving members of the IAIFI community:
 
-  * [Gaps & Frontier in AI4Science Workshop, NeurIPS 2021, December 13, 2021](https://ai4sciencecommunity.github.io/index.html)
-  * [Interplay of Fundamental Physics and Machine Learning, Aspen Center for Physics, May 29-June 19, 2022](https://www.aspenphys.org/physicists/summer/program/currentworkshops.html)
-  * [Machine Learning at GGI - Galileo Galilei Institute, August 22-September 30, 2022](https://www.ggi.infn.it/showevent.pl?id=414)
-
-## Related Public Events
-
-Other organizations that hold public events relevant to the IAIFI community:
-
-  * [Physics Meets ML](http://www.physicsmeetsml.org/)
-  * [NSF AI Planning Institute for Data-Driven Discovery in Physics Seminar Series](https://www.cmu.edu/ai-physics-institute/events/index.html)
-  * [CLARIPHY Topical Meetings](https://clariphy.org/topical.html)
-  * [Understanding the Nature of Inference Colloquia](https://inferenceproject.yale.edu/colloquium-series)
-  * [Stochastics and Statistics Seminars presented by the MIT Statistics and Data Science Center](https://stat.mit.edu/seminars/)
