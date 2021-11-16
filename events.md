@@ -8,9 +8,6 @@ title: Events
 * [Related Workshops](#related-workshops)
 * [Related Events](#related-public-events)
 
-<!---
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=MONTH&showPrint=0&showCalendars=0&src=cjcxaHR2czJkYTVyMDlnMHN2cjhpM3A2djhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
---->
 
 ## IAIFI Public Colloquia 
 ### Fall 2021
