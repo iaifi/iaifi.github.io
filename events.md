@@ -6,7 +6,7 @@ title: Public Events
 * [Upcoming IAIFI Public Colloquia](#upcoming-iaifi-public-colloquia)
 * [Past Colloquia](#past-colloquia)
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&title=IAIFI%20Public%20Events&showPrint=0&showCalendars=0&mode=WEEK&src=YzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showPrint=0&showCalendars=0&title=Public%20IAIFI%20Events&mode=AGENDA&src=YzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5" style="border:solid 1px #777" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 
 ## Upcoming IAIFI Public Colloquia 
 

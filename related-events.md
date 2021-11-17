@@ -7,7 +7,7 @@ title: Related Events
 * [Upcoming Related Workshops](#upcoming-related-workshops)
 * [Past Related Workshops](#past-related-workshops)
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&title=IAIFI%20Related%20Events%20(external)&showPrint=0&showCalendars=0&mode=WEEK&src=Zjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F09300" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showPrint=0&showCalendars=0&title=External%20Related%20Events&mode=AGENDA&src=Zjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F09300" style="border:solid 1px #777" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 
 ## Related Public Events
 
