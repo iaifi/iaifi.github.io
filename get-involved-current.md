@@ -113,6 +113,7 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
 * *When a paper is posted to arXiv:*
   * Post to the [#recent-iaifi-papers stream on the IAIFI Zulip](https://iaifi.zulipchat.com/#narrow/stream/278668-recent-iaifi-papers) (if you do not have access,[email IAIFI Management](mailto:iaifi-management@mit.edu))
+  * For particle physics papers: [check that your paper is appearing under IAIFI on INSPIRE](https://inspirehep.net/institutions/1862936?ui-citation-summary=true)
 * *When a paper is published:*
   * [Email Marisa LaFleur](mailto:mlafleur@mit.edu) (IAIFI Project Manager) with a link to published article
 * *When giving a talk, organizing a workshop, etc:*

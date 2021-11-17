@@ -3,6 +3,9 @@ layout: article
 title: IAIFI Papers
 ---
 
+View high energy physics IAIFI papers [on INSPIRE](https://inspirehep.net/institutions/1862936?ui-citation-summary=true)
+{:.info}
+
 {% assign products = site.data.products | sort | reverse %}
 {% for product in products %}
 {% assign paper = product %}
