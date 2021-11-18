@@ -3,7 +3,7 @@ layout: article
 title: Events Calendar
 ---
 
-* All IAIFI public events are listed in blue. 
+* All IAIFI public events are listed in blue-green. 
 * All internal IAIFI events are listed in purple. 
 * All related events external to IAIFI are listed in orange. 
 * All invite-only internal IAIFI meetings are listed in red. 
