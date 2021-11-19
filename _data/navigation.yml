@@ -6,8 +6,6 @@ header:
         url: /about.html
       - title: Code of Conduct
         url: /code-of-conduct.html
-      - title: Synergies
-        url: /activities.html
       - title: News
         url: /iaifi-news.html
 
@@ -31,6 +29,9 @@ header:
         url: /research.html
       - title: Papers
         url: /papers.html
+
+  - title: Synergies
+    url: /activities.html
 
   - title: Fellows
     subtitles:

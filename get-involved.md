@@ -89,6 +89,11 @@ IAIFI does not have dedicated faculty opportunities, but there are open faculty 
 * [Tenure-track faculty openings in Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/office-faculty-affairs/open-academic-positions?job_type%5Btenure%5D=tenure&sort_by=search_api_relevance)
 * Deadline: December 15, 2021 for July 1, 2022 anticipated start
 
+<img class="image image--sm" src="images/tufts_logo.png" align="right" hspace="10" vspace="10"/>
+### Tufts University Department of Computer Science
+* [Assistant or Associate Professor in AI opening at Tufts University Department of Computer Science](https://apply.interfolio.com/92330)
+* Deadline: December 15, 2021 for Fall 2022
+
 ## Prospective Postdocs
 
 The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, but there are other postdoctoral opportunities with IAIFI-affiliated researchers.
