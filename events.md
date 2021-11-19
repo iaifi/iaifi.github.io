@@ -56,6 +56,7 @@ You can also [watch our colloquia live on YouTube](https://www.youtube.com/chann
     * **Friday, November 12, 2:00-3:00pm** 
     * *"Understanding deep learning"*
     * [YouTube Recording](https://youtu.be/SmswXVP9YnQ)
+    * [Talk Slides](talks/2021_11_12_IAIFI_Colloquium_Bahri.pdf)
     * Abstract: Deep neural networks are a rich class of function approximators that are now ubiquitous in many domains and enable new frontiers in physics and other sciences, but their function, limitations, and governing principles are not yet well-understood. I will overview a few results from a research program seeking to understand deep learning by proceeding scientifically. These investigations draw ideas, tools, and inspiration from theoretical physics, with close guidance from computational experiments, and integrate together perspectives from computer science and statistics. I will discuss some past highlights from the study of overparameterized neural networks — such as exact connections to Gaussian processes and linear models, as well as information propagation in deep networks — and then focus on emerging questions surrounding the role of scale (so-called “scaling laws”) and predictability.
 
 ### Spring 2021

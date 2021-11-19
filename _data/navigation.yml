@@ -9,9 +9,6 @@ header:
       - title: News
         url: /iaifi-news.html
 
-  - title: Synergies
-    url: /activities.html
-
   - title: Events
     subtitles:
       - title: Calendar
@@ -32,6 +29,9 @@ header:
         url: /research.html
       - title: Papers
         url: /papers.html
+
+  - title: Synergies
+    url: /activities.html
 
   - title: Fellows
     subtitles:
