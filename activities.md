@@ -3,17 +3,35 @@ layout: article
 title: Synergies
 ---
 
-The IAIFI is involved in many activities in the areas of education and workforce development, outreach, and knowledge transfer.
+The IAIFI is involved in many activities in areas of education and workforce development, community building, outreach, and knowledge transfer.
 
+* [Education and Workforce Development](#education-and-workforce-development)
+* [Physics/AI Network](#physics/ai-network)
+
+<!---
 This page is under construction. Efforts in this area include creating an interdisciplinary PhD degree at MIT in Physics, Statistics, and Data Science, developing online courses in AI, establishing a MicroMasters degree program at MIT for students from non-traditional backgrounds, a K-12 program and other outreach efforts, and numerous partnerships with industry. 
 {:.info}
+--->
+
+## Education and Workforce Development
+
+### IAIFI Fellowship Program
+Of critical importance to the IAIFI vision is our IAIFI Fellows program, which aims to recruit and train the most talented, promising, and diverse group of researchers at an early stage of their careers. These Fellows will spark vital interdisciplinary, multi-investigator, multi-subfield collaborations. Such collaborations have immense power to generate new ideas and approaches, to facilitate abstracting physics challenges beyond their native domains, and to instill a common language across disciplines. Our program aims to appoint three new postdoctoral IAIFI Fellows each academic year, for a three-year fellowship term each.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR13dcf9EW36IAYUg2_PoHYRwf9VDBHS0vZKzwoyBLlhbhlrRW-RFrKrMHKts8ME7aXZe2BsYZHFPc-/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+* [Learn more about the IAIFI Fellowship program](/fellows.html); Applications will open in June of each year
+
+* Year 1 IAIFI Fellowship Committee: 
+
+* Year 2 IAIFI Fellowship Committee:
 
 
-#### Other Physics/AI Collaborations
+## Physics/AI Network
+
+### Other Physics/AI Collaborations
 * [NSF AI Planning Institute for Data-Driven Discovery in Physics](https://www.cmu.edu/ai-physics-institute/index.html)
 * [Community Laboratory for AI Research at the Intersection with Physics (CLARIPHY)](https://clariphy.org)
 
-#### Other NSF AI Institutes
+### Other NSF AI Institutes
 * [NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES)](https://www.ai2es.org), University of Oklahoma with University at Albany, Colorado State University, North Carolina State University, Texas A&M University - Corpus Christi, University of Washington, Del Mar College, National Center for Atmospheric Research, Google Research, The Weather Company
 * [USDA-NIFA AI Institute for Next Generation Food Systems (AIFS)](https://aifs.ucdavis.edu), University of California - Davis with University of California - Berkeley, Cornell University, University of Illinois at Urbana-Champaign, USDA, University of California - Agriculture and Natural Resources
 * [NSF AI Institute for Foundations of Machine Learning (IFML)](https://ml.utexas.edu/ifml), University of Texas at Austin with University of Washington, Wichita State University, Microsoft Research
