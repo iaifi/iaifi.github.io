@@ -94,6 +94,11 @@ IAIFI does not have dedicated faculty opportunities, but there are open faculty 
 * [Assistant or Associate Professor in AI opening at Tufts University Department of Computer Science](https://apply.interfolio.com/92330)
 * Deadline: December 15, 2021 for Fall 2022
 
+<img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
+### Northeastern University Khoury College of Computer Sciences
+* [Tenure-track faculty openings in Computer Science across topics](https://careersmanager.pageuppeople.com/879/ci/en-us/job/507937/assistantassociatefull-professor), including all areas of robotics, AI, and ML.
+* Deadline: December 1, 2021 (or until search is complete)
+
 ## Prospective Postdocs
 
 The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, but there are other postdoctoral opportunities with IAIFI-affiliated researchers.

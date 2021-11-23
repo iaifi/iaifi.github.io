@@ -15,11 +15,6 @@ title: Internal Events
 
 ## Upcoming Internal Discussion Seminars
 These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
-
-  * **Tess Smidt, Assistant Professor, EECS, MIT**
-    * **Friday, November 19, 2:00-3:00pm**
-    * *"Unexpected properties of symmetry equivariant neural networks"*
-    * Abstract: Physical data and the way that it is represented contains rich context, e.g. symmetries, conserved quantities, and experimental setups. There are many ways to imbue machine learning models with this context (e.g. input representation, training schemes, constraining model structure) and each vary in their flexibility and robustness. In this talk, I’ll give examples of some surprising consequences of what happens when we impose constraints on the functional forms of our models. Specifically, I’ll discuss properties of Euclidean Neural Networks which are constructed to preserve 3D Euclidean symmetry. Perhaps unsurprisingly, symmetry preserving algorithms are extremely data-efficient; they are able to achieve better results with less training data. More unexpectedly, Euclidean Neural Networks also act as “symmetry-compilers”: they can only learn tasks that are symmetrically well-posed and they can also help uncover when there is symmetry implied missing information. I’ll give examples of these properties and how they can be used to craft useful training tasks for physical data. To conclude, I’ll highlight some open questions in symmetry equivariant neural networks particularly relevant to representing physical systems.
         
   * **Harini Suresh, PhD Student, Computer Science, MIT**
     * **Friday, December 3, 2:00-3:00pm**
@@ -29,11 +24,6 @@ These talks are only open to IAIFI members and affiliates. Access to the Zoom in
 The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
-
-  * **Eric Michaud, PhD Student, MIT**
-  * **Thursday, November 18, 11:00am-12:00pm**
-  * *"Curious Properties of Neural Networks"*
-  * Abstract/Resources: In this informal talk/discussion, I will highlight some facts about neural networks which I find to be particularly fun and surprising. Possible topics could include the Lottery Ticket Hypothesis (https://arxiv.org/abs/1803.03635), Double Descent (https://arxiv.org/abs/1912.02292), and “grokking” (https://mathai-iclr.github.io/papers/papers/MATHAI_29_paper.pdf). There will be time for discussion and for attendees to bring up their own favorite surprising facts about deep learning.
 
   * **Murphy Niu, Google Quantum AI**
   * **Thursday, December 3, 11:00am-12:00pm**
@@ -68,6 +58,11 @@ Internal events are only open to IAIFI members and affiliates. Access to the Zoo
     * **Friday, November 5, 2:00-3:00pm**
     * *"Lessons from the Dark Machines Anomaly Score Challenge"*
     * Abstract: With LHC experiments producing strong exclusion bounds on theoretical new physics models, there has been recent interest in model agnostic methods to search for physics beyond the standard model. The Dark Machines group conducted a "challenge" as an open playground to examine unsupervised anomaly detection methods on simulated collider events. In this discussion, I briefly motivate and introduce anomaly detection, along with the public data set. We found that the methods which performed best across a wide range of signals shared a common feature; the metric for determining how anomalous an event is depends only on how the event can be encoded into a small representation - there is no decoding step. The discussion will start with speculations about why the "fixed target" encoding can work and look to future tests.
+
+  * **Tess Smidt, Assistant Professor, EECS, MIT**
+    * **Friday, November 19, 2:00-3:00pm**
+    * *"Unexpected properties of symmetry equivariant neural networks"*
+    * Abstract: Physical data and the way that it is represented contains rich context, e.g. symmetries, conserved quantities, and experimental setups. There are many ways to imbue machine learning models with this context (e.g. input representation, training schemes, constraining model structure) and each vary in their flexibility and robustness. In this talk, I’ll give examples of some surprising consequences of what happens when we impose constraints on the functional forms of our models. Specifically, I’ll discuss properties of Euclidean Neural Networks which are constructed to preserve 3D Euclidean symmetry. Perhaps unsurprisingly, symmetry preserving algorithms are extremely data-efficient; they are able to achieve better results with less training data. More unexpectedly, Euclidean Neural Networks also act as “symmetry-compilers”: they can only learn tasks that are symmetrically well-posed and they can also help uncover when there is symmetry implied missing information. I’ll give examples of these properties and how they can be used to craft useful training tasks for physical data. To conclude, I’ll highlight some open questions in symmetry equivariant neural networks particularly relevant to representing physical systems.
 
 ### Spring 2021
 
@@ -119,6 +114,11 @@ Internal events are only open to IAIFI members and affiliates. Access to the Zoo
     * **Thursday, October 21, 11:00am-12:00pm**
     * *"Learning and Generalization: Revisiting Neural Representations"*
     * Abstract/Resources: Understanding how deep neural networks learn and generalize has been a central pursuit of intelligence research. This is because we want to build agents that can learn quickly from a small amount of data, that also generalizes to a wider set of scenarios. In this talk, we take a systems approach by identifying key bottleneck components that limits learning and generalization. We will present two key results — overcoming the simplicity bias of neural value approximation via random Fourier features and going beyond the training distribution via invariance through inference.
+
+  * **Eric Michaud, PhD Student, MIT**
+    * **Thursday, November 18, 11:00am-12:00pm**
+    * *"Curious Properties of Neural Networks"*
+    * Abstract/Resources: In this informal talk/discussion, I will highlight some facts about neural networks which I find to be particularly fun and surprising. Possible topics could include the Lottery Ticket Hypothesis (https://arxiv.org/abs/1803.03635), Double Descent (https://arxiv.org/abs/1912.02292), and “grokking” (https://mathai-iclr.github.io/papers/papers/MATHAI_29_paper.pdf). There will be time for discussion and for attendees to bring up their own favorite surprising facts about deep learning.
 
 ### Spring 2021
   * **Anindita Maiti**
