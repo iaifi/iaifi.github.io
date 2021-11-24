@@ -174,6 +174,12 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 * Deadline: December 15 for the following academic year
 * Learn more about the [MIT EECS program](https://www.eecs.mit.edu/academics-admissions/graduate-program)
 
+<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
+### MIT Summer Research Program
+* [Apply to the MIT Summer Research Program (MSRP)](https://mitodgediversity.slideroom.com/#/login/program/64398) to be hosted by an IAIFI Senior Investigator for summer research
+* Deadline: January 10, 2022 for Summer 2022
+* Learn more about [the MSRP program](https://oge.mit.edu/graddiversity/msrp/)
+* [View interested faculty mentors](https://infogram.com/2022-msrp-interested-faculty-1hzj4o3lndy834p?live) 
 
 <img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
 ### Harvard Graduate Program in Physics
@@ -276,4 +282,5 @@ Official IAIFI affiliation is currently limited to those in the greater Boston A
 * [View full schedule](https://iaifi.org/events)
 * [Watch past colloquia on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA)
 
-
+### Request Letter of Collaboration
+* If you would like to discuss a letter of collaboration from IAIFI for your own proposal, [email IAIFI Management](mailto:iaifi-management@mit.edu), including information about your proposal, how you'd like to partner with IAIFI, and the deadline for your request.
