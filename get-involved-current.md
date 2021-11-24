@@ -53,13 +53,6 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
 ## Join an IAIFI Committee
 
-### Speaker Selection Committee
-
-  * Identifies and invites speakers for our IAIFI Internal Discussion Seminar series and our IAIFI Public Colloquium series
-  * Led by Cora Dvorkin (Colloquium organizer) and Demba Ba (Discussion Seminar organizer)
-  * **We are currently looking for volunteers for this Committee**
-  * [Email IAIFI Management](mailto:iaifi-management@mit.edu) if you are interested in volunteering
-
 
 ### Community Building Committee
 
@@ -82,11 +75,20 @@ Unless otherwise noted, the opportunities listed on this page are available to m
   * The Committee is currently planning the PhD Summer School for Summer 2022
   * [Email Jim Halverson](mailto:j.halverson@northeastern.edu) if you have ideas or would like to express interest in volunteering for events during the Summer School
 
+### Speaker Selection Committee
+
+  * Identifies and invites speakers for our IAIFI Internal Discussion Seminar series and our IAIFI Public Colloquium series
+  * Led by Cora Dvorkin (Colloquium organizer) and Demba Ba (Discussion Seminar organizer)
+  * Committee members: Dan Roberts, Nayantara Mudur, Di Luo, Arkopal Dutt, Marisa LaFleur (Project Manager)
+  * The Committee is currently planning the Spring 2022 series
+  * [Suggest a speaker](https://docs.google.com/forms/d/1SeaGUpoMZOGRJgcW3Utx_VZh9GTtXVOsYH1AAvrvxTY/edit) for either the Colloquium or Seminar series
+
 ### MITx Course
-  * Join the teaching team for MIT's Physics in Data Science class (8.S50), which will be taught over IAP (January 2022) and will be used to help build IAIFI's first MITx (MIT's online education platform) course
-  * As part of the team, you can help shape the material, potentially teach recitation, and help build the online version of the course
+  * IAIFI junior members may serve on the teaching team for MIT's Physics in Data Science class (8.S50), which will be taught over IAP (January 2022) and will be used to help build IAIFI's first MITx (MIT's online education platform) course
+  * Current IAIFI members on the team: Phil Harris, Ike Chuang, Siddharth Mishra-Sharma, Dylan Rankin, Ouail Kitouni, Tri Nguyen, Duc Hoang, Eric Moreno, Raymond Wynne, Aidan Chambers
+  * As part of the team, members are helping to shape the material, potentially teach recitation, and help build the online version of the course
   * Requirements: Completed MIT junior lab or experience in data analysis
-  * [Email Phil Harris](mailto:pcharris@mit.edu) if you're interested in joining the team
+  * [Email Phil Harris](mailto:pcharris@mit.edu) if you'd like to learn more
 
 ## Lead an IAIFI Journal Club
 
@@ -103,6 +105,7 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 * The Discussion Seminars for Fall 2021 are held every other Friday (beginning Sept. 24, 2021) at 2 pm ET over Zoom
 * The Colloquia for Fall 2021 are held every other Friday (beginning Sept. 17, 2021) at 2 pm ET over Zoom and YouTube
 * Make sure you are on the internal IAIFI mailing list to receive announcements and Zoom information  (if you are not receiving iaifi-all emails, [email IAIFI Management](mailto:iaifi-management@mit.edu))
+* [Suggest a speaker](https://docs.google.com/forms/d/1SeaGUpoMZOGRJgcW3Utx_VZh9GTtXVOsYH1AAvrvxTY/edit) for either the Colloquium or Seminar series
 
 
 ## Collaborate on IAIFI Research Projects
