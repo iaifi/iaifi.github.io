@@ -10,8 +10,10 @@ title: Internal Events
 * [Past Journal Clubs](#past-journal-clubs)
 * [Other Past Internal Events](#other-past-internal-events)
 
-<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showPrint=0&showCalendars=0&title=Internal%20IAIFI%20Events&mode=AGENDA&src=cjcxaHR2czJkYTVyMDlnMHN2cjhpM3A2djhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZGFicWU3OXZxY3NoMTFkMjdsY2Q5OGxlbXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&color=%23D50000" style="border:solid 1px #777" width="800" height="300" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showPrint=0&showCalendars=0&title=IAIFI%20Internal%20Events&mode=AGENDA&src=cjcxaHR2czJkYTVyMDlnMHN2cjhpM3A2djhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZGFicWU3OXZxY3NoMTFkMjdsY2Q5OGxlbXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&color=%23D50000" style="border:solid 1px #777" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 **Note: Events in red are invite-only**
+
+To add this calendar to your Google Calendars click the +GoogleCalendar button in the bottom right corner of the calendar.
 
 ## Upcoming Internal Discussion Seminars
 These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
