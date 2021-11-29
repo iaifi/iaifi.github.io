@@ -120,30 +120,32 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 #### MIT Center for Theoretical Physics
 
 * [Postdoc openings in the MIT CTP](http://academicjobsonline.org/ajo/mit/ctp/)
-* Deadline: November 15, 2021 for September 1, 2022 anticipated start
+    * Deadline: November 15, 2021 for September 1, 2022 anticipated start
 
 <img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
 #### Harvard University
 * [High Energy Theory Physics Postdoc openings at Harvard](https://academicjobsonline.org/ajo/jobs/20235)
-* Deadline: December 6, 2021 for academic year 2022-2023
+    * Deadline: December 6, 2021 for academic year 2022-2023
 
 * [Postdoc opportunities in ML Theory Group at Harvard](https://mltheory.org/#opportunities)
-* Deadlines vary for Fall 2022 appointments
+    * Deadlines vary for Fall 2022 appointments
 
 * [Institute for Theory and Computation (ITC) Postdoc openings at the Harvard-Smithsonian Center for Astrophysics](https://pweb.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/itc-fellowship)
-* Deadline: November 8, 2021 for September 1, 2022 anticipated start
+    * Deadline: November 8, 2021 for September 1, 2022 anticipated start
 
 * [Postdoctoral Fellowship opportunities in Harvard Data Science Initiative](https://datascience.harvard.edu/data-science-postdoctoral-fellows)
-* Deadline: November 22, 2021 for 2022-2023 academic year
+    * Deadline: November 22, 2021 for 2022-2023 academic year
 
 * [Center for Astrophysics Postdoc openings at Harvard](https://www.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/cfa-fellowship)
-* Deadline: Applications closed for academic year 2022; updated deadline for academic year 2023 TBA
+    * Deadline: Applications closed for academic year 2022; updated deadline for academic year 2023 TBA
 
 <img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
-#### Northeastern University Physics Department
+#### Northeastern University
 * [Theoretical Particle Physics openings at Northeastern](https://academicjobsonline.org/ajo/jobs/20224)
-* Deadline: December 1, 2021 to start in Fall 2022
+    * Deadline: December 1, 2021 to start in Fall 2022
 
+* [Khoury College of Computer Sciences Research Fellowship](https://www.khoury.northeastern.edu/research/fellowship/)
+    * Deadline: December 31, 2021
 
 
 #### NSF MPS-Ascend Fellowship
