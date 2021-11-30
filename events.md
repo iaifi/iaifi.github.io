@@ -8,7 +8,7 @@ title: Public Events
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showPrint=0&showCalendars=0&title=IAIFI%20Public%20Events&mode=AGENDA&src=YzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5" style="border:solid 1px #777" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 
-To add this calendar to your Google Calendars click the +GoogleCalendar button in the bottom right corner of the calendar.
+To add this calendar to your Google Calendars click the +GoogleCalendar button in the bottom right corner of the calendar. To add an individual event to your calendar, click on the event and choose "copy to my calendar."
 
 ## Upcoming IAIFI Public Colloquia 
 

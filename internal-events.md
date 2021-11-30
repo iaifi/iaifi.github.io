@@ -14,14 +14,15 @@ title: Internal Events
 
 **Note: Events in red are invite-only**
 
-To add this calendar to your Google Calendars click the +GoogleCalendar button in the bottom right corner of the calendar.
+To add this calendar to your Google Calendars click the +GoogleCalendar button in the bottom right corner of the calendar. To add an individual event to your calendar, click on the event and choose "copy to my calendar."
 
 ## Upcoming Internal Discussion Seminars
 These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
         
   * **Harini Suresh, PhD Student, Computer Science, MIT**
     * **Friday, December 3, 2:00-3:00pm**
-    * *"Ethics in AI"* 
+    * *"Understanding Sources of Harm throughout the Machine Learning Life Cycle"* 
+    * As machine learning increasingly affects people and society, awareness of its potential harmful effects has also grown. To anticipate, prevent, and mitigate undesirable downstream consequences, it's important that we understand when and how harm might be introduced throughout the ML life cycle. This talk will walk through a framework that identifies seven distinct potential sources of downstream harm in machine learning, spanning the data collection, development, and deployment processes.  It will also explore how different sources of harm might motivate different mitigation techniques.  
 
 ## Upcoming Journal Clubs
 The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
