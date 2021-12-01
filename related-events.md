@@ -11,6 +11,8 @@ title: Related Events
 
 To add this calendar to your Google Calendars click the +GoogleCalendar button in the bottom right corner of the calendar. To add an individual event to your calendar, click on the event and choose "copy to my calendar."
 
+[Click here to add this calendar to a different calendar application](https://calendar.google.com/calendar/ical/f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com/public/basic.ics)
+
 ## Related Public Events
 
 Other organizations that hold public events relevant to the IAIFI community:

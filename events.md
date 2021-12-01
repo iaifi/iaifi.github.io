@@ -10,6 +10,8 @@ title: Public Events
 
 To add this calendar to your Google Calendars click the +GoogleCalendar button in the bottom right corner of the calendar. To add an individual event to your calendar, click on the event and choose "copy to my calendar."
 
+[Click here to add this calendar to a different calendar application](https://calendar.google.com/calendar/ical/c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com/public/basic.ics)
+
 ## Upcoming IAIFI Public Colloquia 
 
 We are pleased to announce the lineup for our Fall 2021 Colloquium series featuring leaders at the intersection of AI and Physics. 
