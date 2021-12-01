@@ -16,6 +16,8 @@ title: Internal Events
 
 To add this calendar to your Google Calendars click the +GoogleCalendar button in the bottom right corner of the calendar. To add an individual event to your calendar, click on the event and choose "copy to my calendar."
 
+[Click here to add this calendar to a different calendar application](https://calendar.google.com/calendar/ical/p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com/public/basic.ics)
+
 ## Upcoming Internal Discussion Seminars
 These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
         
