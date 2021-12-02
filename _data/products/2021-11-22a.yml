@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Quantum reservoir computing using arrays of Rydberg atoms"
+authors: Rodrigo Araiza Bravo, Khadijeh Najafi, Xun Gao, Susanne F. Yelin
+abstract: "Quantum computing promises to provide machine learning with computational advantages. However, noisy intermediate-scale quantum (NISQ) devices pose engineering challenges to realizing quantum machine learning (QML) advantages. Recently, a series of QML computational models inspired by the noise-tolerant dynamics on the brain have emerged as a means to circumvent the hardware limitations of NISQ devices. In this article, we introduce a quantum version of a recurrent neural network (RNN), a well-known model for neural circuits in the brain. Our quantum RNN (qRNN) makes use of the natural Hamiltonian dynamics of an ensemble of interacting spin-1/2 particles as a means for computation. In the limit where the Hamiltonian is diagonal, the qRNN recovers the dynamics of the classical version. Beyond this limit, we observe that the quantum dynamics of the qRNN provide it quantum computational features that can aid it in computation. To this end, we study a qRNN based on arrays of Rydberg atoms, and show that the qRNN is indeed capable of replicating the learning of several cognitive tasks such as multitasking, decision making, and long-term memory by taking advantage of several key features of this platform such as interatomic species interactions, and quantum many-body scars."
+arxiv: "2111.10956"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
