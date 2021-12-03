@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Infinite Neural Network Quantum States"
+authors: Di Luo, James Halverson
+abstract: "We study infinite limits of neural network quantum states (∞-NNQS), which exhibit representation power through ensemble statistics, and also tractable gradient descent dynamics. Ensemble averages of Renyi entropies are expressed in terms of neural network correlators, and architectures that exhibit volume-law entanglement are presented. A general framework is developed for studying the gradient descent dynamics of neural network quantum states (NNQS), using a quantum state neural tangent kernel (QS-NTK). For ∞-NNQS the training dynamics is simplified, since the QS-NTK becomes deterministic and constant. An analytic solution is derived for quantum state supervised learning, which allows an ∞-NNQS to recover any target wavefunction. Numerical experiments on finite and infinite NNQS in the transverse field Ising model and Fermi Hubbard model demonstrate excellent agreement with theory. ∞-NNQS opens up new opportunities for studying entanglement and training dynamics in other physics applications, such as in finding ground states."
+arxiv: "2112.00723"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
