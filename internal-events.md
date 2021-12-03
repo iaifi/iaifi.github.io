@@ -31,16 +31,16 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-  * **Murphy Niu, Google Quantum AI**
-  * **Thursday, December 3, 11:00am-12:00pm**
-  * *"Entangling Quantum Generative Adversarial Networks using Tensorflow Quantum"*
-  * Abstract/Resources: [https://arxiv.org/pdf/2105.00080.pdf](https://arxiv.org/pdf/2105.00080.pdf); [https://arxiv.org/pdf/2003.02989.pdf%20-%20Page%202.pdf](https://arxiv.org/pdf/2003.02989.pdf%20-%20Page%202.pdf)
+* The IAIFI Journal Club will return in February 2022.
 
 ## Other Upcoming Internal Events
 Internal events are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
-  * **AI Open House**
+  * **AI Lightning Talks**
     * **Friday, December 17, 2:00-3:00pm**
     * IAIFI researchers from the AI thrust will present their work to IAIFI members with a goal of sparking opportunities for collaboration.
+        * *"Equivariant Contrastive Learning,"* presented by Rumen Dangovski
+        * *"Sparse Equivariant Convolutions for Neutrino Event Classification,"* presented by Taritree Wongjirad and Tess Smidt
+        * *"Can you see the shape of a jet?,"* presented by Akshunna S. Dogra
 
 ## Past Seminars
 ### Fall 2021
@@ -125,6 +125,11 @@ Internal events are only open to IAIFI members and affiliates. Access to the Zoo
     * **Thursday, November 18, 11:00am-12:00pm**
     * *"Curious Properties of Neural Networks"*
     * Abstract/Resources: In this informal talk/discussion, I will highlight some facts about neural networks which I find to be particularly fun and surprising. Possible topics could include the Lottery Ticket Hypothesis (https://arxiv.org/abs/1803.03635), Double Descent (https://arxiv.org/abs/1912.02292), and “grokking” (https://mathai-iclr.github.io/papers/papers/MATHAI_29_paper.pdf). There will be time for discussion and for attendees to bring up their own favorite surprising facts about deep learning.
+
+  * **Murphy Niu, Google Quantum AI**
+    * **Thursday, December 3, 11:00am-12:00pm**
+    * *"Entangling Quantum Generative Adversarial Networks using Tensorflow Quantum"*
+    * Abstract/Resources: [https://arxiv.org/pdf/2105.00080.pdf](https://arxiv.org/pdf/2105.00080.pdf); [https://arxiv.org/pdf/2003.02989.pdf%20-%20Page%202.pdf](https://arxiv.org/pdf/2003.02989.pdf%20-%20Page%202.pdf)
 
 ### Spring 2021
   * **Anindita Maiti**
