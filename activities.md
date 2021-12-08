@@ -16,8 +16,15 @@ This page is under construction. Efforts in this area include creating an interd
 --->
 
 ## Early Career and Equity Committee
-The Early Career \& Equity Committee (ECEC) serves as an advisory body to IAIFI Management on aspects related to early career researchers and DEI, as well as to oversee the well-being and working environment of all IAIFI members. Their goal is to create an equitable, inclusive, welcoming, and enjoyable place of work, where people of all backgrounds and career stages can feel supported to do their best work and advance forward in their careers in an environment free from discrimination and injustice.
+The Early Career & Equity Committee (ECEC) serves as an advisory body to IAIFI Management on aspects related to early career researchers and DEI, as well as to oversee the well-being and working environment of all IAIFI members. Their goal is to create an equitable, inclusive, welcoming, and enjoyable place of work, where people of all backgrounds and career stages can feel supported to do their best work and advance forward in their careers in an environment free from discrimination and injustice.
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTd3-Nlnx5nltXYEPlVbo7UVZntELKmuzxo4l3Eliy8Qg1PubB9fgTj4C7OE8I16WPU23sRPhyWoXpk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 * [View the IAIFI Code of Conduct](/code-of-conduct.html), developed by the ECEC
 * 2021 ECEC: Tracy Slatyer (Chair), Edo Berger, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Siddharth Mishra-Sharma
 
@@ -25,7 +32,14 @@ The Early Career \& Equity Committee (ECEC) serves as an advisory body to IAIFI 
 
 ### IAIFI Fellowship Program
 Of critical importance to the IAIFI vision is our IAIFI Fellows program, which aims to recruit and train the most talented, promising, and diverse group of researchers at an early stage of their careers. These Fellows will spark vital interdisciplinary, multi-investigator, multi-subfield collaborations. Such collaborations have immense power to generate new ideas and approaches, to facilitate abstracting physics challenges beyond their native domains, and to instill a common language across disciplines. Our program aims to appoint three new postdoctoral IAIFI Fellows each academic year, for a three-year fellowship term each.
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR13dcf9EW36IAYUg2_PoHYRwf9VDBHS0vZKzwoyBLlhbhlrRW-RFrKrMHKts8ME7aXZe2BsYZHFPc-/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 * [Learn more about the IAIFI Fellowship program](/fellows.html); Applications will open in June of each year
 
 * Year 1 IAIFI Fellowship Committee: Marin Soljačić (Chair), Pulkit Agrawal, Demba Ba, Cora Dvorkin, Jim Halverson, Phil Harris, Phiala Shanahan
@@ -34,7 +48,14 @@ Of critical importance to the IAIFI vision is our IAIFI Fellows program, which a
 
 ### Interdisciplinary PhD Program
 Many PhD students in the MIT Physics Department already incorporate probability, statistics, computation, and data analysis into their thesis research. These techniques are becoming increasingly important for both experimental and theoretical physics research, with ever-growing datasets, more sophisticated physics simulations, and cutting-edge machine learning developments. This degree provides essential training for students working with these techniques, as well as facilitates mentoring relationships with SDSC experts outside of Physics.
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSckr4V1JQ5iYhzTK6iZAX8bBLvaWkQBbODmm_0vlS55Nb5u9bKGeYhWpDkyk8e3kA3AY9JScLgWb7n/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 * [Learn more about the Physics, Statistics, and Data Science (PhysSDS) PhD program](https://physics.mit.edu/academic-programs/graduate-students/psds-phd/)
 * IAIFI Members on the PhysSDS Committee: Jesse Thaler (co-chair), Mike Williams (co-chair), Isaac Chuang, Phiala Shanahan, Marin Soljačić, William Detmold, Washington Taylor, Philip Harris, Max Tegmark
 
@@ -65,6 +86,13 @@ The IAIFI Discussion Seminars kicked off on February 11, 2021 and has continued 
 The IAIFI Journal Club was founded in November 2020. It is open to IAIFI members and meets every other week during the academic year. It provides junior members with an opportunity to share their research, especially with other junior members, in a relatively informal setting, fostering community and cross-disciplinary interaction.
 * [View our full internal events calendar](/internal-events.html)
 * Journal Club Coordinators: Andrew Tan, John Martyn
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSV3k5fdT9EK-_WCwkBz3N0jbrioqFX0A3SfHXsN7sv_yDkkrDZjbTZxUs3XsThK87yOIfDSosONsOl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 ## Outreach
 ### K-12 Education
