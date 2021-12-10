@@ -7,7 +7,16 @@ The IAIFI is involved in many activities in areas of education and workforce dev
 
 * [Early Career and Equity Committee](early-career-and-equity-committee)
 * [Education and Workforce Development](#education-and-workforce-development)
+  * [IAIFI Fellowship Program](iaifi-fellowship-program)
+  * [Interdisciplinary PhD Program](interdisciplinary-phd-program)
+  * [PhD Summer School](phd-summer-school)
 * [Knowledge Transfer](#knowledge-transfer)
+  * [IAIFI Public Colloquia](iaifi-public-colloquia)
+  * [Partnership Hub](partnership-hub)
+* [Community Building](community-building)
+  * [IAIFI Discussion Seminars](iaifi-discussion-seminars)
+  * [IAIFI Journal Club](iaifi-journal-club)
+* [Outreach](outreach)
 * [Physics/AI Network](#physics/ai-network)
 
 <!---
