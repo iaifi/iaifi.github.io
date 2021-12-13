@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Building Quantum Field Theories Out of Neurons"
+authors: James Halverson
+abstract: An approach to field theory is studied in which fields are comprised of N constituent random neurons. Gaussian theories arise in the infinite-N limit when neurons are independently distributed, via the Central Limit Theorem, while interactions arise due to finite-N effects or non-independently distributed neurons. Euclidean-invariant ensembles of neurons are engineered, with tunable two-point function, yielding families of Euclidean-invariant field theories. Some Gaussian, Euclidean invariant theories are reflection positive, which allows for analytic continuation to a Lorentz-invariant quantum field theory. Examples are presented that yield dual theories at infinite-N, but have different symmetries at finite-N. Landscapes of classical field configurations are determined by local maxima of parameter distributions. Predictions arise from mixed field-neuron correlators. Near-Gaussianity is exhibited at large-N, potentially explaining a feature of field theories in Nature.
+arxiv: "2112.04527"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
