@@ -59,12 +59,6 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html).
 ***Bill Freeman elected member of National Academy of Engineering:***  "For contributions to computer vision and image enhancement."  [National Academy of Engineering](https://www.nae.edu/248499/National-Academy-of-Engineering-Elects-106-Members-and-23-International-Members), *February 9, 2021*
 {:.info}
 
-***"Can a Computer Devise a Theory of Everything?":***   Max Tegmark and Jesse Thaler weigh in on this provocative question in a [New York Times article](https://www.nytimes.com/2020/11/23/science/artificial-intelligence-ai-physics-theory.html) by Dennis Overbye, *November 23, 2020*
-{:.info}
-
-***AI for Cosmology:***  Read about Cora Dvorkin's work on using machine learning to study the structure of the universe, particularly subhalos of dark matter:  [Quanta Magazine](https://www.quantamagazine.org/harvard-cosmologist-cora-dvorkin-dreams-in-dark-matter-20201105/), [Harvard Gazette](https://news.harvard.edu/gazette/story/2020/11/harvard-physicist-works-to-understand-dark-matter/), *November 5, 2020*
-{:.info}
-
 
 <!---
 ***More IAIFI News:*** For an archive of IAIFI news, see our [news page](/iaifi-news.html).
