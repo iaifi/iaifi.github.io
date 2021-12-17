@@ -44,6 +44,7 @@ The goal of the IAIFI is to develop and deploy the next generation of AI technol
   * IAIFI Logo (Transparent Background, No Border):  [Black](images/iaifi-logo-black-noborder.pdf),  [White](images/iaifi-logo-white-noborder.pdf)
   * IAIFI Logo (No Transparency, JPEG format): [Black](images/iaifi-logo-black-noborder-hires.jpg)
   * IAIFI Press Image: [Full Size](images/iaifi-pressimage.jpg), [Horizontal Crop](images/iaifi-pressimage-horizontalcrop.jpg)
+  * IAIFI Zoom Background: [Download](images/iaifi-zoombackground.jpg)
 
 ####  Press Coverage 
 
