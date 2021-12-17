@@ -21,7 +21,11 @@ header:
         url: /related-events.html
 
   - title: People
-    url: /people.html
+    subtitles:
+      - title: Current
+        url: /people.html
+      - title: External Advisory Board
+        url: /external-advisory-board.html
 
   - title: Research
     subtitles:
