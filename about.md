@@ -33,6 +33,13 @@ The goal of the IAIFI is to develop and deploy the next generation of AI technol
 
 *The IAIFI is anchored in the [Laboratory for Nuclear Science](https://web.mit.edu/lns/) at MIT.*
 
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTj25Pm0Ts4yq1Kz89JISu6hGx3D3wK84pcb4jmmiSKOkfExPsXYBPcnuGUX6cpJ7LMMHiq69Bf_DDU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 #### FAQ
  * **How can I get more involved with IAIFI?** If you are already a member of IAIFI and are looking to contribute more to IAIFI activities, visit our [Getting Involved page for current members](/get-involved-current.html). If you are not currently a member, visit our [Getting Involved page for prospective members/partners](/get-involved.html).
  * **Where can I view highlights of your research and/or activities?** You can view current research projects on our [Research page](/research.html) and updates on our activities on our [Synergies page](/activities.html). For an overview of highlights, download our [IAIFI Highlights presentation](images/iaifi-highlights.pdf) (last updated December 8, 2021).

@@ -19,9 +19,9 @@ We are excited for [Anna](#anna-golubeva), [Di](#di-luo), [Siddharth](#siddharth
 
 <img class="image image--lg" src="images/small-photo-di-luo.jpg" align="right" hspace="20" vspace="20"/>
 
-**Research Interests**:  Di Luo is working on research in the intersection of quantum many-body physics, quantum information science, and artificial intelligence. He is interested in understanding nature from the perspectives of information and computation as well as developing intelligence inspired by ideas from physics. Di Luo has been developing machine learning algorithms and quantum algorithms for condensed matter physics, high energy physics, and quantum information science.
+**Research Interests**:  Di Luo is working on research in the intersection of quantum many-body physics, quantum information science, and artificial intelligence. He has been developing quantum algorithms and machine learning approaches for condensed matter physics, high energy physics, and quantum information science. Di Luo is interested in understanding nature from the perspectives of information and computation as well as developing intelligence inspired by ideas from nature.
 
-**Biographical Sketch**:  Di Luo received his undergraduate degree with majors in physics and mathematics from the University of Hong Kong in 2016 and pursued his Ph.D. in physics at the University of Illinois, Urbana-Champaign.  Di Luo will become an IAIFI Fellow at the NSF AI Institute for Artificial Intelligence and Fundamental Interactions in 2021.
+**Biographical Sketch**:  Di Luo received his undergraduate degree with majors in physics and mathematics from the University of Hong Kong in 2016. He graduated with master degree in mathematics and Ph.D. degree in physics at the University of Illinois, Urbana-Champaign in 2021. Di Luo is currently an IAIFI Fellow at the NSF AI Institute for Artificial Intelligence and Fundamental Interactions.
 
 
 ### [Siddharth Mishra-Sharma](mailto:smsharma@mit.edu)
