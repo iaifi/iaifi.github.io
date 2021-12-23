@@ -224,7 +224,6 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 * Deadline: December 15 for PhD applicants, January 15 for MS applicants
 * Learn more about the [Tufts Computer Science program](https://engineering.tufts.edu/cs/)
 
-
 ## Prospective Undergraduate Students
 
 IAIFI investigators often have opportunities for undergraduate students to get involved in research through volunteer projects or formal programs.
@@ -241,7 +240,6 @@ IAIFI investigators often have opportunities for undergraduate students to get i
 
 * Contact an [IAIFI Senior Investigator](https://iaifi.org/people.html#senior-investigators) at MIT to inquire about potential UROP funding
 * Learn more about [becoming a UROP](https://urop.mit.edu/)
-
 
 ## Researchers or Practitioners in Industry
 
