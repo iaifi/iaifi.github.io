@@ -43,8 +43,8 @@ For junior researchers interested in getting involved as a **Junior Investigator
 <b>What level of involvement are you interested in (see details above)?</b>: </label> <br> 
 <select name="level" id="timely" required>
   <option value="Choose" selected="" disabled="">Choose</option>
-  <option value="1">Junior Investigator</option>
-  <option value="2">Friend of IAIFI</option>
+  <option value="Junior Investigator">Junior Investigator</option>
+  <option value="Friend of IAIFI">Friend of IAIFI</option>
 </select>
 <br>
 <label>
@@ -61,13 +61,13 @@ For junior researchers interested in getting involved as a **Junior Investigator
 <b>How did you hear about IAIFI?</b> </label> <br> 
 <select name="level" id="timely" required>
   <option value="Choose" selected="" disabled="">Choose</option>
-  <option value="1">IAIFI Senior Investigator or Affiliate</option>
-  <option value="2">Junior member of IAIFI</option>
-  <option value="3">Other faculty</option>
-  <option value="4">Other postdocs/students</option>
-  <option value="5">IAIFI Website</option>
-  <option value="6">Twitter</option>
-  <option value="7">Other</option>
+  <option value="SI or Affiliate">IAIFI Senior Investigator or Affiliate</option>
+  <option value="Junior member">Junior member of IAIFI</option>
+  <option value="Other faculty">Other faculty</option>
+  <option value="Other postdoc or student">Other postdocs/students</option>
+  <option value="Website">IAIFI Website</option>
+  <option value="Social Media">Social Media</option>
+  <option value="Other">Other</option>
 </select>
 <br>
 <label>
