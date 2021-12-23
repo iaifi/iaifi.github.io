@@ -224,6 +224,9 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 * Deadline: December 15 for PhD applicants, January 15 for MS applicants
 * Learn more about the [Tufts Computer Science program](https://engineering.tufts.edu/cs/)
 
+### Courses of Interest
+* Harvard GSAS: [Neuro/MCB/Physics 131, Computational Neuroscience](images/neuro-131_2022_advertisement.pdf), Prof. Haim Sompolinsky (Spring 2022) 
+* MIT IAP: [8.S50, Physics and Data Science](https://docs.google.com/document/d/1RskcK5Gyn2HzBqgvbTpAS-HL_OF2Bvq53bFGMTtjMys/edit?usp=sharing), Prof. Phil Harris (January 2022)
 
 ## Prospective Undergraduate Students
 
@@ -242,6 +245,9 @@ IAIFI investigators often have opportunities for undergraduate students to get i
 * Contact an [IAIFI Senior Investigator](https://iaifi.org/people.html#senior-investigators) at MIT to inquire about potential UROP funding
 * Learn more about [becoming a UROP](https://urop.mit.edu/)
 
+### Courses of Interest
+* Harvard GSAS: [Neuro/MCB/Physics 131, Computational Neuroscience](images/neuro-131_2022_advertisement.pdf), Prof. Haim Sompolinsky (Spring 2022) 
+* MIT IAP: [8.S50, Physics and Data Science](https://docs.google.com/document/d/1RskcK5Gyn2HzBqgvbTpAS-HL_OF2Bvq53bFGMTtjMys/edit?usp=sharing), Prof. Phil Harris (January 2022)
 
 ## Researchers or Practitioners in Industry
 
