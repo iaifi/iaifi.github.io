@@ -12,6 +12,7 @@ IAIFI thrives on the energy and enthusiasm of its members!  If you are currently
 * [Join an IAIFI Committee](#join-an-iaifi-committee)
 * [Lead an IAIFI Journal Club](#lead-an-iaifi-journal-club)
 * [Attend IAIFI Discussion Seminars and Public Colloquia](#attend-iaifi-discussion-seminars-and-public-colloquia)
+* [Take an IAIFI-Related Class](#take-an-iaifi-related-class)
 * [Collaborate on IAIFI Research Projects](#collaborate-on-iaifi-research-projects)
 * [Share Achievements with IAIFI Management](#share-achievements-with-iaifi-management)
 * [Advertise and Acknowledge IAIFI](#advertise-and-acknowledge-iaifi)
@@ -107,6 +108,9 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 * Make sure you are on the internal IAIFI mailing list to receive announcements and Zoom information  (if you are not receiving iaifi-all emails, [email IAIFI Management](mailto:iaifi-management@mit.edu))
 * [Suggest a speaker](https://docs.google.com/forms/d/1SeaGUpoMZOGRJgcW3Utx_VZh9GTtXVOsYH1AAvrvxTY/edit) for either the Colloquium or Seminar series
 
+## Take an IAIFI-Related Class
+* Harvard GSAS: [Neuro/MCB/Physics 131, Computational Neuroscience](images/neuro-131_2022_advertisement.pdf), Prof. Haim Sompolinsky (Spring 2022) 
+* MIT IAP: [8.S50, Physics and Data Science](https://docs.google.com/document/d/1RskcK5Gyn2HzBqgvbTpAS-HL_OF2Bvq53bFGMTtjMys/edit?usp=sharing), Prof. Phil Harris (January 2022)
 
 ## Collaborate on IAIFI Research Projects
 * [View the People page](people.html) to identify other IAIFI researchers who you may be interested in collaborating with
