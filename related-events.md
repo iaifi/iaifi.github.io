@@ -27,8 +27,8 @@ Other organizations that hold public events relevant to the IAIFI community:
 
 Upcoming workshops involving members of the IAIFI community:
 
-  * [Gaps & Frontier in AI4Science Workshop, NeurIPS 2021, December 13, 2021](https://ai4sciencecommunity.github.io/index.html)
-      * IAIFI co-organizers: Ziming Liu and Max Tegmark
+  * [AI Super-Resolution Simulations: from Climate Science to Cosmology, February 23--25, 2022](https://events.mcs.cmu.edu/aisrs22/)
+      * Organized by the Carnegie Mellon University NSF AI Planning Institute for Data-driven Discovery in Physics, the McWilliams Center for Cosmology and the Pittsburgh Supercomputing Center
   * [Interplay of Fundamental Physics and Machine Learning, Aspen Center for Physics, May 29-June 19, 2022](https://www.aspenphys.org/physicists/summer/program/currentworkshops.html)
       * IAIFI co-organizer: Jesse Thaler
   * [Machine Learning at GGI - Galileo Galilei Institute, August 22-September 30, 2022](https://www.ggi.infn.it/showevent.pl?id=414)
