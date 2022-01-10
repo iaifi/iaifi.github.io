@@ -5,9 +5,9 @@ title: Research
 
 The goal of the IAIFI is to advance knowledge of fundamental interactions from the smallest to the largest scales using innovative methods in AI built upon *ab initio* physics principles, while simultaneously advancing the foundations of AI. Specifically, we are targeting opportunities for *ab initio* AI to improve theory calculations, to improve experiments, and to advance the field of AI. While our work includes a broad spectrum of physics and AI applications, our core focus is developing the nascent field of *ab initio* AI itself.
 
-* [Physics Theory](physics-theory)
-* [Physics Experiment](physics-experiment)
-* [Foundational AI](foundational-ai)
+* [Physics Theory](#physics-theory)
+* [Physics Experiment](#physics-experiment)
+* [Foundational AI](#foundational-ai)
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}

@@ -38,7 +38,7 @@ If you are a junior researcher interested in becoming involved in IAIFI, see our
   {% for member in personnel  %}
      {% assign person = site.data.people[member] %}
      <div class="card" style="width: 17rem; height: 27rem; justify-content: center;">
-         <img class="card-img-top" src="{{person.photo}}" alt="{{person.name}}" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="{{person.photo}}" alt="{{person.name}}" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          {% if person.website %}

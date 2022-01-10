@@ -21,10 +21,7 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 ## Upcoming Internal Discussion Seminars
 These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
         
-  * **Harini Suresh, PhD Student, Computer Science, MIT**
-    * **Friday, December 3, 2:00-3:00pm**
-    * *"Understanding Sources of Harm throughout the Machine Learning Life Cycle"* 
-    * As machine learning increasingly affects people and society, awareness of its potential harmful effects has also grown. To anticipate, prevent, and mitigate undesirable downstream consequences, it's important that we understand when and how harm might be introduced throughout the ML life cycle. This talk will walk through a framework that identifies seven distinct potential sources of downstream harm in machine learning, spanning the data collection, development, and deployment processes.  It will also explore how different sources of harm might motivate different mitigation techniques.  
+* The IAIFI Internal Discussion Seminars will return in February 2022.
 
 ## Upcoming Journal Clubs
 The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
@@ -69,6 +66,11 @@ Internal events are only open to IAIFI members and affiliates. Access to the Zoo
     * **Friday, November 19, 2:00-3:00pm**
     * *"Unexpected properties of symmetry equivariant neural networks"*
     * Abstract: Physical data and the way that it is represented contains rich context, e.g. symmetries, conserved quantities, and experimental setups. There are many ways to imbue machine learning models with this context (e.g. input representation, training schemes, constraining model structure) and each vary in their flexibility and robustness. In this talk, I’ll give examples of some surprising consequences of what happens when we impose constraints on the functional forms of our models. Specifically, I’ll discuss properties of Euclidean Neural Networks which are constructed to preserve 3D Euclidean symmetry. Perhaps unsurprisingly, symmetry preserving algorithms are extremely data-efficient; they are able to achieve better results with less training data. More unexpectedly, Euclidean Neural Networks also act as “symmetry-compilers”: they can only learn tasks that are symmetrically well-posed and they can also help uncover when there is symmetry implied missing information. I’ll give examples of these properties and how they can be used to craft useful training tasks for physical data. To conclude, I’ll highlight some open questions in symmetry equivariant neural networks particularly relevant to representing physical systems.
+
+  * **Harini Suresh, PhD Student, Computer Science, MIT**
+    * **Friday, December 3, 2:00-3:00pm**
+    * *"Understanding Sources of Harm throughout the Machine Learning Life Cycle"* 
+    * As machine learning increasingly affects people and society, awareness of its potential harmful effects has also grown. To anticipate, prevent, and mitigate undesirable downstream consequences, it's important that we understand when and how harm might be introduced throughout the ML life cycle. This talk will walk through a framework that identifies seven distinct potential sources of downstream harm in machine learning, spanning the data collection, development, and deployment processes.  It will also explore how different sources of harm might motivate different mitigation techniques.  
 
 ### Spring 2021
 

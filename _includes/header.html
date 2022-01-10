@@ -1,115 +1,116 @@
-<style>
-
-/* not needed
-li.dropdown {
-  display: inline-block;
-}
-*/
-
-/* changes color of About, etc, not used
-.dropdown a:link {
-  color: #000;
-}
-*/
-
-.dropdown-content {
-  color: #0f0; /* does nothing? */
-  display: none;
-  position: absolute;
-  background-color: #fefefe;  /* 444 is iaifi theme */
-  min-width: 160px;
-  /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
-  border-style: solid;
-  border-width: 1px;
-  border-color: #2277dd;
-  border-radius: 5px;
-  z-index: 1;
-}
-
-
-.dropdown-content a:link {
-  padding: 5px 16px;
-  display: block;
-  text-align: left;
-}
-
-/*
-.dropdown-content a:hover {
-  background-color: #f0f0f0;
-}
-*/
-
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-
-.dropdown:hover .dropdown-content a, a:link {
-  color: #2277dd;
-}
 
 
 
-.dropdown:hover .dropdown-content a:hover, a:active {
-  color: #214477;
-  text-decoration: underline; /* does nothing? */
-}
-
-</style>
+<header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
+<!--<div class="main">-->
 
 
-
-{%- if include.theme == 'dark' -%}
-  <header class="header header--dark" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- elsif include.theme == 'light' -%}
-  <header class="header header--light" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- else -%}
-  <header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- endif -%}
-    <div class="main">
-      <div class="header__title">
-        <div class="header__brand">
-          {%- include whitelogo.svg -%}
-          {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
-          {%- include snippets/get-nav-url.html path=_paths_root -%}
-          {%- if site.title -%}
-            <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
+    {%- include snippets/get-nav-url.html path=_paths_root -%}
+    <!--
+    {%- if site.title -%}
+      <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
+    {%- endif -%}
+    -->
+    <a class="navbar-brand" href="{{ __return }}">
+      <img src="assets/logo/whitelogo.svg" alt="" height="35rem">
+    </a>
+  <div class="header__brand">
+    <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}"  style="padding-top: 0.25em;"">{{ site.title }}</a>
+   </div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <!--
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        -->
+        {%- for _item in site.data.navigation.header -%}
+          {%- include snippets/get-nav-url.html path=_item.url -%}
+          {%- assign _nav_url = __return -%}
+          {%- include snippets/get-nav-url.html path=page.url -%}
+          {%- assign _page_url = __return -%}
+          {%- include snippets/get-string-from-locale-config.html locale=_item.titles -%}
+          {% if _item.subtitles != null %}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ _item.title }}</a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                {% for subtitle in _item.subtitles %}
+                  <li><a class="dropdown-item" href="{{subtitle.url}}">{{ subtitle.title }}</a></li>
+               {% endfor %}
+             </ul>
+          {%- elsif _nav_url == _page_url or page.nav_key and _item.key and page.nav_key == _item.key -%}
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a>
+            </li>
+          {%- else -%}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a>
+          </li>
           {%- endif -%}
-        </div>
-        {%- if site.search.provider -%}
-          <button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button>
-        {%- endif -%}
-      </div>
-      {%- if site.data.navigation.header -%}
-      <nav class="navigation">
-        <ul>
-          {%- for _item in site.data.navigation.header -%}
-            {%- include snippets/get-nav-url.html path=_item.url -%}
-            {%- assign _nav_url = __return -%}
-            {%- include snippets/get-nav-url.html path=page.url -%}
-            {%- assign _page_url = __return -%}
-            {%- include snippets/get-string-from-locale-config.html locale=_item.titles -%}
-            {% if _item.subtitles != null %}
-              <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">{{ _item.title }}</a>
-                <div class="dropdown-content">
-                  {% for subtitle in _item.subtitles %}
-                    <a href="{{subtitle.url}}">{{ subtitle.title }}</a>
-                 {% endfor %}
-               </div>
-             </li>
-            {%- elsif _nav_url == _page_url or page.nav_key and _item.key and page.nav_key == _item.key -%}
-              <li class="navigation__item navigation__item--active"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
-            {%- else -%}
-              <li class="navigation__item"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
-            {%- endif -%}
-          {%- endfor -%}
-          {%- if site.search.provider -%}
-            <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
-          {%- endif -%}
-        </ul>
-      </nav>
-      {%- endif -%}
+        {%- endfor -%}
+      </ul>
     </div>
-  </header>
+  </div>
+</nav>
+
+
+<!--
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="/">IAIFI</a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNavbar">
+      <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapseNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>
+-->
+
+<!--</div>-->
+</header>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+<!--
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+-->
