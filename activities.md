@@ -28,9 +28,25 @@ This page is under construction. Efforts in this area include creating an interd
 The Early Career & Equity Committee (ECEC) serves as an advisory body to IAIFI Management on aspects related to early career researchers and DEI, as well as to oversee the well-being and working environment of all IAIFI members. Their goal is to create an equitable, inclusive, welcoming, and enjoyable place of work, where people of all backgrounds and career stages can feel supported to do their best work and advance forward in their careers in an environment free from discrimination and injustice.
 
 <style>
-.responsive-wrap iframe{ max-width: 100%;}
+.google-slides-container{
+    position: relative;
+    width: 100%;
+    padding-top: 60%;
+    overflow: hidden;
+}
 </style>
-<div class="responsive-wrap">
+
+<style>
+.google-slides-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<div class="google-slides-container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTd3-Nlnx5nltXYEPlVbo7UVZntELKmuzxo4l3Eliy8Qg1PubB9fgTj4C7OE8I16WPU23sRPhyWoXpk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
