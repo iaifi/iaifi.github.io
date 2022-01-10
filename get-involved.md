@@ -42,7 +42,7 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 ### Become a Junior Investigator 
 
 * [Complete the Junior Researcher interest form](junior-interest.html)
-* Must be affiliated with an [IAIFI Senior Investigator](people.html#senior-investigators) unless special arrangements are made with [IAIFI Management](mailto:iaifi-management@mit.edu)
+* Must be affiliated with an [IAIFI Senior Investigator](people.html#senior-investigators) or [IAIFI Affiliate](people.html#affiliates) unless special arrangements are made with [IAIFI Management](mailto:iaifi-management@mit.edu)
 * Requires reporting IAIFI-related activities to the NSF
 * Expected to collaborate on research as an IAIFI Junior Investigator
 * Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
@@ -60,21 +60,21 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 
 ## Prospective Faculty
 
-IAIFI does not have dedicated faculty opportunities, but there are open faculty positions in IAIFI-affiliated universities.
+IAIFI does not have dedicated faculty opportunities, but there are often open faculty positions in IAIFI-affiliated universities.
 
 
 <img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 ### MIT Center for Theoretical Physics
 
 * [Junior faculty openings in the MIT CTP](http://academicjobsonline.org/ajo/mit/ctp/)
-* Deadline: November 15, 2021 for July 1, 2023 anticipated start
+* Deadline: Applications currently closed.
 
 
 <img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 ### MIT Physics Division of Experimental Particle and Nuclear Physics
 
 * [Junior faculty openings in MIT Physics NUPAX](https://academicjobsonline.org/ajo/jobs/19978)
-* Deadline: December 1, 2021 for July 1, 2023 anticipated start
+* Deadline: Applications currently closed.
 
 
 
@@ -82,17 +82,17 @@ IAIFI does not have dedicated faculty opportunities, but there are open faculty 
 ### MIT Department of Electrical Engineering and Computer Science (EECS)
 
 * [Junior faculty openings in MIT EECS](https://www.eecs.mit.edu/career-opportunities/eecs-faculty-positions-2022)
-* Deadline: December 1, 2021 for July 1, 2022 anticipated start
+* Deadline: Applications currently closed.
 
 <img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
 ### Harvard University School of Engineering and Applied Sciences (SEAS)
 * [Tenure-track faculty openings in Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/office-faculty-affairs/open-academic-positions?job_type%5Btenure%5D=tenure&sort_by=search_api_relevance)
-* Deadline: December 15, 2021 for July 1, 2022 anticipated start
+* Deadline: Applications currently closed.
 
 <img class="image image--sm" src="images/tufts_logo.png" align="right" hspace="10" vspace="10"/>
 ### Tufts University Department of Computer Science
 * [Assistant or Associate Professor in AI opening at Tufts University Department of Computer Science](https://apply.interfolio.com/92330)
-* Deadline: December 15, 2021 for Fall 2022
+* Deadline: Applications currently closed.
 
 <img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
 ### Northeastern University Khoury College of Computer Sciences
@@ -117,24 +117,26 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 
 
 <img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
-#### MIT Center for Theoretical Physics
+#### MIT
+* [Postdoc openings in the MIT Kavli Institute for Astrophysics and Space Research](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=22645&localeCode=en-us)
+    * Deadline: March 1, 2022
 
-* [Postdoc openings in the MIT CTP](http://academicjobsonline.org/ajo/mit/ctp/)
-    * Deadline: November 15, 2021 for September 1, 2022 anticipated start
+* [Postdoc openings in the MIT Center for Theoretical Physics](http://academicjobsonline.org/ajo/mit/ctp/)
+    * Deadline: Applications currently closed.
 
 <img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
 #### Harvard University
 * [High Energy Theory Physics Postdoc openings at Harvard](https://academicjobsonline.org/ajo/jobs/20235)
-    * Deadline: December 6, 2021 for academic year 2022-2023
+    * Deadline: Applications currently closed.
 
 * [Postdoc opportunities in ML Theory Group at Harvard](https://mltheory.org/#opportunities)
     * Deadlines vary for Fall 2022 appointments
 
 * [Institute for Theory and Computation (ITC) Postdoc openings at the Harvard-Smithsonian Center for Astrophysics](https://pweb.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/itc-fellowship)
-    * Deadline: November 8, 2021 for September 1, 2022 anticipated start
+    * Deadline: Applications currently closed.
 
 * [Postdoctoral Fellowship opportunities in Harvard Data Science Initiative](https://datascience.harvard.edu/data-science-postdoctoral-fellows)
-    * Deadline: November 22, 2021 for 2022-2023 academic year
+    * Deadline: Applications currently closed.
 
 * [Center for Astrophysics Postdoc openings at Harvard](https://www.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/cfa-fellowship)
     * Deadline: Applications closed for academic year 2022; updated deadline for academic year 2023 TBA
@@ -142,18 +144,18 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 <img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
 #### Northeastern University
 * [Theoretical Particle Physics openings at Northeastern](https://academicjobsonline.org/ajo/jobs/20224)
-    * Deadline: December 1, 2021 to start in Fall 2022
+    * Deadline: Applications currently closed.
 
 * [Khoury College of Computer Sciences Research Fellowship](https://www.khoury.northeastern.edu/research/fellowship/)
-    * Deadline: December 31, 2021
+    * Deadline: Applications currently closed.
 
 
 #### NSF MPS-Ascend Fellowship
 <img class="image image--sm" src="images/nsf_logo.png" align="right" hspace="10" vspace="10"/>
 * [Apply for a Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship](https://www.nsf.gov/pubs/2022/nsf22501/nsf22501.pdf?WT.mc_id=USNSF_34&WT.mc_ev=click)
-* Proposals due January 6, 2022 to start by October 1, 2022
 * Awarded to an individual, not institution
 * Candidates need a sponsoring scientist and host institution, so if you are interested in applying to work with IAIFI, ask an [IAIFI Senior Investigator](people.html#senior-investigators) to sponsor you or contact [IAIFI Management](mailto:iaifi-management@mit.edu) for help identifying a sponsor
+* Applications currently closed.
 
 ## Prospective Graduate Students
 
