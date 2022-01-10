@@ -10,7 +10,28 @@ title: Internal Events
 * [Past Journal Clubs](#past-journal-clubs)
 * [Other Past Internal Events](#other-past-internal-events)
 
+<style>
+.calendar-container{
+    position: relative;
+    Padding-bottom: 75%;
+    Height: 0;
+    overflow: hidden;
+}
+</style>
+
+<style>
+.calendar-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<div class="calendar-container">
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showNav=1&showPrint=0&showCalendars=0&mode=AGENDA&src=cDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZGFicWU3OXZxY3NoMTFkMjdsY2Q5OGxlbXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&color=%23D50000" style="border:solid 1px #777" width="800" height="300" frameborder="0" scrolling="no"></iframe>
+</div>
 
 **Note: Events in red are invite-only**
 
