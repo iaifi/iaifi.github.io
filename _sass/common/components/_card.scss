@@ -138,7 +138,7 @@
 }
 
 // Card image caps
-.card-img-top {
+.my-card-img-top {
   //width: 100%; // Required because we use flexbox and this inherently applies align-self: stretch
   //height: 15rem;
   //object-fit: cover;
@@ -235,7 +235,7 @@
     column-gap: 0; //$card-columns-gap;
     orphans: 1;
     widows: 1;
-    row-gap: 1em; 
+    row-gap: 1em;
 
     .card {
       display: inline-block; // Don't let them vertically span multiple columns
