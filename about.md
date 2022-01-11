@@ -26,17 +26,39 @@ key: page-about
 </a>
 
 
-<img src="images/iaifi-thrusts.png" align="right" width="310" height="245" hspace="20" vspace="20"/> The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI, pronounced /aɪ-faɪ/) is one of the inaugural NSF AI research institutes. The IAIFI is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles from fundamental physics. AI is transforming many aspects of society, including the ways that scientists are pursuing groundbreaking discoveries. For many years, physicists have been at the forefront of applying AI methods to investigate fundamental questions about the Universe. Further progress will require a revolutionary leap in AI, as both the complexity of physics problems and the size of physics datasets continue to grow.
+<img src="images/iaifi-thrusts.png" align="right" width="310" height="245" hspace="20" vspace="20"/> 
+
+The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI, pronounced /aɪ-faɪ/) is one of the inaugural NSF AI research institutes. The IAIFI is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles from fundamental physics. AI is transforming many aspects of society, including the ways that scientists are pursuing groundbreaking discoveries. For many years, physicists have been at the forefront of applying AI methods to investigate fundamental questions about the Universe. Further progress will require a revolutionary leap in AI, as both the complexity of physics problems and the size of physics datasets continue to grow.
 
 
-The goal of the IAIFI is to develop and deploy the next generation of AI technologies, based on the transformative idea that artificial intelligence can directly incorporate physics intelligence. IAIFI researchers are using these new AI technologies to tackle some of the most challenging problems in physics, from precision calculations of the structure of matter, to gravitational wave detection of merging black holes, to the extraction of new physical laws from noisy data. <img src="images/broader-impacts.png" align="right" width="297" height="270" hspace="20" vspace="20"/>  IAIFI researchers are also working to transfer these technologies to the broader AI community, since trustworthy AI is as important for physics discovery as it is for other applications of AI in society. To cultivate human intelligence, the IAIFI promotes training, education, and outreach at the intersection of physics and AI. In this way, the IAIFI is advancing physics knowledge – from the smallest building blocks of nature to the largest structures in the Universe – and galvanizing AI research innovation.
+The goal of the IAIFI is to develop and deploy the next generation of AI technologies, based on the transformative idea that artificial intelligence can directly incorporate physics intelligence. IAIFI researchers are using these new AI technologies to tackle some of the most challenging problems in physics, from precision calculations of the structure of matter, to gravitational wave detection of merging black holes, to the extraction of new physical laws from noisy data. 
+
+<img src="images/broader-impacts.png" align="right" width="297" height="270" hspace="20" vspace="20"/>  
+
+IAIFI researchers are also working to transfer these technologies to the broader AI community, since trustworthy AI is as important for physics discovery as it is for other applications of AI in society. To cultivate human intelligence, the IAIFI promotes training, education, and outreach at the intersection of physics and AI. In this way, the IAIFI is advancing physics knowledge – from the smallest building blocks of nature to the largest structures in the Universe – and galvanizing AI research innovation.
 
 *The IAIFI is anchored in the [Laboratory for Nuclear Science](https://web.mit.edu/lns/) at MIT.*
 
 <style>
-.responsive-wrap iframe{ max-width: 100%;}
+.google-slides-container{
+    position: relative;
+    width: 100%;
+    padding-top: 60%;
+    overflow: hidden;
+}
 </style>
-<div class="responsive-wrap">
+
+<style>
+.google-slides-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<div class="google-slides-container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTj25Pm0Ts4yq1Kz89JISu6hGx3D3wK84pcb4jmmiSKOkfExPsXYBPcnuGUX6cpJ7LMMHiq69Bf_DDU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
