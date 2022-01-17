@@ -42,7 +42,21 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 ## Upcoming Internal Discussion Seminars
 These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
         
-* The IAIFI Internal Discussion Seminars will return in February 2022.
+* **Anna Golubeva, IAIFI Fellow**
+    * **Friday, March 11, 2022 2:00-3:00pm** 
+    * *Details to come*
+
+* **Boaz Borak, Professor, Computer Science, Harvard**
+    * **Friday, April 8, 2022 2:00-3:00pm** 
+    * *Details to come*
+
+* **Siddharth Mishra-Sharma, IAIFI Fellow**
+    * **Friday, April 22, 2022 2:00-3:00pm** 
+    * *Details to come*
+
+* **Carlos Argüelles-Delgado, Assistant Professor, Physics, Harvard**
+    * **Friday, May 6, 2022 2:00-3:00pm** 
+    * *Details to come*
 
 ## Upcoming Journal Clubs
 The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
@@ -53,12 +67,11 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 ## Other Upcoming Internal Events
 Internal events are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
-  * **AI Lightning Talks**
-    * **Friday, December 17, 2:00-3:00pm**
-    * IAIFI researchers from the AI thrust will present their work to IAIFI members with a goal of sparking opportunities for collaboration.
-        * *"Equivariant Contrastive Learning,"* presented by Rumen Dangovski
-        * *"Sparse Equivariant Convolutions for Neutrino Event Classification,"* presented by Taritree Wongjirad and Tess Smidt
-        * *"Can you see the shape of a jet?,"* presented by Akshunna S. Dogra
+
+* **IAIFI Lightning Talks**
+  * **Friday, February 11, 2022 2:00-3:00pm and Friday, February 25, 2022 2:00-3:00pm**
+  * IAIFI researchers will volunteer to present their work to IAIFI members with a goal of sparking opportunities for collaboration.
+
 
 ## Past Seminars
 ### Fall 2021
@@ -208,6 +221,13 @@ Internal events are only open to IAIFI members and affiliates. Access to the Zoo
     * **Thursday, August 19, 12:00pm-1:30pm**
  * **Fall 2021 Networking (in person)**
     * **Friday, October 29, 5:30pm-7:30pm**
+
+### AI Lightning Talks
+  * **Friday, December 17, 2:00-3:00pm**
+  * IAIFI researchers from the AI thrust presented their work to IAIFI members with a goal of sparking opportunities for collaboration.
+    * *"Equivariant Contrastive Learning,"* presented by Rumen Dangovski
+    * *"Sparse Equivariant Convolutions for Neutrino Event Classification,"* presented by Taritree Wongjirad and Tess Smidt
+    * *"Can you see the shape of a jet?,"* presented by Akshunna S. Dogra
 
 ### Town Halls
   * **Year 2 State of the IAIFI Town Hall**

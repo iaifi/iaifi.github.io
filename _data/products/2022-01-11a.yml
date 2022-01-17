@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Cracking the Quantum Scaling Limit with Machine Learned Electron Densities"
+authors: Joshua A. Rackers, Lucas Tecot, Mario Geiger, Tess E. Smidt
+abstract: "A long-standing goal of science is to accurately solve the Schrödinger equation for large molecular systems. The poor scaling of current quantum chemistry algorithms on classical computers imposes an effective limit of about a few dozen atoms for which we can calculate molecular electronic structure. We present a machine learning (ML) method to break through this scaling limit and make quantum chemistry calculations of very large systems possible. We show that Euclidean Neural Networks can be trained to predict the electron density with high fidelity from limited data. Learning the electron density allows us to train a machine learning model on small systems and make accurate predictions on large ones. We show that this ML electron density model can break through the quantum scaling limit and calculate the electron density of systems of thousands of atoms with quantum accuracy."
+arxiv: "2201.03726"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
