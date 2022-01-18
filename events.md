@@ -35,9 +35,41 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 
 ## Upcoming IAIFI Public Colloquia 
 
-Our Colloquium series will continue in February 2022. Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on future events.
+Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on future events.
 
-You can also [watch our colloquia live on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
+You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
+
+<img class="image" src="images/small-photo-kyle-cranmer.jpg" align="right" style="max-width:250px;width:10%" hspace="20" vspace="20"/>
+* **[Kyle Cranmer](https://www.cs.wisc.edu/staff/cranmer-kyle/), Professor of Physics at University of Wisconsin – Madison; Director, American Family Data Science Institute** 
+    * **Friday, February 18, 2022, 2:00-3:00pm** 
+    * *Details to come*
+
+&nbsp;
+
+<img class="image" src="images/small-photo-giuseppe-carleo.jpg" style="max-width:200px;width:10%" align="right" hspace="20" vspace="20"/>
+* **[Giuseppe Carleo](https://people.epfl.ch/giuseppe.carleo?lang=en), Assistant Professor, Computational Quantum Science Laboratory, École Polytechnique** 
+    * **Friday, March 4, 2022, 2:00-3:00pm** 
+    * *Details to come*
+
+&nbsp;
+
+* **[Yann LeCun](http://yann.lecun.com/), VP and Chief AI Scientist, Facebook** <img class="image" src="images/small-photo-yann-lecun.jpg" align="right" style="max-width:300px;width:15%" hspace="20" vspace="20"/>
+    * **Friday, April 1, 2022, 2:00-3:00pm** 
+    * *Details to come*
+    * *Photo courtesy of Kimberly M. Wang, eardog.com*
+
+&nbsp;
+
+* **[Hiranya Peiris](https://www.ucl.ac.uk/cosmoparticle/hiranya-peiris), Professor of Astrophysics, University College London** <img class="image" src="images/small-photo-hiranya-peiris.jpg" style="max-width:300px;width:15%" align="right" hspace="20" vspace="20"/>
+    * **Friday, April 15, 2022, 2:00-3:00pm** 
+    * *Details to come*
+
+&nbsp;
+
+* **[Laura Waller](https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html), Associate Professor, EECS, University of California, Berkeley** <img class="image" src="images/small-photo-laura-waller.jpg" style="max-width:215px;width:10%" align="right" hspace="20" vspace="20"/>
+    * **Friday, April 29, 2022, 2:00-3:00pm** 
+    * *Details to come*
+&nbsp;
 
 ## Past Colloquia
 ### Fall 2021

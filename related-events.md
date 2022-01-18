@@ -43,6 +43,7 @@ Other organizations that hold public events relevant to the IAIFI community:
   * [CLARIPHY Topical Meetings](https://clariphy.org/topical.html)
   * [Understanding the Nature of Inference Colloquia](https://inferenceproject.yale.edu/colloquium-series)
   * [Stochastics and Statistics Seminars presented by the MIT Statistics and Data Science Center](https://stat.mit.edu/seminars/)
+  * [CMSA New Technologies in Mathematics Seminar Series at Harvard](https://cmsa.fas.harvard.edu/tech-in-math/)
 
 ## Upcoming Related Workshops
 
