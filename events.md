@@ -40,7 +40,7 @@ Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/ia
 You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
 <img class="image" src="images/small-photo-kyle-cranmer.jpg" align="right" style="max-width:250px;width:10%" hspace="20" vspace="20"/>
-* **[Kyle Cranmer](https://www.cs.wisc.edu/staff/cranmer-kyle/), Professor of Physics at University of Wisconsin – Madison; Director, American Family Data Science Institute** 
+* **[Kyle Cranmer](https://www.cs.wisc.edu/staff/cranmer-kyle/), Professor of Physics and Data Science New York University; Visiting Scientist at Meta AI** 
     * **Friday, February 18, 2022, 2:00-3:00pm** 
     * *Details to come*
 
@@ -53,7 +53,7 @@ You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UC
 
 &nbsp;
 
-* **[Yann LeCun](http://yann.lecun.com/), VP and Chief AI Scientist, Facebook** <img class="image" src="images/small-photo-yann-lecun.jpg" align="right" style="max-width:300px;width:15%" hspace="20" vspace="20"/>
+* **[Yann LeCun](http://yann.lecun.com/), VP and Chief AI Scientist, Meta** <img class="image" src="images/small-photo-yann-lecun.jpg" align="right" style="max-width:300px;width:15%" hspace="20" vspace="20"/>
     * **Friday, April 1, 2022, 2:00-3:00pm** 
     * *Details to come*
     * *Photo courtesy of Kimberly M. Wang, eardog.com*
