@@ -59,7 +59,8 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
   * Coordinates opportunities for making connections across IAIFI, including sharing research, networking, and facilitating random connections
   * Led by Max Tegmark (Community Building Coordinator), Demba Ba (Foundational AI Research Coordinator), Phil Harris (Physics Experiment Research Coordinator), and Phiala Shanahan (Physics Theory Research Coordinator)
-  * **We are currently looking for volunteers for this Committee**
+  * Current Members: Mike Williams (Interim Chair), Mehmet Demirtas, Ouail Kitouni, Niklas Nolte, Sona Najafi, Marisa LaFleur (Project Manager)
+  * The Committee is currently open to additional members
   * [Email IAIFI Management](mailto:iaifi-management@mit.edu) if you are interested in volunteering
 
 ### Early Career and Equity Committee

@@ -97,6 +97,8 @@ We are in the process of developing partnerships across both industry and academ
 
 ## Community Building
 
+* Year 2 IAIFI Community Building Committee: Mike Williams (Interim Chair), Mehmet Demirtas, Ouail Kitouni, Niklas Nolte, Sona Najafi
+
 ### IAIFI Discussion Seminars
 The IAIFI Discussion Seminars kicked off on February 11, 2021 and has continued as a biweekly series during the academic year. Discussion seminars are open to IAIFI members and continue to be held virtually over Zoom.
 * [View our full internal events calendar](/internal-events.html)
