@@ -5,18 +5,18 @@ title: Synergies
 
 The IAIFI is involved in many activities in areas of education and workforce development, community building, outreach, and knowledge transfer. To learn more about how to contribute to these efforts, visit the [Get Involved page for current members](/get-involved-current.html) or to collaborate externally visit our [external Get Involved page](/get-involved.html). 
 
-* [Early Career and Equity Committee](early-career-and-equity-committee)
+* [Early Career and Equity Committee](#early-career-and-equity-committee)
 * [Education and Workforce Development](#education-and-workforce-development)
-  * [IAIFI Fellowship Program](iaifi-fellowship-program)
-  * [Interdisciplinary PhD Program](interdisciplinary-phd-program)
-  * [PhD Summer School](phd-summer-school)
+  * [IAIFI Fellowship Program](#iaifi-fellowship-program)
+  * [Interdisciplinary PhD Program](#interdisciplinary-phd-program)
+  * [PhD Summer School](#phd-summer-school)
 * [Knowledge Transfer](#knowledge-transfer)
-  * [IAIFI Public Colloquia](iaifi-public-colloquia)
-  * [Partnership Hub](partnership-hub)
-* [Community Building](community-building)
-  * [IAIFI Discussion Seminars](iaifi-discussion-seminars)
-  * [IAIFI Journal Club](iaifi-journal-club)
-* [Outreach](outreach)
+  * [IAIFI Public Colloquia](#iaifi-public-colloquia)
+  * [Partnership Hub](#partnership-hub)
+* [Community Building](#community-building)
+  * [IAIFI Discussion Seminars](#iaifi-discussion-seminars)
+  * [IAIFI Journal Club](#iaifi-journal-club)
+* [Outreach](#outreach)
 * [Physics/AI Network](#physics/ai-network)
 
 <!---
@@ -96,6 +96,8 @@ The IAIFI Colloquia series kicked off on February 4, 2021 and has continued as a
 We are in the process of developing partnerships across both industry and academia. If you are interested in discussing partnership opportunities with IAIFI, [contact Todd Zickler](mailto:zickler@seas.harvard.edu), IAIFI Knowledge Transfer Coordinator. 
 
 ## Community Building
+
+* Year 2 IAIFI Community Building Committee: Mike Williams (Interim Chair), Mehmet Demirtas, Ouail Kitouni, Niklas Nolte, Sona Najafi
 
 ### IAIFI Discussion Seminars
 The IAIFI Discussion Seminars kicked off on February 11, 2021 and has continued as a biweekly series during the academic year. Discussion seminars are open to IAIFI members and continue to be held virtually over Zoom.

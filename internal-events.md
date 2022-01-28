@@ -68,6 +68,10 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 ## Other Upcoming Internal Events
 Internal events are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
 
+* **IAIFI Virtual Networking**
+  * **Friday, February 4, 2022 2:00-3:00pm**
+  * IAIFI members can join our virtual networking event to be randomly matched with other IAIFI members for 12-minute discussions. Meal vouchers will be provided to attendees. [View login information](https://internal.iaifi.org/internal-events/) (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
+
 * **IAIFI Lightning Talks**
   * **Friday, February 11, 2022 2:00-3:00pm and Friday, February 25, 2022 2:00-3:00pm**
   * IAIFI researchers will volunteer to present their work to IAIFI members with a goal of sparking opportunities for collaboration.

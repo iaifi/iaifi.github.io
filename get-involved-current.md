@@ -59,14 +59,15 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
   * Coordinates opportunities for making connections across IAIFI, including sharing research, networking, and facilitating random connections
   * Led by Max Tegmark (Community Building Coordinator), Demba Ba (Foundational AI Research Coordinator), Phil Harris (Physics Experiment Research Coordinator), and Phiala Shanahan (Physics Theory Research Coordinator)
-  * **We are currently looking for volunteers for this Committee**
+  * Current Members: Mike Williams (Interim Chair), Mehmet Demirtas, Ouail Kitouni, Niklas Nolte, Sona Najafi, Marisa LaFleur (Project Manager)
+  * The Committee is currently open to additional members
   * [Email IAIFI Management](mailto:iaifi-management@mit.edu) if you are interested in volunteering
 
 ### Early Career and Equity Committee
 
   *  Serves as an advisory body to the IAIFI Managementon aspects related to early career researchers and diversity, equity, and inclusion, as well as to oversee the well-being and working environment of all IAIFI members
   * Current Members: Tracy Slatyer (Chair), Edo Berger, Harold Erbin, Katie Fraser, Jasmine Gill, Anindita Maiti, Siddharth Mishra-Sharma, Marisa LaFleur (Project Manager)
-  * The Committee will rotate membership in January 2022
+  * The Committee is actively looking for new members for 2022
   * [Email Tracy Slatyer](mailto:tslatyer@mit.edu) if you're interested in learning more
 
 ### PhD Summer School Committee
