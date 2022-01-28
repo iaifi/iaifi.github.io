@@ -5,18 +5,18 @@ title: Synergies
 
 The IAIFI is involved in many activities in areas of education and workforce development, community building, outreach, and knowledge transfer. To learn more about how to contribute to these efforts, visit the [Get Involved page for current members](/get-involved-current.html) or to collaborate externally visit our [external Get Involved page](/get-involved.html). 
 
-* [Early Career and Equity Committee](early-career-and-equity-committee)
+* [Early Career and Equity Committee](#early-career-and-equity-committee)
 * [Education and Workforce Development](#education-and-workforce-development)
-  * [IAIFI Fellowship Program](iaifi-fellowship-program)
-  * [Interdisciplinary PhD Program](interdisciplinary-phd-program)
-  * [PhD Summer School](phd-summer-school)
+  * [IAIFI Fellowship Program](#iaifi-fellowship-program)
+  * [Interdisciplinary PhD Program](#interdisciplinary-phd-program)
+  * [PhD Summer School](#phd-summer-school)
 * [Knowledge Transfer](#knowledge-transfer)
-  * [IAIFI Public Colloquia](iaifi-public-colloquia)
-  * [Partnership Hub](partnership-hub)
-* [Community Building](community-building)
-  * [IAIFI Discussion Seminars](iaifi-discussion-seminars)
-  * [IAIFI Journal Club](iaifi-journal-club)
-* [Outreach](outreach)
+  * [IAIFI Public Colloquia](#iaifi-public-colloquia)
+  * [Partnership Hub](#partnership-hub)
+* [Community Building](#community-building)
+  * [IAIFI Discussion Seminars](#iaifi-discussion-seminars)
+  * [IAIFI Journal Club](#iaifi-journal-club)
+* [Outreach](#outreach)
 * [Physics/AI Network](#physics/ai-network)
 
 <!---

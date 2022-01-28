@@ -67,7 +67,7 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
   *  Serves as an advisory body to the IAIFI Managementon aspects related to early career researchers and diversity, equity, and inclusion, as well as to oversee the well-being and working environment of all IAIFI members
   * Current Members: Tracy Slatyer (Chair), Edo Berger, Harold Erbin, Katie Fraser, Jasmine Gill, Anindita Maiti, Siddharth Mishra-Sharma, Marisa LaFleur (Project Manager)
-  * The Committee will rotate membership in January 2022
+  * The Committee is actively looking for new members for 2022
   * [Email Tracy Slatyer](mailto:tslatyer@mit.edu) if you're interested in learning more
 
 ### PhD Summer School Committee
