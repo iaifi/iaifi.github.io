@@ -25,10 +25,10 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 * Additional lecturers to be announced!
 
 ## Summer School Registration
-Registration for the Summer School will open on **February 15, 2022**. Space may be limited, so a brief application will be required.
+Registration for the Summer School will open on **February 15, 2022**. Space may be limited, so a brief application will be required. Limited funding support may be available as needed.
 
 ## Summer School Schedule
-Details of the schedule for the Summer School will be released in Spring 2022.
+Details of the schedule for the Summer School will be released in Spring 2022. The schedule will include lectures, tutorials, poster sessions, a hackathon, and networking events.
 
 ## Workshop Program
 The workshop program will be released in Spring 2022.
