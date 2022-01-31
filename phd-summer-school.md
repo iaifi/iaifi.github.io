@@ -1,6 +1,6 @@
 ---
 layout: article
-title: PhD Summer School and Workshop
+title: IAIFI PhD Summer School and Workshop
 ---
 
 <!---
@@ -15,7 +15,7 @@ The first annual IAIFI PhD Summer School will be held **August 1—August 5, 202
 * [Workshop Program](workshop-program)
 
 ## About
-The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking.
+The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials will help students put theory into practice.
 
 ## Summer School Lecturers
 * [Yasaman Bahri](https://yasamanb.github.io), Research Scientist, Google Research (Brain Team)
@@ -32,3 +32,13 @@ Details of the schedule for the Summer School will be released in Spring 2022. T
 
 ## Workshop Program
 The workshop program will be released in Spring 2022.
+
+## Organizing Committee
+* Jim Halverson, Chair (Northeastern University)
+* Tess Smidt (MIT)
+* Anna Golubeva (IAIFI Fellow)
+* Dylan Rankin (MIT)
+* Jeffrey Lazar (Harvard)
+* Peter Lu (MIT)
+
+Contact [iaifi@mit.edu](mailto:iaifi@mit.edu) with questions. 
