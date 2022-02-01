@@ -13,12 +13,14 @@ header:
     subtitles:
       - title: Calendar
         url: /events-calendar.html
-      - title: Public
+      - title: Colloquia
         url: /events.html
       - title: Internal
         url: /internal-events.html
       - title: Related
         url: /related-events.html
+      - title: Summer School and Workshop
+        url: /phd-summer-school.html
 
   - title: People
     subtitles:
