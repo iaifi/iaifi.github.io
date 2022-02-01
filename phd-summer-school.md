@@ -3,25 +3,78 @@ layout: article
 title: IAIFI PhD Summer School and Workshop
 ---
 
-<!---
-The first annual IAIFI PhD Summer School will be held **August 1—August 5, 2022** at Northeastern University, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. 
-{:.info}
---->
-
+<img src="images/phd-summer-school-logo-4.png" align="left" style="max-width:1368px;width:35%" hspace="50" vspace="0"> 
 * [About](about)
 * [Summer School Lecturers](#summer-school-lecturers)
 * [Summer School Registration](#summer-school-registration)
 * [Summer School Schedule](#summer-school-schedule)
 * [Workshop Program](workshop-program)
 
+<br>
+<br>
+
+The first annual IAIFI PhD Summer School will be held **August 1—August 5, 2022** at Northeastern University, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. 
+
 ## About
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials will help students put theory into practice.
 
 ## Summer School Lecturers
-* [Yasaman Bahri](https://yasamanb.github.io), Research Scientist, Google Research (Brain Team)
-* [Taco Cohen](https://tacocohen.wordpress.com), Research Scientist, Qualcomm Research Netherlands
-* [Sven Krippendorf](https://krippendorflab.github.io), Senior Researcher, Mathematical Physics and String Theory, Ludwig-Maximilians Universität
-* [Juan Carrasquilla](https://vectorinstitute.ai/team/juan-felipe-carrasquilla/), Visiting Fellow, Vector Institute
+<div class="card-columns">
+  <!--<div class="row">-->
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-yasaman-bahri.jpg" alt="Yasaman Bahri" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://yasamanb.github.io">Yasaman Bahri</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Research Scientist, Google Research (Brain Team) </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-taco-cohen.jpg" alt="Taco Cohen" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://tacocohen.wordpress.com">Taco Cohen</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Research Scientist, Qualcomm Research Netherlands </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-sven-krippendorf.jpg" alt="Sven Krippendorf" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://krippendorflab.github.io/">Sven Krippendorf</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Senior Researcher, Mathematical Physics and String Theory, Ludwig-Maximilians Universität </em> <br>
+         </div>
+         </div>
+       </div>
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-juan-carrasquilla.jpg" alt="Juan Carrasquilla" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://vectorinstitute.ai/team/juan-felipe-carrasquilla/">Juan Carrasquilla</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Faculty Member, Vector Institute; Adjunct Assistant Professor, University of Waterloo </em> <br>
+         </div>
+         </div>
+       </div>
+  <!--
+  </div>
+<br> -->
+</div>
+
+<br>
+
 * Additional lecturers to be announced!
 
 ## Summer School Registration
