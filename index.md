@@ -14,11 +14,6 @@ article_header:
 
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. The IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. The IAIFI is a collaboration of both [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts.  Learn more about our [research](/research.html) at the Physics/AI intersection and about our [IAIFI Fellows](/fellows.html) program.
 
-### IAIFI Jobs
-
-***Applications for the 2022-2025 IAIFI Fellowship are now closed.*** Updates on future competitions will be provided on the [IAIFI Fellows page](https://iaifi.org/fellows). You can also [Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive announcements for future competitions.
-{:.success}
-
 ### IAIFI Events
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
@@ -26,14 +21,11 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***IAIFI Colloquium Series will continue on February 18, 2022.***  Our biweekly [virtual colloquium series](events.html) will continue with a talk from Kyle Cranmer on February 18, 2022. Watch live on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA) and [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series.
 {:.success}
 
-### Subscribe to IAIFI News
-
-To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
-{:.info}
-
 ### IAIFI News
 
-For an archive of IAIFI news, see our [news page](/iaifi-news.html).
+For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
+
+***Second Round of IAIFI Fellows Announced**: The next round of [IAIFI Fellows (2022-2025](/current-fellows.html#2021-2025-iaifi-fellows), Denis Boyda, Carolina Cuesta, and Jessie Micallef, will join us later in 2022 and help spark vital interdisciplinary research at the intersection of Physics and AI! *January, 28, 2022*
 
 ***IAIFI Senior Investigator Phiala Shanahan receives 2021 Wu-Ki Tung Award for Early Career Research on QCD***: [Phiala was recognized](https://varelas.people.uic.edu/tung_award/) "for pioneering studies of long-wavelength and nuclear non-perturbative QCD effects in discretized space and time, and for applications of machine learning to lattice field theory." *January 24, 2022*
 {:.info}
