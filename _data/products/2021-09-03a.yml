@@ -4,8 +4,8 @@ title: "Deep Set Auto Encoders for Anomaly Detection in Particle Physics"
 authors: Bryan Ostdiek
 abstract: There is an increased interest in model agnostic search strategies for physics beyond the standard model at the Large Hadron Collider. We introduce a Deep Set Variational Autoencoder and present results on the Dark Machines Anomaly Score Challenge. We find that the method attains the best anomaly detection ability when there is no decoding step for the network, and the anomaly score is based solely on the representation within the encoded latent space. This method was one of the top-performing models in the Dark Machines Challenge, both for the open data sets as well as the blinded data sets.
 arxiv: 2109.01695
-journal: 
-doi: 
+journal: SciPost Physics, 2022, Vol. 12, Issue 1
+doi: https://doi.org/10.21468/SciPostPhys.12.1.045
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2022-01-31
