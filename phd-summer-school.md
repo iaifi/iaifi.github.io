@@ -3,7 +3,7 @@ layout: article
 title: IAIFI PhD Summer School and Workshop
 ---
 
-<img src="images/phd-summer-school-logo-4.png" align="left" style="max-width:1368px;width:35%" hspace="50" vspace="0"> 
+<img src="images/phd-summer-school-logo-7.png" align="left" style="max-width:5990px;width:50%" hspace="50" vspace="0"> 
 * [About](about)
 * [Summer School Lecturers](#summer-school-lecturers)
 * [Summer School Registration](#summer-school-registration)
