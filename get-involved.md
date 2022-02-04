@@ -14,7 +14,7 @@ Thank you for your interest in getting involved with IAIFI! Navigate to the role
 * [Researchers or Practitioners in Industry](#researchers-or-practitioners-in-industry)
 * [Researchers Beyond the Boston Area](#researchers-beyond-the-boston-area)
 
-If your situation does not fall into any of the above categories, please contact [IAIFI Management](mailto:iaifi-management@mit.edu).
+If your situation does not fall into any of the above categories, please contact [IAIFI Management](mailto:iaifi@mit.edu).
 
 ## Senior Researchers in the Boston area
 
@@ -46,7 +46,6 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 * Requires reporting IAIFI-related activities to the NSF
 * Expected to collaborate on research as an IAIFI Junior Investigator
 * Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
-
 
 
 <img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
@@ -122,7 +121,7 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
     * Deadline: March 1, 2022
 
 * [MEnTorEd Opportunities in Research (METEOR) Fellowship in MIT CSAIL](https://postdoc.csail.mit.edu/searches/meteor-search/)
-    * Deadline: February 1, 2022
+    * Deadline: Applications currently closed.
 
 * [Postdoc openings in the MIT Center for Theoretical Physics](http://academicjobsonline.org/ajo/mit/ctp/)
     * Deadline: Applications currently closed.

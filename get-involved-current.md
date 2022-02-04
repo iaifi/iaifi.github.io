@@ -53,65 +53,31 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
 
 ## Join an IAIFI Committee
-
-
-### Community Building Committee
-
-  * Coordinates opportunities for making connections across IAIFI, including sharing research, networking, and facilitating random connections
-  * Led by Max Tegmark (Community Building Coordinator), Demba Ba (Foundational AI Research Coordinator), Phil Harris (Physics Experiment Research Coordinator), and Phiala Shanahan (Physics Theory Research Coordinator)
-  * Current Members: Mike Williams (Interim Chair), Mehmet Demirtas, Ouail Kitouni, Niklas Nolte, Sona Najafi, Marisa LaFleur (Project Manager)
-  * The Committee is currently open to additional members
-  * [Email IAIFI Management](mailto:iaifi-management@mit.edu) if you are interested in volunteering
-
-### Early Career and Equity Committee
-
-  *  Serves as an advisory body to the IAIFI Managementon aspects related to early career researchers and diversity, equity, and inclusion, as well as to oversee the well-being and working environment of all IAIFI members
-  * Current Members: Tracy Slatyer (Chair), Edo Berger, Harold Erbin, Katie Fraser, Jasmine Gill, Anindita Maiti, Siddharth Mishra-Sharma, Marisa LaFleur (Project Manager)
-  * The Committee is actively looking for new members for 2022
-  * [Email Tracy Slatyer](mailto:tslatyer@mit.edu) if you're interested in learning more
-
-### PhD Summer School Committee
-
-  * Organizes PhD Summer School and subsequent workshop, aimed at educating PhD students interested in the intersection of AI and Physics, as well as broadening our impact beyond IAIFI members
-  * Current Members: Jim Halverson (Chair), Tess Smidt, Anna Golubeva, Jeffrey Lazar, Peter Lu, Dylan Rankin, Marisa LaFleur (Project Manager)
-  * The Committee is currently planning the PhD Summer School for Summer 2022
-  * [Email Jim Halverson](mailto:j.halverson@northeastern.edu) if you have ideas or would like to express interest in volunteering for events during the Summer School
-
-### Speaker Selection Committee
-
-  * Identifies and invites speakers for our IAIFI Internal Discussion Seminar series and our IAIFI Public Colloquium series
-  * Led by Cora Dvorkin (Colloquium organizer) and Demba Ba (Discussion Seminar organizer)
-  * Committee members: Dan Roberts, Nayantara Mudur, Di Luo, Arkopal Dutt, Marisa LaFleur (Project Manager)
-  * The Committee is currently planning the Spring 2022 series
-  * [Suggest a speaker](https://docs.google.com/forms/d/1SeaGUpoMZOGRJgcW3Utx_VZh9GTtXVOsYH1AAvrvxTY/edit) for either the Colloquium or Seminar series
-
-### MITx Course
-  * IAIFI junior members may serve on the teaching team for MIT's Physics in Data Science class (8.S50), which will be taught over IAP (January 2022) and will be used to help build IAIFI's first MITx (MIT's online education platform) course
-  * Current IAIFI members on the team: Phil Harris, Ike Chuang, Siddharth Mishra-Sharma, Dylan Rankin, Ouail Kitouni, Tri Nguyen, Duc Hoang, Eric Moreno, Raymond Wynne, Aidan Chambers
-  * As part of the team, members are helping to shape the material, potentially teach recitation, and help build the online version of the course
-  * Requirements: Completed MIT junior lab or experience in data analysis
-  * [Email Phil Harris](mailto:pcharris@mit.edu) if you'd like to learn more
+IAIFI has launched several committees, which include both junior and senior members of IAIFI, to help facilitate key IAIFI activities. Visit the pages below for more information on Committees you may be interested in.
+ * The [Outreach Committee](\outreach.html#outreach-committee) is currently inviting new members.
+ * The [Community Building Committee](\community-building.html#community-building-committee) is currently inviting new members.
+ * The [Early Career and Equity Committee](\ecec.html) is currently seeking new members for 2022.
+ * The [PhD Summer School and Workshop Committee](\phd-summer-school#organizing-committee) is currently planning the PhD Summer School for Summer 2022.
+ * The [Speaker Selection Committee](\community-building.html#speaker-selection-committee) is currently planning the Spring 2022 speaker series.
+ * IAIFI is currently building an [MITx Course](\education-workforce.html#mitx-course) and IAIFI members are welcome to contribute input into its development.
 
 ## Lead an IAIFI Journal Club
 
 * Any IAIFI member or partner can [sign up to lead an IAIFI Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7)
-* Journal Club is led by Andrew Tan and John Martyn
-* Journal Club for the Fall 2021 semester is held every other Thursday (beginning Sept. 23, 2021) at 11 am ET over Zoom
-* Previous Journal Club slides and resources can be found on the [IAIFI internal website](https://internal.iaifi.org/journal-club) (if you do not have access, [email IAIFI Management](mailto:iaifi-management@mit.edu))
+* [Journal Club](\community-building.html#iaifi-journal-club) is led by Andrew Tan and John Martyn
+* Journal Club for the Spring 2022 semester is held every other Thursday (beginning February 10, 2022) at 11 am ET over Zoom
+* Previous Journal Club slides and resources can be found on the [IAIFI internal website](https://internal.iaifi.org/journal-club) (if you do not have access, [email IAIFI Management](mailto:iaifi@mit.edu))
 
 ## Attend IAIFI Discussion Seminars and Public Colloquia
 * View the [full schedule for Discussion Seminars and Colloquia](events.html)
 * Watch [recordings of past seminars](https://internal.iaifi.org/internal-events/) on the IAIFI internal website (if you do not have access,
 [email IAIFI Management](mailto:iaifi-management@mit.edu))
 * Watch [recordings of past colloquia](https://youtube.com/playlist?list=PLBY0ED2StbGZtEAbnyZz9p3pK31qHLXmq) on our [YouTube Channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA)
-* The Discussion Seminars for Fall 2021 are held every other Friday (beginning Sept. 24, 2021) at 2 pm ET over Zoom
-* The Colloquia for Fall 2021 are held every other Friday (beginning Sept. 17, 2021) at 2 pm ET over Zoom and YouTube
-* Make sure you are on the internal IAIFI mailing list to receive announcements and Zoom information  (if you are not receiving iaifi-all emails, [email IAIFI Management](mailto:iaifi-management@mit.edu))
+* Make sure you are on the internal IAIFI mailing list to receive announcements and Zoom information  (if you are not receiving iaifi-all emails, [email IAIFI Management](mailto:iaifi@mit.edu))
 * [Suggest a speaker](https://docs.google.com/forms/d/1SeaGUpoMZOGRJgcW3Utx_VZh9GTtXVOsYH1AAvrvxTY/edit) for either the Colloquium or Seminar series
 
 ## Take an IAIFI-Related Class
 * Harvard GSAS: [Neuro/MCB/Physics 131, Computational Neuroscience](images/neuro-131_2022_advertisement.pdf), Prof. Haim Sompolinsky (Spring 2022) 
-* MIT IAP: [8.S50, Physics and Data Science](https://docs.google.com/document/d/1RskcK5Gyn2HzBqgvbTpAS-HL_OF2Bvq53bFGMTtjMys/edit?usp=sharing), Prof. Phil Harris (January 2022)
 
 ## Collaborate on IAIFI Research Projects
 * [View the People page](people.html) to identify other IAIFI researchers who you may be interested in collaborating with
@@ -125,9 +91,9 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 * *When a paper is published:*
   * [Email Marisa LaFleur](mailto:mlafleur@mit.edu) (IAIFI Project Manager) with a link to published article
 * *When giving a talk, organizing a workshop, etc:*
-  * [Email IAIFI Management](mailto:iaifi-management@mit.edu) so that we can advertise on our [Events page](events.html), share on Zulip, and include in reports
+  * [Email IAIFI Management](mailto:iaifi@mit.edu) so that we can advertise on our [Events page](events.html), share on Zulip, and include in reports
 * *When you're in the news:*
-  * [Email IAIFI Management](mailto:iaifi-management@mit.edu) so that we can share on the [home page](index.html) (news on the home page is eventually moved to the [News Archive](iaifi-news.html)), [tweet about it](https://twitter.com/iaifi_news), and include in reports
+  * [Email IAIFI Management](mailto:iaifi@mit.edu) so that we can share on the [home page](index.html) (news on the home page is eventually moved to the [News Archive](iaifi-news.html)), [tweet about it](https://twitter.com/iaifi_news), and include in reports
 
 ## Advertise and Acknowledge IAIFI
 * Use the IAIFI (with NSF) logo in talks related to IAIFI: [Black](images/iaifi-nsf-logo-black.pdf);  [White](images/iaifi-nsf-logo-white.pdf)
@@ -137,13 +103,13 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
 ## Be a Guest in the IAIFI Penthouse
 * If you are an IAIFI member and would like to visit the IAIFI Penthouse (MIT Building 26, 6th floor), we can provide temporary desk space.
-* View available desks and request a space at the [internal IAIFI Penthouse page](https://internal.iaifi.org/iaifi-penthouse/) (must be signed into the internal website to access; email [IAIFI Management](mailto:iaifi-management@mit.edu) if you are not registered). 
-* If you would like to request a permanent desk in the Penthouse, email [IAIFI Management](mailto:iaifi-management@mit.edu) with your request and rationale. 
+* View available desks and request a space at the [internal IAIFI Penthouse page](https://internal.iaifi.org/iaifi-penthouse/) (must be signed into the internal website to access; email [IAIFI Management](mailto:iaifi@mit.edu) if you are not registered). 
+* If you would like to request a permanent desk in the Penthouse, email [IAIFI Management](mailto:iaifi@mit.edu) with your request and rationale. 
 
 ## Access the IAIFI Internal Website
 
 * Sign in to [internal.iaifi.org](https://internal.iaifi.org)
-* If you do not have access, [email IAIFI Management](mailto:iaifi-management@mit.edu)
+* If you do not have access, [email IAIFI Management](mailto:iaifi@mit.edu)
 * Resources on the internal website include:
     * [Affiliation and acknowledgment details](https://internal.iaifi.org/useful-information/) for IAIFI-related papers;
     * Access to [sign up for the IAIFI Zulip](https://internal.iaifi.org/useful-information/);
@@ -160,13 +126,12 @@ Information on available tools from industry partners.
 * Apply to be an [IAIFI Fellow](fellows.html)
 * Apply for [other postdoc positions with IAIFI involvement](get-involved.html#prospective-postdocs)
 * Apply for [PhD programs at IAIFI institutions](https://iaifi.org/get-involved.html#prospective-graduate-students)
-* Follow the IAIFI [#job opportunities Zulip stream](https://iaifi.zulipchat.com/#narrow/stream/283724-job-opportunities) (if you do not have access, [email IAIFI Management](mailto:iaifi-management@mit.edu))
-
+* Follow the IAIFI [#job opportunities Zulip stream](https://iaifi.zulipchat.com/#narrow/stream/283724-job-opportunities) (if you do not have access, [email IAIFI Management](mailto:iaifi@mit.edu))
 
 
 ## Get Involved Beyond IAIFI
 
-We encourage IAIFI members to be involved in programs and initiatives not affiliated with IAIFI, but which can provide new insights and value to the IAIFI community, including sharing relevant events and best practices.  If you have other suggestions for ways the IAIFI community can be involved beyond IAIFI, [email IAIFI Management](mailto:iaifi-management@mit.edu).
+We encourage IAIFI members to be involved in programs and initiatives not affiliated with IAIFI, but which can provide new insights and value to the IAIFI community, including sharing relevant events and best practices.  If you have other suggestions for ways the IAIFI community can be involved beyond IAIFI, [email IAIFI Management](mailto:iaifi@mit.edu).
 
 ### Ethics and AI
 
