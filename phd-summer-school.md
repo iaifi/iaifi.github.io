@@ -3,7 +3,7 @@ layout: article
 title: IAIFI PhD Summer School and Workshop
 ---
 
-<img src="images/phd-summer-school-logo-7.png" align="left" style="max-width:5990px;width:50%" hspace="50" vspace="0"> 
+<img src="images/phd-summer-school-logo-7.png" align="right" style="max-width:5990px;width:50%" hspace="50" vspace="0"> 
 * [About](about)
 * [Summer School Lecturers](#summer-school-lecturers)
 * [Summer School Registration](#summer-school-registration)
@@ -68,6 +68,18 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
          </div>
          </div>
        </div>
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-javier-duarte.jpg" alt="Javier Duarte" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www-physics.ucsd.edu/Directory/Person/552">Javier Duarte</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Assistant Professor, University of California, San Diego </em> <br>
+         </div>
+         </div>
+       </div>
   <!--
   </div>
 <br> -->
@@ -75,7 +87,6 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 
 <br>
 
-* Additional lecturers to be announced!
 
 ## Summer School Registration
 Registration for the Summer School will open on **February 15, 2022**. Space may be limited, so a brief application will be required. Limited funding support may be available as needed.

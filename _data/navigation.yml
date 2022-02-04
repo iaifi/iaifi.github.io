@@ -37,7 +37,19 @@ header:
         url: /papers.html
 
   - title: Synergies
-    url: /activities.html
+    subtitles:
+      - title: Community Building
+        url: /community-building.html
+      - title: Early Career and Equity Committee
+        url: /ecec.html
+      - title: Education & Workforce Development
+        url: /education-workforce.html
+      - title: Ethics
+        url: /ethics.html
+      - title: Outreach
+        url: /outreach.html
+      - title: Physics/AI Network
+        url: /partnerships.html
 
   - title: Fellows
     subtitles:
