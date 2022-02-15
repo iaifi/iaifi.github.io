@@ -1,7 +1,7 @@
 type: paper
 iaifi-thrust: A
 title: "Topogivity: A Machine-Learned Chemical Rule for Discovering Topological Materials"
-authors: Andrew K. Saydjari, Douglas P. Finkbeiner
+authors: Andrew Ma, Yang Zhang, Thomas Christensen, Hoi Chun Po, Li Jing, Liang Fu, Marin Soljačić
 abstract: "Topological materials present unconventional electronic properties that make them attractive for both basic science and next-generation technological applications. The majority of currently-known topological materials have been discovered using methods that involve symmetry-based analysis of the quantum wavefunction. Here we use machine learning to develop a simple-to-use heuristic chemical rule that diagnoses with a high accuracy whether a material is topological using only its chemical formula. This heuristic rule is based on a notion that we term topogivity, a machine-learned numerical value for each element that loosely captures its tendency to form topological materials. We next implement a high-throughput strategy for discovering topological materials based on the heuristic topogivity-rule prediction followed by ab initio validation. This way, we discover new topological materials that are not diagnosable using symmetry indicators, including several that may be promising for experimental observation."
 arxiv: "2202.05255"
 journal: 
