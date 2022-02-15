@@ -13,7 +13,12 @@ title: IAIFI PhD Summer School and Workshop
 <br>
 <br>
 
-The first annual IAIFI PhD Summer School will be held **August 1—August 5, 2022** at Northeastern University, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. 
+The first annual IAIFI PhD Summer School will be held **August 1—August 5, 2022** at Northeastern University, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. The deadline to register is **April 22, 2022**. 
+
+<p align="center">
+<a href="https://forms.gle/bB4K1GM6KywnFC2Q7">Register for Summer School</a>
+</p>
+{:.success}
 
 ## About
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials will help students put theory into practice.
@@ -89,7 +94,7 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 
 
 ## Summer School Registration
-Registration for the Summer School will open on **February 15, 2022**. Space may be limited, so a brief application will be required. Limited funding support may be available as needed.
+**Registration for the Summer School is [now open](https://forms.gle/bB4K1GM6KywnFC2Q7)**. Space may be limited, so a brief application is required. The deadline to register is **Friday, April 22, 2022** and you will be notified of your registration status by May 2, 2022. Limited funding support may be available as needed.
 
 ## Summer School Schedule
 Details of the schedule for the Summer School will be released in Spring 2022. The schedule will include lectures, tutorials, poster sessions, a hackathon, and networking events.
