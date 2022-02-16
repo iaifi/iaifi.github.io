@@ -39,10 +39,11 @@ Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/ia
 
 You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
-<img class="image" src="images/small-photo-kyle-cranmer.jpg" align="right" style="max-width:250px;width:10%" hspace="20" vspace="20"/>
+<img class="image" src="images/small-photo-kyle-cranmer.jpg" align="right" style="max-width:250px;width:2s0%" hspace="20" vspace="20"/>
 * **[Kyle Cranmer](https://www.cs.wisc.edu/staff/cranmer-kyle/), Professor of Physics and Data Science New York University; Visiting Scientist at Meta AI** 
     * **Friday, February 18, 2022, 2:00-3:00pm** 
-    * *Details to come*
+    * *"Vignettes in physics-inspired AI research"*
+    * Abstract: Distinct from pure basic research and pure applied research is the concept of use-inspired research. The claim is that foundational advances are often inspired by the context and particularities of a specific applied problem setting -- reality is stranger than fiction. I will give a few examples of advances in AI inspired by problems in physics, which have also been found to be useful in unexpected areas ranging from algorithmic fairness, genomics, and epidemiology.
 
 &nbsp;
 
