@@ -47,10 +47,27 @@ You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UC
 
 &nbsp;
 
-<img class="image" src="images/small-photo-giuseppe-carleo.jpg" style="max-width:200px;width:10%" align="right" hspace="20" vspace="20"/>
+<img class="image" src="images/small-photo-giuseppe-carleo.jpg" style="max-width:200px;width:20%" align="right" hspace="20" vspace="20"/>
 * **[Giuseppe Carleo](https://people.epfl.ch/giuseppe.carleo?lang=en), Assistant Professor, Computational Quantum Science Laboratory, École Polytechnique** 
     * **Friday, March 4, 2022, 2:00-3:00pm** 
-    * *Details to come*
+    * *"Neural-Network Quantum States: new computational possibilities at the boundaries of the many-body problem"*
+    * Abstract: Machine-learning-based approaches, routinely adopted in cutting-edge industrial
+applications, are being increasingly adopted to study fundamental problems in
+science. Many-body physics is very much at the forefront of these exciting developments, 
+given its intrinsic "big-data" nature. In this talk, I will present selected applications to the quantum realm. First, I will discuss how a systematic and controlled machine learning of the
+many-body wave-function can be realized. This goal is achieved by a variational
+representation of quantum states based on artificial neural networks [1]. I will then
+discuss recent applications in diverse domains, including prototypical open problems in
+many-body quantum physics - interacting fermions [2,3,4] and frustrated spins [5,6] — where 
+these approaches typically outperform existing state of the art methods. Finally, I will discuss applications in the context of quantum computing [7,8].
+
+[1] Carleo and Troyer, Science 355, 602 (2017);
+[2] Moreno et al., arXiv:2111.10420 (2021) [3] Hermann et al., Nat. Chemistry 12, 891 (2020);
+[4] Adams et al., Phys. Rev. Lett. 127, 022502 (2021);
+[5] Choo et al, Phys. Rev. B 100, 125124 (2019);
+[6] Nomura and Imada, Phys. Rev. X 11, 031034 (2021);
+[7] Jonsson et al, arXiv:1808.05232 (2018);
+[8] Medvidovic and Carleo, npj Quantum Info 7, 101 (2021) 
 
 &nbsp;
 
@@ -67,9 +84,10 @@ You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UC
 
 &nbsp;
 
-* **[Laura Waller](https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html), Associate Professor, EECS, University of California, Berkeley** <img class="image" src="images/small-photo-laura-waller.jpg" style="max-width:215px;width:10%" align="right" hspace="20" vspace="20"/>
+* **[Laura Waller](https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html), Associate Professor, EECS, University of California, Berkeley** <img class="image" src="images/small-photo-laura-waller.jpg" style="max-width:215px;width:20%" align="right" hspace="20" vspace="20"/>
     * **Friday, April 29, 2022, 2:00-3:00pm** 
-    * *Details to come*
+    * *Title: Computational Microscopy*
+    * Abstract: Computational imaging involves the joint design of imaging system hardware and software, optimizing across the entire pipeline from acquisition to reconstruction. Computers can replace bulky and expensive optics by solving computational inverse problems, or images can be reconstructed from scattered light. This talk will describe new microscopes that use computational imaging to enable 3D, aberration and phase measurement using simple hardware that is easily adoptable and advanced image reconstruction algorithms based on large-scale optimization and learning.
 &nbsp;
 
 ## Past Colloquia
