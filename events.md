@@ -39,14 +39,6 @@ Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/ia
 
 You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
-<img class="image" src="images/small-photo-kyle-cranmer.jpg" align="right" style="max-width:250px;width:2s0%" hspace="20" vspace="20"/>
-* **[Kyle Cranmer](https://www.cs.wisc.edu/staff/cranmer-kyle/), Professor of Physics and Data Science New York University; Visiting Scientist at Meta AI** 
-    * **Friday, February 18, 2022, 2:00-3:00pm** 
-    * *"Vignettes in physics-inspired AI research"*
-    * Abstract: Distinct from pure basic research and pure applied research is the concept of use-inspired research. The claim is that foundational advances are often inspired by the context and particularities of a specific applied problem setting -- reality is stranger than fiction. I will give a few examples of advances in AI inspired by problems in physics, which have also been found to be useful in unexpected areas ranging from algorithmic fairness, genomics, and epidemiology.
-
-&nbsp;
-
 <img class="image" src="images/small-photo-giuseppe-carleo.jpg" style="max-width:200px;width:20%" align="right" hspace="20" vspace="20"/>
 * **[Giuseppe Carleo](https://people.epfl.ch/giuseppe.carleo?lang=en), Assistant Professor, Computational Quantum Science Laboratory, École Polytechnique** 
     * **Friday, March 4, 2022, 2:00-3:00pm** 
@@ -78,9 +70,10 @@ these approaches typically outperform existing state of the art methods. Finally
 
 &nbsp;
 
-* **[Hiranya Peiris](https://www.ucl.ac.uk/cosmoparticle/hiranya-peiris), Professor of Astrophysics, University College London** <img class="image" src="images/small-photo-hiranya-peiris.jpg" style="max-width:300px;width:15%" align="right" hspace="20" vspace="20"/>
+* **[Hiranya Peiris](https://www.ucl.ac.uk/cosmoparticle/hiranya-peiris), Professor of Astrophysics, University College London** <img class="image" src="images/small-photo-hiranya-peiris.jpg" style="max-width:300px;width:30%" align="right" hspace="20" vspace="20"/>
     * **Friday, April 15, 2022, 2:00-3:00pm** 
-    * *Details to come*
+    * *"Prospects for understanding the physics of the Universe"*
+    * Abstract: The remarkable progress in cosmology over the last decades has been driven by the close interplay between theory and observations. Observational discoveries have led to a standard model of cosmology with ingredients that are not present in the standard model of particle physics – dark matter, dark energy, and a primordial origin for cosmic structure. Their physical nature remains a mystery, motivating a new generation of ambitious sky surveys. However, it has become clear that formidable modelling and analysis challenges stand in the way of establishing how these ingredients fit into fundamental physics. I will discuss progress in harnessing advanced machine-learning techniques to address these challenges, giving some illustrative examples. I will highlight the particular relevance of interpretability and explainability in this field.
 
 &nbsp;
 
@@ -91,6 +84,17 @@ these approaches typically outperform existing state of the art methods. Finally
 &nbsp;
 
 ## Past Colloquia
+### Spring 2022
+<img class="image" src="images/small-photo-kyle-cranmer.jpg" align="right" style="max-width:250px;width:2s0%" hspace="20" vspace="20"/>
+* **[Kyle Cranmer](https://www.cs.wisc.edu/staff/cranmer-kyle/), Professor of Physics and Data Science New York University; Visiting Scientist at Meta AI** 
+    * **Friday, February 18, 2022, 2:00-3:00pm** 
+    * *"Vignettes in physics-inspired AI research"*
+    * [YouTube Recording](https://youtu.be/hGup1Yv7Ajk)
+    * [Talk Slides](talks/2022_02_18_IAIFI_Colloquium_Cranmer.pdf)
+    * Abstract: Distinct from pure basic research and pure applied research is the concept of use-inspired research. The claim is that foundational advances are often inspired by the context and particularities of a specific applied problem setting -- reality is stranger than fiction. I will give a few examples of advances in AI inspired by problems in physics, which have also been found to be useful in unexpected areas ranging from algorithmic fairness, genomics, and epidemiology.
+
+&nbsp;
+
 ### Fall 2021
 * **[Surya Ganguli](https://ganguli-gang.stanford.edu/surya.html), Associate Professor, Applied Physics, Stanford University** <img class="image" src="images/small-photo-surya-ganguli.jpg" align="right" hspace="20" vspace="20"/>
     * **Friday, September 17, 2:00-3:00pm** 
