@@ -18,7 +18,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***IAIFI Colloquium Series will continue on February 18, 2022.***  Our biweekly [virtual colloquium series](events.html) will continue with a talk from Kyle Cranmer on February 18, 2022. Watch live on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA) and [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series.
+***IAIFI Colloquium Series will continue on March 4, 2022.***  Our biweekly [virtual colloquium series](events.html) will continue with a talk from Giuseppe Carleo on March 4, 2022. Watch live on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA) and [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series.
 {:.success}
 
 ### IAIFI News
