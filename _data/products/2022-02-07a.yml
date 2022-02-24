@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Finite-Volume Pionless Effective Field Theory for Few-Nucleon Systems with Differentiable Programming"
+authors: Xiangkai Sun, William Detmold, Di Luo, Phiala E. Shanahan
+abstract: "Finite-volume pionless effective field theory provides an efficient framework for the extrapolation of nuclear spectra and matrix elements calculated at finite volume in lattice QCD to infinite volume, and to nuclei with larger atomic number. In this work, it is demonstrated how this framework may be implemented via a set of correlated Gaussian wavefunctions optimised using differentiable programming and via solution of a generalised eigenvalue problem. This approach is shown to be significantly more efficient than a stochastic implementation of the variational method based on the same form of correlated Gaussian wavefunctions, yielding comparably accurate representations of the ground-state wavefunctions with an order of magnitude fewer terms. The efficiency of representation allows such calculations to be extended to larger systems than in previous work. The method is demonstrated through calculations of the binding energies of nuclei with atomic number A∈{2,3,4} in finite volume, matched to lattice QCD calculations at quark masses corresponding to mπ=806 MeV, and infinite-volume effective field theory calculations of A∈{2,3,4,5,6} systems based on this matching."
+arxiv: "2202.03530"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
