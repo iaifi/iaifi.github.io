@@ -37,6 +37,10 @@ Many PhD students in the MIT Physics Department already incorporate probability,
   * Requirements: Completed MIT junior lab or experience in data analysis
   * [Email Phil Harris](mailto:pcharris@mit.edu) if you'd like to learn more about the course
 
+<div class="google-slides-container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTs2LZ0HX6cB7i95U0PyTsriK_2KcQJBjwsgheDKQyIt2WaBSSIR3VtcD3auc4zUTUZsrRUjoEbvFto/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 ## PhD Summer School
 We will hold an in-person PhD Summer School August 1-5, 2022 with some options for virtual participation. Visit the [Summer School and Workshop page](/phd-summer-school.html) for details. 
 * 2022 PhD Summer School and Workshop Committee: Jim Halverson (Chair), Tess Smidt, Anna Golubeva, Peter Lu, Dylan Rankin

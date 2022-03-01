@@ -41,6 +41,14 @@ The specific *ab initio* physics approaches that we are targeting include first-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFrfSqNbC0JcOkyhVR1ekmQwADNoLc8p_9OHZW95zx4cEQE_D117dNw2-19HklBy_LgQ5ZiUNp83mw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQphqBH605LLUH8rCssvjRGhTbC5LCC3XeCyL6LMmaQXU26b-p3lppjJbLnCAIlL69ajau7QKwm-gWL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+
 <!---
 ### Active Projects: 
 * *Generative Flow Models to Accelerate Lattice Quantum FieldTheory Calculations*; **Project Lead: Phiala Shanahan, Physics, MIT*** *Efficient Variational Calculations for Nuclear Theory with AI*;**Project Leads: Phiala Shanahan, Physics, MIT; William Detmold, Physics, MIT*** *Point Cloud Learning with Energy Flow*;**Project Leads: Jesse Thaler, Physics, MIT; Justin Solomon, EECS, MIT*** *Infinite Networks for Self-Generative Learning*;**Project Lead: Jim Halverson, Physics, Northeastern*** *Machine Learning for Topology: Knot Theory*;**Project Lead: Jim Halverson, Physics, Northeastern*** *NN-QFT Correspondence*;**Project Lead: Jim Halverson, Physics, Northeastern*** *Discovering Sparse Interpretable Dynamics from Partial Observations*;**Project Lead: Marin Soljacic, Physics, MIT*** *Emulating Energy Injection Effects in the Early Universe*;**Project Lead: Tracy Slatyer, Physics, MIT*** *A Compound Poisson Generator Approach to Point-Source Inference in Astrophysics*;**Project Lead: Kerstin Perez, Physics, MIT*** *Path-Integral Contour Deformation for Estimation of Noisy Observables in Lattice Field Theory*;**Project Lead: William Detmold, Physics, MIT**
