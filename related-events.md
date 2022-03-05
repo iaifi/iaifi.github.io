@@ -38,6 +38,8 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 
 Other organizations that hold public events relevant to the IAIFI community:
 
+  * [MIT Statistics and Data Science Conference](https://sdscon.mit.edu/) (April 1, 2022)
+  * [A3D3 Seminars](https://indico.cern.ch/category/14431/)
   * [Physics Meets ML](http://www.physicsmeetsml.org/)
   * [NSF AI Planning Institute for Data-Driven Discovery in Physics Seminar Series](https://www.cmu.edu/ai-physics-institute/events/index.html)
   * [CLARIPHY Topical Meetings](https://clariphy.org/topical.html)
@@ -49,10 +51,10 @@ Other organizations that hold public events relevant to the IAIFI community:
 
 Upcoming workshops involving members of the IAIFI community:
 
-  * [AI Super-Resolution Simulations: from Climate Science to Cosmology, February 23--25, 2022](https://events.mcs.cmu.edu/aisrs22/)
-      * Organized by the Carnegie Mellon University NSF AI Planning Institute for Data-driven Discovery in Physics, the McWilliams Center for Cosmology and the Pittsburgh Supercomputing Center
   * [Interplay of Fundamental Physics and Machine Learning, Aspen Center for Physics, May 29-June 19, 2022](https://www.aspenphys.org/physicists/summer/program/currentworkshops.html)
       * IAIFI co-organizer: Jesse Thaler
+  * [A Deep-Learning Era of Particle Theory, Mainz Institute for Theoretical Physics, June 13, 2022 – July 8, 2022](https://indico.mitp.uni-mainz.de/event/254/)
+      * IAIFI co-organizer: Jim Halverson
   * [Machine Learning at GGI - Galileo Galilei Institute, August 22-September 30, 2022](https://www.ggi.infn.it/showevent.pl?id=414)
       * IAIFI co-organizer: Jesse Thaler
 

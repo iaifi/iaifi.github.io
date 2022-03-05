@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Flow-based sampling in the lattice Schwinger model at criticality"
+authors: "Michael S. Albergo, Denis Boyda, Kyle Cranmer, Daniel C. Hackett, Gurtej Kanwar, Sébastien Racanière, Danilo J. Rezende, Fernando Romero-López, Phiala E. Shanahan, Julian M. Urban"
+abstract: "Recent results suggest that flow-based algorithms may provide efficient sampling of field distributions for lattice field theory applications, such as studies of quantum chromodynamics and the Schwinger model. In this work, we provide a numerical demonstration of robust flow-based sampling in the Schwinger model at the critical value of the fermion mass. In contrast, at the same parameters, conventional methods fail to sample all parts of configuration space, leading to severely underestimated uncertainties."
+arxiv: "2202.11712"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

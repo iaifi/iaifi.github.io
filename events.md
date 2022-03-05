@@ -39,31 +39,7 @@ Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/ia
 
 You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
-<img class="image" src="images/small-photo-giuseppe-carleo.jpg" style="max-width:200px;width:20%" align="right" hspace="20" vspace="20"/>
-* **[Giuseppe Carleo](https://people.epfl.ch/giuseppe.carleo?lang=en), Assistant Professor, Computational Quantum Science Laboratory, École Polytechnique** 
-    * **Friday, March 4, 2022, 2:00-3:00pm** 
-    * *"Neural-Network Quantum States: new computational possibilities at the boundaries of the many-body problem"*
-    * Abstract: Machine-learning-based approaches, routinely adopted in cutting-edge industrial
-applications, are being increasingly adopted to study fundamental problems in
-science. Many-body physics is very much at the forefront of these exciting developments, 
-given its intrinsic "big-data" nature. In this talk, I will present selected applications to the quantum realm. First, I will discuss how a systematic and controlled machine learning of the
-many-body wave-function can be realized. This goal is achieved by a variational
-representation of quantum states based on artificial neural networks [1]. I will then
-discuss recent applications in diverse domains, including prototypical open problems in
-many-body quantum physics - interacting fermions [2,3,4] and frustrated spins [5,6] — where 
-these approaches typically outperform existing state of the art methods. Finally, I will discuss applications in the context of quantum computing [7,8].
-
-[1] Carleo and Troyer, Science 355, 602 (2017);
-[2] Moreno et al., arXiv:2111.10420 (2021) [3] Hermann et al., Nat. Chemistry 12, 891 (2020);
-[4] Adams et al., Phys. Rev. Lett. 127, 022502 (2021);
-[5] Choo et al, Phys. Rev. B 100, 125124 (2019);
-[6] Nomura and Imada, Phys. Rev. X 11, 031034 (2021);
-[7] Jonsson et al, arXiv:1808.05232 (2018);
-[8] Medvidovic and Carleo, npj Quantum Info 7, 101 (2021) 
-
-&nbsp;
-
-* **[Yann LeCun](http://yann.lecun.com/), VP and Chief AI Scientist, Meta** <img class="image" src="images/small-photo-yann-lecun.jpg" align="right" style="max-width:300px;width:15%" hspace="20" vspace="20"/>
+* **[Yann LeCun](http://yann.lecun.com/), VP and Chief AI Scientist, Meta** <img class="image" src="images/small-photo-yann-lecun.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
     * **Friday, April 1, 2022, 2:00-3:00pm** 
     * *Details to come*
     * *Photo courtesy of Kimberly M. Wang, eardog.com*
@@ -92,6 +68,31 @@ these approaches typically outperform existing state of the art methods. Finally
     * [YouTube Recording](https://youtu.be/hGup1Yv7Ajk)
     * [Talk Slides](talks/2022_02_18_IAIFI_Colloquium_Cranmer.pdf)
     * Abstract: Distinct from pure basic research and pure applied research is the concept of use-inspired research. The claim is that foundational advances are often inspired by the context and particularities of a specific applied problem setting -- reality is stranger than fiction. I will give a few examples of advances in AI inspired by problems in physics, which have also been found to be useful in unexpected areas ranging from algorithmic fairness, genomics, and epidemiology.
+
+&nbsp;
+
+<img class="image" src="images/small-photo-giuseppe-carleo.jpg" style="max-width:200px;width:20%" align="right" hspace="20" vspace="20"/>
+* **[Giuseppe Carleo](https://people.epfl.ch/giuseppe.carleo?lang=en), Assistant Professor, Computational Quantum Science Laboratory, École Polytechnique** 
+    * **Friday, March 4, 2022, 2:00-3:00pm** 
+    * *"Neural-Network Quantum States: new computational possibilities at the boundaries of the many-body problem"*
+    * [YouTube recording](https://youtu.be/d-DBXsT6D7M)
+    * Abstract: Machine-learning-based approaches, routinely adopted in cutting-edge industrial
+applications, are being increasingly adopted to study fundamental problems in
+science. Many-body physics is very much at the forefront of these exciting developments, 
+given its intrinsic "big-data" nature. In this talk, I will present selected applications to the quantum realm. First, I will discuss how a systematic and controlled machine learning of the
+many-body wave-function can be realized. This goal is achieved by a variational
+representation of quantum states based on artificial neural networks [1]. I will then
+discuss recent applications in diverse domains, including prototypical open problems in
+many-body quantum physics - interacting fermions [2,3,4] and frustrated spins [5,6] — where 
+these approaches typically outperform existing state of the art methods. Finally, I will discuss applications in the context of quantum computing [7,8].
+
+[1] Carleo and Troyer, Science 355, 602 (2017);
+[2] Moreno et al., arXiv:2111.10420 (2021) [3] Hermann et al., Nat. Chemistry 12, 891 (2020);
+[4] Adams et al., Phys. Rev. Lett. 127, 022502 (2021);
+[5] Choo et al, Phys. Rev. B 100, 125124 (2019);
+[6] Nomura and Imada, Phys. Rev. X 11, 031034 (2021);
+[7] Jonsson et al, arXiv:1808.05232 (2018);
+[8] Medvidovic and Carleo, npj Quantum Info 7, 101 (2021) 
 
 &nbsp;
 
