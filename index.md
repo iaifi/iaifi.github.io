@@ -28,6 +28,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+***IAIFI welcomes [UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning & Advanced Computing (AIMLAC)](http://cdt-aimlac.org)***: IAIFI hosted 15 AIMLAC students and faculty for [an informal workshop](/partnerships.html#iaifi-aimlac-workshop) March 2 through March 4, 2022, where the two groups shared research and education strategies, and had opportunities for networking. *March 4, 2022*
+{:.info} 
+
 ***Second Round of IAIFI Fellows Announced***: The next round of [IAIFI Fellows (2022-2025)](/current-fellows.html#2021-2025-iaifi-fellows), Denis Boyda, Carolina Cuesta, and Jessie Micallef, will join us later in 2022 and help spark vital interdisciplinary research at the intersection of Physics and AI! *January, 28, 2022*
 {:.info}
 
@@ -56,9 +59,6 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 {:.info}
 
 ***IAIFI Senior Investigators present at EmTech Digital Conference 2021:*** Watch Jesse Thaler, Phiala Shanahan, and Pulkit Agrawal present Master Classes for MIT Technology Review's EmTech Digital Conference 2021: [IAIFI Master Classes on YouTube](https://youtube.com/playlist?list=PLBY0ED2StbGZV9_8FDiBRdWCr1AZeW9FN), *April 20, 2021*
-{:.info}
-
-***Bill Freeman elected member of National Academy of Engineering:***  "For contributions to computer vision and image enhancement."  [National Academy of Engineering](https://www.nae.edu/248499/National-Academy-of-Engineering-Elects-106-Members-and-23-International-Members), *February 9, 2021*
 {:.info}
 
 

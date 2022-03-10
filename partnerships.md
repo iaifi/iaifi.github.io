@@ -8,6 +8,26 @@ We are in the process of developing partnerships across both industry and academ
 
 IAIFI members can access the internal Partnership Hub, including links to resources and opportunities for collaboration (if you do not have access, [email IAIFI Management](mailto:iaifi@mit.edu).
 
+## IAIFI-AIMLAC Workshop
+IAIFI welcomed 15 students and faculty from the [UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning & Advanced Computing (AIMLAC)](http://cdt-aimlac.org) for an informal workshop March 2 through March 4, 2022. The two groups shared research and education strategies, and had opportunities for networking.
+
+The program is shared below. [The slides are available](https://internal.iaifi.org/internal-events/#past-events) to IAIFI members by logging in to the IAIFI internal website.s
+
+<p float="left">
+    <img src="images/iaifi-aimlac-day-1.png" style="max-width:1736px;width:55%"/>
+    <img src="images/aimlac-talks.jpg" style="max-width:4032px;width:40%"/>
+</p>
+
+<p float="left">
+    <img src="images/iaifi-aimlac-day-2.png" style="max-width:1660px;width:55%"/>
+    <img src="images/aimlac-penthouse.jpg" style="max-width:2610px;width:40%"/>
+</p>
+
+<p float="left">
+    <img src="images/iaifi-aimlac-day-3.png" style="max-width:1742px;width:55%"/>
+    <img src="images/aimlac-dome.jpg" style="max-width:3024px;width:40%"/>
+</p>
+
 ## Other Physics/AI Collaborations
 * [NSF AI Planning Institute for Data-Driven Discovery in Physics](https://www.cmu.edu/ai-physics-institute/index.html)
 * [Community Laboratory for AI Research at the Intersection with Physics (CLARIPHY)](https://clariphy.org)

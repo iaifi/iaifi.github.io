@@ -75,7 +75,8 @@ You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UC
 * **[Giuseppe Carleo](https://people.epfl.ch/giuseppe.carleo?lang=en), Assistant Professor, Computational Quantum Science Laboratory, École Polytechnique** 
     * **Friday, March 4, 2022, 2:00-3:00pm** 
     * *"Neural-Network Quantum States: new computational possibilities at the boundaries of the many-body problem"*
-    * [YouTube recording](https://youtu.be/d-DBXsT6D7M)
+    * [YouTube Recording](https://youtu.be/d-DBXsT6D7M)
+    * [Talk Slides](talks/2022_03_04_IAIFI_Colloquium_Carleo.pdf)
     * Abstract: Machine-learning-based approaches, routinely adopted in cutting-edge industrial
 applications, are being increasingly adopted to study fundamental problems in
 science. Many-body physics is very much at the forefront of these exciting developments, 
