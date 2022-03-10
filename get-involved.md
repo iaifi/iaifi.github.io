@@ -118,7 +118,7 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 <img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 #### MIT
 * [Postdoc openings in the MIT Kavli Institute for Astrophysics and Space Research](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=22645&localeCode=en-us)
-    * Deadline: March 1, 2022
+    * Deadline: Applications currently closed.
 
 * [MEnTorEd Opportunities in Research (METEOR) Fellowship in MIT CSAIL](https://postdoc.csail.mit.edu/searches/meteor-search/)
     * Deadline: Applications currently closed.
