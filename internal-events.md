@@ -42,11 +42,6 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 ## Upcoming Internal Discussion Seminars
 These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
         
-* **Anna Golubeva, IAIFI Fellow**
-    * **Friday, March 11, 2022 2:00-3:00pm** 
-    * *"The role of symmetry in machine learning"*
-    * Abstract: In physics, symmetry is a concept of fundamental importance. It has served as a powerful guiding principle that allows us to find regularities in complex phenomena and to deduce the underlying simple laws of nature. Can we leverage the principle of symmetry to gain insights into Machine Learning? There are three separate but interconnected parts of a ML system where we could look for symmetries: The neural network architecture, the input data and the loss function. I will give an overview of the existing research on this topic and discuss the implications for practical ML.
-
 * **Boaz Borak, Professor, Computer Science, Harvard**
     * **Friday, April 8, 2022 2:00-3:00pm** 
     * *Details to come*
@@ -64,19 +59,6 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Jessie Micallef, PhD Student, Michigan State University & Incoming IAIFI Fellow**
-  * **March 10, 2022, 11:00am-12:00pm**
-  * *"Adapting CNNs to Reconstruct Sparse, GeV-Scale IceCube Neutrino Events"*
-  * Resources:
-    * [Reconstructing Neutrino Energy using CNNs for GeV Scale IceCube Events](https://pos.sissa.it/395/1053/pdf)
-    * [Direction Reconstruction using a CNN for GeV-Scale Neutrinos in IceCube](https://pos.sissa.it/395/1054/pdf)
-* **Denis Boyda, Postdoctoral Appointee, Argonne National Laboratory & Incoming IAIFI Fellow**
-  * **RESCHEDULED: March 17, 2022, 11:00am-12:00pm**
-  * *"Overview of some popular Machine Learning frameworks for data parallelism"*
-  * Resources: 
-    * [S. Li et. al. PyTorch Distributed: Experiences on Accelerating Data Parallel Training. 2020.](https://arxiv.org/abs/2006.15704) arXiv:2006.15704
-    * [A. Sergeev and Mike Del Balso. Horovod: fast and easy distributed deep learning in TensorFlow. 2018.](https://arxiv.org/abs/1802.05799) arXiv:1802.05799
-    * [S. Rajbhandari et.al. ZeRO: Memory Optimizations Toward Training Trillion Parameter Models. 2020.](https://arxiv.org/abs/1910.02054) arXiv:1910.02054​
 * **Yin Lin, Postdoctoral Researcher, MIT**
   * **April 7, 2022, 11:00am-12:00pm**
   * *Details to come*
@@ -100,6 +82,13 @@ Internal events are only open to IAIFI members and affiliates. Access to the Zoo
 
 
 ## Past Seminars
+
+### Spring 2022
+* **Anna Golubeva, IAIFI Fellow**
+    * **Friday, March 11, 2022 2:00-3:00pm** 
+    * *"The role of symmetry in machine learning"*
+    * Abstract: In physics, symmetry is a concept of fundamental importance. It has served as a powerful guiding principle that allows us to find regularities in complex phenomena and to deduce the underlying simple laws of nature. Can we leverage the principle of symmetry to gain insights into Machine Learning? There are three separate but interconnected parts of a ML system where we could look for symmetries: The neural network architecture, the input data and the loss function. I will give an overview of the existing research on this topic and discuss the implications for practical ML.
+
 ### Fall 2021
 
   * **Fabian Ruehle, Assistant Professor, Northeastern University**
@@ -167,6 +156,22 @@ Internal events are only open to IAIFI members and affiliates. Access to the Zoo
     * *"Machine Learning for Cosmic Explosions"*
 
 ## Past Journal Clubs
+
+### Spring 2022
+* **Jessie Micallef, PhD Student, Michigan State University & Incoming IAIFI Fellow**
+  * **March 10, 2022, 11:00am-12:00pm**
+  * *"Adapting CNNs to Reconstruct Sparse, GeV-Scale IceCube Neutrino Events"*
+  * Resources:
+    * [Reconstructing Neutrino Energy using CNNs for GeV Scale IceCube Events](https://pos.sissa.it/395/1053/pdf)
+    * [Direction Reconstruction using a CNN for GeV-Scale Neutrinos in IceCube](https://pos.sissa.it/395/1054/pdf)
+* **Denis Boyda, Postdoctoral Appointee, Argonne National Laboratory & Incoming IAIFI Fellow**
+  * **RESCHEDULED: March 17, 2022, 11:00am-12:00pm**
+  * *"Overview of some popular Machine Learning frameworks for data parallelism"*
+  * Resources: 
+    * [S. Li et. al. PyTorch Distributed: Experiences on Accelerating Data Parallel Training. 2020.](https://arxiv.org/abs/2006.15704) arXiv:2006.15704
+    * [A. Sergeev and Mike Del Balso. Horovod: fast and easy distributed deep learning in TensorFlow. 2018.](https://arxiv.org/abs/1802.05799) arXiv:1802.05799
+    * [S. Rajbhandari et.al. ZeRO: Memory Optimizations Toward Training Trillion Parameter Models. 2020.](https://arxiv.org/abs/1910.02054) arXiv:1910.02054​
+
 ### Fall 2021
   * **Michael Douglas**
     * **Thursday, September 23, 11:00am-12:00pm**

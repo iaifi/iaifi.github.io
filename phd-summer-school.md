@@ -13,7 +13,7 @@ title: IAIFI PhD Summer School and Workshop
 <br>
 <br>
 
-The first annual IAIFI PhD Summer School will be held **August 1—August 5, 2022** at Northeastern University, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. The deadline to register is **April 22, 2022**. 
+The first annual IAIFI PhD Summer School will be held **August 1—August 5, 2022**, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. The deadline to register is **April 22, 2022**. 
 
 <p align="center">
 <a href="https://forms.gle/bB4K1GM6KywnFC2Q7">Register for Summer School</a>
