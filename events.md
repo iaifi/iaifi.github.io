@@ -41,7 +41,7 @@ You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UC
 
 * **[Yann LeCun](http://yann.lecun.com/), VP and Chief AI Scientist, Meta** <img class="image" src="images/small-photo-yann-lecun.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
     * **Friday, April 1, 2022, 2:00-3:00pm** 
-    * *Details to come*
+    * *"A path towards human-level intelligence"*
     * *Photo courtesy of Kimberly M. Wang, eardog.com*
 
 &nbsp;
