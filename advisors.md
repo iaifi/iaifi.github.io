@@ -1,7 +1,9 @@
 ---
 layout: article
-title: External Advisory Board
+title: Advisors
 ---
+
+## External Advisory Board
 
 IAIFI's External Advisory Board (EAB) provides project oversight and advice to help ensure that the goals and objectives of the IAIFI are met and also offers guidance toward realizing and honing its vision. The EAB represents a balance of representation in several categories: research interests/expertise, expertise in areas contributing to IAIFI’s strategic goals, and diversity. The inaugural EAB includes experts in AI (both industry and academia), Physics Experiment, Physics Theory, and Astrophysics. It also includes experts with experience in Education and Workforce Development, Outreach, DEI, institute management, and industry.
 
@@ -35,14 +37,16 @@ IAIFI's External Advisory Board (EAB) provides project oversight and advice to h
 
 [Jared Kaplan](https://physics-astronomy.jhu.edu/directory/jared-kaplan/) is Associate Professor of Physics at Johns Hopkins University and co-founder of Anthropic, an AI safety and research company. He is a theoretical physicist with broad interests in effective field theory, particle physics, cosmology, scattering amplitudes, and the conformal field theory (CFT) bootstrap. In the last few years he has also been collaborating with both physicists and computer scientists on Machine Learning research, including on scaling laws for neural models and the GPT-3 language model.
 
+<img class="image image--lg" src="images/small-photo-lenka-zdeborova.jpg" align="right" style="max-width:245px;width:30%" hspace="20" vspace="20"/>
+### Lenka Zdeborová
+**Associate Professor, École polytechnique fédérale de Lausanne (EPFL)**
+
+[Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/) is an Associate Professor at EPFL. She received her PhD in physics from University Paris-Sud and from Charles University in Prague in 2008. She spent two years in the Los Alamos National Laboratory as the Director's Postdoctoral Fellow. Lenka's expertise is in applications of methods developed in statistical physics, such as advanced mean field methods, replica method and related message passing algorithms, to problems in machine learning, signal processing, inference and optimization.
+
+## Special Advisors
+
 <img class="image" src="images/small-photo-brian-nord.jpg" align="right" style="max-width:199px;width:30%" hspace="20" vspace="20"/>
 ### Brian Nord
 **Scientist, Cosmic Physics Center, Science Computing Division**
 
 [Brian Nord](http://briandnord.com/bio) is a Scientist in Fermilab's Cosmic Physics Center and AI Project Office. At the University of Chicago, he is also a CASE Scientist in the Astronomy and Astrophysics Department and a Senior Member of the Kavli Institute for Cosmological Physics. Nord co-founded the Deep Skies Lab, which is an international community, dedicated to human-centered collaboration at the intersection of astrophysics and artificial intelligence. Nord also leads the KICP Space Explorers program for Chicago Public High School students.
-
-<img class="image image--lg" src="images/small-photo-lenka-zdeborova.jpg" align="left" style="max-width:245px;width:30%" hspace="20" vspace="20"/>
-### Lenka Zdeborová
-**Associate Professor, École polytechnique fédérale de Lausanne (EPFL)**
-
-[Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/) is an Associate Professor at EPFL. She received her PhD in physics from University Paris-Sud and from Charles University in Prague in 2008. She spent two years in the Los Alamos National Laboratory as the Director's Postdoctoral Fellow. Lenka's expertise is in applications of methods developed in statistical physics, such as advanced mean field methods, replica method and related message passing algorithms, to problems in machine learning, signal processing, inference and optimization.
