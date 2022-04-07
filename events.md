@@ -39,13 +39,6 @@ Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/ia
 
 You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
-* **[Yann LeCun](http://yann.lecun.com/), VP and Chief AI Scientist, Meta** <img class="image" src="images/small-photo-yann-lecun.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
-    * **Friday, April 1, 2022, 2:00-3:00pm** 
-    * *"A path towards human-level intelligence"*
-    * *Photo courtesy of Kimberly M. Wang, eardog.com*
-
-&nbsp;
-
 * **[Hiranya Peiris](https://www.ucl.ac.uk/cosmoparticle/hiranya-peiris), Professor of Astrophysics, University College London; Professor of Cosmoparticle Physics at the Oskar Klein Centre, Stockholm** <img class="image" src="images/small-photo-hiranya-peiris.jpg" style="max-width:300px;width:30%" align="right" hspace="20" vspace="20"/>
     * **Friday, April 15, 2022, 2:00-3:00pm** 
     * *"Prospects for understanding the physics of the Universe"*
@@ -94,6 +87,14 @@ these approaches typically outperform existing state of the art methods. Finally
 [6] Nomura and Imada, Phys. Rev. X 11, 031034 (2021);
 [7] Jonsson et al, arXiv:1808.05232 (2018);
 [8] Medvidovic and Carleo, npj Quantum Info 7, 101 (2021) 
+
+&nbsp;
+
+* **[Yann LeCun](http://yann.lecun.com/), VP and Chief AI Scientist, Meta** <img class="image" src="images/small-photo-yann-lecun.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+    * **Friday, April 1, 2022, 2:00-3:00pm** 
+    * *"A path towards human-level intelligence"*
+    * [YouTube recording](https://youtu.be/_K0h7oEe8BQ)
+    * *Photo courtesy of Kimberly M. Wang, eardog.com*
 
 &nbsp;
 
