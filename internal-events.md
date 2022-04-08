@@ -44,11 +44,15 @@ These talks are only open to IAIFI members and affiliates. Access to the Zoom in
         
 * **Boaz Borak, Professor, Computer Science, Harvard**
     * **Friday, April 8, 2022 2:00-3:00pm** 
-    * *Details to come*
+    * *Deep learning, generalization, and rationality*
+    * Abstract: Deep learning often operates in a regime where traditional generalization bounds fail to hold, and indeed are not even true, in the sense that there is a non vanishing gap between empirical and population performance. Yet, deep neural networks still generalize and perform well beyond their training set.  In this talk we will present: (1) Empirical evidence that deep networks have similar internal representations regardless of whether they are trained in the traditional "full supervised" manner or trained in a "self supervised + simple" (SSS) method, where all but their last layer are trained without access to the labels; (2)  Empirical evidence that for SSS algorithms, generalization is true in practice, along with a theoretical bound on the generalization gap of such algorithms which is non vacuous in several practical setting. The bound does not make structural or conditional independence assumptions on the training distribution, but rather assumes the algorithm is "rational" in a certain precise sense, which is empirically shown to hold in practice.
+The talk will not require background in deep learning. Based on joint works with Yamini Bansal, Gal Kaplun, and Preetum Nakkiran.
 
 * **Siddharth Mishra-Sharma, IAIFI Fellow**
-    * **Friday, April 22, 2022 2:00-3:00pm** 
+    * **Friday, April 22, 2022 4:00-5:00pm** 
     * *Details to come*
+
+*Note: The April 22 seminar will be hybrid at the Harvard Science Center and will begin at a later than usual time.*
 
 * **Carlos Argüelles-Delgado, Assistant Professor, Physics, Harvard**
     * **Friday, May 6, 2022 2:00-3:00pm** 
