@@ -41,12 +41,6 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 
 ## Upcoming Internal Discussion Seminars
 These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
-        
-* **Boaz Borak, Professor, Computer Science, Harvard**
-    * **Friday, April 8, 2022 2:00-3:00pm** 
-    * *Deep learning, generalization, and rationality*
-    * Abstract: Deep learning often operates in a regime where traditional generalization bounds fail to hold, and indeed are not even true, in the sense that there is a non vanishing gap between empirical and population performance. Yet, deep neural networks still generalize and perform well beyond their training set.  In this talk we will present: (1) Empirical evidence that deep networks have similar internal representations regardless of whether they are trained in the traditional "full supervised" manner or trained in a "self supervised + simple" (SSS) method, where all but their last layer are trained without access to the labels; (2)  Empirical evidence that for SSS algorithms, generalization is true in practice, along with a theoretical bound on the generalization gap of such algorithms which is non vacuous in several practical setting. The bound does not make structural or conditional independence assumptions on the training distribution, but rather assumes the algorithm is "rational" in a certain precise sense, which is empirically shown to hold in practice.
-The talk will not require background in deep learning. Based on joint works with Yamini Bansal, Gal Kaplun, and Preetum Nakkiran.
 
 * **Siddharth Mishra-Sharma, IAIFI Fellow**
     * **Friday, April 22, 2022 4:00-5:00pm** 
@@ -63,11 +57,14 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Yin Lin, Postdoctoral Researcher, MIT**
-  * **April 7, 2022, 11:00am-12:00pm**
+* **Anatoly Dymarsky, Associate Professor, University of Kentucky**
+  * **April 14, 2022, 11:00am-12:00pm**
   * *Details to come*
 * **Carolina Cuesta, PhD Student, Durham University & Incoming IAIFI Fellow**
   * **April 21, 2022, 11:00am-12:00pm**
+  * *Details to come*
+* **Benjamin Fuks, Professor, Sorbonne University**
+  * **April 28, 2022, 11:00am-12:00pm**
   * *Details to come*
 * **Dylan Hadfield, Assistant Professor, MIT** 
   * **May 5, 2022, 11:00am-12:00pm**
@@ -92,6 +89,12 @@ Internal events are only open to IAIFI members and affiliates. Access to the Zoo
     * **Friday, March 11, 2022 2:00-3:00pm** 
     * *"The role of symmetry in machine learning"*
     * Abstract: In physics, symmetry is a concept of fundamental importance. It has served as a powerful guiding principle that allows us to find regularities in complex phenomena and to deduce the underlying simple laws of nature. Can we leverage the principle of symmetry to gain insights into Machine Learning? There are three separate but interconnected parts of a ML system where we could look for symmetries: The neural network architecture, the input data and the loss function. I will give an overview of the existing research on this topic and discuss the implications for practical ML.
+
+* **Boaz Borak, Professor, Computer Science, Harvard**
+    * **Friday, April 8, 2022 2:00-3:00pm** 
+    * *Deep learning, generalization, and rationality*
+    * Abstract: Deep learning often operates in a regime where traditional generalization bounds fail to hold, and indeed are not even true, in the sense that there is a non vanishing gap between empirical and population performance. Yet, deep neural networks still generalize and perform well beyond their training set.  In this talk we will present: (1) Empirical evidence that deep networks have similar internal representations regardless of whether they are trained in the traditional "full supervised" manner or trained in a "self supervised + simple" (SSS) method, where all but their last layer are trained without access to the labels; (2)  Empirical evidence that for SSS algorithms, generalization is true in practice, along with a theoretical bound on the generalization gap of such algorithms which is non vacuous in several practical setting. The bound does not make structural or conditional independence assumptions on the training distribution, but rather assumes the algorithm is "rational" in a certain precise sense, which is empirically shown to hold in practice.
+The talk will not require background in deep learning. Based on joint works with Yamini Bansal, Gal Kaplun, and Preetum Nakkiran.
 
 ### Fall 2021
 
@@ -175,6 +178,14 @@ Internal events are only open to IAIFI members and affiliates. Access to the Zoo
     * [S. Li et. al. PyTorch Distributed: Experiences on Accelerating Data Parallel Training. 2020.](https://arxiv.org/abs/2006.15704) arXiv:2006.15704
     * [A. Sergeev and Mike Del Balso. Horovod: fast and easy distributed deep learning in TensorFlow. 2018.](https://arxiv.org/abs/1802.05799) arXiv:1802.05799
     * [S. Rajbhandari et.al. ZeRO: Memory Optimizations Toward Training Trillion Parameter Models. 2020.](https://arxiv.org/abs/1910.02054) arXiv:1910.02054​
+* **Yin Lin, Postdoctoral Researcher, MIT**
+  * **April 7, 2022, 11:00am-12:00pm**
+  * *"Accelerating Dirac equation solves in lattice QFT with neural-network preconditioners"*
+  * Resources:
+    * [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+    * [Iterative Methods for Sparse Linear Systems](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf)
+    * [Deep Learning of Preconditioners for Conjugate Gradient Solvers in Urban Water Related Problems](https://arxiv.org/abs/1906.06925)
+    * [Learning to Optimize Non-Rigid Tracking](https://arxiv.org/abs/2003.12230)
 
 ### Fall 2021
   * **Michael Douglas**
