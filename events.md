@@ -94,6 +94,7 @@ these approaches typically outperform existing state of the art methods. Finally
     * **Friday, April 1, 2022, 2:00-3:00pm** 
     * *"A path towards human-level intelligence"*
     * [YouTube recording](https://youtu.be/_K0h7oEe8BQ)
+    * [Talk Slides](talks/2022_04_01_IAIFI_Colloquium_LeCun.pdf
     * *Photo courtesy of Kimberly M. Wang, eardog.com*
 
 &nbsp;
