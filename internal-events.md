@@ -44,7 +44,7 @@ These talks are only open to IAIFI members and affiliates. Access to the Zoom in
 
 * **Siddharth Mishra-Sharma, IAIFI Fellow**
     * **Friday, April 22, 2022 4:00-5:00pm** 
-    * *Details to come*
+    * *Flows for inference and interpretability: a Galactic Center Excess case study*
 
 *Note: The April 22 seminar will be hybrid at the Harvard Science Center and will begin at a later than usual time.*
 
@@ -59,7 +59,10 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 * **Anatoly Dymarsky, Associate Professor, University of Kentucky**
   * **April 14, 2022, 11:00am-12:00pm**
-  * *Details to come*
+  * *Tensor network to learn the wave function of data*
+  * Abstract: We use tensor network-based architecture to train a network which simultaneously accomplishes two tasks: image classification and image sampling. We argue that simultaneous performance of these tasks means our network has successfully learned the whole "manifold of data" (using the terminology from the literature) - namely all possible images of a particular kind. We use a black and white version of MNIST, hence our network learns all possible images depicting a particular digit. We access global properties of the "manifold of data" by calculating its size. Thus, we found there are 2^72 possible images of digit 3. We explain this number is robust and largely independent of the details of training process etc. 
+  * Resources: 
+    * [Tensor network to learn the wavefunction of data](https://arxiv.org/abs/2111.08014)
 * **Carolina Cuesta, PhD Student, Durham University & Incoming IAIFI Fellow**
   * **April 21, 2022, 11:00am-12:00pm**
   * *Details to come*
@@ -69,6 +72,9 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 * **Dylan Hadfield, Assistant Professor, MIT** 
   * **May 5, 2022, 11:00am-12:00pm**
   * *Details to come* 
+* **Mark Hamilton, Graduate Student, MIT**
+  * **May 12, 2022, 11:00am-12:00pm**
+  * *Details to come*
 
 ## Other Upcoming Internal Events
 Internal events are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
