@@ -28,6 +28,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+***Jesse Thaler joins CACM and AI Institute leaders for virtual panel discussion***: [Watch the virtual panel discussion](https://dl.acm.org/doi/10.1145/3517329) hosted by [Communications of the ACM](https://cacm.acm.org/) on February 1, 2022 to discuss how science and AI are transforming each other, featuring IAIFI Director Jesse Thaler, Anima Anandkumar (NVIDIA Director of ML Research), Vikram Adve (Director, AIFARMS National AI Institute), and Amy McGovern (Director, NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography).
+{:.info}
+
 ***IAIFI researchers' model-free reinforcement learning system breaks the record for fastest robotic mini cheetah run recorded***: Featured in [MIT News](https://news.mit.edu/2022/3-questions-how-mit-mini-cheetah-learns-run-fast-0317) and [NSF Science Now](https://t.co/OWEbGuGTwG), IAIFI Fellow Ge Yang, Senior Investigator Pulkit Agrawal, and collaborator Gabriel Margolis trained the robot in simulation under variable conditions, which made it more robust when deployed in the real world---a strategy expected to be relevant for making real-time adjustments in the operation of experiments to maximize the physics reach. *March 22, 2022*
 {:.info}
 
