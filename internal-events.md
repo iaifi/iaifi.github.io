@@ -45,6 +45,7 @@ These talks are only open to IAIFI members and affiliates. Access to the Zoom in
 * **Siddharth Mishra-Sharma, IAIFI Fellow**
     * **Friday, April 22, 2022 4:00-5:00pm** 
     * *Flows for inference and interpretability: a Galactic Center Excess case study*
+    * Abstract: The source of the so-called Galactic Center Excess (GCE)---an excess of gamma-rays observed from the central regions of the Milky Way---remains an open question. Disentangling the various possibilities, such as annihilating dark matter and astrophysical point sources, is a challenging modeling and inference task. I will describe some recent attempts at making progress in this direction by leveraging neural simulation-based inference techniques. Time permitting, I will describe some ongoing work using generative modeling as a test of robustness of neural network-based inference methods in the context of the GCE.
 
 *Note: The April 22 seminar will be hybrid at the Harvard Science Center and will begin at a later than usual time.*
 
@@ -57,15 +58,12 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Anatoly Dymarsky, Associate Professor, University of Kentucky**
-  * **April 14, 2022, 11:00am-12:00pm**
-  * *Tensor network to learn the wave function of data*
-  * Abstract: We use tensor network-based architecture to train a network which simultaneously accomplishes two tasks: image classification and image sampling. We argue that simultaneous performance of these tasks means our network has successfully learned the whole "manifold of data" (using the terminology from the literature) - namely all possible images of a particular kind. We use a black and white version of MNIST, hence our network learns all possible images depicting a particular digit. We access global properties of the "manifold of data" by calculating its size. Thus, we found there are 2^72 possible images of digit 3. We explain this number is robust and largely independent of the details of training process etc. 
-  * Resources: 
-    * [Tensor network to learn the wavefunction of data](https://arxiv.org/abs/2111.08014)
 * **Carolina Cuesta, PhD Student, Durham University & Incoming IAIFI Fellow**
   * **April 21, 2022, 11:00am-12:00pm**
-  * *Details to come*
+  * *Equivariant normalizing flows and their application to cosmology*
+  * Resources:
+    * [https://arxiv.org/abs/2202.05282](https://arxiv.org/abs/2202.05282)
+    * [https://arxiv.org/abs/2105.09016](https://arxiv.org/abs/2105.09016)
 * **Benjamin Fuks, Professor, Sorbonne University**
   * **April 28, 2022, 11:00am-12:00pm**
   * *Details to come*
@@ -79,13 +77,13 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 ## Other Upcoming Internal Events
 Internal events are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
 
-* **IAIFI Virtual Networking**
-  * **Friday, February 4, 2022 2:00-3:00pm**
-  * IAIFI members can join our virtual networking event to be randomly matched with other IAIFI members for 12-minute discussions. Meal vouchers will be provided to attendees. [View login information](https://internal.iaifi.org/internal-events/) (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
+* **IAIFI Social Event**
+  * **Friday, April 22, 2022 5:30-7:30pm**
+  * IAIFI members can join our social event at Harvard University. For details, (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu)).
 
 * **IAIFI Lightning Talks**
-  * **Friday, February 11, 2022 2:00-3:00pm and Friday, February 25, 2022 2:00-3:00pm**
-  * IAIFI researchers will volunteer to present their work to IAIFI members with a goal of sparking opportunities for collaboration.
+  * **Friday, May 13, 2022 2:00-3:00pm**
+  * IAIFI researchers will volunteer to present their work to IAIFI members on the topic of "Discovering Latent Structure in Artificial and Physical Systems." For details or to volunteer to present, (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu)).
 
 
 ## Past Seminars
@@ -192,6 +190,12 @@ The talk will not require background in deep learning. Based on joint works with
     * [Iterative Methods for Sparse Linear Systems](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf)
     * [Deep Learning of Preconditioners for Conjugate Gradient Solvers in Urban Water Related Problems](https://arxiv.org/abs/1906.06925)
     * [Learning to Optimize Non-Rigid Tracking](https://arxiv.org/abs/2003.12230)
+* **Anatoly Dymarsky, Associate Professor, University of Kentucky**
+  * **April 14, 2022, 11:00am-12:00pm**
+  * *Tensor network to learn the wave function of data*
+  * Abstract: We use tensor network-based architecture to train a network which simultaneously accomplishes two tasks: image classification and image sampling. We argue that simultaneous performance of these tasks means our network has successfully learned the whole "manifold of data" (using the terminology from the literature) - namely all possible images of a particular kind. We use a black and white version of MNIST, hence our network learns all possible images depicting a particular digit. We access global properties of the "manifold of data" by calculating its size. Thus, we found there are 2^72 possible images of digit 3. We explain this number is robust and largely independent of the details of training process etc. 
+  * Resources: 
+    * [Tensor network to learn the wavefunction of data](https://arxiv.org/abs/2111.08014)
 
 ### Fall 2021
   * **Michael Douglas**

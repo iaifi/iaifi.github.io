@@ -39,13 +39,6 @@ Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/ia
 
 You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
-* **[Hiranya Peiris](https://www.ucl.ac.uk/cosmoparticle/hiranya-peiris), Professor of Astrophysics, University College London; Professor of Cosmoparticle Physics at the Oskar Klein Centre, Stockholm** <img class="image" src="images/small-photo-hiranya-peiris.jpg" style="max-width:300px;width:30%" align="right" hspace="20" vspace="20"/>
-    * **Friday, April 15, 2022, 2:00-3:00pm** 
-    * *"Prospects for understanding the physics of the Universe"*
-    * Abstract: The remarkable progress in cosmology over the last decades has been driven by the close interplay between theory and observations. Observational discoveries have led to a standard model of cosmology with ingredients that are not present in the standard model of particle physics – dark matter, dark energy, and a primordial origin for cosmic structure. Their physical nature remains a mystery, motivating a new generation of ambitious sky surveys. However, it has become clear that formidable modelling and analysis challenges stand in the way of establishing how these ingredients fit into fundamental physics. I will discuss progress in harnessing advanced machine-learning techniques to address these challenges, giving some illustrative examples. I will highlight the particular relevance of interpretability and explainability in this field.
-
-&nbsp;
-
 * **[Laura Waller](https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html), Associate Professor, EECS, University of California, Berkeley** <img class="image" src="images/small-photo-laura-waller.jpg" style="max-width:215px;width:20%" align="right" hspace="20" vspace="20"/>
     * **Friday, April 29, 2022, 2:00-3:00pm** 
     * *Title: Computational Microscopy*
@@ -96,6 +89,14 @@ these approaches typically outperform existing state of the art methods. Finally
     * [YouTube recording](https://youtu.be/_K0h7oEe8BQ)
     * [Talk Slides](talks/2022_04_01_IAIFI_Colloquium_LeCun.pdf)
     * *Photo courtesy of Kimberly M. Wang, eardog.com*
+
+&nbsp;
+
+* **[Hiranya Peiris](https://www.ucl.ac.uk/cosmoparticle/hiranya-peiris), Professor of Astrophysics, University College London; Professor of Cosmoparticle Physics at the Oskar Klein Centre, Stockholm** <img class="image" src="images/small-photo-hiranya-peiris.jpg" style="max-width:300px;width:30%" align="right" hspace="20" vspace="20"/>
+    * **Friday, April 15, 2022, 2:00-3:00pm** 
+    * *"Prospects for understanding the physics of the Universe"*
+    * [YouTube recording](https://youtu.be/bBqvp4-gKzE)
+    * Abstract: The remarkable progress in cosmology over the last decades has been driven by the close interplay between theory and observations. Observational discoveries have led to a standard model of cosmology with ingredients that are not present in the standard model of particle physics – dark matter, dark energy, and a primordial origin for cosmic structure. Their physical nature remains a mystery, motivating a new generation of ambitious sky surveys. However, it has become clear that formidable modelling and analysis challenges stand in the way of establishing how these ingredients fit into fundamental physics. I will discuss progress in harnessing advanced machine-learning techniques to address these challenges, giving some illustrative examples. I will highlight the particular relevance of interpretability and explainability in this field.
 
 &nbsp;
 
