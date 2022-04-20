@@ -96,6 +96,7 @@ these approaches typically outperform existing state of the art methods. Finally
     * **Friday, April 15, 2022, 2:00-3:00pm** 
     * *"Prospects for understanding the physics of the Universe"*
     * [YouTube recording](https://youtu.be/bBqvp4-gKzE)
+    * [Talk Slides](talks/2022_04_15_IAIFI_Colloquium_Peiris.pdf)
     * Abstract: The remarkable progress in cosmology over the last decades has been driven by the close interplay between theory and observations. Observational discoveries have led to a standard model of cosmology with ingredients that are not present in the standard model of particle physics – dark matter, dark energy, and a primordial origin for cosmic structure. Their physical nature remains a mystery, motivating a new generation of ambitious sky surveys. However, it has become clear that formidable modelling and analysis challenges stand in the way of establishing how these ingredients fit into fundamental physics. I will discuss progress in harnessing advanced machine-learning techniques to address these challenges, giving some illustrative examples. I will highlight the particular relevance of interpretability and explainability in this field.
 
 &nbsp;
