@@ -4,8 +4,8 @@ title: "The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Inde
 authors: T. Aarrestad, M. Van Beekveld, M. Bona, A. Bovenin, S. Caron, J. Davies, A. De Simone, C. Doglioni, J.M. Duarte, A. Farbin, H. Gupta, L. Hendriks, L. Heinrich, J. Howarth, P. Jawahar, A. Jueid, J. Lastow, A. Leinweber, J. Mamuzic, E. Merényi, A. Morandini, P. Moskvitina, C. Nellist, J. Ngadiuba, B. Ostdiek, M. Pierini, B. Ravina, R. Ruiz de Austri, S. Sekmen, M. Touranakou, M. Vaškevičiūte, R. Vilalta, J.-R. Vlimant, R. Verheyen, M. White, E. Wulff, E. Wallin, K.A. Wozniak, Z. Zhang
 abstract: We describe the outcome of a data challenge conducted as part of the Dark Machines initiative and the Les Houches 2019 workshop on Physics at TeV colliders. The challenged aims at detecting signals of new physics at the LHC using unsupervised machine learning algorithms. First, we propose how an anomaly score could be implemented to define model-independent signal regions in LHC searches. We define and describe a large benchmark dataset, consisting of > 1 Billion simulated LHC events corresponding to 10 fb−1 of proton-proton collisions at a center-of-mass energy of 13 TeV. We then review a wide range of anomaly detection and density estimation algorithms, developed in the context of the data challenge, and we measure their performance in a set of realistic analysis environments. We draw a number of useful conclusions that will aid the development of unsupervised new physics searches during the third run of the LHC, and provide our benchmark dataset for future studies at <a href="https://www.phenoMLdata.org">https://www.phenoMLdata.org</a>. Code to reproduce the analysis is provided at <a href="https://github.com/bostdiek/DarkMachines-UnsupervisedChallenge">https://github.com/bostdiek/DarkMachines-UnsupervisedChallenge</a>. 
 arxiv: 2105.14027
-journal:
-doi:
+journal: SciPost Physics, 2022, Volume 12, Issue 1, Page 43
+doi: https://doi.org/10.21468/SciPostPhys.12.1.043
 nsf-par:
 code: https://github.com/bostdiek/DarkMachines-UnsupervisedChallenge
-publication-date: 
+publication-date: 2022-01-28
