@@ -42,13 +42,6 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 ## Upcoming Internal Discussion Seminars
 These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
 
-* **Siddharth Mishra-Sharma, IAIFI Fellow**
-    * **Friday, April 22, 2022 4:00-5:00pm** 
-    * *Flows for inference and interpretability: a Galactic Center Excess case study*
-    * Abstract: The source of the so-called Galactic Center Excess (GCE)---an excess of gamma-rays observed from the central regions of the Milky Way---remains an open question. Disentangling the various possibilities, such as annihilating dark matter and astrophysical point sources, is a challenging modeling and inference task. I will describe some recent attempts at making progress in this direction by leveraging neural simulation-based inference techniques. Time permitting, I will describe some ongoing work using generative modeling as a test of robustness of neural network-based inference methods in the context of the GCE.
-
-*Note: The April 22 seminar will be hybrid at the Harvard Science Center and will begin at a later than usual time.*
-
 * **Carlos Argüelles-Delgado, Assistant Professor, Physics, Harvard**
     * **Friday, May 6, 2022 2:00-3:00pm** 
     * *Details to come*
@@ -58,12 +51,6 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Carolina Cuesta, PhD Student, Durham University & Incoming IAIFI Fellow**
-  * **April 21, 2022, 11:00am-12:00pm**
-  * *Equivariant normalizing flows and their application to cosmology*
-  * Resources:
-    * [https://arxiv.org/abs/2202.05282](https://arxiv.org/abs/2202.05282)
-    * [https://arxiv.org/abs/2105.09016](https://arxiv.org/abs/2105.09016)
 * **Benjamin Fuks, Professor, Sorbonne University**
   * **April 28, 2022, 11:00am-12:00pm**
   * *Details to come*
@@ -72,6 +59,9 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
   * *Details to come* 
 * **Mark Hamilton, Graduate Student, MIT**
   * **May 12, 2022, 11:00am-12:00pm**
+  * *Details to come*
+* **Manami Kanemura, Undergraduate Student, Northeastern University**
+  * **May 26, 2022, 11:00am-12:00pm**
   * *Details to come*
 
 ## Other Upcoming Internal Events
@@ -99,6 +89,11 @@ Internal events are only open to IAIFI members and affiliates. Access to the Zoo
     * *Deep learning, generalization, and rationality*
     * Abstract: Deep learning often operates in a regime where traditional generalization bounds fail to hold, and indeed are not even true, in the sense that there is a non vanishing gap between empirical and population performance. Yet, deep neural networks still generalize and perform well beyond their training set.  In this talk we will present: (1) Empirical evidence that deep networks have similar internal representations regardless of whether they are trained in the traditional "full supervised" manner or trained in a "self supervised + simple" (SSS) method, where all but their last layer are trained without access to the labels; (2)  Empirical evidence that for SSS algorithms, generalization is true in practice, along with a theoretical bound on the generalization gap of such algorithms which is non vacuous in several practical setting. The bound does not make structural or conditional independence assumptions on the training distribution, but rather assumes the algorithm is "rational" in a certain precise sense, which is empirically shown to hold in practice.
 The talk will not require background in deep learning. Based on joint works with Yamini Bansal, Gal Kaplun, and Preetum Nakkiran.
+
+* **Siddharth Mishra-Sharma, IAIFI Fellow**
+    * **Friday, April 22, 2022 4:00-5:00pm** 
+    * *Flows for inference and interpretability: a Galactic Center Excess case study*
+    * Abstract: The source of the so-called Galactic Center Excess (GCE)---an excess of gamma-rays observed from the central regions of the Milky Way---remains an open question. Disentangling the various possibilities, such as annihilating dark matter and astrophysical point sources, is a challenging modeling and inference task. I will describe some recent attempts at making progress in this direction by leveraging neural simulation-based inference techniques. Time permitting, I will describe some ongoing work using generative modeling as a test of robustness of neural network-based inference methods in the context of the GCE.
 
 ### Fall 2021
 
@@ -196,6 +191,12 @@ The talk will not require background in deep learning. Based on joint works with
   * Abstract: We use tensor network-based architecture to train a network which simultaneously accomplishes two tasks: image classification and image sampling. We argue that simultaneous performance of these tasks means our network has successfully learned the whole "manifold of data" (using the terminology from the literature) - namely all possible images of a particular kind. We use a black and white version of MNIST, hence our network learns all possible images depicting a particular digit. We access global properties of the "manifold of data" by calculating its size. Thus, we found there are 2^72 possible images of digit 3. We explain this number is robust and largely independent of the details of training process etc. 
   * Resources: 
     * [Tensor network to learn the wavefunction of data](https://arxiv.org/abs/2111.08014)
+* **Carolina Cuesta, PhD Student, Durham University & Incoming IAIFI Fellow**
+  * **April 21, 2022, 11:00am-12:00pm**
+  * *Equivariant normalizing flows and their application to cosmology*
+  * Resources:
+    * [https://arxiv.org/abs/2202.05282](https://arxiv.org/abs/2202.05282)
+    * [https://arxiv.org/abs/2105.09016](https://arxiv.org/abs/2105.09016)
 
 ### Fall 2021
   * **Michael Douglas**

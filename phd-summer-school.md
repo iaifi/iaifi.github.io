@@ -18,17 +18,14 @@ title: IAIFI PhD Summer School and Workshop
 * [Organizing Committee](#organizing-committee)
 
 
-The first annual IAIFI PhD Summer School will be held at Tufts University **August 1—August 5, 2022**, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. The deadline to register for the Summer School is **April 22, 2022**. 
+The first annual IAIFI PhD Summer School will be held at Tufts University **August 1—August 5, 2022**, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. Registration for the Workshop will open on May 2, 2022.
 
-<p align="center">
-<a href="https://forms.gle/bB4K1GM6KywnFC2Q7">Register for Summer School</a>
-</p>
-{:.success}
-
+<!--
 <p align="center">
 <a href="https://forms.gle/nx9mJerFtAkgwSC26">Register for Workshop</a>
 </p>
 {:.success}
+-->
 
 ## Summer School
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials will help students put theory into practice.
