@@ -18,7 +18,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Registration now open for IAIFI Summer School (August 1-5, 2022) and Workshop (August 8-9, 2022).***  The IAIFI Summer School will feature lectures by **Yasaman Bahri** (Research Scientist, Google Research Brain Team), **Taco Cohen** (Research Scientists, Qualcomm Research Netherlands), **Sven Krippendorf** (Senior Researcher, Ludwig-Maximillians Universität), **Juan Carrasquilla** (Faculty Member, Vector Institute; Adjunct Assistant Professor, University of Waterloo), and **Javier Duarte** (Assistant Professor, UCSD) as well as hands-on code-based tutorials that will help students put theory into practice. **[Learn more](https://iaifi.org/phd-summer-school.html) and [register](https://docs.google.com/forms/d/e/1FAIpQLSdSsQlFKYRfioz8uUiYaKiFMRDMCKwqkxBbs_ywgKQm02-cxw/viewform) by April 22, 2022**!
+***Registration for IAIFI Workshop (August 8-9, 2022) will open May 2, 2022; Registration closed for IAIFI Summer School (August 1-5, 2022).***  The IAIFI Summer School and Workshop will be held at Tufts University. **[Learn more about the Summer School and Workshop](https://iaifi.org/phd-summer-school.html)**!
 {:.success}
 
 ***IAIFI Colloquium Series will continue on April 29, 2022.***  Our biweekly [virtual colloquium series](events.html) will continue with a talk from **Laura Waller** on April 29, 2022. Watch live on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA) and [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series.
