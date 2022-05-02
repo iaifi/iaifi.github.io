@@ -14,6 +14,7 @@ IAIFI thrives on the energy and enthusiasm of its members!  If you are currently
 * [Attend IAIFI Discussion Seminars and Public Colloquia](#attend-iaifi-discussion-seminars-and-public-colloquia)
 * [Take an IAIFI-Related Class](#take-an-iaifi-related-class)
 * [Collaborate on IAIFI Research Projects](#collaborate-on-iaifi-research-projects)
+* [Utilize IAIFI Computing Resources](#utilize-iaifi-computing-resources)
 * [Share Achievements with IAIFI Management](#share-achievements-with-iaifi-management)
 * [Advertise and Acknowledge IAIFI](#advertise-and-acknowledge-iaifi)
 * [Be a Guest in the IAIFI Penthouse](#be-a-guest-in-the-iaifi-penthouse)
@@ -82,6 +83,11 @@ IAIFI has launched several committees, which include both junior and senior memb
 ## Collaborate on IAIFI Research Projects
 * [View the People page](people.html) to identify other IAIFI researchers who you may be interested in collaborating with
 * Share research questions and ideas on the [#general research IAIFI Zulip stream](https://iaifi.zulipchat.com/#narrow/stream/287317-general-research)
+
+## Utilize IAIFI Computing Resources
+* IAIFI Senior Investigators, Junior Investigators, and Affiliates will have access to dedicated IAIFI computing resources hosted by Harvard Cannon. While we wait for delivery of the IAIFI machines, we have access to available GPUs through Harvard Cannon. 
+* Access the [Computing Resources](https://internal.iaifi.org/computing-resources/) page of the IAIFI internal website for instructions about setting up an account. 
+* [Contact Will Detmold](mailto:wdetmold@mit.edu) with any questions or issues setting up your account.
 
 ## Share Achievements with IAIFI Management
 
