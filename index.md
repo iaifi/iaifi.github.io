@@ -18,10 +18,10 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Registration for IAIFI Workshop (August 8-9, 2022) will open May 2, 2022; Registration closed for IAIFI Summer School (August 1-5, 2022).***  The IAIFI Summer School and Workshop will be held at Tufts University. **[Learn more about the Summer School and Workshop](https://iaifi.org/phd-summer-school.html)**!
+***Registration for IAIFI Workshop (August 8-9, 2022) is now open for [in-person](https://iaifi-workshop-reg-fee.mit.edu/registration) and [virtual](https://forms.gle/XWDgpKP6GyNn7sNh7) attendance; Registration closed for IAIFI Summer School (August 1-5, 2022).***  The IAIFI Summer School and Workshop will be held at Tufts University. **[Learn more about the Summer School and Workshop](https://iaifi.org/phd-summer-school.html)**!
 {:.success}
 
-***IAIFI Colloquium Series will continue on April 29, 2022.***  Our biweekly [virtual colloquium series](events.html) will continue with a talk from **Laura Waller** on April 29, 2022. Watch live on our [YouTube channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA) and [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on the series.
+***IAIFI Colloquium Series will return in Fall 2022.***  Our biweekly [virtual colloquium series](events.html) for Spring 2022 has concluded. Catch up on the talks you missed on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbd6ZhDB6Yhg2tB_jnXrxuJ) and [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on upcoming series.
 {:.success}
 
 ### IAIFI News

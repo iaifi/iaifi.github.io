@@ -8,7 +8,7 @@ title: IAIFI PhD Summer School and Workshop
   * [Lecturers](#summer-school-lecturers)
   * [Summer School Registration](#summer-school-registration)
   * [Schedule](#summer-school-schedule)
-  * [Student Accommodations](#student-accomodations)
+  * [Student Accommodations](#student-accommodations)
   * [Costs](#costs)
 * [Workshop](#workshop)
   * [Plenary Speakers](#plenary-speakers)
@@ -18,14 +18,21 @@ title: IAIFI PhD Summer School and Workshop
 * [Organizing Committee](#organizing-committee)
 
 
-The first annual IAIFI PhD Summer School will be held at Tufts University **August 1—August 5, 2022**, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. Registration for the Workshop will open on May 2, 2022.
+The first annual IAIFI PhD Summer School will be held at Tufts University **August 1—August 5, 2022**, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. 
 
-<!--
+Registration for the Summer Workshop is now open for both in-person and virtual attendance. In-person attendance requires a 200 USD registration fee, which includes breakfast, lunch, and coffee breaks for both days, as well as a dinner on the first night. Virtual attendance is free. 
+
 <p align="center">
-<a href="https://forms.gle/nx9mJerFtAkgwSC26">Register for Workshop</a>
+<a href="https://iaifi-workshop-reg-fee.mit.edu/registration">Register for In-Person Workshop Attendance</a>
 </p>
 {:.success}
--->
+
+
+<p align="center">
+<a href="https://forms.gle/XWDgpKP6GyNn7sNh7">Register for Virtual Workshop Attendance</a>
+</p>
+{:.success}
+
 
 ## Summer School
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials will help students put theory into practice.
@@ -101,7 +108,7 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 
 
 ### Summer School Registration
-**Registration for the Summer School is [now open](https://forms.gle/bB4K1GM6KywnFC2Q7)**. Space may be limited, so a brief application is required. The deadline to register is **Friday, April 22, 2022** and you will be notified of your registration status by May 2, 2022. Limited funding support may be available as needed.
+**Registration for the Summer School is now closed**. You you will be notified of your registration status by May 2, 2022.
 
 ### Schedule
 Details of the schedule for the Summer School will be released in Spring 2022. The schedule will include lectures, tutorials, poster sessions, a hackathon, and networking events.
@@ -115,7 +122,7 @@ Students for the Summer School will have the opportunity to reserve dorm rooms a
 * Students who wish to stay for the Workshop will be able to book the same rooms through the weekend and the Workshop if they choose and the Workshop registration fee will be waived for students participating in the Summer School. 
 
 ## Workshop 
-The IAIFI Summer Workshop will bring together researchers from across Physics and AI for two days of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. The full workshop program will be released in May 2022.
+The IAIFI Summer Workshop will bring together researchers from across Physics and AI for two days of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. The Workshop will be hybrid with both in-person and virtual attendance options. The full workshop program will be released in May 2022.
 
 ### Plenary Speakers
 **IAIFI Senior Investigators/Affiliates in bold**
@@ -132,7 +139,9 @@ The IAIFI Summer Workshop will bring together researchers from across Physics an
 * More to come!
 
 ### Workshop Registration
-Registration for the Summer Workshop will open on May 2, 2022. The registration fee will be 200 USD and includes breakfast, lunch, and coffee breaks for both days, as well as a dinner on the first night. 
+Registration for the Summer Workshop is now open. The registration fee for in-person attendance is 200 USD and includes breakfast, lunch, and coffee breaks for both days, as well as a dinner on the first night. 
+* [Register for in-person attendance](https://iaifi-workshop-reg-fee.mit.edu/registration)
+* [Register for virtual attendance](https://forms.gle/XWDgpKP6GyNn7sNh7)
 
 ### Accommodations
 Workshop attendees will be able to book rooms in a block at a hotel near Tufts or to book a Tufts dorm room. Accommodation options will be announced soon. 
@@ -141,7 +150,7 @@ Workshop attendees will be able to book rooms in a block at a hotel near Tufts o
 * *Who can apply to the Summer School?* Any PhD students or early career researchers working at the intersection of physics and AI may apply to the summer school. 
 * *What is the cost to attend the Summer School?* There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding in Tufts dorm rooms, which range from 78 USD to 109 USD per night depending on the accommodations. Breakfast and lunch will be provided through Tufts dining hall.
 * *Is there funding available to support my attendance at the Summer School?* IAIFI is covering the cost of the Summer School other than travel and lodging. Limited, need-based support may be available for attendees who are unable to cover the costs of travel and lodging and will be addressed on a case-by-case basis. 
-* *If I come to the Summer School, can I also attend the Workshop?* Yes! We encourage you to stay for the Workshop and will cover the cost of your registration. 
+* *If I come to the Summer School, can I also attend the Workshop?* Yes! We encourage you to stay for the Workshop and will cover the cost of your registration if you attend both the Summer School and Workshop in person. 
 
 ## Organizing Committee
 * Jim Halverson, Chair (Northeastern University)

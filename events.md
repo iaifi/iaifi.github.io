@@ -35,15 +35,9 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 
 ## Upcoming IAIFI Public Colloquia 
 
-Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on future events.
+The IAIFI Colloquium series will return in Fall 2022. Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on future events.
 
-You can [watch our colloquia live on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
-
-* **[Laura Waller](https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html), Associate Professor, EECS, University of California, Berkeley** <img class="image" src="images/small-photo-laura-waller.jpg" style="max-width:215px;width:20%" align="right" hspace="20" vspace="20"/>
-    * **Friday, April 29, 2022, 2:00-3:00pm** 
-    * *Title: Computational Microscopy*
-    * Abstract: Computational imaging involves the joint design of imaging system hardware and software, optimizing across the entire pipeline from acquisition to reconstruction. Computers can replace bulky and expensive optics by solving computational inverse problems, or images can be reconstructed from scattered light. This talk will describe new microscopes that use computational imaging to enable 3D, aberration and phase measurement using simple hardware that is easily adoptable and advanced image reconstruction algorithms based on large-scale optimization and learning.
-&nbsp;
+You can [watch our colloquia live and view recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
 ## Past Colloquia
 ### Spring 2022
@@ -99,6 +93,13 @@ these approaches typically outperform existing state of the art methods. Finally
     * [Talk Slides](talks/2022_04_15_IAIFI_Colloquium_Peiris.pdf)
     * Abstract: The remarkable progress in cosmology over the last decades has been driven by the close interplay between theory and observations. Observational discoveries have led to a standard model of cosmology with ingredients that are not present in the standard model of particle physics – dark matter, dark energy, and a primordial origin for cosmic structure. Their physical nature remains a mystery, motivating a new generation of ambitious sky surveys. However, it has become clear that formidable modelling and analysis challenges stand in the way of establishing how these ingredients fit into fundamental physics. I will discuss progress in harnessing advanced machine-learning techniques to address these challenges, giving some illustrative examples. I will highlight the particular relevance of interpretability and explainability in this field.
 
+&nbsp;
+
+* **[Laura Waller](https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html), Associate Professor, EECS, University of California, Berkeley** <img class="image" src="images/small-photo-laura-waller.jpg" style="max-width:215px;width:20%" align="right" hspace="20" vspace="20"/>
+    * **Friday, April 29, 2022, 2:00-3:00pm** 
+    * *Title: Computational Microscopy*
+    * [YouTube Recording](https://youtu.be/SYrtlBNKOJc)
+    * Abstract: Computational imaging involves the joint design of imaging system hardware and software, optimizing across the entire pipeline from acquisition to reconstruction. Computers can replace bulky and expensive optics by solving computational inverse problems, or images can be reconstructed from scattered light. This talk will describe new microscopes that use computational imaging to enable 3D, aberration and phase measurement using simple hardware that is easily adoptable and advanced image reconstruction algorithms based on large-scale optimization and learning.
 &nbsp;
 
 ### Fall 2021
