@@ -42,21 +42,20 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 ## Upcoming Internal Discussion Seminars
 These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
 
-* **Carlos Argüelles-Delgado, Assistant Professor, Physics, Harvard**
-    * **Friday, May 6, 2022 2:00-3:00pm** 
-    * *Details to come*
+The Spring 2022 Internal Discussion Seminar series is complete. The IAIFI Discussion Seminar series will continue in Fall 2022. 
 
 ## Upcoming Journal Clubs
 The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi@mit.edu](mailto:iaifi@mit.edu) if you have trouble logging in).
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Benjamin Fuks, Professor, Sorbonne University**
-  * **April 28, 2022, 11:00am-12:00pm**
-  * *Details to come*
 * **Dylan Hadfield, Assistant Professor, MIT** 
   * **May 5, 2022, 11:00am-12:00pm**
-  * *Details to come* 
+  * *Overoptimization, Incompleteness, and Goodhart's Law*
+  * Resources:
+    * [https://arxiv.org/abs/1611.08219](https://arxiv.org/abs/1611.08219)
+    * [https://arxiv.org/abs/1705.09990](https://arxiv.org/abs/1705.09990)
+    * [https://arxiv.org/abs/2102.03896](https://arxiv.org/abs/2102.03896)
 * **Mark Hamilton, Graduate Student, MIT**
   * **May 12, 2022, 11:00am-12:00pm**
   * *Details to come*
@@ -66,10 +65,6 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 ## Other Upcoming Internal Events
 Internal events are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
-
-* **IAIFI Social Event**
-  * **Friday, April 22, 2022 5:30-7:30pm**
-  * IAIFI members can join our social event at Harvard University. For details, (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu)).
 
 * **IAIFI Lightning Talks**
   * **Friday, May 13, 2022 2:00-3:00pm**
@@ -197,6 +192,13 @@ The talk will not require background in deep learning. Based on joint works with
   * Resources:
     * [https://arxiv.org/abs/2202.05282](https://arxiv.org/abs/2202.05282)
     * [https://arxiv.org/abs/2105.09016](https://arxiv.org/abs/2105.09016)
+* **Benjamin Fuks, Professor, Sorbonne University**
+  * **April 28, 2022, 11:00am-12:00pm**
+  * *Precision simulations for new physics*
+  * Resources:
+    * [https://arxiv.org/abs/1907.04898](Precision simulations for new physics (JHEP 12 (2019) 008))
+    * [https://arxiv.org/abs/1901.09937](How precision allows us to design new variables to look for signals (Phys. Rev. D 100, 074010 (2019))
+    * [https://arxiv.org/abs/2109.11815](Trying to do better with boosted decision trees on the basis of tree-level simulations  (JHEP 04 (2022) 015))
 
 ### Fall 2021
   * **Michael Douglas**
