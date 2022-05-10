@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Learning Uncertainties the Frequentist Way: Calibration and Correlation in High Energy Physics"
+authors: Rikab Gambhir, Benjamin Nachman, Jesse Thaler
+abstract: Calibration is a common experimental physics problem, whose goal is to infer the value and uncertainty of an unobservable quantity Z given a measured quantity X. Additionally, one would like to quantify the extent to which X and Z are correlated. In this paper, we present a machine learning framework for performing frequentist maximum likelihood inference with Gaussian uncertainty estimation, which also quantifies the mutual information between the unobservable and measured quantities. This framework uses the Donsker-Varadhan representation of the Kullback-Leibler divergence -- parametrized with a novel Gaussian Ansatz -- to enable a simultaneous extraction of the maximum likelihood values, uncertainties, and mutual information in a single training. We demonstrate our framework by extracting jet energy corrections and resolution factors from a simulation of the CMS detector at the Large Hadron Collider. By leveraging the high-dimensional feature space inside jets, we improve upon the nominal CMS jet resolution by upwards of 15%.
+arxiv: "2205.03413"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

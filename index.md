@@ -64,9 +64,6 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 ***Philip Harris receives Department of Energy Early Career Research Award for 2021:*** The award provides “exceptional researchers during the crucial early career years” with significant funding to support their research. Philip Harris was selected for his research, “Harnessing the Large Hadron Collider with New Insights in Real-Time Data Processing and Artificial Intelligence.” [DOE announces 2021 Early Career Research Awards](https://science.osti.gov/early-career), *May 27, 2021*
 {:.info}
 
-***IAIFI Senior Investigators present at EmTech Digital Conference 2021:*** Watch Jesse Thaler, Phiala Shanahan, and Pulkit Agrawal present Master Classes for MIT Technology Review's EmTech Digital Conference 2021: [IAIFI Master Classes on YouTube](https://youtube.com/playlist?list=PLBY0ED2StbGZV9_8FDiBRdWCr1AZeW9FN), *April 20, 2021*
-{:.info}
-
 
 <!---
 ***More IAIFI News:*** For an archive of IAIFI news, see our [news page](/iaifi-news.html).
