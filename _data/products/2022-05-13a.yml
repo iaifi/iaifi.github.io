@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Power Counting Energy Flow Polynomials"
+authors: Pedro Cal, Jesse Thaler, Wouter J. Waalewijn
+abstract: Power counting is a systematic strategy for organizing collider observables and their associated theoretical calculations. In this paper, we use power counting to characterize a class of jet substructure observables called energy flow polynomials (EFPs). EFPs provide an overcomplete linear basis for infrared-and-collinear safe jet observables, but it is known that in practice, a small subset of EFPs is often sufficient for specific jet analysis tasks. By applying power counting arguments, we obtain linear relationships between EFPs that hold for quark and gluon jets to a specific order in the power counting. We test these relations in the parton shower generator Pythia, finding excellent agreement. Power counting allows us to truncate the basis of EFPs without affecting performance, which we corroborate through a study of quark-gluon tagging and regression.
+arxiv: "2205.06818"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
