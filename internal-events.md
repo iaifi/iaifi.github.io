@@ -49,16 +49,15 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Dylan Hadfield, Assistant Professor, MIT** 
-  * **May 5, 2022, 11:00am-12:00pm**
-  * *Overoptimization, Incompleteness, and Goodhart's Law*
-  * Resources:
-    * [https://arxiv.org/abs/1611.08219](https://arxiv.org/abs/1611.08219)
-    * [https://arxiv.org/abs/1705.09990](https://arxiv.org/abs/1705.09990)
-    * [https://arxiv.org/abs/2102.03896](https://arxiv.org/abs/2102.03896)
+
 * **Mark Hamilton, Graduate Student, MIT**
   * **May 12, 2022, 11:00am-12:00pm**
-  * *Details to come*
+  * *Unsupervised Semantic Segmentation by Distilling Feature Correspondences*
+  * Resources:
+    * [Website](https://mhamilton.net/stego.html)
+    * [Paper](https://arxiv.org/abs/2203.08414)
+    * [Code](https://aka.ms/stego-code)
+
 * **Manami Kanemura, Undergraduate Student, Northeastern University**
   * **May 26, 2022, 11:00am-12:00pm**
   * *Details to come*
@@ -66,9 +65,10 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 ## Other Upcoming Internal Events
 Internal events are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
 
-* **IAIFI Lightning Talks**
-  * **Friday, May 13, 2022 2:00-3:00pm**
-  * IAIFI researchers will volunteer to present their work to IAIFI members on the topic of "Discovering Latent Structure in Artificial and Physical Systems." For details or to volunteer to present, (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu)).
+* **Special Seminar: Junyu Liu**
+  * **Wednesday, June 1, 2022 12:00-1:00pm**
+  * *An analytic theory for the dynamics of wide quantum neural networks*
+  * Abstract: Parametrized quantum circuits can be used as quantum neural networks and have the potential to outperform their classical counterparts when trained for addressing learning problems. To date, much of the results on their performance on practical problems are heuristic in nature. In particular, the convergence rate for the training of quantum neural networks is not fully understood. Here, we analyze the dynamics of gradient descent for the training error of a class of variational quantum machine learning models. We define wide quantum neural networks as parameterized quantum circuits in the limit of a large number of qubits and variational parameters. We then find a simple analytic formula that captures the average behavior of their loss function and discuss the consequences of our findings. For example, for random quantum circuits, we predict and characterize an exponential decay of the residual training error as a function of the parameters of the system. We finally validate our analytic results with numerical experiments.
 
 
 ## Past Seminars
@@ -199,6 +199,13 @@ The talk will not require background in deep learning. Based on joint works with
     * [https://arxiv.org/abs/1907.04898](Precision simulations for new physics (JHEP 12 (2019) 008))
     * [https://arxiv.org/abs/1901.09937](How precision allows us to design new variables to look for signals (Phys. Rev. D 100, 074010 (2019))
     * [https://arxiv.org/abs/2109.11815](Trying to do better with boosted decision trees on the basis of tree-level simulations  (JHEP 04 (2022) 015))
+* **Dylan Hadfield, Assistant Professor, MIT** 
+  * **May 5, 2022, 11:00am-12:00pm**
+  * *Overoptimization, Incompleteness, and Goodhart's Law*
+  * Resources:
+    * [https://arxiv.org/abs/1611.08219](https://arxiv.org/abs/1611.08219)
+    * [https://arxiv.org/abs/1705.09990](https://arxiv.org/abs/1705.09990)
+    * [https://arxiv.org/abs/2102.03896](https://arxiv.org/abs/2102.03896)
 
 ### Fall 2021
   * **Michael Douglas**
