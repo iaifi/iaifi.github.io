@@ -49,18 +49,12 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-
-* **Mark Hamilton, Graduate Student, MIT**
-  * **May 12, 2022, 11:00am-12:00pm**
-  * *Unsupervised Semantic Segmentation by Distilling Feature Correspondences*
-  * Resources:
-    * [Website](https://mhamilton.net/stego.html)
-    * [Paper](https://arxiv.org/abs/2203.08414)
-    * [Code](https://aka.ms/stego-code)
-
-* **Manami Kanemura, Undergraduate Student, Northeastern University**
+* **Manami Kanemura, Undergraduate Student, Northeastern University (completed co-op with Bryan Ostdiek)**
   * **May 26, 2022, 11:00am-12:00pm**
-  * *Details to come*
+  * *Using Soft-Introspection to improve anomaly detection at LHC*
+  * Resources:
+    * [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)
+    * [Challenges for Unsupervised Anomaly Detection in Particle Physics](https://arxiv.org/abs/2110.06948)
 
 * **Iris Kong, Graduate Student, Harvard University**
   * **June 2, 2022, 11:00am-12:00pm**
@@ -211,6 +205,13 @@ The talk will not require background in deep learning. Based on joint works with
     * [https://arxiv.org/abs/1611.08219](https://arxiv.org/abs/1611.08219)
     * [https://arxiv.org/abs/1705.09990](https://arxiv.org/abs/1705.09990)
     * [https://arxiv.org/abs/2102.03896](https://arxiv.org/abs/2102.03896)
+* **Mark Hamilton, Graduate Student, MIT**
+  * **May 12, 2022, 11:00am-12:00pm**
+  * *Unsupervised Semantic Segmentation by Distilling Feature Correspondences*
+  * Resources:
+    * [Website](https://mhamilton.net/stego.html)
+    * [Paper](https://arxiv.org/abs/2203.08414)
+    * [Code](https://aka.ms/stego-code)
 
 ### Fall 2021
   * **Michael Douglas**
