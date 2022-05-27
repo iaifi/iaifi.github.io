@@ -49,13 +49,6 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Manami Kanemura, Undergraduate Student, Northeastern University (completed co-op with Bryan Ostdiek)**
-  * **May 26, 2022, 11:00am-12:00pm**
-  * *Using Soft-Introspection to improve anomaly detection at LHC*
-  * Resources:
-    * [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)
-    * [Challenges for Unsupervised Anomaly Detection in Particle Physics](https://arxiv.org/abs/2110.06948)
-
 * **Iris Kong, Graduate Student, Harvard University**
   * **June 2, 2022, 11:00am-12:00pm**
   * *Quantum Convolutional Neural Networks*
@@ -65,7 +58,7 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 Internal events are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
 
 * **Special Seminar: Junyu Liu**
-  * **Wednesday, June 1, 2022 12:00-1:00pm**
+  * **Wednesday, June 1, 2022 2:30-3:30pm *(Note time change)*** 
   * *An analytic theory for the dynamics of wide quantum neural networks*
   * Abstract: Parametrized quantum circuits can be used as quantum neural networks and have the potential to outperform their classical counterparts when trained for addressing learning problems. To date, much of the results on their performance on practical problems are heuristic in nature. In particular, the convergence rate for the training of quantum neural networks is not fully understood. Here, we analyze the dynamics of gradient descent for the training error of a class of variational quantum machine learning models. We define wide quantum neural networks as parameterized quantum circuits in the limit of a large number of qubits and variational parameters. We then find a simple analytic formula that captures the average behavior of their loss function and discuss the consequences of our findings. For example, for random quantum circuits, we predict and characterize an exponential decay of the residual training error as a function of the parameters of the system. We finally validate our analytic results with numerical experiments.
 
@@ -212,6 +205,12 @@ The talk will not require background in deep learning. Based on joint works with
     * [Website](https://mhamilton.net/stego.html)
     * [Paper](https://arxiv.org/abs/2203.08414)
     * [Code](https://aka.ms/stego-code)
+* **Manami Kanemura, Undergraduate Student, Northeastern University (completed co-op with Bryan Ostdiek)**
+  * **May 26, 2022, 11:00am-12:00pm**
+  * *Using Soft-Introspection to improve anomaly detection at LHC*
+  * Resources:
+    * [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)
+    * [Challenges for Unsupervised Anomaly Detection in Particle Physics](https://arxiv.org/abs/2110.06948)
 
 ### Fall 2021
   * **Michael Douglas**
