@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Revealing the Milky Way's Most Recent Major Merger with a Gaia EDR3 Catalog of Machine-Learned Line-of-Sight Velocities"
+authors: Adriana Dropulic, Hongwan Liu, Bryan Ostdiek, Mariangela Lisanti
+abstract: "Machine learning can play a powerful role in inferring missing line-of-sight velocities from astrometry in surveys such as Gaia. In this paper, we apply a neural network to Gaia Early Data Release 3 (EDR3) and obtain line-of-sight velocities and associated uncertainties for ~92 million stars. The network, which takes as input a star's parallax, angular coordinates, and proper motions, is trained and validated on ~6.4 million stars in Gaia with complete phase-space information. The network's uncertainty on its velocity prediction is a key aspect of its design; by properly convolving these uncertainties with the inferred velocities, we obtain accurate stellar kinematic distributions. As a first science application, we use the new network-completed catalog to identify candidate stars that belong to the Milky Way's most recent major merger, Gaia-Sausage-Enceladus (GSE). We present the kinematic, energy, angular momentum, and spatial distributions of the ~450,000 GSE candidates in this sample, and also study the chemical abundances of those with cross matches to GALAH and APOGEE. The network's predictive power will only continue to improve with future Gaia data releases as the training set of stars with complete phase-space information grows. This work provides a first demonstration of how to use machine learning to exploit high-dimensional correlations on data to infer line-of-sight velocities, and offers a template for how to train, validate and apply such a neural network when complete observational data is not available."
+arxiv: "2205.12278"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
