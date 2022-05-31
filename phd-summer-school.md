@@ -137,12 +137,15 @@ The IAIFI Summer Workshop will bring together researchers from across Physics an
 * [Jennifer Ngadiuba](https://inspirehep.net/authors/1244433), Wilson Fellow, Fermilab
 * **[Shuchin Aeron](http://www.ece.tufts.edu/~shuchin/)**, Associate Professor, Tufts University
 * **[Cora Dvorkin](https://dvorkin.physics.harvard.edu)**, Associate Professor, Harvard University
-* More to come!
+* [Sébastien Racanière](https://scholar.google.com/citations?user=o-h0vrQAAAAJ&hl=en), Staff Research Engineer, DeepMind
+* [Elena Cuoco](http://www.elenacuoco.com/), Data Scientist, European Gravitational Observatory
 
 ### Workshop Registration
 Registration for the Summer Workshop is now open. The registration fee for in-person attendance is 200 USD and includes breakfast, lunch, and coffee breaks for both days, as well as a dinner on the first night. 
 * [Register for in-person attendance](https://iaifi-workshop-reg-fee.mit.edu/registration)
 * [Register for virtual attendance](https://forms.gle/XWDgpKP6GyNn7sNh7)
+
+**Note: If you are an IAIFI Senior Investigator and would like to use your IAIFI funds to cover registration for you or your group, [contact iaifi@mit.edu](mailto:iaifi@mit.edu). If you are an IAIFI Junior Investigator, speak to the IAIFI Senior Investigator you work with to ask about funding.**
 
 ### Accommodations
 Workshop attendees will be able to book rooms in a block at a hotel near Tufts or to book a Tufts dorm room. Accommodation options will be announced soon. 
