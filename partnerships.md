@@ -7,6 +7,7 @@ title: Physics/AI Network
 * [IAIFI-AIMLAC Workshop 2022](#iaifi-aimlac-workshop-2022)
 * [Other Physics and AI Collaborations](#other-physics-and-ai-collaborations)
 * [Other NSF AI Institutes](#other-nsf-ai-institutes)
+* [Related Mailing Lists](#related-mailing-lists)
 
 ## Partnership Hub
 We are in the process of developing partnerships across both industry and academia. If you are interested in discussing partnership opportunities with IAIFI, [contact Todd Zickler](mailto:zickler@seas.harvard.edu), IAIFI Knowledge Transfer Coordinator. 
@@ -55,4 +56,12 @@ The program is shared below. [The slides are available](https://internal.iaifi.o
 * [NSF AI Institute for Engaged Learning (Engage AI)](https://www.aiengage.org), North Carolina State University with The University of North Carolina at Chapel Hill, Vanderbilt University, Indiana University, Digital Promise
 * [The USDA-NIFA Institute for Agricultural AI for Transforming Workforce and Decision Support (AgAID)](https://agaid.wsu.edu), Washington State University with Oregon State University, University of California - Merced, University of Virginia, Carnegie Mellon University, Heritage University, Wenatchee Valley College, Kansas State University, Innov8.ag, IBM Research
 * [The AI Institute for Resilient Agriculture (AIIRA)](https://aiira.iastate.edu), Iowa State University with Carnegie Mellon University, The University of Arizona, University of Missouri - Mizzou, George Mason University, University of Nebraska - Lincoln, NYU, Iowa Soybean Association
+
+## Related Mailing Lists
+The below mailing lists are mailing lists we have encountered for advertising IAIFI jobs and events. 
+
+* [Women in Machine Learning mailing list](https://groups.google.com/forum/#!forum/women-in-machine-learning)
+* [Women in Astronomy mailing list](https://aas.org/comms/cswa/AASWOMEN)
+* [Machine Learning News mailing list](https://groups.google.com/g/ml-news)
+* [HEP-AI mailing list](https://groups.google.com/g/hep-ai)
 
