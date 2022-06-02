@@ -4,7 +4,7 @@ title: People
 ---
 
 
-The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, Northeastern, and Tufts.
+The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, Northeastern, and Tufts. 
 
 {% for category in site.data.categories.categories  %}
 
@@ -15,6 +15,14 @@ The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, North
 We are currently accepting applications from senior researchers in both academia and industry to become IAIFI Affiliates.  If this interests you, see our [IAIFI Affiliates Application Form](/affiliates.html).
 
 If you are a junior researcher interested in becoming involved in IAIFI, see our [Junior Researcher Interest Form](/junior-interest.html).
+
+There are various levels of involvement in IAIFI: 
+
+**Senior Investigators, Junior Investigators, IAIFI Affiliates**:  Members in these categories are actively working on IAIFI-related research and must report their IAIFI-related activities to the NSF. Everyone at these levels is listed on this page.
+{:.info}
+
+**Friend of IAIFI**:  Friends of IAIFI are Boston-area researchers interested in IAIFI's mission, but cannot receive NSF funding and have no reporting requirements. Friends of IAIFI are welcome to participate in internal IAIFI activities. If you are interested in becoming a Friend of IAIFI, [complete the interest form](https://iaifi.org/junior-interest.html).
+{:.info}
 
 {% for category in site.data.categories.categories  %}
 
