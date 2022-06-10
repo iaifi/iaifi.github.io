@@ -114,7 +114,7 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 Details of the schedule for the Summer School will be released in Spring 2022. The schedule will include lectures, tutorials, poster sessions, a hackathon, and networking events.
 
 ### Student Accommodations
-Students for the Summer School will have the opportunity to reserve dorm rooms at Tufts University (with the option of single or double room) through an online reservation system. The link to reserve a room will be sent directly to students as they are accepted to the school.
+Students for the Summer School will have the opportunity to reserve dorm rooms at Tufts University (with the option of single or double room) through an online reservation system. The link to reserve a room will be sent directly to students accepted to the school as it becomes available.
 
 ### Costs
 * There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding in Tufts dorm rooms, which range from 78 USD to 109 USD per night depending on the accommodations. 
@@ -148,7 +148,16 @@ Registration for the Summer Workshop is now open. The registration fee for in-pe
 **Note: If you are an IAIFI Senior Investigator and would like to use your IAIFI funds to cover registration for you or your group, [contact iaifi@mit.edu](mailto:iaifi@mit.edu). If you are an IAIFI Junior Investigator, speak to the IAIFI Senior Investigator you work with to ask about funding.**
 
 ### Accommodations
-Workshop attendees will be able to book rooms in a block at a hotel near Tufts or to book a Tufts dorm room. Accommodation options will be announced soon. 
+The following accommodation options are available for workshop attendees:
+* Guaranteed rates have been secured at the following hotels using the code AIPHYS **(must call to book)**
+    * [Porter Square Hotel](https://www.theportersquarehotel.com) - Petite Double Twin: 195 USD/night; Deluxe Double Twin: 209 USD/night; Deluxe Queen: 219 USD/night; Queen Suite: 235 USD/night; Call 617-499-3399
+    * [Hotel 1868](https://www.hotel1868.com) - 199 USD/night; Call 617-499-2998
+* Tufts dorm rooms may be booked at rates ranging from 78 USD to 109 USD per night; **link will be available soon**
+* Additional area hotels: 
+    * [Fairfield Inn and Suites Medford](https://www.marriott.com/en-us/hotels/bosfo-fairfield-boston-medford/overview/)
+    * [Fairfield Inn and Suites Cambridge](https://www.marriott.com/en-us/hotels/bosbg-fairfield-inn-and-suites-boston-cambridge/overview/)
+    * [AC Hotel Boston North (Medford)](https://www.marriott.com/en-us/hotels/bosac-ac-hotel-boston-north/overview/)
+    * [Hyatt Place Boston/Medford](https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-place-boston-medford/boszm?src=adm_sem_crp_chico_crp_ppc_NAM-UnitedStates-MA-Medford-HP-BOSZM_google_Evergreen2022_e_hyatt%20place%20medford&gclid=CjwKCAjw14uVBhBEEiwAaufYx3w1Ux20K2-qc4tJs7sByDBFsvUL9w5jZu5cEXFa7JRttLPb6QDbYxoCnSIQAvD_BwE)
 
 ## FAQ 
 * *Who can apply to the Summer School?* Any PhD students or early career researchers working at the intersection of physics and AI may apply to the summer school. 
