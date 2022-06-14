@@ -26,6 +26,8 @@ header:
     subtitles:
       - title: Current
         url: /people.html
+      - title: Alumni
+        url: /alumni.html
       - title: Advisors
         url: /advisors.html
 
