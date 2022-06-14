@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Simplifying Polylogarithms with Machine Learning"
+authors: Aurélien Dersy, Matthew D. Schwartz, Xiaoyuan Zhang
+abstract: "Polylogrithmic functions, such as the logarithm or dilogarithm, satisfy a number of algebraic identities. For the logarithm, all the identities follow from the product rule. For the dilogarithm and higher-weight classical polylogarithms, the identities can involve five functions or more. In many calculations relevant to particle physics, complicated combinations of polylogarithms often arise from Feynman integrals. Although the initial expressions resulting from the integration usually simplify, it is often difficult to know which identities to apply and in what order. To address this bottleneck, we explore to what extent machine learning methods can help. We consider both a reinforcement learning approach, where the identities are analogous to moves in a game, and a transformer network approach, where the problem is viewed analogously to a language-translation task. While both methods are effective, the transformer network appears more powerful and holds promise for practical use in symbolic manipulation tasks in mathematical physics."
+arxiv: "2206.04115"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
