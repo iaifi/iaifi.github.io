@@ -16,7 +16,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Jobs
 
-***IAIFI Project Coordinator role available*** Interested in helping to support the administrative, management, and broader impacts efforts of IAIFI? [Apply for our open Project Coordinator position](http://web.mit.edu/lns/jobs/project-coordinator.html)!
+***IAIFI Project Coordinator:*** Interested in helping to support the administrative, management, and broader impacts efforts of IAIFI? [Apply for our open Project Coordinator position](http://web.mit.edu/lns/jobs/project-coordinator.html)!
 {:.success}
 
 ### IAIFI Events
