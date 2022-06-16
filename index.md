@@ -33,7 +33,13 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
-***Jesse Thaler joins CACM and AI Institute leaders for virtual panel discussion***: [Watch the virtual panel discussion](https://dl.acm.org/doi/10.1145/3517329) hosted by [Communications of the ACM](https://cacm.acm.org/) on February 1, 2022 to discuss how science and AI are transforming each other, featuring IAIFI Director Jesse Thaler, Anima Anandkumar (NVIDIA Director of ML Research), Vikram Adve (Director, AIFARMS National AI Institute), and Amy McGovern (Director, NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography).
+***Dan Roberts publishes book on deep learning theory***: [Learn more](https://deeplearningtheory.com) about the new book *The Principles of Deep Learning Theory* by IAIFI Affiliate Dan Roberts and his collaborators Sho Yaida and Boris Hanin. *May 26, 2022*
+{:.info}
+
+***Serhii Kryhin receives MIT's Morse/Orloff Research Award***: IAIFI Junior Investigator and MIT senior in physics Serhii Kryhin was recognized with the [Morse/Orloff Research Award](https://physics.mit.edu/academic-programs/student-awards/), which is "awarded to a senior of high academic standing in physics who plans to pursue graduate studies in physics." *May 25, 2022*
+{:.info}
+
+***Jesse Thaler joins CACM and AI Institute leaders for virtual panel discussion***: [Watch the virtual panel discussion](https://dl.acm.org/doi/10.1145/3517329) hosted by [Communications of the ACM](https://cacm.acm.org/) on February 1, 2022 to discuss how science and AI are transforming each other, featuring IAIFI Director Jesse Thaler, Anima Anandkumar (NVIDIA Director of ML Research), Vikram Adve (Director, AIFARMS National AI Institute), and Amy McGovern (Director, NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography). *March 29, 2022*
 {:.info}
 
 ***IAIFI researchers' model-free reinforcement learning system breaks the record for fastest robotic mini cheetah run recorded***: Featured in [MIT News](https://news.mit.edu/2022/3-questions-how-mit-mini-cheetah-learns-run-fast-0317) and [NSF Science Now](https://t.co/OWEbGuGTwG), IAIFI Fellow Ge Yang, Senior Investigator Pulkit Agrawal, and collaborator Gabriel Margolis trained the robot in simulation under variable conditions, which made it more robust when deployed in the real world---a strategy expected to be relevant for making real-time adjustments in the operation of experiments to maximize the physics reach. *March 22, 2022*
@@ -64,9 +70,6 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 {:.info}
 
 ***Jesse Thaler interviewed for Communications of the Association for Computing Machinery:*** Read Jesse Thaler's interview on [Using AI to Drill Down in Physics](https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics/fulltext), *July 8, 2021*
-{:.info}
-
-***Philip Harris receives Department of Energy Early Career Research Award for 2021:*** The award provides “exceptional researchers during the crucial early career years” with significant funding to support their research. Philip Harris was selected for his research, “Harnessing the Large Hadron Collider with New Insights in Real-Time Data Processing and Artificial Intelligence.” [DOE announces 2021 Early Career Research Awards](https://science.osti.gov/early-career), *May 27, 2021*
 {:.info}
 
 
