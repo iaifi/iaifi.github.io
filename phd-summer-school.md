@@ -114,7 +114,9 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 Details of the schedule for the Summer School will be released in Spring 2022. The schedule will include lectures, tutorials, poster sessions, a hackathon, and networking events.
 
 ### Student Accommodations
-Students for the Summer School will have the opportunity to reserve dorm rooms at Tufts University (with the option of single or double room) through an online reservation system. The link to reserve a room will be sent directly to students accepted to the school as it becomes available.
+Students for the Summer School may reserve dorm rooms at Tufts University (with the option of single or double room). [Reserve a dorm room](https://web.cvent.com/event/eb856c65-5512-4468-9482-d101b7e13843/summary)
+
+Alternative suggestions for accommodations are listed in the [Workshop Accommodations](#accommodations) section below.
 
 ### Costs
 * There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding in Tufts dorm rooms, which range from 78 USD to 109 USD per night depending on the accommodations. 
@@ -152,7 +154,7 @@ The following accommodation options are available for workshop attendees:
 * Guaranteed rates have been secured at the following hotels using the code AIPHYS **(must call to book)**
     * [Porter Square Hotel](https://www.theportersquarehotel.com) - Petite Double Twin: 195 USD/night; Deluxe Double Twin: 209 USD/night; Deluxe Queen: 219 USD/night; Queen Suite: 235 USD/night; Call 617-499-3399
     * [Hotel 1868](https://www.hotel1868.com) - 199 USD/night; Call 617-499-2998
-* Tufts dorm rooms may be booked at rates ranging from 78 USD to 109 USD per night; **link will be available soon**
+* Tufts dorm rooms may be booked at rates ranging from 78 USD to 109 USD per night: [Reserve a dorm room](https://web.cvent.com/event/eb856c65-5512-4468-9482-d101b7e13843/summary)
 * Additional area hotels: 
     * [Fairfield Inn and Suites Medford](https://www.marriott.com/en-us/hotels/bosfo-fairfield-boston-medford/overview/)
     * [Fairfield Inn and Suites Cambridge](https://www.marriott.com/en-us/hotels/bosbg-fairfield-inn-and-suites-boston-cambridge/overview/)
