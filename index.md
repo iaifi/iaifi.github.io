@@ -33,6 +33,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+***Tracy Slatyer and Jesse Thaler receive Simons Investigator awards***: [Read more about their work](https://news.mit.edu/2022/three-mit-faculty-members-named-2022-simons-investigators-0624) recognized by the program, which supports “outstanding theoretical scientists in their most productive years, when they are establishing creative new research directions, providing leadership to the field, and effectively mentoring junior scientists."
+{:.info}
+
 ***Dan Roberts publishes book on deep learning theory***: [Learn more](https://deeplearningtheory.com) about the new book *The Principles of Deep Learning Theory* by IAIFI Affiliate Dan Roberts and his collaborators Sho Yaida and Boris Hanin. *May 26, 2022*
 {:.info}
 
