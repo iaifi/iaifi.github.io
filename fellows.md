@@ -4,43 +4,39 @@ title: IAIFI Fellows
 ---
 
 
-## Call for Applications for 2022-2025 IAIFI Fellows
+## Call for Applications for 2023-2026 IAIFI Fellows
 
-**We are no longer accepting applications for this round. Please sign up for our [mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive announcements for next year's competition.**
+**Applications are now being accepted for the third round of the IAIFI Fellowship search. [Apply on AJO](https://academicjobsonline.org/ajo/jobs/21988)**
 {:.info}
 
-Of critical importance to the IAIFI vision is our IAIFI Fellows program, which aims to recruit and train the most talented, promising, and diverse group of researchers at an early stage of their careers. These Fellows will spark vital interdisciplinary, multi-investigator, multi-subfield collaborations. Such collaborations have immense power to generate new ideas and approaches, to facilitate abstracting physics challenges beyond their native domains, and to instill a common language across disciplines. Our program aims to appoint three new postdoctoral IAIFI Fellows each academic year, for a three-year fellowship term each.
- 
-Fellows will be selected through an annual application process. Applicants should have, or be expected to receive by the 1st of September 2022, a PhD in Physics, Statistics, Computer Science, or a related field. **During the application process, applicants will be asked to provide contact information for a nominator, who must be a faculty member or senior researcher.** The nominator, who should also be one of the applicant's reference letter writers and does not need to be affiliated with IAIFI, will then be contacted to confirm the nomination. Complete applications must include:
-- Cover letter (no more than 1 page);
-- CV (1-2 pages recommended, but longer accepted);
-- Statement of research interests (no more than 2 pages);
-- List of publications;
-- Exactly three reference letters (including one nominator);
-- Nomination confirmation (must overlap with one reference).
+The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is one of the inaugural NSF AI research institutes. The IAIFI is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. AI is transforming many aspects of society, including the ways that scientists are pursuing groundbreaking discoveries.
 
-**The deadline to receive all the materials (including all reference letters) is the 21st of September 2021.**
- 
-The Fellows will have substantial freedom in choosing their research focus; each fellow will be assigned two mentors – one from Physics and one from AI – to guide their choice of research topic and evaluate their research progress. The IAIFI is committed to building a culturally diverse intellectual community, and strongly encourages applications from members of historically marginalized groups. Any inquiries about the program should be directed to [iaifi-fellows@mit.edu](mailto:iaifi-fellows@mit.edu).
- 
+To facilitate these advances, the IAIFI seeks a talented, promising, and diverse group of researchers at an early stage of their careers to join the IAIFI Fellowship program. The role of an IAIFI Fellow is to spark vital interdisciplinary, multi-investigator, multi-subfield collaborations across the primary IAIFI thrusts of theoretical physics, experimental physics, and foundational AI. Such collaborations have immense power to generate new ideas and approaches in both physics and AI, to facilitate abstracting physics challenges beyond their native domains to inform the development of cutting-edge AI tools, and to instill a common language across disciplines. Our program aims to appoint three new postdoctoral IAIFI Fellows each academic year, for a three-year fellowship term each.
+
+Fellows will be selected through an annual application process. Applicants should have, or be expected to receive by the 1st of September 2023, a PhD in Physics, Statistics, Computer Science, or a related field. Complete applications must include:
+
+* Cover letter (no more than 1 page);
+* CV (1-2 pages recommended, but longer accepted);
+* Statement of research interests (no more than 2 pages);
+* List of publications;
+* Exactly three reference letters.
+
+**The deadline to receive all the materials (including all reference letters) is the 11th of October 2022.**
+
+The Fellows will have substantial freedom in choosing their research focus; each fellow will be assigned two mentors – one from Physics and one from AI – to guide their choice of research topic and evaluate their research progress. The IAIFI is committed to building a culturally diverse intellectual community, and strongly encourages applications from members of historically marginalized groups. Any inquiries about the program should be directed to iaifi-fellows@mit.edu.
+
 The IAIFI is a joint NSF-funded venture between MIT, Harvard, Northeastern, and Tufts. Fellows are encouraged to collaborate with other IAIFI members and can have affiliations with any or all of the participating universities.
-
 
 MIT is an equal employment opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, genetic information, veteran status, ancestry, or national or ethnic origin. MIT’s full policy on Nondiscrimination can be found [here](https://policies.mit.edu/policies-procedures/90-relations-and-responsibilities-within-mit-community/92-nondiscrimination).
 
 ### FAQ
 
-*  *What is the anticipated start date for the 2022-2025 IAIFI Fellowship?*  The expected start date is September 1, 2022, but we will consider alternative start dates on a case by case basis.
+*  *What is the anticipated start date for the 2023-2026 IAIFI Fellowship?*  The expected start date is September 1, 2023, but we will consider alternative start dates on a case by case basis.
 *  *Will you sponsor visas for international applicants?*  If selected for an IAIFI Fellowship, we will work with the MIT International Scholars Office (ISchO) to determine the [appropriate visa for your situation](http://web.mit.edu/scholars/administrators/sponsorshippolicy.html#visaspon).
 *  *Am I still eligible for an IAIFI Fellowship if my research is only in Physics or only in AI?*  The aim of the IAIFI is to foster interdisciplinary research at the intersection of Physics and AI.  Even if your expertise is only in one area, your proposed research should aim to build bridges across disciplines.
 *  *Can my application include four reference letters?*  No, in order to keep the selection criteria uniform, each candidate can only have three reference letters in their application.
-*  *Should my nominator be affiliated with IAIFI?* No, your nominator does not need to be affiliated with IAIFI and should also be one of your reference letter writers.
-*  *Is a nominator able to nominate more than one person?* Yes. There is no limit to the number of nominations a nominator can submit. 
-*  *How does the nominator submit a nomination?* The applicant will be asked to provide contact information for the nominator when completing the application, which will then trigger an email to the nominator to complete a form confirming the applicant's eligibility and nomination. No additional action is required on the part of the nominator other than providing a reference letter, which should also be submitted with the application.
-*  *If I'm offered a fellowship, when would the decision deadline be for me to accept?* January 7, 2022 is the decision deadline, in keeping with the [standard for theoretical high energy physics](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html). However, we appreciate that different fields have different standards, and we aim to accommodate those as they come up. 
+*  *If I'm offered a fellowship, when would the decision deadline be for me to accept?* January 6, 2023 is the decision deadline, in keeping with the [standard for theoretical high energy physics](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html). However, we appreciate that different fields have different standards, and we aim to accommodate those as they come up. 
 *  *Are IAIFI Fellows required to have English language skills?* English language proficiency is required to obtain a J-1 Visa and therefore be employed by MIT if you are coming from outside the United States.
-*  *Is there a limit to how many candidates can be nominated by a given nominator?* No, each nominator can nominate as many candidates as they choose.
-*  *What is the role of the nominator?* The nominator should be one of your letter writers, and they will be asked to attest to your eligibility for the IAIFI Fellowship.
 *  *If I am chosen for the fellowship, do I need to be in the Boston area?* We expect our IAIFI Fellows to participate in the life of the institute, which includes working primarily in the Boston area. For certain life circumstances, we can be flexible, but at minimum, Fellows need to be residents of Massachusetts, as MIT will be their official employer.
 *  *Does the 2-page limit for the research statement include references?* References in the research statement are optional and will not count against the page limit. 
 
