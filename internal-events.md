@@ -49,18 +49,10 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Iris Kong, Graduate Student, Harvard University**
-  * **June 2, 2022, 11:00am-12:00pm**
-  * *Quantum Convolutional Neural Networks*
-  * Abstract: Convolutional neural networks (CNNs) have recently proven successful for many complex applications ranging from image recognition to precision medicine. In the first part of my talk, motivated by recent advances in realizing quantum information processors, I introduce and analyze a quantum circuit-based algorithm inspired by CNNs. Our quantum convolutional neural network (QCNN) uses only O(log(N)) variational parameters for input sizes of N qubits, allowing for its efficient training and implementation on realistic, near-term quantum devices. To explicitly illustrate its capabilities, I show that QCNN can accurately recognize quantum states associated with a one-dimensional symmetry-protected topological phase, with performance surpassing existing approaches. I further demonstrate that QCNN can be used to devise a quantum error correction (QEC) scheme optimized for a given, unknown error model that substantially outperforms known quantum codes of comparable complexity. The design of such error correction codes is particularly important for near-term experiments, whose error models may be different from those addressed by general-purpose QEC schemes.
+The IAIFI Journal Club will continue in September 2022.
 
 ## Other Upcoming Internal Events
 Internal events are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
-
-* **Special Seminar: Junyu Liu**
-  * **Wednesday, June 1, 2022 2:30-3:30pm *(Note time change)*** 
-  * *An analytic theory for the dynamics of wide quantum neural networks*
-  * Abstract: Parametrized quantum circuits can be used as quantum neural networks and have the potential to outperform their classical counterparts when trained for addressing learning problems. To date, much of the results on their performance on practical problems are heuristic in nature. In particular, the convergence rate for the training of quantum neural networks is not fully understood. Here, we analyze the dynamics of gradient descent for the training error of a class of variational quantum machine learning models. We define wide quantum neural networks as parameterized quantum circuits in the limit of a large number of qubits and variational parameters. We then find a simple analytic formula that captures the average behavior of their loss function and discuss the consequences of our findings. For example, for random quantum circuits, we predict and characterize an exponential decay of the residual training error as a function of the parameters of the system. We finally validate our analytic results with numerical experiments.
 
 
 ## Past Seminars
@@ -81,6 +73,12 @@ The talk will not require background in deep learning. Based on joint works with
     * **Friday, April 22, 2022 4:00-5:00pm** 
     * *Flows for inference and interpretability: a Galactic Center Excess case study*
     * Abstract: The source of the so-called Galactic Center Excess (GCE)---an excess of gamma-rays observed from the central regions of the Milky Way---remains an open question. Disentangling the various possibilities, such as annihilating dark matter and astrophysical point sources, is a challenging modeling and inference task. I will describe some recent attempts at making progress in this direction by leveraging neural simulation-based inference techniques. Time permitting, I will describe some ongoing work using generative modeling as a test of robustness of neural network-based inference methods in the context of the GCE.
+
+* **Special Seminar: Junyu Liu**
+  * **Wednesday, June 1, 2022 2:30-3:30pm** 
+  * *An analytic theory for the dynamics of wide quantum neural networks*
+  * Abstract: Parametrized quantum circuits can be used as quantum neural networks and have the potential to outperform their classical counterparts when trained for addressing learning problems. To date, much of the results on their performance on practical problems are heuristic in nature. In particular, the convergence rate for the training of quantum neural networks is not fully understood. Here, we analyze the dynamics of gradient descent for the training error of a class of variational quantum machine learning models. We define wide quantum neural networks as parameterized quantum circuits in the limit of a large number of qubits and variational parameters. We then find a simple analytic formula that captures the average behavior of their loss function and discuss the consequences of our findings. For example, for random quantum circuits, we predict and characterize an exponential decay of the residual training error as a function of the parameters of the system. We finally validate our analytic results with numerical experiments.
+
 
 ### Fall 2021
 
