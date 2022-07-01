@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Strong Lensing Source Reconstruction Using Continuous Neural Fields"
+authors: Siddharth Mishra-Sharma, Ge Yang
+abstract: "From the nature of dark matter to the rate of expansion of our Universe, observations of distant galaxies distorted through strong gravitational lensing have the potential to answer some of the major open questions in astrophysics. Modeling galaxy-galaxy strong lensing observations presents a number of challenges as the exact configuration of both the background source and foreground lens galaxy is unknown. A timely call, prompted by a number of upcoming surveys anticipating high-resolution lensing images, demands methods that can efficiently model lenses at their full complexity. In this work, we introduce a method that uses continuous neural fields to non-parametrically reconstruct the complex morphology of a source galaxy while simultaneously inferring a distribution over foreground lens galaxy configurations. We demonstrate the efficacy of our method through experiments on simulated data targeting high-resolution lensing images similar to those anticipated in near-future astrophysical surveys."
+arxiv: "2206.14820"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
