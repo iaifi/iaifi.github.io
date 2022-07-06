@@ -16,6 +16,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Jobs
 
+***IAIFI Fellows:*** Applications are now open for the 2023–2026 IAIFI Fellowship! We are seeking early-career scientists working at the intersection of Physics and AI to join IAIFI in our third round of the IAIFI Fellowship. **Applications are due October 11, 2022.** [Learn more and apply](https://iaifi.org/fellows).
+{:.success}
+
 ***IAIFI Project Coordinator:*** Interested in helping to support the administrative, management, and broader impacts efforts of IAIFI? [Apply for our open Project Coordinator position](http://web.mit.edu/lns/jobs/project-coordinator.html)!
 {:.success}
 
@@ -33,7 +36,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
-***Tracy Slatyer and Jesse Thaler receive Simons Investigator awards***: [Read more about their work](https://news.mit.edu/2022/three-mit-faculty-members-named-2022-simons-investigators-0624) recognized by the program, which supports “outstanding theoretical scientists in their most productive years, when they are establishing creative new research directions, providing leadership to the field, and effectively mentoring junior scientists."
+***Tracy Slatyer and Jesse Thaler receive Simons Investigator awards***: [Read more about their work](https://news.mit.edu/2022/three-mit-faculty-members-named-2022-simons-investigators-0624) recognized by the program, which supports “outstanding theoretical scientists in their most productive years, when they are establishing creative new research directions, providing leadership to the field, and effectively mentoring junior scientists." *June 24, 2022*
 {:.info}
 
 ***Dan Roberts publishes book on deep learning theory***: [Learn more](https://deeplearningtheory.com) about the new book *The Principles of Deep Learning Theory* by IAIFI Affiliate Dan Roberts and his collaborators Sho Yaida and Boris Hanin. *May 26, 2022*
