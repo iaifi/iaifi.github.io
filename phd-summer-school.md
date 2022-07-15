@@ -4,13 +4,15 @@ title: IAIFI PhD Summer School and Workshop
 ---
 
 <img src="images/phd-summer-school-logo-7.png" align="right" style="max-width:5990px;width:50%" hspace="50" vspace="50"> 
-* [Summer School](summer-school) 
+* [Summer School](#summer-school) 
+  * [Summer School Agenda](#summer-school-agenda)
   * [Lecturers](#summer-school-lecturers)
   * [Summer School Registration](#summer-school-registration)
   * [Schedule](#summer-school-schedule)
   * [Student Accommodations](#student-accommodations)
   * [Costs](#costs)
 * [Workshop](#workshop)
+  * [Workshop Agenda](#workshop-agenda)
   * [Plenary Speakers](#plenary-speakers)
   * [Workshop Registration](#workshop-registration)
   * [Accommodations](#accommodations)
@@ -36,6 +38,9 @@ Registration for the Summer Workshop is now open for both in-person and virtual 
 
 ## Summer School
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials will help students put theory into practice.
+
+### Summer School Agenda
+[View the agenda for the IAIFI Summer School](https://iaifi.org/summer-school-agenda)
 
 ### Lecturers
 <div class="card-columns">
@@ -126,6 +131,9 @@ Alternative suggestions for accommodations are listed in the [Workshop Accommoda
 ## Workshop 
 The IAIFI Summer Workshop will bring together researchers from across Physics and AI for two days of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. The Workshop will be hybrid with both in-person and virtual attendance options. The full workshop program will be released in May 2022.
 
+### Workshop Agenda
+[View the agenda for the IAIFI Summer Workshop](https://iaifi.org/workshop-agenda)
+
 ### Plenary Speakers
 **IAIFI Senior Investigators/Affiliates in bold**
 
@@ -133,14 +141,14 @@ The IAIFI Summer Workshop will bring together researchers from across Physics an
 * [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/), Senior Researcher, Microsoft Research
 * **[Phil Harris](https://physics.mit.edu/faculty/philip-harris/)**, Assistant Professor of Physics, MIT
 * [Kazuhiro Terao](https://www.codingkazu.com), Staff Scientist, Stanford University
-* [Anja Butter](https://www.thphys.uni-heidelberg.de/~butter/), Postdoc, ITP Heidelburg
+* [Claudius Krause](https://claudius-krause.gitlab.io), Postdoctoral Associate, Rutgers University
 * **[Fabian Ruehle](https://cos.northeastern.edu/people/fabian-ruehle/)**, Assistant Professor, Northeastern University
 * [Yi-Zhuang You](https://physics.ucsd.edu/Directory/Person/536), Assistant Professor, University of California, San Diego
 * [Jennifer Ngadiuba](https://inspirehep.net/authors/1244433), Wilson Fellow, Fermilab
 * **[Shuchin Aeron](http://www.ece.tufts.edu/~shuchin/)**, Associate Professor, Tufts University
 * **[Cora Dvorkin](https://dvorkin.physics.harvard.edu)**, Associate Professor, Harvard University
 * [Sébastien Racanière](https://scholar.google.com/citations?user=o-h0vrQAAAAJ&hl=en), Staff Research Engineer, DeepMind
-* [Elena Cuoco](http://www.elenacuoco.com/), Data Scientist, European Gravitational Observatory
+* [Marco Caviglià](https://physics.mst.edu/facultystaffandfacilities/faculty/marcocavaglia/), Professor, Missouri S&T
 
 ### Workshop Registration
 Registration for the Summer Workshop is now open. The registration fee for in-person attendance is 200 USD and includes breakfast, lunch, and coffee breaks for both days, as well as a dinner on the first night. 
