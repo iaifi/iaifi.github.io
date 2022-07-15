@@ -99,7 +99,11 @@ Coffee break
 ### 10:30am–11:15am
 **Jennifer Ngadiuba, Wilson Fellow, Fermilab**
 
-Details to come
+Boosting sensitivity to new physics at the LHC with anomaly detection 
+
+Anomaly detection techniques have been proposed as a way to mitigate the impact of model-specific assumptions when searching for new physics at the LHC. In this talk I will discuss how these techniques, when based on modern AI developments, could be utilized at different stages of data processing workflow, from online to offline analysis, and the impact they could have to revolutionize the current paradigms in the search for new physics. 
+
+*Jennifer is Associate Scientist at Fermilab with Wilson Fellowship working on applications of AI to high-energy physics problems while being member of the CMS collaboration. She received her PhD at the University of Zurich working on CMS data analyses and inner silicon pixel subsystem. During the following years as postdoctoral fellow at CERN and then Caltech she contributed to the CMS trigger system for which she develops fast AI methods. Since this year she is one of the L2 coordinators of the CMS ML group.*
 
 ### 11:15am–12:00pm
 **Siamak Ravanbakhsh, Assistant Professor, School of Computer Science, McGill University**
