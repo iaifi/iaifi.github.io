@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Pareto-optimal clustering with the primal deterministic information bottleneck"
+authors: Andrew K. Tan, Max Tegmark, Isaac L. Chuang
+abstract: "At the heart of both lossy compression and clustering is a trade-off between the fidelity and size of the learned representation. Our goal is to map out and study the Pareto frontier that quantifies this trade-off. We focus on the Deterministic Information Bottleneck (DIB) formulation of lossy compression, which can be interpreted as a clustering problem. To this end, we introduce the {\\it primal} DIB problem, which we show results in a much richer frontier than its previously studied dual counterpart. We present an algorithm for mapping out the Pareto frontier of the primal DIB trade-off that is also applicable to most other two-objective clustering problems. We study general properties of the Pareto frontier, and give both analytic and numerical evidence for logarithmic sparsity of the frontier in general. We provide evidence that our algorithm has polynomial scaling despite the super-exponential search space; and additionally propose a modification to the algorithm that can be used where sampling noise is expected to be significant. Finally, we use our algorithm to map the DIB frontier of three different tasks: compressing the English alphabet, extracting informative color classes from natural images, and compressing a group theory inspired dataset, revealing interesting features of frontier, and demonstrating how the structure of the frontier can be used for model selection with a focus on points previously hidden by the cloak of the convex hull."
+arxiv: "2204.02489"
+journal: Entropy, 2022, 24(6)
+doi: https://doi.org/10.3390/e24060771
+nsf-par:
+code:
+publication-date: 2022-05-30

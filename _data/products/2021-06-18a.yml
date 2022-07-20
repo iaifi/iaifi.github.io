@@ -1,11 +1,11 @@
 type: paper
 iaifi-thrust: T
-title: "Electron on solid neon -- a new solid-state single-electron qubit platform"
+title: "Single electrons on solid neon as a solid-state quit platform"
 authors: Xianjing Zhou, Gerwin Koolstra, Xufeng Zhang, Ge Yang, Xu Han, Brennan Dizdar, Divan Ralu, Wei Guo, Kater W. Murch, David I. Shuster, Dafei Jin
-abstract: The promise of quantum computing has driven a persistent quest for new qubit platforms with long coherence, fast operation, and large scalability. Electrons, ubiquitous elementary particles of nonzero charge, spin, and mass, have commonly been perceived as paradigmatic local quantum information carriers. Despite superior controllability and configurability, their practical performance as qubits via either motional or spin states depends critically on their material environment. Here we report our experimental realization of a new qubit platform based upon isolated single electrons trapped on an ultraclean solid neon surface in vacuum. By integrating an electron trap in a circuit quantum electrodynamics architecture, we achieve strong coupling between the motional states of a single electron and microwave photons in an on-chip superconducting resonator. Qubit gate operations and dispersive readout are used to measure the energy relaxation time T<sub>1</sub> of 15 μs and phase coherence time T<sub>2</sub> over 200 ns, indicating that the electron-on-solid-neon qubit already performs near the state of the art as a charge qubit.
+abstract: Progress toward the realization of quantum computers requires persistent advances in their constituent building blocks - qubits. Novel qubit platforms that simultaneously embody long coherence, fast operation, and large scalability offer compelling advantages in the construction of quantum computers and many other quantum information systems. Electrons, ubiquitous elementary particles of nonzero charge, spin, and mass, have commonly been perceived as paradigmatic local quantum information carriers. Despite superior controllability and configurability, their practical performance as qubits via either motional or spin states depends critically on their material environment. Here we report our experimental realization of a new qubit platform based upon isolated single electrons trapped on an ultraclean solid neon surface in vacuum. By integrating an electron trap in a circuit quantum electrodynamics architecture, we achieve strong coupling between the motional states of a single electron and a single microwave photon in an on-chip superconducting resonator. Qubit gate operations and dispersive readout are implemented to measure the energy relaxation time T1 of 15 μs and phase coherence time T2 over 200 ns. These results indicate that the electron-on-solid-neon qubit already performs near the state of the art as a charge qubit.
 arxiv: 2106.10326
-journal: 
-doi: 
+journal: Nature, 2022, 605, 46-50
+doi: https://doi.org/10.1038/s41586-022-04539-x
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2022-05-04

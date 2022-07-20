@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Discovering Sparse Interpretable Dynamics from Partial Observations"
+authors: Peter Y. Lu, Joan Ariño, Marin Soljačić
+abstract: "Identifying the governing equations of a nonlinear dynamical system is key to both understanding the physical features of the system and constructing an accurate model of the dynamics that generalizes well beyond the available data. We propose a machine learning framework for discovering these governing equations using only partial observations, combining an encoder for state reconstruction with a sparse symbolic model. Our tests show that this method can successfully reconstruct the full system state and identify the underlying dynamics for a variety of ODE and PDE systems."
+arxiv: "2107.10879"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
