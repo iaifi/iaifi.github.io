@@ -11,6 +11,7 @@ title: IAIFI PhD Summer School and Workshop
   * [Schedule](#summer-school-schedule)
   * [Student Accommodations](#student-accommodations)
   * [Costs](#costs)
+  * [Financial Supporters](#financial-supporters)
 * [Workshop](#workshop)
   * [Workshop Agenda](#workshop-agenda)
   * [Plenary Speakers](#plenary-speakers)
@@ -40,7 +41,9 @@ Registration for the Summer Workshop is now open for both in-person and virtual 
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials will help students put theory into practice.
 
 ### Summer School Agenda
-[View the agenda for the IAIFI Summer School](https://iaifi.org/summer-school-agenda)
+<img src="images/2022-summer-school-agenda.pdf" align="center" style="max-width:960px;width:100%" hspace="10" vspace="10"> 
+
+[View the detailed agenda for the IAIFI Summer School](https://iaifi.org/summer-school-agenda)
 
 ### Lecturers
 <div class="card-columns">
@@ -115,9 +118,6 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 ### Summer School Registration
 **Registration for the Summer School is now closed**. You you will be notified of your registration status by May 2, 2022.
 
-### Schedule
-Details of the schedule for the Summer School will be released in Spring 2022. The schedule will include lectures, tutorials, poster sessions, a hackathon, and networking events.
-
 ### Student Accommodations
 Students for the Summer School may reserve dorm rooms at Tufts University (with the option of single or double room). [Reserve a dorm room](https://web.cvent.com/event/eb856c65-5512-4468-9482-d101b7e13843/summary)
 
@@ -128,11 +128,18 @@ Alternative suggestions for accommodations are listed in the [Workshop Accommoda
 * Breakfast and lunch (through the Tufts dining hall), as well as coffee at breaks, will be provided daily during the Summer School and Workshop (except over the weekend), along with at least one dinner during the Summer School and a Workshop dinner. 
 * Students who wish to stay for the Workshop will be able to book the same rooms through the weekend and the Workshop if they choose and the Workshop registration fee will be waived for students participating in the Summer School. 
 
+### Financial Supporters 
+We extend a sincere thank you to the following financial supporters of the first IAIFI Summer School:
+
+<img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:30%" hspace="10" vspace="10"> 
+
 ## Workshop 
 The IAIFI Summer Workshop will bring together researchers from across Physics and AI for two days of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. The Workshop will be hybrid with both in-person and virtual attendance options. The full workshop program will be released in May 2022.
 
 ### Workshop Agenda
-[View the agenda for the IAIFI Summer Workshop](https://iaifi.org/workshop-agenda)
+<img src="images/2022-workshop-agenda.pdf" align="center" style="max-width:960px;width:100%" hspace="10" vspace="10"> 
+
+[View the detailed agenda for the IAIFI Summer Workshop](https://iaifi.org/workshop-agenda)
 
 ### Plenary Speakers
 **IAIFI Senior Investigators/Affiliates in bold**

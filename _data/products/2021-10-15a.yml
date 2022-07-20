@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Surrogate- and invariance-boosted contrastive learning for data-scarce applications in science"
+authors: "Charlotte Loh, Thomas Christensen, Rumen Dangovski, Samuel Kim, Marin Soljačić"
+abstract: "Deep learning techniques have been increasingly applied to the natural sciences, e.g., for property prediction and optimization or material discovery. A fundamental ingredient of such approaches is the vast quantity of labelled data needed to train the model; this poses severe challenges in data-scarce settings where obtaining labels requires substantial computational or labor resources. Here, we introduce surrogate- and invariance-boosted contrastive learning (SIB-CL), a deep learning framework which incorporates three ``inexpensive'' and easily obtainable auxiliary information sources to overcome data scarcity. Specifically, these are: 1)~abundant unlabeled data, 2)~prior knowledge of symmetries or invariances and 3)~surrogate data obtained at near-zero cost. We demonstrate SIB-CL's effectiveness and generality on various scientific problems, e.g., predicting the density-of-states of 2D photonic crystals and solving the 3D time-independent Schrodinger equation. SIB-CL consistently results in orders of magnitude reduction in the number of labels needed to achieve the same network accuracies."
+arxiv: "2110.08406"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
