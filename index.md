@@ -19,14 +19,12 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***IAIFI Fellows:*** Applications are now open for the 2023–2026 IAIFI Fellowship! We are seeking early-career scientists working at the intersection of Physics and AI to join IAIFI in our third round of the IAIFI Fellowship. **Applications are due October 11, 2022.** [Learn more and apply](https://iaifi.org/fellows).
 {:.success}
 
-***IAIFI Project Coordinator:*** Interested in helping to support the administrative, management, and broader impacts efforts of IAIFI? [Apply for our open Project Coordinator position](http://web.mit.edu/lns/jobs/project-coordinator.html)!
-{:.success}
 
 ### IAIFI Events
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Registration for IAIFI Workshop (August 8-9, 2022) closes on July 17, 2022 for [in-person](https://iaifi-workshop-reg-fee.mit.edu/registration) and [virtual](https://forms.gle/XWDgpKP6GyNn7sNh7) attendance; Registration closed for IAIFI Summer School (August 1-5, 2022).***  The IAIFI Summer School and Workshop will be held at Tufts University. **[Learn more about the Summer School and Workshop](https://iaifi.org/phd-summer-school.html)**!
+***Registration for IAIFI Workshop (August 8-9, 2022) is now closed; Registration closed for IAIFI Summer School (August 1-5, 2022).***  The IAIFI Summer School and Workshop will be held at Tufts University. **[Learn more about the Summer School and Workshop](https://iaifi.org/phd-summer-school.html)**!
 {:.success}
 
 ***IAIFI Colloquium Series will return in Fall 2022.***  Our biweekly [virtual colloquium series](events.html) for Spring 2022 has concluded. Catch up on the talks you missed on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbd6ZhDB6Yhg2tB_jnXrxuJ) and [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on upcoming series.

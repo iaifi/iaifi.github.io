@@ -67,7 +67,7 @@ In this tutorial, we will explore neural network architectures that are capable 
 *Dylan Rankin received his Ph.D. in 2018 from BU under Tulika Bose, and is currently a postdoc at MIT with Phil Harris. He will start as a faculty member at UPenn this coming spring. He is interested in machine learning, heterogeneous computing, trigger and data acquisition systems, Higgs physics, and exotic searches. His work is focused on using novel analysis methods both at the CERN Large Hadron Collider and beyond.*
 
 ### 3:00–4:00pm
-Break
+Virtual networking using remotely green
 
 ### 4:00–6:00pm 
 Welcome Dinner
@@ -140,7 +140,13 @@ We will review some of the foundational connections that arise between deep neur
 
 *Yasaman Bahri is a Research Scientist at Google Brain working at the interface of machine learning and physical science, with a recent focus on the foundations of deep learning. She obtained her PhD (2017) at UC Berkeley in theoretical condensed matter physics. Her work is multidisciplinary in nature, and she has received recognition & given invited lectures in both physics and computer science. Most recently, she was a recipient of the Rising Stars Award in EECS (2020).*
 
+### 5:00–6:00pm
+Virtual networking using Remotely Green
+
 ## Wednesday, August 3, 2022
+
+### 8:00–9:00am
+Virtual networking using Remotely Green
 
 ### 8:30–9:00am
 Breakfast is served 
@@ -197,6 +203,9 @@ Coffee break
 **Career Panel**
 
 ## Thursday, August 4, 2022
+
+### 8:00–9:00am
+Virtual networking using Remotely Green
 
 ### 8:30–9:00am
 Breakfast is served 
