@@ -6,7 +6,7 @@ title: IAIFI PhD Summer School and Workshop
 <img src="images/phd-summer-school-logo-7.png" align="right" style="max-width:5990px;width:50%" hspace="50" vspace="50"> 
 * [Summer School](#summer-school) 
   * [Summer School Agenda](#summer-school-agenda)
-  * [Lecturers](#summer-school-lecturers)
+  * [Lecturers](#lecturers)
   * [Summer School Registration](#summer-school-registration)
   * [Schedule](#summer-school-schedule)
   * [Student Accommodations](#student-accommodations)
@@ -155,7 +155,7 @@ The IAIFI Summer Workshop will bring together researchers from across Physics an
 * **[Shuchin Aeron](http://www.ece.tufts.edu/~shuchin/)**, Associate Professor, Tufts University
 * **[Cora Dvorkin](https://dvorkin.physics.harvard.edu)**, Associate Professor, Harvard University
 * [Sébastien Racanière](https://scholar.google.com/citations?user=o-h0vrQAAAAJ&hl=en), Staff Research Engineer, DeepMind
-* [Marco Caviglià](https://physics.mst.edu/facultystaffandfacilities/faculty/marcocavaglia/), Professor, Missouri S&T
+* [Marco Cavaglià](https://physics.mst.edu/facultystaffandfacilities/faculty/marcocavaglia/), Professor, Missouri S&T
 
 ### Workshop Registration
 Registration for the Summer Workshop is now open. The registration fee for in-person attendance is 200 USD and includes breakfast, lunch, and coffee breaks for both days, as well as a dinner on the first night. 
