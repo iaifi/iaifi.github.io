@@ -8,7 +8,6 @@ title: IAIFI PhD Summer School and Workshop
   * [Summer School Agenda](#summer-school-agenda)
   * [Lecturers](#lecturers)
   * [Summer School Registration](#summer-school-registration)
-  * [Schedule](#summer-school-schedule)
   * [Student Accommodations](#student-accommodations)
   * [Costs](#costs)
   * [Financial Supporters](#financial-supporters)
@@ -23,18 +22,7 @@ title: IAIFI PhD Summer School and Workshop
 
 The first annual IAIFI PhD Summer School will be held at Tufts University **August 1—August 5, 2022**, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. 
 
-Registration for the Summer Workshop is now open for both in-person and virtual attendance. In-person attendance requires a 200 USD registration fee, which includes breakfast, lunch, and coffee breaks for both days, as well as a dinner on the first night. Virtual attendance is free. 
-
-<p align="center">
-<a href="https://iaifi-workshop-reg-fee.mit.edu/registration">Register for In-Person Workshop Attendance</a>
-</p>
-{:.success}
-
-
-<p align="center">
-<a href="https://forms.gle/XWDgpKP6GyNn7sNh7">Register for Virtual Workshop Attendance</a>
-</p>
-{:.success}
+Registration for the Summer School and Summer Workshop is now closed. Email [iaifi@mit.edu](mailto:iaifi@mit.edu) with any questions. 
 
 
 ## Summer School

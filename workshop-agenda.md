@@ -24,6 +24,7 @@ Generative models with symmetries for physics
 
 Recently, there have been some very impressive advances in generative models for sound, text and images. In this talk, I will look into applications of generative models to physics, in particular Atomic Solids and Lattice QCD. The models I will consider are flows, which are families of diffeomorphisms transforming simple base distributions into complicated target distributions. I will show some advantages of these models over other approaches, and explain how known symmetries of those problems can be incorporated into the flows.
 
+*Sébastien Racanière originally studied pure mathematics. His PhD was in the field of differential geometry, studying the cohomology of moduli spaces that appear in Yang-Mills theory. For the last seven years, he has been working as an ML researcher in DeepMind. He mostly worked on generative models, either to use them (Reinforcement Learning or in the natural sciences), develop new ones, or understand their optimisation.*
 
 ### 10:00–10:30am
 Coffee break
@@ -72,6 +73,9 @@ Mining Cosmological Data: Looking for Physics Beyond the Standard Model
 
 ### 4:45–6:00pm
 Break
+
+### 5:00–6:00pm
+Virtual networking using Remotely Green
 
 ### 6:00–8:00pm
 Workshop Dinner
