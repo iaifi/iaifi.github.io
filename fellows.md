@@ -39,6 +39,7 @@ MIT is an equal employment opportunity employer. All qualified applicants will r
 *  *Are IAIFI Fellows required to have English language skills?* English language proficiency is required to obtain a J-1 Visa and therefore be employed by MIT if you are coming from outside the United States.
 *  *If I am chosen for the fellowship, do I need to be in the Boston area?* We expect our IAIFI Fellows to participate in the life of the institute, which includes working primarily in the Boston area. For certain life circumstances, we can be flexible, but at minimum, Fellows need to be residents of Massachusetts, as MIT will be their official employer.
 *  *Does the 2-page limit for the research statement include references?* References in the research statement are optional and will not count against the page limit. 
+*  *If I am applying to the [MIT Pappalardo Fellowship]{https://physics.mit.edu/research/pappalardo-fellowships-in-physics/competition/}, will that impact my application for the IAIFI Fellowship?* No, you are welcome to apply to both Fellowship opportunities and one will not impact the other. 
 
 ### Advertising the Fellowship
 We aim to spread the word about the Fellowship as widely as possible. In addition to sharing the announcement with individuals, we have posted the job in the following places:
