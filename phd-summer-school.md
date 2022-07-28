@@ -119,13 +119,15 @@ Alternative suggestions for accommodations are listed in the [Workshop Accommoda
 ### Financial Supporters 
 We extend a sincere thank you to the following financial supporters of the first IAIFI Summer School:
 
-<img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:30%" hspace="10" vspace="10"> 
+<img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:30%" hspace="10" vspace="10"> <img src="images/unlearn_logo_color.jpg" align="center" style="max-width:8080px;width:30%" hspace="10" vspace="10"> 
+
 
 ## Workshop 
 The IAIFI Summer Workshop will bring together researchers from across Physics and AI for two days of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. The Workshop will be hybrid with both in-person and virtual attendance options. The full workshop program will be released in May 2022.
 
 ### Workshop Agenda
-<img src="images/2022-workshop-agenda.pdf" align="center" style="max-width:960px;width:100%" hspace="10" vspace="10"> 
+
+<img src="images/2022-workshop-agenda.pdf" align="center" style="max-width:612px;width:100%" hspace="10" vspace="10"> 
 
 [View the detailed agenda for the IAIFI Summer Workshop](https://iaifi.org/workshop-agenda)
 

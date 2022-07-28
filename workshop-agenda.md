@@ -32,7 +32,11 @@ Coffee break
 ### 10:30am–11:15am
 **Claudius Krause, Postdoctoral Associate, Rutgers University**
 
-Details to come
+Normalizing Flows at the LHC
+
+Normalizing Flows --- invertible neural networks --- provide a versatile class of ML models that have seen many applications to high-energy physics in the past years, covering the full analysis pipeline of the LHC from data to physics and back. In my talk, I will highlight how they can be used for better phase space integration, faster detector simulation, and more efficient bump-hunt searches. Preparing for the vast amount of LHC data coming in the next years, these techniques will be crucial to fully understand all data based on first principles.
+
+*Claudius Krause graduated from LMU in Munich on Higgs Effective Field Theories in 2016. While being a postdoc at Fermilab in 2019, he started working on normalizing flows and their application to particle physics. He is currently postdoc at Rutgers University and has applied normalizing flows to various different problems in high-energy physics.*
 
 ### 11:15am–12:00pm
 **Phil Harris, Assistant Professor of Physics, MIT**
