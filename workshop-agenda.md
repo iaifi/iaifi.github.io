@@ -152,9 +152,9 @@ In this talk, I will introduce the machine learning renormalization group method
 *Yi-Zhuang You is an assistant professor at the University of California, San Diego. His research interests focus on condensed matter theory, quantum information, and machine learning in physics.*
 
 ### 4:15–5:00pm 
-**Marco Cavaglia, Professor, Missouri S&T**
+**Anna Golubeva, IAIFI Fellow**
 
-Machine Learning for Gravitational Waves
+Details to come
 
 ### 5:00–5:15pm
 Closing remarks from Jesse Thaler, IAIFI Director
