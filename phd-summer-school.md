@@ -33,6 +33,8 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 
 [View the detailed agenda for the IAIFI Summer School](https://iaifi.org/summer-school-agenda)
 
+[View the complete Summer School program](talks/Summer-School_Program_2022.pdf)
+
 ### Lecturers
 <div class="card-columns">
   <!--<div class="row">-->
