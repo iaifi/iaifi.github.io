@@ -29,7 +29,9 @@ Registration for the Summer School and Summer Workshop is now closed. Email [iai
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials will help students put theory into practice.
 
 ### Summer School Agenda
-<img src="images/2022-summer-school-agenda.pdf" align="center" style="max-width:960px;width:100%" hspace="10" vspace="10"> 
+<img src="images/2022-summer-school-agenda.jpg" align="center" style="max-width:960px;width:100%" hspace="10" vspace="10">
+
+[Download PDF of snapshot](images/2022-summer-school-agenda.pdf)
 
 [View the detailed agenda for the IAIFI Summer School](https://iaifi.org/summer-school-agenda)
 
@@ -129,7 +131,9 @@ The IAIFI Summer Workshop will bring together researchers from across Physics an
 
 ### Workshop Agenda
 
-<img src="images/2022-workshop-agenda.pdf" align="center" style="max-width:612px;width:100%" hspace="10" vspace="10"> 
+<img src="images/2022-workshop-agenda.png" align="center" style="max-width:612px;width:100%" hspace="10" vspace="10"> 
+
+[Download PDF of snapshot](images/2022-workshop-agenda.pdf)
 
 [View the detailed agenda for the IAIFI Summer Workshop](https://iaifi.org/workshop-agenda)
 
