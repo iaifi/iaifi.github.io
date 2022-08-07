@@ -151,7 +151,7 @@ The IAIFI Summer Workshop will bring together researchers from across Physics an
 * **[Shuchin Aeron](http://www.ece.tufts.edu/~shuchin/)**, Associate Professor, Tufts University
 * **[Cora Dvorkin](https://dvorkin.physics.harvard.edu)**, Associate Professor, Harvard University
 * [Sébastien Racanière](https://scholar.google.com/citations?user=o-h0vrQAAAAJ&hl=en), Staff Research Engineer, DeepMind
-* [Anna Golubeva](https://annagolubeva.github.io), IAIFI Fellow
+* **[Anna Golubeva](https://annagolubeva.github.io)**, IAIFI Fellow
 
 ### Workshop Registration
 Registration for the Summer Workshop is now open. The registration fee for in-person attendance is 200 USD and includes breakfast, lunch, and coffee breaks for both days, as well as a dinner on the first night. 
