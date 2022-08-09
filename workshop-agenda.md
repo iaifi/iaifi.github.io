@@ -41,7 +41,9 @@ Normalizing Flows --- invertible neural networks --- provide a versatile class o
 ### 11:15am–12:00pm
 **Phil Harris, Assistant Professor of Physics, MIT**
 
-Details to come
+Learning Physics in the Latent Space
+
+With no new physics discovery since the Higgs boson, there is an effort to redevise how we search and understand physics data at the Large Hadron Collider(LHC). Using the LHC, we present a variety of new deep learning ideas that are going a step further in how we understand and process data at the LHC. Building on ideas from deep learning self-supervision, we show how physics datasets can be self-assembled into physically meaningful spaces that can enable us to approach collider data analyses at a new angle.  We demonstrate this approach with Higgs and New physics particles that decay into quarks in the context of improving supervised learning, anomaly detection, and finally, characterizing the nature of the physics we are probing.  Finally, we comment on how these approaches can construct a new generation of high-quality physics measurements to be pursued with future data at the LHC. 
 
 ### 12:00pm–1:00pm
 Lunch
@@ -131,18 +133,6 @@ Lunch
 [Sign up here to submit a poster](https://forms.gle/pCfmXQPMDcjsyD7z9)
 
 ### 2:00–2:45pm
-**Shuchin Aeron, Associate Professor, Tufts University**
-
-Towards learning generative models for high energy physics
-
-In this talk we will focus on learning generative models for generating LArTPC images. In this context we will present two approaches that we employed recently to this problem - a. Variational Quantized Variational Auto-Encoder (VQ-VAE) and b. Score based diffusion models. We will present the architecture and the methodology behind these two methods and comment on the results obtained both qualitatively and quantitatively (using SSNet). Finally we will comment on the potential utility of these generative models for neutrino physics. 
-
-*Shuchin Aeron is an associate professor in the Department of Electrical and Computer Engineering at Tufts School of Engineering. He received his Ph.D. from Boston University in 2009. From 2009-2022 he was a postdoctoral research fellow at Schlumberger-Doll Research (SDR), where he worked on signal processing solution products for borehole acoustics. In 2016, he received an NSF CAREER award. He was a visiting faculty at Mitsubishi Electric Research Labs (MERL) in 2019. Aeron is currently a senior member of the Institute of Electrical and Electronics Engineers (IEEE). His research interests are in statistical signal processing, information theory, tensor data analytics, and optimal transport.*
-
-### 2:45–3:30pm
-Coffee break
-
-### 3:30–4:15pm 
 **Yi-Zhuang You, Assistant Professor, University of California, San Diego**
 
 Machine Learning Renormalization Group and Its Applications
@@ -151,10 +141,26 @@ In this talk, I will introduce the machine learning renormalization group method
 
 *Yi-Zhuang You is an assistant professor at the University of California, San Diego. His research interests focus on condensed matter theory, quantum information, and machine learning in physics.*
 
-### 4:15–5:00pm 
+### 2:45–3:30pm
+Coffee break
+
+### 3:30–4:15pm 
 **Anna Golubeva, IAIFI Fellow**
 
-Details to come
+Understanding and Improving Sparse Neural Network Training
+
+Sparsity and neural-network pruning have become indispensable tools in applied machine learning to alleviate the computational demands of ever larger models. While the number of empirical works in this field has exploded in recent years, bringing out a variety of pruning techniques, finding sparse solutions at initialization remains a challenge. Moreover, a theoretical understanding of the very existence of sparse solutions in neural networks is lacking. In this talk, I will discuss the most interesting open questions in this field and present some of our recent work combining theoretical and experimental approaches to tackle them.
+
+*Anna is currently a postdoctoral fellow at IAIFI, working on developing a theoretical foundation of deep learning with methods from statistical physics. She obtained her PhD in 2021 at the Perimeter Institute for Theoretical Physics and the University of Waterloo, where she was advised by Roger Melko. During her PhD, she was also a graduate affiliate at the Vector Institute for AI in Toronto. Previously, she completed the Perimeter Scholars International master’s program (2017), a MSc in Theoretical Physics with focus on computational approaches to quantum many-body systems (2016), and a BSc in Biophysics (2014) at the Goethe University in Frankfurt, Germany.*
+
+### 4:15–5:00pm 
+**Shuchin Aeron, Associate Professor, Tufts University**
+
+Towards learning generative models for high energy physics
+
+In this talk we will focus on learning generative models for generating LArTPC images. In this context we will present two approaches that we employed recently to this problem - a. Variational Quantized Variational Auto-Encoder (VQ-VAE) and b. Score based diffusion models. We will present the architecture and the methodology behind these two methods and comment on the results obtained both qualitatively and quantitatively (using SSNet). Finally we will comment on the potential utility of these generative models for neutrino physics. 
+
+*Shuchin Aeron is an associate professor in the Department of Electrical and Computer Engineering at Tufts School of Engineering. He received his Ph.D. from Boston University in 2009. From 2009-2022 he was a postdoctoral research fellow at Schlumberger-Doll Research (SDR), where he worked on signal processing solution products for borehole acoustics. In 2016, he received an NSF CAREER award. He was a visiting faculty at Mitsubishi Electric Research Labs (MERL) in 2019. Aeron is currently a senior member of the Institute of Electrical and Electronics Engineers (IEEE). His research interests are in statistical signal processing, information theory, tensor data analytics, and optimal transport.*
 
 ### 5:00–5:15pm
 Closing remarks from Jesse Thaler, IAIFI Director
