@@ -28,3 +28,15 @@ Here are some useful commands for easy copy/pasting:
 * Running Jekyll locally:  `bundle exec jekyll serve`
 * Seeing Jekyll page locally:  <http://localhost:4000>
 * Jekyll TeXt theme documentation:  <https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start>
+
+#### Steps for Comfort
+
+##### Getting the webserver running
+
+* Go to the Terminal application on your Mac.
+* Go to the GitHub folder:  `cd iaifi.github.io`
+* Get the latest version: `git pull`
+* Run the webserver: `bundle exec jekyll serve`
+* Go to the local website: <http://localhost:4000>
+
+
