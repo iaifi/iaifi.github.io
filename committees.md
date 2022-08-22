@@ -23,8 +23,8 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Seeking additional members
 * Develops educational materials for use in outreach activities, such as classroom visits, and brainstorms opportunities for outreach (including festivals, museum exhibits, etc)
 * Time Commitment: One-hour meeting every 3-4 weeks and time spent developing materials (on volunteer basis)
-* 2022 Public Engagement Committee: Brent Nelson (Chair), Harold Erbin, Tri Nguyen, Jeffrey Lazar, Ge Yang
-* Primary Contact: [Email Brent Nelson](mailto:b.nelson@northeastern.edu)
+* 2022 Public Engagement Committee: Lina Necib (Chair), Brent Nelson, Harold Erbin, Jeffrey Lazar, Tri Nguyen, Sangeon Park, Ge Yang
+* Primary Contact: [Email Lina Necib](mailto:lnecib@mit.edu)
 
 # Community Building Committee
 * Status: Accepting additional members
