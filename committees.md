@@ -3,39 +3,41 @@ layout: article
 title: IAIFI Committees
 ---
 
-IAIFI is establishing committees that include a mix of faculty, postdocs, and students to plan and coordinate primary IAIFI activities. Current IAIFI Committees and their details are are listed below. If you are interested in joining any of the committees below, [email iaifi@mit.edu](mailto:iaifi@mit.edu).
+IAIFI is establishing committees that include a mix of faculty, postdocs, and students to plan and coordinate primary IAIFI activities. Current IAIFI Committees and their details are listed below. If you are interested in joining any of the committees below, [email iaifi@mit.edu](mailto:iaifi@mit.edu).
 
 # Computing Committee 
-* Status: New committee, actively seeking members
-* Oversees the management of IAIFI computing resources, explores additional computing solutions, and identifies opportunities for training in the utilization of computing resources and tools
+* Status: Seeking additional members
+* Coordinates the purchase and management of IAIFI computing hardware and identifies and establishes additional computing solutions, as well as facilitates the utilization of computing resources and tools
 * Time commitment: One meeting per month, with some input or information gathering needed between meetings
+* 2022 Computing Committee: Will Detmold (Chair), Siddharth Mishra-Sharma, Andrew Saydjari,
 * Primary Contact: [Email Will Detmold (Chair)](mailto:wdetmold@mit.edu)
 
 # Industry Partnership Committee
-* Status: New committee, actively seeking members
-* Develops and disseminates information to help IAIFI members understand job/internships in industry and brainstorms opportunities for connecting with industry and developing partnerships
+* Status: Accepting additional members
+* Establishes and fosters connections with industry partners for mutual benefit through internships, workforce development and recruitment, resource sharing, collaboration, and funding; as well as provides resources and guidance to IAIFI members for career development and exploration.
 * Time Commitment: Expected one-hour meeting per month and time spent developing materials (on volunteer basis)
+* 2022 Industry Partnership Committee: Todd Zickler (Chair), Mike Williams, Anna Golubeva, Sangeon Park, Emmanouil Theodosis, Ge Yang
 * Primary Contact: [Email Todd Zickler (Chair)](mailto:zickler@seas.harvard.edu)
 
 # Public Engagement Committee
 * Status: Seeking additional members
 * Develops educational materials for use in outreach activities, such as classroom visits, and brainstorms opportunities for outreach (including festivals, museum exhibits, etc)
 * Time Commitment: One-hour meeting every 3-4 weeks and time spent developing materials (on volunteer basis)
-* 2022 Outreach Committee: Brent Nelson (Chair), Harold Erbin, Tri Nguyen
+* 2022 Public Engagement Committee: Brent Nelson (Chair), Harold Erbin, Tri Nguyen, Jeffrey Lazar, Ge Yang
 * Primary Contact: [Email Brent Nelson](mailto:b.nelson@northeastern.edu)
 
 # Community Building Committee
 * Status: Accepting additional members
 * Brainstorms and plans community building events (such as coffee hours, social events, meet-ups, etc.)
 * Time Commitment: One-hour meeting per month and time spent helping with event setup occasionally
-* 2022 Community Building Committee: Matt Schwartz (Chair), Mike Williams, Mehmet Demirtas, Niklas Nolte, Ouail Kitouni, Sona Najafi
+* 2022 Community Building Committee: Matt Schwartz (Chair), Mike Williams, Mehmet Demirtas, Niklas Nolte, Ouail Kitouni, Sona Najafi, Omar Alterkait
 * Primary Contact: [Email Matt Schwartz](schwartz@g.harvard.edu)
 
 # Early Career and Equity Committee
 * Status: Will rotate membership in January 2023
 * [View the ECEC expectations](/images/ecec-expectations.pdf)
 * Time Commitment: One-hour meeting per month and occasional email discussion
-* 2022 ECEC: Tracy Slatyer (Chair), Edo Berger, Sean Benevedes, Mehmet Demirtas, Anindita Maiti, Rashmish Mishra, Siddharth Mishra-Sharma, Nikita Saxena
+* 2022 ECEC: Tracy Slatyer (Chair), Edo Berger, Sean Benevedes, Mehmet Demirtas, Anindita Maiti, Rashmish Mishra, Siddharth Mishra-Sharma
 * Primary Contact: [Email Tracy Slatyer](mailto:tslatyer@mit.edu) 
 
 # Speaker Selection Committee
