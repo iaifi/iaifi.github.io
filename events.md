@@ -35,13 +35,32 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 
 ## Upcoming IAIFI Public Colloquia 
 
-The IAIFI Colloquium series will return in Fall 2022. Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on future events.
+Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events.
 
 You can [watch our colloquia live and view recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
+<img class="image" src="images/small-photo-lucy-colwell.jpg" align="right" style="max-width:250px;width:7%" hspace="10" vspace="10"/>
+* **[Lucy Colwell](https://www.ch.cam.ac.uk/person/ljc37), Associate Professor, Cambridge University** 
+    * **Friday, September 16, 2022, 2:00-3:00pm** 
+    * *Details to come*
+
+&nbsp;
+
+<img class="image" src="images/small-photo-daniel-goldman.jpg" align="right" style="max-width:299px;width:10%" hspace="10" vspace="10"/>
+* **[Daniel Goldman](https://physics.gatech.edu/user/daniel-goldman), Professor, Georgia Tech** 
+    * **Friday, October 14, 2022, 2:00-3:00pm** 
+    * *Details to come*
+
+&nbsp;
+
+<img class="image" src="images/small-photo-anima-anandkumar.jpg" align="right" style="max-width:226px;width:10%" hspace="10" vspace="10"/>
+* **[Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/), Professor, Caltech; Director of ML, NVIDIA** 
+    * **Friday, October 21, 2022, 2:00-3:00pm** 
+    * *Details to come*
+
 ## Past Colloquia
 ### Spring 2022
-<img class="image" src="images/small-photo-kyle-cranmer.jpg" align="right" style="max-width:250px;width:2s0%" hspace="20" vspace="20"/>
+<img class="image" src="images/small-photo-kyle-cranmer.jpg" align="right" style="max-width:250px;width:20%" hspace="20" vspace="20"/>
 * **[Kyle Cranmer](https://www.cs.wisc.edu/staff/cranmer-kyle/), Professor of Physics and Data Science New York University; Visiting Scientist at Meta AI** 
     * **Friday, February 18, 2022, 2:00-3:00pm** 
     * *"Vignettes in physics-inspired AI research"*

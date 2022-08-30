@@ -42,18 +42,59 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 ## Upcoming Internal Discussion Seminars
 These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
 
-The Spring 2022 Internal Discussion Seminar series is complete. The IAIFI Discussion Seminar series will continue in Fall 2022. 
+* **Jessie Micallef, IAIFI Fellow**
+    * **Friday, September 30, 2022 2:00-3:00pm** 
+    * *Details to come*
+
+* **Abiy Tasissa, Professor, Tufts**
+    * **Friday, October 28, 2022 2:00-3:00pm** 
+    * *Details to come*
+
+* **Aleksander Madry, Professor, MIT**
+    * **Friday, December 16, 2022 2:00-3:00pm** 
+    * *Details to come*
 
 ## Upcoming Journal Clubs
 The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi@mit.edu](mailto:iaifi@mit.edu) if you have trouble logging in).
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-The IAIFI Journal Club will continue in September 2022.
+* **Anindita Maiti, Grad Student, Northeastern**
+  * **September 13, 2022, 11:00am-12:00pm**
+  * *Details to come*
+
+* **Iris Cong, Grad Student, Harvard**
+  * **September 27, 2022, 11:00am-12:00pm**
+  * *Details to come*
+
+* **Adriana Dropulic, Grad Student, Princeton**
+  * **October 4, 2022, 11:00am-12:00pm**
+  * *Details to come*
+
+* **Kim Nicoli, Grad Student, Technical University of Berlin**
+  * **October 18, 2022, 11:00am-12:00pm**
+  * *Details to come*
+
+* **Sona Najafi, Researcher, IBM**
+  * **October 25, 2022, 11:00am-12:00pm**
+  * *Details to come*
 
 ## Other Upcoming Internal Events
 Internal events are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
 
+For Fall 2022, IAIFI will hold regular lightning talk sessions for IAIFI members to share their research along specific themes. 
+
+* Lightning Talk Session I 
+* **September 23, 2022, 11:00am-12:00pm**
+* *Theme details to come*
+
+* Lightning Talk Session II 
+* **November 18, 2022, 11:00am-12:00pm**
+* *Theme details to come*
+
+* Lightning Talk Session II 
+* **December 16, 2022, 11:00am-12:00pm**
+* *Theme details to come*
 
 ## Past Seminars
 

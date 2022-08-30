@@ -24,10 +24,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Registration for IAIFI Workshop (August 8-9, 2022) is now closed; Registration closed for IAIFI Summer School (August 1-5, 2022).***  The IAIFI Summer School and Workshop will be held at Tufts University. **[Learn more about the Summer School and Workshop](https://iaifi.org/phd-summer-school.html)**!
-{:.success}
-
-***IAIFI Colloquium Series will return in Fall 2022.***  Our biweekly [virtual colloquium series](events.html) for Spring 2022 has concluded. Catch up on the talks you missed on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbd6ZhDB6Yhg2tB_jnXrxuJ) and [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on upcoming series.
+***IAIFI Colloquium Series will return on September 16, 2022 at 2:00 pm ET.***  Our [virtual colloquium series](events.html) for Fall 2022 will kick off on September 16, 2022 with Lucy Colwell (Associate Professor, University of Cambridge) at 2:00 pm ET. All colloquia will be streamed live and available to view later on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbd6ZhDB6Yhg2tB_jnXrxuJ).
 {:.success}
 
 ### IAIFI News
