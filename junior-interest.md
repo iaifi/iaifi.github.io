@@ -59,7 +59,7 @@ For junior researchers interested in getting involved as a **Junior Investigator
 <br>
 <label>
 <b>How did you hear about IAIFI?</b> </label> <br> 
-<select name="level" id="timely" required>
+<select name="source" id="timely" required>
   <option value="Choose" selected="" disabled="">Choose</option>
   <option value="SI or Affiliate">IAIFI Senior Investigator or Affiliate</option>
   <option value="Junior member">Junior member of IAIFI</option>
