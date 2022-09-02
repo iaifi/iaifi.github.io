@@ -24,6 +24,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
+***IAIFI Open House on September 9, 2022*** We will host an IAIFI Open House on Friday, September 9, 2022 from 2:00–4:00 pm ET in the IAIFI Penthouse (MIT Building 26, 6th floor). Local Boston-area researchers interested in learning more about IAIFI are invited to attend. [RSVP for more information](https://docs.google.com/forms/d/e/1FAIpQLSeelY4S0-JxELVW_M87m2UkzIDq9SnqrO4L69wK3ZvgB850RA/viewform).
+{:.success}
+
 ***IAIFI Colloquium Series will return on September 16, 2022 at 2:00 pm ET.***  Our [virtual colloquium series](events.html) for Fall 2022 will kick off on September 16, 2022 with Lucy Colwell (Associate Professor, University of Cambridge) at 2:00 pm ET. All colloquia will be streamed live and available to view later on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbd6ZhDB6Yhg2tB_jnXrxuJ).
 {:.success}
 
