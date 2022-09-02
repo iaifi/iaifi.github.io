@@ -51,14 +51,20 @@ Other organizations that hold public events relevant to the IAIFI community:
 
 Upcoming workshops involving members of the IAIFI community:
 
-  * [Interplay of Fundamental Physics and Machine Learning, Aspen Center for Physics, May 29-June 19, 2022](https://www.aspenphys.org/physicists/summer/program/currentworkshops.html)
-      * IAIFI co-organizer: Jesse Thaler
-  * [A Deep-Learning Era of Particle Theory, Mainz Institute for Theoretical Physics, June 13, 2022 – July 8, 2022](https://indico.mitp.uni-mainz.de/event/254/)
-      * IAIFI co-organizer: Jim Halverson
   * [Machine Learning at GGI - Galileo Galilei Institute, August 22-September 30, 2022](https://www.ggi.infn.it/showevent.pl?id=414)
-      * IAIFI co-organizer: Jesse Thaler
+      * IAIFI involvement: Jesse Thaler (Co-Organizer)
+  * [ML4Jets 2022 - Rutgers University, November 1–4, 2022](https://indico.cern.ch/event/1159913/)
+      * IAIFI involvement: Jesse Thaler (International Advisory Committee)
+  * [Fast Machine Learning for Science Workshop 2022 - Southern Methodist University, October 3–6, 2022](https://indico.cern.ch/event/1156222/)
+      * IAIFI involvement: Phil Harris (Scientific Committee)
+  * [Machine Learning and the Physical Sciences Workshop - NeurIPS 2022, December 3, 2022](https://ml4physicalsciences.github.io/2022/)
+      * IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer)
 
 ## Past Related Workshops
 Past workshops involving members of the IAIFI community:
 
   * [AI4EIC-Exp: Experimental Applications of Artificial Intelligence for the Electron Ion Collider, September 7-10, 2021 (online)](https://indico.bnl.gov/event/10699/)
+  * [Interplay of Fundamental Physics and Machine Learning, Aspen Center for Physics, May 29-June 19, 2022](https://www.aspenphys.org/physicists/summer/program/currentworkshops.html)
+      * IAIFI co-organizer: Jesse Thaler
+  * [A Deep-Learning Era of Particle Theory, Mainz Institute for Theoretical Physics, June 13, 2022 – July 8, 2022](https://indico.mitp.uni-mainz.de/event/254/)
+      * IAIFI co-organizer: Jim Halverson
