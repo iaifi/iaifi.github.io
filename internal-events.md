@@ -51,7 +51,7 @@ These talks are only open to IAIFI members and affiliates. Access to the Zoom in
     * *Details to come*
 
 * **Aleksander Madry, Professor, MIT**
-    * **Friday, December 16, 2022 2:00-3:00pm** 
+    * **Friday, December 9, 2022 2:00-3:00pm** 
     * *Details to come*
 
 ## Upcoming Journal Clubs
@@ -61,6 +61,10 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 * **Anindita Maiti, Grad Student, Northeastern**
   * **September 13, 2022, 11:00am-12:00pm**
+  * *Details to come*
+
+* **Miles Cranmer, Grad Student, Princeton**
+  * **September 20, 2022, 11:00am–12:00pm**
   * *Details to come*
 
 * **Iris Cong, Grad Student, Harvard**
