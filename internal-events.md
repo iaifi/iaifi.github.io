@@ -89,16 +89,20 @@ Internal events are only open to IAIFI members and affiliates. Access to the Zoo
 For Fall 2022, IAIFI will hold regular lightning talk sessions for IAIFI members to share their research along specific themes. 
 
 * Lightning Talk Session I 
-* **September 23, 2022, 11:00am-12:00pm**
-* *Theme details to come*
+    * **September 23, 2022, 2:00pm-3:00pm**
+    * *Theme details to come*
+
+* Special Seminar: David Stork
+    * **September 23, 2022, 3:00pm–4:00pm** (following lightning talks)
+    * *When computers look at art*
 
 * Lightning Talk Session II 
-* **November 18, 2022, 11:00am-12:00pm**
-* *Theme details to come*
+    * **November 18, 2022, 2:00pm-3:00pm**
+    * *Theme details to come*
 
 * Lightning Talk Session II 
-* **December 16, 2022, 11:00am-12:00pm**
-* *Theme details to come*
+    * **December 16, 2022, 2:00pm-3:00pm**
+    * *Theme details to come*
 
 ## Past Seminars
 
