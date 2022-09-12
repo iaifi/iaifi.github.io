@@ -39,10 +39,11 @@ Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/ia
 
 You can [watch our colloquia live and view recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
-<img class="image" src="images/small-photo-lucy-colwell.jpg" align="right" style="max-width:250px;width:7%" hspace="10" vspace="10"/>
+<img class="image" src="images/small-photo-lucy-colwell.jpg" align="right" style="max-width:250px;width:20%" hspace="10" vspace="10"/>
 * **[Lucy Colwell](https://www.ch.cam.ac.uk/person/ljc37), Associate Professor, Cambridge University** 
     * **Friday, September 16, 2022, 2:00-3:00pm** 
-    * *Details to come*
+    * *Data driven ML models that predict protein function from sequence*
+    * Abstract: The ability to predict protein function directly from sequence is a central challenge that will enable the discovery of new proteins with specific functional properties. The evolutionary trajectory of a protein through sequence space is constrained by its functional requirements, and the explosive growth of evolutionary sequence data allows the natural variation present in homologous sequences to be used to infer these constraints and accurately predict protein function. However, state-of-the-art alignment-based techniques cannot predict function for one-third of microbial protein sequences, hampering our ability to exploit data from diverse organisms. I will present ML models that accurately predict the presence and location of functional domains within protein sequences. These models have recently added hundreds of millions of annotations to public databases that could not be made using existing approaches. A key advance is the ability for models to extrapolate and thus to be able to accurately predict functional annotations that were not seen during model training. To address this challenge we draw inspiration from recent advances in natural language processing to train models that translate between amino acid sequences and functional descriptions. Finally I will illustrate the potential of active learning to discover new sequences through the design and experimental validation of proteins and peptides for therapeutic applications.
 
 &nbsp;
 
