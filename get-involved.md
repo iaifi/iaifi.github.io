@@ -61,42 +61,51 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 
 IAIFI does not have dedicated faculty opportunities, but there are often open faculty positions in IAIFI-affiliated universities.
 
-
+<!---
 <img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 ### MIT Center for Theoretical Physics
 
+
 * [Junior faculty openings in the MIT CTP](http://academicjobsonline.org/ajo/mit/ctp/)
-* Deadline: Applications currently closed.
+* Deadline: N/A
+--->
 
-
+<!---
 <img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 ### MIT Physics Division of Experimental Particle and Nuclear Physics
 
 * [Junior faculty openings in MIT Physics NUPAX](https://academicjobsonline.org/ajo/jobs/19978)
 * Deadline: Applications currently closed.
-
-
+--->
 
 <img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 ### MIT Department of Electrical Engineering and Computer Science (EECS)
 
-* [Junior faculty openings in MIT EECS](https://www.eecs.mit.edu/career-opportunities/eecs-faculty-positions-2022)
-* Deadline: Applications currently closed.
+* [Junior faculty openings in MIT EECS](https://faculty-searches.mit.edu/eecs/)
+* Deadline: December 1, 2022
 
 <img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
+### Harvard University Department of Physics
+* [Tenure-track Professor in Physics](https://www.physics.harvard.edu/jobs)
+* Deadline: November 15, 2022 or until position is filled
+
+<!---
 ### Harvard University School of Engineering and Applied Sciences (SEAS)
 * [Tenure-track faculty openings in Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/office-faculty-affairs/open-academic-positions?job_type%5Btenure%5D=tenure&sort_by=search_api_relevance)
 * Deadline: Applications currently closed.
+--->
 
+<!---
 <img class="image image--sm" src="images/tufts_logo.png" align="right" hspace="10" vspace="10"/>
 ### Tufts University Department of Computer Science
 * [Assistant or Associate Professor in AI opening at Tufts University Department of Computer Science](https://apply.interfolio.com/92330)
 * Deadline: Applications currently closed.
+--->
 
 <img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
 ### Northeastern University Khoury College of Computer Sciences
-* [Tenure-track faculty openings in Computer Science across topics](https://careersmanager.pageuppeople.com/879/ci/en-us/job/507937/assistantassociatefull-professor), including all areas of robotics, AI, and ML.
-* Deadline: December 1, 2021 (or until search is complete)
+* [Teaching Professor openings in Computer Science](https://northeastern.wd1.myworkdayjobs.com/en-US/careers/details/Assistant-Teaching-Professor-Associate-Teaching-Professor-Full-Teaching-Professor---Boston_R108315)
+* Deadline: December 1, 2022 (or until search is complete)
 
 ## Prospective Postdocs
 
@@ -108,7 +117,7 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 
 
 * [Apply to be an IAIFI Fellow](fellows.html)
-* Deadline:  Mid-September to start the following academic year
+* Deadline:  October 11, 2022 to start September 2023
 * Three-year appointment to spark interdisciplinary, multi-investigator, multi-subfield collaborations
 * Applicants should have (or be expected to receive by September 1 of the starting year), a PhD in Physics, Statistics, Computer Science, or a related field
 
@@ -117,47 +126,66 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 
 <img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 #### MIT
+
+<!---
 * [Postdoc openings in the MIT Kavli Institute for Astrophysics and Space Research](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=22645&localeCode=en-us)
     * Deadline: Applications currently closed.
+--->
 
+<!---
 * [MEnTorEd Opportunities in Research (METEOR) Fellowship in MIT CSAIL](https://postdoc.csail.mit.edu/searches/meteor-search/)
     * Deadline: Applications currently closed.
+--->
 
 * [Postdoc openings in the MIT Center for Theoretical Physics](http://academicjobsonline.org/ajo/mit/ctp/)
-    * Deadline: Applications currently closed.
+    * Deadline: November 15, 2022
 
 <img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
 #### Harvard University
+
+<!---
 * [High Energy Theory Physics Postdoc openings at Harvard](https://academicjobsonline.org/ajo/jobs/20235)
     * Deadline: Applications currently closed.
+--->
 
 * [Postdoc opportunities in ML Theory Group at Harvard](https://mltheory.org/#opportunities)
-    * Deadlines vary for Fall 2022 appointments
+    * Deadlines vary
 
 * [Institute for Theory and Computation (ITC) Postdoc openings at the Harvard-Smithsonian Center for Astrophysics](https://pweb.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/itc-fellowship)
-    * Deadline: Applications currently closed.
+    * Deadline: November 14, 2022
 
 * [Postdoctoral Fellowship opportunities in Harvard Data Science Initiative](https://datascience.harvard.edu/data-science-postdoctoral-fellows)
-    * Deadline: Applications currently closed.
+    * Deadline: November 14, 2022
 
 * [Center for Astrophysics Postdoc openings at Harvard](https://www.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/cfa-fellowship)
-    * Deadline: Applications closed for academic year 2022; updated deadline for academic year 2023 TBA
+    * Deadline: October 28, 2022
 
+<!---
 <img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
 #### Northeastern University
+
+
 * [Theoretical Particle Physics openings at Northeastern](https://academicjobsonline.org/ajo/jobs/20224)
     * Deadline: Applications currently closed.
 
 * [Khoury College of Computer Sciences Research Fellowship](https://www.khoury.northeastern.edu/research/fellowship/)
     * Deadline: Applications currently closed.
+--->
 
-
-#### NSF MPS-Ascend Fellowship
+#### NSF Mathematical Sciences Postdoctoral Research Fellowship
 <img class="image image--sm" src="images/nsf_logo.png" align="right" hspace="10" vspace="10"/>
+* [Apply for a Mathematical Sciences Postdoctoral Research Fellowship (MSPRF)](https://www.nsf.gov/pubs/2022/nsf22619/nsf22619.htm?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery)
+* Awarded to an individual, not institution
+* Candidates need a sponsoring scientist and host institution, so if you are interested in applying to work with IAIFI, ask an [IAIFI Senior Investigator](people.html#senior-investigators) to sponsor you or contact [IAIFI Management](mailto:iaifi-management@mit.edu) for help identifying a sponsor
+* Deadline: October 19, 2022
+
+<!---
+### MPS-Ascend Fellowship
 * [Apply for a Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship](https://www.nsf.gov/pubs/2022/nsf22501/nsf22501.pdf?WT.mc_id=USNSF_34&WT.mc_ev=click)
 * Awarded to an individual, not institution
 * Candidates need a sponsoring scientist and host institution, so if you are interested in applying to work with IAIFI, ask an [IAIFI Senior Investigator](people.html#senior-investigators) to sponsor you or contact [IAIFI Management](mailto:iaifi-management@mit.edu) for help identifying a sponsor
 * Applications currently closed.
+--->
 
 ## Prospective Graduate Students
 
