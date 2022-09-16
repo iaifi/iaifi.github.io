@@ -132,10 +132,8 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
     * Deadline: Applications currently closed.
 --->
 
-<!---
-* [MEnTorEd Opportunities in Research (METEOR) Fellowship in MIT CSAIL](https://postdoc.csail.mit.edu/searches/meteor-search/)
-    * Deadline: Applications currently closed.
---->
+* [MEnTorEd Opportunities in Research (METEOR) Fellowship in MIT CSAIL](https://www.csail.mit.edu/meteor)
+    * Deadline: February 1, 2023 (applications open November 15, 2022
 
 * [Postdoc openings in the MIT Center for Theoretical Physics](http://academicjobsonline.org/ajo/mit/ctp/)
     * Deadline: November 15, 2022
@@ -157,8 +155,11 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * [Postdoctoral Fellowship opportunities in Harvard Data Science Initiative](https://datascience.harvard.edu/data-science-postdoctoral-fellows)
     * Deadline: November 14, 2022
 
-* [Center for Astrophysics Postdoc openings at Harvard](https://www.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/cfa-fellowship)
+* [Center for Astrophysics Fellowship at Harvard](https://www.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/cfa-fellowship)
     * Deadline: October 28, 2022
+
+* [Postdoc opportunities in Time-Domain Astrophysics, Center for Astrophysics at Harvard](https://jobregister.aas.org/ad/157a4609)
+    * Deadline: December 1, 2022
 
 <!---
 <img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
