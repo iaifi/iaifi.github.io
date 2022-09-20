@@ -40,11 +40,12 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 [Click here to add this calendar to a different calendar application](https://calendar.google.com/calendar/ical/p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com/public/basic.ics)
 
 ## Upcoming Internal Discussion Seminars
-These talks are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
+Unless otherwise noted, discussion seminars will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://www.google.com/url?q=https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC). 
 
 * **Jessie Micallef, IAIFI Fellow**
     * **Friday, September 30, 2022 2:00-3:00pm** 
-    * *Details to come*
+    * *Neutrinos and Neural Networks: Need for Speed and Adaptability*
+    * Abstract: Neutrinos remain an elusive and intriguing fundamental particle that is useful for probing inconsistencies of the Standard Model: neutrinos have mass when the Standard Model predicts they should not, they potentially exhibit charge parity violation, and there are possible hints of a fourth, sterile neutrino flavor. Data from neutrino detectors is particularly valuable due to the neutrinos’ weakly interacting nature, thus it is crucial that we maximize the information per detected interaction. In this talk, I will show how we are using machine learning to better analyze the precious data from various types of neutrino detectors. I will discuss optimizing convolutional neural networks (CNNs) to reconstruct GeV-scale neutrino events in the IceCube detector and how these measurements can help improve our understanding of these difficult-to-detect particles. I will focus on the challenges of reconstructing sparse, noisy neutrino events along with the speedup advantages of using machine learning methods. I will also touch on challenges that machine learning reconstructions face with the current and next generation of neutrino experiments, which will leverage Liquid Argon (LAr) detectors that use charge and light to record neutrino interactions.
 
 * **Abiy Tasissa, Professor, Tufts**
     * **Friday, October 28, 2022 2:00-3:00pm** 
@@ -59,13 +60,11 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Anindita Maiti, Grad Student, Northeastern**
-  * **September 13, 2022, 11:00am-12:00pm**
-  * *A Study of Neural Network Field Theories*
-
 * **Miles Cranmer, Grad Student, Princeton**
   * **September 20, 2022, 11:00am–12:00pm**
-  * *Details to come*
+  * *Interpretable Machine Learning for Physics*
+  * Abstract: Would Kepler have discovered his laws if machine learning had been around in 1609? Or would he have been satisfied with the accuracy of some black box regression model, leaving Newton without the inspiration to find the law of gravitation? In this talk I will present a review of some industry-oriented machine learning algorithms, and discuss a major issue facing their use in the natural sciences: a lack of interpretability. I will then outline several approaches I have created with collaborators to help address these problems, based largely on a mix of structured deep learning and symbolic methods. This will include an introduction to the PySR software (https://astroautomata.com/PySR), a Python/Julia package for high-performance symbolic regression. I will conclude by demonstrating applications of such techniques and how we may gain new insights from such results.
+  * Resources: [https://arxiv.org/abs/2207.12409](https://arxiv.org/abs/2207.12409); [https://arxiv.org/abs/2202.02306](https://arxiv.org/abs/2202.02306); [https://arxiv.org/abs/2006.11287](https://arxiv.org/abs/2006.11287)
 
 * **Iris Cong, Grad Student, Harvard**
   * **September 27, 2022, 11:00am-12:00pm**
@@ -196,6 +195,14 @@ The talk will not require background in deep learning. Based on joint works with
     * *"Machine Learning for Cosmic Explosions"*
 
 ## Past Journal Clubs
+
+### Fall 2022
+
+* **Anindita Maiti, Grad Student, Northeastern**
+  * **September 13, 2022, 11:00am-12:00pm**
+  * *A Study of Neural Network Field Theories*
+  * Abstract: I will present a systematic exploration of field theories arising in Neural Networks, using a dual framework given by Neural Network parameters. The infinite width limit of NN architectures, combined with i.i.d. parameters, lead to Gaussian Processes in Neural Networks by the Central Limit Theorem (CLT), corresponding to generalized free field theories. Small and large violations of the CLT respectively lead to weakly coupled and non-perturbative non-Lagrangian field theories in Neural Networks. Non-Gaussianity, locality (via cluster decomposition), and symmetries of Neural Network field theories are examined via NN parameter space, without necessitating the knowledge of field theoretic actions. Thus, Neural Network field theories, in conjunction to this duality via parameters, may have potential implications for Physics and Machine Learning both.
+  * Resources: [https://arxiv.org/abs/2106.00694](https://arxiv.org/abs/2106.00694)
 
 ### Spring 2022
 * **Jessie Micallef, PhD Student, Michigan State University & Incoming IAIFI Fellow**
