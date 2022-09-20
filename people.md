@@ -4,13 +4,17 @@ title: People
 ---
 
 
-The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, Northeastern, and Tufts. 
+The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, Northeastern, and Tufts.
 
 {% for category in site.data.categories.categories  %}
 
   * [{{category.name}}](#{{category.anchor}})
 
 {% endfor %}
+
+[Download senior researcher info sheet](images/IAIFI_Senior-Info_2022.pdf)
+
+[Download junior researcher info sheet](images/IAIFI_Junior-Info_2022.pdf) 
 
 We are currently accepting applications from senior researchers in both academia and industry to become IAIFI Affiliates.  If this interests you, see our [IAIFI Affiliates Application Form](/affiliates.html).
 
