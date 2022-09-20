@@ -138,6 +138,9 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * [Postdoc openings in the MIT Center for Theoretical Physics](http://academicjobsonline.org/ajo/mit/ctp/)
     * Deadline: November 15, 2022
 
+* [Pappalardo Fellowship](https://physics.mit.edu/research/pappalardo-fellowships-in-physics/competition/)
+    * Deadline: Nominations currently closed. 
+
 <img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
 #### Harvard University
 
