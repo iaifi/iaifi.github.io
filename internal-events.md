@@ -49,7 +49,8 @@ Unless otherwise noted, discussion seminars will be held in person (MIT Kolker R
 
 * **Abiy Tasissa, Professor, Tufts**
     * **Friday, October 28, 2022 2:00-3:00pm** 
-    * *Details to come*
+    * *Geometric sparse coding with learned archetypes: Theory and applications*
+    * Abstract to come
 
 * **Aleksander Madry, Professor, MIT**
     * **Friday, December 9, 2022 2:00-3:00pm** 
@@ -59,12 +60,6 @@ Unless otherwise noted, discussion seminars will be held in person (MIT Kolker R
 The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi@mit.edu](mailto:iaifi@mit.edu) if you have trouble logging in).
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
-
-* **Miles Cranmer, Grad Student, Princeton**
-  * **September 20, 2022, 11:00am–12:00pm**
-  * *Interpretable Machine Learning for Physics*
-  * Abstract: Would Kepler have discovered his laws if machine learning had been around in 1609? Or would he have been satisfied with the accuracy of some black box regression model, leaving Newton without the inspiration to find the law of gravitation? In this talk I will present a review of some industry-oriented machine learning algorithms, and discuss a major issue facing their use in the natural sciences: a lack of interpretability. I will then outline several approaches I have created with collaborators to help address these problems, based largely on a mix of structured deep learning and symbolic methods. This will include an introduction to the PySR software (https://astroautomata.com/PySR), a Python/Julia package for high-performance symbolic regression. I will conclude by demonstrating applications of such techniques and how we may gain new insights from such results.
-  * Resources: [https://arxiv.org/abs/2207.12409](https://arxiv.org/abs/2207.12409); [https://arxiv.org/abs/2202.02306](https://arxiv.org/abs/2202.02306); [https://arxiv.org/abs/2006.11287](https://arxiv.org/abs/2006.11287)
 
 * **Iris Cong, Grad Student, Harvard**
   * **September 27, 2022, 11:00am-12:00pm**
@@ -89,7 +84,9 @@ For Fall 2022, IAIFI will hold regular lightning talk sessions for IAIFI members
 
 * Lightning Talk Session I 
     * **September 23, 2022, 2:00pm-3:00pm**
-    * *Theme details to come*
+    * Andrew Saydjari (Grad Student, Harvard), "Marginalized Data-space Gaussian Inference for Component Separation (MaDGICS): An Application to Stellar Spectra"
+    * Harold Erbin (Postdoc, MIT), "Neural networks for string field theory"
+    * Zev Imani (Grad Student, Tufts), "Score-Based Generative Modeling"
 
 * Special Seminar: David Stork
     * **September 23, 2022, 3:00pm–4:00pm** (following lightning talks)
@@ -197,6 +194,12 @@ The talk will not require background in deep learning. Based on joint works with
 ## Past Journal Clubs
 
 ### Fall 2022
+
+* **Miles Cranmer, Grad Student, Princeton**
+  * **September 20, 2022, 11:00am–12:00pm**
+  * *Interpretable Machine Learning for Physics*
+  * Abstract: Would Kepler have discovered his laws if machine learning had been around in 1609? Or would he have been satisfied with the accuracy of some black box regression model, leaving Newton without the inspiration to find the law of gravitation? In this talk I will present a review of some industry-oriented machine learning algorithms, and discuss a major issue facing their use in the natural sciences: a lack of interpretability. I will then outline several approaches I have created with collaborators to help address these problems, based largely on a mix of structured deep learning and symbolic methods. This will include an introduction to the PySR software (https://astroautomata.com/PySR), a Python/Julia package for high-performance symbolic regression. I will conclude by demonstrating applications of such techniques and how we may gain new insights from such results.
+  * Resources: [https://arxiv.org/abs/2207.12409](https://arxiv.org/abs/2207.12409); [https://arxiv.org/abs/2202.02306](https://arxiv.org/abs/2202.02306); [https://arxiv.org/abs/2006.11287](https://arxiv.org/abs/2006.11287)
 
 * **Anindita Maiti, Grad Student, Northeastern**
   * **September 13, 2022, 11:00am-12:00pm**
