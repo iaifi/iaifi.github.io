@@ -138,6 +138,9 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * [Postdoc openings in the MIT Center for Theoretical Physics](http://academicjobsonline.org/ajo/mit/ctp/)
     * Deadline: November 15, 2022
 
+* [Postdoc opening in the Laboratory for Nuclear Science (CERN LHCb experiment)](https://inspirehep.net/jobs/2154541)
+    * Deadline: October 30, 2022
+
 * [Pappalardo Fellowship](https://physics.mit.edu/research/pappalardo-fellowships-in-physics/competition/)
     * Deadline: Nominations currently closed. 
 
