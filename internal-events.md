@@ -63,7 +63,9 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 * **Iris Cong, Grad Student, Harvard**
   * **September 27, 2022, 11:00am-12:00pm**
-  * *Details to come*
+  * *Quantum Convolutional Neural Networks*
+  * Abstract: Convolutional neural networks (CNNs) have recently proven successful for many complex applications ranging from image recognition to precision medicine. In the first part of my talk, motivated by recent advances in realizing quantum information processors, I introduce and analyze a quantum circuit-based algorithm inspired by CNNs. Our quantum convolutional neural network (QCNN) uses only O(log(N)) variational parameters for input sizes of N qubits, allowing for its efficient training and implementation on realistic, near-term quantum devices. To explicitly illustrate its capabilities, I show that QCNN can accurately recognize quantum states associated with a one-dimensional symmetry-protected topological phase, with performance surpassing existing approaches. I further demonstrate that QCNN can be used to devise a quantum error correction (QEC) scheme optimized for a given, unknown error model that substantially outperforms known quantum codes of comparable complexity. The design of such error correction codes is particularly important for near-term experiments, whose error models may be different from those addressed by general-purpose QEC schemes. 
+If time permits, I will also present our latest results on generalizing the QCNN framework to more accurately and efficiently identify two-dimensional topological phases of matter.
 
 * **Adriana Dropulic, Grad Student, Princeton**
   * **October 4, 2022, 11:00am-12:00pm**
