@@ -61,12 +61,6 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Iris Cong, Grad Student, Harvard**
-  * **September 27, 2022, 11:00am-12:00pm**
-  * *Quantum Convolutional Neural Networks*
-  * Abstract: Convolutional neural networks (CNNs) have recently proven successful for many complex applications ranging from image recognition to precision medicine. In the first part of my talk, motivated by recent advances in realizing quantum information processors, I introduce and analyze a quantum circuit-based algorithm inspired by CNNs. Our quantum convolutional neural network (QCNN) uses only O(log(N)) variational parameters for input sizes of N qubits, allowing for its efficient training and implementation on realistic, near-term quantum devices. To explicitly illustrate its capabilities, I show that QCNN can accurately recognize quantum states associated with a one-dimensional symmetry-protected topological phase, with performance surpassing existing approaches. I further demonstrate that QCNN can be used to devise a quantum error correction (QEC) scheme optimized for a given, unknown error model that substantially outperforms known quantum codes of comparable complexity. The design of such error correction codes is particularly important for near-term experiments, whose error models may be different from those addressed by general-purpose QEC schemes. 
-If time permits, I will also present our latest results on generalizing the QCNN framework to more accurately and efficiently identify two-dimensional topological phases of matter.
-
 * **Adriana Dropulic, Grad Student, Princeton**
   * **October 4, 2022, 11:00am-12:00pm**
   * *Details to come*
@@ -93,6 +87,15 @@ For Fall 2022, IAIFI will hold regular lightning talk sessions for IAIFI members
 * Special Seminar: David Stork
     * **September 23, 2022, 3:00pm–4:00pm** (following lightning talks)
     * *When computers look at art*
+
+* Industry Lunch Seminar: QuERa
+    * **October 19, 2022, 12:00pm–1:00pm** (Lunch will be served)
+    * Pedro Lopes, Fangli Liu, Shengtao Wang, Tommaso Macri
+    * QuEra Computing is shaping the future of information systems by developing advanced quantum computing hardware, software, and applications. Leveraging a scalable and flexible platform using neutral-atom qubits, our systems enable customers and partners to explore the power of quantum processors with hundreds of qubits. With a focus on utility, we emphasize modes of operation and hardware-efficient algorithms that make the most efficient use of the hardware capabilities. Our processors empower users to make scientific breakthroughs, as well as test the limits of quantum vs classical solutions for business-oriented applications
+
+Our first device operates 256 qubits in analog mode. From a scientific discovery perspective these capacities mean unparalleled opportunities to study time-dependent quantum phenomena at the limit of classical computing (and potentially beyond). Problems within range are not fully universal, but include phase transitions and quenches, lattice gauge theories, particle collisions, and more. Our computers also serve as large reservoirs of quantum complexity, which can be tapped for applications in machine learning. 
+
+With this introductory talk, we intend to open conversations with the IAIFI and local lattice gauge theory communities. We seek to stimulate interest in developing joint applications to quantum machine learning and high-energy physics.
 
 * Lightning Talk Session II 
     * **November 18, 2022, 2:00pm-3:00pm**
@@ -196,6 +199,12 @@ The talk will not require background in deep learning. Based on joint works with
 ## Past Journal Clubs
 
 ### Fall 2022
+
+* **Iris Cong, Grad Student, Harvard**
+  * **September 27, 2022, 11:00am-12:00pm**
+  * *Quantum Convolutional Neural Networks*
+  * Abstract: Convolutional neural networks (CNNs) have recently proven successful for many complex applications ranging from image recognition to precision medicine. In the first part of my talk, motivated by recent advances in realizing quantum information processors, I introduce and analyze a quantum circuit-based algorithm inspired by CNNs. Our quantum convolutional neural network (QCNN) uses only O(log(N)) variational parameters for input sizes of N qubits, allowing for its efficient training and implementation on realistic, near-term quantum devices. To explicitly illustrate its capabilities, I show that QCNN can accurately recognize quantum states associated with a one-dimensional symmetry-protected topological phase, with performance surpassing existing approaches. I further demonstrate that QCNN can be used to devise a quantum error correction (QEC) scheme optimized for a given, unknown error model that substantially outperforms known quantum codes of comparable complexity. The design of such error correction codes is particularly important for near-term experiments, whose error models may be different from those addressed by general-purpose QEC schemes. 
+If time permits, I will also present our latest results on generalizing the QCNN framework to more accurately and efficiently identify two-dimensional topological phases of matter.
 
 * **Miles Cranmer, Grad Student, Princeton**
   * **September 20, 2022, 11:00am–12:00pm**

@@ -25,7 +25,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***IAIFI Special Seminar on September 23, 2022*** We will host an IAIFI Special Seminar on Friday, September 23, 2022 from 3:00–4:00 pm ET in the LNS Kolker Room (MIT Building 26, room 414). David Stork will lead a discussion on "When computers look at art: Recent triumphs and future opportunities for computer-assisted connoisseurship of fine art paintings and drawings" [View calendar event for more information](https://calendar.google.com/event?action=TEMPLATE&tmeid=MWRhZjRncHVkYWcwZ29xYmN2ZHFpOGZrdjkgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com).
+***IAIFI at the Cambridge Science Festival!*** We will host an Open Lab as part of the [Cambridge Science Festival](https://cambridgesciencefestival.org) on Thursday, October 6, 2022 from 1:00–5:00 pm ET. This will include a galaxy zoo in the MIT Stata Center (outside room 124) and a robot demonstration in Hockfield Court (outside the MIT Stat Center). We will also have a galaxy zoo booth and a robot demonstration at the Carnival on Sunday, October 9, 2022 from 12:00–4:00 pm ET at the Kendall/MIT Open Space. [More information](cambridge-science-festival.html)
 {:.success}
 
 ***Next IAIFI Colloquium on October 14, 2022 at 2:00 pm ET.***  Our [hybrid colloquium series](events.html) for Fall 2022 will continue on October 14, 2022 with Daniel Goldman (Dunn Family Professor, Georgia Institute of Technology) at 2:00 pm ET. All colloquia will be streamed live and available to view later on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
