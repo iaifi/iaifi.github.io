@@ -6,6 +6,7 @@ title: Cambridge Science Festival
 [<img src="images/Main_CSF_Banner.png" align="center" style="max-width:2601px;width:100%" hspace="20" vspace="20">](https://cambridgesciencefestival.org)
 * [Galaxy Zoo](#galaxy-zoo) 
 * [Robot Demo](#robot-demo)
+* [Engage with IAIFI](#engage-with-iaifi)
 
 IAIFI is excited to participate in the 2022 Cambridge Science Festival with both an Open Lab on October 6, 2022 and as part of the Carnival on October 9, 2022. Both events will include a galaxy zoo and a robot demonstration. All events are free and open to the public. 
 
@@ -37,3 +38,11 @@ Recently, MIT and IAIFI researchers [made headlines with the success of this tra
 The quadruped robot demonstration is an excellent opportunity for adults and children alike to better understand the ways that machine learning and AI can be used in conjunction with the physical sciences to better understand and interact with our world (and beyond!).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/adUNxy6TNw4?start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Engage with IAIFI
+
+IAIFI is galvanizing AI innovation and advancing physics knowledge. Learn more [about IAIFI](about.html), [public events](events-calendar.html), and [research](research.html). 
+
+Additionally, we are actively looking to engage with students of all ages through events like the Cambridge Science Festival, but also through classroom visits. If you are interested in setting up a visit for your class or school, [complete this form](https://forms.gle/MQh677rcxCwhzSJq7). 
+
+[Sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news)!
