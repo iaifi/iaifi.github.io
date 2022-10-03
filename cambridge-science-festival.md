@@ -37,7 +37,12 @@ Recently, MIT and IAIFI researchers [made headlines with the success of this tra
 
 The quadruped robot demonstration is an excellent opportunity for adults and children alike to better understand the ways that machine learning and AI can be used in conjunction with the physical sciences to better understand and interact with our world (and beyond!).
 
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/adUNxy6TNw4?start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # Engage with IAIFI
 
