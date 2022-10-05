@@ -70,13 +70,13 @@ IAIFI does not have dedicated faculty opportunities, but there are often open fa
 * Deadline: N/A
 --->
 
-<!---
+
 <img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 ### MIT Physics Division of Experimental Particle and Nuclear Physics
 
-* [Junior faculty openings in MIT Physics NUPAX](https://academicjobsonline.org/ajo/jobs/19978)
-* Deadline: Applications currently closed.
---->
+* [Junior faculty openings in MIT Physics NUPAX](https://academicjobsonline.org/ajo/jobs/23062)
+* Deadline: December 1, 2022
+
 
 <img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
 ### MIT Department of Electrical Engineering and Computer Science (EECS)
