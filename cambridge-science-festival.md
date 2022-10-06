@@ -21,6 +21,13 @@ Stop by to see the NSF AI Institute for Artificial Intelligence and Fundamental 
 
 The galaxy zoo demonstration is an excellent opportunity for adults and children alike to better understand the ways that machine learning and AI can be used in conjunction with the physical sciences to better understand and interact with our world (and beyond!). And you could learn how to get involved as a citizen scientist with this exciting project!
 
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2SG8xVTh7QUY-VUEA9yPZHmRy4-pn4cY0fUuZ52dDI9qrU9s97z24cvktnH1CzR3Wbw0LJkc5wxR-/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 [Explore Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/)
 
 
