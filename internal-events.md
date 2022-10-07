@@ -42,10 +42,9 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 ## Upcoming Internal Discussion Seminars
 Unless otherwise noted, discussion seminars will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://www.google.com/url?q=https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC). 
 
-* **Jessie Micallef, IAIFI Fellow**
-    * **Friday, September 30, 2022 2:00-3:00pm** 
-    * *Neutrinos and Neural Networks: Need for Speed and Adaptability*
-    * Abstract: Neutrinos remain an elusive and intriguing fundamental particle that is useful for probing inconsistencies of the Standard Model: neutrinos have mass when the Standard Model predicts they should not, they potentially exhibit charge parity violation, and there are possible hints of a fourth, sterile neutrino flavor. Data from neutrino detectors is particularly valuable due to the neutrinos’ weakly interacting nature, thus it is crucial that we maximize the information per detected interaction. In this talk, I will show how we are using machine learning to better analyze the precious data from various types of neutrino detectors. I will discuss optimizing convolutional neural networks (CNNs) to reconstruct GeV-scale neutrino events in the IceCube detector and how these measurements can help improve our understanding of these difficult-to-detect particles. I will focus on the challenges of reconstructing sparse, noisy neutrino events along with the speedup advantages of using machine learning methods. I will also touch on challenges that machine learning reconstructions face with the current and next generation of neutrino experiments, which will leverage Liquid Argon (LAr) detectors that use charge and light to record neutrino interactions.
+* **Kaća Bradonjic, Professor, Hampshire College**
+    * **Friday, October 21, 2022, 2:00–3:00 pm**
+    * *Details to come* 
 
 * **Abiy Tasissa, Professor, Tufts**
     * **Friday, October 28, 2022 2:00-3:00pm** 
@@ -60,10 +59,6 @@ Unless otherwise noted, discussion seminars will be held in person (MIT Kolker R
 The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi@mit.edu](mailto:iaifi@mit.edu) if you have trouble logging in).
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
-
-* **Adriana Dropulic, Grad Student, Princeton**
-  * **October 4, 2022, 11:00am-12:00pm**
-  * *Details to come*
 
 * **Kim Nicoli, Grad Student, Technical University of Berlin**
   * **October 18, 2022, 11:00am-12:00pm**
@@ -102,6 +97,11 @@ For Fall 2022, IAIFI will hold regular lightning talk sessions for IAIFI members
     * *Theme details to come*
 
 ## Past Seminars
+###Fall 2022
+* **Jessie Micallef, IAIFI Fellow**
+    * **Friday, September 30, 2022 2:00-3:00pm** 
+    * *Neutrinos and Neural Networks: Need for Speed and Adaptability*
+    * Abstract: Neutrinos remain an elusive and intriguing fundamental particle that is useful for probing inconsistencies of the Standard Model: neutrinos have mass when the Standard Model predicts they should not, they potentially exhibit charge parity violation, and there are possible hints of a fourth, sterile neutrino flavor. Data from neutrino detectors is particularly valuable due to the neutrinos’ weakly interacting nature, thus it is crucial that we maximize the information per detected interaction. In this talk, I will show how we are using machine learning to better analyze the precious data from various types of neutrino detectors. I will discuss optimizing convolutional neural networks (CNNs) to reconstruct GeV-scale neutrino events in the IceCube detector and how these measurements can help improve our understanding of these difficult-to-detect particles. I will focus on the challenges of reconstructing sparse, noisy neutrino events along with the speedup advantages of using machine learning methods. I will also touch on challenges that machine learning reconstructions face with the current and next generation of neutrino experiments, which will leverage Liquid Argon (LAr) detectors that use charge and light to record neutrino interactions.
 
 ### Spring 2022
 * **Anna Golubeva, IAIFI Fellow**
@@ -195,6 +195,11 @@ The talk will not require background in deep learning. Based on joint works with
 ## Past Journal Clubs
 
 ### Fall 2022
+
+* **Adriana Dropulic, Grad Student, Princeton**
+  * **October 4, 2022, 11:00am-12:00pm**
+  * *Machine Learning the 6th Dimension: Stellar Radial Velocities from 5D Phase-Space Correlations*
+  * Abstract: The Gaia satellite will observe the positions and velocities of over a billion Milky Way stars. In the early data releases, most observed stars do not have complete 6D phase-space information. We demonstrate the ability to infer the missing line-of-sight velocities until more spectroscopic observations become available. We utilize a novel neural network architecture that, after being trained on a subset of data with complete phase-space information, takes in a star's 5D astrometry (angular coordinates, proper motions, and parallax) and outputs a predicted line-of-sight velocity with an associated uncertainty. Working with a mock Gaia catalog, we show that the network can successfully recover the distributions and correlations of each velocity component for stars that fall within ~5 kpc of the Sun. We also demonstrate that the network can accurately reconstruct the velocity distribution of a kinematic substructure in the stellar halo that is spatially uniform, even when it comprises a small fraction of the total star count. We apply the neural network to real Gaia data and discuss how the inferred information augments our understanding of the Milky Way's formation history. 
 
 * **Iris Cong, Grad Student, Harvard**
   * **September 27, 2022, 11:00am-12:00pm**

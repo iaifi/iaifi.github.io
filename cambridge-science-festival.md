@@ -8,6 +8,9 @@ title: Cambridge Science Festival
 * [Robot Demo](#robot-demo)
 * [Engage with IAIFI](#engage-with-iaifi)
 
+Did you see us at the Festival? [Complete our survey](https://forms.gle/eGoK4qdBKRfR2oCR7) to tell us what you thought!
+{:.success}
+
 IAIFI is excited to participate in the 2022 Cambridge Science Festival with both an Open Lab on October 6, 2022 and as part of the Carnival on October 9, 2022. Both events will include a galaxy zoo and a robot demonstration. All events are free and open to the public. 
 
 # Galaxy Zoo
@@ -28,6 +31,15 @@ The galaxy zoo demonstration is an excellent opportunity for adults and children
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2SG8xVTh7QUY-VUEA9yPZHmRy4-pn4cY0fUuZ52dDI9qrU9s97z24cvktnH1CzR3Wbw0LJkc5wxR-/embed?start=true&loop=true&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
+Lina Necib, Assistant Professor at MIT, walks us through what the galaxy zoo is and how it uses input from the general public (like you!) to help researchers better understand galaxies as the amount of data we have continues to increase exponentially. 
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_eOauD3GS9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 [Explore Galaxy Zoo](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/)
 
 
@@ -40,9 +52,17 @@ Check out the NSF AI Institute for Artificial Intelligence and Fundamental Inter
 * Thursday, October 6, 2022, 1:00–5:00 pm: Open Lab at Hockfield Court, outside Ray and Maria Stata Center
 * Sunday, October 9, 2022, 12:00–4:00 pm: Carnival Robot petting Zoo, Kendall/MIT Open Space
 
-Recently, MIT and IAIFI researchers [made headlines with the success of this training](https://news.mit.edu/2022/3-questions-how-mit-mini-cheetah-learns-run-fast-0317) to get a mini cheetah robot to break speed records. This work also included the robot learning to adapt to variable conditions, making it more robust when deployed in the real world—a strategy expected to be relevant for making real-time adjustments in the operation of physics experiments to maximize their reach. 
+This work also included the robot learning to adapt to variable conditions, making it more robust when deployed in the real world, which is a strategy expected to be relevant for making real-time adjustments in the operation of physics experiments to maximize their reach. 
 
 The quadruped robot demonstration is an excellent opportunity for adults and children alike to better understand the ways that machine learning and AI can be used in conjunction with the physical sciences to better understand and interact with our world (and beyond!).
+
+We demonstrate two different robots--one that is programmed to move in a variety of ways and one that is programmed to play soccer! 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Come see the robot show off for you in person! Will be here until 5:00 as part of the <a href="https://twitter.com/hashtag/CambridgeScienceFestival?src=hash&amp;ref_src=twsrc%5Etfw">#CambridgeScienceFestival</a>! <a href="https://t.co/1W4Tewj79t">pic.twitter.com/1W4Tewj79t</a></p>&mdash; IAIFI (@iaifi_news) <a href="https://twitter.com/iaifi_news/status/1578085139216728066?ref_src=twsrc%5Etfw">October 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Robot soccer anyone? <a href="https://twitter.com/hashtag/cambridgesciencefestival?src=hash&amp;ref_src=twsrc%5Etfw">#cambridgesciencefestival</a> <a href="https://t.co/Vjw8fOqaIe">pic.twitter.com/Vjw8fOqaIe</a></p>&mdash; IAIFI (@iaifi_news) <a href="https://twitter.com/iaifi_news/status/1578091403363614753?ref_src=twsrc%5Etfw">October 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Recently, MIT and IAIFI researchers [made headlines with the success of this training](https://news.mit.edu/2022/3-questions-how-mit-mini-cheetah-learns-run-fast-0317) to get a mini cheetah robot to break speed records. 
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
