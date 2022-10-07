@@ -51,7 +51,7 @@ You can [watch our colloquia live and view recordings on YouTube](https://www.yo
 
 <img class="image" src="images/small-photo-anima-anandkumar.jpg" align="right" style="max-width:226px;width:10%" hspace="10" vspace="10"/>
 * **[Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/), Professor, Caltech; Director of ML, NVIDIA** 
-    * **Friday, October 21, 2022, 2:00-3:00pm** 
+    * **Tuesday, November 1, 2022, 11:00am-12:00pm (Note the change in date and time)**
     * *Details to come*
 
 ## Past Colloquia
