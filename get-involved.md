@@ -102,10 +102,15 @@ IAIFI does not have dedicated faculty opportunities, but there are often open fa
 * Deadline: Applications currently closed.
 --->
 
-<img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
+<img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="10" vspace="10"/>
 ### Northeastern University Khoury College of Computer Sciences
 * [Teaching Professor openings in Computer Science](https://northeastern.wd1.myworkdayjobs.com/en-US/careers/details/Assistant-Teaching-Professor-Associate-Teaching-Professor-Full-Teaching-Professor---Boston_R108315)
 * Deadline: December 1, 2022 (or until search is complete)
+
+<img class="image image--sm" src="images/brandeis-logo.png" align="right" hspace="10" vspace="10"/>
+### Brandeis University Department of Mathematics
+* [Tenure-Track Assistant Professor in Applied Mathematics](https://www.mathjobs.org/jobs/list/20758)
+* Deadline: November 1, 2022 
 
 ## Prospective Postdocs
 
@@ -166,6 +171,12 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 
 * [Postdoc opportunities in Time-Domain Astrophysics, Center for Astrophysics at Harvard](https://jobregister.aas.org/ad/157a4609)
     * Deadline: December 1, 2022
+
+<img class="image image--sm" src="images/brandeis-logo.png" align="right" hspace="20" vspace="20"/>
+### Brandeis University
+
+* [Postdoctoral Research positions in Mathematics](https://www.mathjobs.org/jobs/list/20706)
+* Deadline: December 1, 2022
 
 <!---
 <img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>

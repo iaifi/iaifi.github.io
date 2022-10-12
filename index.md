@@ -14,19 +14,13 @@ article_header:
 
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. The IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. The IAIFI is a collaboration of both [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts.  Learn more about our [research](/research.html) at the Physics/AI intersection and about our [IAIFI Fellows](/fellows.html) program.
 
-
+<!---
 ### IAIFI Jobs
-
-***IAIFI Fellows:*** Applications are now open for the 2023–2026 IAIFI Fellowship! We are seeking early-career scientists working at the intersection of Physics and AI to join IAIFI in our third round of the IAIFI Fellowship. **Applications are due October 11, 2022.** [Learn more and apply](https://iaifi.org/fellows).
-{:.success}
-
+--->
 
 ### IAIFI Events
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
-
-***IAIFI at the Cambridge Science Festival!*** We will host an Open Lab as part of the [Cambridge Science Festival](https://cambridgesciencefestival.org) on Thursday, October 6, 2022 from 1:00–5:00 pm ET. This will include a galaxy zoo in the MIT Stata Center (outside room 124) and a robot demonstration in Hockfield Court (outside the MIT Stat Center). We will also have a galaxy zoo booth and a robot demonstration at the Carnival on Sunday, October 9, 2022 from 12:00–4:00 pm ET at the Kendall/MIT Open Space. [More information](cambridge-science-festival.html)
-{:.success}
 
 ***Next IAIFI Colloquium on October 14, 2022 at 2:00 pm ET.***  Our [hybrid colloquium series](events.html) for Fall 2022 will continue on October 14, 2022 with Daniel Goldman (Dunn Family Professor, Georgia Institute of Technology) at 2:00 pm ET. All colloquia will be streamed live and available to view later on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
@@ -34,6 +28,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ### IAIFI News
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
+
+***IAIFI participates in the 2022 Cambridge Science Festival!*** IAIFI hosted a robot demonstration and a galaxy zoo demonstration for the [Cambridge Science Festival](https://cambridgesciencefestival.org) at both an Open Lab event  on Thursday, October 6, 2022 and at the Carnival on Sunday, October 9, 2022. [Learn more about what we shared.](cambridge-science-festival.html) *October 9, 2022*
+{:.info}
 
 ***Tracy Slatyer and Jesse Thaler receive Simons Investigator awards***: [Read more about their work](https://news.mit.edu/2022/three-mit-faculty-members-named-2022-simons-investigators-0624) recognized by the program, which supports “outstanding theoretical scientists in their most productive years, when they are establishing creative new research directions, providing leadership to the field, and effectively mentoring junior scientists." *June 24, 2022*
 {:.info}
