@@ -59,6 +59,8 @@ Upcoming workshops involving members of the IAIFI community:
       * IAIFI involvement: Phil Harris (Scientific Committee)
   * [Machine Learning and the Physical Sciences Workshop - NeurIPS 2022, December 3, 2022](https://ml4physicalsciences.github.io/2022/)
       * IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer)
+  * [Theoretical Physics for Deep Learning Workshop at Aspen Center for Physics summer program, May 28–June 18, 2022](https://aspenphys.org/physicists/summer/program/currentworkshops.html)
+      * IAIFI involvement: Dan Roberts (Co-Organizer)
 
 ## Past Related Workshops
 Past workshops involving members of the IAIFI community:
