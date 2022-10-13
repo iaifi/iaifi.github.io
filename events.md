@@ -49,10 +49,11 @@ You can [watch our colloquia live and view recordings on YouTube](https://www.yo
 
 &nbsp;
 
-<img class="image" src="images/small-photo-anima-anandkumar.jpg" align="right" style="max-width:226px;width:10%" hspace="10" vspace="10"/>
+<img class="image" src="images/small-photo-anima-anandkumar.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 * **[Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/), Professor, Caltech; Director of ML, NVIDIA** 
     * **Tuesday, November 1, 2022, 11:00am-12:00pm (Note the change in date and time)**
-    * *Details to come*
+    * *AI Accelerating Sciences: Neural operators for Learning Between Function Spaces*
+    * Deep learning surrogate models have shown promise in modeling complex physical phenomena such as fluid flows, molecular dynamics, and material properties. However, standard neural networks assume finite-dimensional inputs and outputs, and hence, cannot withstand a change in resolution or discretization between training and testing. We introduce Fourier neural operators that can learn operators, which are mappings between infinite dimensional function spaces. They are discretization-invariant and can generalize beyond the discretization or resolution of training data. When applied to modeling weather forecasting, Carbon Capture and Storage (CCS), material plasticity and many other processes, neural operators capture fine-scale phenomena and have similar skill as the gold-standard numerical weather models, while being 4-5 orders of magnitude faster.
 
 ## Past Colloquia
 
