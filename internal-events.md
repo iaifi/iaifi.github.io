@@ -42,9 +42,10 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 ## Upcoming Internal Discussion Seminars
 Unless otherwise noted, discussion seminars will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://www.google.com/url?q=https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC). 
 
-* **Kaća Bradonjic, Professor, Hampshire College**
+* **Kaća Bradonjić, Professor, Hampshire College**
     * **Friday, October 21, 2022, 2:00–3:00 pm**
-    * *Details to come* 
+    * *Return to the phenomenal: An exploration of the subjective, internal representations of physical theories and their relation to the collective pursuits of knowledge* 
+    * Physicists study the physical world on spatial, temporal and complexity scales inaccessible through ordinary human perception. *How, then, does a person ground their understanding of physics at these scales in the sensory impressions and emotional states made possible by their body?* In relation to the field as a whole, we can also ask: *To what extent and how does a physicist’s research methodology (theoretical, experimental, or computational) shape the features of the mental models they use in their work? Conversely, to what extent and how do a physicist’s mental models affect the way they approach and engage with a research problem? Finally, what is the nature of the dynamic relation between the individual mental models and their collectively-accepted representational counterparts, and how does it impact physics research?* In this talk, I will sketch out the framing of my approach to these questions that integrates artistic and intellectual practices, and is informed by the history and philosophy of science, theories of embodied cognition, and philosophy of phenomenology. I will then describe the exploratory stages of my first project in this vein, carried out at IAIFI, with the particular focus on the role of AI in particle physics research. 
 
 * **Abiy Tasissa, Professor, Tufts**
     * **Friday, October 28, 2022 2:00-3:00pm** 
