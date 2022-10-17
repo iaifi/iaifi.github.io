@@ -38,17 +38,7 @@ To add this calendar to your Google Calendars click the +GoogleCalendar button i
 Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events.
 
 You can [watch our colloquia live and view recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
-
-
-
-<img class="image" src="images/small-photo-daniel-goldman.jpg" align="right" style="max-width:299px;width:20%" hspace="10" vspace="10"/>
-* **[Daniel Goldman](https://physics.gatech.edu/user/daniel-goldman), Professor, Georgia Tech** 
-    * **Friday, October 14, 2022, 2:00-3:00pm** 
-    * *Robophysics: robotics meets physics*
-    * Robots will soon move from the factory floor and into our lives (e.g. autonomous cars, package delivery drones, and search-and-rescue devices). However, compared to living systems, robot capabilities in complex environments are limited. I believe the mindset and tools of physics can help facilitate the creation of robust self-propelled autonomous systems. This “robophysics” approach – the systematic search for novel dynamics and principles in robotic systems -- can aid the computer science and engineering approaches which have proven successful in less complex environments. The rapidly decreasing cost of constructing sophisticated robot models with easy access to significant computational power bodes well for such interactions. And such devices are valuable as models of living systems (complementing theoretical and computational modeling approaches) and can lead to development of engineered devices that begin to achieve life-like locomotor abilities on and within complex environments. They also provide excellent tools to study questions in active matter physics. In this talk, I will provide examples of the above using recent studies in which concepts from modern physics--geometric phase and mechanical “diffraction” – have led to new insights into biological and engineered locomotion across scales.
-
 &nbsp;
-
 <img class="image" src="images/small-photo-anima-anandkumar.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 * **[Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/), Professor, Caltech; Director of ML, NVIDIA** 
     * **Tuesday, November 1, 2022, 11:00am-12:00pm (Note the change in date and time)**
@@ -58,6 +48,12 @@ You can [watch our colloquia live and view recordings on YouTube](https://www.yo
 ## Past Colloquia
 
 ### Fall 2022
+<img class="image" src="images/small-photo-daniel-goldman.jpg" align="right" style="max-width:299px;width:20%" hspace="10" vspace="10"/>
+* **[Daniel Goldman](https://physics.gatech.edu/user/daniel-goldman), Professor, Georgia Tech** 
+    * **Friday, October 14, 2022, 2:00-3:00pm** 
+    * *Robophysics: robotics meets physics*
+    * Robots will soon move from the factory floor and into our lives (e.g. autonomous cars, package delivery drones, and search-and-rescue devices). However, compared to living systems, robot capabilities in complex environments are limited. I believe the mindset and tools of physics can help facilitate the creation of robust self-propelled autonomous systems. This “robophysics” approach – the systematic search for novel dynamics and principles in robotic systems -- can aid the computer science and engineering approaches which have proven successful in less complex environments. The rapidly decreasing cost of constructing sophisticated robot models with easy access to significant computational power bodes well for such interactions. And such devices are valuable as models of living systems (complementing theoretical and computational modeling approaches) and can lead to development of engineered devices that begin to achieve life-like locomotor abilities on and within complex environments. They also provide excellent tools to study questions in active matter physics. In this talk, I will provide examples of the above using recent studies in which concepts from modern physics--geometric phase and mechanical “diffraction” – have led to new insights into biological and engineered locomotion across scales.
+
 <img class="image" src="images/small-photo-lucy-colwell.jpg" align="right" style="max-width:250px;width:20%" hspace="10" vspace="10"/>
 * **[Lucy Colwell](https://www.ch.cam.ac.uk/person/ljc37), Associate Professor, Cambridge University** 
     * **Friday, September 16, 2022, 2:00-3:00pm** 

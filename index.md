@@ -22,12 +22,15 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Next IAIFI Colloquium on October 14, 2022 at 2:00 pm ET.***  Our [hybrid colloquium series](events.html) for Fall 2022 will continue on October 14, 2022 with Daniel Goldman (Dunn Family Professor, Georgia Institute of Technology) at 2:00 pm ET. All colloquia will be streamed live and available to view later on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
+***Next IAIFI Colloquium on November 1, 2022 at 11:00 am ET.***  Our [hybrid colloquium series](events.html) for Fall 2022 will continue on November 1, 2022 with Anima Anandkumar (Professor, Caltech; Director of ML, NVIDIA) at 11:00 am ET. All colloquia will be streamed live and available to view later on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
 ### IAIFI News
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
+
+***Lina Necib receives 2023 APS Valley Prize***: IAIFI Senior Investigator and MIT Assistant Professor of Physics, Lina Necib, was recognized with the [2023 Valley Prize for Dark Matter](https://www.aps.org/publications/apsnews/202211/valley-prize.cfm), which recognizes "an early-career individual for an outstanding contribution to physics that is deemed to have significant potential for a dramatic impact on the field." Lina was chosen for "the discovery of a massive, previously unknown stellar structure that may have shaped the history of the Milky Way, and the development of groundbreaking new methods to study our Galaxy's dark matter halo and growth history." *October 17, 2022*
+{:.info}
 
 ***IAIFI participates in the 2022 Cambridge Science Festival!*** IAIFI hosted a robot demonstration and a galaxy zoo demonstration for the [Cambridge Science Festival](https://cambridgesciencefestival.org) at both an Open Lab event  on Thursday, October 6, 2022 and at the Carnival on Sunday, October 9, 2022. [Learn more about what we shared.](cambridge-science-festival.html) *October 9, 2022*
 {:.info}
