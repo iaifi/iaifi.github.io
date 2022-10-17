@@ -4,8 +4,8 @@ title: "Bias and Priors in Machine Learning Calibrations for High Energy Physics
 authors: Rikab Gambhir, Benjamin Nachman, Jesse Thaler
 abstract: Machine learning offers an exciting opportunity to improve the calibration of nearly all reconstructed objects in high-energy physics detectors. However, machine learning approaches often depend on the spectra of examples used during training, an issue known as prior dependence. This is an undesirable property of a calibration, which needs to be applicable in a variety of environments. The purpose of this paper is to explicitly highlight the prior dependence of some machine learning-based calibration strategies. We demonstrate how some recent proposals for both simulation-based and data-based calibrations inherit properties of the sample used for training, which can result in biases for downstream analyses. In the case of simulation-based calibration, we argue that our recently proposed Gaussian Ansatz approach can avoid some of the pitfalls of prior dependence, whereas prior-independent data-based calibration remains an open problem.
 arxiv: "2205.05084"
-journal: 
-doi: 
+journal: Physical Review D, Volume 106, Article 036011
+doi: https://doi.org/10.1103/PhysRevD.106.036011
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2022-08-15

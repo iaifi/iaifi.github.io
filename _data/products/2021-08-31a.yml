@@ -4,8 +4,8 @@ title: "Machine-Learning media bias"
 authors: Samantha D'Alonzo, Max Tegmark
 abstract: We present an automated method for measuring media bias. Inferring which newspaper published a given article, based only on the frequencies with which it uses different phrases, leads to a conditional probability distribution whose analysis lets us automatically map newspapers and phrases into a bias space. By analyzing roughly a million articles from roughly a hundred newspapers for bias in dozens of news topics, our method maps newspapers into a two-dimensional bias landscape that agrees well with previous bias classifications based on human judgement. One dimension can be interpreted as traditional left-right bias, the other as establishment bias. This means that although news bias is inherently political, its measurement need not be.
 arxiv: "2109.00024"
-journal: 
-doi: 
+journal: PLOS ONE, 2022, Volume 17, Issue 8, Article e0271947
+doi: https://doi.org/10.1371/journal.pone.0271947
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2022-08-10
