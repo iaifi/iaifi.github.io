@@ -50,7 +50,7 @@ Unless otherwise noted, discussion seminars will be held in person (MIT Kolker R
 * **Abiy Tasissa, Professor, Tufts**
     * **Friday, October 28, 2022 2:00-3:00pm** 
     * *Geometric sparse coding with learned archetypes: Theory and applications*
-    * Abstract to come
+    * Given a set of data points, archetypal analysis is a method which represents each data as a convex combination of exemplars called "archetypes". The benefit of this analysis is the interpretable archetypes along with information that can be gleaned from the representation coefficients. We propose a method that combines manifold learning and archetypal analysis by positing that each data point can be written as a convex combination of nearby landmarks. To encourage representing a data point via closeby landmarks, we propose a locality regularizer. We discuss how this regularizer relates to graph matching, K-means and Laplacian smoothness. Under the assumption that the data is exactly generated from vertices of a Delaunay triangulation,the proposed regularizer exactly recovers the underlying sparse solution. Moreover, for fixedrepresentation coefficients, we show that the optimal landmarks can be computed in closed form. To solve the optimization problem of finding the coefficients and the landmarks, we use algorithm unrolling to derive a neural network that efficiently solves the problem. We discuss how the sparseembeddings derived from our algorithm can be used for downstream tasks such as clustering. 
 
 * **Aleksander Madry, Professor, MIT**
     * **Friday, December 9, 2022 2:00-3:00pm** 
