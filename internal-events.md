@@ -61,14 +61,10 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates. Access to t
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Kim Nicoli, Grad Student, Technical University of Berlin**
-  * **October 18, 2022, 11:00am-12:00pm**
-  * *Deep Learning approaches in lattice quantum field theory: recent advances and future challenges*
-  * Abstract: Normalizing flows are deep generative models that leverage the change of variable formula to map simple base densities to arbitrary complex target distributions. Recent works have shown the potential of such methods in learning normalized Boltzmann densities in many fields ranging from condensed matter physics to molecular science to lattice field theory. Though sampling from a flow-based density comes with many advantages over standard MCMC sampling, it is known that these methods still suffer from several limitations. In my talk, I will start to give an overview on how to deploy deep generative models to learn Boltzmann densities in the context of a phi^4 lattice field theory. Specifically, I’ll focus on how these methods open up the possibility to estimate thermodynamic observables, i.e., physical observables which depend on the partition function and hence are not straightforward to estimate using standard MCMC methods. In the second part of my talk, I will present two ideas that have been proposed to mitigate the well-known problem of mode-collapse which often occurs when normalizing flows are trained to learn a multimodal target density.  More specifically I’ll talk about a novel “mode-dropping estimator” and path gradients. In the last part of my talk, I’ll present a new idea which aims at using flow-based methods to mitigate the sign problem. 
-
 * **Sona Najafi, Researcher, IBM**
   * **October 25, 2022, 11:00am-12:00pm**
-  * *Details to come*
+  * *Quantum machine learning from algorithms to hardware*
+  * Abstract: The rapid progress of technology over the past few decades has led to the emergence of two powerful computational paradigms known as quantum computing and machine learning. While machine learning tries to learn the solutions from data, quantum computing harnesses the quantum laws for more powerful computation compared to classical computers. In this talk, I will discuss three domains of quantum machine learning, each harnessing a particular aspect of quantum computers and targeting specific problems. The first domain scrutinizes the power of quantum computers to work with high-dimensional data and speed-up algebra, but raises the caveat of input/output due to the quantum measurement rules. The second domain circumvents this problem by using a hybrid architecture, performing optimization on a classical computer while evaluating parameterized states on a quantum circuit, chosen based on a particular issue. Finally, the third domain is inspired by brain-like computation and uses a given quantum system's natural interaction and unitary dynamic as a source for learning
 
 ## Other Upcoming Internal Events
 Internal events are only open to IAIFI members and affiliates. Access to the Zoom information and recordings can be found on the IAIFI internal website (contact [iaifi-management@mit.edu](mailto:iaifi-management@mit.edu) if you have trouble logging in).
@@ -197,6 +193,11 @@ The talk will not require background in deep learning. Based on joint works with
 ## Past Journal Clubs
 
 ### Fall 2022
+
+* **Kim Nicoli, Grad Student, Technical University of Berlin** 
+  * **October18, 2022, 11:00am-12:00pm**
+  * Deep Learning approaches in lattice quantum field theory: recent advances and future challenges**
+  * Abstract: Normalizing flows are deep generative models that leverage the change of variable formula to map simple base densities to arbitrary complex target distributions. Recent works have shown the potential of such methods in learning normalized Boltzmann densities in many fields ranging from condensed matter physics to molecular science to lattice field theory. Though sampling from a flow-based density comes with many advantages over standard MCMC sampling, it is known that these methods still suffer from several limitations. In my talk, I will start to give an overview on how to deploy deep generative models to learn Boltzmann densities in the context of a phi^4 lattice field theory. Specifically, I’ll focus on how these methods open up the possibility to estimate thermodynamic observables, i.e., physical observables which depend on the partition function and hence are not straightforward to estimate using standard MCMC methods. In the second part of my talk, I will present two ideas that have been proposed to mitigate the well-known problem of mode-collapse which often occurs when normalizing flows are trained to learn a multimodal target density.  More specifically I’ll talk about a novel “mode-dropping estimator” and path gradients. In the last part of my talk, I’ll present a new idea which aims at using flow-based methods to mitigate the sign problem.
 
 * **Adriana Dropulic, Grad Student, Princeton**
   * **October 4, 2022, 11:00am-12:00pm**
