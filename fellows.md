@@ -6,7 +6,7 @@ title: IAIFI Fellows
 
 ## Call for Applications for 2023-2026 IAIFI Fellows
 
-**Applications are now being accepted for the third round of the IAIFI Fellowship search. [Apply on AJO](https://academicjobsonline.org/ajo/jobs/21988)**
+**Applications are now closed for the third round of the IAIFI Fellowship search. [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to stay up to date on future postings.**
 {:.info}
 
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is one of the inaugural NSF AI research institutes. The IAIFI is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. AI is transforming many aspects of society, including the ways that scientists are pursuing groundbreaking discoveries.
