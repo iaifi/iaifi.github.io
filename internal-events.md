@@ -95,7 +95,7 @@ For Fall 2022, IAIFI will hold regular lightning talk sessions for IAIFI members
     * *Theme details to come*
 
 ## Past Seminars
-###Fall 2022
+### Fall 2022
 * **Jessie Micallef, IAIFI Fellow**
     * **Friday, September 30, 2022 2:00-3:00pm** 
     * *Neutrinos and Neural Networks: Need for Speed and Adaptability*
@@ -195,7 +195,7 @@ The talk will not require background in deep learning. Based on joint works with
 ### Fall 2022
 
 * **Kim Nicoli, Grad Student, Technical University of Berlin** 
-  * **October18, 2022, 11:00am-12:00pm**
+  * **October 18, 2022, 11:00am-12:00pm**
   * Deep Learning approaches in lattice quantum field theory: recent advances and future challenges**
   * Abstract: Normalizing flows are deep generative models that leverage the change of variable formula to map simple base densities to arbitrary complex target distributions. Recent works have shown the potential of such methods in learning normalized Boltzmann densities in many fields ranging from condensed matter physics to molecular science to lattice field theory. Though sampling from a flow-based density comes with many advantages over standard MCMC sampling, it is known that these methods still suffer from several limitations. In my talk, I will start to give an overview on how to deploy deep generative models to learn Boltzmann densities in the context of a phi^4 lattice field theory. Specifically, I’ll focus on how these methods open up the possibility to estimate thermodynamic observables, i.e., physical observables which depend on the partition function and hence are not straightforward to estimate using standard MCMC methods. In the second part of my talk, I will present two ideas that have been proposed to mitigate the well-known problem of mode-collapse which often occurs when normalizing flows are trained to learn a multimodal target density.  More specifically I’ll talk about a novel “mode-dropping estimator” and path gradients. In the last part of my talk, I’ll present a new idea which aims at using flow-based methods to mitigate the sign problem.
 
