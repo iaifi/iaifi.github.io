@@ -42,11 +42,3 @@ IAIFI's External Advisory Board (EAB) provides project oversight and advice to h
 **Associate Professor, École polytechnique fédérale de Lausanne (EPFL)**
 
 [Lenka Zdeborová](http://artax.karlin.mff.cuni.cz/~zdebl9am/) is an Associate Professor at EPFL. She received her PhD in physics from University Paris-Sud and from Charles University in Prague in 2008. She spent two years in the Los Alamos National Laboratory as the Director's Postdoctoral Fellow. Lenka's expertise is in applications of methods developed in statistical physics, such as advanced mean field methods, replica method and related message passing algorithms, to problems in machine learning, signal processing, inference and optimization.
-
-## Special Advisors
-
-<img class="image" src="images/small-photo-brian-nord.jpg" align="right" style="max-width:199px;width:30%" hspace="20" vspace="20"/>
-### Brian Nord
-**Scientist, Cosmic Physics Center, Science Computing Division**
-
-[Brian Nord](http://briandnord.com/bio) is a Scientist in Fermilab's Cosmic Physics Center and AI Project Office. At the University of Chicago, he is also a CASE Scientist in the Astronomy and Astrophysics Department and a Senior Member of the Kavli Institute for Cosmological Physics. Nord co-founded the Deep Skies Lab, which is an international community, dedicated to human-centered collaboration at the intersection of astrophysics and artificial intelligence. Nord also leads the KICP Space Explorers program for Chicago Public High School students.

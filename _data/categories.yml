@@ -11,21 +11,33 @@ categories:
     type1: senior-investigators
     type2:
     type3:
-  - post-docs:
-    name: IAIFI Fellows, Post-Docs, and Research Scientists
-    anchor: iaifi-fellows-post-docs-and-research-scientists
+  - fellows:
+    name: IAIFI Fellows
+    anchor: iaifi-fellows
     type1: iaifi-fellows
-    type2: research-scientists
-    type3: postdocs
-  - students:
-    name: Students
-    anchor: students
-    type1: graduate-students
-    type2: postbac
-    type3: undergrad-students
+    type2:
+    type3:  
+  - visitors:
+    name: Long-Term Visitors
+    anchor:  long-term-visitors
+    type1: visitors
+    type2:
+    type3:
   - affiliates:
     name: IAIFI Affiliates
     anchor:  iaifi-affiliates
     type1: affiliates
     type2:
     type3:
+  - post-docs:
+    name: IAIFI Post-Docs and Research Scientists
+    anchor: iaifi-post-docs-and-research-scientists
+    type1: research-scientists
+    type2: postdocs
+    type3: 
+  - students:
+    name: Students
+    anchor: students
+    type1: graduate-students
+    type2: postbac
+    type3: undergrad-students
