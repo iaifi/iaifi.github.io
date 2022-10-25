@@ -6,6 +6,18 @@ title: News Archive
 
 ## IAIFI News Archive
 
+***IAIFI Senior Investigator Philip Harris establishes NSF-Funded Institute with collaborators:*** [Philip Harris will serve as Deputy Director of the Accelerated AI Algorithms for Data-Driven Discovery (A3D3) Institute](https://news.mit.edu/2021/taming-data-deluge-1029), using Artificial Intelligence to accelerate discoveries in physics, astronomy, and neuroscience. *October 29, 2021*
+{:.info}
+
+***IAIFI Fellow Siddharth Mishra-Sharma and Senior Investigator Phiala Shanahan interviewed for Nature Careers:*** Read ["How AI is helping the natural sciences"](https://www.nature.com/articles/d41586-021-02762-6), *October 13, 2021*
+{:.info}
+
+***Jesse Thaler argues that particle physicists must go beyond deep learning and design AI capable of deep thinking:*** Read his [opinion piece in the CERN Courier](https://cerncourier.com/a/designing-an-ai-physicist/), *September 2, 2021*
+{:.info}
+
+***Jesse Thaler interviewed for Communications of the Association for Computing Machinery:*** Read Jesse Thaler's interview on [Using AI to Drill Down in Physics](https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics/fulltext), *July 8, 2021*
+{:.info}
+
 ***Philip Harris receives Department of Energy Early Career Research Award for 2021:*** The award provides “exceptional researchers during the crucial early career years” with significant funding to support their research. Philip Harris was selected for his research, “Harnessing the Large Hadron Collider with New Insights in Real-Time Data Processing and Artificial Intelligence.” [DOE announces 2021 Early Career Research Awards](https://science.osti.gov/early-career), *May 27, 2021*
 {:.info}
 

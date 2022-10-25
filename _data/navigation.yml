@@ -15,14 +15,14 @@ header:
         url: /events-calendar.html
       - title: Colloquia
         url: /events.html
-      - title: Internal
-        url: /internal-events.html
-      - title: Related
+      - title: Seminars
+        url: /seminars.html
+      - title: Journal Club
+        url: /journal-club.html
+      - title: Lightning Talks
+        url: /lightning-talks.html
+      - title: Related External
         url: /related-events.html
-      - title: Summer School and Workshop
-        url: /phd-summer-school.html
-      - title: Cambridge Science Festival
-        url: /cambridge-science-festival
 
   - title: People
     subtitles:
@@ -35,27 +35,27 @@ header:
 
   - title: Research
     subtitles:
-      - title: Themes
+      - title: Overview
         url: /research.html
+      - title: Foundational AI
+        url: /ai-research.html
+      - title: Physics Theory
+        url: /physics-theory-research.html
+      - title: Physics Experiment
+        url: /physics-experiment-research.html
       - title: Papers
         url: /papers.html
 
-  - title: Synergies
+  - title: Engagement
     subtitles:
-      - title: Community Building
-        url: /community-building.html
-      - title: Early Career and Equity Committee
-        url: /ecec.html
-      - title: Education & Workforce Development
-        url: /education-workforce.html
-      - title: Ethics
-        url: /ethics.html
-      - title: Outreach
+      - title: K–12 Education
         url: /outreach.html
-      - title: Physics/AI Network
-        url: /partnerships.html
-      - title: Committees
-        url: /committees.html
+      - title: Early Career, Equity, Ethics
+        url: /ecec.html
+      - title: Cambridge Science Festival
+        url: /cambridge-science-festival
+      - title: Summer School and Workshop
+        url: /phd-summer-school.html
 
   - title: Fellows
     subtitles:
@@ -64,9 +64,18 @@ header:
       - title: Current
         url: /current-fellows.html
 
-  - title: Get Involved
+  - title: Opportunities
     subtitles:
-      - title: Prospective
-        url: /get-involved.html
+      - title: IAIFI Jobs
+        url: /iaifi-jobs.html
+      - title: Job Board
+        url: /job-board.html
+
+  - title: Resources
+    subtitles:
+      - title: Public
+        url: /public-resources.html
       - title: Current Members
-        url: /get-involved-current.html
+        url: /member-resources.html
+      - title: Committees
+        url: /committees.html

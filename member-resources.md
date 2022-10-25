@@ -1,10 +1,10 @@
 ---
 layout: article
-title: Current IAIFI Members — Get Involved
+title: IAIFI Member Resources
 ---
 
 
-IAIFI thrives on the energy and enthusiasm of its members!  If you are currently an IAIFI member and would like to get more involved in IAIFI-related activities, browse this page for opportunities that interest you.  
+IAIFI thrives on the energy and enthusiasm of its members! This page includes information and links to resources for IAIFI members. Unless otherwise noted, this includes IAIFI Senior Investigators, Junior Investigators, Affiliates, and Friends of IAIFI.
 
 <!---
 * [Understand Levels of Involvement](#understand-levels-of-involvement)
@@ -20,9 +20,7 @@ IAIFI thrives on the energy and enthusiasm of its members!  If you are currently
 * [Be a Guest in the IAIFI Penthouse](#be-a-guest-in-the-iaifi-penthouse)
 * [Access the IAIFI Internal Website](#access-the-iaifi-internal-website)
 * [Explore Career and PhD Opportunities](#explore-career-and-phd-opportunities)
-* [Get Involved Beyond IAIFI](#get-involved-beyond-iaifi)
-
-If you are not currently an IAIFI member, visit the [Get Involved page](get-involved.html) to find out about opportunities to join us.  
+* [Get Involved Beyond IAIFI](#get-involved-beyond-iaifi) 
 
 Unless otherwise noted, the opportunities listed on this page are available to all IAIFI members, including Senior Investigators, Junior Investigators, IAIFI Affiliates, and Friends of IAIFI.
 
@@ -130,8 +128,8 @@ Information on available tools from industry partners.
     * Students currently enrolled in the Physics doctoral program at MIT or another participating MIT doctoral program
     * For access to the selection form to apply, [email the IDSS Academic Office](idss_academic_office@mit.edu)
 * Apply to be an [IAIFI Fellow](fellows.html)
-* Apply for [other postdoc positions with IAIFI involvement](get-involved.html#prospective-postdocs)
-* Apply for [PhD programs at IAIFI institutions](https://iaifi.org/get-involved.html#prospective-graduate-students)
+* Apply for [other postdoc positions with IAIFI involvement](iaifi-jobs.html#prospective-postdocs)
+* Apply for [PhD programs at IAIFI institutions](https://iaifi.org/iaifi-jobs.html#prospective-graduate-students)
 * Follow the IAIFI [#job opportunities Zulip stream](https://iaifi.zulipchat.com/#narrow/stream/283724-job-opportunities) (if you do not have access, [email IAIFI Management](mailto:iaifi@mit.edu))
 
 
