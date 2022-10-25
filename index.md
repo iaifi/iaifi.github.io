@@ -65,17 +65,6 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 ***IAIFI Senior Investigator Pulkit Agrawal and collaborators receive Best Paper Award at Conference on Robot Learning:*** The paper was chosen for "The sheer scope and variation across objects tested with this method, and the range of different policy architectures and approaches tested." Read ["A System for General In-Hand Object Re-Orientation"](https://openreview.net/forum?id=7uSBJDoP7tY), *November 12, 2021*
 {:.info}
 
-***IAIFI Senior Investigator Philip Harris establishes NSF-Funded Institute with collaborators:*** [Philip Harris will serve as Deputy Director of the Accelerated AI Algorithms for Data-Driven Discovery (A3D3) Institute](https://news.mit.edu/2021/taming-data-deluge-1029), using Artificial Intelligence to accelerate discoveries in physics, astronomy, and neuroscience. *October 29, 2021*
-{:.info}
-
-***IAIFI Fellow Siddharth Mishra-Sharma and Senior Investigator Phiala Shanahan interviewed for Nature Careers:*** Read ["How AI is helping the natural sciences"](https://www.nature.com/articles/d41586-021-02762-6), *October 13, 2021*
-{:.info}
-
-***Jesse Thaler argues that particle physicists must go beyond deep learning and design AI capable of deep thinking:*** Read his [opinion piece in the CERN Courier](https://cerncourier.com/a/designing-an-ai-physicist/), *September 2, 2021*
-{:.info}
-
-***Jesse Thaler interviewed for Communications of the Association for Computing Machinery:*** Read Jesse Thaler's interview on [Using AI to Drill Down in Physics](https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics/fulltext), *July 8, 2021*
-{:.info}
 
 
 <!---

@@ -1,18 +1,10 @@
 ---
 layout: article
-title: Outreach
+title: K–12 Education
 ---
 
-## Outreach Committee
-  * Develops educational materials for use in outreach activities, such as classroom visits, and brainstorms opportunities for outreach
-  * Led by Brent Nelson (Outreach Coordinator)
-  * The Committee is currently soliciting members
-  * [Email IAIFI Management](mailto:iaifi@mit.edu) if you are interested in volunteering
+The IAIFI has partnered with Northeastern’s [Theorynet program](http://www.physicstheorynet.org) to coordinate visits to high school classes in the Boston area. If you are interested in setting up a classroom visit, [complete this form](https://forms.gle/MQh677rcxCwhzSJq7).
 
-## K-12 Education
-The IAIFI has partnered with Northeastern’s [Theorynet program](http://www.physicstheorynet.org) to coordinate visits to high school classes in the Boston area. If you are interested in setting up a classroom visit, [contact Brent Nelson](mailto:b.nelson@northeastern.edu), IAIFI Outreach Coordinator.
+This activity is coordinated by the [IAIFI Public Engagement Committee](\committees.html#public-engagement-committee).
 
 
-## Summer Workshop
-We will hold an in-person Summer Workshop August 8-9, 2022. Visit the [Summer School and Workshop page](/phd-summer-school.html) for details. 
-* 2022 PhD Summer School and Workshop Committee: Jim Halverson (Chair), Tess Smidt, Anna Golubeva, Peter Lu, Dylan Rankin

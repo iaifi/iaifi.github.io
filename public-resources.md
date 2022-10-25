@@ -17,8 +17,6 @@ If your situation does not fall into any of the above categories, please contact
 
 Senior Researchers include faculty members and senior research scientists with PI status.  If you are interested in becoming an IAIFI Senior Investigator, you should first apply to become an IAIFI Affiliate.
 
-
-<img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
 ### Apply to be an IAIFI Affiliate
 
 * [Complete the IAIFI Affiliate application form](affiliates.html)
@@ -35,7 +33,6 @@ Senior Researchers include faculty members and senior research scientists with P
 Junior Researchers include undergraduate students, graduate students, postdocs, and research scientists without PI status.
 
 
-<img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
 ### Become a Junior Investigator 
 
 * [Complete the Junior Researcher interest form](junior-interest.html)
@@ -45,7 +42,6 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 * Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
 
 
-<img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
 ### Become a Friend of IAIFI 
 
 * [Complete the Junior Researcher interest form](junior-interest.html)
@@ -57,7 +53,7 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 
 IAIFI is collaborating with researchers outside of academia to advance research at the intersection of physics and AI.
 
-<img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
+<img class="image" src="images/iaifi-logo-black-noborder.jpg" align="right" style="max-width:1466px;width:10%" hspace="10" vspace="10"/>
 ### Apply to be an IAIFI Affiliate
 
 * Industry researchers in the Boston area are eligible to become [IAIFI Affiliates](#apply-to-be-an-iaifi-affiliate) 
@@ -69,7 +65,6 @@ IAIFI is collaborating with researchers outside of academia to advance research 
 * List of current research projects [coming soon!]
 
 
-<img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
 ### Discuss Possible Partnerships with IAIFI
 
 * Contact [Todd Zickler](mailto:zickler@seas.harvard.edu), IAIFI Knowledge Transfer Coordinator
@@ -84,7 +79,6 @@ IAIFI is collaborating with researchers outside of academia to advance research 
 
 Official IAIFI affiliation is currently limited to those in the greater Boston Area, though IAIFI researchers participate in worldwide collaborations and many IAIFI events are open to the broader community.
 
-<img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
 ### Receive Updates on IAIFI Events and Opportunities
 
 * [Subscribe to IAIFI News](http://mailman.mit.edu/mailman/listinfo/iaifi-news)

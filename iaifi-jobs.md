@@ -15,7 +15,7 @@ Thank you for your interest in getting involved with IAIFI! Navigate to the role
 IAIFI does not have dedicated faculty opportunities, but there are often open faculty positions in IAIFI-affiliated universities.
 
 <!---
-<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Center for Theoretical Physics
 
 
@@ -24,20 +24,20 @@ IAIFI does not have dedicated faculty opportunities, but there are often open fa
 --->
 
 
-<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Physics Division of Experimental Particle and Nuclear Physics
 
 * [Junior faculty openings in MIT Physics NUPAX](https://academicjobsonline.org/ajo/jobs/23062)
 * Deadline: December 1, 2022
 
 
-<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Department of Electrical Engineering and Computer Science (EECS)
 
 * [Junior faculty openings in MIT EECS](https://faculty-searches.mit.edu/eecs/)
 * Deadline: December 1, 2022
 
-<img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/harvard_logo.png" align="right" style="max-width:403px;width:10%" hspace="10" vspace="10"/>
 ### Harvard University Department of Physics
 * [Tenure-track Professor in Physics](https://www.physics.harvard.edu/jobs)
 * Deadline: November 15, 2022 or until position is filled
@@ -49,18 +49,18 @@ IAIFI does not have dedicated faculty opportunities, but there are often open fa
 --->
 
 <!---
-<img class="image image--sm" src="images/tufts_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/tufts_logo.png" align="right" style="max-width:300px;width:10%" hspace="10" vspace="10"/>
 ### Tufts University Department of Computer Science
 * [Assistant or Associate Professor in AI opening at Tufts University Department of Computer Science](https://apply.interfolio.com/92330)
 * Deadline: Applications currently closed.
 --->
 
-<img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/northeastern_logo.png" align="right" style="max-width:1200px;width:10%" hspace="10" vspace="10"/>
 ### Northeastern University Khoury College of Computer Sciences
 * [Teaching Professor openings in Computer Science](https://northeastern.wd1.myworkdayjobs.com/en-US/careers/details/Assistant-Teaching-Professor-Associate-Teaching-Professor-Full-Teaching-Professor---Boston_R108315)
 * Deadline: December 1, 2022 (or until search is complete)
 
-<img class="image image--sm" src="images/brandeis-logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/brandeis-logo.png" align="right" style="max-width:802px;width:10%" hspace="10" vspace="10"/>
 ### Brandeis University Department of Mathematics
 * [Tenure-Track Assistant Professor in Applied Mathematics](https://www.mathjobs.org/jobs/list/20758)
 * Deadline: November 1, 2022 
@@ -70,7 +70,7 @@ IAIFI does not have dedicated faculty opportunities, but there are often open fa
 The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, but there are other postdoctoral opportunities with IAIFI-affiliated researchers.
 
 
-<img class="image image--sm" src="images/iaifi-logo-black-noborder.jpg" align="right" hspace="20" vspace="20"/>
+<img class="image" src="images/iaifi-logo-black-noborder.jpg" align="right" style="max-width:1466px;width:10%" hspace="10" vspace="10"/>
 ### IAIFI Fellowship 
 
 
@@ -82,7 +82,7 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 ### Other Postdoc Positions with IAIFI Involvement
 
 
-<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 #### MIT
 
 <!---
@@ -102,7 +102,7 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * [Pappalardo Fellowship](https://physics.mit.edu/research/pappalardo-fellowships-in-physics/competition/)
     * Deadline: Nominations currently closed. 
 
-<img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/harvard_logo.png" align="right" style="max-width:403px;width:10%" hspace="10" vspace="10"/>
 #### Harvard University
 
 <!---
@@ -125,14 +125,14 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * [Postdoc opportunities in Time-Domain Astrophysics, Center for Astrophysics at Harvard](https://jobregister.aas.org/ad/157a4609)
     * Deadline: December 1, 2022
 
-<img class="image image--sm" src="images/brandeis-logo.png" align="right" hspace="20" vspace="20"/>
+<img class="image" src="images/brandeis-logo.png" align="right" style="max-width:802px;width:10%" hspace="10" vspace="10"/>
 ### Brandeis University
 
 * [Postdoctoral Research positions in Mathematics](https://www.mathjobs.org/jobs/list/20706)
 * Deadline: December 1, 2022
 
 <!---
-<img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
+<img class="image" src="images/northeastern_logo.png" align="right" style="max-width:1200px;width:10%" hspace="10" vspace="10"/>
 #### Northeastern University
 
 
@@ -144,7 +144,7 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 --->
 
 #### NSF Mathematical Sciences Postdoctoral Research Fellowship
-<img class="image image--sm" src="images/nsf_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/nsf_logo.png" align="right" style="max-width:1722px;width:10%" hspace="10" vspace="10"/>
 * [Apply for a Mathematical Sciences Postdoctoral Research Fellowship (MSPRF)](https://www.nsf.gov/pubs/2022/nsf22619/nsf22619.htm?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery)
 * Awarded to an individual, not institution
 * Candidates need a sponsoring scientist and host institution, so if you are interested in applying to work with IAIFI, ask an [IAIFI Senior Investigator](people.html#senior-investigators) to sponsor you or contact [IAIFI Management](mailto:iaifi-management@mit.edu) for help identifying a sponsor
@@ -162,7 +162,7 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 
 IAIFI does not have a dedicated PhD program, but PhD students at any of the partner institutions may collaborate with IAIFI researchers to become a Junior Investigator.
 
-<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Graduate Program in Physics
 
 * [Apply to be an MIT Physics graduate student](https://gradapply.mit.edu/physics)
@@ -172,21 +172,21 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 
 
 
-<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Graduate Program in Electrical Engineering and Computer Science
 
 * [Apply to be an MIT EECS graduate student](https://gradapply.mit.edu/eecs)
 * Deadline: December 15 for the following academic year
 * Learn more about the [MIT EECS program](https://www.eecs.mit.edu/academics-admissions/graduate-program)
 
-<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Summer Research Program
 * [Apply to the MIT Summer Research Program (MSRP)](https://mitodgediversity.slideroom.com/#/login/program/64398) to be hosted by an IAIFI Senior Investigator for summer research
 * Deadline: January 10, 2022 for Summer 2022
 * Learn more about [the MSRP program](https://oge.mit.edu/graddiversity/msrp/)
 * [View interested faculty mentors](https://infogram.com/2022-msrp-interested-faculty-1hzj4o3lndy834p?live) 
 
-<img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/harvard_logo.png" align="right" style="max-width:403px;width:10%" hspace="10" vspace="10"/>
 ### Harvard Graduate Program in Physics
 
 * [Apply to be a Harvard Physics graduate student](https://gsas.harvard.edu/programs-of-study/all/physics)
@@ -194,7 +194,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 * Learn more about the [Harvard Physics program](https://www.physics.harvard.edu/academics/grad)
 
 
-<img class="image image--sm" src="images/harvard_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/harvard_logo.png" align="right" style="max-width:403px;width:10%" hspace="10" vspace="10"/>
 ### Harvard Graduate Program in Engineering and Applied Sciences (SEAS)
 
 * [Apply to be a Harvard SEAS graduate student](https://gsas.harvard.edu/programs-of-study/divisions/school-engineering-and-applied-sciences)
@@ -202,7 +202,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 * Learn more about the [Harvard SEAS program](https://www.seas.harvard.edu)
 
 
-<img class="image image--sm" src="images/northeastern_logo.png" align="right" hspace="20" vspace="20"/>
+<img class="image" src="images/northeastern_logo.png" align="right" style="max-width:1200px;width:10%" hspace="10" vspace="10"/>
 ### Northeastern Graduate Program in Physics
 
 * [Apply to be a Northeastern graduate student](https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantConnectLogin.asp?id=neu-grad)
@@ -212,7 +212,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
     * PhD (Fall admissions only): Priority deadline December 1, rolling admissions until March 15 
 * Learn more about the [Northeastern Physics program](https://www.northeastern.edu/graduate/program/master-of-science-in-physics-14258/)
 
-<img class="image image--sm" src="images/tufts_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/tufts_logo.png" align="right" style="max-width:300px;width:10%" hspace="10" vspace="10"/>
 ### Tufts Graduate Program in Physics and Astronomy
 
 * [Apply to be a Tufts Physics and Astronomy graduate student](https://gradase.admissions.tufts.edu/apply/)
@@ -220,7 +220,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 * Learn more about the [Tufts Physics and Astronomy program](https://asegrad.tufts.edu/academics/explore-graduate-programs/physics)
 
 
-<img class="image image--sm" src="images/tufts_logo.png" align="right" hspace="10" vspace="10"/>
+<img class="image" src="images/tufts_logo.png" align="right" style="max-width:300px;width:10%" hspace="10" vspace="10"/>
 ### Tufts Graduate Program in Computer Science 
 
 * [Apply to be a Tufts Computer Science graduate student](https://gradase.admissions.tufts.edu/apply/)
@@ -231,14 +231,14 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 
 IAIFI investigators often have opportunities for undergraduate students to get involved in research through volunteer projects or formal programs.
 
-<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Summer Research Program
 
 * [Apply to the MIT Summer Research Program](https://oge.mit.edu/graddiversity/msrp/)
 * Applications open in November for Summer 2022 (June 5 through August 6)
 * This program’s goal is to increase the number of underrepresented minorities and underserved (e.g. low socio-economic background, first generation) students in the research enterprise.
 
-<img class="image image--sm" src="images/mit_logo.png" align="right" hspace="20" vspace="20"/>
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Undergraduate Research Opportunity Program
 
 * Contact an [IAIFI Senior Investigator](https://iaifi.org/people.html#senior-investigators) at MIT to inquire about potential UROP funding

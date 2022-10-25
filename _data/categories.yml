@@ -19,13 +19,13 @@ categories:
     type3:  
   - visitors:
     name: Long-Term Visitors
-    anchor:  long-term-visitors
-    type1: visitors
+    anchor: long-term-visitors
+    type1: long-term-visitors
     type2:
     type3:
   - affiliates:
     name: IAIFI Affiliates
-    anchor:  iaifi-affiliates
+    anchor: iaifi-affiliates
     type1: affiliates
     type2:
     type3:
