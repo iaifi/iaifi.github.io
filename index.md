@@ -29,6 +29,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+***Jesse Thaler named American Physical Society Fellow for 2022***: APS honored IAIFI Director and MIT Professor of Physics, Jesse Thaler, was [selected as an APS Fellow]( https://news.mit.edu/2022/american-physical-society-fellows-1019) "for original foundational research contributions, leadership, and mentoring in the area of machine learning for fundamental physics. *October 27, 2022*
+{:.info}
+
 ***Lina Necib receives 2023 APS Valley Prize***: IAIFI Senior Investigator and MIT Assistant Professor of Physics, Lina Necib, was recognized with the [2023 Valley Prize for Dark Matter](https://www.aps.org/publications/apsnews/202211/valley-prize.cfm), which recognizes "an early-career individual for an outstanding contribution to physics that is deemed to have significant potential for a dramatic impact on the field." Lina was chosen for "the discovery of a massive, previously unknown stellar structure that may have shaped the history of the Milky Way, and the development of groundbreaking new methods to study our Galaxy's dark matter halo and growth history." *October 17, 2022*
 {:.info}
 
