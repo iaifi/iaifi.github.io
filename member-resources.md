@@ -4,7 +4,7 @@ title: IAIFI Member Resources
 ---
 
 
-IAIFI thrives on the energy and enthusiasm of its members! This page includes information and links to resources for IAIFI members. Unless otherwise noted, this includes IAIFI Senior Investigators, Junior Investigators, Affiliates, and Friends of IAIFI.
+IAIFI thrives on the energy and enthusiasm of its members! This page includes information and links to resources for [IAIFI members](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing). Unless otherwise noted, this includes IAIFI Senior Investigators, Junior Investigators, Affiliates, and Friends of IAIFI.
 
 <!---
 * [Understand Levels of Involvement](#understand-levels-of-involvement)
@@ -52,31 +52,21 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
 
 ## Join an IAIFI Committee
-IAIFI has launched several committees, which include both junior and senior members of IAIFI, to help facilitate key IAIFI activities. Visit the pages below for more information on Committees you may be interested in.
- * The [Outreach Committee](\outreach.html#outreach-committee) is currently inviting new members.
- * The [Community Building Committee](\community-building.html#community-building-committee) is currently inviting new members.
- * The [Early Career and Equity Committee](\ecec.html) is currently seeking new members for 2022.
- * The [PhD Summer School and Workshop Committee](\phd-summer-school#organizing-committee) is currently planning the PhD Summer School for Summer 2022.
- * The [Speaker Selection Committee](\community-building.html#speaker-selection-committee) is currently planning the Spring 2022 speaker series.
- * IAIFI is currently building an [MITx Course](\education-workforce.html#mitx-course) and IAIFI members are welcome to contribute input into its development.
+IAIFI has launched several committees, which include both junior and senior members of IAIFI, to help facilitate key IAIFI activities. Visit the [Committees page](/committees.html) to see what committees are open and what the status is of their membership.
 
 ## Lead an IAIFI Journal Club
 
 * Any IAIFI member or partner can [sign up to lead an IAIFI Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7)
-* [Journal Club](\community-building.html#iaifi-journal-club) is led by Andrew Tan and John Martyn
-* Journal Club for the Spring 2022 semester is held every other Thursday (beginning February 10, 2022) at 11 am ET over Zoom
-* Previous Journal Club slides and resources can be found on the [IAIFI internal website](https://internal.iaifi.org/journal-club) (if you do not have access, [email IAIFI Management](mailto:iaifi@mit.edu))
+* [View previous and upcoming Journal Clubs](\journal-club.html)
 
-## Attend IAIFI Discussion Seminars and Public Colloquia
-* View the [full schedule for Discussion Seminars and Colloquia](events.html)
-* Watch [recordings of past seminars](https://internal.iaifi.org/internal-events/) on the IAIFI internal website (if you do not have access,
-[email IAIFI Management](mailto:iaifi-management@mit.edu))
+## Attend IAIFI Discussion Seminars, Lightning Talks, and Public Colloquia
+* View the [full schedule for Discussion Seminars and Colloquia](events-calendar.html)
+* [View previous and upcoming Discussion Seminars](\seminars.html)
+* [View previous and upcoming Lightning Talks](\lightning-talks.html)
+* [View previous and upcoming Colloquia](\events.html)
 * Watch [recordings of past colloquia](https://youtube.com/playlist?list=PLBY0ED2StbGZtEAbnyZz9p3pK31qHLXmq) on our [YouTube Channel](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA)
 * Make sure you are on the internal IAIFI mailing list to receive announcements and Zoom information  (if you are not receiving iaifi-all emails, [email IAIFI Management](mailto:iaifi@mit.edu))
 * [Suggest a speaker](https://docs.google.com/forms/d/1SeaGUpoMZOGRJgcW3Utx_VZh9GTtXVOsYH1AAvrvxTY/edit) for either the Colloquium or Seminar series
-
-## Take an IAIFI-Related Class
-* Harvard GSAS: [Neuro/MCB/Physics 131, Computational Neuroscience](images/neuro-131_2022_advertisement.pdf), Prof. Haim Sompolinsky (Spring 2022) 
 
 ## Collaborate on IAIFI Research Projects
 * [View the People page](people.html) to identify other IAIFI researchers who you may be interested in collaborating with
@@ -84,20 +74,16 @@ IAIFI has launched several committees, which include both junior and senior memb
 
 ## Utilize IAIFI Computing Resources
 * IAIFI Senior Investigators, Junior Investigators, and Affiliates will have access to dedicated IAIFI computing resources hosted by Harvard Cannon. While we wait for delivery of the IAIFI machines, we have access to available GPUs through Harvard Cannon. 
-* Access the [Computing Resources](https://internal.iaifi.org/computing-resources/) page of the IAIFI internal website for instructions about setting up an account. 
+* Access instructions for the [Computing Resources](https://docs.google.com/document/d/19opV0QYWNBtCKGKf3jvmrS9A9Oj2BLQ6WdSpu77ZQcY/edit?usp=sharing) 
 * [Contact Will Detmold](mailto:wdetmold@mit.edu) with any questions or issues setting up your account.
 
 ## Share Achievements with IAIFI Management
 
-* *When a paper is posted to arXiv:*
-  * Post to the [#recent-iaifi-papers stream on the IAIFI Zulip](https://iaifi.zulipchat.com/#narrow/stream/278668-recent-iaifi-papers) (if you do not have access,[email IAIFI Management](mailto:iaifi-management@mit.edu))
-  * For particle physics papers: [check that your paper is appearing under IAIFI on INSPIRE](https://inspirehep.net/institutions/1862936?ui-citation-summary=true)
-* *When a paper is published:*
-  * [Email Marisa LaFleur](mailto:mlafleur@mit.edu) (IAIFI Project Manager) with a link to published article
-* *When giving a talk, organizing a workshop, etc:*
-  * [Email IAIFI Management](mailto:iaifi@mit.edu) so that we can advertise on our [Events page](events.html), share on Zulip, and include in reports
-* *When you're in the news:*
-  * [Email IAIFI Management](mailto:iaifi@mit.edu) so that we can share on the [home page](index.html) (news on the home page is eventually moved to the [News Archive](iaifi-news.html)), [tweet about it](https://twitter.com/iaifi_news), and include in reports
+Please report IAIFI-related papers, talks, datasets, workshops, and research highlights regularly.
+* [Submit paper, talk, dataset, workshop, or research highlight](https://app.smartsheet.com/b/form/fa6d56eb2dec4b5993cd23ac99d910a7)
+* Post papers added to arXiv to the [#recent-iaifi-papers stream on the IAIFI Zulip](https://iaifi.zulipchat.com/#narrow/stream/278668-recent-iaifi-papers) 
+* For particle physics papers: [check that your paper is appearing under IAIFI on INSPIRE](https://inspirehep.net/institutions/1862936?ui-citation-summary=true)
+* When you're in the news, [email IAIFI Management](mailto:iaifi@mit.edu) so that we can share on the [home page](index.html) (news on the home page is eventually moved to the [News Archive](iaifi-news.html)), [tweet about it](https://twitter.com/iaifi_news), and include in reports
 
 ## Advertise and Acknowledge IAIFI
 * Use the IAIFI (with NSF) logo in talks related to IAIFI: [Black](images/iaifi-nsf-logo-black.pdf);  [White](images/iaifi-nsf-logo-white.pdf)
@@ -107,17 +93,9 @@ IAIFI has launched several committees, which include both junior and senior memb
 
 ## Be a Guest in the IAIFI Penthouse
 * If you are an IAIFI member and would like to visit the IAIFI Penthouse (MIT Building 26, 6th floor), we can provide temporary desk space.
-* View available desks and request a space at the [internal IAIFI Penthouse page](https://internal.iaifi.org/iaifi-penthouse/) (must be signed into the internal website to access; email [IAIFI Management](mailto:iaifi@mit.edu) if you are not registered). 
+* [View Penthouse desk assignments](https://docs.google.com/presentation/d/16aVEtwVf0Ull6qo_UC7bR20YQYIO9KHS/edit?usp=sharing&ouid=104868965486355287780&rtpof=true&sd=true).
+* [Request a desk as a visitor](https://forms.gle/7eCTpuqQ4aEGLGx88)
 * If you would like to request a permanent desk in the Penthouse, email [IAIFI Management](mailto:iaifi@mit.edu) with your request and rationale. 
-
-## Access the IAIFI Internal Website
-
-* Sign in to [internal.iaifi.org](https://internal.iaifi.org)
-* If you do not have access, [email IAIFI Management](mailto:iaifi@mit.edu)
-* Resources on the internal website include:
-    * [Affiliation and acknowledgment details](https://internal.iaifi.org/useful-information/) for IAIFI-related papers;
-    * Access to [sign up for the IAIFI Zulip](https://internal.iaifi.org/useful-information/);
-    * [Recordings of previous seminars](https://internal.iaifi.org/internal-events/).
 
 <!---
 Information on available tools from industry partners.
