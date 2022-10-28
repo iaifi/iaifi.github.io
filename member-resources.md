@@ -74,7 +74,7 @@ IAIFI has launched several committees, which include both junior and senior memb
 
 ## Utilize IAIFI Computing Resources
 * IAIFI Senior Investigators, Junior Investigators, and Affiliates will have access to dedicated IAIFI computing resources hosted by Harvard Cannon. While we wait for delivery of the IAIFI machines, we have access to available GPUs through Harvard Cannon. 
-* Access instructions for the [Computing Resources](https://docs.google.com/document/d/19opV0QYWNBtCKGKf3jvmrS9A9Oj2BLQ6WdSpu77ZQcY/edit?usp=sharing) 
+* Access instructions for the [Computing Resources](https://docs.google.com/document/d/1LiON6txM3wKGF7mJFKwDrwa6MREsuZV_UdclD0bvvr4/edit?usp=share_link) 
 * [Contact Will Detmold](mailto:wdetmold@mit.edu) with any questions or issues setting up your account.
 
 ## Share Achievements with IAIFI Management
