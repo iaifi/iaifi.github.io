@@ -39,22 +39,26 @@ Unless otherwise noted, discussion seminars will be held in person (MIT Kolker R
     * **Friday, March 11, 2022 2:00-3:00pm** 
     * *"The role of symmetry in machine learning"*
     * Abstract: In physics, symmetry is a concept of fundamental importance. It has served as a powerful guiding principle that allows us to find regularities in complex phenomena and to deduce the underlying simple laws of nature. Can we leverage the principle of symmetry to gain insights into Machine Learning? There are three separate but interconnected parts of a ML system where we could look for symmetries: The neural network architecture, the input data and the loss function. I will give an overview of the existing research on this topic and discuss the implications for practical ML.
+    * [Slides](https://drive.google.com/file/d/1t3rydOHcp6-LJo6a5YZykmUXLruOY1wc/view?usp=share_link) (For IAIFI members only)
 
 * **Boaz Borak, Professor, Computer Science, Harvard**
     * **Friday, April 8, 2022 2:00-3:00pm** 
     * *Deep learning, generalization, and rationality*
     * Abstract: Deep learning often operates in a regime where traditional generalization bounds fail to hold, and indeed are not even true, in the sense that there is a non vanishing gap between empirical and population performance. Yet, deep neural networks still generalize and perform well beyond their training set.  In this talk we will present: (1) Empirical evidence that deep networks have similar internal representations regardless of whether they are trained in the traditional "full supervised" manner or trained in a "self supervised + simple" (SSS) method, where all but their last layer are trained without access to the labels; (2)  Empirical evidence that for SSS algorithms, generalization is true in practice, along with a theoretical bound on the generalization gap of such algorithms which is non vacuous in several practical setting. The bound does not make structural or conditional independence assumptions on the training distribution, but rather assumes the algorithm is "rational" in a certain precise sense, which is empirically shown to hold in practice.
 The talk will not require background in deep learning. Based on joint works with Yamini Bansal, Gal Kaplun, and Preetum Nakkiran.
+    * [Slides](https://docs.google.com/presentation/d/1l6N4bBuX1OEbeiJjQRs5AUnvtnE1PQ97/edit?usp=share_link&ouid=104868965486355287780&rtpof=true&sd=true) (For IAIFI members only)
 
 * **Siddharth Mishra-Sharma, IAIFI Fellow**
     * **Friday, April 22, 2022 4:00-5:00pm** 
     * *Flows for inference and interpretability: a Galactic Center Excess case study*
     * Abstract: The source of the so-called Galactic Center Excess (GCE)---an excess of gamma-rays observed from the central regions of the Milky Way---remains an open question. Disentangling the various possibilities, such as annihilating dark matter and astrophysical point sources, is a challenging modeling and inference task. I will describe some recent attempts at making progress in this direction by leveraging neural simulation-based inference techniques. Time permitting, I will describe some ongoing work using generative modeling as a test of robustness of neural network-based inference methods in the context of the GCE.
+    * [Slides](https://drive.google.com/file/d/14Ru1LuVwKZ7ClOY_UIvdDT2_jQxEMhtt/view?usp=share_link) (For IAIFI members only)
 
 * **Special Seminar: Junyu Liu**
   * **Wednesday, June 1, 2022 2:30-3:30pm** 
   * *An analytic theory for the dynamics of wide quantum neural networks*
   * Abstract: Parametrized quantum circuits can be used as quantum neural networks and have the potential to outperform their classical counterparts when trained for addressing learning problems. To date, much of the results on their performance on practical problems are heuristic in nature. In particular, the convergence rate for the training of quantum neural networks is not fully understood. Here, we analyze the dynamics of gradient descent for the training error of a class of variational quantum machine learning models. We define wide quantum neural networks as parameterized quantum circuits in the limit of a large number of qubits and variational parameters. We then find a simple analytic formula that captures the average behavior of their loss function and discuss the consequences of our findings. For example, for random quantum circuits, we predict and characterize an exponential decay of the residual training error as a function of the parameters of the system. We finally validate our analytic results with numerical experiments.
+    * [Slides](https://drive.google.com/file/d/1IV6BoThlip4g5Ig1bHoIe5ggHKWULadP/view?usp=share_link) (For IAIFI members only)
 
 
 ## Fall 2021 Seminars
@@ -63,63 +67,77 @@ The talk will not require background in deep learning. Based on joint works with
     * **Friday, September 24, 2:00-3:00pm** 
     * *"Learning metrics in extra dimensions"*
     * Abstract: String theory is a very promising candidate for a fundamental theory of our universe. An interesting prediction of string theory is that spacetime is ten-dimensional. Since we only observe four spacetime dimensions, the extra six dimensions are small and compact, thus evading detection. These extra six-dimensional spaces, known as Calabi-Yau spaces, are very special and elusive. They are equipped with a special metric needed to make string theory consistent. This special property is given in terms of a (notoriously hard) type of partial differential equation. While we know, thanks to the heroic work of Calabi and Yau, that this PDE has a unique solution and hence that the metric exists, we neither know what it looks like nor how to construct it explicitly. However, the metric is an important quantity that enters in many physical observables, e.g. particle masses. Thinking of the metric as a function that satisfies three constraints that enter in the Calabi-Yau theorem, we can parameterize the metric as a neural network and formulate the problem as multiple continuous optimization tasks. The neural network is trained (akin to self-supervision) by sampling points from the Calabi-Yau space and imposing the constraints entering the theorem as customized loss functions.
+    * [Slides](https://drive.google.com/file/d/1hB8SPzERs3AXLum5hC-5Bn0NxgaDRC0f/view?usp=share_link) (For IAIFI members only)
 
   * **Di Luo, IAIFI Fellow**
     * **Friday, October 8, 2:00-3:00pm**
     * *"Machine Learning for Quantum Many-body Physics"*
     * Abstract: The study of quantum many-body physics plays an crucial role across condensed matter physics, high energy physics and quantum information science. Due to the exponential growing nature of Hilbert space, challenges arise for exact classical simulations of high dimensional wave function which is the core object in quantum many-body physics. A natural question comes as whether machine learning, which is powerful for processing high dimensional probability distribution, can provide new methods for studying quantum many-body physics. In contrast to the standard high dimensional probability distribution, the wave function further exhibits complex phase structure and rich symmetries besides high dimensionality. It opens up a series of interesting questions for high dimensional optimization, sampling and representation imposed by quantum many-body physics. In this talk, I will discuss recent advancement of the field and present (1) neural network representations for quantum states with Fermionic anti-symmetry and gauge symmetries; (2) neural network simulations for ground state and real time dynamics in condensed matter physics, high energy physics and quantum information science; (3) quantum control protocol discovery with machine learning.
+    * [Slides](https://drive.google.com/file/d/19XdAKC86lc9x4MRa5U1FNgvi_UW0VEG_/view?usp=share_link) (For IAIFI members only)
 
   * **Cengiz Pehlevan, Assistant Professor, Applied Mathematics, Harvard University (SEAS)**
     * **Friday, October 22, 2:00-3:00pm**
     * *"Inductive bias of neural networks"*
     * Abstract: A learner’s performance depends crucially on how its internal assumptions, or inductive biases, align with the task at hand. I will present a theory that describes the inductive biases of neural networks in the infinite width limit using kernel methods and statistical mechanics. This theory elucidates an inductive bias to explain data with "simple functions" which are identified by solving a related kernel eigenfunction problem on the data distribution. This notion of simplicity allows us to characterize whether a network is compatible with a learning task, facilitating good generalization performance from a small number of training examples. I will present applications of the theory to deep networks (at finite width) trained on synthetic and real datasets, and recordings from the mouse primary visual cortex. Finally, I will briefly present an extension of the theory to out-of-distribution generalization.
+    * [Slides](https://drive.google.com/file/d/19eld5RRzeb2WvJAxw-KP7fqRkEFPVCqo/view?usp=share_link) (For IAIFI members only)
     
   * **Bryan Ostdiek, Postdoctoral Fellow, Theoretical Particle Physics, Harvard University**
     * **Friday, November 5, 2:00-3:00pm**
     * *"Lessons from the Dark Machines Anomaly Score Challenge"*
     * Abstract: With LHC experiments producing strong exclusion bounds on theoretical new physics models, there has been recent interest in model agnostic methods to search for physics beyond the standard model. The Dark Machines group conducted a "challenge" as an open playground to examine unsupervised anomaly detection methods on simulated collider events. In this discussion, I briefly motivate and introduce anomaly detection, along with the public data set. We found that the methods which performed best across a wide range of signals shared a common feature; the metric for determining how anomalous an event is depends only on how the event can be encoded into a small representation - there is no decoding step. The discussion will start with speculations about why the "fixed target" encoding can work and look to future tests.
+    * [Slides](https://drive.google.com/file/d/1phVj4WMd2axirn-FzbGfF5kw1lyeqzBL/view?usp=share_link) (For IAIFI members only)
 
   * **Tess Smidt, Assistant Professor, EECS, MIT**
     * **Friday, November 19, 2:00-3:00pm**
     * *"Unexpected properties of symmetry equivariant neural networks"*
     * Abstract: Physical data and the way that it is represented contains rich context, e.g. symmetries, conserved quantities, and experimental setups. There are many ways to imbue machine learning models with this context (e.g. input representation, training schemes, constraining model structure) and each vary in their flexibility and robustness. In this talk, I’ll give examples of some surprising consequences of what happens when we impose constraints on the functional forms of our models. Specifically, I’ll discuss properties of Euclidean Neural Networks which are constructed to preserve 3D Euclidean symmetry. Perhaps unsurprisingly, symmetry preserving algorithms are extremely data-efficient; they are able to achieve better results with less training data. More unexpectedly, Euclidean Neural Networks also act as “symmetry-compilers”: they can only learn tasks that are symmetrically well-posed and they can also help uncover when there is symmetry implied missing information. I’ll give examples of these properties and how they can be used to craft useful training tasks for physical data. To conclude, I’ll highlight some open questions in symmetry equivariant neural networks particularly relevant to representing physical systems.
+    * [Slides](https://drive.google.com/file/d/1EZT2TVTFlPYxwI9LIlyoHnMGkEutVO9i/view?usp=share_link) (For IAIFI members only)
 
   * **Harini Suresh, PhD Student, Computer Science, MIT**
     * **Friday, December 3, 2:00-3:00pm**
     * *"Understanding Sources of Harm throughout the Machine Learning Life Cycle"* 
-    * As machine learning increasingly affects people and society, awareness of its potential harmful effects has also grown. To anticipate, prevent, and mitigate undesirable downstream consequences, it's important that we understand when and how harm might be introduced throughout the ML life cycle. This talk will walk through a framework that identifies seven distinct potential sources of downstream harm in machine learning, spanning the data collection, development, and deployment processes.  It will also explore how different sources of harm might motivate different mitigation techniques.  
+    * As machine learning increasingly affects people and society, awareness of its potential harmful effects has also grown. To anticipate, prevent, and mitigate undesirable downstream consequences, it's important that we understand when and how harm might be introduced throughout the ML life cycle. This talk will walk through a framework that identifies seven distinct potential sources of downstream harm in machine learning, spanning the data collection, development, and deployment processes.  It will also explore how different sources of harm might motivate different mitigation techniques.
+    * [Slides](https://drive.google.com/file/d/1Evm6o6WPkmPvZWh96LTxVvzQQMxXgkq8/view?usp=share_link) (For IAIFI members only) 
 
 ## Spring 2021 Seminars
 
   * **Justin Solomon**
     * **Thursday, February 11, 11am-noon**
     * *"Geometric Data Processing at MIT"*
+    * [Slides](https://drive.google.com/file/d/1QyhNjYpzsfCIXdjL8OVzZJ8hMrbdPVOu/view?usp=share_link) (For IAIFI members only) 
 
   * **Phil Harris, Anjali Nambrath, Karna Morey, Michal Szurek, Jade Chongsathapornpong**
     * **Thursday, February 25, 11am-noon**
     * *"Open Data Science in Physics Courses"*
+    * [Slides](https://drive.google.com/file/d/129JGTKX5pFmXQrPAw_sENjWI035-z8lZ/view?usp=share_link) (For IAIFI members only) 
 
   * **Ge Yang**
     * **Thursday, Mar 11, 11am-noon**
     * *"Learning Task Informed Abstractions"*
+    * [Slides](https://drive.google.com/file/d/1L5ic6K1n1qcTwS4HUctPCikcHlmhFrEq/view?usp=share_link) (For IAIFI members only) 
 
   * **Christopher Rackauckas**
     * **Thursday, Mar 25, 11am-noon**
     * *"Overview of SciML"*
+    * [Slides](https://drive.google.com/file/d/1V_N8LDBGdMA0UnXTXQ9W3ELtz5QIJhC6/view?usp=share_link) (For IAIFI members only) 
     
   * **George Barbastathis/Demba Ba**
     * **Thursday, April 8, 11am-noon**
     * *"On the Countinuum between Dictionaries and Neural Nets for Inverse Problems"*
+    * [Slides](https://drive.google.com/file/d/120zmk-awc-rSdX0CtUPCnp86qlsChiZ3/view?usp=share_link) (For IAIFI members only) 
     
   * **David Kaiser**
     * **Thursday, April 22, 11am-noon**
     * *"Ethics and AI"*
+    * [Slides](https://drive.google.com/file/d/1W6FmaEhY-INyiRkydkcdKTRXQzOLWEaF/view?usp=share_link) (For IAIFI members only) 
         
   * **Alexander Rakhlin**
     * **Thursday, May 6, 11am-noon**
     * *"Deep Learning: A Statistical Viewpoint"*
+    * [Slides](https://drive.google.com/file/d/1HVgQN3cRAUgZmVrP0OOrer8DeenBE7Fu/view?usp=share_link) (For IAIFI members only) 
         
   * **Edo Berger**
     * **Thursday, May 20, 11am-noon**
     * *"Machine Learning for Cosmic Explosions"*
+    * [Slides](https://drive.google.com/file/d/1FEqmHIxhujJq-R80wIJ7pBNWk6prHHYh/view?usp=share_link) (For IAIFI members only) 
 
