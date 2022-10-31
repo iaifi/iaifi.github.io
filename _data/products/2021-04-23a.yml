@@ -4,8 +4,8 @@ title: "Scalable and Flexible Deep Bayesian Optimization with Auxiliary Informat
 authors: Samuel Kim, Peter Y. Lu, Charlotte Loh, Jamie Smith, Jasper Snoek, Marin Soljačić
 abstract: Bayesian optimization (BO) is a popular paradigm for global optimization of expensive black-box functions, but there are many domains where the function is not completely black-box. The data may have some known structure, e.g. symmetries, and the data generation process can yield useful intermediate or auxiliary information in addition to the value of the optimization objective. However, surrogate models traditionally employed in BO, such as Gaussian Processes (GPs), scale poorly with dataset size and struggle to incorporate known structure or auxiliary information. Instead, we propose performing BO on complex, structured problems by using Bayesian Neural Networks (BNNs), a class of scalable surrogate models that have the representation power and flexibility to handle structured data and exploit auxiliary information. We demonstrate BO on a number of realistic problems in physics and chemistry, including topology optimization of photonic crystal materials using convolutional neural networks, and chemical property optimization of molecules using graph neural networks. On these complex tasks, we show that BNNs often outperform GPs as surrogate models for BO in terms of both sampling efficiency and computational cost.
 arxiv: 2104.11667
-journal: 
-doi: 
+journal: Transactions on Machine Learning Research, September 2022 
+doi: https://openreview.net/pdf?id=tPMQ6Je2rB
 nsf-par:
 code:
-publication-date: 
+publication-date: 2022-09-01
