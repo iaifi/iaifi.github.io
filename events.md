@@ -11,17 +11,22 @@ title: Public Colloquia
 
 Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events.
 
-You can [watch our colloquia live and view recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
+Our Colloquium Series will continue in Spring 2023. You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 &nbsp;
-<img class="image" src="images/small-photo-anima-anandkumar.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
-* **[Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/), Professor, Caltech; Director of ML, NVIDIA** 
-    * **Tuesday, November 1, 2022, 11:00am-12:00pm (Note the change in date and time)**
-    * *AI Accelerating Sciences: Neural operators for Learning Between Function Spaces*
-    * Deep learning surrogate models have shown promise in modeling complex physical phenomena such as fluid flows, molecular dynamics, and material properties. However, standard neural networks assume finite-dimensional inputs and outputs, and hence, cannot withstand a change in resolution or discretization between training and testing. We introduce Fourier neural operators that can learn operators, which are mappings between infinite dimensional function spaces. They are discretization-invariant and can generalize beyond the discretization or resolution of training data. When applied to modeling weather forecasting, Carbon Capture and Storage (CCS), material plasticity and many other processes, neural operators capture fine-scale phenomena and have similar skill as the gold-standard numerical weather models, while being 4-5 orders of magnitude faster.
+
 
 ## Past Colloquia
 
 ### Fall 2022
+
+<img class="image" src="images/small-photo-anima-anandkumar.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
+* **[Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/), Professor, Caltech; Director of ML, NVIDIA** 
+    * **Tuesday, November 1, 2022, 11:00am-12:00pm (Note the change in date and time)**
+    * *AI Accelerating Sciences: Neural operators for Learning Between Function Spaces*
+    * [YouTube Recording](https://youtu.be/RR5-mYQOb7E)
+    * [Talk Slides](talks/2022_11_01_IAIFI_Colloquium_Anandkumar.pdf)
+    * Deep learning surrogate models have shown promise in modeling complex physical phenomena such as fluid flows, molecular dynamics, and material properties. However, standard neural networks assume finite-dimensional inputs and outputs, and hence, cannot withstand a change in resolution or discretization between training and testing. We introduce Fourier neural operators that can learn operators, which are mappings between infinite dimensional function spaces. They are discretization-invariant and can generalize beyond the discretization or resolution of training data. When applied to modeling weather forecasting, Carbon Capture and Storage (CCS), material plasticity and many other processes, neural operators capture fine-scale phenomena and have similar skill as the gold-standard numerical weather models, while being 4-5 orders of magnitude faster.
+
 <img class="image" src="images/small-photo-daniel-goldman.jpg" align="right" style="max-width:299px;width:20%" hspace="10" vspace="10"/>
 * **[Daniel Goldman](https://physics.gatech.edu/user/daniel-goldman), Professor, Georgia Tech** 
     * **Friday, October 14, 2022, 2:00-3:00pm** 

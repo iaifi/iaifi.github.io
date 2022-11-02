@@ -22,7 +22,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Next IAIFI Colloquium on November 1, 2022 at 11:00 am ET.***  Our [hybrid colloquium series](events.html) for Fall 2022 will continue on November 1, 2022 with Anima Anandkumar (Professor, Caltech; Director of ML, NVIDIA) at 11:00 am ET. All colloquia will be streamed live and available to view later on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
+***IAIFI Colloquium Series will continue in Spring 2023.*** Recordings of our [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
 ### IAIFI News
