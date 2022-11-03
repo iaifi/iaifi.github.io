@@ -174,14 +174,18 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 * Learn about the [MIT Physics program](https://physics.mit.edu/academic-programs/graduate-students/)
 * Learn about the [Interdisciplinary PhD in Physics, Statistics and Data Science](https://physics.mit.edu/academic-programs/graduate-students/psds-phd/)
 
-
-
 <img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Graduate Program in Electrical Engineering and Computer Science
 
 * [Apply to be an MIT EECS graduate student](https://gradapply.mit.edu/eecs)
 * Deadline: December 15 for the following academic year
 * Learn more about the [MIT EECS program](https://www.eecs.mit.edu/academics-admissions/graduate-program)
+
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
+### A3D3 Postbacc Fellowship
+* [Apply to be an A3D3 Postbacc fellow at MIT](https://academicjobsonline.org/ajo/jobs/22854)
+* Deadline: March 3, 2023
+* Learn more about [the Accelerated AI Algorithms for Data-Driven Discovery (A3D3) Postbacc Fellowship](https://a3d3.ai/jobs.html)
 
 <img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Summer Research Program
