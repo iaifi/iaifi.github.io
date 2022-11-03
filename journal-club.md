@@ -16,13 +16,18 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
+* **Ziming Liu, PhD Student, MIT**
+  * **November 8, 2022, 11:00am-12:00pm**
+  * *Toy Models of Superposition*
+  * Abstract: It would be very convenient if the individual neurons of artificial neural networks corresponded to cleanly interpretable features of the input. For example, in an “ideal” ImageNet classifier, each neuron would fire only in the presence of a specific visual feature, such as the color red, a left-facing curve, or a dog snout. But it isn't always the case that features correspond so cleanly to neurons, especially in large language models where it actually seems rare for neurons to correspond to clean features. I will present a recent paper "Toy Models of Superposition" from Anthropic, aiming to answer these questions:  Why is it that neurons sometimes align with features and sometimes don't? Why do some models and tasks have many of these clean neurons, while they're vanishingly rare in others?
+
+
+## Fall 2022 Journal Clubs
+
 * **Sona Najafi, Researcher, IBM**
   * **October 25, 2022, 11:00am-12:00pm**
   * *Quantum machine learning from algorithms to hardware*
   * Abstract: The rapid progress of technology over the past few decades has led to the emergence of two powerful computational paradigms known as quantum computing and machine learning. While machine learning tries to learn the solutions from data, quantum computing harnesses the quantum laws for more powerful computation compared to classical computers. In this talk, I will discuss three domains of quantum machine learning, each harnessing a particular aspect of quantum computers and targeting specific problems. The first domain scrutinizes the power of quantum computers to work with high-dimensional data and speed-up algebra, but raises the caveat of input/output due to the quantum measurement rules. The second domain circumvents this problem by using a hybrid architecture, performing optimization on a classical computer while evaluating parameterized states on a quantum circuit, chosen based on a particular issue. Finally, the third domain is inspired by brain-like computation and uses a given quantum system's natural interaction and unitary dynamic as a source for learning
-
-
-## Fall 2022 Journal Clubs
 
 * **Kim Nicoli, Grad Student, Technical University of Berlin** 
   * **October 18, 2022, 11:00am-12:00pm**

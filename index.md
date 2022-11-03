@@ -29,6 +29,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+***Matt Schwartz publishes editorial on AI interpretability in Nature Physics***: Read ["Should artificial intelligence be interpretable to humans?"](https://www.nature.com/articles/s42254-022-00538-z.epdf) by IAIFI Senior Investigator Matt Schwartz. *November 2, 2022*
+{:.info}
+
 ***Jesse Thaler named American Physical Society Fellow for 2022***: APS honored IAIFI Director and MIT Professor of Physics, Jesse Thaler, was [selected as an APS Fellow]( https://news.mit.edu/2022/american-physical-society-fellows-1019) "for original foundational research contributions, leadership, and mentoring in the area of machine learning for fundamental physics. *October 27, 2022*
 {:.info}
 
