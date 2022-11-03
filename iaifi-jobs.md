@@ -37,6 +37,12 @@ IAIFI does not have dedicated faculty opportunities, but there are often open fa
 * [Junior faculty openings in MIT EECS](https://faculty-searches.mit.edu/eecs/)
 * Deadline: December 1, 2022
 
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
+### MIT Kavli Institute for Astrophysics and Space Research
+
+* [Junior faculty openings in MIT Physics, Kavli Institute](https://academicjobsonline.org/ajo/jobs/23065)
+* Deadline: December 1, 2022
+
 <img class="image" src="images/harvard_logo.png" align="right" style="max-width:403px;width:10%" hspace="10" vspace="10"/>
 ### Harvard University Department of Physics
 * [Tenure-track Professor in Physics](https://www.physics.harvard.edu/jobs)
@@ -85,10 +91,8 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 <img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 #### MIT
 
-<!---
-* [Postdoc openings in the MIT Kavli Institute for Astrophysics and Space Research](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=22645&localeCode=en-us)
-    * Deadline: Applications currently closed.
---->
+* [Postdoc openings in the MIT Kavli Institute for Astrophysics and Space Research](https://academicjobsonline.org/ajo/jobs/22863)
+    * Deadline: December 2, 2022
 
 * [MEnTorEd Opportunities in Research (METEOR) Fellowship in MIT CSAIL](https://www.csail.mit.edu/meteor)
     * Deadline: February 1, 2023 (applications open November 15, 2022
