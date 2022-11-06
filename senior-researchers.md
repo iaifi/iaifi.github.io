@@ -1,92 +1,95 @@
 ---
 layout: article
-title: Public Resources
+title: Senior Researchers
 ---
 
-Thank you for your interest in getting involved with IAIFI! 
+Thank you for your interest in getting involved with IAIFI! Thank you for your interest in getting involved with IAIFI! If you are faculty, an industry researcher, or a PI interested in the intersection of physics and AI, there are many opportunities for you to be involved with IAIFI at various levels. 
 
-* [Senior Researchers in the Boston Area](#senior-researchers-in-the-boston-area)
-* [Junior Researchers in the Boston Area](#junior-researchers-in-the-boston-area)
-* [Researchers or Practitioners in Industry](#researchers-or-practitioners-in-industry)
-* [Researchers Beyond the Boston Area](#researchers-beyond-the-boston-area)
-* [Contact](#contact)
+
+* [Subscribe to IAIFI News](#subscribe-to-iaifi-news)
+* [Apply to be an IAIFI Affiliate](#apply-to-be-an-iaifi-affiliate)
+* [Explore Faculty Opportunities at IAIFI Universities](#explore-faculty-opportunities-at-IAIFI-universities)
+* [Apply to be a Friend of IAIFI](#apply-to-be-a-friend-of-iaifi)
 
 If your situation does not fall into any of the above categories, please contact [IAIFI Management](mailto:iaifi@mit.edu).
 
-## Senior Researchers in the Boston area
+## Subscribe to IAIFI News 
 
-Senior Researchers include faculty members and senior research scientists with PI status.  If you are interested in becoming an IAIFI Senior Investigator, you should first apply to become an IAIFI Affiliate.
+[Subscribe to our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events and opportunities. The mailing list  is open to anyone interested in the IAIFI mission, regardless of location or level of involvement.
 
-### Apply to be an IAIFI Affiliate
+## Apply to be an IAIFI Affiliate
 
 * [Complete the IAIFI Affiliate application form](affiliates.html)
 * Must be sponsored by an [IAIFI Senior Investigator](people.html#senior-investigators)
-* Requires reporting IAIFI-related activities to the NSF
+* Encourages reporting IAIFI-related activities to the NSF
 * Expected to participate in the life of IAIFI, including mentoring, presenting seminars, etc. 
 * Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
 * Affiliate status reviewed annually
+* If you are interested in being involved but don't want to commit at this level, [apply to be a Friend of IAIFI](#apply-to-be-a-friend-of-iaifi)
+
+## Explore Faculty Opportunities at IAIFI Universities
+
+IAIFI does not have dedicated faculty opportunities, but there are often open faculty positions in IAIFI-affiliated universities.
+
+<!---
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
+### MIT Center for Theoretical Physics
 
 
-## Junior Researchers in the Boston Area
+* [Junior faculty openings in the MIT CTP](http://academicjobsonline.org/ajo/mit/ctp/)
+* Deadline: N/A
+--->
 
 
-Junior Researchers include undergraduate students, graduate students, postdocs, and research scientists without PI status.
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
+### MIT Physics Division of Experimental Particle and Nuclear Physics
+
+* [Junior faculty openings in MIT Physics NUPAX](https://academicjobsonline.org/ajo/jobs/23062)
+* Deadline: December 1, 2022
 
 
-### Become a Junior Investigator 
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
+### MIT Department of Electrical Engineering and Computer Science (EECS)
 
-* [Complete the Junior Researcher interest form](junior-interest.html)
-* Must be affiliated with an [IAIFI Senior Investigator](people.html#senior-investigators) or [IAIFI Affiliate](people.html#affiliates) unless special arrangements are made with [IAIFI Management](mailto:iaifi-management@mit.edu)
-* Requires reporting IAIFI-related activities to the NSF
-* Expected to collaborate on research as an IAIFI Junior Investigator
-* Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
+* [Junior faculty openings in MIT EECS](https://faculty-searches.mit.edu/eecs/)
+* Deadline: December 1, 2022
 
+<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
+### MIT Kavli Institute for Astrophysics and Space Research
 
-### Become a Friend of IAIFI 
+* [Junior faculty openings in MIT Physics, Kavli Institute](https://academicjobsonline.org/ajo/jobs/23065)
+* Deadline: December 1, 2022
 
-* [Complete the Junior Researcher interest form](junior-interest.html)
-* Must be affiliated with one of the IAIFI institutions (MIT, Harvard, Northeastern, Tufts) or another Boston area university
-* No reporting expectations
-* Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
+<img class="image" src="images/harvard_logo.png" align="right" style="max-width:403px;width:10%" hspace="10" vspace="10"/>
+### Harvard University Department of Physics
+* [Tenure-track Professor in Physics](https://www.physics.harvard.edu/jobs)
+* Deadline: November 15, 2022 or until position is filled
 
-## Researchers or Practitioners in Industry
+<!---
+### Harvard University School of Engineering and Applied Sciences (SEAS)
+* [Tenure-track faculty openings in Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/office-faculty-affairs/open-academic-positions?job_type%5Btenure%5D=tenure&sort_by=search_api_relevance)
+* Deadline: Applications currently closed.
+--->
 
-IAIFI is collaborating with researchers outside of academia to advance research at the intersection of physics and AI.
+<!---
+<img class="image" src="images/tufts_logo.png" align="right" style="max-width:300px;width:10%" hspace="10" vspace="10"/>
+### Tufts University Department of Computer Science
+* [Assistant or Associate Professor in AI opening at Tufts University Department of Computer Science](https://apply.interfolio.com/92330)
+* Deadline: Applications currently closed.
+--->
 
-<img class="image" src="images/iaifi-logo-black-noborder.jpg" align="right" style="max-width:1466px;width:10%" hspace="10" vspace="10"/>
-### Apply to be an IAIFI Affiliate
+<img class="image" src="images/northeastern_logo.png" align="right" style="max-width:1200px;width:10%" hspace="10" vspace="10"/>
+### Northeastern University Khoury College of Computer Sciences
+* [Teaching Professor openings in Computer Science](https://northeastern.wd1.myworkdayjobs.com/en-US/careers/details/Assistant-Teaching-Professor-Associate-Teaching-Professor-Full-Teaching-Professor---Boston_R108315)
+* Deadline: December 1, 2022 (or until search is complete)
 
-* Industry researchers in the Boston area are eligible to become [IAIFI Affiliates](#apply-to-be-an-iaifi-affiliate) 
+<img class="image" src="images/brandeis-logo.png" align="right" style="max-width:802px;width:10%" hspace="10" vspace="10"/>
+### Brandeis University Department of Mathematics
+* [Tenure-Track Assistant Professor in Applied Mathematics](https://www.mathjobs.org/jobs/list/20758)
+* Deadline: November 1, 2022 
 
+## Apply to be a Friend of IAIFI
 
-### Contact a Senior Investigator to Collaborate
-
-* [List of IAIFI Senior Investigators](https://iaifi.org/people.html#senior-investigators)
-* List of current research projects [coming soon!]
-
-
-### Discuss Possible Partnerships with IAIFI
-
-* Contact [Todd Zickler](mailto:zickler@seas.harvard.edu), IAIFI Knowledge Transfer Coordinator
-* Partnerships may include:
-    * Providing resources for IAIFI use, such as computing tools
-    * Asking IAIFI researchers to test new resources
-    * Collaborating with IAIFI researchers on specific projects in your industry
-    * Inviting IAIFI to speak with your group, or presenting to IAIFI
-
-
-## Researchers Beyond the Boston Area
-
-Official IAIFI affiliation is currently limited to those in the greater Boston Area, though IAIFI researchers participate in worldwide collaborations and many IAIFI events are open to the broader community.
-
-### Receive Updates on IAIFI Events and Opportunities
-
-* [Subscribe to IAIFI News](http://mailman.mit.edu/mailman/listinfo/iaifi-news)
-
-### Attend IAIFI Colloquia
-
-* [View full schedule](https://iaifi.org/events)
-* [Watch past colloquia on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA)
-
-### Request Letter of Collaboration
-* If you would like to discuss a letter of collaboration from IAIFI for your own proposal, [email IAIFI Management](mailto:iaifi-management@mit.edu), including information about your proposal, how you'd like to partner with IAIFI, and the deadline for your request.
+* [Complete the interest form](junior-interest.html)
+* Must be affiliated with one of the IAIFI institutions (MIT, Harvard, Northeastern, Tufts) or another Boston-area university or company
+* Welcome to join IAIFI internal events, including lightning talks, journal clubs, socials, etc, but not required to be involved or report on activities (unlike Affiliate)

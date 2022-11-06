@@ -16,21 +16,21 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Accepting additional members
 * Establishes and fosters connections with industry partners for mutual benefit through internships, workforce development and recruitment, resource sharing, collaboration, and funding; as well as provides resources and guidance to IAIFI members for career development and exploration.
 * Time Commitment: Expected one-hour meeting per month and time spent developing materials (on volunteer basis)
-* 2022 Industry Partnership Committee: Todd Zickler (Chair), Mike Williams, Anna Golubeva, Sangeon Park, Emmanouil Theodosis, Ge Yang
+* 2022 Industry Partnership Committee: Todd Zickler (Chair), Mike Williams, Sangeon Park, Emmanouil Theodosis, Ge Yang
 * Primary Contact: [Email Todd Zickler (Chair)](mailto:zickler@seas.harvard.edu)
 
 # Public Engagement Committee
 * Status: Seeking additional members
 * Develops educational materials for use in outreach activities, such as classroom visits, and brainstorms opportunities for outreach (including festivals, museum exhibits, etc)
 * Time Commitment: One-hour meeting every 3-4 weeks and time spent developing materials (on volunteer basis)
-* 2022 Public Engagement Committee: Lina Necib (Chair), Brent Nelson, Harold Erbin, Jeffrey Lazar, Tri Nguyen, Sangeon Park, Ge Yang
+* 2022 Public Engagement Committee: Lina Necib (Chair), Brent Nelson, Harold Erbin, Tri Nguyen, Sneh Pandya, Sangeon Park, Sokratis Trifinopolous, Ge Yang
 * Primary Contact: [Email Lina Necib](mailto:lnecib@mit.edu)
 
 # Community Building Committee
 * Status: Accepting additional members
 * Brainstorms and plans community building events (such as coffee hours, social events, meet-ups, etc.)
 * Time Commitment: One-hour meeting per month and time spent helping with event setup occasionally
-* 2022 Community Building Committee: Matt Schwartz (Chair), Mike Williams, Mehmet Demirtas, Niklas Nolte, Ouail Kitouni, Sona Najafi, Omar Alterkait
+* 2022 Community Building Committee: Matt Schwartz (Chair), Mike Williams, Jessie Micallef, Mehmet Demirtas, Niklas Nolte, Ouail Kitouni, Omar Alterkait
 * Primary Contact: [Email Matt Schwartz](schwartz@g.harvard.edu)
 
 # Early Career and Equity Committee
@@ -53,6 +53,13 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Time Commitment: One two-hour meeting every 2-3 months and time spent helping at the Summer School/Workshop
 *2022 Summer School and Workshop Committee: Jim Halverson (Chair), Tess Smidt, Anna Golubeva, Jeffrey Lazar, Peter Lu, Dylan Rankin
 *Primary Contact: [Email Jim Halverson](j.halverson@northeastern.edu)
+
+# Communications Committee
+* Status: Accepting new members
+* Provide feedback on and contribute to both internal and external communications to enhance the reach and impact of IAIFI in both physics and AI communities.
+* Time Commitment: One-hour meeting each month and time spent contributing to communications.
+* 2022 Communications Committee: Pulkit Agrawal (Chair), Jesse Thaler, Anna Golubeva, Cari Cesarotti, Richard Li
+Primary Contact: [Email Pulkit Agrawal](mailto:pulkitag@mit.edu)
 
 # Journal Club Organizers
 * Status: No additional organizers needed at this time, but [sign up here to lead a Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7)

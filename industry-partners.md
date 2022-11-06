@@ -1,92 +1,21 @@
 ---
 layout: article
-title: Public Resources
+title: Industry Partners
 ---
 
 Thank you for your interest in getting involved with IAIFI! 
 
-* [Senior Researchers in the Boston Area](#senior-researchers-in-the-boston-area)
-* [Junior Researchers in the Boston Area](#junior-researchers-in-the-boston-area)
-* [Researchers or Practitioners in Industry](#researchers-or-practitioners-in-industry)
-* [Researchers Beyond the Boston Area](#researchers-beyond-the-boston-area)
-* [Contact](#contact)
+## Partnership Hub
+We are in the process of developing partnerships across both industry and academia. If you are interested in discussing partnership opportunities with IAIFI, [contact Todd Zickler](mailto:zickler@seas.harvard.edu), IAIFI Industry Partnership Coordinator. 
 
-If your situation does not fall into any of the above categories, please contact [IAIFI Management](mailto:iaifi@mit.edu).
+## Industry Visits
 
-## Senior Researchers in the Boston area
+* **Google Quantum AI:** Murphy Niu, of Google Quantum AI presented a [Journal Club on December 3, 2021](/journal-club.html#fall-2021-journal-clubs) to share [resources that are available to IAIFI members](https://docs.google.com/document/d/1Xq5buOxookA7kqecAyUVQC1ug5B-Iar_jGqjbKBzF7I/edit?usp=sharing) through Google Quantum AI. 
+* **QuEra:** On October 19, 2022, several representatives [gave a lunch seminar for IAIFI members](https://docs.google.com/document/d/1P8tzwI_lrZTrBtxPT2ajmDxA27xRTCCJnVaYSMXu62g/edit?usp=sharing) to open conversations with the IAIFI and local lattice gauge theory communities and stimulate interest in developing joint applications to quantum machine learning and high-energy physics. 
 
-Senior Researchers include faculty members and senior research scientists with PI status.  If you are interested in becoming an IAIFI Senior Investigator, you should first apply to become an IAIFI Affiliate.
+## Industry Sponsors
+We are grateful to the following sponsors for their support of the 2022 IAIFI Summer School:
+* [Google DeepMind](https://www.deepmind.com)
+* [Unlearn](https://www.unlearn.ai)
 
-### Apply to be an IAIFI Affiliate
-
-* [Complete the IAIFI Affiliate application form](affiliates.html)
-* Must be sponsored by an [IAIFI Senior Investigator](people.html#senior-investigators)
-* Requires reporting IAIFI-related activities to the NSF
-* Expected to participate in the life of IAIFI, including mentoring, presenting seminars, etc. 
-* Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
-* Affiliate status reviewed annually
-
-
-## Junior Researchers in the Boston Area
-
-
-Junior Researchers include undergraduate students, graduate students, postdocs, and research scientists without PI status.
-
-
-### Become a Junior Investigator 
-
-* [Complete the Junior Researcher interest form](junior-interest.html)
-* Must be affiliated with an [IAIFI Senior Investigator](people.html#senior-investigators) or [IAIFI Affiliate](people.html#affiliates) unless special arrangements are made with [IAIFI Management](mailto:iaifi-management@mit.edu)
-* Requires reporting IAIFI-related activities to the NSF
-* Expected to collaborate on research as an IAIFI Junior Investigator
-* Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
-
-
-### Become a Friend of IAIFI 
-
-* [Complete the Junior Researcher interest form](junior-interest.html)
-* Must be affiliated with one of the IAIFI institutions (MIT, Harvard, Northeastern, Tufts) or another Boston area university
-* No reporting expectations
-* Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
-
-## Researchers or Practitioners in Industry
-
-IAIFI is collaborating with researchers outside of academia to advance research at the intersection of physics and AI.
-
-<img class="image" src="images/iaifi-logo-black-noborder.jpg" align="right" style="max-width:1466px;width:10%" hspace="10" vspace="10"/>
-### Apply to be an IAIFI Affiliate
-
-* Industry researchers in the Boston area are eligible to become [IAIFI Affiliates](#apply-to-be-an-iaifi-affiliate) 
-
-
-### Contact a Senior Investigator to Collaborate
-
-* [List of IAIFI Senior Investigators](https://iaifi.org/people.html#senior-investigators)
-* List of current research projects [coming soon!]
-
-
-### Discuss Possible Partnerships with IAIFI
-
-* Contact [Todd Zickler](mailto:zickler@seas.harvard.edu), IAIFI Knowledge Transfer Coordinator
-* Partnerships may include:
-    * Providing resources for IAIFI use, such as computing tools
-    * Asking IAIFI researchers to test new resources
-    * Collaborating with IAIFI researchers on specific projects in your industry
-    * Inviting IAIFI to speak with your group, or presenting to IAIFI
-
-
-## Researchers Beyond the Boston Area
-
-Official IAIFI affiliation is currently limited to those in the greater Boston Area, though IAIFI researchers participate in worldwide collaborations and many IAIFI events are open to the broader community.
-
-### Receive Updates on IAIFI Events and Opportunities
-
-* [Subscribe to IAIFI News](http://mailman.mit.edu/mailman/listinfo/iaifi-news)
-
-### Attend IAIFI Colloquia
-
-* [View full schedule](https://iaifi.org/events)
-* [Watch past colloquia on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA)
-
-### Request Letter of Collaboration
-* If you would like to discuss a letter of collaboration from IAIFI for your own proposal, [email IAIFI Management](mailto:iaifi-management@mit.edu), including information about your proposal, how you'd like to partner with IAIFI, and the deadline for your request.
+<img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:30%" hspace="10" vspace="10"> <img src="images/unlearn_logo_color.jpg" align="center" style="max-width:8080px;width:30%" hspace="10" vspace="10"> 

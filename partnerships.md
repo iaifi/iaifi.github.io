@@ -3,16 +3,11 @@ layout: article
 title: Physics/AI Network
 ---
 
-* [Partnership Hub](#partnership-hub)
 * [IAIFI-AIMLAC Workshop 2022](#iaifi-aimlac-workshop-2022)
 * [Other Physics and AI Collaborations](#other-physics-and-ai-collaborations)
 * [Other NSF AI Institutes](#other-nsf-ai-institutes)
 * [Related Mailing Lists](#related-mailing-lists)
 
-## Partnership Hub
-We are in the process of developing partnerships across both industry and academia. If you are interested in discussing partnership opportunities with IAIFI, [contact Todd Zickler](mailto:zickler@seas.harvard.edu), IAIFI Knowledge Transfer Coordinator. 
-
-IAIFI members can access the internal Partnership Hub, including links to resources and opportunities for collaboration (if you do not have access, [email IAIFI Management](mailto:iaifi@mit.edu).
 
 ## IAIFI-AIMLAC Workshop 2022
 IAIFI welcomed 15 students and faculty from the [UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning & Advanced Computing (AIMLAC)](http://cdt-aimlac.org) for an informal workshop March 2 through March 4, 2022. The two groups shared research and education strategies, and had opportunities for networking.

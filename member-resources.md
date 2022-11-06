@@ -12,13 +12,12 @@ IAIFI thrives on the energy and enthusiasm of its members! This page includes in
 * [Join an IAIFI Committee](#join-an-iaifi-committee)
 * [Lead an IAIFI Journal Club](#lead-an-iaifi-journal-club)
 * [Attend IAIFI Discussion Seminars and Public Colloquia](#attend-iaifi-discussion-seminars-and-public-colloquia)
-* [Take an IAIFI-Related Class](#take-an-iaifi-related-class)
 * [Collaborate on IAIFI Research Projects](#collaborate-on-iaifi-research-projects)
 * [Utilize IAIFI Computing Resources](#utilize-iaifi-computing-resources)
 * [Share Achievements with IAIFI Management](#share-achievements-with-iaifi-management)
 * [Advertise and Acknowledge IAIFI](#advertise-and-acknowledge-iaifi)
 * [Be a Guest in the IAIFI Penthouse](#be-a-guest-in-the-iaifi-penthouse)
-* [Access the IAIFI Internal Website](#access-the-iaifi-internal-website)
+* [Access the IAIFI Google Drive](#access-the-iaifi-google-drive)
 * [Explore Career and PhD Opportunities](#explore-career-and-phd-opportunities)
 * [Get Involved Beyond IAIFI](#get-involved-beyond-iaifi) 
 
@@ -100,6 +99,10 @@ Please report IAIFI-related papers, talks, datasets, workshops, and research hig
 <!---
 Information on available tools from industry partners.
 --->
+
+## Access the IAIFI Google Drive
+* [For all members](https://drive.google.com/drive/folders/1KCCp9BpUL_GsvPGiWoJt976X0YkSEVDC?usp=sharing)
+* [For Senior Investigators](https://drive.google.com/drive/folders/1AqpDQ-NmUdm86dTmK4UwP7bH4eELGNI1?usp=share_link)
 
 ## Explore Career and PhD Opportunities
 * Apply to the [MIT Interdisciplinary PhD in Physics, Statistics, and Data Science](https://physics.mit.edu/academic-programs/graduate-students/psds-phd/)

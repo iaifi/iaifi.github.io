@@ -60,26 +60,11 @@ key: page-about
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTj25Pm0Ts4yq1Kz89JISu6hGx3D3wK84pcb4jmmiSKOkfExPsXYBPcnuGUX6cpJ7LMMHiq69Bf_DDU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-#### FAQ
- * **How can I get more involved with IAIFI?** If you are already a member of IAIFI and are looking to contribute more to IAIFI activities, visit our [Getting Involved page for current members](/get-involved-current.html). If you are not currently a member, visit our [Getting Involved page for prospective members/partners](/get-involved.html).
- * **Where can I view highlights of your research and/or activities?** You can view current research projects on our [Research page](/research.html) and updates on our activities on our [Synergies page](/activities.html). For an overview of highlights, download our [IAIFI Highlights presentation](images/iaifi-highlights.pdf) (last updated December 8, 2021).
-
-#### Graphics
-
-  * IAIFI Logo (Transparent Background):  [Black](images/iaifi-logo-black.pdf),  [White](images/iaifi-logo-white.pdf)
-  * IAIFI Logo (Transparent Background, With NSF):  [Black](images/iaifi-nsf-logo-black.pdf),  [White](images/iaifi-nsf-logo-white.pdf)
-  * IAIFI Logo (Transparent Background, No Border):  [Black](images/iaifi-logo-black-noborder.pdf),  [White](images/iaifi-logo-white-noborder.pdf)
-  * IAIFI Logo (No Transparency, JPEG format): [Black](images/iaifi-logo-black-noborder-hires.jpg)
-  * IAIFI Press Image: [Full Size](images/iaifi-pressimage.jpg), [Horizontal Crop](images/iaifi-pressimage-horizontalcrop.jpg)
-  * IAIFI Zoom Background: [Download](images/iaifi-zoombackground.jpg)
 
 ####  Press Coverage 
 
   * IAIFI Launch (August 26, 2020):  [NSF](https://www.nsf.gov/news/special_reports/announcements/082620.jsp), [NSF blog](https://beta.nsf.gov/science-matters/new-nsf-ai-research-institutes-push-forward-frontiers-artificial-intelligence), [MIT](https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826), [Harvard](https://www.news.harvard.edu/gazette/story/2020/08/harvard-a-partner-in-20-million-ai-institute/), [Northeastern](https://news.northeastern.edu/2020/08/26/why-you-need-a-computer-to-understand-strings-and-knots/)
 
-#### Social Media
-  * [Follow us on Twitter](https://twitter.com/iaifi_news)
-  * [Follow us on LinkedIn](https://www.linkedin.com/company/iaifi)
 
 ####  Contact
 
