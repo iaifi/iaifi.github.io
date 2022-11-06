@@ -1,77 +1,29 @@
 ---
 layout: article
-title: IAIFI Jobs
+title: Junior Researchers
 ---
 
-Thank you for your interest in getting involved with IAIFI! Navigate to the role that best describes you to learn more about opportunities to apply to jobs with connections to IAIFI depending on your career stage and location. 
+Thank you for your interest in getting involved with IAIFI! If you are a postdoc, grad student, or undergraduate student interested in the intersection of physics and AI, there are many opportunities for you to be involved with IAIFI at various levels. 
 
-* [Prospective Faculty](#prospective-faculty)
-* [Prospective Postdocs](#prospective-postdocs)
-* [Prospective Graduate Students](#prospective-graduate-students)
-* [Prospective Undergraduate Students](#prospective-undergraduate-students)
+* [Subscribe to IAIFI News](#subscribe-to-iaifi-news)
+* [Apply to be a Friend of IAIFI](#apply-to-be-a-friend-of-iaifi)
+* [Explore Postdoc Opportunities at IAIFI Universities](#explore-postdoc-opportunities-at-iaifi-universities)
+* [Explore Graduate Opportunities at IAIFI Universities](#explore-graduate-opportunities-at-iaifi-universities)
+* [Explore Undergraduate Opportunities at IAIFI Universities](#explore-undergraduate-opportunities-at-iaifi-universities)
 
-## Prospective Faculty
+If your situation does not fall into any of the above categories but you have an idea for collaborating with IAIFI, please contact [IAIFI Management](mailto:iaifi@mit.edu).
 
-IAIFI does not have dedicated faculty opportunities, but there are often open faculty positions in IAIFI-affiliated universities.
+## Subscribe to IAIFI News 
 
-<!---
-<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
-### MIT Center for Theoretical Physics
+[Subscribe to our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events and opportunities. The mailing list  is open to anyone interested in the IAIFI mission, regardless of location or level of involvement.
 
+## Apply to be a Friend of IAIFI
 
-* [Junior faculty openings in the MIT CTP](http://academicjobsonline.org/ajo/mit/ctp/)
-* Deadline: N/A
---->
+* [Complete the Junior Researcher interest form](junior-interest.html)
+* Must be affiliated with one of the IAIFI institutions (MIT, Harvard, Northeastern, Tufts) or another Boston-area university
+* Welcome to join IAIFI internal events, including lightning talks, journal clubs, socials, etc.
 
-
-<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
-### MIT Physics Division of Experimental Particle and Nuclear Physics
-
-* [Junior faculty openings in MIT Physics NUPAX](https://academicjobsonline.org/ajo/jobs/23062)
-* Deadline: December 1, 2022
-
-
-<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
-### MIT Department of Electrical Engineering and Computer Science (EECS)
-
-* [Junior faculty openings in MIT EECS](https://faculty-searches.mit.edu/eecs/)
-* Deadline: December 1, 2022
-
-<img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
-### MIT Kavli Institute for Astrophysics and Space Research
-
-* [Junior faculty openings in MIT Physics, Kavli Institute](https://academicjobsonline.org/ajo/jobs/23065)
-* Deadline: December 1, 2022
-
-<img class="image" src="images/harvard_logo.png" align="right" style="max-width:403px;width:10%" hspace="10" vspace="10"/>
-### Harvard University Department of Physics
-* [Tenure-track Professor in Physics](https://www.physics.harvard.edu/jobs)
-* Deadline: November 15, 2022 or until position is filled
-
-<!---
-### Harvard University School of Engineering and Applied Sciences (SEAS)
-* [Tenure-track faculty openings in Harvard School of Engineering and Applied Sciences](https://www.seas.harvard.edu/office-faculty-affairs/open-academic-positions?job_type%5Btenure%5D=tenure&sort_by=search_api_relevance)
-* Deadline: Applications currently closed.
---->
-
-<!---
-<img class="image" src="images/tufts_logo.png" align="right" style="max-width:300px;width:10%" hspace="10" vspace="10"/>
-### Tufts University Department of Computer Science
-* [Assistant or Associate Professor in AI opening at Tufts University Department of Computer Science](https://apply.interfolio.com/92330)
-* Deadline: Applications currently closed.
---->
-
-<img class="image" src="images/northeastern_logo.png" align="right" style="max-width:1200px;width:10%" hspace="10" vspace="10"/>
-### Northeastern University Khoury College of Computer Sciences
-* [Teaching Professor openings in Computer Science](https://northeastern.wd1.myworkdayjobs.com/en-US/careers/details/Assistant-Teaching-Professor-Associate-Teaching-Professor-Full-Teaching-Professor---Boston_R108315)
-* Deadline: December 1, 2022 (or until search is complete)
-
-<img class="image" src="images/brandeis-logo.png" align="right" style="max-width:802px;width:10%" hspace="10" vspace="10"/>
-### Brandeis University Department of Mathematics
-* [Tenure-Track Assistant Professor in Applied Mathematics](https://www.mathjobs.org/jobs/list/20758)
-* Deadline: November 1, 2022 
-
-## Prospective Postdocs
+## Explore Postdoc Opportunities at IAIFI Universities
 
 The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, but there are other postdoctoral opportunities with IAIFI-affiliated researchers.
 
@@ -79,9 +31,8 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 <img class="image" src="images/iaifi-logo-black-noborder.jpg" align="right" style="max-width:1466px;width:10%" hspace="10" vspace="10"/>
 ### IAIFI Fellowship 
 
-
 * [Apply to be an IAIFI Fellow](fellows.html)
-* Deadline:  October 11, 2022 to start September 2023
+* Deadline:  Applications currently closed.
 * Three-year appointment to spark interdisciplinary, multi-investigator, multi-subfield collaborations
 * Applicants should have (or be expected to receive by September 1 of the starting year), a PhD in Physics, Statistics, Computer Science, or a related field
 
@@ -154,15 +105,13 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * Candidates need a sponsoring scientist and host institution, so if you are interested in applying to work with IAIFI, ask an [IAIFI Senior Investigator](people.html#senior-investigators) to sponsor you or contact [IAIFI Management](mailto:iaifi-management@mit.edu) for help identifying a sponsor
 * Deadline: October 19, 2022
 
-<!---
 ### MPS-Ascend Fellowship
-* [Apply for a Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship](https://www.nsf.gov/pubs/2022/nsf22501/nsf22501.pdf?WT.mc_id=USNSF_34&WT.mc_ev=click)
+* [Apply for a Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship](https://www.nsf.gov/pubs/2023/nsf23501/nsf23501.htm?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery)
 * Awarded to an individual, not institution
 * Candidates need a sponsoring scientist and host institution, so if you are interested in applying to work with IAIFI, ask an [IAIFI Senior Investigator](people.html#senior-investigators) to sponsor you or contact [IAIFI Management](mailto:iaifi-management@mit.edu) for help identifying a sponsor
-* Applications currently closed.
---->
+* Deadline: January 25, 2023
 
-## Prospective Graduate Students
+## Explore Graduate Opportunities at IAIFI Universities
 
 IAIFI does not have a dedicated PhD program, but PhD students at any of the partner institutions may collaborate with IAIFI researchers to become a Junior Investigator.
 
@@ -235,19 +184,27 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 * Deadline: December 15 for PhD applicants, January 15 for MS applicants
 * Learn more about the [Tufts Computer Science program](https://engineering.tufts.edu/cs/)
 
-## Prospective Undergraduate Students
-
+## Explore Undergraduate Opportunities at IAIFI Universities
 IAIFI investigators often have opportunities for undergraduate students to get involved in research through volunteer projects or formal programs.
 
 <img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Summer Research Program
 
 * [Apply to the MIT Summer Research Program](https://oge.mit.edu/graddiversity/msrp/)
-* Applications open in November for Summer 2022 (June 5 through August 6)
+* Applications open in November for Summer 2023
 * This program’s goal is to increase the number of underrepresented minorities and underserved (e.g. low socio-economic background, first generation) students in the research enterprise.
+* Deadline: January 15, 2023
 
 <img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Undergraduate Research Opportunity Program
 
 * Contact an [IAIFI Senior Investigator](https://iaifi.org/people.html#senior-investigators) at MIT to inquire about potential UROP funding
 * Learn more about [becoming a UROP](https://urop.mit.edu/)
+
+<img class="image" src="images/tufts_logo.png" align="right" style="max-width:300px;width:10%" hspace="10" vspace="10"/>
+### Tufts Visiting and Early Research Scholars' Experiences (VERSE) Scholars Program
+
+[Apply to the Tufts VERSE Program](https://students.tufts.edu/gsas-deans-office/diversity-inclusion-community/verse-scholars-program)
+* Applications open December 1 for Summer 2023
+* The goal of the VERSE program is to: enable students to connect to faculty mentors with active research labs and projects; gain valuable hands-on training that will build confidence in conducting future independent research; and inspire students to pursue doctoral studies at Tufts and envision research careers.
+* Deadline: January 31, 2023

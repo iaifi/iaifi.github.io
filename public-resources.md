@@ -3,90 +3,47 @@ layout: article
 title: Public Resources
 ---
 
-Thank you for your interest in getting involved with IAIFI! 
-
-* [Senior Researchers in the Boston Area](#senior-researchers-in-the-boston-area)
-* [Junior Researchers in the Boston Area](#junior-researchers-in-the-boston-area)
-* [Researchers or Practitioners in Industry](#researchers-or-practitioners-in-industry)
-* [Researchers Beyond the Boston Area](#researchers-beyond-the-boston-area)
+* [FAQ](#FAQ)
+* [Visit IAIFI](#visit-iaifi)
+* [Receive Updates on IAIFI Events and Opportunities](#receive-updates-on-iaifi-events-and-opportunities)
+* [Request Letter of Collaboration](#request-letter-of-collaboration)
+* [Graphics](#graphics)
+* [Social Media](#social-media)
 * [Contact](#contact)
 
-If your situation does not fall into any of the above categories, please contact [IAIFI Management](mailto:iaifi@mit.edu).
 
-## Senior Researchers in the Boston area
+## FAQ
 
-Senior Researchers include faculty members and senior research scientists with PI status.  If you are interested in becoming an IAIFI Senior Investigator, you should first apply to become an IAIFI Affiliate.
+* **How can I get more involved with IAIFI?** 
+  * If you are already a member of IAIFI: Visit our [Committees](/committees.html) page for ways to help IAIFI achieve both its research and broader impacts objectives
+  * If you are a senior researcher/faculty in the Boston area: Visit our [Senior Researchers page](/senior-researchers.html).
+  * If you are a junior researcher in the Boston area: Visit our [Junior Researchers page](/junior-researchers.html).
+  * If you are a potential industry partner: Visit our [Industry Partners page](/industry-partners.html)
+ * **Where can I view highlights of your research and/or activities?** You can view current research projects on our [Research page](/research.html) and updates on our activities on the Events and Engagement tabs of the website. For an overview of highlights, download our [IAIFI Highlights presentation](images/iaifi-highlights.pdf) (last updated December 8, 2021).
 
-### Apply to be an IAIFI Affiliate
+## Visit IAIFI
 
-* [Complete the IAIFI Affiliate application form](affiliates.html)
-* Must be sponsored by an [IAIFI Senior Investigator](people.html#senior-investigators)
-* Requires reporting IAIFI-related activities to the NSF
-* Expected to participate in the life of IAIFI, including mentoring, presenting seminars, etc. 
-* Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
-* Affiliate status reviewed annually
+Though the IAIFI is located in the Boston area, we encourage researchers at the intersection of physics and AI to visit us and spend time with IAIFI researchers. If you are interested in organizing a visit (as an individual or group), complete the [IAIFI Visitor form](/visitors.html).
 
-
-## Junior Researchers in the Boston Area
-
-
-Junior Researchers include undergraduate students, graduate students, postdocs, and research scientists without PI status.
-
-
-### Become a Junior Investigator 
-
-* [Complete the Junior Researcher interest form](junior-interest.html)
-* Must be affiliated with an [IAIFI Senior Investigator](people.html#senior-investigators) or [IAIFI Affiliate](people.html#affiliates) unless special arrangements are made with [IAIFI Management](mailto:iaifi-management@mit.edu)
-* Requires reporting IAIFI-related activities to the NSF
-* Expected to collaborate on research as an IAIFI Junior Investigator
-* Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
-
-
-### Become a Friend of IAIFI 
-
-* [Complete the Junior Researcher interest form](junior-interest.html)
-* Must be affiliated with one of the IAIFI institutions (MIT, Harvard, Northeastern, Tufts) or another Boston area university
-* No reporting expectations
-* Invited to IAIFI internal events, including Town Halls, Journal Clubs, Symposia, etc.
-
-## Researchers or Practitioners in Industry
-
-IAIFI is collaborating with researchers outside of academia to advance research at the intersection of physics and AI.
-
-<img class="image" src="images/iaifi-logo-black-noborder.jpg" align="right" style="max-width:1466px;width:10%" hspace="10" vspace="10"/>
-### Apply to be an IAIFI Affiliate
-
-* Industry researchers in the Boston area are eligible to become [IAIFI Affiliates](#apply-to-be-an-iaifi-affiliate) 
-
-
-### Contact a Senior Investigator to Collaborate
-
-* [List of IAIFI Senior Investigators](https://iaifi.org/people.html#senior-investigators)
-* List of current research projects [coming soon!]
-
-
-### Discuss Possible Partnerships with IAIFI
-
-* Contact [Todd Zickler](mailto:zickler@seas.harvard.edu), IAIFI Knowledge Transfer Coordinator
-* Partnerships may include:
-    * Providing resources for IAIFI use, such as computing tools
-    * Asking IAIFI researchers to test new resources
-    * Collaborating with IAIFI researchers on specific projects in your industry
-    * Inviting IAIFI to speak with your group, or presenting to IAIFI
-
-
-## Researchers Beyond the Boston Area
-
-Official IAIFI affiliation is currently limited to those in the greater Boston Area, though IAIFI researchers participate in worldwide collaborations and many IAIFI events are open to the broader community.
-
-### Receive Updates on IAIFI Events and Opportunities
+## Receive Updates on IAIFI Events and Opportunities
 
 * [Subscribe to IAIFI News](http://mailman.mit.edu/mailman/listinfo/iaifi-news)
 
-### Attend IAIFI Colloquia
-
-* [View full schedule](https://iaifi.org/events)
-* [Watch past colloquia on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA)
-
-### Request Letter of Collaboration
+## Request Letter of Collaboration
 * If you would like to discuss a letter of collaboration from IAIFI for your own proposal, [email IAIFI Management](mailto:iaifi-management@mit.edu), including information about your proposal, how you'd like to partner with IAIFI, and the deadline for your request.
+
+## Graphics
+
+  * IAIFI Logo (Transparent Background):  [Black](images/iaifi-logo-black.pdf),  [White](images/iaifi-logo-white.pdf)
+  * IAIFI Logo (Transparent Background, With NSF):  [Black](images/iaifi-nsf-logo-black.pdf),  [White](images/iaifi-nsf-logo-white.pdf)
+  * IAIFI Logo (Transparent Background, No Border):  [Black](images/iaifi-logo-black-noborder.pdf),  [White](images/iaifi-logo-white-noborder.pdf)
+  * IAIFI Logo (No Transparency, JPEG format): [Black](images/iaifi-logo-black-noborder-hires.jpg)
+  * IAIFI Press Image: [Full Size](images/iaifi-pressimage.jpg), [Horizontal Crop](images/iaifi-pressimage-horizontalcrop.jpg)
+  * IAIFI Zoom Background: [Download](images/iaifi-zoombackground.jpg)
+
+## Social Media
+  * [Follow us on Twitter](https://twitter.com/iaifi_news)
+  * [Follow us on LinkedIn](https://www.linkedin.com/company/iaifi)
+
+## Contact
+  * [Email IAIFI Management](mailto:iaifi@mit.edu)

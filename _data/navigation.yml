@@ -28,6 +28,8 @@ header:
     subtitles:
       - title: Current
         url: /people.html
+      - title: IAIFI Fellows
+        url: /current-fellows.html
       - title: Alumni
         url: /alumni.html
       - title: Advisors
@@ -56,26 +58,27 @@ header:
         url: /cambridge-science-festival
       - title: Summer School and Workshop
         url: /phd-summer-school.html
+      - title: Physics/AI Network
+        url: /partnerships.html
 
-  - title: Fellows
+  - title: Join
     subtitles:
-      - title: Apply
+      - title: IAIFI Fellowship
         url: /fellows.html
-      - title: Current
-        url: /current-fellows.html
-
-  - title: Opportunities
-    subtitles:
-      - title: IAIFI Jobs
-        url: /iaifi-jobs.html
-      - title: Job Board
-        url: /job-board.html
+      - title: Senior Researchers
+        url: /senior-researchers.html
+      - title: Junior Researchers
+        url: /junior-researchers.html
+      - title: Industry Partners
+        url: /industry-partners.html
 
   - title: Resources
     subtitles:
       - title: Public
         url: /public-resources.html
-      - title: Current Members
+      - title: Job Board
+        url: /job-board.html
+      - title: Members
         url: /member-resources.html
       - title: Committees
         url: /committees.html
