@@ -15,11 +15,8 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 * **Theme: Physics-Motivated Gradient Descent**
     * **Friday, November 18, 2022, 2:00–3:00 pm**
       *  John Martyn (Grad Student, MIT), "Neural Network Quantum States for Quantum Fields"
-      * Georgios (Yorgos) Strati ( Postdoc Research Fellow, Northeastern), "Sample generation for the spin-fermion model using neural networks"
-      * Chris Whittle (Grad Student, MIT), "Improving squeezing in LIGO with machine learning"
       * Anna Golubeva (IAIFI Fellow), "Fokker-Planck Equation for the Stochastic Gradient Descent"
       * Matthew Farrell (Postdoc Fellow, Harvard), "Expressivity of deep neural networks under geometric constraints (equivariance)
-      * Dean Hazineh (PhD Student), "Co-optimization of Nano-scale Metasurfaces with Machine Learning Algorithms for Sensing"
 
 * **Theme: Constructing Likelihoods with Neural Nets**
     * **Friday, December 9, 2022, 2:00–3:00 pm**
