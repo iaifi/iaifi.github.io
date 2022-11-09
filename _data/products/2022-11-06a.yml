@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Gauge Equivariant Neural Networks for 2+1D U(1) Gauge Theory Simulations in Hamiltonian Formulation"
+authors: Di Luo, Shunyue Yuan, James Stokes, Bryan K. Clark
+abstract: "Gauge Theory plays a crucial role in many areas in science, including high energy physics, condensed matter physics and quantum information science. In quantum simulations of lattice gauge theory, an important step is to construct a wave function that obeys gauge symmetry. In this paper, we have developed gauge equivariant neural network wave function techniques for simulating continuous-variable quantum lattice gauge theories in the Hamiltonian formulation. We have applied the gauge equivariant neural network approach to find the ground state of 2+1-dimensional lattice gauge theory with U(1) gauge group using variational Monte Carlo. We have benchmarked our approach against the state-of-the-art complex Gaussian wave functions, demonstrating improved performance in the strong coupling regime and comparable results in the weak coupling regime."
+arxiv: "2211.03198"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
