@@ -1,16 +1,42 @@
 ---
 layout: article
 title: Public Resources
+aside:
+  toc: true
 ---
 
+* [Contact](#contact)
+* [Social Media](#social-media)
+* [Graphics](#graphics)
 * [FAQ](#FAQ)
 * [Visit IAIFI](#visit-iaifi)
 * [Receive Updates on IAIFI Events and Opportunities](#receive-updates-on-iaifi-events-and-opportunities)
 * [Request Letter of Collaboration](#request-letter-of-collaboration)
-* [Graphics](#graphics)
-* [Social Media](#social-media)
-* [Contact](#contact)
 
+
+## Contact
+  * [Email IAIFI Management](mailto:iaifi@mit.edu)
+  
+## Social Media
+  * [Follow us on Twitter](https://twitter.com/iaifi_news)
+  * [Follow us on LinkedIn](https://www.linkedin.com/company/iaifi)
+
+## Graphics
+
+
+  * ![IAIFI](images/iaifi-logo-black.png){:.image--sm} **IAIFI Logo**:  [Black PDF](images/iaifi-logo-black.pdf),  [White PDF](images/iaifi-logo-white.pdf), [Black JPEG](images/iaifi-logo-black-noborder-hires.jpg)
+
+  * ![NSF IAIFI](images/iaifi-nsf-logo-black.png){:.image--sm}  **IAIFI Logo with NSF**:  [Black PDF](images/iaifi-nsf-logo-black.pdf),  [White PDF](images/iaifi-nsf-logo-white.pdf)
+
+  * ![NSF IAIFI](images/iaifi-fullname-logo-black.png){:.image--sm}  **IAIFI Logo with Name**:  [Black PDF](images/iaifi-fullname-logo-black.pdf)
+  
+  * ![IAIFI](images/iaifi-pressimage-horizontalcrop.jpg){:.image--sm} **IAIFI Horizontal Fusion**: [JPEG](images/iaifi-pressimage-horizontalcrop.jpg)
+  
+  * ![IAIFI](images/iaifi-pressimage.jpg){:.image--sm} **IAIFI Full Size Fusion**:  [JPEG](images/iaifi-pressimage.jpg)
+  
+  * ![IAIFI](images/iaifi-zoombackground.jpg){:.image--sm}  **IAIFI Zoom Background**:  [JPEG](images/iaifi-zoombackground.jpg)
+
+*Contact [IAIFI Management](mailto:iaifi@mit.edu) if you need graphics in different formats, colors, or sizes.*
 
 ## FAQ
 
@@ -32,18 +58,3 @@ Though the IAIFI is located in the Boston area, we encourage researchers at the 
 ## Request Letter of Collaboration
 * If you would like to discuss a letter of collaboration from IAIFI for your own proposal, [email IAIFI Management](mailto:iaifi-management@mit.edu), including information about your proposal, how you'd like to partner with IAIFI, and the deadline for your request.
 
-## Graphics
-
-  * IAIFI Logo (Transparent Background):  [Black](images/iaifi-logo-black.pdf),  [White](images/iaifi-logo-white.pdf)
-  * IAIFI Logo (Transparent Background, With NSF):  [Black](images/iaifi-nsf-logo-black.pdf),  [White](images/iaifi-nsf-logo-white.pdf)
-  * IAIFI Logo (Transparent Background, No Border):  [Black](images/iaifi-logo-black-noborder.pdf),  [White](images/iaifi-logo-white-noborder.pdf)
-  * IAIFI Logo (No Transparency, JPEG format): [Black](images/iaifi-logo-black-noborder-hires.jpg)
-  * IAIFI Press Image: [Full Size](images/iaifi-pressimage.jpg), [Horizontal Crop](images/iaifi-pressimage-horizontalcrop.jpg)
-  * IAIFI Zoom Background: [Download](images/iaifi-zoombackground.jpg)
-
-## Social Media
-  * [Follow us on Twitter](https://twitter.com/iaifi_news)
-  * [Follow us on LinkedIn](https://www.linkedin.com/company/iaifi)
-
-## Contact
-  * [Email IAIFI Management](mailto:iaifi@mit.edu)
