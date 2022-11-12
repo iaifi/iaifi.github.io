@@ -21,13 +21,14 @@ aside:
   * [Follow us on Twitter](https://twitter.com/iaifi_news)
   * [Follow us on LinkedIn](https://www.linkedin.com/company/iaifi)
 
-
 ## Graphics
 
 
   * ![IAIFI](images/iaifi-logo-black.png){:.image--sm} **IAIFI Logo**:  [Black PDF](images/iaifi-logo-black.pdf),  [White PDF](images/iaifi-logo-white.pdf), [Black JPEG](images/iaifi-logo-black-noborder-hires.jpg)
 
   * ![NSF IAIFI](images/iaifi-nsf-logo-black.png){:.image--sm}  **IAIFI Logo with NSF**:  [Black PDF](images/iaifi-nsf-logo-black.pdf),  [White PDF](images/iaifi-nsf-logo-white.pdf)
+
+  * ![NSF IAIFI](images/iaifi-fullname-logo-black.png){:.image--sm}  **IAIFI Logo with Name**:  [Black PDF](images/iaifi-fullname-logo-black.pdf)
   
   * ![IAIFI](images/iaifi-pressimage-horizontalcrop.jpg){:.image--sm} **IAIFI Horizontal Fusion**: [JPEG](images/iaifi-pressimage-horizontalcrop.jpg)
   
@@ -35,7 +36,7 @@ aside:
   
   * ![IAIFI](images/iaifi-zoombackground.jpg){:.image--sm}  **IAIFI Zoom Background**:  [JPEG](images/iaifi-zoombackground.jpg)
 
-*Contact [IAIFI Management](mailto:iaifi@mit.edu) if you need graphics in different formats or sizes.*
+*Contact [IAIFI Management](mailto:iaifi@mit.edu) if you need graphics in different formats, colors, or sizes.*
 
 ## FAQ
 
