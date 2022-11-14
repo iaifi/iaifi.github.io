@@ -27,8 +27,20 @@ Coming soon: A full set of IAIFI project pages, each with more details about our
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTSO7AOFVDltVLrFmNVL1nnqVETeVKtI3bo_c2vmKZELuehNIXel-BrrOIIl5qn02nW0xdrvvb1ltj4/embed?start=true&loop=true&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYF59nkBxk9bdBfYgjsLbl5pXrZL9KwphARukIJyz_GxLvSsb8azcslpu7UlWyIEVQfDnqFEK2pwxA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
+
+[View and download slide](https://docs.google.com/presentation/d/1qCkugEeZ2ugxYh3A24orNkpVyu17n5bbzP9GLTIDWzw/edit?usp=sharing)
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTSO7AOFVDltVLrFmNVL1nnqVETeVKtI3bo_c2vmKZELuehNIXel-BrrOIIl5qn02nW0xdrvvb1ltj4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+[View and download slide](https://docs.google.com/presentation/d/1511jbQVJr96-eyXuhk32I4ahg3rxdK2jtp0SY1W-Iq8/edit?usp=sharing)
+
 
 ## Summary
 
