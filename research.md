@@ -19,6 +19,17 @@ The goal of the IAIFI is to advance knowledge of fundamental interactions from t
 Coming soon: A full set of IAIFI project pages, each with more details about our research work, publications, *etc.*
 {:.info}
 
+## Highlights
+
+*Updated November 14, 2022*
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTSO7AOFVDltVLrFmNVL1nnqVETeVKtI3bo_c2vmKZELuehNIXel-BrrOIIl5qn02nW0xdrvvb1ltj4/embed?start=true&loop=true&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
 ## Summary
 
 IAIFI researchers are incorporating  complex *ab initio* principles into AI research to revolutionize how AI is used in the study of fundamental interactions, while simultaneously advancing the foundations of AI.  [Join us!](/fellows.html)
