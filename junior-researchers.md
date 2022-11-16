@@ -19,7 +19,7 @@ If your situation does not fall into any of the above categories but you have an
 
 ## Apply to be a Friend of IAIFI
 
-* [Complete the Junior Researcher interest form](junior-interest.html)
+* [Complete the Friend of IAIFI Application](https://app.smartsheet.com/b/form/3cff913c564141249c4292ad8c435774)
 * Must be affiliated with one of the IAIFI institutions (MIT, Harvard, Northeastern, Tufts) or another Boston-area university
 * Welcome to join IAIFI internal events, including lightning talks, journal clubs, socials, etc.
 

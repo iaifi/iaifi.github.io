@@ -19,7 +19,7 @@ If your situation does not fall into any of the above categories, please contact
 
 ## Apply to be an IAIFI Affiliate
 
-* [Complete the IAIFI Affiliate application form](affiliates.html)
+* [Complete the IAIFI Affiliate application form](https://app.smartsheet.com/b/form/b73212d8895c4436a947b2dfdd999da3)
 * Must be sponsored by an [IAIFI Senior Investigator](people.html#senior-investigators)
 * Encourages reporting IAIFI-related activities to the NSF
 * Expected to participate in the life of IAIFI, including mentoring, presenting seminars, etc. 
@@ -90,6 +90,6 @@ IAIFI does not have dedicated faculty opportunities, but there are often open fa
 
 ## Apply to be a Friend of IAIFI
 
-* [Complete the interest form](junior-interest.html)
+* [Complete the interest form](https://app.smartsheet.com/b/form/3cff913c564141249c4292ad8c435774)
 * Must be affiliated with one of the IAIFI institutions (MIT, Harvard, Northeastern, Tufts) or another Boston-area university or company
 * Welcome to join IAIFI internal events, including lightning talks, journal clubs, socials, etc, but not required to be involved or report on activities (unlike Affiliate)

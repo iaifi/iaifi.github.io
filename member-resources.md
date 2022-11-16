@@ -10,6 +10,7 @@ IAIFI thrives on the energy and enthusiasm of its members! This page includes in
 * [Understand Levels of Involvement](#understand-levels-of-involvement)
 --->
 * [Join an IAIFI Committee](#join-an-iaifi-committee)
+* [Become an IAIFI Junior Investigator](#become-an-iaifi-junior-investigator)
 * [Lead an IAIFI Journal Club](#lead-an-iaifi-journal-club)
 * [Attend IAIFI Discussion Seminars and Public Colloquia](#attend-iaifi-discussion-seminars-and-public-colloquia)
 * [Collaborate on IAIFI Research Projects](#collaborate-on-iaifi-research-projects)
@@ -52,6 +53,12 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
 ## Join an IAIFI Committee
 IAIFI has launched several committees, which include both junior and senior members of IAIFI, to help facilitate key IAIFI activities. Visit the [Committees page](/committees.html) to see what committees are open and what the status is of their membership.
+
+## Become an IAIFI Junior Investigator
+If you are working with an IAIFI Senior Investigator or Affiliate, they can nominate you to be a Junior Investigator, which provides you with access to additional IAIFI resources (such as computing). You will also be included on the [People page](#/people.html) of the IAIFI website. **Junior Investigator forms must be approved by an IAIFI Senior Investigator, with whom you already have a collaboration.**
+
+[Complete the form to become an IAIFI Junior Investigator](https://app.smartsheet.com/b/form/3351b081785743ceac66a7294546b558)
+ 
 
 ## Lead an IAIFI Journal Club
 
