@@ -16,18 +16,23 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
+* **Pablo Lemos Portela, Postdoctoral Researcher, MILA and Université de Montréal**
+  * **December 6, 2022, 11:00am-12:00pm**
+  * *Details to come*
+
+## Fall 2022 Journal Clubs
+
 * **Michael Toomey, PhD Student, Brown University**
   * **November 15, 2022, 11:00am-12:00pm**
   * *Deep Learning the Dark Sector*
   * Abstract: One of the most pressing questions in physics today is the microphysical origin of dark matter. While there have been numerous experimental programs aimed at detecting its interactions with the Standard Model, all efforts to-date have come up empty. An alternative method to constrain dark matter is purely based on its gravitational interactions. In particular, gravitational lensing can be very sensitive to the distribution and morphology of dark matter substructure which can vary appreciably between different models. However, the complexity of data sets, systematics, and large volumes of data make the dimensionality of this problem difficult to approach from more traditional methods. Thankfully, this is a task ideally suited for machine learning. In this talk we will demonstrate how machine learning will play a critical role in distinguishing between models of dark matter and constraining model parameters in lensing data. We will additionally discuss techniques unique to ML for transferring the knowledge accumulated by models in the controlled setting of simulation to real data sets utilizing unsupervised domain adaptation.
-
-
-## Fall 2022 Journal Clubs
+  * [Slides](https://drive.google.com/file/d/1hzKARxgLJ9QgcfB_X2CmLmFtb7B9qW3D/view?usp=share_link) (For IAIFI members only)
 
 * **Ziming Liu, PhD Student, MIT**
   * **November 8, 2022, 11:00am-12:00pm**
   * *Toy Models of Superposition*
   * Abstract: It would be very convenient if the individual neurons of artificial neural networks corresponded to cleanly interpretable features of the input. For example, in an “ideal” ImageNet classifier, each neuron would fire only in the presence of a specific visual feature, such as the color red, a left-facing curve, or a dog snout. But it isn't always the case that features correspond so cleanly to neurons, especially in large language models where it actually seems rare for neurons to correspond to clean features. I will present a recent paper "Toy Models of Superposition" from Anthropic, aiming to answer these questions:  Why is it that neurons sometimes align with features and sometimes don't? Why do some models and tasks have many of these clean neurons, while they're vanishingly rare in others?
+  * [Slides](https://drive.google.com/file/d/17LPLsDVGrr8ZD0yXJNFiVn-4sIgObGre/view?usp=share_link) (For IAIFI members only)
 
 * **Sona Najafi, Researcher, IBM**
   * **October 25, 2022, 11:00am-12:00pm**
