@@ -12,12 +12,6 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 
 [Access recordings of past lightning talks (for IAIFI members only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=share_link)
 
-* **Theme: Physics-Motivated Gradient Descent**
-    * **Friday, November 18, 2022, 2:00–3:00 pm**
-      *  John Martyn (Grad Student, MIT), "Neural Network Quantum States for Quantum Fields"
-      * Anna Golubeva (IAIFI Fellow), "Fokker-Planck Equation for the Stochastic Gradient Descent"
-      * Matthew Farrell (Postdoc Fellow, Harvard), "Expressivity of deep neural networks under geometric constraints (equivariance)
-
 * **Theme: Constructing Likelihoods with Neural Nets**
     * **Friday, December 9, 2022, 2:00–3:00 pm**
     * Details to come
@@ -25,10 +19,24 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 ## Past Lightning Talks
 
 * **Fall 2022 Lightning Talk Session I**
+
+* **Theme: Physics-Motivated Gradient Descent**
+    * **Friday, November 18, 2022, 2:00–3:00 pm**
+      *  John Martyn (Grad Student, MIT), "Neural Network Quantum States for Quantum Fields"
+      * Anna Golubeva (IAIFI Fellow), "Fokker-Planck Equation for the Stochastic Gradient Descent"
+      * Matthew Farrell (Postdoc Fellow, Harvard), "Expressivity of deep neural networks under geometric constraints (equivariance)
+
+* **Theme: Physics-Motivated Gradient Descent**
+    * **Friday, November 18, 2022, 2:00–3:00 pm**
+      *  John Martyn (Grad Student, MIT), ["Neural Network Quantum States for Quantum Fields"](https://drive.google.com/file/d/1IS-oGpVbDtaAZVp3RPwunfaUzuA_Bicg/view?usp=share_link)
+      * Anna Golubeva (IAIFI Fellow), "Fokker-Planck Equation for the Stochastic Gradient Descent"
+      * Matthew Farrell (Postdoc Fellow, Harvard), "Expressivity of deep neural networks under geometric constraints (equivariance)
+
+
     * **September 23, 2022, 2:00pm-3:00pm**
       * Andrew Saydjari (Grad Student, Harvard), "Marginalized Data-space Gaussian Inference for Component Separation (MaDGICS): An Application to Stellar Spectra"
-      * Harold Erbin (Postdoc, MIT), "Neural networks for string field theory"
-      * Zev Imani (Grad Student, Tufts), "Score-Based Generative Modeling"
+      * Harold Erbin (Postdoc, MIT), ["Neural networks for string field theory"](https://drive.google.com/file/d/1je85DaUQaIswqqC50i7wpDgNDLMoQLas/view?usp=share_link)
+      * Zev Imani (Grad Student, Tufts), ["Score-Based Generative Modeling"](https://drive.google.com/file/d/1-2Bw7yd9dqp373RzdUJ6qWlgsqeDFLBc/view?usp=share_link)
 
 * **Spring 2022 Lightning Talk Session II**
     * **February 24, 2022, 2:00–3:00 pm**
