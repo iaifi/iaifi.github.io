@@ -13,16 +13,18 @@ Unless otherwise noted, discussion seminars will be held in person (MIT Kolker R
 
 [Access recordings of past seminars (for IAIFI members only)](https://docs.google.com/document/d/1ZGLuC_-eqMwyeeJNbwR5YhEg_S18E8akbDE9m39oYsY/edit?usp=sharing)
 
+
+* **Aleksander Madry, Professor, MIT**
+    * **Friday, December 16, 2022 2:00-3:00pm** 
+    * *Details to come*
+
+## Fall 2022 Seminars
+
 * **Abiy Tasissa, Professor, Tufts**
     * **Friday, October 28, 2022 2:00-3:00pm** 
     * *Geometric sparse coding with learned archetypes: Theory and applications*
     * Given a set of data points, archetypal analysis is a method which represents each data as a convex combination of exemplars called "archetypes". The benefit of this analysis is the interpretable archetypes along with information that can be gleaned from the representation coefficients. We propose a method that combines manifold learning and archetypal analysis by positing that each data point can be written as a convex combination of nearby landmarks. To encourage representing a data point via closeby landmarks, we propose a locality regularizer. We discuss how this regularizer relates to graph matching, K-means and Laplacian smoothness. Under the assumption that the data is exactly generated from vertices of a Delaunay triangulation,the proposed regularizer exactly recovers the underlying sparse solution. Moreover, for fixedrepresentation coefficients, we show that the optimal landmarks can be computed in closed form. To solve the optimization problem of finding the coefficients and the landmarks, we use algorithm unrolling to derive a neural network that efficiently solves the problem. We discuss how the sparseembeddings derived from our algorithm can be used for downstream tasks such as clustering. 
-
-* **Aleksander Madry, Professor, MIT**
-    * **Friday, December 9, 2022 2:00-3:00pm** 
-    * *Details to come*
-
-## Fall 2022 Seminars
+    * [Slides](https://drive.google.com/file/d/1cL_6J3DXON6EU34lcnogiLTdnpzAjTmn/view?usp=share_link) (For IAIFI members only)
 
 * **Kaća Bradonjić, Professor, Hampshire College**
     * **Friday, October 21, 2022, 2:00–3:00 pm**
@@ -33,7 +35,8 @@ Unless otherwise noted, discussion seminars will be held in person (MIT Kolker R
     * **Friday, September 30, 2022 2:00-3:00pm** 
     * *Neutrinos and Neural Networks: Need for Speed and Adaptability*
     * Abstract: Neutrinos remain an elusive and intriguing fundamental particle that is useful for probing inconsistencies of the Standard Model: neutrinos have mass when the Standard Model predicts they should not, they potentially exhibit charge parity violation, and there are possible hints of a fourth, sterile neutrino flavor. Data from neutrino detectors is particularly valuable due to the neutrinos’ weakly interacting nature, thus it is crucial that we maximize the information per detected interaction. In this talk, I will show how we are using machine learning to better analyze the precious data from various types of neutrino detectors. I will discuss optimizing convolutional neural networks (CNNs) to reconstruct GeV-scale neutrino events in the IceCube detector and how these measurements can help improve our understanding of these difficult-to-detect particles. I will focus on the challenges of reconstructing sparse, noisy neutrino events along with the speedup advantages of using machine learning methods. I will also touch on challenges that machine learning reconstructions face with the current and next generation of neutrino experiments, which will leverage Liquid Argon (LAr) detectors that use charge and light to record neutrino interactions.
-
+    * [Slides](https://drive.google.com/file/d/1F2k50SmwPPRCv7M94LlQtyrs0DN4XV77/view?usp=share_link) (For IAIFI members only)
+    
 ## Spring 2022 Seminars
 * **Anna Golubeva, IAIFI Fellow**
     * **Friday, March 11, 2022 2:00-3:00pm** 

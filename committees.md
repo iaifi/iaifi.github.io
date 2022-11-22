@@ -23,14 +23,14 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Seeking additional members
 * Develops educational materials for use in outreach activities, such as classroom visits, and brainstorms opportunities for outreach (including festivals, museum exhibits, etc)
 * Time Commitment: One-hour meeting every 3-4 weeks and time spent developing materials (on volunteer basis)
-* 2022 Public Engagement Committee: Lina Necib (Chair), Brent Nelson, Harold Erbin, Tri Nguyen, Sneh Pandya, Sangeon Park, Sokratis Trifinopolous, Ge Yang
+* 2022 Public Engagement Committee: Lina Necib (Chair), Brent Nelson, Harold Erbin, Tri Nguyen, Sneh Pandya, Sangeon Park, Sokratis Trifinopolous, Ge Yang, Comfort Asumadu
 * Primary Contact: [Email Lina Necib](mailto:lnecib@mit.edu)
 
 # Community Building Committee
 * Status: Accepting additional members
 * Brainstorms and plans community building events (such as coffee hours, social events, meet-ups, etc.)
 * Time Commitment: One-hour meeting per month and time spent helping with event setup occasionally
-* 2022 Community Building Committee: Matt Schwartz (Chair), Mike Williams, Jessie Micallef, Mehmet Demirtas, Niklas Nolte, Ouail Kitouni, Omar Alterkait
+* 2022 Community Building Committee: Matt Schwartz (Chair), Mike Williams, Jessie Micallef, Mehmet Demirtas, Niklas Nolte, Ouail Kitouni, Omar Alterkait, Comfort Asumadu
 * Primary Contact: [Email Matt Schwartz](schwartz@g.harvard.edu)
 
 # Early Career and Equity Committee
