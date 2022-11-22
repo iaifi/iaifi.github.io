@@ -15,7 +15,7 @@ Unless otherwise noted, discussion seminars will be held in person (MIT Kolker R
 
 
 * **Aleksander Madry, Professor, MIT**
-    * **Friday, December 9, 2022 2:00-3:00pm** 
+    * **Friday, December 16, 2022 2:00-3:00pm** 
     * *Details to come*
 
 ## Fall 2022 Seminars
