@@ -16,7 +16,7 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-* **Anna Golubeva (IAIFI Fellow) and Matt Schwartz(Physics Professor, Harvard)**
+* **Anna Golubeva, IAIFI Fellow and Matt Schwartz, Professor, Harvard**
   * **November 29, 2022, 11:00am-12:00pm**
   * *Should artificial intelligence be interpretable to humans?*
   * Resource:

@@ -23,8 +23,8 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 * **Theme: Physics-Motivated Gradient Descent**
     * **Friday, November 18, 2022, 2:00–3:00 pm**
       *  John Martyn (Grad Student, MIT), ["Neural Network Quantum States for Quantum Fields"](https://drive.google.com/file/d/1IS-oGpVbDtaAZVp3RPwunfaUzuA_Bicg/view?usp=share_link) (IAIFI Members only)
-      * Anna Golubeva (IAIFI Fellow), ["Fokker-Planck Equation for the Stochastic Gradient Descent"](https://drive.google.com/file/d/1prVstx_xgNDTwYf0TFj4qX7Ydn5iTMKy/view?usp=share_link)
-      * Matthew Farrell (Postdoc Fellow, Harvard), ["Expressivity of deep neural networks under geometric constraints (equivariance)](https://drive.google.com/file/d/1hOcafHPRieCnVPeqfxvz7H3MgrWwuWVf/view?usp=share_link)
+      * Anna Golubeva (IAIFI Fellow), ["Fokker-Planck Equation for the Stochastic Gradient Descent"](https://drive.google.com/file/d/1prVstx_xgNDTwYf0TFj4qX7Ydn5iTMKy/view?usp=share_link) (IAIFI Members only)
+      * Matthew Farrell (Postdoc Fellow, Harvard), ["Expressivity of deep neural networks under geometric constraints (equivariance)](https://drive.google.com/file/d/1hOcafHPRieCnVPeqfxvz7H3MgrWwuWVf/view?usp=share_link) (IAIFI Members only)
 
 
     * **September 23, 2022, 2:00pm-3:00pm**
