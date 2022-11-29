@@ -29,6 +29,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+***Jesse Thaler, IAIFI Director and MIT Professor of Physics provides insight on the potential use of AI in Physics***: Read ["Will artificial intelligence ever discover new laws of physics?"](https://www.newscientist.com/article/mg25634141-200-will-artificial-intelligence-ever-discover-new-laws-of-physics/) *November 21, 2022*
+{:.info}
+
 ***Matt Schwartz publishes editorial on AI interpretability in Nature Physics***: Read ["Should artificial intelligence be interpretable to humans?"](https://www.nature.com/articles/s42254-022-00538-z.epdf) by IAIFI Senior Investigator Matt Schwartz. *November 2, 2022*
 {:.info}
 
