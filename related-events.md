@@ -11,6 +11,7 @@ title: Related Events
 
 Other organizations that hold public events relevant to the IAIFI community:
 
+  * [MLK Scholar Presentation](https://mlkscholars.mit.edu/updates/2022/brian-nord-there-map-stars-how-do-we-navigate-careers-and-build-community-academic) (December 6, 2022)
   * [MIT Statistics and Data Science Conference](https://sdscon.mit.edu/) (April 1, 2022)
   * [A3D3 Seminars](https://indico.cern.ch/category/14431/)
   * [Physics Meets ML](http://www.physicsmeetsml.org/)
