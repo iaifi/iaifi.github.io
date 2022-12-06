@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Identifying equivalent Calabi--Yau topologies: A discrete challenge from math and physics for machine learning"
+authors: Vishnu Jejjala, Washington Taylor, Andrew Turner
+abstract: "We review briefly the characteristic topological data of Calabi–Yau threefolds and focus on the question of when two threefolds are equivalent through related topological data. This provides an interesting test case for machine learn- ing methodology in discrete mathematics problems motivated by physics."
+arxiv: "2202.07590"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
