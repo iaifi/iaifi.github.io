@@ -16,7 +16,7 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
     * **Friday, December 9, 2022, 2:00–3:00 pm**
       * Georgios Stratis (Postdoc, Northeastern), "Sample generation for the spin-fermion model using neural networks"
       * Ziming Liu (Grad Student, MIT), "Poisson flow generative models"
-      * Eric Moreno (Grad Student, MIT), "TBD"
+      * Eric Moreno (Grad Student, MIT), "Embedded Spaces to Detect Unmodelled Gravitational-Wave Signals"
 
 ## Past Lightning Talks
 
