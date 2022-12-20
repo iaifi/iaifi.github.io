@@ -9,16 +9,19 @@ title: Internal Discussion Seminars
 
 
 ## Upcoming Internal Discussion Seminars
-Unless otherwise noted, discussion seminars will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://www.google.com/url?q=https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC).
+Our Internal Discussion Seminars will continue in Spring 2023.
 
 [Access recordings of past seminars (for IAIFI members only)](https://docs.google.com/document/d/1ZGLuC_-eqMwyeeJNbwR5YhEg_S18E8akbDE9m39oYsY/edit?usp=sharing)
 
 
+## Fall 2022 Seminars
+
 * **Aleksander Madry, Professor, MIT**
     * **Friday, December 16, 2022 2:00-3:00pm** 
-    * *Details to come*
-
-## Fall 2022 Seminars
+    * *What (and how) the ML models learn*
+    * The training data that modern machine learning models ingest has a major impact on these models’ performance (as well as failures). Yet, this impact tends to be neither fully appreciated nor understood at a fine-grained enough level. 
+In this talk, we will discuss some of the key ways in which training data influences not only what but also how models “learn” as well as tools to dissect this influence. In particular, we will present a new framework---called datamodeling---for directly casting predictions as functions of training data and the corresponding model class. This framework enables us to perform a range of model class-driven data analysis, including discovery of subpopulations, quantifying brittleness of model predictions, and diagnosing other shortcomings of the training set. 
+    * [Slides](https://drive.google.com/file/d/1bXB1L9TFfjKhtvfYP0KwU1M3bS8_dXP2/view?usp=share_link) (For IAIFI members only)
 
 * **Abiy Tasissa, Professor, Tufts**
     * **Friday, October 28, 2022 2:00-3:00pm** 
