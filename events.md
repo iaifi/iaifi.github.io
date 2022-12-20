@@ -21,7 +21,7 @@ Our Colloquium Series will continue in Spring 2023. You can [watch our Past Coll
 
 <img class="image" src="images/small-photo-anima-anandkumar.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 * **[Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/), Professor, Caltech; Director of ML, NVIDIA** 
-    * **Tuesday, November 1, 2022, 11:00am-12:00pm (Note the change in date and time)**
+    * **Tuesday, November 1, 2022, 11:00am-12:00pm**
     * *AI Accelerating Sciences: Neural operators for Learning Between Function Spaces*
     * [YouTube Recording](https://youtu.be/RR5-mYQOb7E)
     * [Talk Slides](talks/2022_11_01_IAIFI_Colloquium_Anandkumar.pdf)
