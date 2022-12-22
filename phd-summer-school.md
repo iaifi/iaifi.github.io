@@ -4,14 +4,14 @@ title: IAIFI PhD Summer School and Workshop
 ---
 
 <img src="images/phd-summer-school-logo-7.png" align="right" style="max-width:5990px;width:50%" hspace="50" vspace="50"> 
-* [Summer School](#summer-school) 
+* [Summer School 2022](#summer-school-2022) 
   * [Summer School Agenda](#summer-school-agenda)
   * [Lecturers](#lecturers)
   * [Summer School Registration](#summer-school-registration)
   * [Student Accommodations](#student-accommodations)
   * [Costs](#costs)
   * [Financial Supporters](#financial-supporters)
-* [Workshop](#workshop)
+* [Workshop 2022](#workshop-2022)
   * [Workshop Agenda](#workshop-agenda)
   * [Plenary Speakers](#plenary-speakers)
   * [Workshop Registration](#workshop-registration)
@@ -20,13 +20,19 @@ title: IAIFI PhD Summer School and Workshop
 * [Organizing Committee](#organizing-committee)
 
 
-The first annual IAIFI PhD Summer School will be held at Tufts University **August 1—August 5, 2022**, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. 
+The first annual IAIFI PhD Summer School was held at Tufts University **August 1—August 5, 2022**, followed by the IAIFI Summer Workshop **August 8—August 9, 2022**. 
 
-Registration for the Summer School and Summer Workshop is now closed. Email [iaifi@mit.edu](mailto:iaifi@mit.edu) with any questions. 
+Stay tuned for information on the 2023 Summer School and Workshop. [Join our IAIFI News mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to be the first to receive updates. 
 
 
-## Summer School
-The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials will help students put theory into practice.
+## Summer School 2022
+The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice.
+
+Our first annual Summer School was held hybrid over 5 days, with ~85 attendees in person from over 9 different countries. 
+
+<img src="images/Summer-School_Group_Photo.jpg" align="center" style="max-width:3752px;width:75%" hspace="20" vspace="20">
+
+<img src="images/Summer-School-Collage.pdf" align="center" style="max-width:1904px;width:75%" hspace="20" vspace="20">
 
 ### Summer School Agenda
 <img src="images/2022-summer-school-agenda.jpg" align="center" style="max-width:960px;width:100%" hspace="10" vspace="10">
@@ -106,7 +112,7 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 
 <br>
 
-
+<!---
 ### Summer School Registration
 **Registration for the Summer School is now closed**. You you will be notified of your registration status by May 2, 2022.
 
@@ -119,6 +125,7 @@ Alternative suggestions for accommodations are listed in the [Workshop Accommoda
 * There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding in Tufts dorm rooms, which range from 78 USD to 109 USD per night depending on the accommodations. 
 * Breakfast and lunch (through the Tufts dining hall), as well as coffee at breaks, will be provided daily during the Summer School and Workshop (except over the weekend), along with at least one dinner during the Summer School and a Workshop dinner. 
 * Students who wish to stay for the Workshop will be able to book the same rooms through the weekend and the Workshop if they choose and the Workshop registration fee will be waived for students participating in the Summer School. 
+--->
 
 ### Financial Supporters 
 We extend a sincere thank you to the following financial supporters of the first IAIFI Summer School:
@@ -126,19 +133,23 @@ We extend a sincere thank you to the following financial supporters of the first
 <img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:30%" hspace="10" vspace="10"> <img src="images/unlearn_logo_color.jpg" align="center" style="max-width:8080px;width:30%" hspace="10" vspace="10"> 
 
 
-## Workshop 
-The IAIFI Summer Workshop will bring together researchers from across Physics and AI for two days of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. The Workshop will be hybrid with both in-person and virtual attendance options. The full workshop program will be released in May 2022.
+## Workshop 2022
+The IAIFI Summer Workshop brings together researchers from across Physics and AI for two days of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI.
+
+The first annual Summer Workshop was held hybrid with ~110 in-person attendees from 10 different countries. The Workshop included 82% of the Summer School students who stayed to partake. 
+
+<img src="images/workshop-2022-collage.pdf" align="center" style="max-width:3752px;width:75%" hspace="20" vspace="20">
 
 ### Workshop Agenda
 
-<img src="images/2022-workshop-agenda.png" align="center" style="max-width:612px;width:100%" hspace="10" vspace="10"> 
+<img src="images/2022-workshop-agenda.pdf" align="center" style="max-width:612px;width:100%" hspace="10" vspace="10"> 
 
 [Download PDF of snapshot](images/2022-workshop-agenda.pdf)
 
 [View the detailed agenda for the IAIFI Summer Workshop](https://iaifi.org/workshop-agenda)
 
 ### Plenary Speakers
-**IAIFI Senior Investigators/Affiliates in bold**
+**IAIFI Investigators/Affiliates in bold**
 
 * [Siamak Ravanbakhsh](https://www.siamak.page), Assistant Professor, School of Computer Science, McGill University
 * [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/), Senior Researcher, Microsoft Research
@@ -153,6 +164,7 @@ The IAIFI Summer Workshop will bring together researchers from across Physics an
 * [Sébastien Racanière](https://scholar.google.com/citations?user=o-h0vrQAAAAJ&hl=en), Staff Research Engineer, DeepMind
 * **[Anna Golubeva](https://annagolubeva.github.io)**, IAIFI Fellow
 
+<!---
 ### Workshop Registration
 Registration for the Summer Workshop is now open. The registration fee for in-person attendance is 200 USD and includes breakfast, lunch, and coffee breaks for both days, as well as a dinner on the first night. 
 * [Register for in-person attendance](https://iaifi-workshop-reg-fee.mit.edu/registration)
@@ -171,12 +183,14 @@ The following accommodation options are available for workshop attendees:
     * [Fairfield Inn and Suites Cambridge](https://www.marriott.com/en-us/hotels/bosbg-fairfield-inn-and-suites-boston-cambridge/overview/)
     * [AC Hotel Boston North (Medford)](https://www.marriott.com/en-us/hotels/bosac-ac-hotel-boston-north/overview/)
     * [Hyatt Place Boston/Medford](https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-place-boston-medford/boszm?src=adm_sem_crp_chico_crp_ppc_NAM-UnitedStates-MA-Medford-HP-BOSZM_google_Evergreen2022_e_hyatt%20place%20medford&gclid=CjwKCAjw14uVBhBEEiwAaufYx3w1Ux20K2-qc4tJs7sByDBFsvUL9w5jZu5cEXFa7JRttLPb6QDbYxoCnSIQAvD_BwE)
+--->
 
 ## FAQ 
 * *Who can apply to the Summer School?* Any PhD students or early career researchers working at the intersection of physics and AI may apply to the summer school. 
 * *What is the cost to attend the Summer School?* There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding in Tufts dorm rooms, which range from 78 USD to 109 USD per night depending on the accommodations. Breakfast and lunch will be provided through Tufts dining hall.
 * *Is there funding available to support my attendance at the Summer School?* IAIFI is covering the cost of the Summer School other than travel and lodging. Limited, need-based support may be available for attendees who are unable to cover the costs of travel and lodging and will be addressed on a case-by-case basis. 
 * *If I come to the Summer School, can I also attend the Workshop?* Yes! We encourage you to stay for the Workshop and will cover the cost of your registration if you attend both the Summer School and Workshop in person. 
+* *Will the recordings of the lectures and/or talks be available?* We are working on making the videos available and will share them on this page as soon as they are. 
 
 ## Organizing Committee
 * Jim Halverson, Chair (Northeastern University)
