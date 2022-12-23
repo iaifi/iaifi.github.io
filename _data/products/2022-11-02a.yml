@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Koopman Operator learning for Accelerating Quantum Optimization and Machine Learning"
+authors: Di Luo, Jiayu Shen, Rumen Dangovski, Marin Soljačić
+abstract: "Finding efficient optimization methods plays an important role for quantum optimization and quantum machine learning on near-term quantum computers. While backpropagation on classical computers is computationally efficient, obtaining gradients on quantum computers is not, because the computational complexity usually scales with the number of parameters and measurements. In this paper, we connect Koopman operator theory, which has been successful in predicting nonlinear dynamics, with natural gradient methods in quantum optimization. We propose a data-driven approach using Koopman operator learning to accelerate quantum optimization and quantum machine learning. We develop two new families of methods: the sliding window dynamic mode decomposition (DMD) and the neural DMD for efficiently updating parameters on quantum computers. We show that our methods can predict gradient dynamics on quantum computers and accelerate the variational quantum eigensolver used in quantum optimization, as well as quantum machine learning. We further implement our Koopman operator learning algorithm on a real IBM quantum computer and demonstrate their practical effectiveness."
+arxiv: "2211.01365"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
