@@ -11,11 +11,20 @@ title: Public Colloquia
 
 Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events.
 
-Our Colloquium Series will continue in Spring 2023. You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
-&nbsp;
+* **[Boris Hanin](https://boris-hanin.github.io), Assistant Professor, Princeton University** 
+    * **Friday, February 10, 2023, 2:00-3:00pm**
+    * *Details to come*
 
+* **[Yonatan Kahn](https://physics.illinois.edu/people/directory/profile/yfkahn), Assistant Professor, UIUC** 
+    * **Friday, March 10, 2023, 2:00-3:00pm**
+    * *Details to come*
+
+* **[Uros Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak), Professor, UC Berkeley** 
+    * **Friday, April 14, 2023, 2:00-3:00pm**
+    * *Details to come*
 
 ## Past Colloquia
+You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
 ### Fall 2022
 

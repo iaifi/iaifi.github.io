@@ -4,17 +4,31 @@ title: Internal Discussion Seminars
 ---
 
 * [Upcoming Internal Discussion Seminars](#upcoming-internal-discussion-seminars)
-* [Fall 2022 Seminars](#fall-2022-seminars)
-* [Spring 2022 Seminars](#spring-2022-seminars)
-
+* [Past Seminars](#past-seminars)
 
 ## Upcoming Internal Discussion Seminars
-Our Internal Discussion Seminars will continue in Spring 2023.
 
+* **Special Seminar: Eun-Ah Kim, Professor, Cornell University**
+    * **Friday, January 27, 2023, 2:00–3:00 pm**
+    * *Machine Learning Quantum Emergence* 
+    * Decades of efforts in improving computing power and experimental instrumentation were driven by 	our desire to better understand the complex problem of quantum emergence. The resulting "data revolution" presents new challenges. I will discuss how these challenges can be embraced and turned into opportunities through machine learning. The scientific questions in the field of electronic quantum matter require fundamentally new approaches to data science for two reasons: (1) quantum mechanics restricts our access to information, (2) inference from data should be subject to fundamental laws of physics. Hence machine learning quantum emergence requires collective wisdom of data science and condensed matter physics. I will present my group’s results on the machine-learning-based analysis of complex data and resulting new insights.
+
+* **Carolina Cuesta-Lazaro, IAIFI Fellow**
+    * **Friday, February 24, 2023, 2:00–3:00 pm**
+    * *Details to come*
+
+* **Brian Nord, Research Scientist, Fermilab**
+    * **Friday, March 24, 2023, 2:00–3:00 pm**
+    * *Details to come*
+
+* **Denis Boyda, IAIFI Fellow**
+    * **Friday, April 28, 2023**
+    * *Details to come*
+
+## Past Seminars
 [Access recordings of past seminars (for IAIFI members only)](https://docs.google.com/document/d/1ZGLuC_-eqMwyeeJNbwR5YhEg_S18E8akbDE9m39oYsY/edit?usp=sharing)
 
-
-## Fall 2022 Seminars
+### Fall 2022 Seminars
 
 * **Aleksander Madry, Professor, MIT**
     * **Friday, December 16, 2022 2:00-3:00pm** 
@@ -42,7 +56,7 @@ In this talk, we will discuss some of the key ways in which training data influe
     * Abstract: Neutrinos remain an elusive and intriguing fundamental particle that is useful for probing inconsistencies of the Standard Model: neutrinos have mass when the Standard Model predicts they should not, they potentially exhibit charge parity violation, and there are possible hints of a fourth, sterile neutrino flavor. Data from neutrino detectors is particularly valuable due to the neutrinos’ weakly interacting nature, thus it is crucial that we maximize the information per detected interaction. In this talk, I will show how we are using machine learning to better analyze the precious data from various types of neutrino detectors. I will discuss optimizing convolutional neural networks (CNNs) to reconstruct GeV-scale neutrino events in the IceCube detector and how these measurements can help improve our understanding of these difficult-to-detect particles. I will focus on the challenges of reconstructing sparse, noisy neutrino events along with the speedup advantages of using machine learning methods. I will also touch on challenges that machine learning reconstructions face with the current and next generation of neutrino experiments, which will leverage Liquid Argon (LAr) detectors that use charge and light to record neutrino interactions.
     * [Slides](https://drive.google.com/file/d/1F2k50SmwPPRCv7M94LlQtyrs0DN4XV77/view?usp=share_link) (For IAIFI members only)
     
-## Spring 2022 Seminars
+### Spring 2022 Seminars
 * **Anna Golubeva, IAIFI Fellow**
     * **Friday, March 11, 2022 2:00-3:00pm** 
     * *"The role of symmetry in machine learning"*
@@ -69,7 +83,7 @@ The talk will not require background in deep learning. Based on joint works with
     * [Slides](https://drive.google.com/file/d/1IV6BoThlip4g5Ig1bHoIe5ggHKWULadP/view?usp=share_link) (For IAIFI members only)
 
 
-## Fall 2021 Seminars
+### Fall 2021 Seminars
 
   * **Fabian Ruehle, Assistant Professor, Northeastern University**
     * **Friday, September 24, 2:00-3:00pm** 
@@ -107,7 +121,7 @@ The talk will not require background in deep learning. Based on joint works with
     * As machine learning increasingly affects people and society, awareness of its potential harmful effects has also grown. To anticipate, prevent, and mitigate undesirable downstream consequences, it's important that we understand when and how harm might be introduced throughout the ML life cycle. This talk will walk through a framework that identifies seven distinct potential sources of downstream harm in machine learning, spanning the data collection, development, and deployment processes.  It will also explore how different sources of harm might motivate different mitigation techniques.
     * [Slides](https://drive.google.com/file/d/1Evm6o6WPkmPvZWh96LTxVvzQQMxXgkq8/view?usp=share_link) (For IAIFI members only) 
 
-## Spring 2021 Seminars
+### Spring 2021 Seminars
 
   * **Justin Solomon**
     * **Thursday, February 11, 11am-noon**
