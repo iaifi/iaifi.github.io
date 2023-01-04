@@ -99,8 +99,8 @@ Please report IAIFI-related papers, talks, datasets, workshops, and research hig
 
 ## Be a Guest in the IAIFI Penthouse
 * If you are an IAIFI member and would like to visit the IAIFI Penthouse (MIT Building 26, 6th floor), we can provide temporary desk space.
-* [View Penthouse desk assignments](https://docs.google.com/presentation/d/16aVEtwVf0Ull6qo_UC7bR20YQYIO9KHS/edit?usp=sharing&ouid=104868965486355287780&rtpof=true&sd=true).
-* [Request a desk as a visitor](https://forms.gle/7eCTpuqQ4aEGLGx88)
+* [View Penthouse desk assignments](https://docs.google.com/presentation/d/16aVEtwVf0Ull6qo_UC7bR20YQYIO9KHS/edit?usp=sharing&ouid=100405968312486369078&rtpof=true&sd=true).
+* [Request a desk as a visitor](https://app.smartsheet.com/b/form/49c21bb886164fc1a51f1ef6e9e130a8)
 * If you would like to request a permanent desk in the Penthouse, email [IAIFI Management](mailto:iaifi@mit.edu) with your request and rationale. 
 
 <!---
