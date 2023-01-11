@@ -29,7 +29,10 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
-***IAIFI sponsors the Machine Learning and the Physical Sciences workshop***: IAIFI was pleased to sponsor the [Machine Learning and the Physical Sciences workshop](https://ml4physicalsciences.github.io/2022/) at NeurIPS 2022 and to see many IAIFI researchers present papers. [View papers from IAIFI researchers at the workshop](https://t.co/GMPiqTcI2J).
+***Lina Necib recognized as a rising star in astronomy by Astronomy magazine***: Read [Astronomy magazine's profile on Lina Necib](https://astronomy.com/magazine/news/2023/01/rising-star-in-astronomy-lina-necib) as part of their rising stars in astronomy issue. *January, 3, 2023*
+{:.info}
+
+***IAIFI sponsors the Machine Learning and the Physical Sciences workshop***: IAIFI was pleased to sponsor the [Machine Learning and the Physical Sciences workshop](https://ml4physicalsciences.github.io/2022/) at NeurIPS 2022 and to see many IAIFI researchers present papers. [View papers from IAIFI researchers at the workshop](https://t.co/GMPiqTcI2J). *December 3, 2022*
 {:.info}
 
 ***Jesse Thaler provides insight on the potential of AI for physics discovery***: Read ["Will artificial intelligence ever discover new laws of physics?"](https://www.newscientist.com/article/mg25634141-200-will-artificial-intelligence-ever-discover-new-laws-of-physics/) *November 21, 2022*
