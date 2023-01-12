@@ -115,3 +115,7 @@ It is important that we all take responsibility for the Code of Conduct in order
 
 [Confirm and agree to abide by the IAIFI Code of Conduct](https://forms.gle/vVupj7YD6qdGaTXy8)
 {:.info}
+
+## Code of Conduct Background
+
+The goal of the IAIFI [Early Career and Equity Committee](https://iaifi.org/ecec) was to develop a Code of Conduct that would address the specific needs of the IAIFI community. To do so, the committee consulted sources such as the [LHCB Code of Conduct](https://lhcb.web.cern.ch/lhcb_page/collaboration/organization/Code_of_Conduct.html), the [American Physical Society](https://www.aps.org/meetings/policies/code-conduct.cfm), and the [MIT Values Statement](https://web.mit.edu/values/). Additionally, the Code of Conduct was formulated with input from the ECEC members, [MIT's Institute Discrimination and Harassment Response office](https://idhr.mit.edu), and MIT's Office of the General Counsel. Once drafted, the ECEC sought input and feedback from first the IAIFI Senior Investigators and then the whole IAIFI community and made modifications accordingly. 

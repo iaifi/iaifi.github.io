@@ -4,8 +4,8 @@ title: "AI Poincaré 2.0: Machine Learning Conservation Laws from Differential E
 authors: Ziming Liu, Varun Madhavan, Max Tegmark
 abstract: "We present a machine learning algorithm that discovers conservation laws from differential equations, both numerically (parametrized as neural networks) and symbolically, ensuring their functional independence (a non-linear generalization of linear independence). Our independence module can be viewed as a nonlinear generalization of singular value decomposition. Our method can readily handle inductive biases for conservation laws. We validate it with examples including the 3-body problem, the KdV equation and nonlinear Schrödinger equation."
 arxiv: "2203.12610"
-journal: 
-doi: 
+journal: Physical Review E, 2022, Volume 106, Article 045307
+doi: https://doi.org/10.1103/PhysRevE.106.045307
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2022-10-21

@@ -4,8 +4,8 @@ title: "Disentangling Quarks and Gluons with CMS Open Data"
 authors: Patrick T. Komiske, Serhii Kryhin, Jesse Thaler
 abstract: We study quark and gluon jets separately using public collider data from the CMS experiment. Our analysis is based on 2.3/fb of proton-proton collisions at 7 TeV, collected at the Large Hadron Collider in 2011. We define two non-overlapping samples via a pseudorapidity cut -- central jets with |eta| < 0.65 and forward jets with |eta| > 0.65 -- and employ jet topic modeling to extract individual distributions for the maximally separable categories. Under certain assumptions, such as sample independence and mutual irreducibility, these categories correspond to "quark" and "gluon" jets, as given by a recently proposed operational definition. We consider a number of different methods for extracting reducibility factors from the central and forward datasets, from which the fractions of quark jets in each sample can be determined. The greatest stability and robustness to statistical uncertainties is achieved by a novel method based on parametrizing the endpoints of a receiver operating characteristic (ROC) curve. To mitigate detector effects, which would otherwise induce unphysical differences between central and forward jets, we use the OmniFold method to perform central value unfolding. As a demonstration of the power of this method, we extract the intrinsic dimensionality of the quark and gluon jet samples, which exhibit Casimir scaling, as expected from the strongly-ordered limit. To our knowledge, this work is the first application of full phase space unfolding to real collider data, and one of the first applications of topic modeling to extract separate quark and gluon distributions at the LHC.
 arxiv: "2205.04459"
-journal: 
-doi: 
+journal: Physical Review D, 2022, Volume 106 Article 094021
+doi: https://doi.org/10.1103/PhysRevD.106.094021
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2022-11-16
