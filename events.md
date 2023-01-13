@@ -13,7 +13,8 @@ Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/ia
 
 * **[Boris Hanin](https://boris-hanin.github.io), Assistant Professor, Princeton University** 
     * **Friday, February 10, 2023, 2:00-3:00pm**
-    * *Details to come*
+    * *Bayesian Interpolation with Deep Linear Networks*
+    * This talk is based on joint work (arXiv:2212.14457) with Alexander Zlokapa, which gives exact non-asymptotic formulas for Bayesian posteriors in deep linear networks. After providing some general motivation, I will focus on explaining results of two kinds. First, I will state a precise result showing that infinitely deep linear networks compute optimal posteriors starting from universal, data-agnostic priors. Second, I will explain how a novel scaling parameter -- given by  # data * depth / width -- controls the effective depth and complexity of the posterior. 
 
 * **[Yonatan Kahn](https://physics.illinois.edu/people/directory/profile/yfkahn), Assistant Professor, UIUC** 
     * **Friday, March 10, 2023, 2:00-3:00pm**
