@@ -10,17 +10,19 @@ title: Lightning Talks
 ## Upcoming Lightning Talk sessions
 Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC). 
 
-[Access recordings of past lightning talks (for IAIFI members only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=share_link)
+Our Lightning Talk will continue in Spring 2023.
 
-* **Theme: Constructing Likelihoods with Neural Nets**
-    * **Friday, December 9, 2022, 2:00–3:00 pm**
-      * Georgios Stratis (Postdoc, Northeastern), "Sample generation for the spin-fermion model using neural networks"
-      * Ziming Liu (Grad Student, MIT), "Poisson flow generative models"
-      * Eric Moreno (Grad Student, MIT), "Embedded Spaces to Detect Unmodelled Gravitational-Wave Signals"
+[Access recordings of past lightning talks (for IAIFI members only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=share_link)
 
 ## Past Lightning Talks
 
 * **Fall 2022 Lightning Talk Session I**
+
+* **Theme: Constructing Likelihoods with Neural Nets**
+    * **Friday, December 9, 2022, 2:00–3:00 pm**
+      * Georgios Stratis (Postdoc, Northeastern), ["Sample generation for the spin-fermion model using neural networks"](https://drive.google.com/file/d/1lok8P1z2LNK6hN5iK64zIkw_vQGeZFiq/view?usp=share_link) (IAIFI Members only)
+      * Ziming Liu (Grad Student, MIT), ["Poisson flow generative models"](https://drive.google.com/file/d/16_hV0ENV2kkAQRjlYWOFAqWieAA0khDY/view?usp=share_link) (IAIFI Members only)
+      * Eric Moreno (Grad Student, MIT), "Embedded Spaces to Detect Unmodelled Gravitational-Wave Signals"
 
 * **Theme: Physics-Motivated Gradient Descent**
     * **Friday, November 18, 2022, 2:00–3:00 pm**

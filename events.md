@@ -13,15 +13,18 @@ Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/ia
 
 * **[Boris Hanin](https://boris-hanin.github.io), Assistant Professor, Princeton University** 
     * **Friday, February 10, 2023, 2:00-3:00pm**
-    * *Details to come*
+    * *Bayesian Interpolation with Deep Linear Networks*
+    * This talk is based on joint work (arXiv:2212.14457) with Alexander Zlokapa, which gives exact non-asymptotic formulas for Bayesian posteriors in deep linear networks. After providing some general motivation, I will focus on explaining results of two kinds. First, I will state a precise result showing that infinitely deep linear networks compute optimal posteriors starting from universal, data-agnostic priors. Second, I will explain how a novel scaling parameter -- given by  # data * depth / width -- controls the effective depth and complexity of the posterior. 
 
 * **[Yonatan Kahn](https://physics.illinois.edu/people/directory/profile/yfkahn), Assistant Professor, UIUC** 
     * **Friday, March 10, 2023, 2:00-3:00pm**
-    * *Details to come*
+    * *Dumb Machine Learning for Physics*
+    * Machine learning is now a part of physics for the foreseeable future, but many deep learning 	tools, architectures, and algorithms are imported from industry to physics with minimal modifications. Does physics really need all of these fancy techniques, or does “dumb” machine learning with the simplest possible neural network suffice? The answer may depend on the extent to which the training data relevant to physics problems is truly analogous to problems from industry such as image classification, which in turn depends on the topology and statistical structures of physics data. This talk will not endeavor to answer this very broad and difficult question, but will rather provide a set of illustrative examples inspired by a novice’s exploration of this rapidly-developing field.
 
 * **[Uros Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak), Professor, UC Berkeley** 
     * **Friday, April 14, 2023, 2:00-3:00pm**
     * *Details to come*
+
 
 ## Past Colloquia
 You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
