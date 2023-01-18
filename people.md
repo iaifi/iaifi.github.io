@@ -16,16 +16,16 @@ The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, North
 
 [Download junior researcher info sheet](images/IAIFI_Junior-Info_2022.pdf) 
 
-We are currently accepting applications from senior researchers in both academia and industry to become IAIFI Affiliates.  If this interests you, see our [IAIFI Affiliates Application Form](/affiliates.html).
+We are currently accepting applications from senior researchers in both academia and industry to become IAIFI Affiliates.  If this interests you, see our [IAIFI Affiliates Application Form](https://app.smartsheet.com/b/form/b73212d8895c4436a947b2dfdd999da3).
 
-If you are a junior researcher interested in becoming involved in IAIFI, see our [Junior Researcher Interest Form](/junior-interest.html).
+If you are a junior researcher interested in becoming involved in IAIFI, see our [Junior Researcher Interest Form](https://app.smartsheet.com/b/form/3351b081785743ceac66a7294546b558).
 
 There are various levels of involvement in IAIFI: 
 
 **Senior Investigators, Junior Investigators, IAIFI Affiliates**:  Members in these categories are actively working on IAIFI-related research and must report their IAIFI-related activities to the NSF. Everyone at these levels is listed on this page.
 {:.info}
 
-**Friend of IAIFI**:  Friends of IAIFI are Boston-area researchers interested in IAIFI's mission, but cannot receive NSF funding and have no reporting requirements. Friends of IAIFI are welcome to participate in internal IAIFI activities. If you are interested in becoming a Friend of IAIFI, [complete the interest form](https://iaifi.org/junior-interest.html).
+**Friend of IAIFI**:  Friends of IAIFI are Boston-area researchers interested in IAIFI's mission, but cannot receive NSF funding and have no reporting requirements. Friends of IAIFI are welcome to participate in internal IAIFI activities. If you are interested in becoming a Friend of IAIFI, [complete the interest form](https://app.smartsheet.com/b/form/3cff913c564141249c4292ad8c435774).
 {:.info}
 
 {% for category in site.data.categories.categories  %}
