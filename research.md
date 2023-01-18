@@ -21,7 +21,16 @@ Coming soon: A full set of IAIFI project pages, each with more details about our
 
 ## Highlights
 
-*Updated December 6, 2022*
+*Updated January 18, 2023*
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQye1Ef8ZzrrbMQrOlRLjSltK2p3vEsfxG3dt0wn301w5m4k4flwI62pA5kC2eeESsvt1d1wn8aL7oq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+[View and download slide](https://docs.google.com/presentation/d/1H_y1WXnKN6-9brryTqro5GIUZyHlIpJRWU-Rob63QLA/edit?usp=sharing)
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}

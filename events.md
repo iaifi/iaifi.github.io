@@ -11,20 +11,30 @@ title: Public Colloquia
 
 Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events.
 
+<img class="image" src="images/small-photo-boris-hanin.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 * **[Boris Hanin](https://boris-hanin.github.io), Assistant Professor, Princeton University** 
     * **Friday, February 10, 2023, 2:00-3:00pm**
     * *Bayesian Interpolation with Deep Linear Networks*
-    * This talk is based on joint work (arXiv:2212.14457) with Alexander Zlokapa, which gives exact non-asymptotic formulas for Bayesian posteriors in deep linear networks. After providing some general motivation, I will focus on explaining results of two kinds. First, I will state a precise result showing that infinitely deep linear networks compute optimal posteriors starting from universal, data-agnostic priors. Second, I will explain how a novel scaling parameter -- given by  # data * depth / width -- controls the effective depth and complexity of the posterior. 
+    * This talk is based on joint work ([arXiv:2212.14457](https://arxiv.org/abs/2212.14457)) with Alexander Zlokapa, which gives exact non-asymptotic formulas for Bayesian posteriors in deep linear networks. After providing some general motivation, I will focus on explaining results of two kinds. First, I will state a precise result showing that infinitely deep linear networks compute optimal posteriors starting from universal, data-agnostic priors. Second, I will explain how a novel scaling parameter -- given by  # data * depth / width -- controls the effective depth and complexity of the posterior. 
 
+<img class="image" src="images/small-photo-yonatan-kahn.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 * **[Yonatan Kahn](https://physics.illinois.edu/people/directory/profile/yfkahn), Assistant Professor, UIUC** 
     * **Friday, March 10, 2023, 2:00-3:00pm**
     * *Dumb Machine Learning for Physics*
     * Machine learning is now a part of physics for the foreseeable future, but many deep learning 	tools, architectures, and algorithms are imported from industry to physics with minimal modifications. Does physics really need all of these fancy techniques, or does “dumb” machine learning with the simplest possible neural network suffice? The answer may depend on the extent to which the training data relevant to physics problems is truly analogous to problems from industry such as image classification, which in turn depends on the topology and statistical structures of physics data. This talk will not endeavor to answer this very broad and difficult question, but will rather provide a set of illustrative examples inspired by a novice’s exploration of this rapidly-developing field.
 
 * **[Uros Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak), Professor, UC Berkeley** 
-    * **Friday, April 14, 2023, 2:00-3:00pm**
-    * *Details to come*
-
+    * **Friday, April 21, 2023, 2:00-3:00pm**
+    * *New physics inspired sampling methods with applications to physics and Bayesian statistics*
+    * High dimensional sampling is at the core of Bayesian data analysis, computational chemistry, 
+Lattice QCD, statistical physics, economy and other fields. I will discuss several physics inspired sampling 
+methods recently developed in our group: Deterministic Langevin Monte Carlo uses machine learning 
+Normalizing Flows to convert stochastic differential equations of Langevin dynamics into ordinary differential equations
+of Deterministic Langevin dynamics to sample. Microcanonical Hamiltonian Monte Carlo uses energy conserving dynamics 
+in a modified Hamiltonian with occasional stochastic bounces to sample, while Microcanonical Langevin Monte Carlo uses 
+continuous noise in an energy conserving dynamics to sample. These methods show promise in that they are often superior 
+against state of the art samplers. I will present several applications to physics and Bayesian data analysis, and discuss
+ongoing work and future directions. 
 
 ## Past Colloquia
 You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 

@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "The First Two Years of FLEET: an Active Search for Superluminous Supernovae"
+authors: Sebastian Gomez, Edo Berger, Peter K. Blanchard, Griffin Hosseinzadeh, Matt Nicholl, Daichi Hiramatsu, V. Ashley Villar, Yao Yin
+abstract: 'In November 2019 we began operating FLEET (Finding Luminous and Exotic Extragalactic Transients), a machine learning algorithm designed to photometrically identify Type I superluminous supernovae (SLSNe) in transient alert streams. Using FLEET, we spectroscopically classified 21 of the 50 SLSNe identified worldwide between November 2019 and January 2022. Based on our original algorithm, we anticipated that FLEET would achieve a purity of about 50\% for transients with a probability of being a SLSN, \pslsn>0.5; the true on-sky purity we obtained is closer to 80\%. Similarly, we anticipated FLEET could reach a completeness of about 30\%, and we indeed measure an upper limit on the completeness of ≈33\%. Here, we present FLEET 2.0, an updated version of FLEET trained on 4,780 transients (almost 3 times more than in FLEET 1.0). FLEET 2.0 has a similar predicted purity to FLEET 1.0, but outperforms FLEET 1.0 in terms of completeness, which is now closer to ≈40\% for transients with \pslsn>0.5. Additionally, we explore possible systematics that might arise from the use of FLEET for target selection. We find that the population of SLSNe recovered by FLEET is mostly indistinguishable from the overall SLSN population, in terms of physical and most observational parameters. We provide FLEET as an open source package on GitHub this https URL'
+arxiv: "2210.10811"
+journal: 
+doi:
+nsf-par:
+code: 
+publication-date: 
