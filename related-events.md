@@ -24,13 +24,13 @@ Other organizations that hold public events relevant to the IAIFI community:
 ## Upcoming Related Workshops
 
 Upcoming workshops involving members of the IAIFI community:
-
-  * [Machine Learning and the Physical Sciences Workshop - NeurIPS 2022, December 3, 2022](https://ml4physicalsciences.github.io/2022/)
-      * IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer)
+  * [At the interface of Physics, Mathematics and Artificial Intelligence Workshop, May 29–June 2, 2023](https://agenda.infn.it/event/33851/)
+      * IAIFI involvement: Anindita Maiti and Harold Erbin (Co-Organizers)
 
 ## Past Related Workshops
 Past workshops involving members of the IAIFI community:
-
+  * [Machine Learning and the Physical Sciences Workshop - NeurIPS 2022, December 3, 2022](https://ml4physicalsciences.github.io/2022/)
+      * IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer)
  * [Machine Learning at GGI - Galileo Galilei Institute, August 22-September 30, 2022](https://www.ggi.infn.it/showevent.pl?id=414)
       * IAIFI involvement: Jesse Thaler (Co-Organizer)
   * [ML4Jets 2022 - Rutgers University, November 1–4, 2022](https://indico.cern.ch/event/1159913/)

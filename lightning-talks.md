@@ -14,7 +14,7 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
     * **Friday, February 17, 2023, 2:00-3:00 pm**
       * Niklas Nolte (Postdoc, MIT), "Lipschitz Network classification"
       * Yin Lin (Postdoc, MIT), "Contour deformation for lattice QCD"
-      * Andrew Tan (PhD student), "Fault-tolerant neural networks from biologically inspired error correction codes"
+      * Andrew Tan (PhD student, MIT), "Fault-tolerant neural networks from biologically inspired error correction codes"
 
 * **Theme: Geometric learning/embedding strategies**
      * **Friday, March 17, 2023, 2:00pm–3:00pm**

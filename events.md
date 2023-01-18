@@ -11,11 +11,13 @@ title: Public Colloquia
 
 Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events.
 
+<img class="image" src="images/small-photo-boris-hanin.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 * **[Boris Hanin](https://boris-hanin.github.io), Assistant Professor, Princeton University** 
     * **Friday, February 10, 2023, 2:00-3:00pm**
     * *Bayesian Interpolation with Deep Linear Networks*
-    * This talk is based on joint work (arXiv:2212.14457) with Alexander Zlokapa, which gives exact non-asymptotic formulas for Bayesian posteriors in deep linear networks. After providing some general motivation, I will focus on explaining results of two kinds. First, I will state a precise result showing that infinitely deep linear networks compute optimal posteriors starting from universal, data-agnostic priors. Second, I will explain how a novel scaling parameter -- given by  # data * depth / width -- controls the effective depth and complexity of the posterior. 
+    * This talk is based on joint work ([arXiv:2212.14457](https://arxiv.org/abs/2212.14457)) with Alexander Zlokapa, which gives exact non-asymptotic formulas for Bayesian posteriors in deep linear networks. After providing some general motivation, I will focus on explaining results of two kinds. First, I will state a precise result showing that infinitely deep linear networks compute optimal posteriors starting from universal, data-agnostic priors. Second, I will explain how a novel scaling parameter -- given by  # data * depth / width -- controls the effective depth and complexity of the posterior. 
 
+<img class="image" src="images/small-photo-yonatan-kahn.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 * **[Yonatan Kahn](https://physics.illinois.edu/people/directory/profile/yfkahn), Assistant Professor, UIUC** 
     * **Friday, March 10, 2023, 2:00-3:00pm**
     * *Dumb Machine Learning for Physics*
