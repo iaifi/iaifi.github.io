@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior"
+authors: Gabriel B Margolis, Pulkit Agrawal
+abstract: "Learned locomotion policies can rapidly adapt to diverse environments similar to those experienced during training but lack a mechanism for fast tuning when they fail in an out-of-distribution test environment. This necessitates a slow and iterative cycle of reward and environment redesign to achieve good performance on a new task. As an alternative, we propose learning a single policy that encodes a structured family of locomotion strategies that solve training tasks in different ways, resulting in Multiplicity of Behavior (MoB). Different strategies generalize differently and can be chosen in real-time for new tasks or environments, bypassing the need for time-consuming retraining. We release a fast, robust open-source MoB locomotion controller, Walk These Ways, that can execute diverse gaits with variable footswing, posture, and speed, unlocking diverse downstream tasks: crouching, hopping, high-speed running, stair traversal, bracing against shoves, rhythmic dance, and more."
+arxiv: "2212.03238"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
