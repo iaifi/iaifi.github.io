@@ -13,6 +13,8 @@ Thank you for your interest in getting involved with IAIFI! If you are a postdoc
 
 If your situation does not fall into any of the above categories but you have an idea for collaborating with IAIFI, please contact [IAIFI Management](mailto:iaifi@mit.edu).
 
+[Download junior researcher info sheet](images/IAIFI_Junior-Info_2022.pdf) 
+
 ## Subscribe to IAIFI News 
 
 [Subscribe to our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events and opportunities. The mailing list  is open to anyone interested in the IAIFI mission, regardless of location or level of involvement.
