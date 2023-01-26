@@ -5,14 +5,6 @@ aside:
   toc: true
 ---
 
-* [Contact](#contact)
-* [Social Media](#social-media)
-* [Graphics](#graphics)
-* [FAQ](#FAQ)
-* [Visit IAIFI](#visit-iaifi)
-* [Receive Updates on IAIFI Events and Opportunities](#receive-updates-on-iaifi-events-and-opportunities)
-* [Request Letter of Collaboration](#request-letter-of-collaboration)
-
 
 ## Contact
   * [Email IAIFI Management](mailto:iaifi@mit.edu)

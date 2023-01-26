@@ -66,6 +66,8 @@ The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, 
 * [High Energy Theory Physics Postdoc openings at Harvard](https://academicjobsonline.org/ajo/jobs/20235)
     * Deadline: Applications currently closed.
 --->
+* [Postdoctoral Fellow opportunities in Scientific Image Analysis Group at Harvard](https://projects.iq.harvard.edu/siag)
+    * Deadline: January 30, 2023
 
 * [Postdoc opportunities in ML Theory Group at Harvard](https://mltheory.org/#opportunities)
     * Deadlines vary

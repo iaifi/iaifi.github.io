@@ -1,14 +1,9 @@
 ---
 layout: article
 title: Journal Club
+aside:
+  toc: true
 ---
-
-* [Upcoming Journal Clubs](#upcoming-journal-clubs)
-* [Fall 2022 Journal Clubs](#fall-2022-journal-clubs)
-* [Spring 2022 Journal Clubs](#spring-2022-journal-clubs)
-* [Fall 2021 Journal Clubs](#fall-2021-journal-clubs)
-* [Spring 2021 Journal Clubs](#spring-2021-journal-clubs)
-* [Fall 2020 Journal Clubs](#fall-2020-journal-clubs)
 
 
 ## Upcoming Journal Clubs

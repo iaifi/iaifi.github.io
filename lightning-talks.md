@@ -1,10 +1,9 @@
 ---
 layout: article
 title: Lightning Talks
+aside:
+  toc: true
 ---
-
-* [Upcoming Lightning Talk Sessions](#upcoming-lightning-talk-sessions)
-* [Past Lightning Talks](#past-lightning-talks)
 
 
 ## Upcoming Lightning Talk sessions

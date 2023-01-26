@@ -1,12 +1,12 @@
 ---
 layout: article
 title: Cambridge Science Festival
+aside:
+  toc: true
 ---
 
 [<img src="images/Main_CSF_Banner.png" align="center" style="max-width:2601px;width:100%" hspace="20" vspace="20">](https://cambridgesciencefestival.org)
-* [Galaxy Zoo](#galaxy-zoo) 
-* [Robot Demo](#robot-demo)
-* [Engage with IAIFI](#engage-with-iaifi)
+
 
 Did you see us at the Festival? [Complete our survey](https://forms.gle/eGoK4qdBKRfR2oCR7) to tell us what you thought!
 {:.success}

@@ -1,10 +1,9 @@
 ---
 layout: article
 title: Public Colloquia
+aside:
+  toc: true
 ---
-
-* [Upcoming Colloquia](#upcoming-colloquia)
-* [Past Colloquia](#past-colloquia)
 
 
 ## Upcoming Colloquia 

@@ -1,11 +1,10 @@
 ---
 layout: article
 title: Related Events
+aside:
+  toc: true
 ---
 
-* [Related Public Events](#related-public-events)
-* [Upcoming Related Workshops](#upcoming-related-workshops)
-* [Past Related Workshops](#past-related-workshops)
 
 ## Related Public Events
 
