@@ -1,12 +1,9 @@
 ---
 layout: article
 title: Physics/AI Network
+aside:
+  toc: true
 ---
-
-* [IAIFI-AIMLAC Workshop 2022](#iaifi-aimlac-workshop-2022)
-* [Other Physics and AI Collaborations](#other-physics-and-ai-collaborations)
-* [Other NSF AI Institutes](#other-nsf-ai-institutes)
-* [Related Mailing Lists](#related-mailing-lists)
 
 
 ## IAIFI-AIMLAC Workshop 2022

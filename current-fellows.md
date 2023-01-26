@@ -1,10 +1,10 @@
 ---
 layout: article
 title: Current IAIFI Fellows
+aside:
+  toc: true
 ---
 
-* [2022-2025 IAIFI Fellows](#2022-2025-iaifi-fellows)
-* [2021-2024 IAIFI Fellows](#2021-2024-iaifi-fellows)
 
 ## 2022-2025 IAIFI Fellows
 

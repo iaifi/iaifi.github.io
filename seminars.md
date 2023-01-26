@@ -1,10 +1,9 @@
 ---
 layout: article
 title: Internal Discussion Seminars
+aside:
+  toc: true
 ---
-
-* [Upcoming Internal Discussion Seminars](#upcoming-internal-discussion-seminars)
-* [Past Seminars](#past-seminars)
 
 ## Upcoming Internal Discussion Seminars
 
