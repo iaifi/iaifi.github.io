@@ -1,8 +1,6 @@
 ---
 layout: article
 title: Physics/AI Network
-aside:
-  toc: true
 ---
 
 

@@ -1,8 +1,6 @@
 ---
 layout: article
 title: Code of Conduct, Related Policies, Reporting, and Resources
-aside:
-  toc: true
 ---
 
 ## IAIFI Code of Conduct
