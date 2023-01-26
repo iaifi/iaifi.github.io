@@ -54,7 +54,6 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
 ## Research
 * Become an IAIFI Junior Investigator: If you are working with an IAIFI Senior Investigator or Affiliate, they can nominate you to be a Junior Investigator, which provides you with access to additional IAIFI resources (such as computing). You will also be included on the [People page](#/people.html) of the IAIFI website. **Junior Investigator forms must be approved by an IAIFI Senior Investigator, with whom you already have a collaboration.**
-
 [Complete the form to become an IAIFI Junior Investigator](https://app.smartsheet.com/b/form/3351b081785743ceac66a7294546b558)
 
 * Lead an IAIFI Journal Club: Any IAIFI member or partner can [sign up to lead an IAIFI Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7)
