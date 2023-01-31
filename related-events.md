@@ -24,7 +24,7 @@ Other organizations that hold public events relevant to the IAIFI community:
 
 Upcoming workshops involving members of the IAIFI community:
   * [At the interface of Physics, Mathematics and Artificial Intelligence Workshop, May 29–June 2, 2023](https://agenda.infn.it/event/33851/)
-      * IAIFI involvement: Anindita Maiti and Harold Erbin (Co-Organizers)
+      * IAIFI involvement: Harold Erbin, Daniel Hackett, Anindita Maiti (Co-Organizers)
 
 ## Past Related Workshops
 Past workshops involving members of the IAIFI community:
