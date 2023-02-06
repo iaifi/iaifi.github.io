@@ -18,7 +18,9 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 
 ### Workshop Registration
 Registration for the Summer Workshop is now open. The registration fee for in-person attendance is 250 USD and includes coffee breaks for both days, as well as a dinner on the first night. 
-[Register for IAIFI Summer Workshop](https://iaifi-workshop-reg-fee.mit.edu/registration){:.button.button--outline-primary.button--pill.button--sm}
+[Register for IAIFI Summer Workshop](https://iaifi-workshop-reg-fee.mit.edu/registration)
+
+{:.button.button--outline-primary.button--pill.button--sm}
 
 **Note: If you are an IAIFI Senior Investigator and would like to use your IAIFI funds to cover registration for you or your group, [contact iaifi@mit.edu](mailto:iaifi@mit.edu). If you are an IAIFI Junior Investigator, speak to the IAIFI Senior Investigator you work with to ask about funding.**
 
