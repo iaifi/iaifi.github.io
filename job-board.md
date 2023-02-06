@@ -13,7 +13,52 @@ To include a job post on this page, email [iaifi@mit.edu](mailto:iaifi@mit.edu),
 Note: These are jobs external to IAIFI. For IAIFI-related job opportunities, see our [IAIFI Jobs page](\iaifi-jobs.html).
 
 
-## Academic Opportunities
+# Academic Opportunities
+
+## Faculty Opportunities
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% assign jobs = site.data.jobs | sort | reverse %}
+{% for job in jobs %}
+  {% capture date %}{{job.expire | date: '%s' | plus: 0 }}{% endcapture %}
+  {% if date > now %}
+{% assign faculty = job %}
+{% if job.type == "faculty" %}
+**{{job.title}}** <br>
+*{{job.employer}}* <br>
+{%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
+<div style = "position:relative; top:-1em;" >
+<details>
+<summary>Details</summary>
+<em>{{job.details}}</em>
+</details>
+</div>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+## Postdoc Opportunities
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% assign jobs = site.data.jobs | sort | reverse %}
+{% for job in jobs %}
+  {% capture date %}{{job.expire | date: '%s' | plus: 0 }}{% endcapture %}
+  {% if date > now %}
+{% assign postdoc = job %}
+{% if job.type == "postdoc" %}
+**{{job.title}}** <br>
+*{{job.employer}}* <br>
+{%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
+<div style = "position:relative; top:-1em;" >
+<details>
+<summary>Details</summary>
+<em>{{job.details}}</em>
+</details>
+</div>
+{% endif %}
+{% endif %}
+{% endfor %}
+
+<!---
+## Other Academic Opportunities
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
 {% assign jobs = site.data.jobs | sort | reverse %}
 {% for job in jobs %}
@@ -33,8 +78,9 @@ Note: These are jobs external to IAIFI. For IAIFI-related job opportunities, see
 {% endif %}
 {% endif %}
 {% endfor %}
+--->
 
-## Industry Opportunities
+# Industry Opportunities
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
 {% assign jobs = site.data.jobs | sort | reverse %}
