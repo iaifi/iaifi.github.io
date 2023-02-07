@@ -3,9 +3,11 @@ layout: article
 title: IAIFI Summer School
 ---
 
-<img src="images/phd-summer-school-logo-7.png" align="right" style="max-width:5990px;width:50%" hspace="50" vspace="50"> 
+<img src="images/phd-summer-school-logo-7.png" align="right" style="max-width:5990px;width:50%" hspace="50" vspace="5"> 
 
-* [Summer School 2022](#summer-school-2022) 
+* [Summer School 2022](#summer-school-2022)
+* [Summer Workshop 2022](#summer-workshop-2022)
+* [2022 Organizing Committee](#2022-organizing-committee) 
 * [FAQ](#faq)
 
 
@@ -101,7 +103,35 @@ We extend a sincere thank you to the following financial supporters of the first
 
 <img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:30%" hspace="10" vspace="10"> <img src="images/unlearn_logo_color.jpg" align="center" style="max-width:8080px;width:30%" hspace="10" vspace="10"> 
 
-### 2022 Organizing Committee
+## Summer Workshop 2022
+
+The first annual Summer Workshop was held hybrid with ~110 in-person attendees from 10 different countries. The Workshop included 82% of the Summer School students who stayed to partake. 
+
+<img src="images/workshop-2022-collage.png" align="center" style="max-width:3752px;width:75%" hspace="20" vspace="20">
+
+### Workshop Agenda
+
+[Download PDF of agenda](images/2022-workshop-agenda.pdf)
+
+[View the detailed agenda for the IAIFI Summer Workshop](https://iaifi.org/workshop-agenda)
+
+### Plenary Speakers 2022
+**IAIFI Investigators/Affiliates in bold**
+
+* [Siamak Ravanbakhsh](https://www.siamak.page), Assistant Professor, School of Computer Science, McGill University
+* [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/), Senior Researcher, Microsoft Research
+* **[Phil Harris](https://physics.mit.edu/faculty/philip-harris/)**, Assistant Professor of Physics, MIT
+* [Kazuhiro Terao](https://www.codingkazu.com), Staff Scientist, Stanford University
+* [Claudius Krause](https://claudius-krause.gitlab.io), Postdoctoral Associate, Rutgers University
+* **[Fabian Ruehle](https://cos.northeastern.edu/people/fabian-ruehle/)**, Assistant Professor, Northeastern University
+* [Yi-Zhuang You](https://physics.ucsd.edu/Directory/Person/536), Assistant Professor, University of California, San Diego
+* [Jennifer Ngadiuba](https://inspirehep.net/authors/1244433), Wilson Fellow, Fermilab
+* **[Shuchin Aeron](http://www.ece.tufts.edu/~shuchin/)**, Associate Professor, Tufts University
+* **[Cora Dvorkin](https://dvorkin.physics.harvard.edu)**, Associate Professor, Harvard University
+* [Sébastien Racanière](https://scholar.google.com/citations?user=o-h0vrQAAAAJ&hl=en), Staff Research Engineer, DeepMind
+* **[Anna Golubeva](https://annagolubeva.github.io)**, IAIFI Fellow
+
+## 2022 Organizing Committee
 * Jim Halverson, Chair (Northeastern University)
 * Tess Smidt (MIT)
 * Taritree Wongjirad (Tufts)
