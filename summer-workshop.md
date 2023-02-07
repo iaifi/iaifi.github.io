@@ -18,9 +18,8 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 
 ### Workshop Registration
 Registration for the Summer Workshop is now open. The registration fee for in-person attendance is 250 USD and includes coffee breaks for both days, as well as a dinner on the first night. 
-[Register for IAIFI Summer Workshop](https://iaifi-workshop-reg-fee.mit.edu/registration)
 
-{:.button.button--outline-primary.button--pill.button--sm}
+[Register for IAIFI Summer Workshop](https://iaifi-workshop-reg-fee.mit.edu/registration){:.button.button--outline-primary.button--pill.button--sm}
 
 **Note: If you are an IAIFI Senior Investigator and would like to use your IAIFI funds to cover registration for you or your group, [contact iaifi@mit.edu](mailto:iaifi@mit.edu). If you are an IAIFI Junior Investigator, speak to the IAIFI Senior Investigator you work with to ask about funding.**
 
@@ -90,15 +89,7 @@ The first annual Summer Workshop was held hybrid with ~110 in-person attendees f
 * [Sébastien Racanière](https://scholar.google.com/citations?user=o-h0vrQAAAAJ&hl=en), Staff Research Engineer, DeepMind
 * **[Anna Golubeva](https://annagolubeva.github.io)**, IAIFI Fellow
 
-
-## FAQ 
-* *Who can apply to the Summer School?* Any PhD students or early career researchers working at the intersection of physics and AI may apply to the summer school. 
-* *What is the cost to attend the Summer School?* There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding in Tufts dorm rooms, which range from 78 USD to 109 USD per night depending on the accommodations. Breakfast and lunch will be provided through Tufts dining hall.
-* *Is there funding available to support my attendance at the Summer School?* IAIFI is covering the cost of the Summer School other than travel and lodging. Limited, need-based support may be available for attendees who are unable to cover the costs of travel and lodging and will be addressed on a case-by-case basis. 
-* *If I come to the Summer School, can I also attend the Workshop?* Yes! We encourage you to stay for the Workshop and will cover the cost of your registration if you attend both the Summer School and Workshop in person. 
-* *Will the recordings of the lectures and/or talks be available?* We are working on making the videos available and will share them on this page as soon as they are. 
-
-## 2022 Organizing Committee
+### 2022 Organizing Committee
 * Jim Halverson, Chair (Northeastern University)
 * Tess Smidt (MIT)
 * Taritree Wongjirad (Tufts)
