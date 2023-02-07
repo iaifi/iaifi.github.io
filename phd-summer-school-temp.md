@@ -3,7 +3,7 @@ layout: article
 title: IAIFI Summer School
 ---
 
-<img src="images/phd-summer-school-logo-2023-draft.png" align="right" style="max-width:5990px;width:50%" hspace="60" vspace="20"> 
+<img src="images/2023-phd-summer-school-logo.png" align="right" style="max-width:5990px;width:50%" hspace="60" vspace="20"> 
 * [Summer School 2023](#summer-school-2023)
   * [Registration](#registration)
   * [Accomodations](#accommodations)

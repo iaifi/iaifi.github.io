@@ -20,7 +20,7 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
   * References:
     * [ Learning Combinatorial Optimization Algorithms over Graphs; Stochastic Iterative Graph Matching](https://proceedings.mlr.press/v139/liu21i/liu21i.pdf)
 
-* **Max Tegmark, Physics Professor, MIT**
+* **Max Tegmark, Professor, MIT**
   * **February 21, 2023, 11:00am-12:00pm**
   * *Details to come*
 
@@ -28,7 +28,7 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
   * **March 14, 2023, 11:00am-12:00pm**
   * *Details to come*
 
-* **Daniel Murname, Postdoc Researcher, Berkeley Lab**
+* **Daniel Murnane, Postdoc Researcher, Berkeley Lab**
   * **March 21, 2023, 11:00am-12:00pm**
   * *Details to come*
 
