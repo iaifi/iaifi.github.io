@@ -9,9 +9,40 @@ aside:
 ## Upcoming Journal Clubs
 The IAIFI Journal Club is only open to IAIFI members and affiliates. 
 
-Our Journal Club will continue in Spring 2023.
-
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
+
+## Spring 2023 Journal Clubs
+
+* **Liping Liu, Assistant Professor, Tufts University**
+  * **February 14, 2023, 11:00am-12:00pm**
+  * *Address combinatorial graph problems with learning methods*
+  * Abstract: There are plenty of hard combinatorial problems defined on graphs. Recently learning algorithms have been used to speed up the search for approximate solutions to these problems. This talk will start with an introduction to hard problems on graphs and traditional algorithms, then it will give an overview of learning algorithms for solving combinatorial problems on graphs. The second part of the talk will focus on two specific problems, graph matching and subgraph distance calculation, and discuss neural methods for these two problems. Finally, it will conclude with open questions: why and when can neural networks help to solve combinatorial problems? 
+  * References:
+    * [ Learning Combinatorial Optimization Algorithms over Graphs; Stochastic Iterative Graph Matching](https://proceedings.mlr.press/v139/liu21i/liu21i.pdf)
+
+* **Max Tegmark, Professor, MIT**
+  * **February 21, 2023, 11:00am-12:00pm**
+  * *Details to come*
+
+* **Manuel Szewc, Postdoc, University of Cincinnati**
+  * **March 14, 2023, 11:00am-12:00pm**
+  * *Details to come*
+
+* **Daniel Murnane, Postdoc Researcher, Berkeley Lab**
+  * **March 21, 2023, 11:00am-12:00pm**
+  * *Details to come*
+
+* **Joshua Villarreal, Grad Student, MIT**
+  * **April 4, 2023, 11:00am-12:00pm**
+  * *Details to come*
+
+* **Asem Wardak, Research Fellow, Harvard**
+  * **April 11, 2023, 11:00am-12:00pm**
+  * *Details to come*
+
+* **Ziming Liu, Grad Student, MIT**
+  * **April 25, 2023, 11:00am-12:00pm**
+  * *Details to come*
 
 
 ## Fall 2022 Journal Clubs

@@ -3,7 +3,7 @@ layout: article
 title: IAIFI Summer Workshop
 ---
 
-<img src="images/summer-workshop-logo-draft.png" align="right" style="max-width:5990px;width:50%" hspace="50" vspace="10"> 
+<img src="images/2023-summer-workshop-logo.png" align="right" style="max-width:5990px;width:50%" hspace="50" vspace="10"> 
 * [Summer Workshop 2023](#summer-workshop-2023) 
   * [Registration](#registration)
   * [Accommodations](#accommodations)

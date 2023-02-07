@@ -18,7 +18,7 @@ The IAIFI is comprised of both physics and AI researchers at MIT, Harvard, North
 
 We are currently accepting applications from senior researchers in both academia and industry to become IAIFI Affiliates.  If this interests you, see our [IAIFI Affiliates Application Form](https://app.smartsheet.com/b/form/b73212d8895c4436a947b2dfdd999da3).
 
-If you are a junior researcher interested in becoming involved in IAIFI, see our [Junior Researcher Interest Form](https://app.smartsheet.com/b/form/3351b081785743ceac66a7294546b558).
+If you are a junior researcher interested in becoming involved in IAIFI, see our [Junior Researcher Interest Page](https://iaifi.org/junior-researchers.html).
 
 There are various levels of involvement in IAIFI: 
 
