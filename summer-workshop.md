@@ -1,33 +1,80 @@
 ---
 layout: article
-title: IAIFI Summer Workshop
+title: 
 ---
 
-<img src="images/2023-summer-workshop-logo.png" align="right" style="max-width:5990px;width:50%" hspace="50" vspace="10"> 
-* [Summer Workshop 2023](#summer-workshop-2023) 
-  * [Registration](#registration)
-  * [Accommodations](#accommodations)
-  * [Plenary Speakers](#plenary-speakers)
-* [FAQ](#faq)
-* [Summer Workshop 2022](#summer-workshop-2022)
+<img src="images/2023-summer-workshop-logo.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 
-## Summer Workshop 2023
-The IAIFI Summer Workshop brings together researchers from across Physics and AI for two days of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. 
+# IAIFI Summer Workshop 2023
 
-**This year's Summer Workshop will be held at Northeastern University, August 14–18, 2023.**
+<img src="images/neu-isec.jpg" align="right" style="max-width:5990px;width:50%" hspace="10" vspace="10"> 
+The IAIFI Summer Workshop brings together researchers from across Physics and AI for five days of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. 
+* **August 14–18, 2023**
+* **Northeastern University, Interdisciplinary Science and Engineering Complex**
+* **Registration deadline: July 10, 2023** 
 
-### Workshop Registration
-Registration for the Summer Workshop is now open. The registration fee for in-person attendance is 250 USD and includes coffee breaks for both days, as well as a dinner on the first night. 
+<br>
 
-[Register for IAIFI Summer Workshop](https://iaifi-workshop-reg-fee.mit.edu/registration){:.button.button--outline-primary.button--pill.button--sm}
+[About](#about){:.button.button--outline-primary.button--pill.button--lg}  [Registration](https://iaifi-workshop-reg-fee.mit.edu/registration){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}  [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](\past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 
-**Note: If you are an IAIFI Senior Investigator and would like to use your IAIFI funds to cover registration for you or your group, [contact iaifi@mit.edu](mailto:iaifi@mit.edu). If you are an IAIFI Junior Investigator, speak to the IAIFI Senior Investigator you work with to ask about funding.**
+## About
+The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field.
 
-### Accommodations
-Accommodation options will be provided later in Spring 2023.
+<div class="card-columns">
+  <!--<div class="row">-->
+<div class="card" style="width: 17rem; height: 15rem;">
+  <div class="card__image">
+    <img class="image" src="images/deep-learning-deep-thinking.png"/>
+    <div class="overlay overlay--bottom">
+      <p>Research</p>
+    </div>
+  </div>
+</div>
 
-### Plenary Speakers
+<div class="card" style="width: 17rem; height: 15rem;">
+  <div class="card__image">
+    <img class="image" src="images/workshop-networking.png"/>
+    <div class="overlay overlay--bottom">
+      <p>Networking</p>
+    </div>
+  </div>
+</div>
+
+<div class="card" style="width: 17rem; height: 15rem;">
+  <div class="card__image">
+    <img class="image" src="images/workshop-community.png"/>
+    <div class="overlay overlay--bottom">
+      <p>Community</p>
+    </div>
+  </div>
+</div>
+  <!--
+  </div>
+<br> -->
+</div>
+
+## Speakers
 The following speakers have accepted invitations to give plenary talks at this year's workshop. We will continue to add to the list as speakers accept. 
+
+<div class="card-columns">
+  <!--<div class="row">-->
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-phiala-shanahan.jpg" alt="Phiala Shanahan" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://physics.mit.edu/faculty/phiala-shanahan/">Phiala Shanahan</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Associate Professor, MIT </em> <br>
+         </div>
+         </div>
+       </div>
+  <!--
+  </div>
+<br> -->
+</div>
+
+<br>
 
 * [Phiala Shanahan](https://physics.mit.edu/faculty/phiala-shanahan/), MIT/IAIFI
 * [Flavio du Pin Calmon](https://people.seas.harvard.edu/~flavio/), Harvard
@@ -44,14 +91,8 @@ The following speakers have accepted invitations to give plenary talks at this y
 * [Brian Nord](http://briandnord.com/bio), Fermilab
 * [Gary Shiu](https://www.physics.wisc.edu/directory/shiu-gary/), University of Wisconsin-Madison
 
-### 2023 Organizing Committee 
-* Jim Halverson, Chair (Northeastern University)
-* Shuchin Aeron (Tufts)
-* Denis Boyda (IAIFI Fellow)
-* Anna Golubeva (IAIFI Fellow)
-* Ouail Kitouni (MIT)
-* Nayantara Mudur (Harvard)
-* Sneh Pandya (Northeastern)
+## Accommodations
+Accommodation options will be provided later in Spring 2023.
 
 ## FAQ 
 * *Who can attend the Summer Workshop?* Any researcher working at or interested in the intersection of physics and AI is encouraged to attend the Summer Workshop. 
@@ -61,39 +102,11 @@ The following speakers have accepted invitations to give plenary talks at this y
 
 [Submit a question or comment](https://app.smartsheet.com/b/form/76c1d070d19d4688b65962c4ed190478){:.button.button--outline-primary.button--pill.button--sm}
 
-## Summer Workshop 2022
-
-The first annual Summer Workshop was held hybrid with ~110 in-person attendees from 10 different countries. The Workshop included 82% of the Summer School students who stayed to partake. 
-
-<img src="images/workshop-2022-collage.png" align="center" style="max-width:3752px;width:75%" hspace="20" vspace="20">
-
-### Workshop Agenda
-
-[Download PDF of agenda](images/2022-workshop-agenda.pdf)
-
-[View the detailed agenda for the IAIFI Summer Workshop](https://iaifi.org/workshop-agenda)
-
-### Plenary Speakers 2022
-**IAIFI Investigators/Affiliates in bold**
-
-* [Siamak Ravanbakhsh](https://www.siamak.page), Assistant Professor, School of Computer Science, McGill University
-* [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/), Senior Researcher, Microsoft Research
-* **[Phil Harris](https://physics.mit.edu/faculty/philip-harris/)**, Assistant Professor of Physics, MIT
-* [Kazuhiro Terao](https://www.codingkazu.com), Staff Scientist, Stanford University
-* [Claudius Krause](https://claudius-krause.gitlab.io), Postdoctoral Associate, Rutgers University
-* **[Fabian Ruehle](https://cos.northeastern.edu/people/fabian-ruehle/)**, Assistant Professor, Northeastern University
-* [Yi-Zhuang You](https://physics.ucsd.edu/Directory/Person/536), Assistant Professor, University of California, San Diego
-* [Jennifer Ngadiuba](https://inspirehep.net/authors/1244433), Wilson Fellow, Fermilab
-* **[Shuchin Aeron](http://www.ece.tufts.edu/~shuchin/)**, Associate Professor, Tufts University
-* **[Cora Dvorkin](https://dvorkin.physics.harvard.edu)**, Associate Professor, Harvard University
-* [Sébastien Racanière](https://scholar.google.com/citations?user=o-h0vrQAAAAJ&hl=en), Staff Research Engineer, DeepMind
-* **[Anna Golubeva](https://annagolubeva.github.io)**, IAIFI Fellow
-
-### 2022 Organizing Committee
+## 2023 Organizing Committee 
 * Jim Halverson, Chair (Northeastern University)
-* Tess Smidt (MIT)
-* Taritree Wongjirad (Tufts)
+* Shuchin Aeron (Tufts)
+* Denis Boyda (IAIFI Fellow)
 * Anna Golubeva (IAIFI Fellow)
-* Dylan Rankin (MIT)
-* Jeffrey Lazar (Harvard)
-* Peter Lu (MIT)
+* Ouail Kitouni (MIT)
+* Nayantara Mudur (Harvard)
+* Sneh Pandya (Northeastern)
