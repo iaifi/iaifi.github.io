@@ -69,6 +69,18 @@ The following speakers have accepted invitations to give plenary talks at this y
          </div>
          </div>
        </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-yasaman-bahri.jpg" alt="Yasaman Bahri" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://research.google/people/YasamanBahri/">Yasaman Bahri</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Research Scientist, Google Brain </em> <br>
+         </div>
+         </div>
+       </div>
   <!--
   </div>
 <br> -->
@@ -76,7 +88,6 @@ The following speakers have accepted invitations to give plenary talks at this y
 
 <br>
 
-* [Phiala Shanahan](https://physics.mit.edu/faculty/phiala-shanahan/), MIT/IAIFI
 * [Flavio du Pin Calmon](https://people.seas.harvard.edu/~flavio/), Harvard
 * [Karsten Kreis](https://karstenkreis.github.io), NVIDIA
 * [Boris Hanin](https://boris-hanin.github.io), Princeton
