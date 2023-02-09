@@ -58,6 +58,103 @@ The following speakers have accepted invitations to give plenary talks at this y
 
 <div class="card-columns">
   <!--<div class="row">-->
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-yasaman-bahri.jpg" alt="Yasaman Bahri" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://research.google/people/YasamanBahri/">Yasaman Bahri</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Research Scientist, Google Brain </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-david-berman.jpg" alt="David Berman" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.qmul.ac.uk/spcs/staff/academics/profiles/dsberman.html">David Berman</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Professor, Queen Mary University </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-flavio-du-pin-calmon.jpg" alt="Flavio du Pin Calmon" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://people.seas.harvard.edu/~flavio/">Flavio du Pin Calmon</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Assistant Professor, Harvard </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-sergei-gukov.jpg" alt="Sergio Gukov" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="http://theory.caltech.edu/~gukov/">Sergio Gukov</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Professor, California Institute of Technology </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-boris-hanin.jpg" alt="Boris Hanin" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://boris-hanin.github.io">Boris Hanin</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Assistant Professor, Princeton </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-karsten-kreis.jpg" alt="Karsten Kreis" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://karstenkreis.github.io">Karsten Kreis</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Senior Research Scientist, NVIDIA </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-magdalena-larfors.jpg" alt="Magdalena Larfors" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.katalog.uu.se/profile/?id=N3-1163">Magdalena Larfors</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Senior Lecturer/Associate Professor, Uppsala University </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-brian-nord.jpg" alt="Brian Nord" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="http://briandnord.com/">Brian Nord</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Research Scientist, Fermilab </em> <br>
+         </div>
+         </div>
+       </div>
+
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-phiala-shanahan.jpg" alt="Phiala Shanahan" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
@@ -71,13 +168,61 @@ The following speakers have accepted invitations to give plenary talks at this y
        </div>
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-yasaman-bahri.jpg" alt="Yasaman Bahri" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-gary-shiu.jpg" alt="Gary Shiu" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://research.google/people/YasamanBahri/">Yasaman Bahri</a>
+         <a href="https://www.physics.wisc.edu/directory/shiu-gary/">Gary Shiu</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Research Scientist, Google Brain </em> <br>
+         <em> Professor, University of Wisconsin-Madison </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-eva-silverstein.jpg" alt="Eva Silverstein" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://sitp.stanford.edu/people/eva-silverstein">Eva Silverstein</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Professor, Stanford University </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-sho-yaida.jpg" alt="Sho Yaida" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.shoyaida.com">Sho Yaida</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Research Scientist, Meta </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-greg-yang.jpg" alt="Greg Yang" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.microsoft.com/en-us/research/people/gregyang">Greg Yang</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Senior Researcher, Microsoft </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-rose-yu.jpg" alt="Rose Yu" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://roseyu.com">Rose Yu</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Assistant Professor, UCSD </em> <br>
          </div>
          </div>
        </div>
@@ -88,19 +233,7 @@ The following speakers have accepted invitations to give plenary talks at this y
 
 <br>
 
-* [Flavio du Pin Calmon](https://people.seas.harvard.edu/~flavio/), Harvard
-* [Karsten Kreis](https://karstenkreis.github.io), NVIDIA
-* [Boris Hanin](https://boris-hanin.github.io), Princeton
-* [Sho Yaida](https://www.shoyaida.com), Meta
-* [Yasaman Bahri](https://research.google/people/YasamanBahri/), Google
-* [Rose Yu](https://roseyu.com), UCSD
-* [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/videos/), Microsoft
-* [Sergei Gukov](http://theory.caltech.edu/~gukov/), California Institute of Technology
-* [Eva Silverstein](https://sitp.stanford.edu/people/eva-silverstein), Stanford
-* [David Berman](https://www.qmul.ac.uk/spcs/staff/academics/profiles/dsberman.html), Queen Mary University
-* [Magdalena Larfors](https://www.katalog.uu.se/profile/?id=N3-1163), Uppsala University
-* [Brian Nord](http://briandnord.com/bio), Fermilab
-* [Gary Shiu](https://www.physics.wisc.edu/directory/shiu-gary/), University of Wisconsin-Madison
+
 
 ## Accommodations
 Accommodation options will be provided later in Spring 2023.
