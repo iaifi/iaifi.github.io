@@ -96,10 +96,10 @@ The following speakers have accepted invitations to give plenary talks at this y
        </div>
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-sergei-gukov.jpg" alt="Sergio Gukov" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-sergei-gukov.jpg" alt="Sergei Gukov" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="http://theory.caltech.edu/~gukov/">Sergio Gukov</a>
+         <a href="http://theory.caltech.edu/~gukov/">Sergei Gukov</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Professor, California Institute of Technology </em> <br>
@@ -254,3 +254,4 @@ Accommodation options will be provided later in Spring 2023.
 * Ouail Kitouni (MIT)
 * Nayantara Mudur (Harvard)
 * Sneh Pandya (Northeastern)
+* Marisa LaFleur (IAIFI Project Manager)
