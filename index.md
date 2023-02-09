@@ -25,6 +25,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***The IAIFI Colloquium Series will continue with Boris Hanin on February 10, 2023 at 2:00 pm.*** Recordings of our [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
+***IAIFI Summer Workshop Registration Open:*** Our second annual [IAIFI Summer Workshop](https://iaifi.org/summer-workshop) will be held August 14–18, 2023 at Northeastern University. [Registration is open](https://iaifi-workshop-reg-fee.mit.edu/registration) until July 10, 2023. 
+{:.success}
+
 ### IAIFI News
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
@@ -67,18 +70,6 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 
 ***IAIFI welcomes [UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning & Advanced Computing (AIMLAC)](http://cdt-aimlac.org)***: IAIFI hosted 15 AIMLAC students and faculty for [an informal workshop](/partnerships.html#iaifi-aimlac-workshop) March 2 through March 4, 2022, where the two groups shared research and education strategies, and had opportunities for networking. *March 4, 2022*
 {:.info} 
-
-***Second Round of IAIFI Fellows Announced***: The next round of [IAIFI Fellows (2022-2025)](/current-fellows.html#2021-2025-iaifi-fellows), Denis Boyda, Carolina Cuesta, and Jessie Micallef, will join us later in 2022 and help spark vital interdisciplinary research at the intersection of Physics and AI! *January, 28, 2022*
-{:.info}
-
-***IAIFI Senior Investigator Phiala Shanahan receives 2021 Wu-Ki Tung Award for Early Career Research on QCD***: [Phiala was recognized](https://varelas.people.uic.edu/tung_award/) "for pioneering studies of long-wavelength and nuclear non-perturbative QCD effects in discretized space and time, and for applications of machine learning to lattice field theory." *January 24, 2022*
-{:.info}
-
-***IAIFI Junior Investigator Harold Erbin receives MIT Infinite Expansion Award***: Harold was selected as one of the recipients of [MIT's Infinite Expansion Award for 2022](https://science.mit.edu/about/awards/staff-excellence-awards/infinite-mile-kilometer-winners/) because of his "exemplary service on the IAIFI Early Career and Equity Committee” and being “actively involved in many other IAIFI community building efforts." *January 10, 2022*
-{:.info}
-
-***IAIFI Senior Investigator Pulkit Agrawal and collaborators receive Best Paper Award at Conference on Robot Learning:*** The paper was chosen for "The sheer scope and variation across objects tested with this method, and the range of different policy architectures and approaches tested." Read ["A System for General In-Hand Object Re-Orientation"](https://openreview.net/forum?id=7uSBJDoP7tY), *November 12, 2021*
-{:.info}
 
 
 

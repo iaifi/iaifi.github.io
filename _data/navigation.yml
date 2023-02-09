@@ -13,6 +13,10 @@ header:
     subtitles:
       - title: Calendar
         url: /events-calendar.html
+      - title: Summer School
+        url: /phd-summer-school.html
+      - title: Summer Workshop
+        url: /summer-workshop.html
       - title: Colloquia
         url: /events.html
       - title: Seminars
@@ -56,8 +60,10 @@ header:
         url: /ecec.html
       - title: Cambridge Science Festival
         url: /cambridge-science-festival
-      - title: Summer School and Workshop
+      - title: Summer School
         url: /phd-summer-school.html
+      - title: Summer Workshop
+        url: /summer-workshop.html
       - title: Physics/AI Network
         url: /partnerships.html
 
