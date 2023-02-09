@@ -58,9 +58,9 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Will rotate membership in Fall 2022
 * Plans and coordinates the IAIFI Summer School and Workshop, including identifying and inviting lecturers and plenary speakers, developing the schedule, and reviewing applicants to the Summer School
 * Time Commitment: One two-hour meeting every 2-3 months and time spent helping at the Summer School/Workshop
-*2023 Summer School and Workshop Committee: Jim Halverson (Chair), Shuchin Aeron, Denis Boyda, Anna Golubeva, Ouail Kitouni, Nayantara Mudur
-*2022 Summer School and Workshop Committee: Jim Halverson (Chair), Tess Smidt, Anna Golubeva, Jeffrey Lazar, Peter Lu, Dylan Rankin
-*Primary Contact: [Email Jim Halverson](j.halverson@northeastern.edu)
+* 2023 Summer School and Workshop Committee: Jim Halverson (Chair), Shuchin Aeron, Denis Boyda, Anna Golubeva, Ouail Kitouni, Nayantara Mudur, Sneh Pandya
+* 2022 Summer School and Workshop Committee: Jim Halverson (Chair), Tess Smidt, Anna Golubeva, Jeffrey Lazar, Peter Lu, Dylan Rankin
+* Primary Contact: [Email Jim Halverson](j.halverson@northeastern.edu)
 
 # Communications
 * Status: Accepting new members

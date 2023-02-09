@@ -47,6 +47,8 @@ The program is shared below. [The slides are available](https://internal.iaifi.o
 * [NSF AI Institute for Engaged Learning (Engage AI)](https://www.aiengage.org), North Carolina State University with The University of North Carolina at Chapel Hill, Vanderbilt University, Indiana University, Digital Promise
 * [The USDA-NIFA Institute for Agricultural AI for Transforming Workforce and Decision Support (AgAID)](https://agaid.wsu.edu), Washington State University with Oregon State University, University of California - Merced, University of Virginia, Carnegie Mellon University, Heritage University, Wenatchee Valley College, Kansas State University, Innov8.ag, IBM Research
 * [The AI Institute for Resilient Agriculture (AIIRA)](https://aiira.iastate.edu), Iowa State University with Carnegie Mellon University, The University of Arizona, University of Missouri - Mizzou, George Mason University, University of Nebraska - Lincoln, NYU, Iowa Soybean Association
+* [National AI Institute for Exceptional Education](https://www.buffalo.edu/ai4exceptionaled.html),  University of Buffalo with Cornell University, Penn State, Stanford University, University of Illinois Urbana-Champaign, University of Nevada, Reno, University of Oregon, University of Texas at El Paso, University of Washington
+
 
 ## Related Mailing Lists
 The below mailing lists are mailing lists we have encountered for advertising IAIFI jobs and events. 
