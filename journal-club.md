@@ -13,16 +13,10 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
 
 ## Spring 2023 Journal Clubs
 
-* **Liping Liu, Assistant Professor, Tufts University**
-  * **February 14, 2023, 11:00am-12:00pm**
-  * *Address combinatorial graph problems with learning methods*
-  * Abstract: There are plenty of hard combinatorial problems defined on graphs. Recently learning algorithms have been used to speed up the search for approximate solutions to these problems. This talk will start with an introduction to hard problems on graphs and traditional algorithms, then it will give an overview of learning algorithms for solving combinatorial problems on graphs. The second part of the talk will focus on two specific problems, graph matching and subgraph distance calculation, and discuss neural methods for these two problems. Finally, it will conclude with open questions: why and when can neural networks help to solve combinatorial problems? 
-  * References:
-    * [ Learning Combinatorial Optimization Algorithms over Graphs; Stochastic Iterative Graph Matching](https://proceedings.mlr.press/v139/liu21i/liu21i.pdf)
-
 * **Max Tegmark, Professor, MIT**
-  * **February 21, 2023, 11:00am-12:00pm**
-  * *Details to come*
+  * **February 28, 2023, 11:00am-12:00pm**
+  * *Mechanistic interpretability*
+  * Abstract: Mechanistic interpretability aims to reverse-engineer trained neural networks to distill out the algorithms they have discovered for performing various tasks. Although such "artificial neuroscience" is hard and fun, it's easier than conventional neuroscience since you have complete knowledge of what every neuron and synapse is doing.
 
 * **Manuel Szewc, Postdoc, University of Cincinnati**
   * **March 14, 2023, 11:00am-12:00pm**
@@ -44,6 +38,16 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
   * **April 25, 2023, 11:00am-12:00pm**
   * *Details to come*
 
+### Spring 2023 Journal Clubs
+
+* **Liping Liu, Assistant Professor, Tufts University**
+  * **February 14, 2023, 11:00am-12:00pm**
+  * *Address combinatorial graph problems with learning methods*
+  * Abstract: There are plenty of hard combinatorial problems defined on graphs. Recently learning algorithms have been used to speed up the search for approximate solutions to these problems. This talk will start with an introduction to hard problems on graphs and traditional algorithms, then it will give an overview of learning algorithms for solving combinatorial problems on graphs. The second part of the talk will focus on two specific problems, graph matching and subgraph distance calculation, and discuss neural methods for these two problems. Finally, it will conclude with open questions: why and when can neural networks help to solve combinatorial problems? 
+  * References:
+    * [ Learning Combinatorial Optimization Algorithms over Graphs; Stochastic Iterative Graph Matching](https://proceedings.mlr.press/v139/liu21i/liu21i.pdf)
+  * [Slides](https://drive.google.com/file/d/1jNBRcVDmMGiZDztMHmZ2Bo67klkrG0sd/view?usp=share_link) 
+(For IAIFI members only)
 
 ## Fall 2022 Journal Clubs
 
