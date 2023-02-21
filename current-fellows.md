@@ -6,9 +6,26 @@ aside:
 ---
 
 
-## 2022-2025 IAIFI Fellows
+## 2023-2026 IAIFI Fellows
 
-We are excited for [Denis](#denis-boyda), [Carolina](#carolina-cuesta), and [Jessie](#jessie-micallef) to join us as our second round of IAIFI Fellows to help spark vital interdisciplinary research at the intersection of Physics and AI!
+We are excited for [Gaia](#gaia-grosso) and [Alex](#alex-gagliano) to join us as our third round of IAIFI Fellows to help spark vital interdisciplinary research at the intersection of Physics and AI!
+
+### [Gaia Grosso](mailto:gaia.grosso@cern.ch)
+<img src="images/small-photo-gaia-grosso.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Gaia has been working on research activity that tackles the problem exploring data from collider experiments in an inclusive way,reducing the prior assumptions on the signal hypothesis. For her PhD, she has been developing a statistical strategy empowered by machine learning to detect and quantify significant departures of the experimental data from the Standard Model predictions. She worked on including in the machine learning framework a way to quantify the systematic uncertainties affecting the data. In the years to come, She plans to further investigate ML based methods for offline model-independent new physics searches and to explore approaches of online anomaly detection and physics analysis.
+
+**Biographical Sketch**: She is currently a PhD student at the University of Padua from
+2019 to 2023, working in the field of particle physics. In the same years, she is a member of the mPP ERC-funded group at CERN as doctoral student, developing machine learning applications for high-energy physics.  Research activity on statistical tools for data analysis at collider experiments, with focus on model agnostic searches for new phenomena at the LHC. Member of the CMS collaboration at CERN since 2019. BSc in Physics (2017) and MSc in Physics of fundamental interactions (2019) at the University of Padua.
+
+### [Alex Gagliano](mailto:gaglian2@illinois.edu)
+<img src="images/small-photo-alex-gagliano.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Alex Gagliano builds scalable machine learning methods to decipher the physics of astrophysical transients in real-time. He is particularly interested in identifying rare and rapidly-evolving phenomena early enough to enable targeted spectroscopic analyses. To distinguish these high-priority events from among the millions discovered by synoptic surveys such as the Vera C. Rubin Observatory in 2025, Alex is investigating Bayesian inference techniques that are robust to noisy, irregular time-series data, and physics-informed reinforcement learning algorithms that can design adaptive decision-making policies with limited feedback
+
+**Biographical Sketch**: GAlex Gagliano completed his Ph.D. in Astronomy at the University of Illinois at Urbana-Champaign, where he was an NSF Graduate Research Fellow. Previously, he worked as a pre-doctoral fellow at the Flatiron Institute's Center for Computational Astrophysics (2022) and as a post-baccalaureate fellow at Los Alamos National Laboratory (2018). Alex completed an undergraduate degree in Computational Modeling and Data Analytics at Virginia Tech in 2017. 
+
+## 2022-2025 IAIFI Fellows
 
 ### [Denis Boyda](mailto:boyda@mit.edu)
 <img src="images/small-photo-denis-boyda.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
