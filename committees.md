@@ -48,14 +48,14 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Primary Contact: [Email Edo Berger](mailto:eberger@cfa.harvard.edu) 
 
 # Speaker Selection 
-* Status: Will rotate membership in Fall 2022
+* Status: Will rotate membership in Fall 2023
 * Identifies and invites speakers to the IAIFI Seminars and Colloquia and introduces speakers ad needed
 * Time Commitment: One or two two-hour meetings every semester and attendance at talks
 * 2022 Speaker Selection Committee: Cora Dvorkin (Colloquium Organizer), Demba Ba (Seminar Organizer), Dan Roberts, Di Luo, Nayantara Mudur, Arkopal Dutt
 * Primary Contacts: [Email Cora Dvorkin](cdvorkin@g.harvard.edu) or [email Demba Ba](demba@seas.harvard.edu)
 
 # Summer School & Workshop
-* Status: Will rotate membership in Fall 2022
+* Status: Will rotate membership in Fall 2023
 * Plans and coordinates the IAIFI Summer School and Workshop, including identifying and inviting lecturers and plenary speakers, developing the schedule, and reviewing applicants to the Summer School
 * Time Commitment: One two-hour meeting every 2-3 months and time spent helping at the Summer School/Workshop
 * 2023 Summer School and Workshop Committee: Jim Halverson (Chair), Shuchin Aeron, Denis Boyda, Anna Golubeva, Ouail Kitouni, Nayantara Mudur, Sneh Pandya
