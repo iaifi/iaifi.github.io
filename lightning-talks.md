@@ -9,12 +9,6 @@ aside:
 ## Upcoming Lightning Talk sessions
 Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC). 
 
-* **Theme: Robustness/fault tolerance**
-    * **Friday, February 17, 2023, 2:00-3:00 pm**
-      * Niklas Nolte (Postdoc, MIT), "Lipschitz Network classification"
-      * Yin Lin (Postdoc, MIT), "Contour deformation for lattice QCD"
-      * Andrew Tan (PhD student, MIT), "Fault-tolerant neural networks from biologically inspired error correction codes"
-
 * **Theme: Geometric learning/embedding strategies**
      * **Friday, March 17, 2023, 2:00pm–3:00pm**
      * *Details to come*
@@ -26,6 +20,14 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 [Access recordings of past lightning talks (for IAIFI members only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=share_link)
 
 ## Past Lightning Talks
+
+* **Spring 2023 Lightning Talk Session I**
+
+* **Theme: Robustness/fault tolerance**
+    * **Friday, February 17, 2023, 2:00-3:00 pm**
+      * Niklas Nolte (Postdoc, MIT), ["Lipschitz Network classification"](https://drive.google.com/file/d/1Z7lfaoG5acjPjpkpKC8BdfjBVccXIPDR/view?usp=share_link) (IAIFI Members only)
+      * Yin Lin (Postdoc, MIT), ["Contour deformation for lattice QCD"](https://drive.google.com/file/d/1MJTvCtJPMM-3zbGk6fjre3MNCUoOje3W/view?usp=share_link) (IAIFI Members only)
+      * Andrew Tan (PhD student, MIT), ["Fault-tolerant neural networks from biologically inspired error correction codes"](https://drive.google.com/file/d/1WUCFTIa233A-3TuQFQTw0dsO9eufkzxb/view?usp=share_link) (IAIFI Members only)
 
 * **Fall 2022 Lightning Talk Session I**
 
