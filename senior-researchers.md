@@ -32,6 +32,8 @@ If your situation does not fall into any of the above categories, please contact
 
 IAIFI does not have dedicated faculty opportunities, but there are often open faculty positions in IAIFI-affiliated universities.
 
+* [Browse IAIFI-related job opportunities](/job-board.html#iaifi-jobs)
+
 <!---
 <img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
 ### MIT Center for Theoretical Physics
@@ -39,7 +41,6 @@ IAIFI does not have dedicated faculty opportunities, but there are often open fa
 
 * [Junior faculty openings in the MIT CTP](http://academicjobsonline.org/ajo/mit/ctp/)
 * Deadline: N/A
---->
 
 
 <img class="image" src="images/mit_logo.png" align="right" style="max-width:1280px;width:10%" hspace="10" vspace="10"/>
@@ -88,6 +89,7 @@ IAIFI does not have dedicated faculty opportunities, but there are often open fa
 ### Brandeis University Department of Mathematics
 * [Tenure-Track Assistant Professor in Applied Mathematics](https://www.mathjobs.org/jobs/list/20758)
 * Deadline: November 1, 2022 
+--->
 
 ## Apply to be a Friend of IAIFI
 
