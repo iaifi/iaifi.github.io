@@ -7,10 +7,6 @@ aside:
 
 ## Upcoming Internal Discussion Seminars
 
-* **Carolina Cuesta-Lazaro, IAIFI Fellow**
-    * **Friday, February 24, 2023, 2:00–3:00 pm**
-    * *Will Machine Learning shape the future of cosmology? A journey through obstacles and potential approaches to overcoming them* 
-    * Large three-dimensional maps of the Universe are a rich source of information on how structure forms and grows in the Universe. From them we can infer the rate at which large structures grow and shed light on the nature of the accelerated expansion. But we can also accurately measure the composition of the universe, including the mass of neutrinos, test the nature of inflation, and understand how galaxies form in interaction with the cosmic web. However, existing methods of summarizing this noisy and complex information using N-point statistics may miss important details that could improve our understanding of cosmology, gravity, and galaxy formation. In this talk, we will explore the potential of machine learning to extract additional insights from spectroscopic surveys, focusing on the challenges that must be addressed to fully leverage this powerful tool.  Whether you are interested in cosmology, machine learning, or both, this talk will provide insights into the intersection of these two exciting fields.
 
 * **Brian Nord, Research Scientist, Fermilab**
     * **Friday, March 24, 2023, 2:00–3:00 pm**
@@ -24,6 +20,13 @@ aside:
 [Access recordings of past seminars (for IAIFI members only)](https://docs.google.com/document/d/1ZGLuC_-eqMwyeeJNbwR5YhEg_S18E8akbDE9m39oYsY/edit?usp=sharing)
 
 ### Spring 2023 Seminars
+
+* **Carolina Cuesta-Lazaro, IAIFI Fellow**
+    * **Friday, February 24, 2023, 2:00–3:00 pm**
+    * *Will Machine Learning shape the future of cosmology? A journey through obstacles and potential approaches to overcoming them* 
+    * Large three-dimensional maps of the Universe are a rich source of information on how structure forms and grows in the Universe. From them we can infer the rate at which large structures grow and shed light on the nature of the accelerated expansion. But we can also accurately measure the composition of the universe, including the mass of neutrinos, test the nature of inflation, and understand how galaxies form in interaction with the cosmic web. However, existing methods of summarizing this noisy and complex information using N-point statistics may miss important details that could improve our understanding of cosmology, gravity, and galaxy formation. In this talk, we will explore the potential of machine learning to extract additional insights from spectroscopic surveys, focusing on the challenges that must be addressed to fully leverage this powerful tool.  Whether you are interested in cosmology, machine learning, or both, this talk will provide insights into the intersection of these two exciting fields.
+    * [Slides](https://drive.google.com/file/d/153PAecLkdG7YhjVyJqDbmRx9SedwWEPj/view?usp=sharing) 
+(For IAIFI members only)
 
 * **Special Seminar: Eun-Ah Kim, Professor, Cornell University**
     * **Friday, January 27, 2023, 2:00–3:00 pm**
