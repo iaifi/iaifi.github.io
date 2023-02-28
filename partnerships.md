@@ -1,8 +1,23 @@
 ---
 layout: article
 title: Physics/AI Network
+aside:
+  toc: true
 ---
 
+
+## Artist in Residence
+
+<img src="images/kaca-1.jpg" align="right" style="max-width:4032px;width:50%" hspace="20" vspace="20">
+Kaća Bradonjić, Assistant Professor of Physics at Hampshire College and a visual artist, spent four months at IAIFI as an artist in residence and explored the question of how physicists cope with abstraction. In her words, “Physicists study the physical world on spatial, temporal and complexity scales inaccessible through ordinary human perception. How is it possible for a person, whose knowledge of the world is rooted in the direct sensory experience, to build an understanding of physical and mathematical concepts used to describe the world on these scales?”  At IAIFI her special focus was understanding how physicists conceptualize the work delegated to a neural network, how their internal representations of the physical systems they study are influenced by the use of artificial intelligence, and the impact that use of AI may have on the process of scientific inquiry.
+
+<img src="images/kaca-2.jpg" align="left" style="max-width:4032px;width:50%" hspace="20" vspace="20">
+
+On October 21, 2022, she gave a talk at the IAIFI Internal Seminar, at which she introduced her project to the IAIFI community and invited them to participate. The talk and the lively discussion that followed set the ground for what turned out to be a fruitful collaboration with a number of researchers. To produce the artwork, Kaća interviewed fourteen physicists, twelve of whom were the members of the IAIFI community. Nine interviews served as the basis for artwork, of which four engage directly with the use of AI. Namely, she explored how these researchers conceptualize or experience the portion of the work delegated to the neural networks. She met for at least one follow-up meeting with each of them to get feedback on the early sketches of the drawing. 
+
+The work Kaća has done at IAIFI will be documented in an exhibit of the artwork and an essay on the possibilities of artist–physicist collaborations of this kind. 
+
+<br>
 
 ## IAIFI-AIMLAC Workshop 2022
 IAIFI welcomed 15 students and faculty from the [UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning & Advanced Computing (AIMLAC)](http://cdt-aimlac.org) for an informal workshop March 2 through March 4, 2022. The two groups shared research and education strategies, and had opportunities for networking.
