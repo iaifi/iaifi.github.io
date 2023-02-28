@@ -13,18 +13,15 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
 
 ## Spring 2023 Journal Clubs
 
-* **Max Tegmark, Professor, MIT**
-  * **February 28, 2023, 11:00am-12:00pm**
-  * *Mechanistic interpretability*
-  * Abstract: Mechanistic interpretability aims to reverse-engineer trained neural networks to distill out the algorithms they have discovered for performing various tasks. Although such "artificial neuroscience" is hard and fun, it's easier than conventional neuroscience since you have complete knowledge of what every neuron and synapse is doing.
-
 * **Manuel Szewc, Postdoc, University of Cincinnati**
   * **March 14, 2023, 11:00am-12:00pm**
-  * *Details to come*
+  * *Modeling Hadronization with Machine Learning*
+  * Abstract: A fundamental part of event generation, hadronization is currently simulated with the help of fine-tuned empirical models. In this talk, I'll present MLHAD, a proposed alternative for hadronization where the empirical model is replaced by a surrogate Machine Learning-based model to be ultimately data-trainable. I'll detail the current stage of development and discuss possible ways forward.
 
 * **Daniel Murnane, Postdoc Researcher, Berkeley Lab**
   * **March 21, 2023, 11:00am-12:00pm**
-  * *Details to come*
+  * *Multi-Tasking ML for Point Clouds at the LHC*
+  * Abstract: The Large Hadron Collider is one of the world's most data-intensive experiments. Every second, millions of collisions are processed, each one resembling a jigsaw puzzle with thousands of pieces. With the upcoming upgrade to the High Luminosity LHC, this problem will only become more complex. To make sense of this data, deep learning techniques are increasingly being used. For example, graph neural networks and transformers have proven effective at handling point cloud tasks such as track reconstruction and jet tagging. In this talk, I will review the point cloud problems in collider physics and recent deep learning solutions investigated by the Exatrkx project - an initiative to implement innovative algorithms for HEP at exascale. These architectures can accurately perform tracking and tagging with low latency, even in the high luminosity regime. Additionally, I will explore how multi-tasking and multi-modal networks can combine several of these different tasks.  
 
 * **Joshua Villarreal, Grad Student, MIT**
   * **April 4, 2023, 11:00am-12:00pm**
@@ -39,6 +36,11 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
   * *Details to come*
 
 ### Spring 2023 Journal Clubs
+
+* **Max Tegmark, Professor, MIT**
+  * **February 28, 2023, 11:00am-12:00pm**
+  * *Mechanistic interpretability*
+  * Abstract: Mechanistic interpretability aims to reverse-engineer trained neural networks to distill out the algorithms they have discovered for performing various tasks. Although such "artificial neuroscience" is hard and fun, it's easier than conventional neuroscience since you have complete knowledge of what every neuron and synapse is doing.
 
 * **Liping Liu, Assistant Professor, Tufts University**
   * **February 14, 2023, 11:00am-12:00pm**
