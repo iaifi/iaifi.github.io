@@ -41,6 +41,8 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
   * **February 28, 2023, 11:00am-12:00pm**
   * *Mechanistic interpretability*
   * Abstract: Mechanistic interpretability aims to reverse-engineer trained neural networks to distill out the algorithms they have discovered for performing various tasks. Although such "artificial neuroscience" is hard and fun, it's easier than conventional neuroscience since you have complete knowledge of what every neuron and synapse is doing.
+  * [Slides](https://drive.google.com/file/d/1gEDzE9zF3dWT6GnOe-m7a0rQ4PH_-fi2/view?usp=share_link) 
+(For IAIFI members only)
 
 * **Liping Liu, Assistant Professor, Tufts University**
   * **February 14, 2023, 11:00am-12:00pm**
