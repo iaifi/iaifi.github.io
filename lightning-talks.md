@@ -11,7 +11,9 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 
 * **Theme: Geometric learning/embedding strategies**
      * **Friday, March 17, 2023, 2:00pm–3:00pm**
-     * *Details to come*
+       * Arthur Tsang (Grad Student, Harvard), "Finding Subhalos in Galaxy-Galaxy Strong Lensing Systems"
+       * Emmanouil Theodosis (Grad Student, Harvard), "Constraining neural networks to craft representations"
+       * Giorgi Butbaia (Grad Student, UNH), "Numerical Calabi-Yau metrics using Spectral neural networks"
 
 * **Theme: Representation learning**
      * **Friday, April 14, 2023, 2:00pm–3:00pm**
