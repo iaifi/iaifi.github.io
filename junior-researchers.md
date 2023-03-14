@@ -21,7 +21,7 @@ If your situation does not fall into any of the above categories but you have an
 ## Apply to be a Friend of IAIFI
 
 * [Complete the Friend of IAIFI Application](https://app.smartsheet.com/b/form/3cff913c564141249c4292ad8c435774)
-* Must be affiliated with one of the IAIFI institutions (MIT, Harvard, Northeastern, Tufts) or another Boston-area university
+* Must be affiliated with one of the IAIFI institutions (MIT, Harvard, Northeastern, Tufts) or another Boston-area university, or spends significant time in the Boston area.
 * Welcome to join IAIFI internal events, including lightning talks, journal clubs, socials, etc.
 
 ## Explore Job Opportunities at IAIFI Universities
