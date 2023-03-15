@@ -13,11 +13,6 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
 
 ## Spring 2023 Journal Clubs
 
-* **Manuel Szewc, Postdoc, University of Cincinnati**
-  * **March 14, 2023, 11:00am-12:00pm**
-  * *Modeling Hadronization with Machine Learning*
-  * Abstract: A fundamental part of event generation, hadronization is currently simulated with the help of fine-tuned empirical models. In this talk, I'll present MLHAD, a proposed alternative for hadronization where the empirical model is replaced by a surrogate Machine Learning-based model to be ultimately data-trainable. I'll detail the current stage of development and discuss possible ways forward.
-
 * **Daniel Murnane, Postdoc Researcher, Berkeley Lab**
   * **March 21, 2023, 11:00am-12:00pm**
   * *Multi-Tasking ML for Point Clouds at the LHC*
@@ -36,6 +31,13 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
   * *Details to come*
 
 ### Spring 2023 Journal Clubs
+
+* **Manuel Szewc, Postdoc, University of Cincinnati**
+  * **March 14, 2023, 11:00am-12:00pm**
+  * *Modeling Hadronization with Machine Learning*
+  * Abstract: A fundamental part of event generation, hadronization is currently simulated with the help of fine-tuned empirical models. In this talk, I'll present MLHAD, a proposed alternative for hadronization where the empirical model is replaced by a surrogate Machine Learning-based model to be ultimately data-trainable. I'll detail the current stage of development and discuss possible ways forward.
+* [Slides](https://drive.google.com/file/d/1-fdoYOech0muQzE7JHXDavJwI76xtUoe/view?usp=share_link) 
+(For IAIFI members only)
 
 * **Max Tegmark, Professor, MIT**
   * **February 28, 2023, 11:00am-12:00pm**

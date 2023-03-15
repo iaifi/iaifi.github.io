@@ -32,6 +32,12 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+***Brian Nord gets interviewed in MIT ICEO News an an MLK Scholar***: Watch [MIT Video Productions interview of Brian](https://www.youtube.com/watch?v=xVhl6POHo6Y&list=PLKHPCGvTwsmHKCNO-xCHw0PF-Gza0DWoU&index=4) as part of their interviews of 2022-2023 MLK Scholars cohort. *February, 8, 2023*
+{:.info}
+
+***Phiala Shanahan gets featured in MIT News***: Read [MIT Newsletter of Phiala](https://news.mit.edu/2023/phiala-shanahan-fundamental-answers-physical-world-0228) as she talks about "seeking fundamental answers about our physical world." *February, 28, 2023*
+{:.info}
+
 ***Lina Necib recognized as a rising star in astronomy by Astronomy magazine***: Read [Astronomy magazine's profile on Lina Necib](https://astronomy.com/magazine/news/2023/01/rising-star-in-astronomy-lina-necib) as part of their rising stars in astronomy issue. *January, 3, 2023*
 {:.info}
 

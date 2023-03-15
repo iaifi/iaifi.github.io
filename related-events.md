@@ -10,6 +10,7 @@ aside:
 
 Other organizations that hold public events relevant to the IAIFI community:
 
+  * [AI Forward Workshop, DARPA](https://www.darpa.mil/news-events/2023-02-24) (June 13-16, 2023 and July 31-August 2, 2023)
   * [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu) (June 26-30, 2023)
   * [MLK Scholar Presentation](https://mlkscholars.mit.edu/updates/2022/brian-nord-there-map-stars-how-do-we-navigate-careers-and-build-community-academic) (December 6, 2022)
   * [MIT Statistics and Data Science Conference](https://sdscon.mit.edu/) (April 1, 2022)
