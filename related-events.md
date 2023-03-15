@@ -10,9 +10,6 @@ aside:
 
 Other organizations that hold public events relevant to the IAIFI community:
 
-  * [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu) (June 26-30, 2023)
-  * [MLK Scholar Presentation](https://mlkscholars.mit.edu/updates/2022/brian-nord-there-map-stars-how-do-we-navigate-careers-and-build-community-academic) (December 6, 2022)
-  * [MIT Statistics and Data Science Conference](https://sdscon.mit.edu/) (April 1, 2022)
   * [A3D3 Seminars](https://indico.cern.ch/category/14431/)
   * [Physics Meets ML](http://www.physicsmeetsml.org/)
   * [NSF AI Planning Institute for Data-Driven Discovery in Physics Seminar Series](https://www.cmu.edu/ai-physics-institute/events/index.html)
@@ -26,6 +23,9 @@ Other organizations that hold public events relevant to the IAIFI community:
 Upcoming workshops involving members of the IAIFI community:
   * [At the interface of Physics, Mathematics and Artificial Intelligence Workshop, May 29–June 2, 2023](https://agenda.infn.it/event/33851/)
       * IAIFI involvement: Harold Erbin, Daniel Hackett, Anindita Maiti (Co-Organizers)
+  * [AI Forward Workshop, DARPA](https://www.darpa.mil/news-events/2023-02-24), June 13-16, 2023 and July 31-August 2, 2023
+  * [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu), June 26-30, 2023
+
 
 ## Past Related Workshops
 Past workshops involving members of the IAIFI community:
@@ -44,3 +44,5 @@ Past workshops involving members of the IAIFI community:
       * IAIFI co-organizer: Jesse Thaler
   * [A Deep-Learning Era of Particle Theory, Mainz Institute for Theoretical Physics, June 13, 2022 – July 8, 2022](https://indico.mitp.uni-mainz.de/event/254/)
       * IAIFI co-organizer: Jim Halverson
+  * [MLK Scholar Presentation](https://mlkscholars.mit.edu/updates/2022/brian-nord-there-map-stars-how-do-we-navigate-careers-and-build-community-academic) (December 6, 2022)
+  * [MIT Statistics and Data Science Conference](https://sdscon.mit.edu/) (April 1, 2022)

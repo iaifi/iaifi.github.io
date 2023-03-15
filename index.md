@@ -32,6 +32,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+***Brian Nord, MLK Scholar, interviewed for MIT's Institute Community & Equity Office***: Watch [Brian discuss Artificial Intelligence and social advocacy](https://www.youtube.com/watch?v=xVhl6POHo6Y&list=PLKHPCGvTwsmHKCNO-xCHw0PF-Gza0DWoU&index=4). *February, 8, 2023*
+{:.info}
+
 ***Lina Necib recognized as a rising star in astronomy by Astronomy magazine***: Read [Astronomy magazine's profile on Lina Necib](https://astronomy.com/magazine/news/2023/01/rising-star-in-astronomy-lina-necib) as part of their rising stars in astronomy issue. *January, 3, 2023*
 {:.info}
 
