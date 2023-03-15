@@ -93,6 +93,7 @@ Unless otherwise noted, the opportunities listed on this page are available to m
    [Request a desk as a visitor](https://app.smartsheet.com/b/form/49c21bb886164fc1a51f1ef6e9e130a8)
   * If you would like to request a permanent desk in the Penthouse, email [IAIFI Management](mailto:iaifi@mit.edu) with your request and rationale. 
 * Get Involved Beyond IAIFI: We encourage IAIFI members to be involved in programs and initiatives not affiliated with IAIFI, but which can provide new insights and value to the IAIFI community, including sharing relevant events and best practices.  If you have other suggestions for ways the IAIFI community can be involved beyond IAIFI, [email IAIFI Management](mailto:iaifi@mit.edu).
+* Join [Zulip](https://iaifi.zulipchat.com/join/2cclisoafkimp6mx26xxrsqt/), which offers a more informal outlet for communicating with other IAIFI members.
 
 ## Resources
 
