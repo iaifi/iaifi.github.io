@@ -96,6 +96,18 @@ The following speakers have accepted invitations to give plenary talks at this y
        </div>
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-javier-duarte.jpg" alt="Javier Duarte" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www-physics.ucsd.edu/Directory/Person/552">Javier Duarte</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Assistant Professor, University of California, San Diego </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-flavio-du-pin-calmon.jpg" alt="Flavio du Pin Calmon" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -168,18 +180,6 @@ The following speakers have accepted invitations to give plenary talks at this y
        </div>
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-magdalena-larfors.jpg" alt="Magdalena Larfors" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.katalog.uu.se/profile/?id=N3-1163">Magdalena Larfors</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Senior Lecturer/Associate Professor, Uppsala University </em> <br>
-         </div>
-         </div>
-       </div>
-
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-vinicius-mikuni.jpg" alt="Vinicius Mikuni" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -187,6 +187,18 @@ The following speakers have accepted invitations to give plenary talks at this y
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Postdoctoral Fellow, NERSC </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-nikhil-mukund.jpg" alt="Nikhil Mukund" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://space.mit.edu/people/mukund-nikhil/">Nikhil Mukund</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Postdoctoral Scholar, MIT Kavli Institute </em> <br>
          </div>
          </div>
        </div>
