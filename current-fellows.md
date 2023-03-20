@@ -5,6 +5,7 @@ aside:
   toc: true
 ---
 
+Our [2023 IAIFI Fellows search](https://iaifi.org/fellows) will open in June.
 
 ## 2023-2026 IAIFI Fellows
 
