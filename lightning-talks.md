@@ -9,12 +9,6 @@ aside:
 ## Upcoming Lightning Talk sessions
 Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC). 
 
-* **Theme: Geometric learning/embedding strategies**
-     * **Friday, March 17, 2023, 2:00pm–3:00pm**
-       * Arthur Tsang (Grad Student, Harvard), "Finding Subhalos in Galaxy-Galaxy Strong Lensing Systems"
-       * Emmanouil Theodosis (Grad Student, Harvard), "Constraining neural networks to craft representations"
-       * Giorgi Butbaia (Grad Student, UNH), "Numerical Calabi-Yau metrics using Spectral neural networks"
-
 * **Theme: Representation learning**
      * **Friday, April 14, 2023, 2:00pm–3:00pm**
      * *Details to come*
@@ -24,6 +18,12 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 ## Past Lightning Talks
 
 * **Spring 2023 Lightning Talk Session I**
+
+* **Theme: Geometric learning/embedding strategies**
+     * **Friday, March 17, 2023, 2:00pm–3:00pm**
+       * Arthur Tsang (Grad Student, Harvard), ["Finding Subhalos in Galaxy-Galaxy Strong Lensing Systems"](https://drive.google.com/file/d/1CweBYZ0JNE6lfwP6TkWy9hv_o6DcQAM3/view?usp=share_link)
+       * Emmanouil Theodosis (Grad Student, Harvard), ["Constraining neural networks to craft representations"](https://drive.google.com/file/d/1Pw3n2qEkVAd6HICSj8jR4QO6XJYm_A3n/view?usp=share_link)
+       * Giorgi Butbaia (Grad Student, UNH), ["Numerical Calabi-Yau metrics using Spectral neural networks"](https://drive.google.com/file/d/1_JaHfxSRutIjMS-hEXYDErMAbIKR1bcA/view?usp=share_link)
 
 * **Theme: Robustness/fault tolerance**
     * **Friday, February 17, 2023, 2:00-3:00 pm**

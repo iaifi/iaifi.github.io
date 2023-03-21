@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Sampling QCD field configurations with gauge-equivariant flow models"
+authors: Ryan Abbott, Michael S. Albergo, Aleksandar Botev, Denis Boyda, Kyle Cranmer, Daniel C. Hackett, Gurtej Kanwar, Alexander G. D. G. Matthews, Sébastien Racanière, Ali Razavi, Danilo J. Rezende, Fernando Romero-López, Phiala E. Shanahan, Julian M. Urban
+abstract: "Machine learning methods based on normalizing flows have been shown to address important challenges, such as critical slowing-down and topological freezing, in the sampling of gauge field configurations in simple lattice field theories. A critical question is whether this success will translate to studies of QCD. This Proceedings presents a status update on advances in this area. In particular, it is illustrated how recently developed algorithmic components may be combined to construct flow-based sampling algorithms for QCD in four dimensions. The prospects and challenges for future use of this approach in at-scale applications are summarized."
+arxiv: "2208.03832"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
