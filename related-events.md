@@ -25,6 +25,7 @@ Upcoming workshops involving members of the IAIFI community:
       * IAIFI involvement: Harold Erbin, Daniel Hackett, Anindita Maiti (Co-Organizers)
   * [AI Forward Workshop, DARPA](https://www.darpa.mil/news-events/2023-02-24), June 13-16, 2023 and July 31-August 2, 2023
   * [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu), June 26-30, 2023
+  * [MODE Workshop on Differentiable Programming for Experiment Design](https://indico.cern.ch/event/1242538/), July 24-26, 2023
 
 
 ## Past Related Workshops
