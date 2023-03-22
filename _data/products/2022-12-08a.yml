@@ -1,0 +1,10 @@
+type: paper
+iaifi-thrust: E
+title: "Stellar Reddening Based Extinction Maps for Cosmological Applications"
+authors: Nayantara Mudur, Core Francisco Park, Douglas P Finkbeiner
+abstract: "Cosmological surveys must correct their observations for the reddening of extragalactic objects by Galactic dust. Existing dust maps, however, have been found to have spatial correlations with the large-scale structure of the Universe. Errors in extinction maps can propagate systematic biases into samples of dereddened extragalactic objects and into cosmological measurements such as correlation functions between foreground lenses and background objects and the primordial non-gaussianity parameter fNL. Emission-based maps are contaminated by the cosmic infrared background, while maps inferred from stellar-reddenings suffer from imperfect removal of quasars and galaxies from stellar catalogs. Thus, stellar-reddening based maps using catalogs without extragalactic objects offer a promising path to making dust maps with minimal correlations with large-scale structure. We present two high-latitude integrated extinction maps based on stellar reddenings, with a point spread function of full-width half-maximum 6.1' and 15'. We employ a strict selection of catalog objects to filter out galaxies and quasars and measure the spatial correlation of our extinction maps with extragalactic structure. Our galactic extinction maps have reduced spatial correlation with large scale structure relative to most existing stellar-reddening based and emission-based extinction maps."
+arxiv: "2212.04514"
+journal: 
+nsf-par:
+code: 
+publication-date: 2023-02-20

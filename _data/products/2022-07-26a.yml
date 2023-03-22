@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Characterizing the Expected Behavior of Non-Poissonian Template Fitting"
+authors: Luis Gabriel C. Bariuan, Tracy R. Slatyer
+abstract: "We have performed a systematic study of the statistical behavior of non-Poissonian template fitting (NPTF), a method designed to analyze and characterize unresolved point sources in general counts datasets. In this paper, we focus on the properties and characteristics of the Fermi-LAT gamma-ray data set. In particular, we have simulated and analyzed gamma-ray sky maps under varying conditions of exposure, angular resolution, pixel size, energy window, event selection, and source brightness. We describe how these conditions affect the sensitivity of NPTF to the presence of point sources, for inner-galaxy studies of point sources within the Galactic Center excess, and for the simplified case of isotropic emission. We do not find opportunities for major gains in sensitivity from varying these choices, within the range available with current Fermi-LAT data. We provide an analytic estimate of the NPTF sensitivity to point sources for the case of isotropic emission and perfect angular resolution, and find good agreement with our numerical results for that case."
+arxiv: "2207.13097"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
