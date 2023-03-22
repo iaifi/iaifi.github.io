@@ -4,7 +4,7 @@ title: "Learning Silhouettes with Group Sparse Autoencoders"
 authors: Emmanouil Theodosis and Demba Ba
 abstract: "Sparse coding has been extensively used in neuroscience to model brain-like computation by drawing analogues between neurons’ firing activity and the nonzero elements of sparse vectors. Contemporary deep learning architectures have been used to model neural activity, inspired by signal processing algorithms; however sparse coding architectures are not able to explain the higher-order categorization that has been em- pirically observed at the neural level. In this work, we pro- pose a novel model-based architecture, termed group-sprase autoencoder, that produces sparse activity patterns in line with neural modeling, but showcases a higher-level order in its ac- tivation maps. We evaluate a dense model of our architecture on MNIST and CIFAR-10 and show that it learns dictionar- ies that resemble silhouettes of the given class, while its ac- tivations have a significantly higher level order compared to sparse architectures."
 arxiv:
-journal: 
+journal: Harvard CRISP Preprint
 doi: https://crisp.seas.harvard.edu/files/papers/TheodosisBa_SilhouetteLearning_ICASSP23.pdf
 nsf-par:
 code: 
