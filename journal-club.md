@@ -13,11 +13,6 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
 
 ## Spring 2023 Journal Clubs
 
-* **Daniel Murnane, Postdoc Researcher, Berkeley Lab**
-  * **March 21, 2023, 11:00am-12:00pm**
-  * *Multi-Tasking ML for Point Clouds at the LHC*
-  * Abstract: The Large Hadron Collider is one of the world's most data-intensive experiments. Every second, millions of collisions are processed, each one resembling a jigsaw puzzle with thousands of pieces. With the upcoming upgrade to the High Luminosity LHC, this problem will only become more complex. To make sense of this data, deep learning techniques are increasingly being used. For example, graph neural networks and transformers have proven effective at handling point cloud tasks such as track reconstruction and jet tagging. In this talk, I will review the point cloud problems in collider physics and recent deep learning solutions investigated by the Exatrkx project - an initiative to implement innovative algorithms for HEP at exascale. These architectures can accurately perform tracking and tagging with low latency, even in the high luminosity regime. Additionally, I will explore how multi-tasking and multi-modal networks can combine several of these different tasks.  
-
 * **Joshua Villarreal, Grad Student, MIT**
   * **April 4, 2023, 11:00am-12:00pm**
   * *Details to come*
@@ -31,6 +26,13 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
   * *Details to come*
 
 ### Spring 2023 Journal Clubs
+
+* **Daniel Murnane, Postdoc Researcher, Berkeley Lab**
+  * **March 21, 2023, 11:00am-12:00pm**
+  * *Multi-Tasking ML for Point Clouds at the LHC*
+  * Abstract: The Large Hadron Collider is one of the world's most data-intensive experiments. Every second, millions of collisions are processed, each one resembling a jigsaw puzzle with thousands of pieces. With the upcoming upgrade to the High Luminosity LHC, this problem will only become more complex. To make sense of this data, deep learning techniques are increasingly being used. For example, graph neural networks and transformers have proven effective at handling point cloud tasks such as track reconstruction and jet tagging. In this talk, I will review the point cloud problems in collider physics and recent deep learning solutions investigated by the Exatrkx project - an initiative to implement innovative algorithms for HEP at exascale. These architectures can accurately perform tracking and tagging with low latency, even in the high luminosity regime. Additionally, I will explore how multi-tasking and multi-modal networks can combine several of these different tasks.  
+  * [Slides](https://drive.google.com/file/d/1XiSb3X4NWcD5yf13MkAt7BvWMzYWziKc/view?usp=share_link) 
+(For IAIFI members only)
 
 * **Manuel Szewc, Postdoc, University of Cincinnati**
   * **March 14, 2023, 11:00am-12:00pm**

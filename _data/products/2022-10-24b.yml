@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Precision Machine Learning"
+authors: Eric J. Michaud, Ziming Liu, Max Tegmark
+abstract: "We explore unique considerations involved in fitting ML models to data with very high precision, as is often required for science applications. We empirically compare various function approximation methods and study how they scale with increasing parameters and data. We find that neural networks can often outperform classical approximation methods on high-dimensional examples, by auto-discovering and exploiting modular structures therein. However, neural networks trained with common optimizers are less powerful for low-dimensional cases, which motivates us to study the unique properties of neural network loss landscapes and the corresponding optimization challenges that arise in the high precision regime. To address the optimization issue in low dimensions, we develop training tricks which enable us to train neural networks to extremely low loss, close to the limits allowed by numerical precision."
+arxiv: "2210.13447"
+journal: Multidisciplinary Digital Publishing Institute Journal
+doi: https://www.mdpi.com/1099-4300/25/1/175
+nsf-par:
+code: 
+publication-date: 2023-01-15
