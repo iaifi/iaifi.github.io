@@ -4,8 +4,8 @@ title: "Categorical Representation Learning and RG flow operators for algorithmi
 authors: Artan Sheshmani, Yizhuang You, Wenbo Fu, Ahmadreza Azizi
 abstract: "Following the earlier formalism of the categorical representation learning (arXiv:2103.14770) by the first two authors, we discuss the construction of the RG-flow based categorifier. Borrowing ideas from theory of renormalization group flows (RG) in quantum field theory, holographic duality, and hyperbolic geometry, and mixing them with neural ODE's, we construct a new algorithmic natural language processing (NLP) architecture, called the RG-flow categorifier or for short the RG categorifier, which is capable of data classification and generation in all layers. We apply our algorithmic platform to biomedical data sets and show its performance in the field of sequence-to-function mapping. In particular we apply the RG categorifier to particular genomic sequences of flu viruses and show how our technology is capable of extracting the information from given genomic sequences, find their hidden symmetries and dominant features, classify them and use the trained data to make stochastic prediction of new plausible generated sequences associated with new set of viruses which could avoid the human immune system. The content of the current article is part of the recent US patent application submitted by first two authors (U.S. Patent Application No.: 63/313.504)."
 arxiv: "2203.07975"
-journal:
-doi:
+journal: Machine Learning Science and Technology, Volume 4, Number 1, Article 015012
+doi: https://iopscience.iop.org/article/10.1088/2632-2153/acb488
 nsf-par:
 code:
-publication-date:
+publication-date: 2023-03-01
