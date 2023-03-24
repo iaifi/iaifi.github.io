@@ -11,7 +11,8 @@ The Early Career & Equity Committee (ECEC) serves as an advisory body to IAIFI M
 * [View the ECEC expectations](/images/ecec-expectations.pdf)
 * 2021 ECEC: Tracy Slatyer (Chair), Edo Berger, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Siddharth Mishra-Sharma
 * 2022 ECEC: Tracy Slatyer (Chair), Edo Berger, Sean Benevedes, Mehmet Demirtas, Anindita Maiti, Rashmish Mishra, Siddharth Mishra-Sharma
-* The ECEC will rotate membership in January 2023. [Email Tracy Slatyer](mailto:tslatyer@mit.edu) if you'd like to learn more. 
+* 2023 ECEC: Edo Berger (Chair), Tess Smidt, Sean Benevedes, Carolina Cuesta-Lazaro, Mehmet Demirtas, Zeviel Imani, Jessie Micallef, Rashmish Mishra
+* The ECEC will rotate membership in January 2024. [Email Tracy Slatyer](mailto:tslatyer@mit.edu) if you'd like to learn more. 
 
 <style>
 .google-slides-container{

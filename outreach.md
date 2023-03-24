@@ -17,11 +17,13 @@ This activity is coordinated by the [IAIFI Public Engagement Committee](\committ
 
 [<img src="images/OSP_WinterFamilyDay_IG_Square.jpg" align="left" style="max-width:4500px;width:50%" hspace="10" vspace="10">](https://www.openspace.mit.edu/upcoming/winter-family-day)
 
-IAIFI is looking forward to participating in MIT's Winter Family Day on Saturday, February 25, 2023. We'll be presenting three demonstrations of a robot dog, which has been trained using reinforcement learning, which trains machines to take action without explicit instructions or corrections. Join IAIFI Fellow Ge Yang and MIT undergrads at these demonstrations starting at 12:00 pm, 1:00 pm, and 2:00 pm!
+IAIFI was pleased to [participate in MIT's Winter Family Day on Saturday, February 25, 2023](https://news.mit.edu/2023/scene-mit-lively-winter-family-day-0314). We presented three demonstrations of a robot dog that has been trained using reinforcement learning, which trains machines to take action without explicit instructions or corrections. IAIFI Fellow Ge Yang and MIT undergrads delighted adults and children alike with their robot dog running, spinning, and hopping!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Such a fun day sharing our robot “dog” &amp; how it was trained using reinforcement learning at the <a href="https://twitter.com/mitopenspace?ref_src=twsrc%5Etfw">@mitopenspace</a> <a href="https://twitter.com/hashtag/winterfamilyday?src=hash&amp;ref_src=twsrc%5Etfw">#winterfamilyday</a>! Thank you for having us and for all the great questions from the audience! <a href="https://t.co/4Rqk01yUND">pic.twitter.com/4Rqk01yUND</a></p>&mdash; IAIFI (@iaifi_news) <a href="https://twitter.com/iaifi_news/status/1629568551676772353?ref_src=twsrc%5Etfw">February 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you to <a href="https://twitter.com/EpisodeYang?ref_src=twsrc%5Etfw">@EpisodeYang</a> and his team of undergrad students (pictured here), Sophie, Evan, and Prince, for leading our <a href="https://twitter.com/mitopenspace?ref_src=twsrc%5Etfw">@mitopenspace</a> <a href="https://twitter.com/hashtag/winterfamilyday?src=hash&amp;ref_src=twsrc%5Etfw">#winterfamilyday</a> demos! <a href="https://twitter.com/AIVOInfo?ref_src=twsrc%5Etfw">@AIVOInfo</a> <a href="https://t.co/ytjPIZWWFP">pic.twitter.com/ytjPIZWWFP</a></p>&mdash; IAIFI (@iaifi_news) <a href="https://twitter.com/iaifi_news/status/1629569089092874240?ref_src=twsrc%5Etfw">February 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [View Winter Family Day schedule](https://www.dropbox.com/s/jw4olkqk44k3ky7/2023%20Winter%20Family%20Day%20Schedule.pdf?dl=0){:.button.button--outline-primary.button--pill.button--lg}
-
-[Register for Winter Family Day](https://www.eventbrite.com/e/winter-family-day-tickets-477373355557){:.button.button--outline-primary.button--pill.button--lg}
 
 <br/>
 

@@ -3,7 +3,7 @@ layout: article
 title: Senior Researchers
 ---
 
-Thank you for your interest in getting involved with IAIFI! Thank you for your interest in getting involved with IAIFI! If you are faculty, an industry researcher, or a PI interested in the intersection of physics and AI, there are many opportunities for you to be involved with IAIFI at various levels. 
+Thank you for your interest in getting involved with IAIFI! If you are faculty, an industry researcher, or a PI interested in the intersection of physics and AI, there are many opportunities for you to be involved with IAIFI at various levels. 
 
 * [Subscribe to IAIFI News](#subscribe-to-iaifi-news)
 * [Apply to be an IAIFI Affiliate](#apply-to-be-an-iaifi-affiliate)
