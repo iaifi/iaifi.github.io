@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Infinite Variance in Monte Carlo Sampling of Lattice Field Theories"
+authors: Cagin Yunus, William Detmold
+abstract: "In Monte Carlo calculations of expectation values in lattice quantum field theories, the stochastic variance of the sampling procedure that is used defines the precision of the calculation for a fixed number of samples. If the variance of an estimator of a particular quantity is formally infinite, or in practice very large compared to the square of the mean, then that quantity can not be reliably estimated using the given sampling procedure. There are multiple scenarios in which this occurs, including in Lattice Quantum Chromodynamics, and a particularly simple example is given by the Gross-Neveu model where Monte Carlo calculations involve the introduction of auxiliary bosonic variables through a Hubbard-Stratonovich (HS) transformation. Here, it is shown that the variances of HS estimators for classes of operators involving fermion fields are divergent in this model and an even simpler zero-dimensional analogue. To correctly estimate these observables, two alternative sampling methods are proposed and numerically investigated."
+arxiv: "2205.01001"
+journal: Physical Review D, Volume 106, Article 094506
+doi: https://doi.org/10.1103/PhysRevD.106.094506
+nsf-par:
+code: 
+publication-date: 2022-11-22

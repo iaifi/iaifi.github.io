@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Toward Automatic Interpretation of 3D Plots"
+authors: Laura E. Brandt, William T. Freeman
+abstract: "This paper explores the challenge of teaching a machine how to reverse-engineer the grid-marked surfaces used to represent data in 3D surface plots of two-variable functions. These are common in scientific and economic publications; and humans can often interpret them with ease, quickly gleaning general shape and curvature information from the simple collection of curves. While machines have no such visual intuition, they do have the potential to accurately extract the more detailed quantitative data that guided the surface's construction. We approach this problem by synthesizing a new dataset of 3D grid-marked surfaces (SurfaceGrid) and training a deep neural net to estimate their shape. Our algorithm successfully recovers shape information from synthetic 3D surface plots that have had axes and shading information removed, been rendered with a variety of grid types, and viewed from a range of viewpoints."
+arxiv: "2106.07627"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
