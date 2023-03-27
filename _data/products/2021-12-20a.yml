@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Towards Quantum Simulations in Particle Physics and Beyond on Noisy Intermediate-Scale Quantum Devices"
+authors: Lena Funcke, Tobias Hartung, Karl Jansen, Stefan Kühn, Manuel Schneider, Paolo Stornati, Xiaoyang Wang
+abstract: 'We review two algorithmic advances that bring us closer to reliable quantum simulations of model systems in high energy physics and beyond on noisy intermediate-scale quantum (NISQ) devices. The first method is the dimensional expressivity analysis of quantum circuits, which allows for constructing minimal but maximally expressive quantum circuits. The second method is an efficient mitigation of readout errors on quantum devices. Both methods can lead to significant improvements in quantum simulations, e.g., when variational quantum eigensolvers are used.'
+arxiv: "2110.03809"
+journal: Philosophical Transactions of the Royal Society A
+doi: https://doi.org/10.1098/rsta.2021.0062
+nsf-par:
+code: 
+publication-date: 2021-12-20

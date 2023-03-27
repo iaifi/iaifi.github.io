@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Parton physics from a heavy-quark operator product expansion: Lattice QCD calculation of the second moment of the pion distribution amplitude"
+authors: William Detmold, Anthony Grebe, Issaku Kanamori, C.-J. David Lin, Santanu Mondal, Robert Perry, Yong Zhao
+abstract: "The pion light-cone distribution amplitude (LCDA) is a central non-perturbative object of interest for high-energy exclusive processes in quantum chromodynamics. In this article, the second Mellin moment of the pion LCDA is determined as a proof-of-concept calculation for the first numerical implementation of the heavy-quark operator product expansion (HOPE) method. The resulting value for the second Mellin moment, determined in quenched QCD at a pion mass of mπ=550 MeV at a factorization scale of 2 GeV is ⟨ξ2⟩=0.210±0.013 (stat.)±0.034 (sys.). This result is compatible with those from previous determinations of this quantity."
+arxiv: "2109.15241"
+journal: Physical Review D, Volume 105, Article 034506
+doi: https://doi.org/10.1103/PhysRevD.105.034506
+nsf-par:
+code: 
+publication-date: 2022-02-10

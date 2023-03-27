@@ -10,6 +10,7 @@ aside:
 
 Other organizations that hold public events relevant to the IAIFI community:
 
+  * [SERC Symposium, MIT Schwarzman College of Computing](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/serc-symposium/?mc_cid=890e6a3190&mc_eid=918e0bd2e4)
   * [A3D3 Seminars](https://indico.cern.ch/category/14431/)
   * [Physics Meets ML](http://www.physicsmeetsml.org/)
   * [NSF AI Planning Institute for Data-Driven Discovery in Physics Seminar Series](https://www.cmu.edu/ai-physics-institute/events/index.html)
@@ -21,11 +22,15 @@ Other organizations that hold public events relevant to the IAIFI community:
 ## Upcoming Related Workshops
 
 Upcoming workshops involving members of the IAIFI community:
+  * [AI for Robust Engineering & Science Workshop (AIRES4), April 18–20, 2023](https://aires.ornl.gov)
   * [At the interface of Physics, Mathematics and Artificial Intelligence Workshop, May 29–June 2, 2023](https://agenda.infn.it/event/33851/)
       * IAIFI involvement: Harold Erbin, Daniel Hackett, Anindita Maiti (Co-Organizers)
-  * [AI Forward Workshop, DARPA](https://www.darpa.mil/news-events/2023-02-24), June 13-16, 2023 and July 31-August 2, 2023
-  * [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu), June 26-30, 2023
-  * [MODE Workshop on Differentiable Programming for Experiment Design](https://indico.cern.ch/event/1242538/), July 24-26, 2023
+  * [AI Forward Workshop, DARPA, June 13-16, 2023 and July 31-August 2, 2023](https://www.darpa.mil/news-events/2023-02-24)
+  * [Princeton Machine Learning Theory Summer School, June 26-30, 2023](https://mlschool.princeton.edu) 
+  * [AI+Science Summer School, July 17-21, 2023](https://datascience.uchicago.edu/events/ai-science-summer-school-2023/)
+  * [MODE Workshop on Differentiable Programming for Experiment Design, July 24-26, 2023](https://indico.cern.ch/event/1242538/)
+  * [ML4Jets2023, November 6-10, 2023](https://indico.cern.ch/event/1253794/)
+      * IAIFI involvement: Jesse Thaler (International Advisory Committee)
 
 
 ## Past Related Workshops

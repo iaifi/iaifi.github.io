@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Toward a more accurate 3D atlas of C. elegans neurons"
+authors: Michael Skuhersky, Tailin Wu, Eviatar Yemini, Amin Nejatbakhsh, Edward Boyden & Max Tegmark 
+abstract: 'Determining cell identity in volumetric images of tagged neuronal nuclei is an ongoing challenge in contemporary neuroscience. Frequently, cell identity is determined by aligning and matching tags to an “atlas” of labeled neuronal positions and other identifying characteristics. Previous analyses of such C. elegans datasets have been hampered by the limited accuracy of such atlases, especially for neurons present in the ventral nerve cord, and also by time-consuming manual elements of the alignment process.'
+arxiv: "2303.08162"
+journal: BMC Bioinformatics, Volume 23, Article 195
+doi: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04738-3
+nsf-par:
+code: 
+publication-date: 2022-05-28

@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Few-nucleon matrix elements in pionless effective field theory in a finite volume"
+authors: W. Detmold and P. E. Shanahan
+abstract: "Pionless effective field theory in a finite volume (FVEFTπ/) is investigated as a framework for the analysis of multi-nucleon spectra and matrix elements calculated in lattice QCD (LQCD). By combining FVEFTπ/ with the stochastic variational method, the spectra of nuclei with atomic number A∈{2,3} are matched to existing finite-volume LQCD calculations at heavier-than-physical quark masses corresponding to a pion mass mπ=806 MeV, thereby enabling infinite-volume binding energies to be determined using infinite-volume variational calculations. Based on the variational wavefunctions that are constructed in this approach, the finite-volume matrix elements of various local operators are computed in FVEFTπ/ and matched to LQCD calculations of the corresponding QCD operators in the same volume, thereby determining the relevant one and two-body EFT counterterms and enabling an extrapolation of the LQCD matrix elements to infinite volume. As examples, the scalar, tensor, and axial matrix elements are considered, as well as the magnetic moments and the isovector longitudinal momentum fraction."
+arxiv: "2102.04329"
+journal: Physical Review D, Volume 103, Article 074503
+doi: https://doi.org/10.1103/PhysRevD.103.074503
+nsf-par:
+code: 
+publication-date: 2021-04-14

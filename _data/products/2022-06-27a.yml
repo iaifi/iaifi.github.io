@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Covariance-Free Sparse Bayesian Learning"
+authors: Alexander Lin, Andrew H. Song, Berkin Bilgic, Demba Ba
+abstract: "Sparse Bayesian learning (SBL) is a powerful framework for tackling the sparse coding problem while also providing uncertainty quantification. The most popular inference algorithms for SBL exhibit prohibitively large computational costs for high-dimensional problems due to the need to maintain a large covariance matrix. To resolve this issue, we introduce a new method for accelerating SBL inference -- named covariance-free expectation maximization (CoFEM) -- that avoids explicit computation of the covariance matrix. CoFEM solves multiple linear systems to obtain unbiased estimates of the posterior statistics needed by SBL. This is accomplished by exploiting innovations from numerical linear algebra such as preconditioned conjugate gradient and a little-known diagonal estimation rule. For a large class of compressed sensing matrices, we provide theoretical justifications for why our method scales well in high-dimensional settings. Through simulations, we show that CoFEM can be up to thousands of times faster than existing baselines without sacrificing coding accuracy. Through applications to calcium imaging deconvolution and multi-contrast MRI reconstruction, we show that CoFEM enables SBL to tractably tackle high-dimensional sparse coding problems of practical interest."
+arxiv: 2105.10439
+journal: IEEE Transactions on Signal Processing, volume 70
+doi: https://doi.org/10.1109/TSP.2022.3186185
+nsf-par:
+code: 
+publication-date: 

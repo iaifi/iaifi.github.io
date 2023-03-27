@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Real-time lattice gauge theory actions: unitarity, convergence, and path integral contour deformations"
+authors: Gurtej Kanwar, Michael L. Wagman
+abstract: "The Wilson action for Euclidean lattice gauge theory defines a positive-definite transfer matrix that corresponds to a unitary lattice gauge theory time-evolution operator if analytically continued to real time. Hoshina, Fujii, and Kikukawa (HFK) recently pointed out that applying the Wilson action discretization to continuum real-time gauge theory does not lead to this, or any other, unitary theory and proposed an alternate real-time lattice gauge theory action that does result in a unitary real-time transfer matrix. The character expansion defining the HFK action is divergent, and in this work we apply a path integral contour deformation to obtain a convergent representation for U(1) HFK path integrals suitable for numerical Monte Carlo calculations. We also introduce a class of real-time lattice gauge theory actions based on analytic continuation of the Euclidean heat-kernel action. Similar divergent sums are involved in defining these actions, but for one action in this class this divergence takes a particularly simple form, allowing construction of a path integral contour deformation that provides absolutely convergent representations for U(1) and SU(N) real-time lattice gauge theory path integrals. We perform proof-of-principle Monte Carlo calculations of real-time U(1) and SU(3) lattice gauge theory and verify that exact results for unitary time evolution of static quark-antiquark pairs in (1 + 1)D are reproduced."
+arxiv: "2103.02602"
+journal: Physical Review D, Volume 104, Article 014513
+doi: https://doi.org/10.1103/PhysRevD.104.014513
+nsf-par:
+code: 
+publication-date: 2021-07-30
