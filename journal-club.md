@@ -15,7 +15,8 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
 
 * **Joshua Villarreal, Grad Student, MIT**
   * **April 4, 2023, 11:00am-12:00pm**
-  * *Details to come*
+  * *Surrogate Modeling of Particle Accelerators*
+  * Abstract: The design, construction, and fine-tuning of particle accelerators has never been easy. Each is a technical challenge in and of itself, and the need to repeatedly run accurate, high-fidelity simulations of the beam traversing the device can slow development. This is especially true for many modern-day particle accelerators, whose beam dynamics tend to observe more nonlinear effects like those arising from space charge, making their simulation more computationally expensive. Thus, there is demand to develop machine learning and statistical learning models that can reproduce these beam dynamic simulations with orders-of-magnitude improvements in runtime.  In this talk, I present an overview of recent efforts to build such accelerator surrogate models, which can be used for the design optimization and real-time commissioning, tuning, and running of the accelerator they aim to replicate. As an example, I also present the status of IsoDAR’s work to build a surrogate model for a Radio-Frequency Quadrupole accelerator, a vital component to IsoDAR’s groundbreaking design. I outline challenges of these and other virtual accelerators, and present future plans to make these surrogate models ubiquitous in future development of accelerator experiments of all kinds.
 
 * **Asem Wardak, Research Fellow, Harvard**
   * **April 11, 2023, 11:00am-12:00pm**
