@@ -52,6 +52,9 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 </p>
 --->
 
+
+[Submit a suggestion for the website](https://app.smartsheet.com/b/form/cb1e1ec990d34a318122451fcc11d9b2){:.button.button--outline-primary.button--pill.button--lg}
+
 ## Research
 * Become an IAIFI Junior Investigator: If you are working with an IAIFI Senior Investigator or Affiliate, they can nominate you to be a Junior Investigator, which provides you with access to additional IAIFI resources (such as computing). You will also be included on the [People page](#/people.html) of the IAIFI website. **Junior Investigator forms must be approved by an IAIFI Senior Investigator, with whom you already have a collaboration.**
 [Complete the form to become an IAIFI Junior Investigator](https://app.smartsheet.com/b/form/3351b081785743ceac66a7294546b558)
@@ -105,9 +108,9 @@ Unless otherwise noted, the opportunities listed on this page are available to m
     * Students currently enrolled in the Physics doctoral program at MIT or another participating MIT doctoral program
     * For access to the selection form to apply, [email the IDSS Academic Office](idss_academic_office@mit.edu)
   * Apply to be an [IAIFI Fellow](fellows.html)
-  * Apply for [other postdoc positions with IAIFI involvement](iaifi-jobs.html#prospective-postdocs)
-  * Apply for [PhD programs at IAIFI institutions](https://iaifi.org/iaifi-jobs.html#prospective-graduate-students)
-  * Follow the IAIFI [#job opportunities Zulip stream](https://iaifi.zulipchat.com/#narrow/stream/283724-job-opportunities) (if you do not have access, [email IAIFI Management](mailto:iaifi@mit.edu))
+  * Apply for [other postdoc positions with IAIFI involvement](https://iaifi.org/job-board.html#postdoc-opportunities)
+  * Apply for [PhD programs at IAIFI institutions](https://iaifi.org/job-board.html#graduate-student-opportunities)
+  * Follow the [IAIFI job board](https://iaifi.org/job-board.html) 
 * Ethics and AI: Participate in [MIT's SERC](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/) (Social and Ethical Responsibilities of Computing) by joining the [SERC Scholars Program](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/serc-scholars-program/) or reading the [MIT Case Studies in Social and Ethical Responsibilities of Computing](https://mit-serc.pubpub.org)
 * Explore university affinity groups
    * MIT (Grad Students): [Graduate Women at MIT](https://gsc.mit.edu/gwamit/); [LGBT Grad](https://stuff.mit.edu/afs/athena/activity/l/lgbtgrad/www/); [LGBT Grad QPoC](http://grad-qpoc-admin@mit.edu/); [Women's Initiative](http://web.mit.edu/wi/); [Graduate Women in Physics](http://web.mit.edu/physics/wphys/index.html); [SPXCE (Social Justice Programming & Cross Cultural Engagement)](https://studentlife.mit.edu/spxce)
