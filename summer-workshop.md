@@ -78,7 +78,7 @@ The following speakers have accepted invitations to give plenary talks at this y
          <a href="https://www.qmul.ac.uk/spcs/staff/academics/profiles/dsberman.html">David Berman</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Professor, Queen Mary University </em> <br>
+         <em> Professor, Queen Mary University; Head of AI, Cambridge Consultants </em> <br>
          </div>
          </div>
        </div>
