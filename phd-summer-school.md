@@ -31,9 +31,9 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 Students for the Summer School will have the option to reserve dorm rooms (at their own expense) at Boston University for 96.50 USD per night. Instructions for this will be provided to students upon acceptance.
 
 ### Costs
-* There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding. Boston University dorm rooms will be available to reserve at 96.50USD per night.
+* There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding. Boston University dorm rooms will be available for 5 nights at no cost for Summer School students who need them.
 * Lunch each day, as well as coffee and snacks at breaks, will be provided daily during the Summer School, along with at least one dinner during the Summer School. 
-* Students who wish to stay for the [IAIFI Summer Workshop](/summer-workshop.html) will be able to book the same rooms through the weekend and the Workshop if they choose. 
+* Students who wish to stay for the [IAIFI Summer Workshop](/summer-workshop.html) will be able to book the same rooms through the weekend and the Workshop if they choose (at their own expense). 
 
 ## Lecturers
 Additional lecturers and tutorial leads will be announced soon.
@@ -61,6 +61,18 @@ Additional lecturers and tutorial leads will be announced soon.
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Professor of Physics, Boston University </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-siddharth-mishra-sharma.jpg" alt="Siddharth Mishra-Sharma" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://smsharma.io">Siddharth Mishra-Sharma</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> IAIFI Fellow </em> <br>
          </div>
          </div>
        </div>
@@ -95,7 +107,7 @@ Additional lecturers and tutorial leads will be announced soon.
 ## FAQ 
 * *Who can apply to the Summer School?* Any PhD students or early career researchers working at the intersection of physics and AI may apply to the summer school. 
 * *What is the cost to attend the Summer School?* There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding.
-* *Is there funding available to support my attendance at the Summer School?* IAIFI is covering the cost of the Summer School other than travel and lodging. 
+* *Is there funding available to support my attendance at the Summer School?* IAIFI is covering the cost of the Summer School, including lunches and lodging for 5 nights. There is no support available for travel costs.
 * *If I come to the Summer School, can I also attend the Workshop?* Yes! We encourage you to stay for the Workshop and you can stay in the dorms for both events if you choose. There is a 250 USD registration fee for the Workshop.
 * *Will the recordings of the lectures be available?* We expect to share recordings of the lectures after the Summer School.
 * *Will there be an option for virtual attendance?* We will determine whether virtual options will be provided based on interest.
