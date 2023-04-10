@@ -13,20 +13,24 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
 
 ## Spring 2023 Journal Clubs
 
+* **Asem Wardak, Research Fellow, Harvard**
+  * **April 11, 2023, 11:00am-12:00pm**
+  * *Extended Anderson Criticality in Heavy-Tailed Neural Networks*
+  * This talk focuses on nonlinearly interacting systems with random, heavy-tailed connectivity. We show how heavy-tailed connectivity gives rise to an extended critical regime of spatially multifractal fluctuations between the quiescent and active phases. This phase differs from the edge of chaos in classical networks by the appearance of universal hallmarks of the Anderson transition in condensed matter physics over an extended region in phase space. We then investigate some consequences of the multifractal Anderson regime for performing persistent computations.
+
+* **Ziming Liu, Grad Student, MIT**
+  * **April 25, 2023, 11:00am-12:00pm**
+  * *Physics-inspired generative models*
+  * It might be surprising and delightful to physicists that physics has been playing a huge role in diffusion models. In fact, the evolution of our physical world can be viewed as a generation process. In this journal club, I will first review diffusion models, the more recent PFGM/PFGM++ inspired from electrostatics, and then introduce the GenPhys framework which manages to convert even more physical processes to generative models.
+
+### Spring 2023 Journal Clubs
+
 * **Joshua Villarreal, Grad Student, MIT**
   * **April 4, 2023, 11:00am-12:00pm**
   * *Surrogate Modeling of Particle Accelerators*
   * Abstract: The design, construction, and fine-tuning of particle accelerators has never been easy. Each is a technical challenge in and of itself, and the need to repeatedly run accurate, high-fidelity simulations of the beam traversing the device can slow development. This is especially true for many modern-day particle accelerators, whose beam dynamics tend to observe more nonlinear effects like those arising from space charge, making their simulation more computationally expensive. Thus, there is demand to develop machine learning and statistical learning models that can reproduce these beam dynamic simulations with orders-of-magnitude improvements in runtime.  In this talk, I present an overview of recent efforts to build such accelerator surrogate models, which can be used for the design optimization and real-time commissioning, tuning, and running of the accelerator they aim to replicate. As an example, I also present the status of IsoDAR’s work to build a surrogate model for a Radio-Frequency Quadrupole accelerator, a vital component to IsoDAR’s groundbreaking design. I outline challenges of these and other virtual accelerators, and present future plans to make these surrogate models ubiquitous in future development of accelerator experiments of all kinds.
-
-* **Asem Wardak, Research Fellow, Harvard**
-  * **April 11, 2023, 11:00am-12:00pm**
-  * *Details to come*
-
-* **Ziming Liu, Grad Student, MIT**
-  * **April 25, 2023, 11:00am-12:00pm**
-  * *Details to come*
-
-### Spring 2023 Journal Clubs
+  * [Slides](https://drive.google.com/file/d/1rumOzVCo6j8lFo1ZmS9mMmmM1w7bJ5qb/view?usp=share_link) 
+(For IAIFI members only)
 
 * **Daniel Murnane, Postdoc Researcher, Berkeley Lab**
   * **March 21, 2023, 11:00am-12:00pm**

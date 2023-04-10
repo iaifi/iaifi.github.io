@@ -36,6 +36,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+***Pulkit Agrawal gets featured in [MIT News](https://news.mit.edu/2023/legged-robotic-system-playing-soccer-various-terrains-0403)***. IAIFI Senior Investigator Pulkit Agrawal, and collaborators Gabriel Margolis and Yandong Ji have developed a legged robotic system that can dribble a soccer ball under the same conditions as humans. "Our goal in developing algorithms for legged robots is to provide autonomy in challenging and complex terrains that are currently beyond the reach of robotic systems." *April 3, 2023*
+{:.info}
+
 ***Brian Nord, MLK Scholar, interviewed for MIT's Institute Community & Equity Office***: Watch [Brian discuss Artificial Intelligence and social advocacy](https://www.youtube.com/watch?v=xVhl6POHo6Y&list=PLKHPCGvTwsmHKCNO-xCHw0PF-Gza0DWoU&index=4). *February, 8, 2023*
 {:.info}
 
