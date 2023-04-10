@@ -12,6 +12,7 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 * **IAIFI Symposium**
      * **Friday, April 14, 2023, 2:00pm–4:00pm**
      * *IAIFI Senior Investigators will each briefly present their research. This will be followed by an opportunity to hold breakouts and/or network with researchers whose interests align with yours.*
+     * List of IAIFI Members presenting are: Phiala Shanahan (MIT), Cora Dvorkin (Harvard), Marin Soljacic (MIT), Di Luo (MIT), Lina Necib (MIT), Tracy Slatyer (MIT), Will Detmold (MIT), Denis Boyda (MIT), Fabian Ruehle (Northeastern), Max Tegmark (MIT), Siddharth Mishra-Sharma (MIT), Edo Berger (Harvard), Carol Cuesta-Lazaro (MIT), Daniel Eisenstein (Harvard), Lisa Barsotti/Nikhil Mukund (MIT), Jessie Micallef (MIT), Mike Williams (MIT), Ge Yang (MIT), Anna Golubeva (MIT), Pulkit Agrawal (MIT), Taritree Wongjirad (Tufts), Matt Schwartz (Harvard)
 
 
 ## Past Lightning Talks
