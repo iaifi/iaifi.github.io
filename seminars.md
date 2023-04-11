@@ -8,11 +8,6 @@ aside:
 ## Upcoming Internal Discussion Seminars
 
 
-* **Brian Nord, Research Scientist, Fermilab**
-    * **Friday, March 24, 2023, 3:00–4:00 pm**
-    * *How do we build trustworthy AI models for physics?*
-    * Machine learning (ML) has begun to permeate many aspects of the scientific cycle in physics -- data analysis, simulation, experiment design, and even hypothesis generation. However, which aspects of ML are we prepared to trust for our science applications? I will discuss some of the methods that are used for addressing trustworthiness, especially in the context of astrophysics, including uncertainty quantification to domain adaptation. I'd also like to hear from you what you think is needed to make ML useful and safe enough to perform discovery science.
-
 * **Denis Boyda, IAIFI Fellow**
     * **Friday, April 28, 2023**
     * *Details to come*
@@ -21,6 +16,13 @@ aside:
 [Access recordings of past seminars (for IAIFI members only)](https://docs.google.com/document/d/1ZGLuC_-eqMwyeeJNbwR5YhEg_S18E8akbDE9m39oYsY/edit?usp=sharing)
 
 ### Spring 2023 Seminars
+
+* **Brian Nord, Research Scientist, Fermilab**
+    * **Friday, March 24, 2023, 3:00–4:00 pm**
+    * *How do we build trustworthy AI models for physics?*
+    * Machine learning (ML) has begun to permeate many aspects of the scientific cycle in physics -- data analysis, simulation, experiment design, and even hypothesis generation. However, which aspects of ML are we prepared to trust for our science applications? I will discuss some of the methods that are used for addressing trustworthiness, especially in the context of astrophysics, including uncertainty quantification to domain adaptation. I'd also like to hear from you what you think is needed to make ML useful and safe enough to perform discovery science.
+    * [https://drive.google.com/file/d/140zSSeI-Ju47mp5aB16FyfxxWMitGdu4/view?usp=share_link) 
+(For IAIFI members only)
 
 * **Carolina Cuesta-Lazaro, IAIFI Fellow**
     * **Friday, February 24, 2023, 2:00–3:00 pm**

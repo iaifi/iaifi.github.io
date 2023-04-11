@@ -23,18 +23,18 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
 
-***IAIFI Summer School Applications due April 9, 2023:*** Our second annual [IAIFI Summer School](https://iaifi.org/phd-summer-school) will be held August 7–11, 2023 at Northeastern University. Apply by April 9, 2023. 
+***IAIFI Summer Workshop Registration Open:*** Our second annual [IAIFI Summer Workshop](https://iaifi.org/summer-workshop) will be held August 14–18, 2023 at Northeastern University. [Registration is open](https://iaifi-workshop-reg-fee.mit.edu/registration) until July 10, 2023. 
 {:.success}
 
 ***The IAIFI Colloquium Series will continue with Uros Seljak on April 21, 2023 at 2:00 pm.*** Recordings of our [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
-***IAIFI Summer Workshop Registration Open:*** Our second annual [IAIFI Summer Workshop](https://iaifi.org/summer-workshop) will be held August 14–18, 2023 at Northeastern University. [Registration is open](https://iaifi-workshop-reg-fee.mit.edu/registration) until July 10, 2023. 
-{:.success}
-
 ### IAIFI News
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
+
+***Pulkit Agrawal gets featured in [MIT News](https://news.mit.edu/2023/legged-robotic-system-playing-soccer-various-terrains-0403)***. IAIFI Senior Investigator Pulkit Agrawal, and collaborators Gabriel Margolis and Yandong Ji have developed a legged robotic system that can dribble a soccer ball under the same conditions as humans. "Our goal in developing algorithms for legged robots is to provide autonomy in challenging and complex terrains that are currently beyond the reach of robotic systems." *April 3, 2023*
+{:.info}
 
 ***Brian Nord, MLK Scholar, interviewed for MIT's Institute Community & Equity Office***: Watch [Brian discuss Artificial Intelligence and social advocacy](https://www.youtube.com/watch?v=xVhl6POHo6Y&list=PLKHPCGvTwsmHKCNO-xCHw0PF-Gza0DWoU&index=4). *February, 8, 2023*
 {:.info}
