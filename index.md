@@ -23,13 +23,10 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
 
-***IAIFI Summer School Applications due April 9, 2023:*** Our second annual [IAIFI Summer School](https://iaifi.org/phd-summer-school) will be held August 7–11, 2023 at Northeastern University. Apply by April 9, 2023. 
+***IAIFI Summer Workshop Registration Open:*** Our second annual [IAIFI Summer Workshop](https://iaifi.org/summer-workshop) will be held August 14–18, 2023 at Northeastern University. [Registration is open](https://iaifi-workshop-reg-fee.mit.edu/registration) until July 10, 2023. 
 {:.success}
 
 ***The IAIFI Colloquium Series will continue with Uros Seljak on April 21, 2023 at 2:00 pm.*** Recordings of our [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
-{:.success}
-
-***IAIFI Summer Workshop Registration Open:*** Our second annual [IAIFI Summer Workshop](https://iaifi.org/summer-workshop) will be held August 14–18, 2023 at Northeastern University. [Registration is open](https://iaifi-workshop-reg-fee.mit.edu/registration) until July 10, 2023. 
 {:.success}
 
 ### IAIFI News

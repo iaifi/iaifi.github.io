@@ -13,11 +13,11 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 
 * **August 7–11, 2023**
 * **Northeastern University, Interdisciplinary Science and Engineering Complex**
-* **Application deadline: April 9, 2023** 
+* **Applications for the 2023 Summer School are now closed** 
 
 <br>
 
-[About](#about){:.button.button--outline-primary.button--pill.button--lg}  [Apply](https://app.smartsheet.com/b/form/7d51a61adcc046eb9a59ac5496b34c2c){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
+[About](#about){:.button.button--outline-primary.button--pill.button--lg}  [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
 
 ## About 
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice.
