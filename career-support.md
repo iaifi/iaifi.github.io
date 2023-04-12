@@ -5,6 +5,7 @@ aside:
   toc: true
 ---
 
+[Share your experience](https://app.smartsheet.com/b/form/2899a807c8d848069a3eeb2ea35a3283){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Organizations with IAIFI Connections
 
@@ -14,7 +15,7 @@ aside:
 * [Microsoft Research](https://www.microsoft.com/en-us/research/careers/)
 * [Amazon](https://hiring.amazon.com/#/)
 
-[View Database of Industry Connections](https://docs.google.com/spreadsheets/d/1j0KPXDCjGV8uboDOJeEJ1Rvk4W5X97jqgML2MxwBCw4/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--lg}
+[View Database of Industry Connections](https://docs.google.com/spreadsheets/d/1j0KPXDCjGV8uboDOJeEJ1Rvk4W5X97jqgML2MxwBCw4/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--sm}
 
 ## Finding jobs/internships
 
