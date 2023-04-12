@@ -18,11 +18,13 @@ Other organizations that hold public events relevant to the IAIFI community:
   * [Understanding the Nature of Inference Colloquia](https://inferenceproject.yale.edu/colloquium-series)
   * [Stochastics and Statistics Seminars presented by the MIT Statistics and Data Science Center](https://stat.mit.edu/seminars/)
   * [CMSA New Technologies in Mathematics Seminar Series at Harvard](https://cmsa.fas.harvard.edu/tech-in-math/)
+  * [Invitation to MIT conference on Mechanistic Interpretability](https://docs.google.com/forms/d/e/1FAIpQLSflee__rtDzXkHMSd-iCD873QhcCp4Dr0ysw7QlIy4vYzdnzA/viewform)
 
 ## Upcoming Related Workshops
 
 Upcoming workshops involving members of the IAIFI community:
   * [AI for Robust Engineering & Science Workshop (AIRES4), April 18–20, 2023](https://aires.ornl.gov)
+  * [Responsible AI in the Natural Sciences Mini-Workshop, May 8, 2023](https://sites.google.com/view/rainscmu)
   * [At the interface of Physics, Mathematics and Artificial Intelligence Workshop, May 29–June 2, 2023](https://agenda.infn.it/event/33851/)
       * IAIFI involvement: Harold Erbin, Daniel Hackett, Anindita Maiti (Co-Organizers)
   * [AI Forward Workshop, DARPA, June 13-16, 2023 and July 31-August 2, 2023](https://www.darpa.mil/news-events/2023-02-24)
