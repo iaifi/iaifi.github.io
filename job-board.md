@@ -7,8 +7,7 @@ aside:
 
 As a hub for the intersection of Physics and AI in the Boston area and beyond, we are happy to share job opportunities at this intersection as we become aware of them. 
 
-To include a job post on this page, email [iaifi@mit.edu](mailto:iaifi@mit.edu), including the job title, job description, and application deadline. 
-{:.info}
+[Submit job opportunity](https://app.smartsheet.com/b/form/87828e2a006b4c86b6b786555e2dd492){:.button.button--outline-primary.button--pill.button--lg}
 
 # IAIFI Jobs
 
