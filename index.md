@@ -33,7 +33,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
-***Justin Solomon, MIT Associate Professor and IAIFI Affiliate named Edgerton Award winner***: Read [MIT Newsletter profile on Justin Solomon](https://news.mit.edu/2023/ellen-roche-justin-solomon-edgerton-award-winners-0419). The award recognizes Justin's exceptional distinction in teaching, research, and service at MIT. *April 19, 2023*
+***Justin Solomon, MIT Associate Professor and IAIFI Affiliate, named Edgerton Award winner***: The award recognizes Justin's exceptional distinction in teaching, research, and service at MIT. Read [MIT Newsletter profile on Justin Solomon](https://news.mit.edu/2023/ellen-roche-justin-solomon-edgerton-award-winners-0419). *April 19, 2023*
 {:.info}
 
 ***Brian Nord, MLK Scholar and IAIFI Visitor, featured in MIT News***: Read ["Understanding our place in the universe"](https://news.mit.edu/2023/understanding-our-place-universe-brian-nord-0412). *April, 12, 2023*
