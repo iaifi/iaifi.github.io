@@ -7,22 +7,26 @@ aside:
 
 
 ## Upcoming Lightning Talk sessions
-Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC). 
 
-* **IAIFI Symposium**
-     * **Friday, April 14, 2023, 2:00pm–4:00pm**
-     * *IAIFI Senior Investigators will each briefly present their research. This will be followed by an opportunity to hold breakouts and/or network with researchers whose interests align with yours.*
-     * List of IAIFI Members presenting are: Phiala Shanahan (MIT), Cora Dvorkin (Harvard), Marin Soljacic (MIT), Di Luo (MIT), Lina Necib (MIT), Tracy Slatyer (MIT), Will Detmold (MIT), Denis Boyda (MIT), Fabian Ruehle (Northeastern), Max Tegmark (MIT), Siddharth Mishra-Sharma (MIT), Carol Cuesta-Lazaro (MIT), Daniel Eisenstein (Harvard), Lisa Barsotti/Nikhil Mukund (MIT), Jessie Micallef (MIT), Mike Williams (MIT), Ge Yang (MIT), Anna Golubeva (MIT), Pulkit Agrawal (MIT), Taritree Wongjirad (Tufts), Matt Schwartz (Harvard), Phil Harris (MIT)
+IAIFI Lightning Talk will continue in Fall 2023
+
+Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC). 
 
 
 ## Past Lightning Talks
 [Access recordings of past lightning talks (for IAIFI members only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=share_link)
 
+* **IAIFI Symposium**
+     * **Friday, April 14, 2023, 2:00pm–4:00pm**
+     * *IAIFI Senior Investigators will each briefly present their research. This will be followed by an opportunity to hold breakouts and/or network with researchers whose interests align with yours.*
+     * List of IAIFI Members presenting are: Phiala Shanahan (MIT), Cora Dvorkin (Harvard), Marin Soljacic (MIT), Di Luo (MIT), Lina Necib (MIT), Tracy Slatyer (MIT), Will Detmold (MIT), Denis Boyda (MIT), Fabian Ruehle (Northeastern), Max Tegmark (MIT), Siddharth Mishra-Sharma (MIT), Carol Cuesta-Lazaro (MIT), Daniel Eisenstein (Harvard), Lisa Barsotti/Nikhil Mukund (MIT), Jessie Micallef (MIT), Mike Williams (MIT), Ge Yang (MIT), Anna Golubeva (MIT), Pulkit Agrawal (MIT), Taritree Wongjirad (Tufts), Matt Schwartz (Harvard), Phil Harris (MIT)
+     * [Symposium Recording](https://mit.zoom.us/rec/play/tZIPPN10x1sjKPNKKa1LLmPVV6dGcbYbCkrntlFA0qh3QZLxVK3QmUyeoGnVGQ5tPQDDm1tQ2ssuDdVG.71bDIpig2vbp1bh0?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fmit.zoom.us%2Frec%2Fshare%2FVc2feMAQPnhPqFde3OLJvyliJxBUyya-oKTZ5v_g-C_DnzxPwFEmIy6dOsJq8mQe.sox2XsrmaWXAQB0B) (IAIFI Members only)
+
 * **Spring 2023 Lightning Talk Session II: Geometric learning/embedding strategies**
      * **Friday, March 17, 2023, 2:00pm–3:00pm**
-       * Arthur Tsang (Grad Student, Harvard), ["Finding Subhalos in Galaxy-Galaxy Strong Lensing Systems"](https://drive.google.com/file/d/1CweBYZ0JNE6lfwP6TkWy9hv_o6DcQAM3/view?usp=share_link)
-       * Emmanouil Theodosis (Grad Student, Harvard), ["Constraining neural networks to craft representations"](https://drive.google.com/file/d/1Pw3n2qEkVAd6HICSj8jR4QO6XJYm_A3n/view?usp=share_link)
-       * Giorgi Butbaia (Grad Student, UNH), ["Numerical Calabi-Yau metrics using Spectral neural networks"](https://drive.google.com/file/d/1_JaHfxSRutIjMS-hEXYDErMAbIKR1bcA/view?usp=share_link)
+       * Arthur Tsang (Grad Student, Harvard), ["Finding Subhalos in Galaxy-Galaxy Strong Lensing Systems"](https://drive.google.com/file/d/1CweBYZ0JNE6lfwP6TkWy9hv_o6DcQAM3/view?usp=share_link)(IAIFI Members only)
+       * Emmanouil Theodosis (Grad Student, Harvard), ["Constraining neural networks to craft representations"](https://drive.google.com/file/d/1Pw3n2qEkVAd6HICSj8jR4QO6XJYm_A3n/view?usp=share_link)(IAIFI Members only)
+       * Giorgi Butbaia (Grad Student, UNH), ["Numerical Calabi-Yau metrics using Spectral neural networks"](https://drive.google.com/file/d/1_JaHfxSRutIjMS-hEXYDErMAbIKR1bcA/view?usp=share_link)(IAIFI Members only)
 
 * **Spring 2023 Lightning Talk Session I: Robustness/fault tolerance**
     * **Friday, February 17, 2023, 2:00-3:00 pm**
