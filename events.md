@@ -8,18 +8,23 @@ aside:
 
 ## Upcoming Colloquia 
 
+IAIFI Colloquium Series will continue in Fall 2023
+
 Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events.
 
-<img class="image" src="images/small-photo-uros-seljak.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
-* **[Uros Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak), Professor, UC Berkeley** 
-    * **Friday, April 21, 2023, 2:00-3:00pm**
-    * *Data science techniques for optimal cosmology analysis*
-    * Cosmological surveys aim to map the universe and extract cosmological information from the data. Cosmological data contain a wealth of information on all scales, but its full extraction in the non-linear regime remains unsolved. I will discuss two different methods that enable optimal data analysis of cosmology data. In the first method we use generative Multi-scale Normalizing Flows to learn the high dimensional data likelihood of 2d data such as weak lensing. This method improves the figure of merit by a factor of 3 when compared to current state of the art discriminative learning methods. In the second method we use high dimensional Bayesian inference for optimal analysis of 3d galaxy surveys. I will describe recent developments of fast gradient based N-body simulations, and of fast gradient based MCMC samplers, which make optimal analysis of upcoming 3d galaxy surveys feasible. In particular, recently developed Microcanonical Langevin and Hamiltonian Monte Carlo samplers are often faster by an order magnitude or more than previous state of the art. Similar improvements are expected for other high dimensional sampling problems, such as lensing of cosmic microwave background, as well as in other fields such as Molecular Dynamics, Lattice QCD, Statistical Physics etc.  
 
 ## Past Colloquia
 You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
 
 ### Spring 2023
+
+<img class="image" src="images/small-photo-uros-seljak.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
+* **[Uros Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak), Professor, UC Berkeley** 
+    * **Friday, April 21, 2023, 2:00-3:00pm**
+    * *Data science techniques for optimal cosmology analysis*
+    * [YouTube Recording](https://www.youtube.com/live/H8H7tB-AJL8?feature=share)
+    * [Talk Slides](talks/2023_04_21_IAIFI-Colloquium_Seljak.pdf)
+    * Cosmological surveys aim to map the universe and extract cosmological information from the data. Cosmological data contain a wealth of information on all scales, but its full extraction in the non-linear regime remains unsolved. I will discuss two different methods that enable optimal data analysis of cosmology data. In the first method we use generative Multi-scale Normalizing Flows to learn the high dimensional data likelihood of 2d data such as weak lensing. This method improves the figure of merit by a factor of 3 when compared to current state of the art discriminative learning methods. In the second method we use high dimensional Bayesian inference for optimal analysis of 3d galaxy surveys. I will describe recent developments of fast gradient based N-body simulations, and of fast gradient based MCMC samplers, which make optimal analysis of upcoming 3d galaxy surveys feasible. In particular, recently developed Microcanonical Langevin and Hamiltonian Monte Carlo samplers are often faster by an order magnitude or more than previous state of the art. Similar improvements are expected for other high dimensional sampling problems, such as lensing of cosmic microwave background, as well as in other fields such as Molecular Dynamics, Lattice QCD, Statistical Physics etc.  
 
 <img class="image" src="images/small-photo-yonatan-kahn.jpg" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 * **[Yonatan Kahn](https://physics.illinois.edu/people/directory/profile/yfkahn), Assistant Professor, UIUC** 

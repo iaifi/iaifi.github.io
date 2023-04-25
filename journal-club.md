@@ -13,17 +13,27 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
 
 ## Spring 2023 Journal Clubs
 
-* **Asem Wardak, Research Fellow, Harvard**
-  * **April 11, 2023, 11:00am-12:00pm**
-  * *Extended Anderson Criticality in Heavy-Tailed Neural Networks*
-  * This talk focuses on nonlinearly interacting systems with random, heavy-tailed connectivity. We show how heavy-tailed connectivity gives rise to an extended critical regime of spatially multifractal fluctuations between the quiescent and active phases. This phase differs from the edge of chaos in classical networks by the appearance of universal hallmarks of the Anderson transition in condensed matter physics over an extended region in phase space. We then investigate some consequences of the multifractal Anderson regime for performing persistent computations.
+* **Di Luo, IAIFI Fellow**
+  * **April 25, 2023, 11:00am-12:00pm**
+  * *Multi-legged Robot Locomotion via Spin Models Duality*
+  * Contact planning is crucial in locomoting systems.Specifically, appropriate contact planning can enable versatile behaviors (e.g., sidewinding in limbless locomotors) and facilitate speed-dependent gait transitions (e.g., walk-trot-gallop in quadrupedal locomotors). The challenges of contact planning include determining not only the sequence by which contact is made and broken between the locomotor and the environments, but also the sequence of internal shape changes (e.g., body bending and limb shoulder joint oscillation). Most state-of-art contact planning algorithms focused on conventional robots (e.g.biped and quadruped) and conventional tasks (e.g. forward locomotion), and there is a lack of study on general contact planning in multi-legged robots. In this talk, I am going to discuss that using geometric mechanics framework, we can obtain the global optimal contact sequence given the internal shape changes sequence. Therefore, we simplify the contact planning problem to a graph optimization problem to identify the internal shape changes. Taking advantages of the spatio-temporal symmetry in locomotion, we map the graph optimization problem to special cases of spin models, which allows us to obtain the global optima in polynomial time. We apply our approach to develop new forward and sidewinding behaviors in a hexapod and a 12-legged centipede. We verify our predictions using numerical and robophysical models, and obtain novel and effective locomotion behaviors.
+
+
+### Spring 2023 Journal Clubs
 
 * **Ziming Liu, Grad Student, MIT**
   * **April 25, 2023, 11:00am-12:00pm**
   * *Physics-inspired generative models*
   * It might be surprising and delightful to physicists that physics has been playing a huge role in diffusion models. In fact, the evolution of our physical world can be viewed as a generation process. In this journal club, I will first review diffusion models, the more recent PFGM/PFGM++ inspired from electrostatics, and then introduce the GenPhys framework which manages to convert even more physical processes to generative models.
+  * [Slides](https://drive.google.com/file/d/1ya9nXg_oJX9wZYzB9AHtc0jBUVEifk6o/view?usp=share_link) 
+(For IAIFI members only)
 
-### Spring 2023 Journal Clubs
+* **Asem Wardak, Research Fellow, Harvard**
+  * **April 11, 2023, 11:00am-12:00pm**
+  * *Extended Anderson Criticality in Heavy-Tailed Neural Networks*
+  * This talk focuses on nonlinearly interacting systems with random, heavy-tailed connectivity. We show how heavy-tailed connectivity gives rise to an extended critical regime of spatially multifractal fluctuations between the quiescent and active phases. This phase differs from the edge of chaos in classical networks by the appearance of universal hallmarks of the Anderson transition in condensed matter physics over an extended region in phase space. We then investigate some consequences of the multifractal Anderson regime for performing persistent computations.
+  * [Slides](https://drive.google.com/file/d/1yo-x-axFISmZSKefSFDuZg5UGMIPGkud/view?usp=share_link) 
+(For IAIFI members only)
 
 * **Joshua Villarreal, Grad Student, MIT**
   * **April 4, 2023, 11:00am-12:00pm**

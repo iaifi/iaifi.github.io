@@ -10,7 +10,9 @@ aside:
 
 * **Denis Boyda, IAIFI Fellow**
     * **Friday, April 28, 2023**
-    * *Details to come*
+    * *Normalizing Flows in Lattice QCD*
+    * Lattice Quantum Chromodynamics (QCD) is the most established method for simulating physical processes governed by strong interactions in a systematically improvable manner. It is currently being used to precisely examine the Standard Model of particle physics. For instance, recent inputs from lattice QCD have resolved disagreements on computations of the magnetic moment of the muon. However, despite its advantages, lattice QCD encounters certain issues, and debates persist regarding reliable estimates of systematic uncertainties on predictions.
+During this talk, I will elaborate on some recent Machine Learning developments that aim to overcome the existing difficulties in lattice QCD. Specifically, I will highlight the progress made in developing expressive Normalizing flow models and discuss some interesting theoretical advancements and practical strategies.
 
 ## Past Seminars
 [Access recordings of past seminars (for IAIFI members only)](https://docs.google.com/document/d/1ZGLuC_-eqMwyeeJNbwR5YhEg_S18E8akbDE9m39oYsY/edit?usp=sharing)
@@ -21,8 +23,7 @@ aside:
     * **Friday, March 24, 2023, 3:00–4:00 pm**
     * *How do we build trustworthy AI models for physics?*
     * Machine learning (ML) has begun to permeate many aspects of the scientific cycle in physics -- data analysis, simulation, experiment design, and even hypothesis generation. However, which aspects of ML are we prepared to trust for our science applications? I will discuss some of the methods that are used for addressing trustworthiness, especially in the context of astrophysics, including uncertainty quantification to domain adaptation. I'd also like to hear from you what you think is needed to make ML useful and safe enough to perform discovery science.
-    * [https://drive.google.com/file/d/140zSSeI-Ju47mp5aB16FyfxxWMitGdu4/view?usp=share_link) 
-(For IAIFI members only)
+    * [Slides](https://drive.google.com/file/d/140zSSeI-Ju47mp5aB16FyfxxWMitGdu4/view?usp=share_link) (For IAIFI members only)
 
 * **Carolina Cuesta-Lazaro, IAIFI Fellow**
     * **Friday, February 24, 2023, 2:00–3:00 pm**
@@ -57,8 +58,7 @@ In this talk, we will discuss some of the key ways in which training data influe
     * **Friday, October 21, 2022, 2:00–3:00 pm**
     * *Return to the phenomenal: An exploration of the subjective, internal representations of physical theories and their relation to the collective pursuits of knowledge* 
     * Physicists study the physical world on spatial, temporal and complexity scales inaccessible through ordinary human perception. *How, then, does a person ground their understanding of physics at these scales in the sensory impressions and emotional states made possible by their body?* In relation to the field as a whole, we can also ask: *To what extent and how does a physicist’s research methodology (theoretical, experimental, or computational) shape the features of the mental models they use in their work? Conversely, to what extent and how do a physicist’s mental models affect the way they approach and engage with a research problem? Finally, what is the nature of the dynamic relation between the individual mental models and their collectively-accepted representational counterparts, and how does it impact physics research?* In this talk, I will sketch out the framing of my approach to these questions that integrates artistic and intellectual practices, and is informed by the history and philosophy of science, theories of embodied cognition, and philosophy of phenomenology. I will then describe the exploratory stages of my first project in this vein, carried out at IAIFI, with the particular focus on the role of AI in particle physics research. 
-    * [Slides](https://drive.google.com/file/d/17Xph_4brzfrQyNpBBPTrJFAt5_D6Tl2i/view?usp=share_link)
-(For IAIFI members only)
+     * [Slides](https://drive.google.com/file/d/1F2k50SmwPPRCv7M94LlQtyrs0DN4XV77/view?usp=share_link) (For IAIFI members only)
 
 * **Jessie Micallef, IAIFI Fellow**
     * **Friday, September 30, 2022 2:00-3:00pm** 

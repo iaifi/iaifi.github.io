@@ -26,12 +26,18 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***IAIFI Summer Workshop Registration Open:*** Our second annual [IAIFI Summer Workshop](https://iaifi.org/summer-workshop) will be held August 14–18, 2023 at Northeastern University. [Registration is open](https://iaifi-workshop-reg-fee.mit.edu/registration) until July 10, 2023. 
 {:.success}
 
-***The IAIFI Colloquium Series will continue with Uros Seljak on April 21, 2023 at 2:00 pm.*** Recordings of our [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
+***The IAIFI Colloquium Series will continue in Fall 2023.*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
 ### IAIFI News
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
+
+***Justin Solomon, MIT Associate Professor and IAIFI Affiliate named Edgerton Award winner***: Read [MIT Newsletter profile on Justin Solomon](https://news.mit.edu/2023/ellen-roche-justin-solomon-edgerton-award-winners-0419). The award recognizes Justin's exceptional distinction in teaching, research, and service at MIT. *April 19, 2023*
+{:.info}
+
+***Brian Nord, MLK Scholar and IAIFI Visitor, featured in MIT News***: Read ["Understanding our place in the universe"](https://news.mit.edu/2023/understanding-our-place-universe-brian-nord-0412). *April, 12, 2023*
+{:.info}
 
 ***Pulkit Agrawal featured in MIT News:*** IAIFI Senior Investigator Pulkit Agrawal, and collaborators Gabriel Margolis and Yandong Ji have [developed a legged robotic system that can dribble a soccer ball under the same conditions as humans](https://news.mit.edu/2023/legged-robotic-system-playing-soccer-various-terrains-0403). "Our goal in developing algorithms for legged robots is to provide autonomy in challenging and complex terrains that are currently beyond the reach of robotic systems." *April 3, 2023*
 {:.info}
