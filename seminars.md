@@ -7,17 +7,19 @@ aside:
 
 ## Upcoming Internal Discussion Seminars
 
+IAIFI Seminar will continue in Fall 2023
+
+## Past Seminars
+[Access recordings of past seminars (for IAIFI members only)](https://docs.google.com/document/d/1ZGLuC_-eqMwyeeJNbwR5YhEg_S18E8akbDE9m39oYsY/edit?usp=sharing)
+
+### Spring 2023 Seminars
 
 * **Denis Boyda, IAIFI Fellow**
     * **Friday, April 28, 2023**
     * *Normalizing Flows in Lattice QCD*
     * Lattice Quantum Chromodynamics (QCD) is the most established method for simulating physical processes governed by strong interactions in a systematically improvable manner. It is currently being used to precisely examine the Standard Model of particle physics. For instance, recent inputs from lattice QCD have resolved disagreements on computations of the magnetic moment of the muon. However, despite its advantages, lattice QCD encounters certain issues, and debates persist regarding reliable estimates of systematic uncertainties on predictions.
 During this talk, I will elaborate on some recent Machine Learning developments that aim to overcome the existing difficulties in lattice QCD. Specifically, I will highlight the progress made in developing expressive Normalizing flow models and discuss some interesting theoretical advancements and practical strategies.
-
-## Past Seminars
-[Access recordings of past seminars (for IAIFI members only)](https://docs.google.com/document/d/1ZGLuC_-eqMwyeeJNbwR5YhEg_S18E8akbDE9m39oYsY/edit?usp=sharing)
-
-### Spring 2023 Seminars
+    * [Slides](https://drive.google.com/file/d/10piPyFGppXLW6cGpXzNGrl-m1sdcATgw/view?usp=share_link) (For IAIFI members only)
 
 * **Brian Nord, Research Scientist, Fermilab**
     * **Friday, March 24, 2023, 3:00–4:00 pm**
