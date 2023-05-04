@@ -7,19 +7,24 @@ aside:
 
 
 ## Upcoming Journal Clubs
+
+IAIFI Journal Club will continue in Fall 2023
+
 The IAIFI Journal Club is only open to IAIFI members and affiliates. 
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-## Spring 2023 Journal Clubs
+## Past Journal Clubs
+
+
+### Spring 2023 Journal Clubs
 
 * **Di Luo, IAIFI Fellow**
   * **April 25, 2023, 11:00am-12:00pm**
   * *Multi-legged Robot Locomotion via Spin Models Duality*
   * Contact planning is crucial in locomoting systems.Specifically, appropriate contact planning can enable versatile behaviors (e.g., sidewinding in limbless locomotors) and facilitate speed-dependent gait transitions (e.g., walk-trot-gallop in quadrupedal locomotors). The challenges of contact planning include determining not only the sequence by which contact is made and broken between the locomotor and the environments, but also the sequence of internal shape changes (e.g., body bending and limb shoulder joint oscillation). Most state-of-art contact planning algorithms focused on conventional robots (e.g.biped and quadruped) and conventional tasks (e.g. forward locomotion), and there is a lack of study on general contact planning in multi-legged robots. In this talk, I am going to discuss that using geometric mechanics framework, we can obtain the global optimal contact sequence given the internal shape changes sequence. Therefore, we simplify the contact planning problem to a graph optimization problem to identify the internal shape changes. Taking advantages of the spatio-temporal symmetry in locomotion, we map the graph optimization problem to special cases of spin models, which allows us to obtain the global optima in polynomial time. We apply our approach to develop new forward and sidewinding behaviors in a hexapod and a 12-legged centipede. We verify our predictions using numerical and robophysical models, and obtain novel and effective locomotion behaviors.
-
-
-### Spring 2023 Journal Clubs
+  * [Slides](https://drive.google.com/file/d/1l8uWeXrgZaZ5m44hrbwLUBurWqukAij0/view?usp=share_link) 
+(For IAIFI members only)
 
 * **Ziming Liu, Grad Student, MIT**
   * **April 25, 2023, 11:00am-12:00pm**

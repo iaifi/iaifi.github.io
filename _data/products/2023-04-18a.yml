@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Searching for ribbons with machine learning"
+authors: Sergei Gukov, James Halverson, Ciprian Manolescu, Fabian Ruehle
+abstract: 'We apply Bayesian optimization and reinforcement learning to a problem in topology: the question of when a knot bounds a ribbon disk. This question is relevant in an approach to disproving the four-dimensional smooth Poincaré conjecture; using our programs, we rule out many potential counterexamples to the conjecture. We also show that the programs are successful in detecting many ribbon knots in the range of up to 70 crossings.'
+arxiv: "arXiv:2304.09304"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
