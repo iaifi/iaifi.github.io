@@ -5,6 +5,8 @@ aside:
   toc: true
 ---
 
+We have developed this resource to support early career researchers working at the intersection of AI and physics to understand what opportunities for internships and jobs in industry may exist and collect advice on exploring those opportunities. We are crowd sourcing this information from IAIFI members and alumni and would appreciate your help! If you have experience working either an internship or job in industry, please share and help fellow researchers learn about a variety of opportunities and work environments.
+
 [Share your experience](https://app.smartsheet.com/b/form/2899a807c8d848069a3eeb2ea35a3283){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Organizations with IAIFI Connections
@@ -15,15 +17,22 @@ aside:
 * [Microsoft Research](https://www.microsoft.com/en-us/research/careers/)
 * [Amazon](https://hiring.amazon.com/#/)
 
+<!---
 [View Database of Industry Connections](https://docs.google.com/spreadsheets/d/1j0KPXDCjGV8uboDOJeEJ1Rvk4W5X97jqgML2MxwBCw4/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--sm}
+--->
+
+We are currently working to build a database of industry connections and opportunities as we gather information from more members--please share your experience to help us complete the database! If you have questions about contacting any of the organizations above, please email [iaifi@mit.edu](mailto:iaifi@mit.edu). 
+{:.info}
 
 ## Finding jobs/internships
 
 There are countless ways to identify potential jobs and internships. Some ways that IAIFI members and alumni have had success with include:
-* Through their advisor
-* [MIT Analytics Career Fair](https://www.analyticsfair.mit.edu/)
-* Twitter
-* Conference networking
+* Discussions with their advisor about their career interests. Faculty members then helped point them toward opportunities and connected them with people in their network. 
+* Career Fairs such as the [MIT Analytics Career Fair](https://www.analyticsfair.mit.edu/), which provide opportunities to meet with representatives from companies looking to hire. 
+* Following companies and researchers in industry on Twitter, where they often will post job opportunities.
+* Taking advantage of networking at conferences and staying in touch with connections. 
+
+[View job board](/job-board.html){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Application advice
 
