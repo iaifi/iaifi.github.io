@@ -13,7 +13,8 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 * **Northeastern University, Interdisciplinary Science and Engineering Complex**
 * **Registration deadline: July 10, 2023** 
 
-<br>
+We are currently accepting [submissions for contributed talks and posters](https://t.co/AmNkXRoWeg).  Submit by June 5, 2023 for full consideration!
+{:.success}
 
 [About](#about){:.button.button--outline-primary.button--pill.button--lg}  [Registration](https://iaifi-workshop-reg-fee.mit.edu/registration){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}  [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](\past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -96,13 +97,25 @@ The following speakers have accepted invitations to give plenary talks at this y
        </div>
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-javier-duarte.jpg" alt="Javier Duarte" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-nikhil-mukund.jpg" alt="Nikhil Mukund" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www-physics.ucsd.edu/Directory/Person/552">Javier Duarte</a>
+         <a href="https://space.mit.edu/people/mukund-nikhil/">Nikhil Mukund</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Assistant Professor, University of California, San Diego </em> <br>
+         <em> Postdoctoral Scholar, MIT Kavli Institute </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-stefanie-czischek.jpg" alt="Stefanie Czischek" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.uottawa.ca/faculty-science/professors/stefanie-czischek">Stefanie Czischek</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Assistant Professor, University of Ottawa </em> <br>
          </div>
          </div>
        </div>
@@ -204,6 +217,18 @@ The following speakers have accepted invitations to give plenary talks at this y
        </div>
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-brian-nord.jpg" alt="Brian Nord" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://briandnord.com/">Brian Nord</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Research Scientist, Fermilab </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-cengiz-pehlevan.jpg" alt="Cengiz Pehlevan" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -235,6 +260,18 @@ The following speakers have accepted invitations to give plenary talks at this y
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Associate Professor, MIT </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-david-shih.jpg" alt="David Shih" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://physics.rutgers.edu/people/faculty-list/faculty-profile/shih-david">David Shih</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Professor, Rutgers University </em> <br>
          </div>
          </div>
        </div>
@@ -283,6 +320,18 @@ The following speakers have accepted invitations to give plenary talks at this y
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Senior Staff Research Scientist, Google Brain </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-robin-walters.jpg" alt="Robin Walters" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.khoury.northeastern.edu/people/robin-walters/">Robin Walters</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Assistant Professor, Khoury College of Computer Sciences, Northeastern University </em> <br>
          </div>
          </div>
        </div>
