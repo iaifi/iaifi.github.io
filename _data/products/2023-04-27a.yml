@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Prometheus: An Open-Source Neutrino Telescope Simulation"
+authors: Jeffrey Lazar, Stephan Meighen-Berger, Christian Haack, David Kim, Santiago Giner, Carlos A. Argüelles
+abstract: 'Neutrino telescopes are gigaton-scale neutrino detectors comprised of individual light-detection units. Though constructed from simple building blocks, they have opened a new window to the Universe and are able to probe center-of-mass energies that are comparable to those of collider experiments. \prometheus{} is a new, open-source simulation tailored for this kind of detector. Our package, which is written in a combination of \texttt{C++} and \texttt{Python} provides a balance of ease of use and performance and allows the user to simulate a neutrino telescope with arbitrary geometry deployed in ice or water. \prometheus{} simulates the neutrino interactions in the volume surrounding the detector, computes the light yield of the hadronic shower and the out-going lepton, propagates the photons in the medium, and records their arrival times and position in user-defined regions. Finally, \prometheus{} events are serialized into a \texttt{parquet} file, which is a compact and interoperational file format that allows prompt access to the events for further analysis.'
+arxiv: "arXiv:2304.14526"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
