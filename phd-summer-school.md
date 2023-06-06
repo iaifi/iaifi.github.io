@@ -17,15 +17,21 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 
 <br>
 
-[About](#about){:.button.button--outline-primary.button--pill.button--lg}  [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
+[Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg}[Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
 
 ## About 
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice.
 
 ## Apply
-**Registration for the 2023 Summer School is now open**. Space is limited, so we require a brief application. **Applications are due April 9, 2023.** You you will be notified of your registration status by April 17, 2023.
+**Registration for the 2023 Summer School is now closed**. 
 
+<!--
+**Applications are due April 9, 2023.** You you will be notified of your registration status by April 17, 2023.
+-->
+
+<!--
 [Apply to IAIFI Summer School](https://app.smartsheet.com/b/form/7d51a61adcc046eb9a59ac5496b34c2c){:.button.button--outline-primary.button--pill.button--sm}
+-->
 
 ## Accommodations
 Students for the Summer School will have the option to reserve dorm rooms (at their own expense) at Boston University for 96.50 USD per night. Instructions for this will be provided to students upon acceptance.
@@ -36,76 +42,216 @@ Students for the Summer School will have the option to reserve dorm rooms (at th
 * Students who wish to stay for the [IAIFI Summer Workshop](/summer-workshop.html) will be able to book the same rooms through the weekend and the Workshop if they choose (at their own expense). 
 
 ## Lecturers
-Additional lecturers and tutorial leads will be announced soon.
 
 <div class="card-columns">
   <!--<div class="row">-->
 
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+     <div class="card" style="width: 17rem; height: 21rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-miranda-cheng.jpg" alt="Miranda Cheng" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          <a href="https://www.uva.nl/en/profile/c/h/c.n.cheng/c.n.cheng.html">Miranda Cheng</a>
          </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Faculty of Science, University of Amsterdam </em> <br>
+         <div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+    <small>
+         <small>
+         <em> Faculty of Science, University of Amsterdam </em> 
+         </small>
+         </small>
+         </div>
+	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <em> Differential Equations and Generative Models </em> <br>
          </div>
          </div>
        </div>
 
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+     <div class="card" style="width: 17rem; height: 21rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-pankaj-mehta.jpg" alt="Pankaj Mehta" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          <a href="http://physics.bu.edu/~pankajm/">Pankaj Mehta</a>
          </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Professor of Physics, Boston University </em> <br>
+         <div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <small>
+   <small>
+         <em> Professor of Physics, Boston University </em>
+         </small>
+         </small>
+         </div>
+	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <em> Statistical Physics and Geometry of Overparameterization </em> <br>
          </div>
          </div>
        </div>
 
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+     <div class="card" style="width: 17rem; height: 21rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-siddharth-mishra-sharma.jpg" alt="Siddharth Mishra-Sharma" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://smsharma.io">Siddharth Mishra-Sharma</a>
+         <a href="https://smsharma.io/">Siddharth Mishra-Sharma</a>
          </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> IAIFI Fellow </em> <br>
+         <div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <small>
+   <small>
+         <em> IAIFI Fellow </em> 
+         </small>
+         </small>
+         </div>
+	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <em> Generative Modeling with Connection to & Applications in Physics </em> <br>
          </div>
          </div>
        </div>
 
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+     <div class="card" style="width: 17rem; height: 21rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-joshua-speagle.jpg" alt="Joshua Speagle" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://joshspeagle.com">Joshua Speagle</a>
+         <a href="https://joshspeagle.com/">Joshua Speagle</a>
          </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <div class="card-text" style="text-align: center; min-height: 3rem; line-height: 100%">
+         <small>
+   <small>
          <em> Assistant Professor of Astrostatistics, University of Toronto </em> <br>
+         </small>
+         </small>
+         </div>
+	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <em> TBA </em>
          </div>
          </div>
        </div>
 
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+     <div class="card" style="width: 17rem; height: 21rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-robin-walters.jpg" alt="Robin Walters" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          <a href="https://www.khoury.northeastern.edu/people/robin-walters/">Robin Walters</a>
          </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Assistant Professor, Khoury College of Computer Sciences, Northeastern University </em> <br>
+         <div class="card-text" style="text-align: center; min-height: 3rem; line-height: 100%">
+         <small>
+   <small>
+         <em> Assistant Professor, Khoury College of Computer Sciences, Northeastern University </em> 
+         </small>
+         </small> <br>
+         </div>
+	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <em> Incorporating Symmetry into Deep Dynamics Models </em> 
          </div>
          </div>
        </div>
+
   <!--
   </div>
 <br> -->
 </div>
 
 <br>
+
+## Tutorial Leads
+
+<div class="card-columns">
+  <!--<div class="row">-->
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-carolina-cuesta.jpg" alt="Carolina Cuesta-Lazaro" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://iaifi.org/current-fellows.html#carolina-cuesta">Carolina Cuesta-Lazaro</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <small>
+   <small>
+         <em> IAIFI Fellow </em> <br>
+         </small>
+         </small>
+         </div>
+	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <em> Tutorial lead for Siddharth Mishra-Sharma </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-alex-gagliano.jpg" alt="Alex Gagliano" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://alexandergagliano.github.io">Alexander Gagliano</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <small>
+   <small>
+         <em> IAIFI Fellow </em> <br>
+         </small>
+         </small>
+         </div>
+	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <em> Tutorial lead for Joshua Speagle </em> <br>
+         </div>
+       </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-di-luo.jpg" alt="Di Luo" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://iaifi.org/current-fellows.html#di-luo">Di Luo</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <small>
+   <small>
+         <em> IAIFI Fellow </em> <br>
+         </small>
+         </small>
+         </div>
+	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <em> Tutorial lead for Pankaj Mehta </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-anindita-maiti.jpg" alt="Anindita Maiti" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://aninditamaiti.github.io">Anindita Maiti</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <small>
+   <small>
+         <em> Postdoctoral Fellow, Harvard </em> <br>
+         </small>
+         </small>
+         </div>
+	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <em> Tutorial lead for Miranda Cheng </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-rui-wang.jpg" alt="Rui Wang" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://rui1521.github.io/online-cv/">Rui (Ray) Wang</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <small>
+   <small>
+         <em> Postdoctoral Researcher, MIT </em> <br>
+         </small>
+         </small>
+         </div>
+	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
+         <em> Tutorial lead for Robin Walters </em> <br>
+         </div>
+         </div>
+       </div>
+ 
+  <!--
+  </div>
+<br> -->
+</div>
 
 ## 2023 Organizing Committee 
 * Jim Halverson, Chair (Northeastern University)

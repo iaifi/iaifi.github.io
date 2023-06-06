@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Dynamic Sparse Training with Structured Sparsity"
+authors: Mike Lasby, Anna Golubeva, Utku Evci, Mihai Nica, Yani Ioannou
+abstract: 'Dynamic Sparse Training (DST) methods achieve state-of-the-art results in sparse neural network training, matching the generalization of dense models while enabling sparse training and inference. Although the resulting models are highly sparse and theoretically cheaper to train, achieving speedups with unstructured sparsity on real-world hardware is challenging. In this work, we propose a sparse-to-sparse DST method to learn a variant of structured N:M sparsity by imposing a constant fan-in constraint. We demonstrate with both a theoretical analysis and empirical results: state-of-the-art spare-to-sparse structured DST performance on a variety of network architectures, a condensed representation with a reduced parameter and memory footprint, and reduced inference time compared to dense models with a naive PyTorch CPU implementation of the condensed representation.'
+arxiv: "arXiv:2305.02299"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
