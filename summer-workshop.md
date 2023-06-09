@@ -13,8 +13,10 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 * **Northeastern University, Interdisciplinary Science and Engineering Complex**
 * **Registration deadline: July 10, 2023** 
 
+<!--
 We are currently accepting [submissions for contributed talks and posters](https://t.co/AmNkXRoWeg).  Submit by June 5, 2023 for full consideration!
 {:.success}
+-->
 
 [About](#about){:.button.button--outline-primary.button--pill.button--lg}  [Registration](https://iaifi-workshop-reg-fee.mit.edu/registration){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}  [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](\past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -417,7 +419,13 @@ The following speakers have accepted invitations to give plenary talks at this y
 
 
 ## Accommodations
-Accommodation options will be provided later in Spring 2023.
+We have made arrangements for discounted accommodations at the following locations: 
+* [Boston University Housing](https://www.bu.edu/housing/undergrad-housing/stuvi/10buick/), 10 Buick St, Boston, MA 02215
+  * 96.00 USD per night
+  * [Book a room](https://iaifi-stayatbu.eventbrite.com)
+* [The Inn at Longwood Medical](https://www.innatlongwood.com), 342 Longwood Ave, Boston, MA 02115
+  * 249.00 USD per night
+  * [Book a room](https://be.synxis.com/?Hotel=58219&Chain=65&arrive=2023-08-12&depart=2023-08-19&adult=1&child=0&group=IAIF0823)
 
 ## FAQ 
 * *Who can attend the Summer Workshop?* Any researcher working at or interested in the intersection of physics and AI is encouraged to attend the Summer Workshop. 
