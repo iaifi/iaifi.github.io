@@ -117,7 +117,7 @@ Students for the Summer School will have the option to reserve dorm rooms (at th
          </small>
          </div>
 	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
-         <em> TBA </em>
+         <em> Uncertainty and Interpretability in Machine Learning Models </em>
          </div>
          </div>
        </div>
