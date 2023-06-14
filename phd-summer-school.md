@@ -258,6 +258,8 @@ Students for the Summer School will have the option to reserve dorm rooms (expen
 
 ## Agenda
 
+<img src="images/2023_Summer-School_Agenda.png" align="left" style="max-width:2602px;width:100%" hspace="10" vspace="10"> 
+
 ### Monday, August 7, 2023
 
 **9:00–9:30 am ET**
