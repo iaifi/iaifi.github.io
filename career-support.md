@@ -29,6 +29,7 @@ We are currently working to build a database of industry connections and opportu
 There are countless ways to identify potential jobs and internships. Some ways that IAIFI members and alumni have had success with include:
 * Discussions with their advisor about their career interests. Faculty members then helped point them toward opportunities and connected them with people in their network. 
 * Career Fairs such as the [MIT Analytics Career Fair](https://www.analyticsfair.mit.edu/), which provide opportunities to meet with representatives from companies looking to hire. 
+* Taking advantage of [MIT Career Advising & Professional Development](https://capd.mit.edu/application-materials-for-phds-and-postdocs-examples-and-how-to-guides/?lor=12) resource for faculty, PhD students and postdocs only.
 * Following companies and researchers in industry on Twitter, where they often will post job opportunities.
 * Taking advantage of networking at conferences and staying in touch with connections. 
 
