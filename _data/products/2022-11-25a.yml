@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Search for boosted Higgs boson decay to a charm quark-antiquark pair in proton-proton collisions at s√ = 13 TeV"
+authors: CMS Collaboration
+abstract: 'A search for the standard model (SM) Higgs boson (H) produced with transverse momentum greater than 450 GeV and decaying to a charm quark-antiquark (cc¯) pair is presented. The search is performed using proton-proton collision data collected at s√ = 13 TeV by the CMS experiment at the LHC, corresponding to an integrated luminosity of 138 fb−1. Boosted H→cc¯ decay products are reconstructed as a single large-radius jet and identified using a deep neural network charm tagging technique. The method is validated by measurement of the Z→cc¯ decay process, which is observed with a signal strength of 1.00+0.17−0.14 (syst) ± 0.08 (theo) ± 0.06 (stat), defined as the ratio of the observed process rate to the standard model expectation. The observed (expected) upper limit on σ(H)(H→cc¯) is set at 47 (39) times the SM prediction at 95% confidence level.'
+arxiv: "arXiv:2211.14181"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
