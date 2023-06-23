@@ -17,7 +17,7 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 
 <br>
 
-[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg}[Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
+[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg}[Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
 
 ## About 
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The Summer School will include lectures and events that exemplify ab initio AI, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice.
@@ -400,6 +400,22 @@ Tutorial 5: Incorporating Symmetry into Deep Dynamics Models, Rui Wang
 **3:30–4:00 pm ET**
 
 Closing
+
+## Financial Supporters
+
+We extend a sincere thank you to the following financial supporters of the 2023 IAIFI Summer School:
+
+<img src="images/northeastern_logo.png" align="left" style="max-width:1200px;width:10%" hspace="10" vspace="10"> 
+
+Northeastern University sponsors include: Office of the Provost, College of Science, department of Physics, and Khoury College of Computer Sciences.
+
+<br>
+
+<img src="images/deepmind-logo.jpg" align="left" style="max-width:10355px;width:30%" hspace="10" vspace="10"> 
+
+<br>
+<br>
+<br>
 
 ## 2023 Organizing Committee 
 * Jim Halverson, Chair (Northeastern University)

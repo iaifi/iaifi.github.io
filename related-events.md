@@ -30,9 +30,11 @@ Upcoming workshops involving members of the IAIFI community:
   * [AI Forward Workshop, DARPA, June 13-16, 2023 and July 31-August 2, 2023](https://www.darpa.mil/news-events/2023-02-24)
   * [Princeton Machine Learning Theory Summer School, June 26-30, 2023](https://mlschool.princeton.edu) 
   * [AI+Science Summer School, July 17-21, 2023](https://datascience.uchicago.edu/events/ai-science-summer-school-2023/)
+   * [MIT Physics Department: The impact of chatGPT and other large language models on physics research and education Workshop, July 21, 2023](https://indico.mit.edu/event/759/registrations/157/)
   * [MODE Workshop on Differentiable Programming for Experiment Design, July 24-26, 2023](https://indico.cern.ch/event/1242538/)
   * [ML4Jets2023, November 6-10, 2023](https://indico.cern.ch/event/1253794/)
       * IAIFI involvement: Jesse Thaler (International Advisory Committee)
+  * [AI4EIC 2023 Annual Workshop, November 28- December 1, 2023](https://indico.bnl.gov/event/19560/registrations/836/)
 
 
 ## Past Related Workshops
