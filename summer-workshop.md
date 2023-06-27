@@ -56,7 +56,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 </div>
 
 ## Agenda
-*This agenda is subject to change**
+*This agenda is subject to change.*
 
 <img src="images/2023_Workshop_Agenda.png" align="left" style="max-width:2602px;width:100%" hspace="10" vspace="10"> 
 
