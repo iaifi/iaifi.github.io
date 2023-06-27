@@ -13,12 +13,11 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 * **Northeastern University, Interdisciplinary Science and Engineering Complex**
 * **Registration deadline: July 10, 2023** 
 
-<!--
-We are currently accepting [submissions for contributed talks and posters](https://t.co/AmNkXRoWeg).  Submit by June 5, 2023 for full consideration!
+We have extended the deadline to [submit a poster](https://t.co/AmNkXRoWeg).  Submit by July 17, 2023 for full consideration!
 {:.success}
--->
 
-[About](#about){:.button.button--outline-primary.button--pill.button--lg}  [Registration](https://iaifi-workshop-reg-fee.mit.edu/registration){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}  [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](\past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
+
+[Registration](https://iaifi-workshop-reg-fee.mit.edu/registration){:.button.button--outline-primary.button--pill.button--lg} [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}  [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](\past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 
 ## About
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field.
@@ -56,6 +55,392 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 <br> -->
 </div>
 
+## Agenda
+*This agenda is subject to change**
+
+<img src="images/2023_Workshop_Agenda.png" align="left" style="max-width:2602px;width:100%" hspace="10" vspace="10"> 
+
+### Monday, August 14, 2023
+**8:30–9:00 am ET**
+
+Welcome/Introduction
+
+**9:00 am–9:45 am ET**
+
+Learning to Break Symmetry with Symmetry Preserving Neural Networks, Tess Smidt (MIT/IAIFI)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**9:45–10:30 am ET**
+
+Uncertainty and Interpretability in Machine Learning Models, Joshua Speagle (University of Toronto)
+
+<details>
+<summary>Abstract</summary>
+<em>In science, we are often concerned with not just whether our ML model performs well, but on understanding how robust our results are, how to interpret them, and what we might be learning in the presence of observational uncertainties. I will provide an overview of various approaches to help address these challenges in both specific and general settings.</em>
+</details>
+
+**10:30–11:00 am ET**
+
+Break
+
+**11:00–11:45 am ET**
+
+Variational Monte Carlo with Large Patched Transformers, Stef Czischek (University of Ottawa)
+
+<details>
+<summary>Abstract</summary>
+<em>Large language models, like transformers, have recently demonstrated immense powers in text and image generation. This success is driven by the ability to capture long-range correlations between elements in a sequence. The same feature makes the transformer a powerful wavefunction ansatz that addresses the challenge of describing correlations in simulations of qubit systems. In this talk I consider two-dimensional Rydberg atom arrays to demonstrate that transformers reach higher accuracies than conventional recurrent neural networks for variational ground state searches. I further introduce large, patched transformer models, which consider a sequence of large atom patches, and show that this architecture significantly accelerates the simulations.</em>
+</details>
+
+
+**11:45 am–12:30 pm ET**
+
+From inference to discovery with AI in the physical sciences, Ben Wandelt (Sorbonne University/Flatiron Institute)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**12:30–2:00 pm ET**
+
+Lunch
+
+**2:00–3:00 pm ET**
+
+Contributed Talks Session I
+
+<details>
+<summary>Details</summary>
+<em>Details to come</em>
+</details>
+
+**3:00–3:30 pm ET**
+
+Break
+
+**3:30–4:15 pm ET**
+
+Machine Learning at the Edge of Particle Physics, Javier Duarte (UCSD)
+
+<details>
+<summary>Abstract</summary>
+<em>Ten years ago, the discovery of the Higgs boson confirmed the existence of a new kind of field, the Higgs field, which fills the universe. Measuring the interactions of the Higgs boson is necessary to confirm the standard model of particle physics, and any deviations from our expectations may give a critical hint for new laws of physics. At the CERN LHC, we collide protons at nearly the speed of light and analyze the debris from the collisions to learn about elementary particles like the Higgs boson. In this presentation, I will explain how we are developing machine learning methods to confront two major, and related, challenges at the LHC: (1) searching for the elusive Higgs boson self-interaction and (2) quickly filtering millions of collisions per second on field-programmable gate arrays (FPGAs) in pursuit of new physics.</em>
+</details>
+
+**6:00–8:00 pm ET**
+Welcome Dinner
+
+
+### Tuesday, August 8, 2023
+
+**9:00 am–9:45 am ET**
+
+Deep learning theory beyond the static kernel limit, Cengiz Pehlevan (Harvard/IAIFI)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**9:45–10:30 am ET**
+
+Effective Theory of Transformers, Sho Yaida (Meta)
+
+<details>
+<summary>Abstract</summary>
+<em>Large neural networks perform extremely well in practice, providing the backbone of modern machine learning. Theoretical analyses of these large models suggest particular scaling strategies, specifically for initialization and training hyperparameters. This talk walks through these suggestions for the concrete case of Transformers and mentions some of its practical implications.</em>
+</details>
+
+**10:30–11:00 am ET**
+
+Break
+
+**11:00–11:45 am ET**
+
+Title TBA, Yasaman Bahri (Google Brain)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+
+**11:45 am–12:30 pm ET**
+
+Title TBA, Jascha Sohl-Dickstein (Google Brain)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**12:30–2:00 pm ET**
+
+Lunch
+
+**2:00–3:00 pm ET**
+
+Contributed Talks Session II
+
+<details>
+<summary>Details</summary>
+<em>Details to come</em>
+</details>
+
+**3:00–3:30 pm ET**
+
+Break
+
+**3:30–4:15 pm ET**
+
+TBA
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**4:15–5:00 pm ET**
+
+Architecture Selection and Initialization for Graph Neural Networks, Boris Hanin (Princeton)
+
+<details>
+<summary>Abstract</summary>
+<em>Graph neural networks (GNNs) are an important class of machine learning models designed for learning from graph-structured datasets, such as those from high energy physics, chemistry, genomics/genetics, and so on. In this talk, I will discuss recent work, joint with Gage DeZoort, in which we theoretically derive and empirically validate principles for architecture selection and initialization schemes in GNNs that provably avoid a range of common failure modes early in training.</em>
+</details>
+
+### Wednesday, August 9, 2023
+
+**9:00 am–9:45 am ET**
+
+The Strengths and Limitations of Equivariant Neural Networks, Robin Walters (Northeastern)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**9:45–10:30 am ET**
+
+Generative Diffusion Models: From Foundations to Applications in Digital Content Creation, Karsten Kreis (NVIDIA)
+
+<details>
+<summary>Abstract</summary>
+<em>Denoising diffusion-based generative models, rooted in physics, have led to multiple breakthroughs in deep generative learning. In this talk, I will provide an overview over recent works by NVIDIA on diffusion models and their applications for image, video, and 3D content creation. I will start with a short introduction to diffusion models and discuss large-scale text-to-image generation. I will also highlight different efforts on 3D generative modeling as well as high-resolution video generation with video latent diffusion models. Moreover, I will discuss techniques for smoother and faster diffusion, inspired by ideas in physics, for accelerated and high-performance generation.</em>
+</details>
+
+**10:30–11:00 am ET**
+
+Break
+
+**11:00–11:45 am ET**
+
+Diffusion Generative Models in Collider Physics, Vinicius Mikuni (NERSC)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+
+**11:45 am–12:30 pm ET**
+
+Generative models for first-principles theoretical physics calculations, Phiala Shanahan(MIT/IAIFI)
+
+<details>
+<summary>Abstract</summary>
+<em>In the context of lattice quantum field theory calculations in particle and nuclear physics, I will describe avenues to accelerate sampling from known probability distributions using machine learning. I will focus in particular on flow-based generative models, and describe how guarantees of exactness and the incorporation of complex symmetries into model architectures can be achieved. I will show the results of proof-of-principle studies that demonstrate that sampling from generative models can be orders of magnitude more efficient than traditional sampling approaches such as Hamiltonian/hybrid Monte Carlo in this context, and discuss the potential impacts of these approaches in nuclear and particle physics.</em>
+</details>
+
+**12:30–2:00 pm ET**
+
+Lunch
+
+**2:00–2:45 pm ET**
+
+Improving Energy Conserving Descent Optimization: Theory to Practice, Eva Silverstein (Stanford)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**2:45–3:30 pm ET**
+
+Break
+
+**3:30–4:15 pm ET**
+
+Renormalizing Diffusion Models, Semon Rezchikov (Princeton)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**4:15–5:00 pm ET**
+
+Renormalisation and Inference, David Berman (Queen Mary University/Cambridge Consultants
+
+<details>
+<summary>Abstract</summary>
+<em>This talk will describe the link between exact renormalisation group flow and statistical inference. The basic idea being that inference incorporates data into a model while renormalisation throws information away.</em>
+</details>
+
+### Thursday, August 10, 2023
+
+**9:00 am–9:45 am ET**
+
+Towards a phenomenological understanding of neural networks, Sven Krippendorf (Ludwig-Maximillian University)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**9:45–10:30 am ET**
+
+Machine learning Calabi Yau metrics, Magdalena Larfors (Uppsala University)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come.</em>
+</details>
+
+**10:30–11:00 am ET**
+
+Break
+
+**11:00–11:45 am ET**
+
+Learning BPS spectra, Sergei Gukov (California Institute of Technology)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+
+**11:45 am–12:30 pm ET**
+
+Learning from Topology: Cosmological Parameter Inference from the Large-scale Structure, Gary Shiu (University of Wisconsin-Madison)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come.</em>
+</details>
+
+**12:30–2:00 pm ET**
+
+Lunch
+
+**2:00–3:00 pm ET**
+
+Contributed Talks Session III
+
+<details>
+<summary>Details</summary>
+<em>Details to come</em>
+</details>
+
+**3:00–3:30 pm ET**
+
+Break
+
+**3:30–4:15 pm ET**
+
+Machine Learning for Fundamental Physics: From the Smallest to the Largest Scales, David Shih (Rutgers University)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**4:15–5:00 pm ET**
+
+Poster Session
+
+<details>
+<summary>Details</summary>
+<em>Details to come.</em>
+</details>
+
+
+### Friday, August 11, 2023
+
+**9:00 am–9:45 am ET**
+
+Title TBA, Brian Nord (Fermilab)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**9:45–10:30 am ET**
+
+Facets of Responsible Machine Learning, Flavio du Pin Calmon (Harvard)
+
+<details>
+<summary>Abstract</summary>
+<em>This talk overviews recent results in two aspects of fair machine learning. First, we introduce a post-processing technique, "FairProjection," designed to ensure group fairness in prediction and classification. This method applies to any classifier without requiring retraining and attains state-of-the-art performance in both accuracy and group fairness assurance in probabilistic classification. We also present converse results based on Blackwell's "comparison of experiments" theorem that capture the limits of group-fairness assurance in classification. Second, we overview the concept of predictive multiplicity in machine learning. Predictive multiplicity arises when different classifiers achieve similar average performance for a specific learning task, yet produce conflicting predictions for individual samples.</em>
+</details>
+
+**10:30–11:00 am ET**
+
+Break
+
+**11:00–11:45 am ET**
+
+AI-assisted sensing & control at gravitational wave observatories, Nikhil Mukund (MIT/IAIFI)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+
+**11:45 am–12:30 pm ET**
+
+TBA
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come.</em>
+</details>
+
+**12:30–2:00 pm ET**
+
+Lunch
+
+**2:00–2:45 pm ET**
+
+Symbolic Distillation of Neural Networks for New Physics Discovery, Miles Cranmer (University of Cambridge)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**2:45–3:30 pm ET**
+
+From Pixels to Neutrinos, Taritree Wongjirad (Tufts/IAIFI)
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**3:30–4:00 pm ET**
+
+Closing
+
+
 ## Speakers
 The following speakers have accepted invitations to give plenary talks at this year's workshop. We will continue to add to the list as speakers accept. 
 
@@ -82,18 +467,6 @@ The following speakers have accepted invitations to give plenary talks at this y
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Professor, Queen Mary University; Head of AI, Cambridge Consultants </em> <br>
-         </div>
-         </div>
-       </div>
-
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-miranda-cheng.jpg" alt="Miranda Cheng" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.uva.nl/en/profile/c/h/c.n.cheng/c.n.cheng.html">Miranda Cheng</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Faculty of Science, University of Amsterdam </em> <br>
          </div>
          </div>
        </div>
@@ -339,6 +712,18 @@ The following speakers have accepted invitations to give plenary talks at this y
        </div>
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-joshua-speagle.jpg" alt="Joshua Speagle" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://joshspeagle.com/">Joshua Speagle</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 3rem; line-height: 140%">
+         <em> Assistant Professor of Astrostatistics, University of Toronto </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-robin-walters.jpg" alt="Robin Walters" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -382,30 +767,6 @@ The following speakers have accepted invitations to give plenary talks at this y
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Research Scientist, Meta </em> <br>
-         </div>
-         </div>
-       </div>
-
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-greg-yang.jpg" alt="Greg Yang" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.microsoft.com/en-us/research/people/gregyang">Greg Yang</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Senior Researcher, Microsoft </em> <br>
-         </div>
-         </div>
-       </div>
-
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-rose-yu.jpg" alt="Rose Yu" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://roseyu.com">Rose Yu</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Assistant Professor, UCSD </em> <br>
          </div>
          </div>
        </div>
