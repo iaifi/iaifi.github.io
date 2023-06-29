@@ -58,7 +58,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 ## Agenda
 *This agenda is subject to change.*
 
-<img src="images/2023_Workshop_Agenda.png" align="left" style="max-width:2602px;width:100%" hspace="10" vspace="10"> 
+<img src="images/2023_workshop_agenda.png" align="left" style="max-width:2602px;width:100%" hspace="10" vspace="10"> 
 
 ### Monday, August 14, 2023
 **8:30–9:00 am ET**
@@ -99,12 +99,7 @@ Variational Monte Carlo with Large Patched Transformers, Stef Czischek (Universi
 
 **11:45 am–12:30 pm ET**
 
-From inference to discovery with AI in the physical sciences, Ben Wandelt (Sorbonne University/Flatiron Institute)
-
-<details>
-<summary>Abstract</summary>
-<em>Abstract to come</em>
-</details>
+TBA
 
 **12:30–2:00 pm ET**
 
@@ -130,6 +125,15 @@ Machine Learning at the Edge of Particle Physics, Javier Duarte (UCSD)
 <details>
 <summary>Abstract</summary>
 <em>Ten years ago, the discovery of the Higgs boson confirmed the existence of a new kind of field, the Higgs field, which fills the universe. Measuring the interactions of the Higgs boson is necessary to confirm the standard model of particle physics, and any deviations from our expectations may give a critical hint for new laws of physics. At the CERN LHC, we collide protons at nearly the speed of light and analyze the debris from the collisions to learn about elementary particles like the Higgs boson. In this presentation, I will explain how we are developing machine learning methods to confront two major, and related, challenges at the LHC: (1) searching for the elusive Higgs boson self-interaction and (2) quickly filtering millions of collisions per second on field-programmable gate arrays (FPGAs) in pursuit of new physics.</em>
+</details>
+
+**4:15–5:30 pm ET**
+
+Poster Session
+
+<details>
+<summary>Details</summary>
+<em>Details to come.</em>
 </details>
 
 **6:00–8:00 pm ET**
@@ -198,7 +202,7 @@ Break
 
 **3:30–4:15 pm ET**
 
-TBA
+From inference to discovery with AI in the physical sciences, Ben Wandelt (Sorbonne University/Flatiron Institute)
 
 <details>
 <summary>Abstract</summary>
@@ -263,7 +267,7 @@ Lunch
 
 **2:00–2:45 pm ET**
 
-Improving Energy Conserving Descent Optimization: Theory to Practice, Eva Silverstein (Stanford)
+Title TBA, Miranda Cheng (University of Amsterdam)
 
 <details>
 <summary>Abstract</summary>
@@ -363,11 +367,11 @@ Machine Learning for Fundamental Physics: From the Smallest to the Largest Scale
 
 **4:15–5:00 pm ET**
 
-Poster Session
+Improving Energy Conserving Descent Optimization: Theory to Practice, Eva Silverstein (Stanford)
 
 <details>
-<summary>Details</summary>
-<em>Details to come.</em>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
 </details>
 
 
@@ -467,6 +471,18 @@ The following speakers have accepted invitations to give plenary talks at this y
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Professor, Queen Mary University; Head of AI, Cambridge Consultants </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-miranda-cheng.jpg" alt="Miranda Cheng" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.uva.nl/en/profile/c/h/c.n.cheng/c.n.cheng.html">Miranda Cheng</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Faculty of Science, University of Amsterdam </em> <br>
          </div>
          </div>
        </div>
