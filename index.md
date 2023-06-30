@@ -14,9 +14,12 @@ article_header:
 
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. The IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. The IAIFI is a collaboration of both [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts.  Learn more about our [research](/research.html) at the Physics/AI intersection and about our [IAIFI Fellows](/fellows.html) program.
 
-<!---
+
 ### IAIFI Jobs
---->
+
+***Applications are open for the 2024–2027 IAIFI Fellowship:*** Our fourth round of the [IAIFI Fellowship search](https://iaifi.org/fellows) is now open. [Apply on AJO](https://academicjobsonline.org/ajo/jobs/25055) by October 10, 2023. 
+{:.success}
+
 
 ### IAIFI Events
 
