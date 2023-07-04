@@ -58,7 +58,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 ## Agenda
 *This agenda is subject to change.*
 
-<img src="images/2023_workshop_agenda.png" align="left" style="max-width:2602px;width:100%" hspace="10" vspace="10"> 
+<img src="images/2023-workshop-agenda.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10"> 
 
 ### Monday, August 14, 2023
 **8:30–9:00 am ET**
