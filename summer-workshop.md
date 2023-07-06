@@ -99,7 +99,13 @@ Variational Monte Carlo with Large Patched Transformers, Stef Czischek (Universi
 
 **11:45 am–12:30 pm ET**
 
-TBA
+Some Benefits of Machine Learning with Invariances, Stefanie Jegelka (MIT)
+
+<details>
+<summary>Abstract</summary>
+<em>In many applications, especially in the sciences, data and tasks have known invariances. Encoding such invariances directly into a machine learning model can improve learning outcomes, while it also poses challenges on efficient model design.
+In the first part of the talk, we will focus on the invariances relevant to eigenvectors and eigenspaces being inputs to a neural network. Such inputs are important, for instance, for graph representation learning. We will discuss targeted architectures that can universally express functions with the relevant invariances - sign flips and changes of basis - and their theoretical and empirical benefits. Second, we will take a broader, theoretical perspective. Empirically, it is known that encoding invariances into the machine learning model can reduce sample complexity. For the simplified setting of kernel ridge regression or random features, we will discuss new bounds that illustrate two ways in which invariances can reduce sample complexity. Our results hold for learning on manifolds and for invariances to (almost) any group action.</em>
+</details>
 
 **12:30–2:00 pm ET**
 
@@ -261,11 +267,12 @@ Generative models for first-principles theoretical physics calculations, Phiala 
 <em>In the context of lattice quantum field theory calculations in particle and nuclear physics, I will describe avenues to accelerate sampling from known probability distributions using machine learning. I will focus in particular on flow-based generative models, and describe how guarantees of exactness and the incorporation of complex symmetries into model architectures can be achieved. I will show the results of proof-of-principle studies that demonstrate that sampling from generative models can be orders of magnitude more efficient than traditional sampling approaches such as Hamiltonian/hybrid Monte Carlo in this context, and discuss the potential impacts of these approaches in nuclear and particle physics.</em>
 </details>
 
-**12:30–2:00 pm ET**
+**12:30–2:15 pm ET**
 
-Lunch
+Mixer Lunch
+*Lunch provided by IAIFI on site*
 
-**2:00–2:45 pm ET**
+**2:15–3:00 pm ET**
 
 Title TBA, Miranda Cheng (University of Amsterdam)
 
@@ -274,7 +281,7 @@ Title TBA, Miranda Cheng (University of Amsterdam)
 <em>Abstract to come</em>
 </details>
 
-**2:45–3:30 pm ET**
+**3:00–3:30 pm ET**
 
 Break
 
