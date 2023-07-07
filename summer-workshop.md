@@ -11,7 +11,7 @@ title:
 The IAIFI Summer Workshop brings together researchers from across Physics and AI for five days of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. 
 * **August 14–18, 2023**
 * **Northeastern University, Interdisciplinary Science and Engineering Complex**
-* **Registration deadline: July 10, 2023** 
+* **Registration deadline: July 31, 2023** 
 
 We have extended the deadline to [submit a poster](https://t.co/AmNkXRoWeg).  Submit by July 17, 2023 for full consideration!
 {:.success}

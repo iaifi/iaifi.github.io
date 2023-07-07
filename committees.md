@@ -49,7 +49,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 
 # Speaker Selection 
 * Status: Will rotate membership in Fall 2023
-* Identifies and invites speakers to the IAIFI Seminars and Colloquia and introduces speakers ad needed
+* Identifies and invites speakers to the IAIFI Seminars and Colloquia and introduces speakers as needed
 * Time Commitment: One or two two-hour meetings every semester and attendance at talks
 * 2022 Speaker Selection Committee: Cora Dvorkin (Colloquium Organizer), Demba Ba (Seminar Organizer), Dan Roberts, Di Luo, Nayantara Mudur, Arkopal Dutt
 * Primary Contacts: [Email Cora Dvorkin](cdvorkin@g.harvard.edu) or [email Demba Ba](demba@seas.harvard.edu)
