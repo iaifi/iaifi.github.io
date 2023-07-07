@@ -63,7 +63,7 @@ Students for the Summer School will have the option to reserve dorm rooms (expen
          </small>
          </div>
 	<div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
-         <em> Differential Equations and Generative Models </em> <br>
+         <em> Normalizing Flows for Lattice Field Theory </em> <br>
          </div>
          </div>
        </div>
@@ -327,11 +327,11 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 3: Differential Equations and Generative Models, Miranda Cheng
+Lecture 3: Normalizing Flows for Lattice Field Theory, Miranda Cheng
 
 <details>
 <summary>Abstract</summary>
-<em>In these lectures I will discuss the ways in which different types of differential equations are employed in generative modeling. In particular, I will review how neural ODEs provide a method to implement normalizing flows. If time permits, I will also discuss how stochastic differential equations dictate the generation process in score-based diffusion models.</em>
+<em>Normalizing flows are powerful generative models in machine learning. Lattice field theories are indispensable as a computation framework for non-perturbative quantum field theories. In lattice field theory one needs to generative sample field configurations in order to compute physical observables. In this lecture I will survey the different normalizing flow architectures and discuss how they can be exploited in lattice field theory computations.</em>
 </details>
 
 **12:00–1:00 pm ET**
@@ -340,7 +340,7 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 3: Differential Equations and Generative Models, Anindita Maiti
+Tutorial 3: Normalizing Flows for Lattice Field Theory, Anindita Maiti
 
 **3:30–4:30 pm ET**
 
