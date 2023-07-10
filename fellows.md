@@ -47,6 +47,7 @@ MIT is an equal employment opportunity employer. All qualified applicants will r
 *  *If I am chosen for the fellowship, do I need to be in the Boston area?* We expect our IAIFI Fellows to participate in the life of the institute, which includes working primarily in the Boston area. For certain life circumstances, we can be flexible, but at minimum, Fellows need to be residents of Massachusetts, as MIT will be their official employer.
 *  *Does the 2-page limit for the research statement include references?* References in the research statement are optional and will not count against the page limit. 
 *  *If I am applying to the [MIT Pappalardo Fellowship](https://physics.mit.edu/research/pappalardo-fellowships-in-physics/competition/), will that impact my application for the IAIFI Fellowship?* No, you are welcome to apply to both Fellowship opportunities and one will not impact the other. 
+*  *What is the expected salary for an IAIFI Fellow?* The salary for an IAIFI Fellow is subject to change each year and is currently around 15% higher than the [minimum postdoc salary at MIT](https://postdocs.mit.edu/about/vice-president-research-statement-salary-and-benefits). 
 
 ### Advertising the Fellowship
 We aim to spread the word about the Fellowship as widely as possible. In addition to sharing the announcement with individuals, we have posted the job in the following places:
