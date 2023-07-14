@@ -113,12 +113,50 @@ Lunch
 
 **2:00–3:00 pm ET**
 
-Contributed Talks Session I
+**Parallel Session A: Theoretical ML I**
 
 <details>
-<summary>Details</summary>
-<em>Details to come</em>
+<summary>Nu Tangent Kernels, Akshunna S. Dogra (Imperial College London)</summary>
+<em>The approximation and generalization capacity of deep learning models has been profitably leveraged across a staggeringly wide variety of tasks. In particular, appropriately initialized Neural Networks sampled from suitable functional spaces invariably find stages of exponential (or near-exponential) learning. We introduce $\nu$ - Tangent Kernels ($\nu$TKs), functional analytic objects partly inspired from the Neural Tangent Kernel (NTK), to build a generic theory for Neural Network optimization and generalization. Specifically, we prove that for a large category of well-posed and semi-well-posed problems, Neural Network based models are capable of exponentially learning the tasks at hand. Notably, these results are showcased for a much wider class of loss functions/architectures than the standard mean squared error/large width regime that is usually the focus of conventional NTK analysis, and apply to diverse practical problems solved using real networks such as differential equation solvers, shape recognition, classification, feature extraction, etc. We end by exemplifying the power of the $\nu$TK perspective by comparing expected vs empirically observed optimization profiles across different regimes.</em>
 </details>
+
+<details>
+<summary>Stochastic Collapse: How Gradient Noise Attracts SGD Dynamics Towards Simpler Subnetworks, Daniel Kunin (Stanford University)</summary>
+<em>In this work, we reveal a strong implicit bias of stochastic gradient descent (SGD) that drives overparameterized networks to much simpler subnetworks, thereby dramatically reducing the number of independent parameters, and improving generalization. To reveal this bias, we identify {\it invariant sets}, or subsets of parameter space that remain unmodified by SGD. We focus on two classes of invariant sets that correspond to simpler subnetworks and commonly appear in modern architectures. Our analysis uncovers that SGD exhibits a property of {\it stochastic attractivity} towards these simpler invariant sets. We establish a sufficient condition for stochastic attractivity based on a competition between the loss landscape's curvature around the invariant set and the noise introduced by stochastic gradients. Remarkably, we find that an increased level of noise strengthens attractivity, leading to the emergence of attractive invariant sets associated with saddle-points or local maxima of the train loss. The existence of attractive invariant sets demonstrates that SGD dynamics often collapses to simple subnetworks with either vanishing or redundant neurons. We further demonstrate how this simplifying process of {\it stochastic collapse} benefits generalization in a linear teacher-student framework. Finally, using our analysis, we mechanistically explain why early training with large learning rates for extended periods benefits subsequent generalization.</em>
+</details>
+
+<details>
+<summary>A Solvable Model of Neural Scaling Laws, Alexander Maloney (McGill University)</summary>
+<em>Large language models with a huge number of parameters, when trained on near internet-sized number of tokens, have been empirically shown to obey neural scaling laws: specifically, their performance behaves predictably as a power law in either parameters or dataset size until bottlenecked by the other resource. To understand this better, we first identify the necessary properties allowing such scaling laws to arise and then propose a statistical model -- a joint generative data model and random feature model -- that captures this neural scaling phenomenology. By solving this model in the dual limit of large training set size and large number of parameters, we gain insight into (i) the statistical structure of datasets and tasks that lead to scaling laws, (ii) the way nonlinear feature maps, such as those provided by neural networks, enable scaling laws when trained on these datasets, (iii) the optimality of the equiparameterization scaling of training sets and parameters, and (iv) whether such scaling laws can break down and how they behave when they do. Key findings are the manner in which the power laws that occur in the statistics of natural datasets are extended by nonlinear random feature maps and then translated into power-law scalings of the test loss and how the finite extent of the data's spectral power law causes the model's performance to plateau.</em>
+</details>
+
+<details>
+<summary>Grokking: a playground for future learning, Darshil Doshi (University of Maryland)</summary>
+<em>Grokking in machine learning is the phenomenon of delayed generalization; wherein the network memorizes the training data quickly, but takes a much longer training time to learn useful features and generalize. Grokking offers a unique playground to gain insight into feature learning and generalization. In my talk, I will present a minimal framework that recreates Grokking: training a 2-layer Fully-Connected Network on Modular Arithmetic data. In this setup, it is possible to write down an analytical solution that generalizes to a 100% accuracy. More excitingly, a network trained with gradient descent finds the same solution! I will discuss these special solutions and the corresponding features. Furthermore, I will describe grokking "transitions" with training time, training dataset size and model size. I will end the talk with some interesting open questions on the topic and our ongoing work.</em>
+</details>
+
+**Parallel Session B: HEP-TH x ML**
+
+<details>
+<summary>$λφ^4$ Scalar Neural Network Field Theory, Anindita Maiti (Harvard University)</summary>
+<em>Neural Network (NN) architectures at initialization define field theories. Certain large width limits of architectures result in free field theories due to Central Limit Theorem (CLT); deviations from CLT via finite width, and correlated, dissimilar NN parameters turn on field interactions. Edgeworth method provides a way to construct NN field theory actions using connected Feynman diagrams, where internal vertices correspond to connected correlators of NN field theories. Further, specific interacting field theories can be engineered via the NN parameter framework, where non-Gaussianities due to statistical independence breaking of NN parameters tune the action deformations. As an example, I will present the construction of $λφ^4$ scalar field theory in infinite width NNs.</em>
+</details>
+
+<details>
+<summary>Applying the Variational Principle to Quantum Field Theory with Neural-Networks, John Martyn (MIT)</summary>
+<em>Physicists dating back to Feynman have lamented the difficulties of applying the variational principle to quantum field theories. In non-relativistic quantum field theories, the challenge is to parameterize and optimize over the infinitely many n-particle wave functions comprising the state's Fock space representation. Here we approach this problem by introducing neural-network quantum field states, a deep learning ansatz that enables application of the variational principle to non-relativistic quantum field theories in the continuum. Our ansatz uses the Deep Sets neural network architecture to simultaneously parameterize all of the n-particle wave functions comprising a quantum field state. We employ our ansatz to approximate ground states of various field theories, including an inhomogeneous system and a system with long-range interactions, thus demonstrating a powerful new tool for probing quantum field theories.</em>
+</details>
+
+<details>
+<summary>Structures of Neural Network Effective Theories, Zhengkang Zhang (University of Utah)</summary>
+<em>We develop a diagrammatic approach to effective field theories (EFTs) corresponding to deep neural networks at initialization, which dramatically simplifies computations of finite-width corrections to neuron statistics. The structures of EFT calculations make it transparent that a single condition governs criticality of all connected correlators of neuron preactivations. Understanding of such EFTs may facilitate progress in both deep learning and field theory simulations.</em>
+</details>
+
+<details>
+<summary>Normalizing Flows for Effective String Theory, Elia Cellini (University of Turin / INFN Turin)</summary>
+<em>Effective String Theory (EST) is a non-perturbative framework used to describe confinement in Yang-Mills theory through the modeling of the interquark potential in terms of vibrating strings. An efficient numerical method to simulate such theories where analytical studies are not possible is still lacking. However, in recent years a new class of deep generative models called Normalizing Flows (NFs) has been proposed to sample lattice field theories more efficiently than traditional Monte Carlo methods. In this talk, we show a proof of concept of the application of NFs to EST regularized on the lattice. Namely, we use as case study the Nambu-Goto string in order to use the well-known analytical results of this theory as a benchmark for our methods.</em>
+</details>
+
 
 **3:00–3:30 pm ET**
 
@@ -182,11 +220,11 @@ Title TBA, Yasaman Bahri (Google Brain)
 
 **11:45 am–12:30 pm ET**
 
-Title TBA, Jascha Sohl-Dickstein (Google Brain)
+Learned optimizers: why they're the future, why they’re hard, and what they can do now, Jascha Sohl-Dickstein (Google Brain)
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>The success of deep learning has hinged on learned functions dramatically outperforming hand-designed functions for many tasks. However, we still train models using hand designed optimizers acting on hand designed loss functions. I will argue that these hand designed components are typically mismatched to the desired behavior, and that we can expect meta-learned optimizers to perform much better. I will discuss the challenges and pathologies that make meta-training learned optimizers difficult. These include: chaotic and high variance meta-loss landscapes; extreme computational costs for meta-training; lack of comprehensive meta-training datasets; challenges designing learned optimizers with the right inductive biases; challenges interpreting the method of action of learned optimizers. I will share solutions to some of these challenges. I will show experimental results where learned optimizers outperform hand-designed optimizers in many contexts, and I will discuss novel capabilities that are enabled by meta-training learned optimizers.</em>
 </details>
 
 **12:30–2:00 pm ET**
@@ -195,11 +233,48 @@ Lunch
 
 **2:00–3:00 pm ET**
 
-Contributed Talks Session II
+**Parallel Session A: HEP-EX x ML**
 
 <details>
-<summary>Details</summary>
-<em>Details to come</em>
+<summary>Is infrared-collinear safe information all you need for jet classification?, Dimitrios Athanasakos (YITP, Stony Brook)</summary>
+<em>Machine learning-based jet classifiers are able to achieve impressive tagging performance in a variety of applications in high energy and nuclear physics. However, it remains unclear in many cases which aspects of jets give rise to this discriminating power, and whether jet observables that are tractable in perturbative QCD such as those obeying infrared-collinear (IRC) safety serve as sufficient inputs. In this article, we introduce a new classifier, Jet Flow Networks (JFNs), in an effort to address the question of whether IRC unsafe information provides additional discriminating power in jet classification. JFNs are permutation-invariant neural networks (deep sets) that take as input the kinematic information of reconstructed subjets. The subjet radius serves as a tunable hyperparameter, enabling the sensitivity to soft emissions and nonperturbative effects to be gradually increased as the subjet radius is decreased. We demonstrate the performance of JFNs for quark vs. gluon and QCD vs.  � Z jet tagging. For small subjet radii, the performance of JFNs is equivalent to the IRC-unsafe Particle Flow Networks (PFNs), demonstrating that infrared-collinear unsafe information is not necessary to achieve strong discrimination for both cases. As the subjet radius is increased, the performance of the JFNs remains essentially unchanged until physical thresholds that we identify are crossed. For relatively large subjet radii, we show that the JFNs may offer an increased model independence with a modest tradeoff in performance compared to classifiers that use the full particle information of the jet. These results shed new light onto how machines learn patterns in high-energy physics data.</em>
+</details>
+
+<details>
+<summary>Machine Learning the Top Mass, Katherine Fraser (Harvard University)</summary>
+<em>Measurements in particle colliders are often done by fitting data to simulation, which depends on many parameters. For the top quark mass in particular, these physical and unphysical parameters generate a source of error that must be profiled when fitting. In this talk, we discuss several methods for reducing this source of error, including the machine-learning method DCTR and a dense linearly-activated neural network. We also compare to histogram fits commonly used in experiment.</em>
+</details>
+
+<details>
+<summary>Data-Driven Light Model for the MicroBooNE Experiment, Polina Abratenko (Tufts University)</summary>
+<em>MicroBooNE is a short baseline neutrino oscillation experiment that employs Liquid Argon Time Projection Chamber (LArTPC) technology together with an array of Photomultiplier Tubes (PMTs), which detect scintillation light. This light detection is necessary for providing a means to reject cosmic ray background and trigger on beam-related interactions. Thus, accurate modeling of the expected optical detector signal is critical. Previous light models used on MicroBooNE have been simulation-based, which limits accuracy related to certain regions of the detector as well as different data conditions during runs. We present the status of a data-driven light model that uses a neural network to map the light yield in the MicroBooNE detector, allowing for specific conditioning based on MicroBooNE data.</em>
+</details>
+
+<details>
+<summary>Using Machine Learning to Consolidate Input for DUNE’s 2x2 Prototype Near Detector, Jessie Micallef (IAIFI Fellow)</summary>
+<em>The Deep Underground Neutrino Experiment (DUNE) aims to measure neutrino properties by detecting neutrinos as they travel 1300 km from Fermilab to Sanford Underground Research Facility (SURF). Understanding the composition of the neutrino beam at Fermilab is vital to make precision measurements at SURF, and thus a prototype of the near detector will soon begin testing. The state-of-the-art near detector prototype has some challenges for reconstructing particles, such as gaps between submodules inside the prototype detector and inputs from differently designed endcap detectors. This talk will discuss work to use machine learning methods that could generate the missing signatures between submodules and detectors, along with leveraging information from the endcap detectors’ despite their different geometry and structure.</em>
+</details>
+
+**Parallel Session B: Astro x ML I**
+
+<details>
+<summary>GHDNet: A Physics-Informed Neural Network for solving hydrodynamical systems in the presence of Self-gravity, Ramit Day (Western University, Perimeter Institute)</summary>
+<em>We propose GHDNet, a PINN-based architecture to model/solve a 3D self-gravitating hydrodynamical system. In computational astrophysics, cosmology and planetary science, such systems are of fundamental importance and the non-linear interaction of fluid dynamics with gravity makes them complicated. Compared to traditional approaches such as Finite Difference (FD), we show that PINNs being mesh-free, is a promising alternative, circumventing various limitations of the FD method. We present case studies where PINNs can trace the exponential growth of density due to gravitational instability in an efficient way while providing a more flexible, adaptable and scalable framework. We observe that for the 3D hydrodynamic simulations the runtime is ~10 times less compared to FD. Interestingly, GHDNet can predict accurate solutions well beyond the training domain.  Further, the accuracy of the model, both in terms of training loss as well as the deviation from the FD solution is analysed for a wide range of model parameters and a possible scaling law for PINNs is speculated.</em>
+</details>
+
+<details>
+<summary>Leveraging Machine Learning for Retrieving Exoplanet Atmosphere Parameters from Low-Resolution Spectra, Cecilia Garraffo (AstroAI - CfA Harvard & Smithsonian)</summary>
+<em>The study of exoplanet atmospheres plays a vital role in understanding their composition. However, extracting accurate atmospheric parameters from transmission spectra poses significant challenges. Bayesian sampling algorithms, although effective, can be time-consuming and laborious. As an alternative, machine learning techniques offer promising avenues to expedite and enhance this process.  At the AstroAI group, Center for Astrophysics | Harvard & Smithsonian, we focus on developing AI-based solutions to address astrophysics challenges.  In this presentation I will discuss a new model to retrieve the atmospheric parameters of Earth-sized rocky exoplanets observed with the JWST NIRSpec instrument using machine learning techniques. To tackle this task, we put together an interdisciplinary team of experts in Machine Learning, Astronomy, Molecular Spectroscopy, and Exoplanetary Research. In addition, I will discuss our results in the ARIEL data challenge organized by the European Space Agency (ESA), which paves the way for analyzing data from the upcoming ARIEL space telescope.  I will show the results of two different AI techniques: semi-supervised autoencoders and normalising flows. With the first we retrieve credible atmospheric parameters while simultaneously providing a fast estimator of radiative transfer. The second allows us to generate probability distributions of the parameters for each observed spectrum, and thus gain valuable insights into the plausible compositions for each specific spectrum.   Through this interdisciplinary approach that merges astrophysics and machine learning, we aim to advance our understanding of exoplanet atmospheres. Our research showcases the capabilities of AI tools to revolutionize the analysis of exoplanetary data, preparing the ground for more efficient and accurate characterization of exoplanets in the future.</em>
+</details>
+
+<details>
+<summary>Generating images of the M87* black hole using GANs, Arya Mohan (AstroAI - Texas Tech)</summary>
+<em>Recently, AstroAI has been developing imaging computer vision algorithms to accomplish a series of tasks, including direct inference on the physical parameters of Black Holes, in collaboration with the Event Horizon Telescope (EHT).  In this talk I will present a novel data augmentation methodology based on Conditional Progressive Generative Adversarial Networks (CPGAN) to generate diverse black hole (BH) images, accounting for variations in spin and electron temperature prescriptions. These generated images are valuable resources for training deep learning algorithms to accurately estimate black hole parameters from observational data. Our model can generate BH images for any spin value within the range of [-1, 1], given an electron temperature distribution. To validate the effectiveness of our approach, we employ a convolutional neural network to predict the BH spin using both the GRMHD images and the images generated by our proposed model. Our results demonstrate a significant performance improvement when training is conducted with the augmented dataset while testing is performed using GRMHD simulated data, as indicated by the high $R^2$ score. In this talk, I will discuss how employing GANs as cost-effective models for black hole image generation can reliably augment training datasets for other parameterization algorithms.</em>
+</details>
+
+<details>
+<summary>Applications of Autoencoders to Spectral and Timing Data for Black-Hole X-ray Binary Systems, Thaddeus Kiker(AstroAI - Columbia University)</summary>
+<em>Recently, AstroAI has been developing imaging computer vision algorithms to accomplish a series of tasks, including direct inference on the physical parameters of Black Holes, in collaboration with the Event Horizon Telescope (EHT).  In this talk I will present a novel data augmentation methodology based on Conditional Progressive Generative Adversarial Networks (CPGAN) to generate diverse black hole (BH) images, accounting for variations in spin and electron temperature prescriptions. These generated images are valuable resources for training deep learning algorithms to accurately estimate black hole parameters from observational data. Our model can generate BH images for any spin value within the range of [-1, 1], given an electron temperature distribution. To validate the effectiveness of our approach, we employ a convolutional neural network to predict the BH spin using both the GRMHD images and the images generated by our proposed model. Our results demonstrate a significant performance improvement when training is conducted with the augmented dataset while testing is performed using GRMHD simulated data, as indicated by the high $R^2$ score. In this talk, I will discuss how employing GANs as cost-effective models for black hole image generation can reliably augment training datasets for other parameterization algorithms.</em>
 </details>
 
 **3:00–3:30 pm ET**
@@ -296,7 +371,7 @@ Renormalizing Diffusion Models, Semon Rezchikov (Princeton)
 
 **4:15–5:00 pm ET**
 
-Renormalisation and Inference, David Berman (Queen Mary University/Cambridge Consultants
+Renormalisation and Inference, David Berman (Queen Mary University/Cambridge Consultants)
 
 <details>
 <summary>Abstract</summary>
@@ -352,11 +427,43 @@ Lunch
 
 **2:00–3:00 pm ET**
 
-Contributed Talks Session III
+**Parallel Session A: Astro x ML II**
 
 <details>
-<summary>Details</summary>
-<em>Details to come</em>
+<summary>Using Neural Networks to detect Dark Star Candidates in the Early Universe, Sayed Shafaat Mahmud (Colgate University)</summary>
+<em>Dark Stars, hypothesized to have formed during the cosmic dawn era,  are unique stellar objects that utilize dark matter annihilation as their primary source of energy against gravitational collapse. These stars can reach immense sizes, growing to millions of times the mass of our Sun, and possess luminosities on the order of trillion times that of the Sun. Dark Stars, powered by dark matter, have limited lifespans and may ultimately evolve into supermassive black holes. As such, Supermassive Dark Stars can be the precursors to the many observed supermassive black holes at high redshift, which remains an open question, many years after their discovery.  With the advent of the James Webb Space Telescope (JWST), we are now observing photometric data of too many, too massive, galaxy candidates too early in the universe. Motivated by recent findings by Ilie, Paulin, and Freese 2023 (PNAS submitted), who identified the first three Supermassive Dark Star candidates, our study aims to identify many more such candidates in the JWST data. To accomplish this, we will use a ‘two-step’ Neural network approach that trains using ~100,000 TLUSTY simulated spectra and identifies dark star candidates based on publicly available photometric data of high redshift objects found with JWST. As a validation of our method, we independently re-identified JADES-GS-z13-0, JADES-GS-z12-0, and JADES-GS-z11-0 as Dark Star candidates, as those found via a different approach in Ilie, Paulin, and Freese 2023.    Our study presents a novel application of neural networks in the detection of Dark Star candidates. The results from our analysis demonstrate the potential of neural networks in accurately predicting the crucial parameters associated with Dark Stars. This study contributes to our understanding of early universe astrophysics and aids in the identification of elusive Dark Star objects, shedding light on the complex interplay between dark matter and stellar evolution.</em>
+</details>
+
+<details>
+<summary>Mapping Dark Matter in the Milky Way using Normalizing Flows and Gaia DR3, Sung Has Lim (Rutgers University)</summary>
+<em>We present a novel, data-driven analysis of Galactic dynamics, using unsupervised machine learning -- in the form of density estimation with normalizing flows -- to learn the underlying phase space distribution of 6 million nearby stars from the Gaia DR3 catalog. Solving the collisionless Boltzmann equation with the assumption of approximate equilibrium, we calculate -- for the first time ever -- a model-free, unbinned, fully 3D map of the local acceleration and mass density fields within a 3 kpc sphere around the Sun. As our approach makes no assumptions about symmetries, we can test for signs of disequilibrium in our results. We find our results are consistent with equilibrium at the 10% level, limited by the current precision of the normalizing flows. After subtracting the known contribution of stars and gas from the calculated mass density, we find clear evidence for dark matter throughout the analyzed volume. Assuming spherical symmetry and averaging mass density measurements, we find a local dark matter density of 0.47±0.05GeV/cm3. We fit our results to a generalized NFW, and find a profile broadly consistent with other recent analyses.</em>
+</details>
+
+<details>
+<summary>LenSiam: Self-Supervised Learning on Strong Gravitational Lens Images, Joshua Yao-Yu Lin (Prescient Design/Genentech)</summary>
+<em>Self-supervised learning has been known for learning good representations from data without annotated labels. We explore the simple siamese (SimSiam) architecture for representation learn- ing on strong gravitational lens images. Com- monly used image augmentations tend to change lens properties; for example, zoom-in would af- fect the Einstein radius. To create image pairs representing the same underlying lens model, we introduce a lens augmentation method to preserve lens properties by fixing the lens model while varying the source galaxies. Our research demon- strates this lens augmentation works well with SimSiam for learning the lens image representa- tion without labels, so we name it LenSiam. We also show that a pre-trained LenSiam model can benefit downstream tasks. We plan to open-source our code and datasets.</em>
+</details>
+
+**Parallel Session B: Theoretical ML II**
+
+<details>
+<summary>Noisy dynamical systems evolve error correcting codes and modularity, Trevor McCourt (MIT/IAIFI)</summary>
+<em>Noise is a ubiquitous feature of the physical world. As a result, the first prerequisite of life is fault tolerance: maintaining integrity of state despite external bombardment. Recent experimental advances have revealed that biological systems achieve fault tolerance by implementing mathematically intricate error-correcting codes and by organizing in a modular fashion that physically separates functionally distinct subsystems. These elaborate structures represent a vanishing volume in the massive genetic configuration space. How is it possible that the primitive process of evolution, by which all biological systems evolved, achieved such unusual results? In this work, through experiments in Boolean networks, we show that the simultaneous presence of error correction and modularity in biological systems is no coincidence. Rather, it is a typical co-occurrence in noisy dynamic systems undergoing evolution. From this, we deduce the principle of error correction enhanced evolvability: systems possessing error-correcting codes are more effectively improved by evolution than those without.</em>
+</details>
+
+<details>
+<summary>Multi-modal Contrastive Learning for Robust Text Representation Classification, Mitra Tajrobehkar (vertical oceans pte ltd)</summary>
+<em>Contrastive representation learning has emerged as a powerful technique in both Computer Vision (CV) and Natural Language Processing (NLP) domains, enabling the acquisition of practical and meaningful representations from text data. This talk will explore the captivating realm of contrastive representation learning in NLP, investigating its underlying principles and applications in tasks such as question answering. We will delve into the remarkable success of contrastive learning in enhancing language understanding, transfer learning, and domain adaptation in NLP tasks. Additionally, we will address the challenges associated with training language models, including limitations arising from data scarcity and bias. Join us to discover the potential of contrastive representation learning in advancing the capabilities of pre-trained language models.</em>
+</details>
+
+<details>
+<summary>High-Dimensional Asymptotics of Feature Learning in the Early Phase of Neural Network Training, Zhichao Wang (UC San Diego)</summary>
+<em>In this talk, I will present a recent application of random matrix theory in deep learning theory. We aim to show the benefit of feature learning due to gradient descent training of the first-layer parameters in a two-layer neural network where all the weight matrices are randomly initialized, and the training objective is the empirical MSE loss. We consider the ``early phase'' of learning in the proportional asymptotic limit, where all the dimensions go to infinity proportionally, and the number of gradient steps remains finite. In an idealized student-teacher setting, we show that gradient updates in the early phase result in a spiked random matrix model, which leads to an alignment between the first-layer weights and the teacher model. To quantify the impact of this alignment, we compute the asymptotic prediction risk of ridge regression on the trained features, which is determined by the Stieltjes transform of the limiting spectrum of the certain kernel random matrix. For a small learning rate, we establish a Gaussian equivalence property for the trained feature map and prove that the trained feature improves upon the initial random features model, but cannot defeat the best linear model on the input after finitely many gradient steps. Whereas for a sufficiently large learning rate, I will show that even after one gradient step, the same ridge estimator on trained features can go beyond this ``linear regime''. The talk is based on joint work with Jimmy Ba, Murat A. Erdogdu, Taiji Suzuki, Denny Wu,  and Greg Yang (arXiv:2205.01445).</em>
+</details>
+
+<details>
+<summary>Adaptive active Brownian particles searching for targets of unknown positions, Harpreet Kaur (University of Innsbruck)</summary>
+<em>Developing behavioral policies designed to efficiently solve target-search problems is a crucial issue both in nature and in the nanotechnology of the 21st century. Here, we characterize the target-search strategies of simple microswimmers in a homogeneous environment containing sparse targets of unknown positions. The microswimmers are capable of controlling their dynamics by switching between Brownian motion and an active Brownian particle and by selecting the time duration of each of the two phases. The specific conduct of a single microswimmer depends on an internal decision-making process determined by a simple neural network associated with the agent itself. Starting from a population of individuals with random behavior, we exploit the genetic algorithm NeuroEvolution of Augmenting Topologies to show how an evolutionary pressure based on the target-search performances of single individuals helps to find the optimal duration of the two different phases. Our findings reveal that the optimal policy strongly depends on the magnitude of the particle’s self-propulsion during the active phase and that a broad spectrum of network topology solutions exists, differing in the number of connections and hidden nodes.</em>
 </details>
 
 **3:00–3:30 pm ET**
@@ -418,11 +525,11 @@ AI-assisted sensing & control at gravitational wave observatories, Nikhil Mukund
 
 **11:45 am–12:30 pm ET**
 
-TBA
+Many body physics meets artificial intelligence, Di Luo (IAIFI Fellow)
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>In this talk, we will discuss the interaction between many-body physics and artificial intelligence. The advancement of artificial intelligence provides powerful tools for simulating many-body physics systems, ranging from high energy physics, condensed matter physics to quantum chemistry. Meanwhile, the many-body physics principles also inspire the development of AI and robotics, including generative models and robot planning.</em>
 </details>
 
 **12:30–2:00 pm ET**
@@ -610,6 +717,18 @@ The following speakers have accepted invitations to give plenary talks at this y
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Senior Lecturer/Associate Professor, Uppsala University </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-di-luo.jpg" alt="Di Luo" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://scholar.google.com/citations?user=OxZytTQAAAAJ">Di Luo</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> IAIFI Fellow </em> <br>
          </div>
          </div>
        </div>
