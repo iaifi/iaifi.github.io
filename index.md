@@ -36,10 +36,10 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
-***Philip Harris, MIT Assistant Professor and IAIFI Senior Investigator, named MIT Teaching With Digital Technology Awards winner***: The award recognizes Phil for effectively using digital technology to improve teaching and learning at MIT. Read [MIT Open Learning News about Philip Harris](https://openlearning.mit.edu/news/2023-mit-teaching-digital-technology-awards#:~:text=MIT%27s%20Teaching%20with%20Digital%20Technology,teaching%20and%20learning%20at%20MIT). *June 21, 2023*
+***Philip Harris, MIT Assistant Professor and IAIFI Senior Investigator, earns MIT Teaching With Digital Technology Award***: The student-nominated award recognizes Phil for effectively using digital technology to improve teaching and learning at MIT. Read [about the 2023 winners](https://openlearning.mit.edu/news/2023-mit-teaching-digital-technology-awards). *June 21, 2023*
 {:.info}
 
-***Marisa LaFleur, IAIFI Project Manager, awarded MIT Infinite Mile Award***: The award recognizes Marisa's dedication and contribution to the School of Science and to IAIFI, and for always going above and beyond to IAIFI a better place. Read [MIT Newsletter on Marisa LaFleur ](https://news.mit.edu/2023/school-science-infinite-mile-awards-0515). *May 15, 2023*
+***Marisa LaFleur, IAIFI Project Manager, awarded MIT Infinite Mile Award***: The award recognizes Marisa's dedication and contribution to the School of Science and to IAIFI. Read [about the 2023 winners](https://news.mit.edu/2023/school-science-infinite-mile-awards-0515). *May 15, 2023*
 {:.info}
 
 ***Justin Solomon, MIT Associate Professor and IAIFI Affiliate, named Edgerton Award winner***: The award recognizes Justin's exceptional distinction in teaching, research, and service at MIT. Read [MIT Newsletter profile on Justin Solomon](https://news.mit.edu/2023/ellen-roche-justin-solomon-edgerton-award-winners-0419). *April 19, 2023*
