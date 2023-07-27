@@ -67,11 +67,11 @@ Welcome/Introduction
 
 **9:00 am–9:45 am ET**
 
-Learning to Break Symmetry with Symmetry Preserving Neural Networks, Tess Smidt (MIT/IAIFI)
+Intuition for the Data Types and Interactions in Euclidean Neural Networks, Tess Smidt (MIT/IAIFI)
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>3D Euclidean symmetry-equivariant neural networks (E(3)NNs) are emerging as an effective machine learning paradigm in molecular modeling, protein design, computer graphics, and beyond. In this talk, I'll discuss the fundamental building blocks of E(3)NNs and how these pieces are combined to create the growing zoo of E(3)NNs available today.</em>
 </details>
 
 **9:45–10:30 am ET**
@@ -89,11 +89,12 @@ Break
 
 **11:00–11:45 am ET**
 
-Variational Monte Carlo with Large Patched Transformers, Stef Czischek (University of Ottawa)
+
+Title TBA, Yasaman Bahri (Google Brain)
 
 <details>
 <summary>Abstract</summary>
-<em>Large language models, like transformers, have recently demonstrated immense powers in text and image generation. This success is driven by the ability to capture long-range correlations between elements in a sequence. The same feature makes the transformer a powerful wavefunction ansatz that addresses the challenge of describing correlations in simulations of qubit systems. In this talk I consider two-dimensional Rydberg atom arrays to demonstrate that transformers reach higher accuracies than conventional recurrent neural networks for variational ground state searches. I further introduce large, patched transformer models, which consider a sequence of large atom patches, and show that this architecture significantly accelerates the simulations.</em>
+<em>Abstract to come</em>
 </details>
 
 
@@ -210,13 +211,12 @@ Break
 
 **11:00–11:45 am ET**
 
-Title TBA, Yasaman Bahri (Google Brain)
+Variational Monte Carlo with Large Patched Transformers, Stef Czischek (University of Ottawa)
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Large language models, like transformers, have recently demonstrated immense powers in text and image generation. This success is driven by the ability to capture long-range correlations between elements in a sequence. The same feature makes the transformer a powerful wavefunction ansatz that addresses the challenge of describing correlations in simulations of qubit systems. In this talk I consider two-dimensional Rydberg atom arrays to demonstrate that transformers reach higher accuracies than conventional recurrent neural networks for variational ground state searches. I further introduce large, patched transformer models, which consider a sequence of large atom patches, and show that this architecture significantly accelerates the simulations.</em>
 </details>
-
 
 **11:45 am–12:30 pm ET**
 
@@ -307,7 +307,7 @@ The Strengths and Limitations of Equivariant Neural Networks, Robin Walters (Nor
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Despite the success of deep learning, there remain challenges to progress including dataset size, generalization, and lack of guarantees.  Incorporating symmetry into neural networks gives equivariant neural networks (ENN) which have helped address these challenges. I will discuss several dynamics applications, such as trajectory prediction, ocean currents, and robotics. However, there are also limits to the effectiveness of ENNs. In many applications where symmetry is only approximate or does apply across the entire input distribution, equivariance may hurt model performance.  I will discuss recent work characterizing errors resulting from mismatched symmetry biases which can be used for model selection.</em>
 </details>
 
 **9:45–10:30 am ET**
@@ -329,7 +329,7 @@ Diffusion Generative Models in Collider Physics, Vinicius Mikuni (NERSC)
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Generative models are are used in collider physics for a multitude of different tasks, including fast surrogate models for detector simulation, anomaly detection of new physics processes, and full event interpretation. In particular, diffusion models are becoming popular for different physics tasks due to high fidelity generation and flexible architecture design. In this talk, I will introduce different applications of diffusion models in collider physics and how physics knowledge is incorporated to create more performant models.</em>
 </details>
 
 
@@ -395,7 +395,7 @@ Machine learning Calabi Yau metrics, Magdalena Larfors (Uppsala University)
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Calabi Yau (CY) manifolds are used ubiquitously in research on string theory. Since decades, these spaces have provided the main avenue to connect string theory with observable physics. A stumbling block in these constructions is the lack of an analytical expression for the CY metrics. In this talk I will review recent work on obtaining numerical approximations of CY metrics using machine learning, and the prospects such metrics may have in furthering string theory research.</em>
 </details>
 
 **10:30–11:00 am ET**
@@ -408,7 +408,7 @@ Learning BPS spectra, Sergei Gukov (California Institute of Technology)
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Spectra of states and operators are the key data of quantum field theories in any dimension and with any amount of supersymmetry. In this talk, we will consider an infinite family of strongly coupled 3d supersymmetric theories labeled by graphs that at present time do not admit a UV Lagrangian description. Spectra of supersymmetric (BPS) states in such theories relate to equally mysterious modular properties of the corresponding generating functions. We shall see how machine learning can help us unveil some of these mysteries. Based on joint work with Rak-Kyeong Seong.</em>
 </details>
 
 
@@ -476,7 +476,7 @@ Machine Learning for Fundamental Physics: From the Smallest to the Largest Scale
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>What new particles and interactions exist beyond the Standard Model? What is the nature of dark matter? What is the origin of the universe? Essential questions of fundamental physics such as these are being confronted with an unprecedented amount of high quality data from the LHC and astronomical surveys. Powerful and cross-cutting machine learning techniques such as generative modeling, density estimation and anomaly detection are increasingly being applied to these datasets, vastly enhancing their discovery potential. In my talk, I will showcase some highlights from this ongoing machine learning revolution that span the range from the smallest scales (LHC data) to the largest scales (astronomical data). I will describe how new techniques developed for model-independent new physics searches and fast simulation at the LHC can also be applied to data from the Gaia space telescope to map out the Milky Way dark matter density, discover new stellar streams, and upsample galaxy simulations.</em>
 </details>
 
 **4:15–5:00 pm ET**
