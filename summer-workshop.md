@@ -542,7 +542,7 @@ Symbolic Distillation of Neural Networks for New Physics Discovery, Miles Cranme
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Would Kepler have discovered his laws if machine learning had been around in 1609? Or would he have been satisfied with the accuracy of some black box regression model, leaving Newton without the inspiration to find the law of gravitation? In this talk we will consider the incompatibility between physical interpretation and black box machine learning. I will present a technique termed "symbolic distillation" that promises to bridge the divide, using symbolic regression as a tool for "translating" concepts to a mathematical language. I will also review various applications of this technique, from cosmology, to turbulence, to even economics.</em>
 </details>
 
 **2:45–3:30 pm ET**
