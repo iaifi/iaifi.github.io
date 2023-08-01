@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Hierarchical Neural Simulation-Based Inference Over Event Ensembles"
+authors: Lukas Heinrich, Siddharth Mishra-Sharma, Chris Pollard, Philipp Windischhofer
+abstract: When analyzing real-world data it is common to work with event ensembles, which comprise sets of observations that collectively constrain the parameters of an underlying model of interest. Such models often have a hierarchical structure, where "local" parameters impact individual events and "global" parameters influence the entire dataset. We introduce practical approaches for optimal dataset-wide probabilistic inference in cases where the likelihood is intractable, but simulations can be realized via forward modeling. We construct neural estimators for the likelihood(-ratio) or posterior and show that explicitly accounting for the model's hierarchical structure can lead to tighter parameter constraints. We ground our discussion using case studies from the physical sciences, focusing on examples from particle physics (particle collider data) and astrophysics (strong gravitational lensing observations).
+arxiv: "2306.12584"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

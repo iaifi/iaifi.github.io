@@ -185,7 +185,7 @@ Poster Session
 Welcome Dinner
 
 
-### Tuesday, August 8, 2023
+### Tuesday, August 15, 2023
 
 **9:00 am–9:45 am ET**
 
@@ -299,7 +299,7 @@ Architecture Selection and Initialization for Graph Neural Networks, Boris Hanin
 <em>Graph neural networks (GNNs) are an important class of machine learning models designed for learning from graph-structured datasets, such as those from high energy physics, chemistry, genomics/genetics, and so on. In this talk, I will discuss recent work, joint with Gage DeZoort, in which we theoretically derive and empirically validate principles for architecture selection and initialization schemes in GNNs that provably avoid a range of common failure modes early in training.</em>
 </details>
 
-### Wednesday, August 9, 2023
+### Wednesday, August 16, 2023
 
 **9:00 am–9:45 am ET**
 
@@ -378,7 +378,7 @@ Renormalisation and Inference, David Berman (Queen Mary University/Cambridge Con
 <em>This talk will describe the link between exact renormalisation group flow and statistical inference. The basic idea being that inference incorporates data into a model while renormalisation throws information away.</em>
 </details>
 
-### Thursday, August 10, 2023
+### Thursday, August 17, 2023
 
 **9:00 am–9:45 am ET**
 
@@ -489,7 +489,7 @@ Improving Energy Conserving Descent Optimization: Theory to Practice, Eva Silver
 </details>
 
 
-### Friday, August 11, 2023
+### Friday, August 18, 2023
 
 **9:00 am–9:45 am ET**
 

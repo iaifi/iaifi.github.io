@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Score-based Diffusion Models for Generating Liquid Argon Time Projection Chamber Images"
+authors: Zeviel Imani, Shuchin Aeron, Taritree Wongjirad
+abstract: We show for the first time, high-fidelity generation of LArTPC-like data using a generative neural network. This demonstrates that methods developed for natural images do transfer to LArTPC-produced images which in contrast to natural images are globally sparse, but locally dense. We present the method we employ, which is a variant of score-based generative diffusion models. We evaluate the fidelity of the generated images using several different approaches that include using a variant of measures used to evaluate natural images, comparisons between high-dimensional distributions, and comparisons relevant to LArTPC experiments.
+arxiv: "2307.13687"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date:

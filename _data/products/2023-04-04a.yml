@@ -3,7 +3,7 @@ iaifi-thrust: T
 title: "Autoregressive Neural TensorNet: Bridging Neural Networks and Tensor Networks for Quantum Many-Body Simulationg"
 authors: Zhuo Chen, Laker Newhouse, Eddie Chen, Di Luo, Marin Soljačić
 abstract: 'Quantum many-body physics simulation has important impacts on understanding fundamental science and has applications to quantum materials design and quantum technology. However, due to the exponentially growing size of the Hilbert space with respect to the particle number, a direct simulation is intractable. While representing quantum states with tensor networks and neural networks are the two state-of-the-art methods for approximate simulations, each has its own limitations in terms of expressivity and optimization. To address these challenges, we develop a novel architecture, Autoregressive Neural TensorNet (ANTN), which bridges tensor networks and autoregressive neural networks. We show that Autoregressive Neural TensorNet parameterizes normalized wavefunctions with exact sampling, generalizes the expressivity of tensor networks and autoregressive neural networks, and inherits a variety of symmetries from autoregressive neural networks. We demonstrate our approach on the 2D J1-J2 Heisenberg model with different systems sizes and coupling parameters, outperforming both tensor networks and autoregressive neural networks. Our work opens up new opportunities for both scientific simulations and machine learning applications.'
-arxiv: "arXiv:2304.01996"
+arxiv: "2304.01996"
 journal: 
 doi: 
 nsf-par:
