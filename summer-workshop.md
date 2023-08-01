@@ -519,7 +519,8 @@ AI-assisted sensing & control at gravitational wave observatories, Nikhil Mukund
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Gravitational waves (GWs) from astrophysical events merging black holes and neutron stars cause tiny perturbations in our spacetime fabric and can be detected using sensitive detectors like Advanced LIGO. Our ability to detect these elusive signals, especially the fainter ones from the earlier universe, depends on optimal sensing and control of GW interferometers. These observatories strive to find the proper equilibrium between maintaining a stable operating point for optimal sensitivity and continuously innovating to expand their astrophysical reach. The cross-coupled nature of the sub-systems involved in such optomechanical experiments, combined with the non-stationary nature of the ambient environment, often makes the task daunting. In this talk, I will discuss the potential of using deep neural systems for improved sensing and control at these observatories. I will highlight our recent successes in deploying deep reinforcement learning-based decision-making systems and discuss embedded machine learning for high bandwidth MIMO control. I will mention the challenges we encounter in deploying neural systems for temporarily varying complex systems and why tackling these issues would be crucial for next-generation GW detectors like Cosmic Explorer and Einstein Telescope.
+</em>
 </details>
 
 
