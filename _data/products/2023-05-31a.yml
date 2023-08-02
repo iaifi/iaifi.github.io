@@ -3,7 +3,7 @@ iaifi-thrust: A
 title: "Discovering New Interpretable Conservation Laws as Sparse Invariants"
 authors: Ziming Liu, Patrick Obin Sturm, Saketh Bharadwaj, Sam Silva, Max Tegmark
 abstract: 'Discovering conservation laws for a given dynamical system is important but challenging. In a theorist setup (differential equations and basis functions are both known), we propose the Sparse Invariant Detector (SID), an algorithm that auto-discovers conservation laws from differential equations. Its algorithmic simplicity allows robustness and interpretability of the discovered conserved quantities. We show that SID is able to rediscover known and even discover new conservation laws in a variety of systems. For two examples in fluid mechanics and atmospheric chemistry, SID discovers 14 and 3 conserved quantities, respectively, where only 12 and 2 were previously known to domain experts.'
-arxiv: "arXiv:2305.19525"
+arxiv: "2305.19525"
 journal: 
 doi: 
 nsf-par:

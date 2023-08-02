@@ -185,7 +185,7 @@ Poster Session
 Welcome Dinner
 
 
-### Tuesday, August 8, 2023
+### Tuesday, August 15, 2023
 
 **9:00 am–9:45 am ET**
 
@@ -299,7 +299,7 @@ Architecture Selection and Initialization for Graph Neural Networks, Boris Hanin
 <em>Graph neural networks (GNNs) are an important class of machine learning models designed for learning from graph-structured datasets, such as those from high energy physics, chemistry, genomics/genetics, and so on. In this talk, I will discuss recent work, joint with Gage DeZoort, in which we theoretically derive and empirically validate principles for architecture selection and initialization schemes in GNNs that provably avoid a range of common failure modes early in training.</em>
 </details>
 
-### Wednesday, August 9, 2023
+### Wednesday, August 16, 2023
 
 **9:00 am–9:45 am ET**
 
@@ -378,7 +378,7 @@ Renormalisation and Inference, David Berman (Queen Mary University/Cambridge Con
 <em>This talk will describe the link between exact renormalisation group flow and statistical inference. The basic idea being that inference incorporates data into a model while renormalisation throws information away.</em>
 </details>
 
-### Thursday, August 10, 2023
+### Thursday, August 17, 2023
 
 **9:00 am–9:45 am ET**
 
@@ -485,11 +485,11 @@ Improving Energy Conserving Descent Optimization: Theory to Practice, Eva Silver
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Standard gradient-based optimization and sampling methods employ frictional and/or thermal dynamics on the loss landscape. We develop a novel framework based on energy-conserving chaotic Hamiltonian dynamics.  Using the formulas derived from energy conservation for phase space measure and speed, we engineer separable Hamiltonians whose measure on the target (parameter) space reproduces the desired sampling or optimization objective.    This predicts nontrivial functional relations among hyper-parameters, greatly reducing their tuning.  Empirically, the sampler MCHMC/MCLMC outperforms HMC on various benchmarks (and recent CMB analyses by others).  ECD optimization matches or improves upon the better of Adam(W) and SGD on varied benchmarks, with new theoretical calculations driving stronger systematic improvements.</em>
 </details>
 
 
-### Friday, August 11, 2023
+### Friday, August 18, 2023
 
 **9:00 am–9:45 am ET**
 
@@ -519,7 +519,8 @@ AI-assisted sensing & control at gravitational wave observatories, Nikhil Mukund
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Gravitational waves (GWs) from astrophysical events merging black holes and neutron stars cause tiny perturbations in our spacetime fabric and can be detected using sensitive detectors like Advanced LIGO. Our ability to detect these elusive signals, especially the fainter ones from the earlier universe, depends on optimal sensing and control of GW interferometers. These observatories strive to find the proper equilibrium between maintaining a stable operating point for optimal sensitivity and continuously innovating to expand their astrophysical reach. The cross-coupled nature of the sub-systems involved in such optomechanical experiments, combined with the non-stationary nature of the ambient environment, often makes the task daunting. In this talk, I will discuss the potential of using deep neural systems for improved sensing and control at these observatories. I will highlight our recent successes in deploying deep reinforcement learning-based decision-making systems and discuss embedded machine learning for high bandwidth MIMO control. I will mention the challenges we encounter in deploying neural systems for temporarily varying complex systems and why tackling these issues would be crucial for next-generation GW detectors like Cosmic Explorer and Einstein Telescope.
+</em>
 </details>
 
 
@@ -542,7 +543,7 @@ Symbolic Distillation of Neural Networks for New Physics Discovery, Miles Cranme
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Would Kepler have discovered his laws if machine learning had been around in 1609? Or would he have been satisfied with the accuracy of some black box regression model, leaving Newton without the inspiration to find the law of gravitation? In this talk we will consider the incompatibility between physical interpretation and black box machine learning. I will present a technique termed "symbolic distillation" that promises to bridge the divide, using symbolic regression as a tool for "translating" concepts to a mathematical language. I will also review various applications of this technique, from cosmology, to turbulence, to even economics.</em>
 </details>
 
 **2:45–3:30 pm ET**

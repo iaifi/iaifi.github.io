@@ -3,7 +3,7 @@ iaifi-thrust: E
 title: "Via Machinae 2.0: Full-Sky, Model-Agnostic Search for Stellar Streams in Gaia DR2"
 authors: David Shih, Matthew R. Buckley, Lina Necib
 abstract: 'We present an update to Via Machinae, an automated stellar stream-finding algorithm based on the deep learning anomaly detector ANODE. Via Machinae identifies stellar streams within Gaia, using only angular positions, proper motions, and photometry, without reference to a model of the Milky Way potential for orbit integration or stellar distances. This new version, Via Machinae 2.0, includes many improvements and refinements to nearly every step of the algorithm, that altogether result in more robust and visually distinct stream candidates than our original formulation. In this work, we also provide a quantitative estimate of the false positive rate of Via Machinae 2.0 by applying it to a simulated Gaia-mock catalog based on Galaxia, a smooth model of the Milky Way that does not contain substructure or stellar streams. Finally, we perform the first full-sky search for stellar streams with Via Machinae 2.0, identifying 102 streams at high significance within the Gaia Data Release 2, of which only 10 have been previously identified. While follow-up observations for further confirmation are required, taking into account the false positive rate presented in this work, we expect approximately 90 of these stream candidates to correspond to real stellar structures.'
-arxiv: "arXiv:2303.01529"
+arxiv: "2303.01529"
 journal: 
 doi: 
 nsf-par:
