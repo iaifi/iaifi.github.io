@@ -132,7 +132,7 @@ Lunch
 </details>
 
 <details>
-<summary>Grokking: a playground for future learning, Darshil Doshi (University of Maryland)</summary>
+<summary>Grokking: a playground for feature learning, Darshil Doshi (University of Maryland)</summary>
 <em>Grokking in machine learning is the phenomenon of delayed generalization; wherein the network memorizes the training data quickly, but takes a much longer training time to learn useful features and generalize. Grokking offers a unique playground to gain insight into feature learning and generalization. In my talk, I will present a minimal framework that recreates Grokking: training a 2-layer Fully-Connected Network on Modular Arithmetic data. In this setup, it is possible to write down an analytical solution that generalizes to a 100% accuracy. More excitingly, a network trained with gradient descent finds the same solution! I will discuss these special solutions and the corresponding features. Furthermore, I will describe grokking "transitions" with training time, training dataset size and model size. I will end the talk with some interesting open questions on the topic and our ongoing work.</em>
 </details>
 
@@ -366,7 +366,7 @@ Renormalizing Diffusion Models, Semon Rezchikov (Princeton)
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>We present a method for learning the renormalization group flow of lattice field theories in the context of flow-based approaches to sampling. The exact renormalization group is associated to a stochastic differential equation on the space of fields. Using this observation, one can design ML models of conventional form as those used in generative modeling for images, but for the learned flow, and in some cases the learned network parameters themselves, have a physical interpretation. We will discuss theory and numerical experiments, as well as potential applications. Based on joint work with Jordan Cotler.</em>
 </details>
 
 **4:15–5:00 pm ET**
