@@ -346,6 +346,10 @@ Tutorial 3: Normalizing Flows for Lattice Field Theory, Anindita Maiti
 
 Career Panel, Panelists TBA (Optional)
 
+**6:00–8:00 pm ET**
+
+Social Event with IAIFI members
+
 ### Thursday, August 10, 2023
 
 **9:00–9:30 am ET**
