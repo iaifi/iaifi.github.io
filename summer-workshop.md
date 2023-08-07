@@ -282,7 +282,7 @@ From inference to discovery with AI in the physical sciences, Ben Wandelt (Sorbo
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>I will discuss machine learning approaches to Bayesian Inference and model comparison that are transforming the way we study the universe and its initial conditions with computational models.</em>
 </details>
 
 **4:15–5:00 pm ET**
@@ -413,7 +413,7 @@ Learning from Topology: Cosmological Parameter Inference from the Large-scale St
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>A challenge common to different scientific areas is to effectively infer from big, complex, higher-dimensional datasets the underlying theory. Persistent homology is a tool in computational topology developed for recognizing the ``shape” of data. Such topological measures have the advantages that 1) they are stable against experimental noise, 2) they probe multiscale, non-local characteristics of a dataset, 3) they provide interpretable statistics that encode information of all higher-point correlations. In this talk, I will focus on the applications of persistent homology (with and without machine learning) to inference of cosmological parameters and primordial non-Gaussianity.</em>
 </details>
 
 **12:30–2:00 pm ET**
