@@ -90,7 +90,7 @@ Break
 **11:00–11:45 am ET**
 
 
-Title TBA, Yasaman Bahri (Google Brain)
+Title TBA, Daniel Kunin (Stanford University)
 
 <details>
 <summary>Abstract</summary>
@@ -119,11 +119,6 @@ Lunch
 <details>
 <summary>Nu Tangent Kernels, Akshunna S. Dogra (Imperial College London)</summary>
 <em>The approximation and generalization capacity of deep learning models has been profitably leveraged across a staggeringly wide variety of tasks. In particular, appropriately initialized Neural Networks sampled from suitable functional spaces invariably find stages of exponential (or near-exponential) learning. We introduce $\nu$ - Tangent Kernels ($\nu$TKs), functional analytic objects partly inspired from the Neural Tangent Kernel (NTK), to build a generic theory for Neural Network optimization and generalization. Specifically, we prove that for a large category of well-posed and semi-well-posed problems, Neural Network based models are capable of exponentially learning the tasks at hand. Notably, these results are showcased for a much wider class of loss functions/architectures than the standard mean squared error/large width regime that is usually the focus of conventional NTK analysis, and apply to diverse practical problems solved using real networks such as differential equation solvers, shape recognition, classification, feature extraction, etc. We end by exemplifying the power of the $\nu$TK perspective by comparing expected vs empirically observed optimization profiles across different regimes.</em>
-</details>
-
-<details>
-<summary>Stochastic Collapse: How Gradient Noise Attracts SGD Dynamics Towards Simpler Subnetworks, Daniel Kunin (Stanford University)</summary>
-<em>In this work, we reveal a strong implicit bias of stochastic gradient descent (SGD) that drives overparameterized networks to much simpler subnetworks, thereby dramatically reducing the number of independent parameters, and improving generalization. To reveal this bias, we identify {\it invariant sets}, or subsets of parameter space that remain unmodified by SGD. We focus on two classes of invariant sets that correspond to simpler subnetworks and commonly appear in modern architectures. Our analysis uncovers that SGD exhibits a property of {\it stochastic attractivity} towards these simpler invariant sets. We establish a sufficient condition for stochastic attractivity based on a competition between the loss landscape's curvature around the invariant set and the noise introduced by stochastic gradients. Remarkably, we find that an increased level of noise strengthens attractivity, leading to the emergence of attractive invariant sets associated with saddle-points or local maxima of the train loss. The existence of attractive invariant sets demonstrates that SGD dynamics often collapses to simple subnetworks with either vanishing or redundant neurons. We further demonstrate how this simplifying process of {\it stochastic collapse} benefits generalization in a linear teacher-student framework. Finally, using our analysis, we mechanistically explain why early training with large learning rates for extended periods benefits subsequent generalization.</em>
 </details>
 
 <details>
@@ -287,7 +282,7 @@ From inference to discovery with AI in the physical sciences, Ben Wandelt (Sorbo
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>I will discuss machine learning approaches to Bayesian Inference and model comparison that are transforming the way we study the universe and its initial conditions with computational models.</em>
 </details>
 
 **4:15–5:00 pm ET**
@@ -418,7 +413,7 @@ Learning from Topology: Cosmological Parameter Inference from the Large-scale St
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>A challenge common to different scientific areas is to effectively infer from big, complex, higher-dimensional datasets the underlying theory. Persistent homology is a tool in computational topology developed for recognizing the ``shape” of data. Such topological measures have the advantages that 1) they are stable against experimental noise, 2) they probe multiscale, non-local characteristics of a dataset, 3) they provide interpretable statistics that encode information of all higher-point correlations. In this talk, I will focus on the applications of persistent homology (with and without machine learning) to inference of cosmological parameters and primordial non-Gaussianity.</em>
 </details>
 
 **12:30–2:00 pm ET**
@@ -567,18 +562,6 @@ The following speakers have accepted invitations to give plenary talks at this y
   <!--<div class="row">-->
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-yasaman-bahri.jpg" alt="Yasaman Bahri" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://research.google/people/YasamanBahri/">Yasaman Bahri</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Research Scientist, Google Brain </em> <br>
-         </div>
-         </div>
-       </div>
-
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-david-berman.jpg" alt="David Berman" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -706,6 +689,18 @@ The following speakers have accepted invitations to give plenary talks at this y
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Senior Researcher, Ludwig-Maximilian University </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/Daniel-kunin.png" alt="Daniel Kunin" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://daniel-kunin.com">Daniel Kunin</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> PhD Student, Stanford University </em> <br>
          </div>
          </div>
        </div>
@@ -936,7 +931,7 @@ The following speakers have accepted invitations to give plenary talks at this y
 
 ## Accommodations
 We have made arrangements for discounted accommodations at the following locations: 
-* [Boston University Housing](https://www.bu.edu/housing/undergrad-housing/stuvi/10buick/), 10 Buick St, Boston, MA 02215
+* **Reservations closed** [Boston University Housing](https://www.bu.edu/housing/undergrad-housing/stuvi/10buick/), 10 Buick St, Boston, MA 02215
   * 96.00 USD per night
   * [Book a room](https://iaifi-stayatbu.eventbrite.com)
 * [The Inn at Longwood Medical](https://www.innatlongwood.com), 342 Longwood Ave, Boston, MA 02115
