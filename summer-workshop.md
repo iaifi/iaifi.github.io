@@ -90,11 +90,11 @@ Break
 **11:00–11:45 am ET**
 
 
-Title TBA, Daniel Kunin (Stanford University)
+Stochastic Collapse: How Gradient Noise Attracts SGD Dynamics Towards Simpler Subnetworks, Daniel Kunin (Stanford University)
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>In this work, we reveal a strong implicit bias of stochastic gradient descent (SGD) that drives overly expressive networks to much simpler subnetworks, thereby dramatically reducing the number of independent parameters, and improving generalization. To reveal this bias, we identify invariant sets, or subsets of parameter space that remain unmodified by SGD. We focus on two classes of invariant sets that correspond to simpler subnetworks and commonly appear in modern architectures. Our analysis uncovers that SGD exhibits a property of stochastic attractivity towards these simpler invariant sets. We establish a sufficient condition for stochastic attractivity based on a competition between the loss landscape's curvature around the invariant set and the noise introduced by stochastic gradients. Remarkably, we find that an increased level of noise strengthens attractivity, leading to the emergence of attractive invariant sets associated with saddle-points or local maxima of the train loss. We observe empirically the existence of attractive invariant sets in trained deep neural networks, implying that SGD dynamics often collapses to simple subnetworks with either vanishing or redundant neurons. We further demonstrate how this simplifying process of stochastic collapse benefits generalization in a linear teacher-student framework. Finally, through this analysis, we mechanistically explain why early training with large learning rates for extended periods benefits subsequent generalization.</em>
 </details>
 
 
@@ -188,7 +188,7 @@ Deep learning theory beyond the static kernel limit, Cengiz Pehlevan (Harvard/IA
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Learning dynamics of deep neural networks is complex. While previous approaches made advances in mathematical analysis of the dynamics of two-layer neural networks, addressing deeper networks have been challenging. In this talk, I will present a mean field theory of the learning dynamics of deep networks and discuss its implications.</em>
 </details>
 
 **9:45–10:30 am ET**
@@ -580,7 +580,7 @@ The following speakers have accepted invitations to give plenary talks at this y
          <a href="https://www.uva.nl/en/profile/c/h/c.n.cheng/c.n.cheng.html">Miranda Cheng</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Faculty of Science, University of Amsterdam </em> <br>
+         <em> Associate Professor, University of Amsterdam; Research Scientist, Academia Sinica, Taiwan </em> <br>
          </div>
          </div>
        </div>
