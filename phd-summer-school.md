@@ -58,7 +58,7 @@ Students for the Summer School will have the option to reserve dorm rooms (expen
          <div class="card-text" style="text-align: center; min-height: 2rem; line-height: 100%">
     <small>
          <small>
-         <em> Faculty of Science, University of Amsterdam </em> 
+         <em> Faculty of Science, University of Amsterdam; Research Fellow, Academia Sinica, Taiwan </em> 
          </small>
          </small>
          </div>
