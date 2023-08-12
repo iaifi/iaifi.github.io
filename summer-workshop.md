@@ -488,7 +488,7 @@ Improving Energy Conserving Descent Optimization: Theory to Practice, Eva Silver
 
 **9:00 am–9:45 am ET**
 
-Title TBA, Brian Nord (Fermilab)
+AstroAI, Rafael Martinez-Galarza (Harvard & Smithsonian Center for Astrophysics)
 
 <details>
 <summary>Abstract</summary>
@@ -694,7 +694,7 @@ The following speakers have accepted invitations to give plenary talks at this y
        </div>
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/Daniel-kunin.png" alt="Daniel Kunin" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/photo-daniel-kunin.png" alt="Daniel Kunin" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          <a href="https://daniel-kunin.com">Daniel Kunin</a>
@@ -730,6 +730,18 @@ The following speakers have accepted invitations to give plenary talks at this y
        </div>
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/photo-rafael-martinez.jpg" alt="Rafael Martinez-Galarza" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://lweb.cfa.harvard.edu/~jmartine/Welcome.html">Rafael Martinez-Galarza</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Astrophysicist, Harvard & Smithsonian Center for Astrophysics </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-vinicius-mikuni.jpg" alt="Vinicius Mikuni" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -749,18 +761,6 @@ The following speakers have accepted invitations to give plenary talks at this y
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Postdoctoral Scholar, MIT Kavli Institute </em> <br>
-         </div>
-         </div>
-       </div>
-
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-brian-nord.jpg" alt="Brian Nord" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://briandnord.com/">Brian Nord</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Research Scientist, Fermilab </em> <br>
          </div>
          </div>
        </div>
