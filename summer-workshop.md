@@ -373,6 +373,12 @@ Renormalisation and Inference, David Berman (Queen Mary University/Cambridge Con
 <em>This talk will describe the link between exact renormalisation group flow and statistical inference. The basic idea being that inference incorporates data into a model while renormalisation throws information away.</em>
 </details>
 
+**6:00 pm ET**
+
+Informal Meetup for IAIFI Summer Workshop Attendees at Owl's Nest (Night Shift) on the Esplanade
+
+*Cost of food and drink not covered*
+
 ### Thursday, August 17, 2023
 
 **9:00 am–9:45 am ET**
