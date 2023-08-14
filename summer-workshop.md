@@ -496,11 +496,11 @@ Improving Energy Conserving Descent Optimization: Theory to Practice, Eva Silver
 
 **9:00 am–9:45 am ET**
 
-AstroAI, Rafael Martinez-Galarza (Harvard & Smithsonian Center for Astrophysics)
+AstroAI: A New Initiative for Artificial Intelligence in Astrophysics, Rafael Martinez-Galarza (Harvard & Smithsonian Center for Astrophysics)
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>AstroAI is a new initiative dedicated to the design and development of machine learning (ML) and artificial intelligence (AI) algorithms that advance the field of Astrophysics. AstroAI was launched at the Center for Astrophysics | Harvard & Smithsonian (CfA) in November 2022,  after an imperative need was recognized both within and outside of the CfA for reliable and interpretable models in scientific research, especially in Astrophysics. AstroAI is committed to designing AI-based models targeted to drive new scientific discovery in Astrophysics, using a model that prioritizes a multi-disciplinary approach and a diverse group of researchers. In this talk I will discuss AstroAI's journey and remarkable growth since its inception, along with a selection of the projects our team has undertaken. Further exploration of our projects and their transformative potential in astrophysical research will be showcased across various posters.</em>
 </details>
 
 **9:45–10:30 am ET**
