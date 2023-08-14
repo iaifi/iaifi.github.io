@@ -114,7 +114,7 @@ Lunch
 
 **2:00–3:00 pm ET**
 
-**Parallel Session A: Theoretical ML I**
+**Parallel Session A: Theoretical ML I (Auditorium)**
 
 <details>
 <summary>Nu Tangent Kernels, Akshunna S. Dogra (Imperial College London)</summary>
@@ -131,7 +131,7 @@ Lunch
 <em>Grokking in machine learning is the phenomenon of delayed generalization; wherein the network memorizes the training data quickly, but takes a much longer training time to learn useful features and generalize. Grokking offers a unique playground to gain insight into feature learning and generalization. In my talk, I will present a minimal framework that recreates Grokking: training a 2-layer Fully-Connected Network on Modular Arithmetic data. In this setup, it is possible to write down an analytical solution that generalizes to a 100% accuracy. More excitingly, a network trained with gradient descent finds the same solution! I will discuss these special solutions and the corresponding features. Furthermore, I will describe grokking "transitions" with training time, training dataset size and model size. I will end the talk with some interesting open questions on the topic and our ongoing work.</em>
 </details>
 
-**Parallel Session B: HEP-TH x ML**
+**Parallel Session B: HEP-TH x ML (Room 138)**
 
 <details>
 <summary>$λφ^4$ Scalar Neural Network Field Theory, Anindita Maiti (Harvard University)</summary>
@@ -228,7 +228,7 @@ Lunch
 
 **2:00–3:00 pm ET**
 
-**Parallel Session A: HEP-EX x ML**
+**Parallel Session A: HEP-EX x ML (Room 136)**
 
 <details>
 <summary>Is infrared-collinear safe information all you need for jet classification?, Dimitrios Athanasakos (YITP, Stony Brook)</summary>
@@ -250,7 +250,7 @@ Lunch
 <em>The Deep Underground Neutrino Experiment (DUNE) aims to measure neutrino properties by detecting neutrinos as they travel 1300 km from Fermilab to Sanford Underground Research Facility (SURF). Understanding the composition of the neutrino beam at Fermilab is vital to make precision measurements at SURF, and thus a prototype of the near detector will soon begin testing. The state-of-the-art near detector prototype has some challenges for reconstructing particles, such as gaps between submodules inside the prototype detector and inputs from differently designed endcap detectors. This talk will discuss work to use machine learning methods that could generate the missing signatures between submodules and detectors, along with leveraging information from the endcap detectors’ despite their different geometry and structure.</em>
 </details>
 
-**Parallel Session B: Astro x ML I**
+**Parallel Session B: Astro x ML I (Room 140)**
 
 <details>
 <summary>LenSiam: Self-Supervised Learning on Strong Gravitational Lens Images, Joshua Yao-Yu Lin (Prescient Design/Genentech)</summary>
@@ -430,7 +430,7 @@ Lunch
 
 **2:00–3:00 pm ET**
 
-**Parallel Session A: Astro x ML II**
+**Parallel Session A: Astro x ML II (Room 136)**
 
 <details>
 <summary>Using Neural Networks to detect Dark Star Candidates in the Early Universe, Sayed Shafaat Mahmud (Colgate University)</summary>
@@ -447,7 +447,7 @@ Lunch
 <em>We propose GHDNet, a PINN-based architecture to model/solve a 3D self-gravitating hydrodynamical system. In computational astrophysics, cosmology and planetary science, such systems are of fundamental importance and the non-linear interaction of fluid dynamics with gravity makes them complicated. Compared to traditional approaches such as Finite Difference (FD), we show that PINNs being mesh-free, is a promising alternative, circumventing various limitations of the FD method. We present case studies where PINNs can trace the exponential growth of density due to gravitational instability in an efficient way while providing a more flexible, adaptable and scalable framework. We observe that for the 3D hydrodynamic simulations the runtime is ~10 times less compared to FD. Interestingly, GHDNet can predict accurate solutions well beyond the training domain.  Further, the accuracy of the model, both in terms of training loss as well as the deviation from the FD solution is analysed for a wide range of model parameters and a possible scaling law for PINNs is speculated.</em>
 </details>
 
-**Parallel Session B: Theoretical ML II**
+**Parallel Session B: Theoretical ML II (Room 140)**
 
 <details>
 <summary>Noisy dynamical systems evolve error correcting codes and modularity, Trevor McCourt (MIT/IAIFI)</summary>
