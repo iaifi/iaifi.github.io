@@ -387,7 +387,9 @@ Towards a phenomenological understanding of neural networks, Sven Krippendorf (L
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>A comprehensive, yet simple framework to describe neural network dynamics holds the key to transform the way we design and train neural networks. In this talk I describe our vision for such a framework where neural network dynamics are described by effective field theories.
+By reducing the neural network dynamics to few emergent, collective variables this approach promises a simple and interpretable framework to understand their non-linear dynamics.
+I demonstrate that these dynamics are comparable to those of known EFTs in physics, in particular to those arising in cosmology. I show that these collective variables can be used for improved data selection with improved generalization behaviour. Further, I discuss that this framework naturally offers a way on how to optimize gradient descent, connecting with existing modifications such as natural gradient descent. </em>
 </details>
 
 **9:45–10:30 am ET**
