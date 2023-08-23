@@ -13,9 +13,13 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 * **Northeastern University, Interdisciplinary Science and Engineering Complex**
 * **Registration deadline: July 31, 2023** 
 
-We have extended the deadline to [submit a poster](https://t.co/AmNkXRoWeg).  Submit by July 17, 2023 for full consideration!
+Videos of the plenary talks from the 2023 IAIFI Summer Workshop are [now available on YouTube](https://www.youtube.com/playlist?list=PLBY0ED2StbGalYxIbUNEK6ADuEv35W6ig).
 {:.success}
 
+<!--
+We have extended the deadline to [submit a poster](https://t.co/AmNkXRoWeg).  Submit by July 17, 2023 for full consideration!
+{:.success}
+-->
 
 [Registration](https://iaifi-workshop-reg-fee.mit.edu/registration){:.button.button--outline-primary.button--pill.button--lg} [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}  [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](\past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 

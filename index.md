@@ -25,11 +25,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-
-***IAIFI Summer Workshop Registration Open:*** Our second annual [IAIFI Summer Workshop](https://iaifi.org/summer-workshop) will be held August 14–18, 2023 at Northeastern University. [Registration is open](https://iaifi-workshop-reg-fee.mit.edu/registration) until July 31, 2023. 
-{:.success}
-
-***The IAIFI Colloquium Series will continue in Fall 2023.*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
+***The IAIFI Colloquium Series will begin on September 15, 2023.*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
 ### IAIFI News
