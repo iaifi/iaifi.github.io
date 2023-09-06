@@ -5,16 +5,31 @@ aside:
   toc: true
 ---
 
+Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events.
+
+You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
 
 ## Upcoming Colloquia 
 
-IAIFI Colloquium Series will continue in Fall 2023
+<!---
+{% assign talks = site.data.speaker-series | sort | reverse %}
+{% for talk in talks %}
+{% assign Fall 2023 = talk %}
+{% if talk.type == "fall-2023" %}
 
-Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on IAIFI events.
 
+<img class="image" src="{{speaker-photo-location}}" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
+* **<a href="{{talk.speaker-website}}">{{speaker.name}}</a>, {{speaker-title}}, {{speaker-affiliation}}**
+    * **{{talk-date-time}}, {{talk-location}}**
+    * *{{talk-title}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
+    * <a href="{{talk.slides-link}}">Talk Slides</a>
+    * {{talk-abstract}}
+{% endif %}
+{% endfor %}
+--->
 
-## Past Colloquia
-You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA). 
+## Past Colloquia 
 
 ### Spring 2023
 
