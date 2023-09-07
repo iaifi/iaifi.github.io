@@ -1,0 +1,7 @@
+type: postdoc
+title: Postdoc Researcher in AL/ML
+employer: Horizon Europa
+deadline: 2023-10-29
+expire: 2023-10-30
+link: https://www.kuleuven.be/personeel/jobsite/jobs/60256246
+details: 'The new Horizon Europa project ASAP aims at developing artificial intelligence (AI) tools that can be deployed in space missions of exploration. This means developing and using algorithms that can be run on the type of processors that can be used in space. Space is a hostile radiation environment and the types of computing units (e.g. GPUs) that are used for AI on Earth cannot sustain the radiation exposure. In space, special processors must be used, capable to survive the space radiation. These processors are less powerful, and the complex algorithms of AI need to be adapted so that they can function in space. ASAP is primarily a method development project that wants to develop such algorithms and demonstrate their use on the same type of processors that can be used in space. ASAP will choose a few important physical applications such as analysis of time series and velocity or energy distributions to extract physics insight. The final goal is to make AI tools that can decide the importance of the data measured and extract its physics without having human intervention and without having to first transmit the data to the Earth. This is a critical need for future missions of exploration to other planets and deep space where the communication with Earth will be slow and intermittent.'

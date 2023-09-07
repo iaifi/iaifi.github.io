@@ -5,17 +5,31 @@ aside:
   toc: true
 ---
 
-
-## Upcoming Journal Clubs
-
-IAIFI Journal Club will continue in Fall 2023
-
-The IAIFI Journal Club is only open to IAIFI members and affiliates. 
+The IAIFI Journal Club is open to IAIFI members and affiliates. 
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
-## Past Journal Clubs
 
+## Upcoming Journal Clubs
+
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% assign talks = site.data.journal-club %}
+{% for talk in talks %}
+  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
+  {% if date > now %}
+  {% if talk.type == "fall-2023" %}
+
+<img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:12%" hspace="10" vspace="10"/>
+
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
+## Past Journal Clubs
 
 ### Spring 2023 Journal Clubs
 
@@ -77,7 +91,7 @@ The IAIFI Journal Club is only open to IAIFI members and affiliates.
   * [Slides](https://drive.google.com/file/d/1jNBRcVDmMGiZDztMHmZ2Bo67klkrG0sd/view?usp=share_link) 
 (For IAIFI members only)
 
-## Fall 2022 Journal Clubs
+### Fall 2022 Journal Clubs
 
 * **Anna Golubeva, IAIFI Fellow and Matt Schwartz, Professor, Harvard**
   * **November 29, 2022, 11:00am-12:00pm**
@@ -135,7 +149,7 @@ If time permits, I will also present our latest results on generalizing the QCNN
   * Resources: [https://arxiv.org/abs/2106.00694](https://arxiv.org/abs/2106.00694)
   * [Slides](https://drive.google.com/file/d/1QO5j9F6JM1cbDZa-dRawrdCyXR9TDxOl/view?usp=share_link) (For IAIFI members only)
 
-## Spring 2022 Journal Clubs
+### Spring 2022 Journal Clubs
 * **Jessie Micallef, PhD Student, Michigan State University & Incoming IAIFI Fellow**
   * **March 10, 2022, 11:00am-12:00pm**
   * *"Adapting CNNs to Reconstruct Sparse, GeV-Scale IceCube Neutrino Events"*
@@ -212,7 +226,7 @@ If time permits, I will also present our latest results on generalizing the QCNN
     * [Challenges for Unsupervised Anomaly Detection in Particle Physics](https://arxiv.org/abs/2110.06948)
   * [Slides](https://drive.google.com/file/d/1A4oijQ-rRR3NhSTka0Mw5nD5yzULb-W-/view?usp=share_link) (For IAIFI members only)
 
-## Fall 2021 Journal Clubs
+### Fall 2021 Journal Clubs
   * **Michael Douglas**
     * **Thursday, September 23, 2021, 11:00am-12:00pm**
     * *"Solving Combinatorial Problems using AI/ML"*
@@ -240,7 +254,7 @@ If time permits, I will also present our latest results on generalizing the QCNN
     * *"Entangling Quantum Generative Adversarial Networks using Tensorflow Quantum"*
     * Abstract/Resources: [https://arxiv.org/pdf/2105.00080.pdf](https://arxiv.org/pdf/2105.00080.pdf); [https://arxiv.org/pdf/2003.02989.pdf%20-%20Page%202.pdf](https://arxiv.org/pdf/2003.02989.pdf%20-%20Page%202.pdf)
 
-## Spring 2021 Journal Clubs
+### Spring 2021 Journal Clubs
   * **Anindita Maiti**
     * **Wednesday, February 17**
     * *"Neural Networks and Quantum Field Theory"*
@@ -266,7 +280,7 @@ If time permits, I will also present our latest results on generalizing the QCNN
     * *Simulation-Based Inference Focusing on Astrophysical Applications*
     * Abstract/Resources: [https://arxiv.org/abs/1911.01429](https://arxiv.org/abs/1911.01429); [https://arxiv.org/abs/1909.02005](https://arxiv.org/abs/1909.02005)
 
-## Fall 2020 Journal Clubs
+### Fall 2020 Journal Clubs
   * **Bhairav Mehta**
     * **Tuesday, October 20**
     * *"Learning Invariances"*

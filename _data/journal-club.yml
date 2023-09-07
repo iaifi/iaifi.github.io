@@ -1,0 +1,64 @@
+- type: "fall-2023"
+  speaker-name: Tony Menzo
+  speaker-title: Graduate Assistant
+  speaker-affiliation: University of Cincinnati
+  speaker-website: "https://inspirehep.net/authors/2049582"
+  speaker-photo-location: 
+  talk-date: "2023-09-19"
+  talk-date-time: "Tuesday, September 19, 2023, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Title to come"
+  talk-abstract: "Abstract to come"
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics theory"
+  speaker-gender: "man"
+
+- type: "fall-2023"
+  speaker-name: Manos Theodosis
+  speaker-title: Graduate Student
+  speaker-affiliation: Harvard
+  speaker-website: "https://manosth.github.io"
+  speaker-photo-location: 
+  talk-date: "2023-10-03"
+  talk-date-time: "Tuesday, October 3, 2023, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Title to come"
+  talk-abstract: "Abstract to come"
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "foundational AI"
+  speaker-gender: "man"
+
+- type: "fall-2023"
+  speaker-name: Akshunna Dogra
+  speaker-title: Graduate Student
+  speaker-affiliation: Imperial College London
+  speaker-website: "https://scholar.google.com/citations?user=TL86PJMAAAAJ&hl=en"
+  speaker-photo-location: 
+  talk-date: "2023-10-31"
+  talk-date-time: "Tuesday, October 31, 2023, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Title to come"
+  talk-abstract: "Abstract to come"
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "foundational AI"
+  speaker-gender: "man"
+
+- type: "fall-2023"
+  speaker-name: Zeviel Imani
+  speaker-title: Graduate Student
+  speaker-affiliation: Tufts
+  speaker-website: "https://sites.tufts.edu/nutufts/people/"
+  speaker-photo-location: 
+  talk-date: "2023-10-31"
+  talk-date-time: "Tuesday, November 14, 2023, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Title to come"
+  talk-abstract: "Abstract to come"
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics experiment"
+  speaker-gender: ""
+
