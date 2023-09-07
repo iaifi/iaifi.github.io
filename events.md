@@ -18,13 +18,11 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
   {% if date > now %}
   {% if talk.type == "fall-2023" %}
 
-<img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:15%" hspace="10" vspace="10"/>
+<img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:12%" hspace="10" vspace="10"/>
 
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
-    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
-    * <a href="{{talk.slides-link}}">Talk Slides</a>
     * {{talk.talk-abstract}}
   {% endif %}
   {% endif %}
@@ -41,7 +39,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
   {% if date < now %}
   {% if talk.type == "fall-2023" %}
 
-<img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:15%" hspace="10" vspace="10"/>
+<img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
@@ -162,7 +160,7 @@ In Spring 2021, our colloquium series featured IAIFI senior investigators, aimin
     * {{talk.talk-abstract}}
   {% endif %}
   {% endif %}
-{% endfor %}Coll
+{% endfor %}
     
 
 
