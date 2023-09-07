@@ -35,7 +35,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
-**Nabil Laoudji writes about his experience at the IAIFI Summer Worskhop 2023 [https://iaifi.org/summer-workshop.html].  Read Nabil's [post on LinkedIn]https://www.linkedin.com/pulse/where-ai-physics-meet-reflections-from-iaifis-2023-summer-laoudji/). *August 29, 2023*
+***Nabil Laoudji writes about his experience at the [2023 IAIFI Summer Worskhop](https://iaifi.org/summer-workshop.html).***  Read Nabil's [post on LinkedIn](https://www.linkedin.com/pulse/where-ai-physics-meet-reflections-from-iaifis-2023-summer-laoudji/), where he shares his experience attending the 2023 IAIFI Summer Workshop. *August 29, 2023*
 {:.info}
 
 ***Philip Harris, MIT Assistant Professor and IAIFI Senior Investigator, earns MIT Teaching With Digital Technology Award***: The student-nominated award recognizes Phil for effectively using digital technology to improve teaching and learning at MIT. Read [about the 2023 winners](https://openlearning.mit.edu/news/2023-mit-teaching-digital-technology-awards). *June 21, 2023*
