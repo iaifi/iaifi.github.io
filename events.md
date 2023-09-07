@@ -12,7 +12,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 ## Upcoming Colloquia 
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.speakers %}
+{% assign talks = site.data.colloquia %}
 {% for talk in talks %}
   {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date > now %}
@@ -35,7 +35,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 ### Fall 2023
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.speakers %}
+{% assign talks = site.data.colloquia %}
 {% for talk in talks %}
   {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date < now %}
@@ -56,7 +56,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 ### Spring 2023
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.speakers %}
+{% assign talks = site.data.colloquia %}
 {% for talk in talks %}
   {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date < now %}
@@ -77,7 +77,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 ### Fall 2022
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.speakers %}
+{% assign talks = site.data.colloquia %}
 {% for talk in talks %}
   {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date < now %}
@@ -100,7 +100,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 ### Spring 2022
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.speakers %}
+{% assign talks = site.data.colloquia %}
 {% for talk in talks %}
   {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date < now %}
@@ -122,7 +122,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 ### Fall 2021
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.speakers %}
+{% assign talks = site.data.colloquia %}
 {% for talk in talks %}
   {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date < now %}
@@ -146,7 +146,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 In Spring 2021, our colloquium series featured IAIFI senior investigators, aiming to introduce you to some of the exciting research being carried out at our institute. 
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.speakers %}
+{% assign talks = site.data.colloquia %}
 {% for talk in talks %}
   {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date < now %}
@@ -162,7 +162,7 @@ In Spring 2021, our colloquium series featured IAIFI senior investigators, aimin
     * {{talk.talk-abstract}}
   {% endif %}
   {% endif %}
-{% endfor %}
+{% endfor %}Coll
     
 
 
