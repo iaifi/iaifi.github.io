@@ -17,7 +17,6 @@ aside:
     * **{{talk.talk-date-time}}**
     * *{{talk.talk-title}}*
     * {{talk.talk-abstract}}
-    * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
   {% endif %}
   {% endif %}
 {% endfor %}
