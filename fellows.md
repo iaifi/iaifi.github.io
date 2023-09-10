@@ -50,6 +50,8 @@ MIT is an equal employment opportunity employer. All qualified applicants will r
 *  *If I am applying to the [MIT Pappalardo Fellowship](https://physics.mit.edu/research/pappalardo-fellowships-in-physics/competition/), will that impact my application for the IAIFI Fellowship?* No, you are welcome to apply to both Fellowship opportunities and one will not impact the other. 
 *  *What is the expected salary for an IAIFI Fellow?* The salary for an IAIFI Fellow is subject to change each year and is currently around 15% higher than the [minimum postdoc salary at MIT](https://postdocs.mit.edu/about/vice-president-research-statement-salary-and-benefits). 
 *  *I'm interested in this Fellowship but will not quite be ready to apply this round. Will you be doing another call next year?* Contingent on continued support from the NSF, we plan to have another call in a year.
+*  *What should I include in my statement of research interests?* We do not have strict expectations about the statement of research interest. Approach it in a way that best advocates for yourself and your research. 
+*  *Should I tailor my research statement to the expertise of the hiring committee?* The hiring committee spans all of IAIFI and is representative of the range of backgrounds and expertise in IAIFI, so you should focus on advocating for yourself and your research. 
 
 ### Advertising the Fellowship
 We aim to spread the word about the Fellowship as widely as possible. In addition to sharing the announcement with individuals, we have posted the job in the following places:
