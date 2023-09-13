@@ -18,7 +18,7 @@ IAIFI is excited to participate in the 2023 Cambridge Science Festival with a Lu
 
 *Wednesday, September 27, 2023, 12:00–1:30 pm*
 
-*Location: MIT Stata Center (Building 32), Room 155; 32 Vassar St, Cambridge, MA 02139*
+*Location: MIT Media Lab, 6th Floor (75 Amherst St, Cambridge, MA 02139)*
 
 In recent years there has been a surge in tools that facilitate creative works using AI (such as DALL-E and Chat-GPT) and with that has come both creative uses for those tools and ethical questions around artist ownership and copyright. The NSF Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) will host a workshop to share how these tools work and what ethical concerns arise in relation to them. Attendees will then be invited to submit AI-generated poetry and prose to be read and displayed at a reception. Anyone who submits will be entered to win a gift card. 
 
@@ -28,7 +28,7 @@ Carolina Cuesta-Lazaro is an IAIFI Fellow interested in developing robust and in
 
 Hope Schroeder is a PhD student at the MIT Media Lab and the MIT Center for Constructive Communication. She is interested in the spread and impact of ideas through information and media networks.
 
-**Lunch will be provided at 1:00 pm.**
+**Lunch will be provided.**
 
 [Register for this event](https://www.eventbrite.com/e/iaifi-lunch-learn-ethics-in-ai-and-art-tickets-714151264657?aff=oddtdtcreator){:.button.button--outline-primary.button--pill.button--lg}
 
