@@ -5,13 +5,26 @@ title:
 
 <img src="images/2023-summer-workshop-logo.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 
-# IAIFI Summer Workshop 2023
+# IAIFI Summer Workshop
+
+[Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates about the 2024 Summer Workshop!
+{:.success}
 
 <img src="images/neu-isec.jpg" align="right" style="max-width:5990px;width:50%" hspace="10" vspace="10"> 
-The IAIFI Summer Workshop brings together researchers from across Physics and AI for five days of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. 
-* **August 14–18, 2023**
+The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. 
+
+* The 2023 Summer Workshop was held **August 14–18, 2023**
 * **Northeastern University, Interdisciplinary Science and Engineering Complex**
 * **Registration deadline: July 31, 2023** 
+
+Here's what attendees at the 2023 Summer Workshop had to say about the experience: 
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRfdc-3o01g?si=oHLv6eRpGUnpe__2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 Videos of the plenary talks from the 2023 IAIFI Summer Workshop are [now available on YouTube](https://www.youtube.com/playlist?list=PLBY0ED2StbGalYxIbUNEK6ADuEv35W6ig).
 {:.success}
@@ -21,13 +34,15 @@ We have extended the deadline to [submit a poster](https://t.co/AmNkXRoWeg).  Su
 {:.success}
 -->
 
-[Registration](https://iaifi-workshop-reg-fee.mit.edu/registration){:.button.button--outline-primary.button--pill.button--lg} [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}  [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](\past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
+[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](\past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 
 ## About
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field.
 
+<!--
 <div class="card-columns">
-  <!--<div class="row">-->
+-->
+<!--
 <div class="card" style="width: 17rem; height: 15rem;">
   <div class="card__image">
     <img class="image" src="images/deep-learning-deep-thinking.png"/>
@@ -36,7 +51,9 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
     </div>
   </div>
 </div>
+-->
 
+<!--
 <div class="card" style="width: 17rem; height: 15rem;">
   <div class="card__image">
     <img class="image" src="images/workshop-networking.png"/>
@@ -45,7 +62,9 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
     </div>
   </div>
 </div>
+-->
 
+<!--
 <div class="card" style="width: 17rem; height: 15rem;">
   <div class="card__image">
     <img class="image" src="images/workshop-community.png"/>
@@ -54,10 +73,8 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
     </div>
   </div>
 </div>
-  <!--
-  </div>
-<br> -->
 </div>
+-->
 
 ## Agenda
 *This agenda is subject to change.*
