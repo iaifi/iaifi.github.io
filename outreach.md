@@ -30,6 +30,8 @@ Hope Schroeder is a PhD student at the MIT Media Lab and the MIT Center for Cons
 
 **Lunch will be provided.**
 
+This event is co-sponsored by the MIT Media Lab and is made possible with funds from the MIT School of Science Quality of Life program.
+
 [Register for this event](https://www.eventbrite.com/e/iaifi-lunch-learn-ethics-in-ai-and-art-tickets-714151264657?aff=oddtdtcreator){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Carnival:  Spot the Difference: AI vs Reality in Physics
