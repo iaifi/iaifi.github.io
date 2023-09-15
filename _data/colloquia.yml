@@ -8,7 +8,7 @@
   talk-date-time: "Friday, September 15, 2023, 2:00–3:00 pm"
   talk-location: "MIT Cosman Room (6c-442)"
   talk-title: "Physics of Neural Phenomena: Understanding Learning and Computation through Symmetry"
-  talk-abstract: "Abstract to come"
+  talk-abstract: "Once described as alchemy, a quantitative science of machine learning is emerging. This talk will seek to unify the scientific approaches taken in machine learning, neuroscience, and physics. We will show how conceptual and mathematical tools in physics, such as symmetry, may illuminate the universal mechanisms behind learning and computation in biological and artificial neural networks. We plan to (i) generalize Noether's theorem in physics to show how scale symmetry of normalization makes learning more stable and efficient, (ii) propose a new framework for studying compositional generalization in generative models, and (iii) identify phase transitions in the loss landscapes of self-supervised learning as a potential cause of a failure mode called dimensional collapse."
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "foundational AI"
