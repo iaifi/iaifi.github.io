@@ -25,7 +25,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***The IAIFI Colloquium Series will begin on September 15, 2023 with Hidenori Tanaka (Harvard).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
+***The next [IAIFI Colloquium](events.html) will be held on Friday, October 13, 2023 with François Lanusse (Researcher, CNRS).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
 ***IAIFI will be at the [Cambridge Science Festival](https://iaifi.org/outreach.html#cambridge-science-festival)!*** Join us on Wednesday, September 27, 2023 for a lunch and learn on Ethics in AI and Art; then come see us at the carnival on Sunday, October 1, 2023 to interact with a virtual physicist created using generative AI!
@@ -35,7 +35,14 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
-***Nabil Laoudji writes about his experience at the [2023 IAIFI Summer Worskhop](https://iaifi.org/summer-workshop.html).***  Read Nabil's [post on LinkedIn](https://www.linkedin.com/pulse/where-ai-physics-meet-reflections-from-iaifis-2023-summer-laoudji/), where he shares his experience attending the 2023 IAIFI Summer Workshop. *August 29, 2023*
+
+***On July 21, 2023, many IAIFI Senior Investigators, Fellows, postdocs, and students presented at [The Impact of ChatGPT and other Large Language Models on Physics Research and Education](https://indico.mit.edu/event/759/).*** Watch [Workshop recordings](https://www.youtube.com/playlist?list=PLKemzYMx2_Ot1MZ_er2vFiINdJEgDO8Hg). *September 19, 2023*
+{:.info}
+
+***Max Tegmark, MIT Professor of Physics and IAIFI Senior Investigator, featured on the TIME100 Most Influential People in AI***. Read [Max's feature](https://time.com/collection/time100-ai/6310651/max-tegmark/). *September 7, 2023*
+{:.info}
+
+***Nabil Laoudji writes about his experience at the [2023 IAIFI Summer Worskhop](https://iaifi.org/summer-workshop.html).*** Read Nabil's [post on LinkedIn](https://www.linkedin.com/pulse/where-ai-physics-meet-reflections-from-iaifis-2023-summer-laoudji/), where he shares his experience attending the 2023 IAIFI Summer Workshop. *August 29, 2023*
 {:.info}
 
 ***Philip Harris, MIT Assistant Professor and IAIFI Senior Investigator, earns MIT Teaching With Digital Technology Award***: The student-nominated award recognizes Phil for effectively using digital technology to improve teaching and learning at MIT. Read [about the 2023 winners](https://openlearning.mit.edu/news/2023-mit-teaching-digital-technology-awards). *June 21, 2023*
