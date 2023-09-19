@@ -25,7 +25,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***The IAIFI Colloquium Series will begin on September 15, 2023 with Hidenori Tanaka (Harvard).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
+***The IAIFI Colloquium Series began on September 15, 2023 with Hidenori Tanaka (Harvard).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
 ***IAIFI will be at the [Cambridge Science Festival](https://iaifi.org/outreach.html#cambridge-science-festival)!*** Join us on Wednesday, September 27, 2023 for a lunch and learn on Ethics in AI and Art; then come see us at the carnival on Sunday, October 1, 2023 to interact with a virtual physicist created using generative AI!
