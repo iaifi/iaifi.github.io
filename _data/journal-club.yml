@@ -9,7 +9,7 @@
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Towards a data-driven model of hadronization"
   talk-abstract: "We will discuss recent and ongoing developments at the intersection of machine learning and simulated hadronization. Specifically, we'll focus on some of the major challenges presented when attempting to build a data-driven model of hadronization that utilizes experimental data during training. Solutions to some of these challenges will be presented in the context of invertible neural networks or normalizing flows including the introduction of a new paradigm that allows for the training of microscopic hadronization dynamics from macroscopic event-level observables."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1V4wpRljqdt9gjtq61GxA2Ca6lV0gMuBq/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"

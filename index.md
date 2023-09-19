@@ -35,7 +35,14 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
-***Nabil Laoudji writes about his experience at the [2023 IAIFI Summer Worskhop](https://iaifi.org/summer-workshop.html).***  Read Nabil's [post on LinkedIn](https://www.linkedin.com/pulse/where-ai-physics-meet-reflections-from-iaifis-2023-summer-laoudji/), where he shares his experience attending the 2023 IAIFI Summer Workshop. *August 29, 2023*
+
+***On July 21, 2023, many IAIFI Senior Investigators, Fellows, postdocs, and students presented at [The Impact of ChatGPT and other Large Language Models on Physics Research and Education](https://indico.mit.edu/event/759/).*** Watch [Workshop recordings](https://www.youtube.com/playlist?list=PLKemzYMx2_Ot1MZ_er2vFiINdJEgDO8Hg). *September 19, 2023*
+{:.info}
+
+***Max Tegmark, MIT Professor of Physics and IAIFI Senior Investigator featured in Time Magazine***. Read [TIME100 AI](https://time.com/collection/time100-ai/6310651/max-tegmark/) *September 7, 2023*
+{:.info}
+
+***Nabil Laoudji writes about his experience at the [2023 IAIFI Summer Worskhop](https://iaifi.org/summer-workshop.html).*** Read Nabil's [post on LinkedIn](https://www.linkedin.com/pulse/where-ai-physics-meet-reflections-from-iaifis-2023-summer-laoudji/), where he shares his experience attending the 2023 IAIFI Summer Workshop. *August 29, 2023*
 {:.info}
 
 ***Philip Harris, MIT Assistant Professor and IAIFI Senior Investigator, earns MIT Teaching With Digital Technology Award***: The student-nominated award recognizes Phil for effectively using digital technology to improve teaching and learning at MIT. Read [about the 2023 winners](https://openlearning.mit.edu/news/2023-mit-teaching-digital-technology-awards). *June 21, 2023*
