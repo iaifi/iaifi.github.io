@@ -15,6 +15,22 @@
   speaker-gender: "man"
 
 - type: "fall-2023"
+  speaker-name: Jeffrey Lazar
+  speaker-title: Graduate Student
+  speaker-affiliation: Harvard
+  speaker-website: "https://lppc.physics.harvard.edu/people/jeffrey-lazar"
+  speaker-photo-location: 
+  talk-date: "2023-10-03"
+  talk-date-time: "Tuesday, September 26, 2023, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Open-Source Simulation and Machine Learning for Neutrino Telescopes"
+  talk-abstract: "In the last decade, the filed of neutrino astronomy has made major strides, culminating of the definitive detection of galactic and extragalactic components of the astrophysical neutrino flux. We can now  begin characterizing these astrophysical beams and pursuing new physics through them. Machine learning techniques have played an integral part in these recent advances, and while these current efforts have been impressive, it is clear that there is room to improve. This face, along with the growing, global network of neutrino telescopes, drives the need for open-source tools to use all person power and avoid reduplicating effort. In this talk I will present Prometheus, the first open-source, end-to-end simulation for neutrino telescopes. Furthermore, I will show a recent example of Prometheus to develop machine learning techniques capable of running at typical neutrino telescope trigger rates."
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics experiment"
+  speaker-gender: "man"
+
+- type: "fall-2023"
   speaker-name: Manos Theodosis
   speaker-title: Graduate Student
   speaker-affiliation: Harvard
