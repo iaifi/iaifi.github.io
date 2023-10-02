@@ -12,7 +12,7 @@ aside:
 Did you see us at the Festival? [Complete our survey](https://forms.gle/eGoK4qdBKRfR2oCR7) to tell us what you thought!
 {:.success}
 --->
-IAIFI is excited to participate in the 2023 Cambridge Science Festival with a Lunch and Learn on Wednesday, September 27, 2023, and as part of the Carnival on Sunday, October 1, 2023. Both events are free and open to the public but the Lunch and Learn requires registration.
+IAIFI was pleased to participate in the 2023 Cambridge Science Festival with a Lunch and Learn on Wednesday, September 27, 2023, and as part of the Carnival on Sunday, October 1, 2023. Both events were free and open to the public.
 
 ## IAIFI Lunch & Learn: Ethics in AI and Art
 
@@ -22,17 +22,17 @@ IAIFI is excited to participate in the 2023 Cambridge Science Festival with a Lu
 
 In recent years there has been a surge in tools that facilitate creative works using AI (such as DALL-E and Chat-GPT) and with that has come both creative uses for those tools and ethical questions around artist ownership and copyright. The NSF Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) will host a workshop to share how these tools work and what ethical concerns arise in relation to them. Attendees will then be invited to submit AI-generated poetry and prose to be read and displayed at a reception. Anyone who submits will be entered to win a gift card. 
 
+<img src="images/CSF-2023-Lunch-2.jpeg" align="left" style="max-width:1200px;width:45%" hspace="10" vspace="10"> <img src="images/CSF-2023-Lunch-1.jpeg" align="left" style="max-width:1200px;width:45%" hspace="10" vspace="10"> 
+
 **Workshop Leaders**
 
 Carolina Cuesta-Lazaro is an IAIFI Fellow interested in developing robust and interpretable Machine Learning models that can guide us towards future discoveries in physics. Her main research interests lie on the intersection of cosmology and AI.
 
 Hope Schroeder is a PhD student at the MIT Media Lab and the MIT Center for Constructive Communication. She is interested in the spread and impact of ideas through information and media networks.
 
-**Lunch will be provided.**
+**Lunch provided.**
 
-This event is co-sponsored by the MIT Media Lab and is made possible with funds from the MIT School of Science Quality of Life program.
-
-[Register for this event](https://www.eventbrite.com/e/iaifi-lunch-learn-ethics-in-ai-and-art-tickets-714151264657?aff=oddtdtcreator){:.button.button--outline-primary.button--pill.button--lg}
+This event was co-sponsored by the MIT Media Lab and made possible with funds from the MIT School of Science Quality of Life program.
 
 ## Carnival:  Spot the Difference: AI vs Reality in Physics
 
@@ -41,6 +41,12 @@ This event is co-sponsored by the MIT Media Lab and is made possible with funds 
 *Location: Kendall/MIT Open Space*
 
 With the rising popularity of generative AI tools such as Chat-GPT and DALL-E, it can be increasingly difficult to tell the difference between AI-generated content and human-generated content. Join the Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) to learn about how generative AI works and see if you can spot the difference. Ask the same question to a virtual physicist and a real live physicist and see what answers you get! Then test your skills by comparing galaxy images from the James Webb Space Telescope with Dall-E generated galaxy images—can you tell which ones are real?
+
+<img src="images/CSF-2023-1.jpeg" align="left" style="max-width:1200px;width:45%" hspace="10" vspace="10">
+<img src="images/CSF-2023-2.jpeg" align="left" style="max-width:900px;width:45%" hspace="10" vspace="10">
+
+<img src="images/CSF-2023-3.jpeg" align="left" style="max-width:900px;width:45%" hspace="10" vspace="10">
+<img src="images/CSF-2023-4.jpeg" align="left" style="max-width:1200px;width:45%" hspace="10" vspace="10">
 
 # K–12 Education
 
