@@ -1,20 +1,4 @@
 - type: "fall-2023"
-  speaker-name: Susanne Yelin
-  speaker-title: Professor of Physics in Residence
-  speaker-affiliation: Harvard University
-  speaker-website: "https://www.physics.harvard.edu/people/facpages/yelin"
-  speaker-photo-location: 
-  talk-date: "2023-09-23"
-  talk-date-time: "POSTPONED: new date coming soon (originally scheduled for Friday, September 22, 2023, 2:00–3:00 pm)"
-  talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Analog quantum machine learning for near-term hardware"
-  talk-abstract: "Quantum neuromorphic computing is a subfield of quantum machine learning that capitalizes on inherent system dynamics. As a result, it can run on contemporary, noisy quantum hardware and is poised to realize challenging algorithms in the near term. I will show how a present-day programmable quantum simulator has all the features to allow the learning of several cognitive tasks, such as multitasking, decision-making, and memory, by taking advantage of several key features of such a platform. One key element yet to be added to such modes is the characterization of the requisite dynamics for universal quantum neuromorphic computations. We address this issue by proposing a quantum perceptron, a simple mathematical model for a neuron that is the building block of various machine learning architectures and demonstrate that it can realize universal quantum computations. The effectiveness of this architecture can then also be shown by applying it to, e.g., calculating the inner products between quantum states, energy measurement, and quantum metrology."
-  slides-link: ""
-  youtube-link: ""
-  speaker-thrust: "physics theory"
-  speaker-gender: "woman"
-
-- type: "fall-2023"
   speaker-name: Dmitrii Kochkov
   speaker-title: Research Engineer
   speaker-affiliation: Google
@@ -45,6 +29,22 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+
+- type: "fall-2023"
+  speaker-name: Susanne Yelin
+  speaker-title: Professor of Physics in Residence
+  speaker-affiliation: Harvard University
+  speaker-website: "https://www.physics.harvard.edu/people/facpages/yelin"
+  speaker-photo-location: 
+  talk-date: "2023-12-23"
+  talk-date-time: "POSTPONED: new date coming soon (originally scheduled for Friday, September 22, 2023, 2:00–3:00 pm)"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Analog quantum machine learning for near-term hardware"
+  talk-abstract: "Quantum neuromorphic computing is a subfield of quantum machine learning that capitalizes on inherent system dynamics. As a result, it can run on contemporary, noisy quantum hardware and is poised to realize challenging algorithms in the near term. I will show how a present-day programmable quantum simulator has all the features to allow the learning of several cognitive tasks, such as multitasking, decision-making, and memory, by taking advantage of several key features of such a platform. One key element yet to be added to such modes is the characterization of the requisite dynamics for universal quantum neuromorphic computations. We address this issue by proposing a quantum perceptron, a simple mathematical model for a neuron that is the building block of various machine learning architectures and demonstrate that it can realize universal quantum computations. The effectiveness of this architecture can then also be shown by applying it to, e.g., calculating the inner products between quantum states, energy measurement, and quantum metrology."
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics theory"
+  speaker-gender: "woman"
 
 - type: "spring-2023"
   speaker-name: "Denis Boyda"

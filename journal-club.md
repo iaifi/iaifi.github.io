@@ -19,8 +19,6 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
   {% if date > now %}
   {% if talk.type == "fall-2023" %}
 
-<img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:12%" hspace="10" vspace="10"/>
-
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
@@ -30,6 +28,23 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
 {% endfor %}
 
 ## Past Journal Clubs
+
+### Fall 2023 Journal Clubs
+
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% assign talks = site.data.journal-club %}
+{% for talk in talks %}
+  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
+  {% if date < now %}
+  {% if talk.type == "fall-2023" %}
+
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+  {% endif %}
+  {% endif %}
+{% endfor %}
 
 ### Spring 2023 Journal Clubs
 
