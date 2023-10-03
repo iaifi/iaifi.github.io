@@ -25,7 +25,7 @@
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Open-Source Simulation and Machine Learning for Neutrino Telescopes"
   talk-abstract: "In the last decade, the filed of neutrino astronomy has made major strides, culminating of the definitive detection of galactic and extragalactic components of the astrophysical neutrino flux. We can now  begin characterizing these astrophysical beams and pursuing new physics through them. Machine learning techniques have played an integral part in these recent advances, and while these current efforts have been impressive, it is clear that there is room to improve. This face, along with the growing, global network of neutrino telescopes, drives the need for open-source tools to use all person power and avoid reduplicating effort. In this talk I will present Prometheus, the first open-source, end-to-end simulation for neutrino telescopes. Furthermore, I will show a recent example of Prometheus to develop machine learning techniques capable of running at typical neutrino telescope trigger rates."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1PzyVn9lFn8-DLU3IJ8fEh4tWav09DNS9/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
@@ -39,8 +39,9 @@
   talk-date: "2023-10-03"
   talk-date-time: "Tuesday, October 3, 2023, 11:00 am–12:00 pm"
   talk-location: "MIT LNS Conference Room (26-528)"
-  talk-title: "Title to come"
-  talk-abstract: "Abstract to come"
+  talk-title: "Learning Group Representations in Neural Networks"
+  talk-abstract: "Employing equivariance in neural networks leads to greater parameter efﬁciency via parameter sharing and improved generalization performance through the encoding of domain knowledge in the architecture; however, the majority of existing approaches require an a priori speciﬁcation of the data symmetries. We present a neural network architecture, Group Representation Networks (GRNs), that learns symmetries on the weight space of neural networks without any supervision or knowledge of the hidden symmetries in the data. Beyond their interpretability, GRNs’ learned representations distill symmetries of the data domain and the downstream task, which are incorporated when training networks on different datasets. The key idea behind GRNs relates weights in neural networks via a cyclic action whose group representation depends on the data domain, and is learned in an unsupervised manner. Our experiments underline the ability of GRNs to correctly recover symmetries in the data, show competitive performance when GRNs are used as a drop-in replacement for conventional layers, and highlight the ability to transfer learned representations across tasks and datasets.
+"
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "foundational AI"
@@ -60,6 +61,22 @@
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "foundational AI"
+  speaker-gender: "man"
+
+- type: "fall-2023"
+  speaker-name: Jose Miguel Munoz Arias
+  speaker-title: Graduate Student
+  speaker-affiliation: MIT
+  speaker-website: "https://github.com/munozariasjm"
+  speaker-photo-location: 
+  talk-date: "2023-11-07"
+  talk-date-time: "Tuesday, November 7, 2023, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Title to come"
+  talk-abstract: "Abstract to come"
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics theory"
   speaker-gender: "man"
 
 - type: "fall-2023"
