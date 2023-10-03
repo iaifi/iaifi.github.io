@@ -24,6 +24,10 @@ In recent years there has been a surge in tools that facilitate creative works u
 
 <img src="images/CSF-2023-Lunch-2.jpeg" align="left" style="max-width:1200px;width:45%" hspace="10" vspace="10"> <img src="images/CSF-2023-Lunch-1.jpeg" align="left" style="max-width:1200px;width:45%" hspace="10" vspace="10"> 
 
+[Generative AI Overview from Carol Cuesta-Lazaro](https://slides.com/carolcuesta/palette)
+
+[Ethics Overview from Hope Schroeder](talks/CSF2023_Lunch_Slides_Hope.pdf)
+
 **Workshop Leaders**
 
 Carolina Cuesta-Lazaro is an IAIFI Fellow interested in developing robust and interpretable Machine Learning models that can guide us towards future discoveries in physics. Her main research interests lie on the intersection of cosmology and AI.
