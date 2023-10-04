@@ -27,7 +27,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Seeking additional members
 * Develops educational materials for use in outreach activities, such as classroom visits, and brainstorms opportunities for outreach (including festivals, museum exhibits, etc)
 * Time Commitment: One-hour meeting every 3-4 weeks and time spent developing materials (on volunteer basis)
-* 2023 Public Engagement Committee: Lina Necib (Chair), Brent Nelson, Tri Nguyen, Sneh Pandya, Sangeon Park, Sokratis Trifinopolous, Ge Yang, Comfort Asumadu
+* 2023 Public Engagement Committee: Lina Necib (Chair), Brent Nelson, Tri Nguyen, Sneh Pandya, Sangeon Park, Sokratis Trifinopolous, Ge Yang, Comfort Asumadu, Carlos Argüelles-Delgado, Gaia Grosso
 * 2022 Public Engagement Committee: Lina Necib (Chair), Brent Nelson, Harold Erbin, Tri Nguyen, Sneh Pandya, Sangeon Park, Sokratis Trifinopolous, Ge Yang, Comfort Asumadu
 * Primary Contact: [Email Lina Necib](mailto:lnecib@mit.edu)
 
@@ -75,6 +75,7 @@ Primary Contact: [Email Pulkit Agrawal](mailto:pulkitag@mit.edu)
 * Status: No additional organizers needed at this time, but [sign up here to lead a Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7)
 * Schedules and coordinates the IAIFI Journal Club and introduces Journal Club presenters
 * Time Commitment: One-hour meeting per semester, attendance at Journal Club every 1-2 weeks, and time spent inviting presenters
+* 2023 Journal Club Organizers: Andrew Tan and John Martyn
 * 2022 Journal Club Organizers: Andrew Tan and John Martyn
 * Primary Contact: [Email Andrew Tan](aktan@mit.edu) or [email John Martyn](jmmartyn@mit.edu)
 
