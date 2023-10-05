@@ -36,6 +36,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
 
+***On September 18-19, 2023, Jesse Thaler, Mike Williams, and Marisa LaFleur visited the NSF and Congress as part of the [NSF AI Hill Day](https://www.ai4opt.org/news-events/nsf-ai-hill-day),*** where Jesse and Mike lobbied with the [CNSF](https://www.cnsf.us#:~:text=The%20Coalition%20for%20National%20Science,%2C%20mathematics%2C%20and%20engineering%20enterprise.) to advocate for AI + Science funding. *October 5, 2023*
+{:.info}
+
 ***On July 21, 2023, many IAIFI Senior Investigators, Fellows, postdocs, and students presented at [The Impact of ChatGPT and other Large Language Models on Physics Research and Education](https://indico.mit.edu/event/759/).*** Watch [Workshop recordings](https://www.youtube.com/playlist?list=PLKemzYMx2_Ot1MZ_er2vFiINdJEgDO8Hg). *September 19, 2023*
 {:.info}
 
