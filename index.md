@@ -28,8 +28,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***The next [IAIFI Colloquium](events.html) will be held on Friday, October 13, 2023 with François Lanusse (Researcher, CNRS).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
-***IAIFI will be at the [Cambridge Science Festival](https://iaifi.org/outreach.html#cambridge-science-festival)!*** Join us on Wednesday, September 27, 2023 for a lunch and learn on Ethics in AI and Art; then come see us at the carnival on Sunday, October 1, 2023 to interact with a virtual physicist created using generative AI!
+***IAIFI is partnering with [Astronomy on Tap](https://astronomyontap.org/locations/boston-ma/) on Monday, October 16, 6:30pm–8:30pm*** at the Aeronaut Brewery (14 Tyler Street, Somerville) where IAIFI   members Alexander Gagliano (IAIFI Fellow) and Cecilia Garrafo (Astrophysicist, Harvard-Smithsonian CFA and IAIFI Affiliate) will be talking on The Stargazing Machine: Using machine learning to study cosmic explosions (and end world hunger) and The Future of AI in Astronomy: challenges, perspectives and opportunities.
 {:.success}
+
 
 ### IAIFI News
 
