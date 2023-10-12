@@ -28,10 +28,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***The next [IAIFI Colloquium](events.html) will be held on Friday, October 13, 2023 with François Lanusse (Researcher, CNRS).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
-***IAIFI is partnering with [Astronomy on Tap](https://astronomyontap.org/locations/boston-ma/) on Monday, October 16, 6:30pm–8:00pm*** at the Aeronaut Brewery (14 Tyler Street, Somerville). At this event, IAIFI Fellow,  Alexander Gagliano will be talking on *The Stargazing Machine: Using machine learning to study cosmic explosions (and end world hunger)*. Cecilia Garrafo (Astrophysicist, Harvard-Smithsonian CFA and IAIFI Affiliate) will also be talking on *The Future of AI in Astronomy: challenges, perspectives and opportunities*.
-{:.success}
-
-***IAIFI Visitor, Physicist and Visual Artist, Kaća Bradonjić will be doing a [Catalyst Conversation](https://www.catalystconversations.org/upcoming-events) on BEYOND REACH: On Understanding in Physics*** with Tracy Slayer (MIT Physics Professor and IAIFI Senior Investigator) and David Kaisser (Physicist and Historian of Science). This event will be held on November 1, 7:00pm–8:00pm at the Bartos Theater (20 Ames Street Building E15, Atrium level, Cambridge). [Reserve free tickets](https://www.eventbrite.com/e/beyond-reach-on-understanding-in-physics-tickets-733822963237?aff=oddtdtcreator) to attend event
+***IAIFI is partnering with [Astronomy on Tap](https://astronomyontap.org/locations/boston-ma/) on Monday, October 16, 6:30pm–8:00pm*** at Aeronaut Brewing (14 Tyler Street, Somerville). The event will feature Alexander Gagliano (IAIFI Fellow) discussing "The Stargazing Machine: Using machine learning to study cosmic explosions (and end world hunger)" and Cecilia Garraffo (Astrophysicist, Harvard-Smithsonian CFA; IAIFI Affiliate) discussing The Future of AI in Astronomy: challenges, perspectives and opportunities.
 {:.success}
 
 
@@ -40,7 +37,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
 
-***On September 18-19, 2023, Jesse Thaler, Mike Williams, and Marisa LaFleur visited the NSF and Congress as part of the [NSF AI Hill Day](https://www.ai4opt.org/news-events/nsf-ai-hill-day),*** where Jesse and Mike met congressional staffers to share the work of IAIFI and discuss the importance of AI for Science. *October 5, 2023*
+***On September 18-19, 2023, Jesse Thaler, Mike Williams, and Marisa LaFleur visited the NSF and Congress, along with other NSF AI Institutes, as part of the [NSF AI Hill Day](https://nsf-gov-resources.nsf.gov/2023-09/AI_Institutes_Hill_Day_Booklet.pdf),*** where Jesse and Mike met congressional staffers to share the work of IAIFI and discuss the importance of AI for Science. *October 5, 2023*
 {:.info}
 
 ***On July 21, 2023, many IAIFI Senior Investigators, Fellows, postdocs, and students presented at [The Impact of ChatGPT and other Large Language Models on Physics Research and Education](https://indico.mit.edu/event/759/).*** Watch [Workshop recordings](https://www.youtube.com/playlist?list=PLKemzYMx2_Ot1MZ_er2vFiINdJEgDO8Hg). *September 19, 2023*
