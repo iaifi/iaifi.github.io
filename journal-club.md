@@ -42,6 +42,7 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
     * {{talk.talk-abstract}}
+    * [Slides]({{talk.slides-link}}) (for IAIFI members only)
   {% endif %}
   {% endif %}
 {% endfor %}

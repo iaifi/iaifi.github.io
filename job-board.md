@@ -123,7 +123,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 {% endif %}
 {% endfor %}
 
-<!---
+
 ## Other Academic Opportunities
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
 {% assign jobs = site.data.jobs | sort | reverse %}
@@ -144,7 +144,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 {% endif %}
 {% endif %}
 {% endfor %}
---->
+
 
 # Industry Opportunities
 

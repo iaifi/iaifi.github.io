@@ -1,7 +1,13 @@
 categories:
-  - alumni:
-    name: Alumni
-    anchor: alumni
-    type1: alumni
+  - former-junior-investigators:
+    name: Former Junior Investigators
+    anchor: former-junior-investigators
+    type1: former-junior-investigators
+    type2:
+    type3:
+  - former-visitors:
+    name: Former Visitors
+    anchor: former-visitors
+    type1: former-visitors
     type2:
     type3:

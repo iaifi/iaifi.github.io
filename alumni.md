@@ -1,12 +1,14 @@
 ---
 layout: article
 title: Alumni
+aside:
+  toc: true
 ---
 
 
-IAIFI alumni are former IAIFI Junior Investigators who have moved on to new opportunities.  
-
 {% for category in site.data.alumni-category.categories  %}
+
+## {{category.name}}
 
 {% if category.type3 %}
 {% assign personnel1 = site.data[category.type1].personnel %}
