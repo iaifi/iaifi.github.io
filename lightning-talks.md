@@ -6,11 +6,16 @@ aside:
 ---
 
 
-## Upcoming Lightning Talk sessions
 
-IAIFI Lightning Talk will continue in Fall 2023
 
 Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC). 
+
+## Upcoming Lightning Talk 
+
+* **Lightning Talk: Fellows Showcase**
+     * **Friday, October 20, 2023, 2:00pm–3:00pm**
+     * *This IAIFI Lightning Talk will feature several IAIFI Fellows discussing their research interests, current projects and opportunities for collaboration!*
+     * List of IAIFI Fellows presenting: Carolina Cuesta-Lazaro, Alexander Gagliano, Gaia Grosso, Di Luo, and Ge Yang.
 
 
 ## Past Lightning Talks
