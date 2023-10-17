@@ -40,11 +40,42 @@
   talk-date-time: "Tuesday, October 3, 2023, 11:00 am–12:00 pm"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Learning Group Representations in Neural Networks"
-  talk-abstract: "Employing equivariance in neural networks leads to greater parameter efﬁciency via parameter sharing and improved generalization performance through the encoding of domain knowledge in the architecture; however, the majority of existing approaches require an a priori speciﬁcation of the data symmetries. We present a neural network architecture, Group Representation Networks (GRNs), that learns symmetries on the weight space of neural networks without any supervision or knowledge of the hidden symmetries in the data. Beyond their interpretability, GRNs’ learned representations distill symmetries of the data domain and the downstream task, which are incorporated when training networks on different datasets. The key idea behind GRNs relates weights in neural networks via a cyclic action whose group representation depends on the data domain, and is learned in an unsupervised manner. Our experiments underline the ability of GRNs to correctly recover symmetries in the data, show competitive performance when GRNs are used as a drop-in replacement for conventional layers, and highlight the ability to transfer learned representations across tasks and datasets.
-"
-  slides-link: ""
+  talk-abstract: "Employing equivariance in neural networks leads to greater parameter efﬁciency via parameter sharing and improved generalization performance through the encoding of domain knowledge in the architecture; however, the majority of existing approaches require an a priori speciﬁcation of the data symmetries. We present a neural network architecture, Group Representation Networks (GRNs), that learns symmetries on the weight space of neural networks without any supervision or knowledge of the hidden symmetries in the data. Beyond their interpretability, GRNs’ learned representations distill symmetries of the data domain and the downstream task, which are incorporated when training networks on different datasets. The key idea behind GRNs relates weights in neural networks via a cyclic action whose group representation depends on the data domain, and is learned in an unsupervised manner. Our experiments underline the ability of GRNs to correctly recover symmetries in the data, show competitive performance when GRNs are used as a drop-in replacement for conventional layers, and highlight the ability to transfer learned representations across tasks and datasets."
+  slides-link: "https://drive.google.com/file/d/16wtWnTyPaclbD4ch9yK2CkgGPKfSpdkO/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "foundational AI"
+  speaker-gender: "man"
+
+- type: "fall-2023"
+  speaker-name: Andy Jin
+  speaker-title: Graduate Student
+  speaker-affiliation: Harvard University
+  speaker-website: "https://lppc.physics.harvard.edu/people/miaochen-andy-jin"
+  speaker-photo-location: 
+  talk-date: "2023-10-31"
+  talk-date-time: "Tuesday, October 17, 2023, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Two Watts is All You Need: Low-Power Machine Learning on TPU for Neutrino Telescopes"
+  talk-abstract: "In neutrino experiments, we have seen machine learning software methods to boost our abilities of physics discovery given the hardware experimental setups. Currently, we face upgrades and new telescopes and experimental hardware expecting more statistics as well as more complicated data signals. This calls out for an upgrade on the software side as well for handling the more complex data in a more efficient way. Specifically, we need low power and fast software methods in order to achieve real time signal processing, where current machine learning base methods are too expensive to be deployed in the commonly power-restricted regions where these experiments are located. In this talk, I will present the first attempt at and a proof of concept for enabling machine learning methods to be deployed live in under water/ice neutrino telescopes via quantization and deployment on Tensor Processing Units (TPUs). We use an LSTM-based recursive neural network with residual convolution-based data encoding, combined with specifically tailored data pre-processing and quantization aware training methods for deployment on the Google Edge TPU. This algorithm can achieve state-of-the-art angular resolution in reconstruction with a real-time inference frequency of 100 Hz/Watts in a TPU accelerator at only 2 Watts of power consumption. This opens up a world of chances to integrate machine learning capacity into detectors and electronics deep into even the most power-restricted environments."
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics experiment"
+  speaker-gender: "man"
+
+- type: "fall-2023"
+  speaker-name: Ryan Raikman
+  speaker-title: Research Scientist
+  speaker-affiliation: MIT LIGO
+  speaker-website: ""
+  speaker-photo-location: 
+  talk-date: "2023-10-31"
+  talk-date-time: "Tuesday, October 24, 2023, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Title to come"
+  talk-abstract: "Abstract to come"
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics experiment"
   speaker-gender: "man"
 
 - type: "fall-2023"
@@ -95,3 +126,19 @@
   speaker-thrust: "physics experiment"
   speaker-gender: ""
 
+
+- type: "fall-2023"
+  speaker-name: Neill Warrington
+  speaker-title: Postdoc
+  speaker-affiliation: MIT
+  speaker-website: ""
+  speaker-photo-location: 
+  talk-date: "2023-10-31"
+  talk-date-time: "Tuesday, November 28, 2023, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Title to come"
+  talk-abstract: "Abstract to come"
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics theory"
+  speaker-gender: ""

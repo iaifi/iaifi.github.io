@@ -10,7 +10,7 @@
   talk-title: "Physics of Neural Phenomena: Understanding Learning and Computation through Symmetry"
   talk-abstract: "Once described as alchemy, a quantitative science of machine learning is emerging. This talk will seek to unify the scientific approaches taken in machine learning, neuroscience, and physics. We will show how conceptual and mathematical tools in physics, such as symmetry, may illuminate the universal mechanisms behind learning and computation in biological and artificial neural networks. We plan to (i) generalize Noether's theorem in physics to show how scale symmetry of normalization makes learning more stable and efficient, (ii) propose a new framework for studying compositional generalization in generative models, and (iii) identify phase transitions in the loss landscapes of self-supervised learning as a potential cause of a failure mode called dimensional collapse."
   slides-link: ""
-  youtube-link: ""
+  youtube-link: "https://www.youtube.com/live/83uzaYXwzAM?feature=shared"
   speaker-thrust: "foundational AI"
   speaker-gender: "man"
 
@@ -25,8 +25,8 @@
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Merging Deep Learning with Physical Models for the Analysis of Cosmological Surveys"
   talk-abstract: "As we move towards the next generation of cosmological surveys, our field is facing new and outstanding challenges at all levels of scientific analysis, from pixel-level data reduction to cosmological inference. As powerful as Deep Learning (DL) has proven to be in recent years, in most cases a DL approach alone proves to be insufficient to meet these challenges, and is typically plagued by issues including robustness to covariate shifts, interpretability, and proper uncertainty quantification, impeding their exploitation in scientific analyses. In this talk, I will instead advocate for a unified approach merging the robustness and interpretability of physical models, the proper uncertainty quantification provided by a Bayesian framework, and the inference methodologies and computational frameworks brought about by the Deep Learning revolution. In practice this will mean following two main directions: 1. using deep generative models as a practical way to manipulate implicit distributions (either data- or simulation-driven) within a larger Bayesian framework. 2. Developing automatically differentiable physics models amenable to gradient-based optimization and inference. I will illustrate these concepts in a range of applications in the context of cosmological galaxy surveys, from pixel-level astronomical data processing (e.g. deconvolution), to inferring cosmological parameters through fast and automatically differentiable cosmological N-body simulations. Methodology-wise these examples will involve in particular diffusion generative models, score-enhanced simulation-based inference, and hybrid physical/neural ODEs."
-  slides-link: ""
-  youtube-link: ""
+  slides-link: "https://flanusse.net/talks/IAIFI2023/"
+  youtube-link: "https://www.youtube.com/live/9_-Eokn0cwY?feature=shared"
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
 
