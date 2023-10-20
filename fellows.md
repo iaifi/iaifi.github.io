@@ -6,15 +6,8 @@ title: IAIFI Fellows
 
 ## Call for Applications for 2024-2027 IAIFI Fellows
 
-**[Applications are now open](https://academicjobsonline.org/ajo/jobs/25055) for the fourth round of the IAIFI Fellowship search. Apply by October 10,  2023.**
+**Applications are now closed for the fourth round of the IAIFI Fellowship search. [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to stay up to date on future postings.**
 {:.info}
-
-[Apply on AJO](https://academicjobsonline.org/ajo/jobs/25055){:.button.button--outline-primary.button--pill.button--lg}
-
-<!--
-**Applications are now closed for the third round of the IAIFI Fellowship search. [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to stay up to date on future postings.**
-{:.info}
--->
 
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI, pronounced /aɪ-faɪ/) is one of the inaugural NSF AI research institutes. The IAIFI is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. AI is transforming many aspects of society, including the ways that scientists are pursuing groundbreaking discoveries.
 To facilitate these advances, the IAIFI seeks a talented, promising, and diverse group of researchers at an early stage of their careers to join the IAIFI Fellowship program. The role of an IAIFI Fellow is to spark vital interdisciplinary, multi-investigator, multi-subfield collaborations across the primary IAIFI thrusts of theoretical physics, experimental physics, and foundational AI. Such collaborations have immense power to generate new ideas and approaches in both physics and AI, to facilitate abstracting physics challenges beyond their native domains to inform the development of cutting-edge AI tools, and to instill a common language across disciplines. Our program aims to appoint three new postdoctoral IAIFI Fellows each academic year, for a three-year fellowship term each.
