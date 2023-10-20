@@ -25,17 +25,15 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***The next [IAIFI Colloquium](events.html) will be held on Friday, October 13, 2023 with François Lanusse (Researcher, CNRS).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
+***The next [IAIFI Colloquium](events.html) will be held on Friday, December 8, 2023 with Xiaoliang Qi, (Professor of Physics, Stanford University).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
-
-***IAIFI is partnering with [Astronomy on Tap](https://astronomyontap.org/locations/boston-ma/) on Monday, October 16, 6:30pm–8:00pm*** at Aeronaut Brewing (14 Tyler Street, Somerville). The event will feature Alexander Gagliano (IAIFI Fellow) discussing "The Stargazing Machine: Using machine learning to study cosmic explosions (and end world hunger)" and Cecilia Garraffo (Astrophysicist, Harvard-Smithsonian CFA; IAIFI Affiliate) discussing The Future of AI in Astronomy: challenges, perspectives and opportunities.
-{:.success}
-
 
 ### IAIFI News
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+***Carlos Arguelles-Delgado, Harvard Assistant Professor of Physics and IAIFI Senior Investigator, named 2023 Packard Fellow***. Read [more about Carlos' research and the award](https://news.harvard.edu/gazette/story/newsplus/neutrino-physicist-carlos-arguelles-delgado-named-packard-fellow/). *October 20, 2023*
+{:.info}
 
 ***On September 18-19, 2023, Jesse Thaler, Mike Williams, and Marisa LaFleur visited the NSF and Congress, along with other NSF AI Institutes, as part of the [NSF AI Hill Day](https://nsf-gov-resources.nsf.gov/2023-09/AI_Institutes_Hill_Day_Booklet.pdf),*** where Jesse and Mike met congressional staffers to share the work of IAIFI and discuss the importance of AI for Science. *October 5, 2023*
 {:.info}
