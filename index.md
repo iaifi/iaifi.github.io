@@ -32,7 +32,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
-***Carlos Arguelles-Delgado, Harvard Assistant Professor of Physics and IAIFI Senior Investigator, awarded 2023 Packard Fellowship***. Read [more about Carlos' research and the award](https://news.harvard.edu/gazette/story/newsplus/neutrino-physicist-carlos-arguelles-delgado-named-packard-fellow/). *October 20, 2023*
+***Carlos Arguelles-Delgado, Harvard Assistant Professor of Physics and IAIFI Senior Investigator, named 2023 Packard Fellow***. Read [more about Carlos' research and the award](https://news.harvard.edu/gazette/story/newsplus/neutrino-physicist-carlos-arguelles-delgado-named-packard-fellow/). *October 20, 2023*
 {:.info}
 
 ***On September 18-19, 2023, Jesse Thaler, Mike Williams, and Marisa LaFleur visited the NSF and Congress, along with other NSF AI Institutes, as part of the [NSF AI Hill Day](https://nsf-gov-resources.nsf.gov/2023-09/AI_Institutes_Hill_Day_Booklet.pdf),*** where Jesse and Mike met congressional staffers to share the work of IAIFI and discuss the importance of AI for Science. *October 5, 2023*
