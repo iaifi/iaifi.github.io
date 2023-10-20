@@ -5,11 +5,8 @@ aside:
   toc: true
 ---
 
-Our [next 2024 IAIFI Fellows search](https://iaifi.org/fellows) will open in June 2023.
 
 ## 2023-2026 IAIFI Fellows
-
-We are excited for [Gaia](#gaia-grosso) and [Alex](#alex-gagliano) to join us as our third round of IAIFI Fellows to help spark vital interdisciplinary research at the intersection of Physics and AI!
 
 ### [Gaia Grosso](mailto:gaia.grosso@cern.ch)
 <img src="images/small-photo-gaia-grosso.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
