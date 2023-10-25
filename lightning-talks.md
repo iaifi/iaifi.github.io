@@ -12,14 +12,17 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 
 ## Upcoming Lightning Talks 
 
-* **Lightning Talks: Fellows Showcase**
-     * **Friday, October 20, 2023, 2:00pm–3:00pm**
-     * *This IAIFI Lightning Talk session will feature several IAIFI Fellows discussing their research interests, current projects and opportunities for collaboration!*
-     * Fellows presenting: Carolina Cuesta-Lazaro, Alexander Gagliano, Gaia Grosso, Di Luo, and Ge Yang.
 
 
 ## Past Lightning Talks
 [Access recordings of past lightning talks (for IAIFI members only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=share_link)
+
+* **Lightning Talks: Fellows Showcase**
+     * **Friday, October 20, 2023, 2:00pm–3:00pm**
+     * *This IAIFI Lightning Talk session featured several IAIFI Fellows discussing their research interests, current projects and opportunities for collaboration!*
+     * Fellows who presented: Carolina Cuesta-Lazaro, Alexander Gagliano, Gaia Grosso, Di Luo, and Ge Yang
+     * [Recording](https://mit.zoom.us/rec/play/4C7tSHwtMAQfK70eNKwOl2mIlWbMWIgOeQvOoOL5PPPKcDwn0wQdjWloa8eSiNlz3tOLs1LPKre-q3Dw.xWwV6C3agpL7qa0V?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fmit.zoom.us%2Frec%2Fshare%2FIUpsL13mXfoUQNN72ocy5cHqoDEExyNJm4OK81t3OV9sYlH5cJm2Re6fwJ4q5wEa.NYVkLEhFdVrFJBi3)
+ 
 
 * **IAIFI Symposium**
      * **Friday, April 14, 2023, 2:00pm–4:00pm**

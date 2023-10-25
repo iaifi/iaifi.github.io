@@ -64,7 +64,7 @@
 
 - type: "fall-2023"
   speaker-name: Ryan Raikman
-  speaker-title: Research Scientist
+  speaker-title: Undergraduate, Carnegie Mellon University (currently working with LIGO)
   speaker-affiliation: MIT LIGO
   speaker-website: ""
   speaker-photo-location: 
@@ -73,6 +73,22 @@
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "GWAK: Gravitational Wave Anomalous Knowledge with Recurrent Autoencoders"
   talk-abstract: "Matched-filtering detection techniques for gravitational-wave (GW) signals in ground-based interferometers rely on having well-modeled templates of the GW emission. Such techniques have been traditionally used in searches for compact binary coalescences (CBCs), and have been employed in all known GW detections so far. However, interesting science cases aside from compact mergers do not yet have accurate enough modeling to make matched filtering possible, including core-collapse supernovae and sources where stochasticity may be involved. Therefore the development of techniques to identify sources of these types is of significant interest. In this paper, we present a method of anomaly detection based on deep recurrent autoencoders to enhance the search region to unmodeled transients. We use a semi-supervised strategy that we name Gravitational Wave Anomalous Knowledge (GWAK). While the semi-supervised nature of the problem comes with a cost in terms of accuracy as compared to supervised techniques, there is a qualitative advantage in generalizing experimental sensitivity beyond pre-computed signal templates. We construct a low-dimensional embedded space using the GWAK method, capturing the physical signatures of distinct signals on each axis of the space. By introducing signal priors that capture some of the salient features of GW signals, we allow for the recovery of sensitivity even when an unmodeled anomaly is encountered. We show that regions of the GWAK space can identify CBCs, detector glitches and also a variety of unmodeled astrophysical sources."
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics experiment"
+  speaker-gender: "man"
+
+- type: "fall-2023"
+  speaker-name: Thorsten Glüsenkamp
+  speaker-title: Postdoc
+  speaker-affiliation: Uppsala University
+  speaker-website: ""
+  speaker-photo-location: 
+  talk-date: "2023-10-31"
+  talk-date-time: "Tuesday, October 31, 2023, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Conditional normalizing flows for IceCube event reconstruction"
+  talk-abstract: "Abstract to come"
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "physics experiment"
