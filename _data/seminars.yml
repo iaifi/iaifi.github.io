@@ -13,6 +13,7 @@
   youtube-link: ""
   speaker-thrust: "foundational AI"
   speaker-gender: "man"
+  talk-attendance: 
 
 - type: "fall-2023"
   speaker-name: Mike Douglas
@@ -29,6 +30,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance: 
 
 - type: "fall-2023"
   speaker-name: Susanne Yelin
@@ -45,6 +47,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "woman"
+  talk-attendance: 
 
 - type: "spring-2023"
   speaker-name: "Denis Boyda"
@@ -61,6 +64,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2023"
   speaker-name: "Brian Nord"
@@ -77,6 +81,7 @@
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2023"
   speaker-name: "Carolina Cuesta-Lazaro"
@@ -93,6 +98,7 @@
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "spring-2023"
   speaker-name: "Special Seminar: Eun-Ah Kim"
@@ -109,6 +115,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "fall-2022"
   speaker-name: "Aleksander Madry"
@@ -125,6 +132,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2022"
   speaker-name: "Abiy Tasissa"
@@ -141,6 +149,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2022"
   speaker-name: "Special Seminar: Kaća Bradonjić"
@@ -157,6 +166,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "fall-2022"
   speaker-name: "Jessie Micallef"
@@ -173,6 +183,7 @@
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "not specified"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: "Anna Golubeva"
@@ -189,6 +200,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: "Boaz Borak"
@@ -205,6 +217,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: "Siddharth Mishra-Sharma"
@@ -221,6 +234,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: "Special Seminar: Junyu Liu"
@@ -237,6 +251,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Fabian Ruehle"
@@ -253,6 +268,7 @@
   youtube-link: ""
   speaker-thrust: "Physics Theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Di Luo"
@@ -269,6 +285,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Cengiz Pehlevan"
@@ -285,6 +302,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Bryan Ostdiek"
@@ -301,6 +319,7 @@
   youtube-link: ""
   speaker-thrust: "Physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Tess Smidt"
@@ -317,6 +336,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Harini Suresh"
@@ -333,6 +353,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Justin Solomon"
@@ -349,6 +370,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Phil Harris, Anjali Nambrath, Karna Morey, Michal Szurek, Jade Chongsathapornpong"
@@ -365,6 +387,7 @@
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: ""
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Ge Yang"
@@ -381,6 +404,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Christopher Rackauckas"
@@ -397,6 +421,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "George Barbastathis/Demba Ba"
@@ -413,6 +438,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "David Kaiser"
@@ -429,6 +455,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: man
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Alexander Rakhlin"
@@ -445,6 +472,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Edo Berger"
@@ -461,3 +489,4 @@
   youtube-link: ""
   speaker-thrust: "physics experiment"
   Speaker-gender: man
+  talk-attendance:

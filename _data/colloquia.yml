@@ -13,6 +13,7 @@
   youtube-link: "https://www.youtube.com/live/83uzaYXwzAM?feature=shared"
   speaker-thrust: "foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2023"
   speaker-name: François Lanusse
@@ -29,6 +30,7 @@
   youtube-link: "https://www.youtube.com/live/9_-Eokn0cwY?feature=shared"
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2023"
   speaker-name: Xiaoliang Qi
@@ -45,6 +47,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2023"
   speaker-name: Uros Seljak
@@ -61,6 +64,7 @@
   youtube-link: "https://www.youtube.com/live/H8H7tB-AJL8?feature=share"
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2023"
   speaker-name: Yonatan Kahn
@@ -77,6 +81,7 @@
   youtube-link: "https://www.youtube.com/live/L9_8nz2LpjM?feature=share"
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2023"
   speaker-name: Boris Hanin
@@ -93,6 +98,7 @@
   youtube-link: "https://www.youtube.com/watch?v=Ov8S68KWiPw"
   speaker-thrust: "foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2022"
   speaker-name: Anima Anandkumar
@@ -109,6 +115,7 @@
   youtube-link: "https://youtu.be/RR5-mYQOb7E"
   speaker-thrust: "foundational AI"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "fall-2022"
   speaker-name: Daniel Goldman
@@ -125,6 +132,7 @@
   youtube-link: 
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2022"
   speaker-name: Lucy Colwell
@@ -141,6 +149,7 @@
   youtube-link: "https://youtu.be/5r3LKWHKl-0"  
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: Kyle Cranmer
@@ -157,6 +166,7 @@
   youtube-link: "https://youtu.be/hGup1Yv7Ajk"
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: Giuseppe Carleo
@@ -173,6 +183,7 @@
   youtube-link: "https://youtu.be/d-DBXsT6D7M"
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: Yann LeCun
@@ -189,6 +200,7 @@
   youtube-link: "https://youtu.be/_K0h7oEe8BQ"
   speaker-thrust: "foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: Hiranya Peiris
@@ -205,6 +217,7 @@
   youtube-link: "https://youtu.be/bBqvp4-gKzE"
   speaker-thrust: "physics experiment"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: Laura Waller
@@ -221,6 +234,7 @@
   youtube-link: "https://youtu.be/SYrtlBNKOJc"
   speaker-thrust: "Foundational AI"
   Speaker-gender: woman
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: Surya Ganguli
@@ -237,6 +251,7 @@
   youtube-link: "https://www.youtube.com/watch?v=kD7-OBMCaf0"
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: Ben Wandelt
@@ -253,6 +268,7 @@
   youtube-link: "https://youtu.be/0UL6b5Sb9uo"
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: Rose Yu
@@ -269,6 +285,7 @@
   youtube-link: "https://youtu.be/B0VxQXMB53o"
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: Sven Krippendorf
@@ -285,6 +302,7 @@
   youtube-link: "https://youtu.be/3kGbKpVBfLw"
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: Yasaman Bahri
@@ -301,6 +319,7 @@
   youtube-link: "https://youtu.be/SmswXVP9YnQ"
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: Kazuhiro Terao
@@ -317,6 +336,7 @@
   youtube-link: "https://youtu.be/XvcBKS9HIes"
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: Phiala Shanahan
@@ -333,6 +353,7 @@
   youtube-link: "https://www.youtube.com/watch?v=KJQqj-WucWo"
   speaker-thrust: "physics theory"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: Pulkit Agrawal
@@ -349,6 +370,7 @@
   youtube-link: "https://www.youtube.com/watch?v=1OSaTZB3WVY"
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: Max Tegmark
@@ -365,6 +387,7 @@
   youtube-link: "https://www.youtube.com/watch?v=WgY947vg_aY"
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: Phil Harris
@@ -381,6 +404,7 @@
   youtube-link: "https://www.youtube.com/watch?v=9_vNh09qqmw&feature=youtu.be"
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: Doug Finkbeiner
@@ -397,6 +421,7 @@
   youtube-link: "https://www.youtube.com/watch?v=t28zEQWWgFc"
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: Demba Ba
@@ -413,6 +438,7 @@
   youtube-link: "https://www.youtube.com/watch?v=3sh2JfK0S40"
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: Jim Halverson
@@ -429,3 +455,4 @@
   youtube-link: "https://youtu.be/aFBQ-ODkGuk"
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
