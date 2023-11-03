@@ -9,10 +9,11 @@
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Neural General Circulation Models for weather & climate"
   talk-abstract: "In recent years, there have been significant advancements in data-driven approaches to global weather forecasting that have demonstrated accuracy competitive with modern operational systems. While current state-of-the-art ML approaches achieve lower errors at medium-range lead-times, physics-based models like ECMWF’s HRES/ENS feature superior physical consistency and better forecast accuracy at longer lead-times. In this talk I’ll describe our ongoing research effort where we are developing a hybrid atmospheric model based on a differentiable dynamical core with a neural network representation of parameterized physics, trained end-to-end. Specifically, I’ll discuss the rationale behind our model formulation and show preliminary results on accuracy, physical consistency and emergent long-term atmospheric phenomena."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1jyKeRBsX5rl2JSjrbzjEJIhz9QP-LP6L/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "foundational AI"
   speaker-gender: "man"
+  talk-attendance: 
 
 - type: "fall-2023"
   speaker-name: Mike Douglas
@@ -23,12 +24,23 @@
   talk-date: "2023-11-17"
   talk-date-time: "Friday, November 17, 2023, 3:00–4:00 pm (Note later time than usual)" 
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Title to come"
-  talk-abstract: "Abstract to come"
+  talk-title: "Interactive Theorem Proving: an overview for scientists"
+  talk-abstract: "Interactive theorem proving (ITP) is a technique for expressing mathematical theorems in
+a formal language and verifying their correctness by computer.  Modern ITP systems such as
+Coq, Lean and Isabelle can express any rigorous mathematical statement, and a trained
+user can write verifiable proofs which are around four times longer than ``informal'' proofs.
+Much of undergraduate level and some graduate level mathematics has been formalized,
+and ITP is starting to help with the development of cutting edge mathematics.  
+Meanwhile, AI researchers make steady progress on the original AI challenge problem
+of automatically discovering and proving mathematical theorems, now with the help of
+large language models.  
+This talk is a colloquium level survey of these topics.
+"
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance: 
 
 - type: "fall-2023"
   speaker-name: Susanne Yelin
@@ -45,6 +57,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "woman"
+  talk-attendance: 
 
 - type: "spring-2023"
   speaker-name: "Denis Boyda"
@@ -61,6 +74,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2023"
   speaker-name: "Brian Nord"
@@ -77,6 +91,7 @@
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2023"
   speaker-name: "Carolina Cuesta-Lazaro"
@@ -93,6 +108,7 @@
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "spring-2023"
   speaker-name: "Special Seminar: Eun-Ah Kim"
@@ -109,6 +125,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "fall-2022"
   speaker-name: "Aleksander Madry"
@@ -125,6 +142,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2022"
   speaker-name: "Abiy Tasissa"
@@ -141,6 +159,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2022"
   speaker-name: "Special Seminar: Kaća Bradonjić"
@@ -157,6 +176,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "fall-2022"
   speaker-name: "Jessie Micallef"
@@ -173,6 +193,7 @@
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "not specified"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: "Anna Golubeva"
@@ -189,6 +210,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: "Boaz Borak"
@@ -205,6 +227,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: "Siddharth Mishra-Sharma"
@@ -221,6 +244,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2022"
   speaker-name: "Special Seminar: Junyu Liu"
@@ -237,6 +261,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Fabian Ruehle"
@@ -253,6 +278,7 @@
   youtube-link: ""
   speaker-thrust: "Physics Theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Di Luo"
@@ -269,6 +295,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Cengiz Pehlevan"
@@ -285,6 +312,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Bryan Ostdiek"
@@ -301,6 +329,7 @@
   youtube-link: ""
   speaker-thrust: "Physics theory"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Tess Smidt"
@@ -317,6 +346,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "fall-2021"
   speaker-name: "Harini Suresh"
@@ -333,6 +363,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Justin Solomon"
@@ -349,6 +380,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Phil Harris, Anjali Nambrath, Karna Morey, Michal Szurek, Jade Chongsathapornpong"
@@ -365,6 +397,7 @@
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: ""
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Ge Yang"
@@ -381,6 +414,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Christopher Rackauckas"
@@ -397,6 +431,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "George Barbastathis/Demba Ba"
@@ -413,6 +448,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "David Kaiser"
@@ -429,6 +465,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: man
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Alexander Rakhlin"
@@ -445,6 +482,7 @@
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
+  talk-attendance:
 
 - type: "spring-2021"
   speaker-name: "Edo Berger"
@@ -461,3 +499,4 @@
   youtube-link: ""
   speaker-thrust: "physics experiment"
   Speaker-gender: man
+  talk-attendance:

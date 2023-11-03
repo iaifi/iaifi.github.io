@@ -3,7 +3,7 @@ iaifi-thrust: E
 title: "A Parsec-Scale Galactic 3D Dust Map out to 1.25 kpc from the Sun"
 authors: Gordian Edenhofer, Catherine Zucker, Philipp Frank, Andrew K. Saydjari, Joshua S. Speagle, Douglas Finkbeiner, Torsten Enßlin
 abstract: "High-resolution 3D maps of interstellar dust are critical for probing the underlying physics shaping the structure of the interstellar medium, and for foreground correction of astrophysical observations affected by dust. We aim to construct a new 3D map of the spatial distribution of interstellar dust extinction out to a distance of 1.25 kpc from the Sun. We leverage distance and extinction estimates to 54 million nearby stars derived from the Gaia BP/RP spectra. Using the stellar distance and extinction information, we infer the spatial distribution of dust extinction. We model the logarithmic dust extinction with a Gaussian Process in a spherical coordinate system via Iterative Charted Refinement and a correlation kernel inferred in previous work. We probe our 661 million dimensional posterior distribution using the variational inference method MGVI. Our 3D dust map achieves an angular resolution of 14' (Nside = 256). We sample the dust extinction in 516 distance bins spanning 69 pc to 1250 pc. We obtain a maximum distance resolution of 0.4 pc at 69 pc and a minimum distance resolution of 7 pc at 1.25 kpc. Our map resolves the internal structure of hundreds of molecular clouds in the solar neighborhood and will be broadly useful for studies of star formation, Galactic structure, and young stellar populations."
-arxiv: "22308.01295"
+arxiv: "2308.01295"
 journal: 
 doi: 
 nsf-par:

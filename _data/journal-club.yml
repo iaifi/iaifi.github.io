@@ -88,7 +88,7 @@
   talk-date-time: "Tuesday, October 31, 2023, 11:00 am–12:00 pm"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Conditional normalizing flows for IceCube event reconstruction"
-  talk-abstract: "Abstract to come"
+  talk-abstract: "In this seminar, I will talk about normalizing flows (NFs), in particular about the types that are useful for high-energy neutrino event reconstruction in IceCube. First, I will give an introduction that focuses on essentially two different classes of flows which have quite a citation disparity in the literature: 1)  normalizing flows in high dimensions (D>~100), which typically have high citation counts, and 2) normalizing flows in low dimensions (D = 1 - 100),  which are typically cited less frequently. I discuss the reasons why I think this latter class, which is often less known, is in particular useful for high-energy physicists, and then briefly review two examples of that class: specific Gaussianization flows (2003.01941) , and exponential-map flows (0906.0874/2002.02428). Finally, I discuss a recent application of these particular flows as  conditional NFs for neutrino event econstruction in the IceCube detector (2309.16380)."
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "physics experiment"
@@ -116,7 +116,7 @@
   speaker-affiliation: Tufts
   speaker-website: "https://sites.tufts.edu/nutufts/people/"
   speaker-photo-location: 
-  talk-date: "2023-10-31"
+  talk-date: "2023-11-14"
   talk-date-time: "Tuesday, November 14, 2023, 11:00 am–12:00 pm"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Title to come"
@@ -133,7 +133,7 @@
   speaker-affiliation: MIT
   speaker-website: ""
   speaker-photo-location: 
-  talk-date: "2023-10-31"
+  talk-date: "2023-11-28"
   talk-date-time: "Tuesday, November 28, 2023, 11:00 am–12:00 pm"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Title to come"

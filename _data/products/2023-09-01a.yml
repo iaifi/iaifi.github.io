@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Signal-to-noise improvement through neural network contour deformations for 3D SU(2) lattice gauge theory"
+authors: William Detmold, Gurtej Kanwar, Yin Lin, Phiala E. Shanahan, Michael L. Wagman
+abstract: "Complex contour deformations of the path integral have been demonstrated to significantly improve the signal-to-noise ratio of observables in previous studies of two-dimensional gauge theories with open boundary conditions. In this work, new developments based on gauge fixing and a neural network definition of the deformation are introduced, which enable an effective application to theories in higher dimensions and with generic boundary conditions. Improvements of the signal-to-noise ratio by up to three orders of magnitude for Wilson loop measurements are shown in SU(2) lattice gauge theory in three spacetime dimensions."
+arxiv: "2309.00600"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
