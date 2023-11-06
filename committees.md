@@ -31,7 +31,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * 2022 Public Engagement Committee: Lina Necib (Chair), Brent Nelson, Harold Erbin, Tri Nguyen, Sneh Pandya, Sangeon Park, Sokratis Trifinopolous, Ge Yang, Comfort Asumadu
 * Primary Contact: [Email Lina Necib](mailto:lnecib@mit.edu)
 
-# Community Building
+# Community Building and Inclusion
 * Status: Accepting additional members
 * Brainstorms and plans community building events (such as coffee hours, social events, meet-ups, etc.)
 * Time Commitment: One-hour meeting per month and time spent helping with event setup occasionally
