@@ -1,4 +1,10 @@
 categories:
+  - former-fellows:
+    name: Former Fellows
+    anchor: former-fellows
+    type1: former-fellows
+    type2:
+    type3:
   - former-junior-investigators:
     name: Former Junior Investigators
     anchor: former-junior-investigators
@@ -11,3 +17,4 @@ categories:
     type1: former-visitors
     type2:
     type3:
+ 

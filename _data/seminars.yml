@@ -13,7 +13,7 @@
   youtube-link: ""
   speaker-thrust: "foundational AI"
   speaker-gender: "man"
-  talk-attendance: 
+  talk-attendance: 36 in person 18 virtual
 
 - type: "fall-2023"
   speaker-name: Mike Douglas
@@ -25,17 +25,10 @@
   talk-date-time: "Friday, November 17, 2023, 3:00–4:00 pm (Note later time than usual)" 
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Interactive Theorem Proving: an overview for scientists"
-  talk-abstract: "Interactive theorem proving (ITP) is a technique for expressing mathematical theorems in
-a formal language and verifying their correctness by computer.  Modern ITP systems such as
-Coq, Lean and Isabelle can express any rigorous mathematical statement, and a trained
+  talk-abstract: "Interactive theorem proving (ITP) is a technique for expressing mathematical theorems in a formal language and verifying their correctness by computer.  Modern ITP systems such as Coq, Lean and Isabelle can express any rigorous mathematical statement, and a trained
 user can write verifiable proofs which are around four times longer than ``informal'' proofs.
 Much of undergraduate level and some graduate level mathematics has been formalized,
-and ITP is starting to help with the development of cutting edge mathematics.  
-Meanwhile, AI researchers make steady progress on the original AI challenge problem
-of automatically discovering and proving mathematical theorems, now with the help of
-large language models.  
-This talk is a colloquium level survey of these topics.
-"
+and ITP is starting to help with the development of cutting edge mathematics. Meanwhile, AI researchers make steady progress on the original AI challenge problem of automatically discovering and proving mathematical theorems, now with the help of large language models. This talk is a colloquium level survey of these topics."
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "Foundational AI"
@@ -74,7 +67,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 16 in person 14 virtual
 
 - type: "spring-2023"
   speaker-name: "Brian Nord"
@@ -91,7 +84,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 20 in person 12 virtual
 
 - type: "spring-2023"
   speaker-name: "Carolina Cuesta-Lazaro"
@@ -108,7 +101,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "woman"
-  talk-attendance:
+  talk-attendance: 19 in person 13 virtual
 
 - type: "spring-2023"
   speaker-name: "Special Seminar: Eun-Ah Kim"
@@ -125,7 +118,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "woman"
-  talk-attendance:
+  talk-attendance: 20 in person 23 virtual
 
 - type: "fall-2022"
   speaker-name: "Aleksander Madry"
@@ -159,7 +152,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 26 in person 11 virtual
 
 - type: "fall-2022"
   speaker-name: "Special Seminar: Kaća Bradonjić"
@@ -176,7 +169,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "woman"
-  talk-attendance:
+  talk-attendance: 20 in person 13 virtual
 
 - type: "fall-2022"
   speaker-name: "Jessie Micallef"
@@ -193,7 +186,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "not specified"
-  talk-attendance:
+  talk-attendance: 26 in person 7 virtual
 
 - type: "spring-2022"
   speaker-name: "Anna Golubeva"
@@ -210,7 +203,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
-  talk-attendance:
+  talk-attendance: 27
 
 - type: "spring-2022"
   speaker-name: "Boaz Borak"
@@ -227,7 +220,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 27
 
 - type: "spring-2022"
   speaker-name: "Siddharth Mishra-Sharma"
@@ -244,7 +237,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 40
 
 - type: "spring-2022"
   speaker-name: "Special Seminar: Junyu Liu"
@@ -278,7 +271,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Physics Theory"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 26
 
 - type: "fall-2021"
   speaker-name: "Di Luo"
@@ -295,7 +288,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 31
 
 - type: "fall-2021"
   speaker-name: "Cengiz Pehlevan"
@@ -312,7 +305,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 27
 
 - type: "fall-2021"
   speaker-name: "Bryan Ostdiek"
@@ -329,7 +322,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Physics theory"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 34
 
 - type: "fall-2021"
   speaker-name: "Tess Smidt"
@@ -346,7 +339,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
-  talk-attendance:
+  talk-attendance: 47
 
 - type: "fall-2021"
   speaker-name: "Harini Suresh"
@@ -363,7 +356,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "woman"
-  talk-attendance:
+  talk-attendance: 18
 
 - type: "spring-2021"
   speaker-name: "Justin Solomon"
@@ -380,7 +373,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 38
 
 - type: "spring-2021"
   speaker-name: "Phil Harris, Anjali Nambrath, Karna Morey, Michal Szurek, Jade Chongsathapornpong"
@@ -397,7 +390,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: ""
-  talk-attendance:
+  talk-attendance: 29
 
 - type: "spring-2021"
   speaker-name: "Ge Yang"
@@ -414,7 +407,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 34
 
 - type: "spring-2021"
   speaker-name: "Christopher Rackauckas"
@@ -431,7 +424,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 22
 
 - type: "spring-2021"
   speaker-name: "George Barbastathis/Demba Ba"
@@ -448,7 +441,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 31
 
 - type: "spring-2021"
   speaker-name: "David Kaiser"
@@ -465,7 +458,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: man
-  talk-attendance:
+  talk-attendance: 22
 
 - type: "spring-2021"
   speaker-name: "Alexander Rakhlin"
@@ -482,7 +475,7 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 26
 
 - type: "spring-2021"
   speaker-name: "Edo Berger"
@@ -499,4 +492,4 @@ This talk is a colloquium level survey of these topics.
   youtube-link: ""
   speaker-thrust: "physics experiment"
   Speaker-gender: man
-  talk-attendance:
+  talk-attendance: 25
