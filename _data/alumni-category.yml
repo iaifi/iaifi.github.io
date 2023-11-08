@@ -1,8 +1,8 @@
 categories:
-  - former-fellows:
-    name: Former Fellows
-    anchor: former-fellows
-    type1: former-fellows
+  - former--iaifi-fellows:
+    name: Former IAIFI Fellows
+    anchor: former-iaifi-fellows
+    type1: former-iaifi-fellows
     type2:
     type3:
   - former-junior-investigators:
