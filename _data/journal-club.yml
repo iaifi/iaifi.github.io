@@ -13,6 +13,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance: 10 in person 0 virtual
 
 - type: "fall-2023"
   speaker-name: Jeffrey Lazar
@@ -29,6 +30,7 @@
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance: 5 in person 0 virtual
 
 - type: "fall-2023"
   speaker-name: Manos Theodosis
@@ -45,6 +47,7 @@
   youtube-link: ""
   speaker-thrust: "foundational AI"
   speaker-gender: "man"
+  talk-attendance: 11 in person 7 virtual
 
 - type: "fall-2023"
   speaker-name: Andy Jin
@@ -57,10 +60,11 @@
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Two Watts is All You Need: Low-Power Machine Learning on TPU for Neutrino Telescopes"
   talk-abstract: "In neutrino experiments, we have seen machine learning software methods to boost our abilities of physics discovery given the hardware experimental setups. Currently, we face upgrades and new telescopes and experimental hardware expecting more statistics as well as more complicated data signals. This calls out for an upgrade on the software side as well for handling the more complex data in a more efficient way. Specifically, we need low power and fast software methods in order to achieve real time signal processing, where current machine learning base methods are too expensive to be deployed in the commonly power-restricted regions where these experiments are located. In this talk, I will present the first attempt at and a proof of concept for enabling machine learning methods to be deployed live in under water/ice neutrino telescopes via quantization and deployment on Tensor Processing Units (TPUs). We use an LSTM-based recursive neural network with residual convolution-based data encoding, combined with specifically tailored data pre-processing and quantization aware training methods for deployment on the Google Edge TPU. This algorithm can achieve state-of-the-art angular resolution in reconstruction with a real-time inference frequency of 100 Hz/Watts in a TPU accelerator at only 2 Watts of power consumption. This opens up a world of chances to integrate machine learning capacity into detectors and electronics deep into even the most power-restricted environments."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1chx6Sgora2Oh9U5LP6jMVWfSjxWCR55j/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance: 8 in person 5 virtual
 
 - type: "fall-2023"
   speaker-name: Ryan Raikman
@@ -73,10 +77,11 @@
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "GWAK: Gravitational Wave Anomalous Knowledge with Recurrent Autoencoders"
   talk-abstract: "Matched-filtering detection techniques for gravitational-wave (GW) signals in ground-based interferometers rely on having well-modeled templates of the GW emission. Such techniques have been traditionally used in searches for compact binary coalescences (CBCs), and have been employed in all known GW detections so far. However, interesting science cases aside from compact mergers do not yet have accurate enough modeling to make matched filtering possible, including core-collapse supernovae and sources where stochasticity may be involved. Therefore the development of techniques to identify sources of these types is of significant interest. In this paper, we present a method of anomaly detection based on deep recurrent autoencoders to enhance the search region to unmodeled transients. We use a semi-supervised strategy that we name Gravitational Wave Anomalous Knowledge (GWAK). While the semi-supervised nature of the problem comes with a cost in terms of accuracy as compared to supervised techniques, there is a qualitative advantage in generalizing experimental sensitivity beyond pre-computed signal templates. We construct a low-dimensional embedded space using the GWAK method, capturing the physical signatures of distinct signals on each axis of the space. By introducing signal priors that capture some of the salient features of GW signals, we allow for the recovery of sensitivity even when an unmodeled anomaly is encountered. We show that regions of the GWAK space can identify CBCs, detector glitches and also a variety of unmodeled astrophysical sources."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1ZxXpd0FMLdCuPHxz0wjeCAF1GKuZW9rR/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance: 8 in person 6 virtual
 
 - type: "fall-2023"
   speaker-name: Thorsten Glüsenkamp
@@ -89,10 +94,11 @@
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Conditional normalizing flows for IceCube event reconstruction"
   talk-abstract: "In this seminar, I will talk about normalizing flows (NFs), in particular about the types that are useful for high-energy neutrino event reconstruction in IceCube. First, I will give an introduction that focuses on essentially two different classes of flows which have quite a citation disparity in the literature: 1)  normalizing flows in high dimensions (D>~100), which typically have high citation counts, and 2) normalizing flows in low dimensions (D = 1 - 100),  which are typically cited less frequently. I discuss the reasons why I think this latter class, which is often less known, is in particular useful for high-energy physicists, and then briefly review two examples of that class: specific Gaussianization flows (2003.01941) , and exponential-map flows (0906.0874/2002.02428). Finally, I discuss a recent application of these particular flows as  conditional NFs for neutrino event econstruction in the IceCube detector (2309.16380)."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1-zjK7tYNmdPVX7VHAc6FeONJ67oCeeIz/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
+  talk-attendance: 11 in person 5 virtual
 
 - type: "fall-2023"
   speaker-name: Jose Miguel Munoz Arias
@@ -103,12 +109,15 @@
   talk-date: "2023-11-07"
   talk-date-time: "Tuesday, November 7, 2023, 11:00 am–12:00 pm"
   talk-location: "MIT LNS Conference Room (26-528)"
-  talk-title: "Title to come"
-  talk-abstract: "Abstract to come"
-  slides-link: ""
+  talk-title: "lie-nn: Pioneering lie G-equivariant Neural Networks for Cross-Domain Scientific Applications"
+  talk-abstract: "This talk explores a novel Equivariant Neural Network architecture that respects symmetries of finite-dimensional representations of any reductive Lie Group G. These groups span several scientific domains, from high energy physics to computer vision.
+We extend ACE and MACE frameworks to data equivariant to a reductive Lie group action. We present lie-nn, a software library for building G-equivariant neural networks that simplifies the application to varied problems by decomposing tensor products into irreducible representations.
+We illustrate the adaptability and effectiveness of our approach with top quark decay tagging and shape recognition applications. We demonstrate that acknowledging these symmetries can boost prediction accuracy while using less training data. Our study represents a significant step towards generating interactive representations of geometric point clouds, offering a fresh problem-solving framework across scientific fields."
+  slides-link: "https://drive.google.com/file/d/1lmDfR4psA4aaAPITTRkG4lseZl7Vb020/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "man"
+  talk-attendance: 10 in person 6 virtual
 
 - type: "fall-2023"
   speaker-name: Zeviel Imani
@@ -124,7 +133,8 @@
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "physics experiment"
-  speaker-gender: ""
+  speaker-gender: "Man"
+  talk-attendance:
 
 
 - type: "fall-2023"
@@ -141,4 +151,5 @@
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "physics theory"
-  speaker-gender: ""
+  speaker-gender: "Man"
+  talk-attendance:

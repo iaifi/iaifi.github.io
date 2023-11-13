@@ -4,8 +4,8 @@ title: "Modeling early-universe energy injection with Dense Neural Networks"
 authors: Yitian Sun, Tracy R. Slatyer
 abstract: "We show that Dense Neural Networks can be used to accurately model the cooling of high-energy particles in the early universe, in the context of the public code package DarkHistory. DarkHistory self-consistently computes the temperature and ionization history of the early universe in the presence of exotic energy injections, such as might arise from the annihilation or decay of dark matter. The original version of DarkHistory uses large pre-computed transfer function tables to evolve photon and electron spectra in redshift steps, which require a significant amount of memory and storage space. We present a light version of DarkHistory that makes use of simple Dense Neural Networks to store and interpolate the transfer functions, which performs well on small computers without heavy memory or storage usage. This method anticipates future expansion with additional parametric dependence in the transfer functions without requiring exponentially larger data tables.."
 arxiv: "2207.06425"
-journal: 
-doi: 
+journal: Physical Review D, Volume 107, Article 063541
+doi: https://doi.org/10.1103/PhysRevD.107.063541
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2023-03-27

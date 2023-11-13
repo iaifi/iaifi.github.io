@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "E(2) Equivariant Neural Networks for Robust Galaxy Morphology Classification"
+authors: Sneh Pandya, Purvik Patel, Franc O, Jonathan Blazek
+abstract: "We propose the use of group convolutional neural network architectures (GCNNs) equivariant to the 2D Euclidean group, E(2), for the task of galaxy morphology classification by utilizing symmetries of the data present in galaxy images as an inductive bias in the architecture. We conduct robustness studies by introducing artificial perturbations via Poisson noise insertion and one-pixel adversarial attacks to simulate the effects of limited observational capabilities. We train, validate, and test GCNNs equivariant to discrete subgroups of E(2) - the cyclic and dihedral groups of order N - on the Galaxy10 DECals dataset and find that GCNNs achieve higher classification accuracy and are consistently more robust than their non-equivariant counterparts, with an architecture equivariant to the group D16 achieving a 95.52±0.18% test-set accuracy. We also find that the model loses <6% accuracy on a 50%-noise dataset and all GCNNs are less susceptible to one-pixel perturbations than an identically constructed CNN.."
+arxiv: "2311.01500"
+journal: 
+doi: 
+nsf-par:
+code: https://github.com/snehjp2/GCNNMorphology
+publication-date: 
