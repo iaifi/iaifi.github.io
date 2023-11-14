@@ -128,13 +128,13 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   talk-date: "2023-11-14"
   talk-date-time: "Tuesday, November 14, 2023, 11:00 am–12:00 pm"
   talk-location: "MIT LNS Conference Room (26-528)"
-  talk-title: "Title to come"
-  talk-abstract: "Abstract to come"
+  talk-title: "Score-based Diffusion Models for Generating LArTPC Images"
+  talk-abstract: "Modern generative modeling has demonstrated remarkable success in the realm of natural images. However, these approaches do not necessarily generalize to all image domains. In neutrino physics experiments, our Liquid Argon Time Project Chamber (LArTPC) particle detectors produce images that are globally sparse but locally dense. We have found that some generation algorithms, such as GANs and VQ-VAE, are unable to reproduce these image characteristics. Recently, we have successfully generated high-fidelity images of track and shower particle event types using a score-based diffusion model. In this talk, I will outline the methodology underlying this type of model, explore our quality metrics for these generated images, and discuss planned extensions and applications of this work."
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "Man"
-  talk-attendance:
+  talk-attendance: 6 in person 4 virtual
 
 
 - type: "fall-2023"
