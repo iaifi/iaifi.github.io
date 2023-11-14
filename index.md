@@ -32,6 +32,12 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+***Ge Yang, IAIFI Fellow, and his collaborators paper, "Distilled Feature Fields Enable Few-Shot Manipulation" wins 2023 CoRL Best Paper Award***. Read [Ge's paper ](https://openreview.net/forum?id=Rb0nGIt_kh5) and more about the [CoRL Awards](https://www.corl2023.org/awards). *November 14, 2023*
+{:.info}
+
+***Max Tegmark, MIT Professor of Physics and IAIFI Senior Investigator and his collaborators featured in Quanta Magazine***. The article was on "The Physical Process That Powers a New Type of Generative AI". Read more about Max's article [here](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/). *November 14, 2023*
+{:.info}
+
 ***Carlos Arguelles-Delgado, Harvard Assistant Professor of Physics and IAIFI Senior Investigator, named 2023 Packard Fellow***. Read [more about Carlos' research and the award](https://news.harvard.edu/gazette/story/newsplus/neutrino-physicist-carlos-arguelles-delgado-named-packard-fellow/). *October 20, 2023*
 {:.info}
 
