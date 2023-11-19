@@ -18,45 +18,70 @@ article_header:
 </span>
 </center>
 
-<img src="images/logos-square.png" align="right" style="max-width:298px;width:35%" hspace="20" vspace="20"> 
+<img src="images/logos-square.png" align="right" style="max-width:298px;width:30%"> 
 
 
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. The IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. The IAIFI is a collaboration of both [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts.  Learn more about our [research](/research.html) at the Physics/AI intersection and about our [IAIFI Fellows](/fellows.html) program.
 
 
+
 <div class="grid-container">
-  <div class="grid grid--px-2">
-      <div class="cell cell--3">
-          <center>
-          <a href="/about.html">
-            <img class="" style="object-fit: cover" src="images/research-button.png"/>
-          <br>
-              <b><span style="font-size: 18px;"><font color="salmon">RESEARCH</font></span></b>
-          </a>
-          </center>
+  <div class="grid grid--p-2">
+    <div class="cell cell--4">
+      <center>
+      <a href="/about.html">
+        <div class="card">
+          <div class="card_image">
+          <img class="image" src="images/research-button.png"/>
           </div>
+            <div class="card_content">
+              <div class="card_header">
+              <h4><font color="salmon">RESEARCH</font></h4>
+            </div>
+          </div>
+        </div>
+      </a>
+      </center>
+    </div>
 
-      <div class="cell cell--3">
-          <center>
-          <a href="/about.html">
-            <img class="" style="object-fit: cover" src="images/talent-button.png"/>
-          <br>
-              <b><span style="font-size: 18px;"><font color="green">TALENT</font></span></b>
-          </a>
-          </center>
+    <div class="cell cell--4">
+      <center>
+      <a href="/about.html">
+        <div class="card">
+          <div class="card_image">
+          <img class="image" src="images/talent-button.png"/>
           </div>
+            <div class="card_content">
+              <div class="card_header">
+              <h4><font color="green">TALENT</font></h4>
+            </div>
+          </div>
+        </div>
+      </a>
+      </center>
+    </div>
 
-      <div class="cell cell--3">
-          <center>
-          <a href="/about.html">
-            <img class="" style="object-fit: cover" src="images/community-button.png"/>
-          <br>
-              <b><span style="font-size: 18px;"><font color="darkorange">COMMUNITY</font></span></b>
-          </a>
-          </center>
+    <div class="cell cell--4">
+      <center>
+      <a href="/about.html">
+        <div class="card">
+          <div class="card_image">
+          <img class="image" src="images/community-button.png"/>
           </div>
-      </div>
+            <div class="card_content">
+              <div class="card_header">
+              <h4><font color="darkorange">COMMUNITY</font></h4>
+            </div>
+          </div>
+        </div>
+      </a>
+      </center>
+    </div>
+
+  </div>
 </div>
+
+
 
 ### IAIFI Jobs
 
