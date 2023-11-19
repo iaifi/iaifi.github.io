@@ -123,8 +123,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
 
+<!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+--->
 
   ***IAIFI Fellow Ge Yang and collaborators receive Best Paper Award at the Conference on Robot Learning (CoRL) 2023***. Read ["Distilled Feature Fields Enable Few-Shot Manipulation"](https://openreview.net/forum?id=Rb0nGIt_kh5). *November 14, 2023*
 {:.info}
