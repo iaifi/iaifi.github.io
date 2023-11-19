@@ -24,6 +24,40 @@ article_header:
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. The IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. The IAIFI is a collaboration of both [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts.  Learn more about our [research](/research.html) at the Physics/AI intersection and about our [IAIFI Fellows](/fellows.html) program.
 
 
+<div class="grid-container">
+  <div class="grid grid--px-2">
+      <div class="cell cell--3">
+          <center>
+          <a href="/about.html">
+            <img class="" style="object-fit: cover" src="images/research-button.png"/>
+          <br>
+              <b><span style="font-size: 18px;"><font color="salmon">RESEARCH</font></span></b>
+          </a>
+          </center>
+          </div>
+
+      <div class="cell cell--3">
+          <center>
+          <a href="/about.html">
+            <img class="" style="object-fit: cover" src="images/talent-button.png"/>
+          <br>
+              <b><span style="font-size: 18px;"><font color="green">TALENT</font></span></b>
+          </a>
+          </center>
+          </div>
+
+      <div class="cell cell--3">
+          <center>
+          <a href="/about.html">
+            <img class="" style="object-fit: cover" src="images/community-button.png"/>
+          <br>
+              <b><span style="font-size: 18px;"><font color="darkorange">COMMUNITY</font></span></b>
+          </a>
+          </center>
+          </div>
+      </div>
+</div>
+
 ### IAIFI Jobs
 
 ***Applications are now closed for the 2024–2027 IAIFI Fellowship search.*** Visit our [Job Board](https://iaifi.org/job-board.html) for job opportunities available outside IAIFI. 
