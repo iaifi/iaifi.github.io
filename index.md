@@ -29,7 +29,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
   <div class="grid grid--p-2">
     <div class="cell cell--4">
       <center>
-      <a href="/about.html">
+      <a href="/about.html#research">
         <div class="card">
           <div class="card_image">
           <img class="image" src="images/research-button.png"/>
@@ -46,7 +46,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
     <div class="cell cell--4">
       <center>
-      <a href="/about.html">
+      <a href="/about.html#talent">
         <div class="card">
           <div class="card_image">
           <img class="image" src="images/talent-button.png"/>
@@ -63,7 +63,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
     <div class="cell cell--4">
       <center>
-      <a href="/about.html">
+      <a href="/about.html#community">
         <div class="card">
           <div class="card_image">
           <img class="image" src="images/community-button.png"/>
