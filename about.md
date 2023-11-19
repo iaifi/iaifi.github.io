@@ -17,56 +17,141 @@ titles:
   ko-KR   : *KO
 key: page-about
 #pageview: true
-#aside:
-#toc: false
+aside:
+  toc: true
 ---
 
 <a href="images/iaifi-pressimage.jpg">
 <img src="images/iaifi-pressimage-horizontalcrop-smaller.jpg" alt="NSF AI Institute for Artificial Intelligence and Fundamental Interactions" title="Image credit:  IAIFI composite using agsandrew - stock.adobe.com" width="100%">
 </a>
 
-<img src="images/iaifi-thrusts.png" align="right" style="max-width:936px;width:35%" hspace="20" vspace="20"> 
+<center>
+<span style="font-size: 24px;">
+<font color="peru">Deep Learning (AI)</font> + <font color="rebeccapurple">Deep Thinking (Physics)</font> = <font color="teal">Deeper Understanding</font>
+</span>
+</center>
 
-<p>The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI, pronounced /aɪ-faɪ/) is one of the inaugural NSF AI research institutes. The IAIFI is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles from fundamental physics. AI is transforming many aspects of society, including the ways that scientists are pursuing groundbreaking discoveries. For many years, physicists have been at the forefront of applying AI methods to investigate fundamental questions about the Universe. Further progress will require a revolutionary leap in AI, as both the complexity of physics problems and the size of physics datasets continue to grow.</p>
+<p>The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI, pronounced /aɪ-faɪ/) is one of the inaugural NSF AI research institutes. The IAIFI is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles from fundamental physics. The goal of the IAIFI is to advance physics knowledge and galvanize AI research innovation. </p>
 
-<img src="images/broader-impacts.png" align="right" style="max-width:918px;width:35%" hspace="20" vspace="20">  
-
-<p>The goal of the IAIFI is to develop and deploy the next generation of AI technologies, based on the transformative idea that artificial intelligence can directly incorporate physics intelligence. IAIFI researchers are using these new AI technologies to tackle some of the most challenging problems in physics, from precision calculations of the structure of matter, to gravitational wave detection of merging black holes, to the extraction of new physical laws from noisy data.</p>
-
-<p>IAIFI researchers are also working to transfer these technologies to the broader AI community, since trustworthy AI is as important for physics discovery as it is for other applications of AI in society. To cultivate human intelligence, the IAIFI promotes training, education, and outreach at the intersection of physics and AI. In this way, the IAIFI is advancing physics knowledge – from the smallest building blocks of nature to the largest structures in the Universe – and galvanizing AI research innovation.</p>
+<p>By combining state-of-the-art research with early career talent and a growing AI + physics community in the Boston area and beyond, the IAIFI is enabling researchers to  develop AI technologies to tackle some of the most challenging problems in physics, and transfer these technologies to the broader AI community. Since trustworthy AI is as important for physics discovery as it is for other applications of AI in society, IAIFI researchers are applying physics principles to develop more robust AI tools and to illuminate existing AI technologies. To cultivate human intelligence, the IAIFI promotes training, education, and public engagement at the intersection of physics and AI. In these ways, the IAIFI is fusing deep learning with deep thinking to gain a deeper understanding of our universe and AI.</p>
 
 *The IAIFI is anchored in the [Laboratory for Nuclear Science](https://web.mit.edu/lns/) at MIT.*
 
-<style>
-.google-slides-container{
-    position: relative;
-    width: 100%;
-    padding-top: 60%;
-    overflow: hidden;
-}
-</style>
+## Research
 
-<style>
-.google-slides-container iframe{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
+<div class="grid-container">
+  <div class="grid grid--p-2">
+    <div class="cell cell--4">
+      <center>
+        <div class="card">
+          <div class="card_image">
+          <img class="image" src="images/research-button.png"/>
+          </div>
+            <div class="card_content">
+            <font color="salmon">Pioneering interdisciplinary</font>
+              <div class="card_header">
+              <h4><font color="salmon">RESEARCH</font></h4>
+            </div>
+          </div>
+        </div>
+      </center>
+    </div>
 
-<div class="google-slides-container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTj25Pm0Ts4yq1Kz89JISu6hGx3D3wK84pcb4jmmiSKOkfExPsXYBPcnuGUX6cpJ7LMMHiq69Bf_DDU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <div class="cell cell--8">
+      IAIFI researchers are producing state-of-the-art results through interdisciplinary projects across theoretical physics, experimental physics, and foundational AI. 
+      <ul>
+      <li><a href="/research.html">Research Overview and Highlights</a></li>
+      <li><a href="/papers.html">Papers from IAIFI researchers</a></li>
+      <li><a href="/people.html">Current Researchers</a></li>
+      <li><a href="/lightning-talks.html">IAIFI lightning talks</a></li>
+    </ul>
+    </div>
+
+  </div>
 </div>
 
+## Talent
 
-####  Press Coverage 
+<div class="grid-container">
+  <div class="grid grid--p-2">
+    <div class="cell cell--4">
+      <center>
+        <div class="card">
+          <div class="card_image">
+          <img class="image" src="images/talent-button.png"/>
+          </div>
+            <div class="card_content">
+            <font color="green">Empowering the next generation of</font>
+              <div class="card_header">
+              <h4><font color="green">TALENT</font></h4>
+            </div>
+          </div>
+        </div>
+      </center>
+    </div>
+
+    <div class="cell cell--8">
+      IAIFI is recruiting and training a talented, promising, and diverse group of students and postdocs, making them experts in AI + Physics.
+      <ul>
+      <li><a href="/fellows.html">IAIFI Fellowship Program</a></li>
+      <li><a href="/current-fellows.html">Current IAIFI Fellows</a></li>
+      <li><a href="/phd-summer-school.html">IAIFI Summer School</a></li>
+      <li><a href="/journal-club.html">Journal Club</a></li>
+      <li><a href="/job-board.html">Job Board</a></li>
+      <li><a href="/funding-opportunities.html">Funding Opportunities</a></li>
+      <li><a href="/career-support.html">Career Support</a></li>
+    </ul>
+    </div>
+
+  </div>
+</div>
+
+## Community
+
+<div class="grid-container">
+  <div class="grid grid--p-2">
+    <div class="cell cell--4">
+      <center>
+        <div class="card">
+          <div class="card_image">
+          <img class="image" src="images/community-button.png"/>
+          </div>
+            <div class="card_content">
+            <font color="darkorange">Building a dynamic</font>
+              <div class="card_header">
+              <h4><font color="darkorange">COMMUNITY</font></h4>
+            </div>
+          </div>
+        </div>
+      </center>
+    </div>
+
+    <div class="cell cell--8">
+    IAIFI is making Cambridge and the surrounding Boston area a 
+nexus point for collaborative efforts aimed at advancing both physics and AI.
+      <ul>
+      <li><a href="/events.html">IAIFI Colloquia</a></li>
+      <li><a href="/seminars.html">IAIFI Seminars</a></li>
+      <li><a href="/summer-workshop">IAIFI Summer Workshop</a></li>
+      <li><a href="/ecec.html">Early Career, Equity, and Ethics</a></li>
+      <li><a href="/outreach.html">Public Engagement</a></li>
+      <li><a href="/partnerships.html">Physics/AI Network</a></li>
+      <li><a href="/committees.html">Committees</a></li>
+      <li><a href="/industry-partners.html">Industry Partners</a></li>
+    </ul>
+    </div>
+
+  </div>
+</div>
+
+##  Press Coverage 
 
   * IAIFI Launch (August 26, 2020):  [NSF](https://www.nsf.gov/news/special_reports/announcements/082620.jsp), [NSF blog](https://beta.nsf.gov/science-matters/new-nsf-ai-research-institutes-push-forward-frontiers-artificial-intelligence), [MIT](https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826), [Harvard](https://www.news.harvard.edu/gazette/story/2020/08/harvard-a-partner-in-20-million-ai-institute/), [Northeastern](https://news.northeastern.edu/2020/08/26/why-you-need-a-computer-to-understand-strings-and-knots/)
 
 
-####  Contact
+##  Contact
 
   * Email [IAIFI Management](mailto:iaifi@mit.edu)
-  * [GRID page](https://grid.ac/institutes/grid.510603.1) (Note: Page name is in the process of being corrected to "The NSF AI Institute for Artificial Intelligence and Fundamental Interactions")
+  * Follow [@iaifi_news on Twitter/X](https://twitter.com/iaifi_news)
+  * Connect with [IAIFI on LinkedIn](https://www.linkedin.com/company/iaifi/)
+  * [GRID page](https://grid.ac/institutes/grid.510603.1)
