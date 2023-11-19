@@ -12,6 +12,15 @@ article_header:
 </div>
 </center>
 
+<center>
+<span style="font-size: 24px;">
+<font color="peru">Deep Learning (AI)</font> + <font color="rebeccapurple">Deep Thinking (Physics)</font> = <font color="teal">Deeper Understanding</font>
+</span>
+</center>
+
+<img src="images/logos-square.png" align="right" style="max-width:298px;width:35%" hspace="20" vspace="20"> 
+
+
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. The IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. The IAIFI is a collaboration of both [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts.  Learn more about our [research](/research.html) at the Physics/AI intersection and about our [IAIFI Fellows](/fellows.html) program.
 
 
@@ -27,6 +36,29 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ***The next [IAIFI Colloquium](events.html) will be held on Friday, December 8, 2023 with Xiaoliang Qi, (Professor of Physics, Stanford University).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
+
+<style>
+.calendar-container{
+    position: relative;
+    Padding-bottom: 75%;
+    Height: 0;
+    overflow: hidden;
+}
+</style>
+
+<style>
+.calendar-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<div class="calendar-container">
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showTitle=1&showPrint=0&showCalendars=0&title=IAIFI%20Group%20Calendar&mode=WEEK&src=cDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Zjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&color=%23039BE5&color=%23F09300" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
 
 ### IAIFI News
 
