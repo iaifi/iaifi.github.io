@@ -6,7 +6,7 @@ aside:
 ---
 
 
-IAIFI thrives on the energy and enthusiasm of its members! This page includes information and links to resources for [IAIFI members](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing). Unless otherwise noted, this includes IAIFI Senior Investigators, Junior Investigators, Affiliates, and Friends of IAIFI.
+IAIFI thrives on the energy and enthusiasm of its members! This page includes information and links to resources for [IAIFI members](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing). 
 
 <!---
 * [Understand Levels of Involvement](#understand-levels-of-involvement)
