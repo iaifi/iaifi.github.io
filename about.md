@@ -62,6 +62,7 @@ aside:
       <ul>
       <li><a href="/research.html">Research Overview and Highlights</a></li>
       <li><a href="/papers.html">Papers from IAIFI researchers</a></li>
+      <li><a href="https://github.com/iaifi">Code from IAIFI products</a></li>
       <li><a href="/people.html">Current Researchers</a></li>
       <li><a href="/lightning-talks.html">IAIFI lightning talks</a></li>
     </ul>
@@ -148,6 +149,22 @@ nexus point for collaborative efforts aimed at advancing both physics and AI.
 
   * IAIFI Launch (August 26, 2020):  [NSF](https://www.nsf.gov/news/special_reports/announcements/082620.jsp), [NSF blog](https://beta.nsf.gov/science-matters/new-nsf-ai-research-institutes-push-forward-frontiers-artificial-intelligence), [MIT](https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826), [Harvard](https://www.news.harvard.edu/gazette/story/2020/08/harvard-a-partner-in-20-million-ai-institute/), [Northeastern](https://news.northeastern.edu/2020/08/26/why-you-need-a-computer-to-understand-strings-and-knots/)
 
+
+## Graphics
+
+  * ![IAIFI](images/iaifi-logo-black.png){:.image--sm} **IAIFI Logo**:  [Black PDF](images/iaifi-logo-black.pdf),  [White PDF](images/iaifi-logo-white.pdf), [Black JPEG](images/iaifi-logo-black-noborder-hires.jpg)
+
+  * ![NSF IAIFI](images/iaifi-nsf-logo-black.png){:.image--sm}  **IAIFI Logo with NSF**:  [Black PDF](images/iaifi-nsf-logo-black.pdf),  [White PDF](images/iaifi-nsf-logo-white.pdf)
+
+  * ![NSF IAIFI](images/iaifi-fullname-logo-black.png){:.image--sm}  **IAIFI Logo with Name**:  [Black PDF](images/iaifi-fullname-logo-black.pdf)
+  
+  * ![IAIFI](images/iaifi-pressimage-horizontalcrop.jpg){:.image--sm} **IAIFI Horizontal Fusion**: [JPEG](images/iaifi-pressimage-horizontalcrop.jpg)
+  
+  * ![IAIFI](images/iaifi-pressimage.jpg){:.image--sm} **IAIFI Full Size Fusion**:  [JPEG](images/iaifi-pressimage.jpg)
+  
+  * ![IAIFI](images/iaifi-zoombackground.jpg){:.image--sm}  **IAIFI Zoom Background**:  [JPEG](images/iaifi-zoombackground.jpg)
+
+*Contact [IAIFI Management](mailto:iaifi@mit.edu) if you need graphics in different formats, colors, or sizes.*
 
 ##  Contact
 
