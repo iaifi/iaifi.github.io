@@ -57,13 +57,9 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 
 ## Research
 
-I want to: 
-
 [Become a Junior Investigator](https://app.smartsheet.com/b/form/3351b081785743ceac66a7294546b558){:.button.button--outline-primary.button--pill.button--lg} [Collaborate](/people.html){:.button.button--outline-primary.button--pill.button--lg} [Discuss research](https://app.slack.com/client/T014QUZ5ANQ/C051K41NCLT){:.button.button--outline-primary.button--pill.button--lg} [Report research highlights](https://app.smartsheet.com/b/form/fa6d56eb2dec4b5993cd23ac99d910a7){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Talks
-
-I want to: 
 
 [Lead a Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7){:.button.button--outline-primary.button--pill.button--lg} [Attend events](events-calendar.html){:.button.button--outline-primary.button--pill.button--lg} [Watch past colloquia](https://youtube.com/playlist?list=PLBY0ED2StbGZtEAbnyZz9p3pK31qHLXmq){:.button.button--outline-primary.button--pill.button--lg} [Suggest a speaker](https://docs.google.com/forms/d/1SeaGUpoMZOGRJgcW3Utx_VZh9GTtXVOsYH1AAvrvxTY/edit){:.button.button--outline-primary.button--pill.button--lg} [Report IAIFI-related talks](https://app.smartsheet.com/b/form/fa6d56eb2dec4b5993cd23ac99d910a7){:.button.button--outline-primary.button--pill.button--lg} [Advertise IAIFI in talk](#advertise-and-acknowledge-iaifi){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -71,32 +67,22 @@ I want to:
 
 **It is required that Junior and Senior Investigators acknowledge IAIFI in IAIFI-related papers.** For particle physics papers: [check that your paper is appearing under IAIFI on INSPIRE](https://inspirehep.net/institutions/1862936?ui-citation-summary=true)
 
-I want to: 
-
 [Report IAIFI-related papers](https://app.smartsheet.com/b/form/fa6d56eb2dec4b5993cd23ac99d910a7){:.button.button--outline-primary.button--pill.button--lg} [Share a paper](https://app.slack.com/client/T014QUZ5ANQ/C051XS52ZFT){:.button.button--outline-primary.button--pill.button--lg} [Acknowledge IAIFI in paper](#advertise-and-acknowledge-iaifi){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Computing Resources
 IAIFI Senior Investigators, Junior Investigators, and Affiliates have access to dedicated IAIFI computing resources hosted by Harvard Cannon.
 
-I want to:
-
 [Sign up for access](https://docs.google.com/document/d/1LiON6txM3wKGF7mJFKwDrwa6MREsuZV_UdclD0bvvr4/edit?usp=share_link){:.button.button--outline-primary.button--pill.button--lg} [Contact Computing Committee](mailto:iaifi-compute@mit.edu){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Community
-
-I want to: 
 
 [Join a committee](/committees.html){:.button.button--outline-primary.button--pill.button--lg} [Visit Penthouse](https://app.smartsheet.com/b/form/49c21bb886164fc1a51f1ef6e9e130a8){:.button.button--outline-primary.button--pill.button--lg} [View Penthouse seating chart](https://docs.google.com/presentation/d/16aVEtwVf0Ull6qo_UC7bR20YQYIO9KHS/edit?usp=sharing&ouid=100405968312486369078&rtpof=true&sd=true){:.button.button--outline-primary.button--pill.button--lg} [Join Slack](mailto:iaifi-pm@mit.edu){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Career Support
 
-I want to: 
-
 [Apply to MIT's Interdisciplinary PhD](https://physics.mit.edu/academic-programs/graduate-students/psds-phd/){:.button.button--outline-primary.button--pill.button--lg} [Apply to be an IAIFI Fellow](fellows.html){:.button.button--outline-primary.button--pill.button--lg} [View IAIFI-related jobs](https://iaifi.org/job-board.html#iaifi-jobs){:.button.button--outline-primary.button--pill.button--lg} [View AI + physics jobs](https://iaifi.org/job-board.html){:.button.button--outline-primary.button--pill.button--lg} [See career advice](https://iaifi.org/career-support.html){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Additional Resources
-
-I want to: 
 
 [Access IAIFI Google Drive](https://drive.google.com/drive/folders/1KCCp9BpUL_GsvPGiWoJt976X0YkSEVDC?usp=sharing){:.button.button--outline-primary.button--pill.button--lg} [Join University affinity group](#affinity-groups){:.button.button--outline-primary.button--pill.button--lg} [Find other AI + physics groups](#related-groups-and-events){:.button.button--outline-primary.button--pill.button--lg}
 
