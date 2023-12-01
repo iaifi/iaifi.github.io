@@ -5,6 +5,12 @@ categories:
     type1: former-iaifi-fellows
     type2:
     type3:
+  - former--iaifi-affiliates:
+    name: Former IAIFI Affiliates
+    anchor: former-iaifi-affiliates
+    type1: former-iaifi-affiliates
+    type2:
+    type3:
   - former-junior-investigators:
     name: Former Junior Investigators
     anchor: former-junior-investigators
