@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Anomaly Detection in Collider Physics via Factorized Observables"
+authors: Eric M. Metodiev, Jesse Thaler, Raymond Wynne
+abstract: "To maximize the discovery potential of high-energy colliders, experimental searches should be sensitive to unforeseen new physics scenarios. This goal has motivated the use of machine learning for unsupervised anomaly detection. In this paper, we introduce a new anomaly detection strategy called FORCE: factorized observables for regressing conditional expectations. Our approach is based on the inductive bias of factorization, which is the idea that the physics governing different energy scales can be treated as approximately independent. Assuming factorization holds separately for signal and background processes, the appearance of non-trivial correlations between low- and high-energy observables is a robust indicator of new physics. Under the most restrictive form of factorization, a machine-learned model trained to identify such correlations will in fact converge to the optimal new physics classifier. We test FORCE on a benchmark anomaly detection task for the Large Hadron Collider involving collimated sprays of particles called jets. By teasing out correlations between the kinematics and substructure of jets, our method can reliably extract percent-level signal fractions. This strategy for uncovering new physics adds to the growing toolbox of anomaly detection methods for collider physics with a complementary set of assumptions."
+arxiv: "2312.00119"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
