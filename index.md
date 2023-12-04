@@ -127,6 +127,10 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
 
+  ***IAIFI Fellow Siddharth Mishra-Sharma named one of the 2023 Rising Stars in Data Science by the University of Chicago***. Read [more about Siddharth's recognition](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/). *November 30, 2023*
+{:.info}
+
+
   ***IAIFI Fellow Ge Yang and collaborators receive Best Paper Award at the Conference on Robot Learning (CoRL) 2023***. Read ["Distilled Feature Fields Enable Few-Shot Manipulation"](https://openreview.net/forum?id=Rb0nGIt_kh5). *November 14, 2023*
 {:.info}
 

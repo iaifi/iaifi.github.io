@@ -11,6 +11,15 @@ As discussed above, *ab initio* AI promises to greatly improve theoretical and e
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXz5ZuKzn3czf3gbKh-8fnoTgUSSA8lO7P2DExHKeFrdbgYFlYKYs-OkQHjsFDxB4EkkTKsMFYaTOK/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></
+iframe>
+</div>
+
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRow4TGpC9JLQqnyMd3jVBHD4Uqd7n-M74wSk9Op_YD3YdSaea25BSm6l2p7Q9gr4cTo4EaQU93eAxn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 

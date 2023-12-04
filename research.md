@@ -9,6 +9,10 @@ The goal of the IAIFI is to advance knowledge of fundamental interactions from t
 * [Physics Experiment](/physics-experiment-research.html)
 * [Foundational AI](/ai-research.html)
 
+
+Coming soon: A full set of IAIFI project pages, each with more details about our research work, publications, *etc.*
+{:.info}
+
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
@@ -16,12 +20,18 @@ The goal of the IAIFI is to advance knowledge of fundamental interactions from t
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgzM9Xbgvg3Epzvsyeg8XUExYPAK368Q0N5MM2jYdGbrsYeAPSQhu6H3FkT7ceaw1kLs_TXgGEu91b/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-Coming soon: A full set of IAIFI project pages, each with more details about our research work, publications, *etc.*
-{:.info}
-
 ## Highlights
 
-*Updated November 6, 2023*
+*Updated December 1, 2023*
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXz5ZuKzn3czf3gbKh-8fnoTgUSSA8lO7P2DExHKeFrdbgYFlYKYs-OkQHjsFDxB4EkkTKsMFYaTOK/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+[View and download slide](https://docs.google.com/presentation/d/1lLmYYyTJYvRA4fzhOYW9uBC6hh2RPoWVTNjD3F87h1k/edit?usp=sharing)
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
