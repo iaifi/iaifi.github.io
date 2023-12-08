@@ -31,14 +31,14 @@ aside:
 
 **Biographical Sketch**: In his Ph.D. thesis, Denis Boyda studied strong-coupled systems such as graphene and quark-gluon/hadron matter. He received a Ph.D. degree in physics from Kurchatov Institute, Moscow in 2018. Denis Boyda joined MIT's Center for Theoretical Physics as a postdoctoral associate in 2019, where he worked on the enforcing of algorithms of Lattice Quantum Chromodynamics with Machine Learning. In 2020 he became a postdoctoral appointee in the Leadership Computer Facility at Argonne National Laboratory, where he scaled proof-of-principal ML models towards exascale. Denis Boyda grew up in the Russian Far East and loves sailing and hiking.
 
-### [Carolina Cuesta](mailto:carolina.cuesta-lazaro@durham.ac.uk)
+### [Carolina Cuesta](mailto:cuestalz@mit.edu)
 <img src="images/small-photo-carolina-cuesta.jpg" align="right" style="max-width:285px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Carolina Cuesta is interested in developing robust and interpretable Machine Learning models that can guide us towards future discoveries in physics. Her main research interests lie on the intersection of cosmology and AI. She develops Machine Learning techniques for cosmological inference to deepen our understanding of the accelerated expansion of the Universe. Outside of cosmology, she is interested in building multi-disciplinary collaborations in the areas of statistics and AI.
 
 **Biographical Sketch**: Before joining IAIFI as a Fellow, Carolina received her Ph.D. in Physics and Data Science from the Institute of Computational Cosmology at Durham University, UK, in 2022. Alongside her PhD, she has been a research collaborator with the United Nations (UN) Global Pulse and the UK’s National Health Service (NHS), developing epidemiological simulations, and a research intern at Amazon’s Alexa team. Carolina received a MSc in theoretical physics and cosmology (2017) at Heidelberg University (Germany), and a BSc in Physics (2015) at Universidad Autonoma de Madrid (Spain). Carolina grew up in Cuenca, Spain.
 
-### [Jessie Micallef](mailto:jessiemicallef19@gmail.com)
+### [Jessie Micallef](mailto:jessiem@mit.edu)
 <img src="images/small-photo-jessie-micallef.jpg" align="right" style="max-width:225px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Jessie Micallef works on adapting and expanding machine learning solutions to apply to particle physics experiments. Her research focuses on neutrinos and studying neutrino oscillation, a unique phenomena that shows neutrinos deviate from their Standard Model prediction, with the IceCube Neutrino Observatory. To improve oscillation measurements, Jessie created and optimized new convolution neural network (CNN) reconstructions for GeV-scale IceCube neutrinos. Jessie’s machine learning interests focus on adapting the forefront of ML solutions to noisy, sparse neutrino data; she hopes to explore topics of robustness, systematics aware learning, fast inference methods, and advanced neural networks to adapt to neutrino experiments.
@@ -47,7 +47,7 @@ aside:
 
 ## 2021-2024 IAIFI Fellows
 
-### [Anna Golubeva](mailto:golubeva@mit.edu)
+### [Anna Golubeva](mailto:golubevanna@gmail.com)
 
 <img src="images/small-photo-anna-golubeva.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
