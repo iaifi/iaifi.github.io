@@ -43,7 +43,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Will rotate membership in January 2023
 * [View the ECEC expectations](/images/ecec-expectations.pdf)
 * Time Commitment: One-hour meeting per month and occasional email discussion
-* 2023 ECEC: Edo Berger (Chair), Tess Smidt, Sean Benevedes, Carolina Cuesta-Lazaro, Mehmet Demirtas, Zeviel Imani, Jessie Micallef, Rashmish Mishra
+* 2023 ECEC: Edo Berger (Chair), Tess Smidt, Sean Benevedes, Carolina Cuesta-Lazaro, Zeviel Imani, Jessie Micallef, Rashmish Mishra
 * 2022 ECEC: Tracy Slatyer (Chair), Edo Berger, Sean Benevedes, Mehmet Demirtas, Anindita Maiti, Rashmish Mishra, Siddharth Mishra-Sharma
 * Primary Contact: [Email Edo Berger](mailto:eberger@cfa.harvard.edu) 
 

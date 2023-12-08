@@ -60,11 +60,12 @@ The Code of Conduct uses several phrases that may need further explanation, so w
 
 #### Reporting Resources
 
-**Current ECEC Membership:**
+**Current ECEC Membership**
+*\(Mandatory Reporters\)*
 * Staff: Marisa LaFleur (MIT, IAIFI Project Manager), [Email](mailto:mlafleur@mit.edu)
-* Faculty: Tracy Slatyer \(MIT, Chair\), [Email](mailto:tslatyer@mit.edu); Edo Berger \(Harvard\), [Email](mailto:eberger@cfa.harvard.edu)
-* Postdocs/Fellows: Harold Erbin \(MIT\), [Email](mailto:erbin@mit.edu); Siddharth Mishra-Sharma \(MIT\), [Email](mailto:siddharthmishra19@gmail.com)
-* PhD Students: Katie Fraser \(Harvard\), [Email](mailto:kfraser@g.harvard.edu); Kiranjyot \(Jasmine\) Gill \(Harvard\), [Email](mailto:kiranjyot.gill@cfa.harvard.edu); Anindita Maiti \(Northeastern\), [Email](mailto:maiti.a@northeastern.edu)
+* Faculty: Edo Berger \(Harvard\) (Chair), [Email](mailto:eberger@cfa.harvard.edu); Tess Smidt \(MIT\), [Email](mailto:tsmidt@mit.edu);
+* Postdocs/Fellows: Jessie Micallef \(IAIFI Fellow\), [Email](mailto:jessiem@mit.edu); Carol Cuesta-Lazaro \(IAIFI Fellow\), [Email](mailto:cuestalz@mit.edu); Rashmish Mishra \(Harvard\), [Email](mailto:rashmishmishra@fas.harvard.edu)
+* PhD Students: Sean Benevedes \(MIT\), [Email](mailto:seanmb@mit.edu); Zeviel Imani \(Tufts\), [Email](mailto:Zeviel.Imani@tufts.edu)
 
 **Resources for Addressing Discrimination/Harassment** 
 *\(Not Confidential\)*
@@ -81,7 +82,7 @@ The Code of Conduct uses several phrases that may need further explanation, so w
 * [MIT](https://ombudsoffice.mit.edu); Kalina Schloneger, [Email](mailto:kalina_s@mit.edu); 617-253-5921
 * [Tufts](https://oeo.tufts.edu/contact-us)
 * [Northeastern](https://graduateombuds.northeastern.edu); Dr. Kimberly Wong, [Email](mailto:graduateombuds@northeastern.edu); 617-373-6904
-* [Harvard](https://ombudsman.harvard.edu); [Email](university_ombudsman@harvard.edu); 617-495-7748
+* [Harvard](https://ombudsman.harvard.edu); [Email](mailto:university_ombudsman@harvard.edu); 617-495-7748
 
 #### Confidential Resources for Sexual Assault/Violence
 * MIT: [Violence Prevention and Response](https://studentlife.mit.edu/vpr)
