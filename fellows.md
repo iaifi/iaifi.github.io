@@ -56,7 +56,7 @@ We aim to spread the word about the Fellowship as widely as possible. In additio
 *  [National Society of Black Physicists (NSBP)](https://nsbp.org/networking/apply_now.aspx?view=1&id=669773) (Only accessible to members)
 *  [Women in Machine Learning mailing list](https://groups.google.com/forum/#!forum/women-in-machine-learning)
 *  [benty-fields.com](https://www.benty-fields.com/job_details?job_id=15745&page=1&app_order=&post_order=descending&search_term=)
-*  [Women in Astronomy mailing list](aaswomen@lists.aas.org)
+*  [Women in Astronomy mailing list](https://jobregister.aas.org/ad/b6a19365)
 
 If you have suggestions for anywhere else where we should be sharing the announcement, please email [iaifi-fellows@mit.edu](mailto:iaifi-fellows@mit.edu).
  

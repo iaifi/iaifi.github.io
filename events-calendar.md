@@ -4,7 +4,7 @@ title: Events Calendar
 ---
 
 * All [IAIFI public events](/events.html) are listed in blue-green. 
-* All [internal IAIFI events](/internal-events.html) are listed in purple. 
+* All [internal IAIFI events](https://iaifi.org/events-calendar.html) are listed in purple. 
 * All [related events external to IAIFI](/related-events.html) are listed in orange. 
 
 <style>
