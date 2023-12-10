@@ -44,10 +44,10 @@
   talk-title: "A Phase Diagram of the Transformer at Initialization"
   talk-abstract: "The growth in the complexity of training modern machine learning architectures is in part due to the large number of hyper-parameters which control their initialization and training. In this work, we study how key hyperparameters such as the activation function, the variance of the weight initialization distribution, and the strength of the residual connections affect the trainability of deep transformers. We find that randomly initialized transfomers exhibit four phases characterized by the vanishing or exploding gradients, and the presence or absence of rank collapse in the token matrix. The standard transformer initialization lies near the intersection of these four phases, balancing these effects. This framework explains the empirical success of modern transformer initialization, and also points to a subtle pathology in the attention mechanism which cannot perfectly balance these competing effects in an extensive phase."
   slides-link: ""
-  youtube-link: ""
+  youtube-link: "https://www.youtube.com/live/f4Kl2qnY2A4?feature=shared"
   speaker-thrust: "physics theory"
   speaker-gender: "man"
-  talk-attendance:
+  talk-attendance: 26 in person 30 virtual
 
 - type: "spring-2023"
   speaker-name: Uros Seljak
