@@ -127,10 +127,10 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
 
- ***IAIFI Affiliate Dan Roberts writes about Black Holes and the Intelligence Explosion***. Read [more in SEQUOIA about Dan's article](https://www.sequoiacap.com/article/black-holes-perspective/). *December 12, 2023*
+ ***IAIFI Affiliate Dan Roberts writes about about using physics to understand AI risk***. Read ["Black Holes and the Intelligence Explosion"](https://www.sequoiacap.com/article/black-holes-perspective/). *December 12, 2023*
 {:.info}
 
-  ***IAIFI Fellow Siddharth Mishra-Sharma named one of the 2023 Rising Stars in Data Science by the University of Chicago***. Read [more about Siddharth's recognition](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/). *November 30, 2023*
+***IAIFI Fellow Siddharth Mishra-Sharma named one of the 2023 Rising Stars in Data Science by the University of Chicago***. Read [more about Siddharth's recognition](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars-in-data-science-2/2023-rising-stars/). *November 30, 2023*
 {:.info}
 
 
