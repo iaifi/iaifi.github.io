@@ -20,7 +20,7 @@ See below for instructions on [reporting violations](#reporting-process-for-viol
 {:.info}
 
 ## Resources
-* [Reporting Process for Violations to the Code of Conduct](#reporting-violations-to-the-code-of-conduct)
+* [Reporting Process for Violations to the Code of Conduct](#reporting-process-for-violations-to-the-code-of-conduct)
 * [Supplementary List of Definitions and Resources](#supplementary-list-of-definitions-and-resources)
 
 ### Reporting Process for Violations to the Code of Conduct

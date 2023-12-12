@@ -7,6 +7,10 @@ title:
 
 # IAIFI Summer Workshop
 
+<!--
+The 2024 IAIFI Summer Workshop will be held August 12–16, 2024 in Boston (exact location TBD). 
+-->
+"
 [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates about the 2024 Summer Workshop!
 {:.success}
 

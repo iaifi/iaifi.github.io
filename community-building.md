@@ -21,13 +21,13 @@ title: Community Building
 
 ### IAIFI Discussion Seminars
 The IAIFI Discussion Seminars kicked off on February 11, 2021 and has continued as a biweekly series during the academic year. Discussion seminars are open to IAIFI members and continue to be held virtually over Zoom.
-* [View our full internal events calendar](/internal-events.html)
+* [View our full internal events calendar](https://iaifi.org/events-calendar.html)
 * Year 1 Speaker Selection Committee: Max Tegmark, Jim Halverson (Colloquium Organizer), Lisa Barsotti (Seminar Organizer)
 * Year 2 Speaker Selection Committee: Jim Halverson (Fall Colloquium Organizer), Cora Dvorkin (Spring Colloquium Organizer), Demba Ba (Seminar Organizer), Dan Roberts, Arkopal Dutt, Di Luo, Nayantara Mudur
 
 ### IAIFI Journal Club
 The IAIFI Journal Club was founded in November 2020. It is open to IAIFI members and meets every other week during the academic year. It provides junior members with an opportunity to share their research, especially with other junior members, in a relatively informal setting, fostering community and cross-disciplinary interaction.
-* [View our full internal events calendar](/internal-events.html)
+* [View our full internal events calendar](https://iaifi.org/events-calendar.html)
 * Year 1 and 2 Journal Club Coordinators: Andrew Tan, John Martyn
 
 <div class="google-slides-container">
