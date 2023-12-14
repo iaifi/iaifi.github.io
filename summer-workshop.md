@@ -3,18 +3,15 @@ layout: article
 title: 
 ---
 
-<img src="images/2023-summer-workshop-logo.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 
-# IAIFI Summer Workshop
+<img src="images/summer-workshop-logo_2024.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 
-<!--
-The 2024 IAIFI Summer Workshop will be held August 12–16, 2024 in Boston (exact location TBD). 
--->
-"
-[Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates about the 2024 Summer Workshop!
-{:.success}
 
-<img src="images/neu-isec.jpg" align="right" style="max-width:5990px;width:50%" hspace="10" vspace="10"> 
+The 2024 IAIFI Summer Workshop will be held August 12–16, 2024 in Boston (exact location TBD). [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates about the 2024 Summer Workshop!
+{:.info}
+
+# IAIFI Summer Workshop 2023
+
 The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. 
 
 * The 2023 Summer Workshop was held **August 14–18, 2023**
