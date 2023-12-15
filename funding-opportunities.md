@@ -8,7 +8,7 @@ aside:
 As a hub for the intersection of Physics and AI in the Boston area and beyond, we are happy to share funding opportunities at this intersection as we become aware of them. 
 {:.info}
 
-Note: These are opportunities external to IAIFI. For IAIFI-related job opportunities, see our [IAIFI Jobs page](\job-board.html).
+Note: These are opportunities external to IAIFI. For IAIFI-related job opportunities, see our [IAIFI Jobs page](/job-board.html).
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
 {% assign funding = site.data.funding | sort | reverse %}

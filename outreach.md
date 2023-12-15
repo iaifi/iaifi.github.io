@@ -58,7 +58,7 @@ The IAIFI has partnered with Northeastern’s [Theorynet program](http://www.phy
 
 [Sign up for a classroom visit](https://forms.gle/MQh677rcxCwhzSJq7){:.button.button--outline-primary.button--pill.button--lg}.
 
-This activity is coordinated by the [IAIFI Public Engagement Committee](\committees.html#public-engagement-committee).
+This activity is coordinated by the [IAIFI Public Engagement Committee](\committees.html#public-engagement).
 
 # Winter Family Day
 

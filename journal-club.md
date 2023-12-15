@@ -213,9 +213,9 @@ If time permits, I will also present our latest results on generalizing the QCNN
   * **April 28, 2022, 11:00am-12:00pm**
   * *Precision simulations for new physics*
   * Resources:
-    * [https://arxiv.org/abs/1907.04898](Precision simulations for new physics (JHEP 12 (2019) 008))
-    * [https://arxiv.org/abs/1901.09937](How precision allows us to design new variables to look for signals (Phys. Rev. D 100, 074010 (2019))
-    * [https://arxiv.org/abs/2109.11815](Trying to do better with boosted decision trees on the basis of tree-level simulations  (JHEP 04 (2022) 015))
+    * [Precision simulations for new physics (JHEP 12 (2019) 008)](https://arxiv.org/abs/1907.04898)
+    * [How precision allows us to design new variables to look for signals (Phys. Rev. D 100, 074010 (2019)](https://arxiv.org/abs/1901.09937)
+    * [Trying to do better with boosted decision trees on the basis of tree-level simulations  (JHEP 04 (2022) 015)](https://arxiv.org/abs/2109.11815)
 
 * **Dylan Hadfield, Assistant Professor, MIT** 
   * **May 5, 2022, 11:00am-12:00pm**

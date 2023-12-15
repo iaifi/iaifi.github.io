@@ -7,7 +7,7 @@ Thank you for your interest in getting involved with IAIFI! If you are a postdoc
 
 * [Subscribe to IAIFI News](#subscribe-to-iaifi-news)
 * [Apply to be a Friend of IAIFI](#apply-to-be-a-friend-of-iaifi)
-* [Explore Job Opportunities at IAIFI Universities](#explore-postdoc-opportunities-at-iaifi-universities)
+* [Explore Job Opportunities at IAIFI Universities](#explore-job-opportunities-at-iaifi-universities)
 * [Explore Undergraduate Opportunities at IAIFI Universities](#explore-undergraduate-opportunities-at-iaifi-universities)
 
 If your situation does not fall into any of the above categories but you have an idea for collaborating with IAIFI, please contact [IAIFI Management](mailto:iaifi@mit.edu).
