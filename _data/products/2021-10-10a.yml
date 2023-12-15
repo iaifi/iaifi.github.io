@@ -5,7 +5,7 @@ authors: Alexander Lin, Andrew H. Song, Demba Ba
 abstract: State-of-the-art approaches for clustering high-dimensional data utilize deep auto-encoder architectures. Many of these networks require a large number of parameters and suffer from a lack of interpretability, due to the black-box nature of the auto-encoders. We introduce Mixture Model Auto-Encoders (MixMate), a novel architecture that clusters data by performing inference on a generative model. Derived from the perspective of sparse dictionary learning and mixture models, MixMate comprises several auto-encoders, each tasked with reconstructing data in a distinct cluster, while enforcing sparsity in the latent space. Through experiments on various image datasets, we show that MixMate achieves competitive performance compared to state-of-the-art deep clustering algorithms, while using orders of magnitude fewer parameters.
 arxiv: "2110.04683"
 journal: ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022, pp. 3368-3372
-doi: 10.1109/ICASSP43922.2022.9747848
+doi: https://doi.org/10.1109/ICASSP43922.2022.9747848
 nsf-par:
 code: 
 publication-date: 2022-04-27
