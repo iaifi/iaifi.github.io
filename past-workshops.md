@@ -10,7 +10,7 @@ aside:
 <img src="images/phd-summer-school-logo-7.png" align="right" style="max-width:5990px;width:50%" hspace="50" vspace="10"> 
 
 
-The 2022 IAIFI Summer Workshop brought together researchers from across Physics and AI for two days (August 8–9, 2022) of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. The Workshop followed the [IAIFI Summer School](/phd-summer-school-2022.html).
+The 2022 IAIFI Summer Workshop brought together researchers from across Physics and AI for two days (August 8–9, 2022) of plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. The Workshop followed the [IAIFI Summer School](/past-summer-schools.html).
 
 The first annual Summer Workshop was held hybrid with ~110 in-person attendees from 10 different countries. The Workshop included 82% of the Summer School students who stayed to partake in the Workshop activities. 
 

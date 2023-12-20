@@ -7,7 +7,7 @@ Thank you for your interest in getting involved with IAIFI! If you are faculty, 
 
 * [Subscribe to IAIFI News](#subscribe-to-iaifi-news)
 * [Apply to be an IAIFI Affiliate](#apply-to-be-an-iaifi-affiliate)
-* [Explore Faculty Opportunities at IAIFI Universities](#explore-faculty-opportunities-at-IAIFI-universities)
+* [Explore Faculty Opportunities at IAIFI Universities](#explore-faculty-opportunities-at-iaifi-universities)
 * [Apply to be a Friend of IAIFI](#apply-to-be-a-friend-of-iaifi)
 
 If your situation does not fall into any of the above categories, please contact [IAIFI Management](mailto:iaifi@mit.edu).
