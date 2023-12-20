@@ -20,8 +20,6 @@ The first annual Summer Workshop was held hybrid with ~110 in-person attendees f
 
 [Download PDF of agenda](images/2022-workshop-agenda.pdf)
 
-[View the detailed agenda for the IAIFI Summer Workshop](https://iaifi.org/workshop-agenda)
-
 ### Plenary Speakers 2022
 **IAIFI Investigators/Affiliates in bold**
 

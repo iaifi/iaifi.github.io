@@ -48,6 +48,9 @@ Tutorial Leads will be announced early in 2024.
 ## Agenda
 The agenda will be shared by March 2024.
 
+## Financial Supporters
+To be announced. If you are interested in sponsoring the Summer School, please contact [iaifi@mit.edu](mailto:iaifi@mit.edu). 
+
 ## 2024 Organizing Committee 
 * Fabian Ruehle, Chair (Northeastern University)
 * Demba Ba (Harvard)
