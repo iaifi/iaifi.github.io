@@ -33,10 +33,10 @@ title: News Archive
 ***IAIFI researchers' model-free reinforcement learning system breaks the record for fastest robotic mini cheetah run recorded***: Featured in [MIT News](https://news.mit.edu/2022/3-questions-how-mit-mini-cheetah-learns-run-fast-0317) and [NSF Science Now](https://t.co/OWEbGuGTwG), IAIFI Fellow Ge Yang, Senior Investigator Pulkit Agrawal, and collaborator Gabriel Margolis trained the robot in simulation under variable conditions, which made it more robust when deployed in the real world---a strategy expected to be relevant for making real-time adjustments in the operation of experiments to maximize the physics reach. *March 22, 2022*
 {:.info}
 
-***IAIFI welcomes [UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning & Advanced Computing (AIMLAC)](http://cdt-aimlac.org)***: IAIFI hosted 15 AIMLAC students and faculty for [an informal workshop](/partnerships.html#iaifi---aimlac-workshop) March 2 through March 4, 2022, where the two groups shared research and education strategies, and had opportunities for networking. *March 4, 2022*
+***IAIFI welcomes [UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning & Advanced Computing (AIMLAC)](http://cdt-aimlac.org)***: IAIFI hosted 15 AIMLAC students and faculty for [an informal workshop](/partnerships.html#iaifi-aimlac-workshop-2022) March 2 through March 4, 2022, where the two groups shared research and education strategies, and had opportunities for networking. *March 4, 2022*
 {:.info} 
 
-***Second Round of IAIFI Fellows Announced***: The next round of [IAIFI Fellows (2022-2025)](/current-fellows.html#2021---2025-iaifi-fellows), Denis Boyda, Carolina Cuesta, and Jessie Micallef, will join us later in 2022 and help spark vital interdisciplinary research at the intersection of Physics and AI! *January, 28, 2022*
+***Second Round of IAIFI Fellows Announced***: The next round of [IAIFI Fellows (2022-2025)](/https://iaifi.org/iaifi-news.html#2022-2025-iaifi-fellows), Denis Boyda, Carolina Cuesta, and Jessie Micallef, will join us later in 2022 and help spark vital interdisciplinary research at the intersection of Physics and AI! *January, 28, 2022*
 {:.info}
 
 ***IAIFI Senior Investigator Phiala Shanahan receives 2021 Wu-Ki Tung Award for Early Career Research on QCD***: [Phiala was recognized](https://varelas.people.uic.edu/tung_award/) "for pioneering studies of long-wavelength and nuclear non-perturbative QCD effects in discretized space and time, and for applications of machine learning to lattice field theory." *January 24, 2022*
@@ -103,5 +103,5 @@ title: News Archive
 ***Opening for IAIFI Project Manager:***  We are looking to hire a [Project Manager](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=19410&localeCode=en-us) to help coordinate and plan the IAIFI activities.
 -->
 
-***2021-2024 IAIFI Fellows:*** IAIFI is pleased to announce our [2021-2024 IAIFI Fellowship Program](https://academicjobsonline.org/ajo/jobs/16695). The deadline for full applications is October 20, 2020. [Full story](iaifi-news.html#2021---2024-iaifi-fellows)
+***2021-2024 IAIFI Fellows:*** IAIFI is pleased to announce our [2021-2024 IAIFI Fellowship Program](https://academicjobsonline.org/ajo/jobs/16695). The deadline for full applications is October 20, 2020. [Full story](/iaifi-news.html#2021-2024-iaifi-fellows)
 

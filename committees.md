@@ -76,5 +76,5 @@ Primary Contact: [Email Pulkit Agrawal (Chair)](mailto:pulkitag@mit.edu)
 * Time Commitment: One-hour meeting per semester, attendance at Journal Club every 1-2 weeks, and time spent inviting presenters
 * Current Journal Club Organizers: Alexander Gagliano, Sean Benevedes, Rikab Gambhir
 * Past Journal Club Organizers: John Martyn, Andrew Tan
-* Primary Contact: [Email Alexander Gagliano](mailto:gaglian2@mit.edu) or [Email Sean Benevedes](mailto:seanmb@mit.edu) or  [Email Rikab Gambhir](rikab@mit.edu)
+* Primary Contact: [Email Alexander Gagliano](mailto:gaglian2@mit.edu) or [Email Sean Benevedes](mailto:seanmb@mit.edu) or  [Email Rikab Gambhir](mailto:rikab@mit.edu)
 
