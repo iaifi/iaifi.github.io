@@ -11,7 +11,13 @@ We are in the process of developing partnerships across both industry and academ
 ## Industry Visits
 
 * **Google Quantum AI:** Murphy Niu, of Google Quantum AI presented a [Journal Club on December 3, 2021](/journal-club.html#fall-2021-journal-clubs) to share [resources that are available to IAIFI members](https://docs.google.com/document/d/1Xq5buOxookA7kqecAyUVQC1ug5B-Iar_jGqjbKBzF7I/edit?usp=sharing) through Google Quantum AI. 
-* **QuEra:** On October 19, 2022, several representatives [gave a lunch seminar for IAIFI members](https://docs.google.com/document/d/1P8tzwI_lrZTrBtxPT2ajmDxA27xRTCCJnVaYSMXu62g/edit?usp=sharing) to open conversations with the IAIFI and local lattice gauge theory communities and stimulate interest in developing joint applications to quantum machine learning and high-energy physics. 
+
+Beginning in Fall 2022, we have been hosting semi-regular lunch seminars with industry professionals to share career tips, their experience, and network with our junior members. These lunches have included: 
+* **QuEra:** Fangli Lu, Pedro Lopes, Tommaso Macri, Shengtao Wang, Resesarch Scientists (October 19, 2022)
+* **bPrescient:** Grant Stephen, co-founder and CEO (April 19, 2023)
+* **Microsoft Research:** Chris White, General Manager (May 10, 2023)
+* **Normal Computing:** Patrick Coles, Researcher (June 28, 2023)
+* **IBM Research:** Nima Dehmamy, Research Staff Member (November 3, 2023)
 
 ## Industry Sponsors
 We are grateful to the following sponsors for their support of the 2022 IAIFI Summer School:
