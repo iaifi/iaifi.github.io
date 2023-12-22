@@ -21,7 +21,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 * **January 22–24, 2024**
 * **MIT Stata Center**
-* **[Register by December 15, 2023](https://docs.google.com/forms/d/e/1FAIpQLScQA5zPIQymCimv89YVnOSzFRi8FI17aHqX9yxtWLZXnmRwag/viewform)** 
+* **Registration is now closed. [Email us to inquire about availability](mailto:iaifi@mit.edu).** 
 
 ### Projects
 Details for the projects will be provided soon. Topics for the projects will include: 
@@ -32,15 +32,20 @@ Details for the projects will be provided soon. Topics for the projects will inc
 * Super resolution everything: Enhancing the resolution of simulations that are too expensive to run at high resolution, for example hydrodynamical simulations of galaxy formation.
 
 ### Resources
-To make the most out of the hack, we recommend those unexperienced with machine learning to review the awesome [UvA Deep Learning tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html).
-* Firstly, familiarize yourself with the most popular machine learning libraries in python: PyTorch ([tutorial link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html)) and Jax ([tutorial link](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial2/Introduction_to_JAX.html)). If you have never worked on ML, PyTorch might have a kinder learning curve, although Jax can be extremely useful and fast for scientific problems. [Check this out](https://kidger.site/thoughts/torch2jax/) to transition from PyTorch to Jax.
-* Follow Tutorials 3 and 4 for an overview of training machine learning models in either of the frameworks.
-* If you are interested in the "Generative everything" hack project, follow the [deep auto encoders](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial9/AE_CIFAR10.html) and [normalising flows](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial11/NF_image_modeling.html) tutorials.
-* For "simulation-based everything" check out [this tutorial](https://github.com/smsharma/sbi-lecture-mit/blob/main/tutorial.ipynb)
-
+* To make the most out of the event, we recommend familiarizing yourself with basic machine learning workflows in PyTorch in advance. [Introduction to PyTorch](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html) from the [UvA Deep Learning tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) is a good starting point. Other notebooks in the tutorial series are also great -- feel free to explore!
+* Gilles Louppe’s [Deep Learning course](https://github.com/glouppe/info8010-deep-learning) is another good resource with short lecture slides and notebooks.
+* If you are interested in the "Generative everything" hack project, the [deep auto encoders](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial9/AE_CIFAR10.html) and [normalizing flows](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial11/NF_image_modeling.html) tutorials.
+* For "simulation-based everything" check out [this tutorial](https://github.com/smsharma/sbi-lecture-mit/blob/main/tutorial.ipynb).
+​
 If you are looking for inspiration on interesting projects at the intersection of machine learning and astrophysics check out these resources: 
 * [ML in cosmology](https://github.com/georgestein/ml-in-cosmology)
 * [Simulation-based inference in cosmology & astrophysics](https://github.com/smsharma/awesome-neural-sbi#cosmology-astrophysics-and-astronomy)
+
+### Code of Conduct
+
+Participation will be subject to the [IAIFI Code of Conduct](https://iaifi.org/code-of-conduct.html#iaifi-code-of-conduct). In addition, we expect participants to adhere to the following open collaboration policy, inspired by the [Gaia Sprints](https://gaia.lol/):
+​
+***Participants will be expected to openly share their ideas, expertise, code, and progress. Any participant contributing significantly to a project can expect co-authorship on resulting scientific papers, and any participant receiving significant contributions to a project is expected to include those contributors as co-authors. This policy discourages working with proprietary data or code at the event, unless permission is secured to bring these assets out into the open.***
 
 ### Organizing Committee
 
