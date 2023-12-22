@@ -44,8 +44,8 @@ If you are looking for inspiration on interesting projects at the intersection o
 ### Code of Conduct
 
 Participation will be subject to the [IAIFI Code of Conduct](https://iaifi.org/code-of-conduct.html#iaifi-code-of-conduct). In addition, we expect participants to adhere to the following open collaboration policy, inspired by the [Gaia Sprints](https://gaia.lol/):
-​
-***Participants will be expected to openly share their ideas, expertise, code, and progress. Any participant contributing significantly to a project can expect co-authorship on resulting scientific papers, and any participant receiving significant contributions to a project is expected to include those contributors as co-authors. This policy discourages working with proprietary data or code at the event, unless permission is secured to bring these assets out into the open.***
+
+*Participants will be expected to openly share their ideas, expertise, code, and progress. Any participant contributing significantly to a project can expect co-authorship on resulting scientific papers, and any participant receiving significant contributions to a project is expected to include those contributors as co-authors. This policy discourages working with proprietary data or code at the event, unless permission is secured to bring these assets out into the open.*
 
 ### Organizing Committee
 
