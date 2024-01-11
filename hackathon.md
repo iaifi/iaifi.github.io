@@ -25,17 +25,18 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ### Projects
 Details for the projects will be provided soon. Topics for the projects will include: 
-* Generative everything: Understand the generative model paradigm, and learn how to train diffusion generative models for a dataset of your choosing. Explore their utility for emulation, likelihood evaluation, posterior estimation, and anomaly detection. 
-* Simulation-based everything: Build up the tools necessary to do simulation-based (or likelihood-free) inference. If you have a forward model or simulator for your data and are sick of losing information by using summary statistics, this may be for you!
-* Multimodal everything: Understand how to train joint embeddings across or within modalities. Examples: (1) images + spectra + light curves, or (2) the same object observed by different instruments. Explore the structure of joint embeddings and how to use them for various downstream tasks. Bring your own multi-modal datasets!
-* Anomaly detection: Extract informative features and build lower-dimensional representations of your dataset to find the rarest and strangest instances! We'll hack models for zero-shot and few-shot learning.
-* Super resolution everything: Enhancing the resolution of simulations that are too expensive to run at high resolution, for example hydrodynamical simulations of galaxy formation.
+* **Generative everything**: Understand the generative model paradigm, and learn how to train diffusion generative models for a dataset of your choosing. Explore their utility for emulation, likelihood evaluation, posterior estimation, and anomaly detection. 
+* **Simulation-based everything**: Build up the tools necessary to do simulation-based (or likelihood-free) inference. If you have a forward model or simulator for your data and are sick of losing information by using summary statistics, this may be for you!
+* **Multimodal everything**: Understand how to train joint embeddings across or within modalities. Examples: (1) images + spectra + light curves, or (2) the same object observed by different instruments. Explore the structure of joint embeddings and how to use them for various downstream tasks. Bring your own multi-modal datasets!
+* **Anomaly detection**: Extract informative features and build lower-dimensional representations of your dataset to find the rarest and strangest instances! We'll hack models for zero-shot and few-shot learning.
+* **Super resolution everything**: Enhancing the resolution of simulations that are too expensive to run at high resolution, for example hydrodynamical simulations of galaxy formation.
 
 ### Resources
 * To make the most out of the event, we recommend familiarizing yourself with basic machine learning workflows in PyTorch in advance. [Introduction to PyTorch](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html) from the [UvA Deep Learning tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) is a good starting point. Other notebooks in the tutorial series are also great -- feel free to explore!
 * Gilles Louppe’s [Deep Learning course](https://github.com/glouppe/info8010-deep-learning) is another good resource with short lecture slides and notebooks.
 * If you are interested in the "Generative everything" hack project, the [deep auto encoders](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial9/AE_CIFAR10.html) and [normalizing flows](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial11/NF_image_modeling.html) tutorials.
 * For "simulation-based everything" check out [this tutorial](https://github.com/smsharma/sbi-lecture-mit/blob/main/tutorial.ipynb).
+
 ​
 If you are looking for inspiration on interesting projects at the intersection of machine learning and astrophysics check out these resources: 
 * [ML in cosmology](https://github.com/georgestein/ml-in-cosmology)
