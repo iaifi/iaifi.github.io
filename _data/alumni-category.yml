@@ -23,4 +23,10 @@ categories:
     type1: former-visitors
     type2:
     type3:
+  - former-msrp:
+    name: Former MSRP Students
+    anchor: former-msrp
+    type1: former-msrp
+    type2: 
+    type3:
  
