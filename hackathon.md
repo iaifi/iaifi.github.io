@@ -36,6 +36,7 @@ Details for the projects will be provided soon. Topics for the projects will inc
 * Gilles Louppe’s [Deep Learning course](https://github.com/glouppe/info8010-deep-learning) is another good resource with short lecture slides and notebooks.
 * If you are interested in the "Generative everything" hack project, the [deep auto encoders](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial9/AE_CIFAR10.html) and [normalizing flows](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial11/NF_image_modeling.html) tutorials.
 * For "simulation-based everything" check out [this tutorial](https://github.com/smsharma/sbi-lecture-mit/blob/main/tutorial.ipynb).
+
 ​
 If you are looking for inspiration on interesting projects at the intersection of machine learning and astrophysics check out these resources: 
 * [ML in cosmology](https://github.com/georgestein/ml-in-cosmology)
