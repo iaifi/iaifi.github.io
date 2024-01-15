@@ -1,3 +1,20 @@
+- type: "spring-2024"
+  speaker-name: Alex Malz
+  speaker-title: LINCC Frameworks Project Scientist
+  speaker-affiliation: Carnegie Mellon University
+  speaker-website: "https://lsstdiscoveryalliance.org/programs/lincc-frameworks/team/alex-malz/"
+  speaker-photo-location: 
+  talk-date: "2024-01-16"
+  talk-date-time: "Tuesday, January 16, 2024, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Data processing challenges for real-time observational astrophysics"
+  talk-abstract: "Astronomical transient and variable events comprise the things that go boom in the night, or otherwise vary in brightness or color over time, and are among the most powerful phenomena of the universe, providing a window into energy scales inaccessible to any laboratory on Earth. The fundamental physics determining the time-series light curves of these astronomical objects, which include exploding stars and black hole mergers, is key to understanding the nature of the dark energy driving the accelerating expansion of the universe, the dark matter guiding the formation and clustering of massive structures, and ultimately our place in the cosmos. During its ten-year mission beginning in 2025, the Legacy Survey of Space and Time (LSST) on the Vera C. Rubin Observatory will observe hundreds of millions of such transient and variable sources, up from the mere millions known to date, by making a ten-year 3D movie of the night sky. In doing so, it will revolutionize astronomy with a deluge of data that could enable boundless discoveries, conditioned on meeting the challenges of the data’s nontrivial noise properties; the scale of the anticipated data is a direct corollary to the strategy of collecting less informative photometric data rather than high-fidelity, resource-intensive spectroscopy. In this talk, I will introduce open problems and evolving data-driven solutions for several interesting aspects of the systems for processing and interpreting the anticipated data."
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics experiment"
+  speaker-gender: "Man"
+  talk-attendance:
+
 - type: "fall-2023"
   speaker-name: Tony Menzo
   speaker-title: Graduate Assistant

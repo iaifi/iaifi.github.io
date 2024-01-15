@@ -17,7 +17,7 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
 {% for talk in talks %}
   {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date > now %}
-  {% if talk.type == "fall-2023" %}
+  {% if talk.type == "spring-2024" %}
 
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
