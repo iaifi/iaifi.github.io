@@ -14,7 +14,7 @@ for filename in os.listdir("."):
     if os.path.exists(newfilename): continue
 
     # run shrinking command
-    print "Converting " + filename + " to " + newfilename
+    print("Converting " + filename + " to " + newfilename)
     cmd = 'sips -Z 300 --out small-%s.jpg %s' % (filename[:-4],filename)
     os.system(cmd)
 
