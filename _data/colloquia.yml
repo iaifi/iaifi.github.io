@@ -1,9 +1,60 @@
+- type: "spring-2024"
+  speaker-name: Laurence Perrault-Levasseur
+  speaker-title: Assistant Professor
+  speaker-affiliation: University of Montreal
+  speaker-website: "https://mila.quebec/en/person/laurence-perreault-levasseur/"
+  speaker-photo-location: "images/small-photo-laurence-levasseur.jpg"
+  talk-date: "2024-02-09"
+  talk-date-time: "Friday, February 9, 2024, 2:00–3:00 pm"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "experimental physics"
+  speaker-gender: "woman"
+  talk-attendance: 
+
+- type: "spring-2024"
+  speaker-name: Soledad Villar
+  speaker-title: Assistant Professor
+  speaker-affiliation: Johns Hopkins University
+  speaker-website: "https://www.ams.jhu.edu/villar/"
+  speaker-photo-location: "images/small-photo-soledad-villar.jpg"
+  talk-date: "2024-03-22"
+  talk-date-time: "Friday, March 22, 2024, 2:00–3:00 pm"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "foundational AI"
+  speaker-gender: "woman"
+  talk-attendance: 
+
+- type: "spring-2024"
+  speaker-name: Jennifer Ngadiuba
+  speaker-title: Associate Scientist
+  speaker-affiliation: Fermi National Accelerator Laboratory
+  speaker-website: "https://inspirehep.net/authors/1244433"
+  speaker-photo-location: "images/small-photo-jennifer-ngadiuba.jpg"
+  talk-date: "2024-04-12"
+  talk-date-time: "Friday, April 12, 2024, 2:00–3:00 pm"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "experimental physics"
+  speaker-gender: "woman"
+  talk-attendance: 
+
 - type: "fall-2023"
   speaker-name: Hidenori Tanaka
   speaker-title: Research Scientist
   speaker-affiliation: NTT Research, Harvard University
   speaker-website: "https://sites.google.com/view/htanaka/home"
-  speaker-photo-location: "images/photo-hidenori-tanaka.png"
+  speaker-photo-location: "images/small-photo-hidenori-tanaka.jpg"
   talk-date: "2023-09-15"
   talk-date-time: "Friday, September 15, 2023, 2:00–3:00 pm"
   talk-location: "MIT Cosman Room (6c-442)"
@@ -20,7 +71,7 @@
   speaker-title: Researcher
   speaker-affiliation: CNRS
   speaker-website: "https://flanusse.net"
-  speaker-photo-location: "images/photo-francois-lanusse.jpg"
+  speaker-photo-location: "images/small-photo-francois-lanusse.jpg"
   talk-date: "2023-10-13"
   talk-date-time: "Friday, October 13, 2023, 2:00–3:00 pm"
   talk-location: "MIT Kolker Room (26-414)"
@@ -37,7 +88,7 @@
   speaker-title: Professor of Physics
   speaker-affiliation: Stanford University
   speaker-website: "https://sitp.stanford.edu/people/xiaoliang-qi"
-  speaker-photo-location: "images/photo-xiaoliang-qi.jpg"
+  speaker-photo-location: "images/small-photo-xiaoliang-qi.jpg"
   talk-date: "2023-12-08"
   talk-date-time: "Friday, December 8, 2023, 2:00–3:00 pm"
   talk-location: "MIT Kolker Room (26-414)"
