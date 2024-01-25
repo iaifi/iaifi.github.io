@@ -5,7 +5,7 @@ authors: Dor Verbin, Todd Zickler
 abstract: "We introduce a bottom-up model for simultaneously finding many boundary elements in an image, including contours, corners and junctions. The model explains boundary shape in each small patch using a 'generalized M-junction' comprising M angles and a freely-moving vertex. Images are analyzed using non-convex optimization to cooperatively find M+2 junction values at every location, with spatial consistency being enforced by a novel regularizer that reduces curvature while preserving corners and junctions. The resulting 'field of junctions' is simultaneously a contour detector, corner/junction detector, and boundary-aware smoothing of regional appearance. Notably, its unified analysis of contours, corners, junctions and uniform regions allows it to succeed at high noise levels, where other methods for segmentation and boundary detection fail."
 arxiv: 2011.13866
 journal: IEEE/CVF International Conference on Computer Vision, 2021
-doi: https://www.webofscience.com/wos/woscc/full-record/WOS:000797698907008
+doi: https://doi.org/10.1109/ICCV48922.2021.00679
 nsf-par:
 code:
-publication-date: 
+publication-date: 2021-10-17
