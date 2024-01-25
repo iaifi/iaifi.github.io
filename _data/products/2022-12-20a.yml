@@ -4,8 +4,8 @@ title: "Comparing Point Cloud Strategies for Collider Event Classification"
 authors: Peter Onyisi, Delon Shen, Jesse Thaler
 abstract: "In this paper, we compare several event classification architectures defined on the point cloud representation of collider events. These approaches, which are based on the frameworks of deep sets and edge convolutions, circumvent many of the difficulties associated with traditional feature engineering. To benchmark our architectures against more traditional event classification strategies, we perform a case study involving Higgs boson decays to tau leptons. We find a 2.5 times increase in performance compared to a baseline ATLAS analysis with engineered features. Our point cloud architectures can be viewed as simplified versions of graph neural networks, where each particle in the event corresponds to a graph node. In our case study, we find the best balance of performance and computational cost for simple pairwise architectures, which are based on learned edge features."
 arxiv: "2212.10659"
-journal: 
-doi: 
+journal: Physical Review D, 2023, Volume 108, Issue 1
+doi: https://doi.org/10.1103/PhysRevD.108.012001
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2023-07-05

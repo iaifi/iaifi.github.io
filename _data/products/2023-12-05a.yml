@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Generating Interpretable Networks using Hypernetworks"
+authors: "Isaac Liao, Ziming Liu, Max Tegmark"
+abstract: "An essential goal in mechanistic interpretability to decode a network, i.e., to convert a neural network's raw weights to an interpretable algorithm. Given the difficulty of the decoding problem, progress has been made to understand the easier encoding problem, i.e., to convert an interpretable algorithm into network weights. Previous works focus on encoding existing algorithms into networks, which are interpretable by definition. However, focusing on encoding limits the possibility of discovering new algorithms that humans have never stumbled upon, but that are nevertheless interpretable. In this work, we explore the possibility of using hypernetworks to generate interpretable networks whose underlying algorithms are not yet known. The hypernetwork is carefully designed such that it can control network complexity, leading to a diverse family of interpretable algorithms ranked by their complexity. All of them are interpretable in hindsight, although some of them are less intuitive to humans, hence providing new insights regarding how to 'think' like a neural network. For the task of computing L1 norms, hypernetworks find three algorithms: (a) the double-sided algorithm, (b) the convexity algorithm, (c) the pudding algorithm, although only the first algorithm was expected by the authors before experiments. We automatically classify these algorithms and analyze how these algorithmic phases develop during training, as well as how they are affected by complexity control. Furthermore, we show that a trained hypernetwork can correctly construct models for input dimensions not seen in training, demonstrating systematic generalization."
+arxiv: "2312.03051"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

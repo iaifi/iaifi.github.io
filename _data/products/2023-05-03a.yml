@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Normalizing flows for lattice gauge theory in arbitrary space-time dimension"
+authors: Ryan Abbott, Michael S. Albergo, Aleksandar Botev, Denis Boyda, Kyle Cranmer, Daniel C. Hackett, Gurtej Kanwar, Alexander G.D.G. Matthews, Sébastien Racanière, Ali Razavi, Danilo J. Rezende, Fernando Romero-López, Phiala E. Shanahan, Julian M. Urban
+abstract: "Applications of normalizing flows to the sampling of field configurations in lattice gauge theory have so far been explored almost exclusively in two space-time dimensions. We report new algorithmic developments of gauge-equivariant flow architectures facilitating the generalization to higher-dimensional lattice geometries. Specifically, we discuss masked autoregressive transformations with tractable and unbiased Jacobian determinants, a key ingredient for scalable and asymptotically exact flow-based sampling algorithms. For concreteness, results from a proof-of-principle application to SU(3) lattice gauge theory in four space-time dimensions are reported."
+arxiv: "2305.02402"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

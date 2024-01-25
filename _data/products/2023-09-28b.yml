@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Cosmological constraints from density-split clustering in the BOSS CMASS galaxy sample"
+authors: Enrique Paillas, Carolina Cuesta-Lazaro, Will J. Percival, Seshadri Nadathur, Yan-Chuan Cai, Sihan Yuan, Florian Beutler, Arnaud de Mattia, Daniel Eisenstein, Daniel Forero-Sanchez, Nelson Padilla, Mathilde Pinon, Vanina Ruhlmann-Kleider, Ariel G. Sánchez, Georgios Valogiannis, Pauline Zarrouk
+abstract: "We present a clustering analysis of the BOSS DR12 CMASS galaxy sample, combining measurements of the galaxy two-point correlation function and density-split clustering down to a scale of 1h−1Mpc. Our theoretical framework is based on emulators trained on high-fidelity mock galaxy catalogues that forward model the cosmological dependence of the clustering statistics within an extended-ΛCDM framework, including redshift-space and Alcock-Paczynski distortions. Our base-ΛCDM analysis finds ωcdm=0.1201±0.0022, σ8=0.792±0.034, and ns=0.970±0.018, corresponding to fσ8=0.462±0.020 at z≈0.525, which is in agreement with Planck 2018 predictions and various clustering studies in the literature. We test single-parameter extensions to base-ΛCDM, varying the running of the spectral index, the dark energy equation of state, and the density of massless relic neutrinos, finding no compelling evidence for deviations from the base model. We model the galaxy-halo connection using a halo occupation distribution framework, finding signatures of environment-based assembly bias in the data. We validate our pipeline against mock catalogues that match the clustering and selection properties of CMASS, showing that we can recover unbiased cosmological constraints even with a volume 84 times larger than the one used in this study."
+arxiv: "2309.16541"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

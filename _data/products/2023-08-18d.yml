@@ -4,8 +4,8 @@ title: "Subhalo effective density slope measurements from HST strong lensing dat
 authors: Gemma Zhang, Atınç Çağan Şengül, Cora Dvorkin
 abstract: "Examining the properties of subhalos with strong gravitational lensing images can shed light on the nature of dark matter. From upcoming large-scale surveys, we expect to discover orders of magnitude more strong lens systems that can be used for subhalo studies. To optimally extract information from a large number of strong lensing images, machine learning provides promising avenues for efficient analysis that is unachievable with traditional analysis methods, but application of machine learning techniques to real observations is still limited. We build upon previous work, which uses a neural likelihood-ratio estimator, to constrain the effective density slopes of subhalos and demonstrate the feasibility of this method on real strong lensing observations. To do this, we implement significant improvements to the forward simulation pipeline and undertake careful model evaluation using simulated images. Ultimately, we use our trained model to predict the effective subhalo density slope from combining a set of strong lensing images taken by the \textit{Hubble Space Telescope}. We found the subhalo slope measurement of this set of observations to be steeper than the slope predictions of cold dark matter subhalos. Our result adds to several previous works that also measured high subhalo slopes in observations. Although a possible explanation for this is that subhalos with steeper slopes are easier to detect due to selection effects and thus contribute to statistical bias, our result nevertheless points to the need for careful analysis of more strong lensing observations from future surveys."
 arxiv: "2308.09739"
-journal: 
-doi: 
+journal: Monthly Notices of the Royal Astronomical Society, 2024, Volume 527, Issue 2
+doi: https://doi.org/10.1093/mnras/stad3521
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2023-11-15

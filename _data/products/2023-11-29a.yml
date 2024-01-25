@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Learning an Effective Evolution Equation for Particle-Mesh Simulations Across Cosmologies"
+authors: Nicolas Payot, Pablo Lemos, Laurence Perreault-Levasseur, Carolina Cuesta-Lazaro, Chirag Modi, Yashar Hezaveh
+abstract: "Particle-mesh simulations trade small-scale accuracy for speed compared to traditional, computationally expensive N-body codes in cosmological simulations. In this work, we show how a data-driven model could be used to learn an effective evolution equation for the particles, by correcting the errors of the particle-mesh potential incurred on small scales during simulations. We find that our learnt correction yields evolution equations that generalize well to new, unseen initial conditions and cosmologies. We further demonstrate that the resulting corrected maps can be used in a simulation-based inference framework to yield an unbiased inference of cosmological parameters. The model, a network implemented in Fourier space, is exclusively trained on the particle positions and velocities."
+arxiv: "2311.18017"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
