@@ -4,8 +4,8 @@ title: "Data Compression and Inference in Cosmology with Self-Supervised Machine
 authors: Aizhan Akhmetzhanova, Siddharth Mishra-Sharma, Cora Dvorkin
 abstract: "The influx of massive amounts of data from current and upcoming cosmological surveys necessitates compression schemes that can efficiently summarize the data with minimal loss of information. We introduce a method that leverages the paradigm of self-supervised machine learning in a novel manner to construct representative summaries of massive datasets using simulation-based augmentations. Deploying the method on hydrodynamical cosmological simulations, we show that it can deliver highly informative summaries, which can be used for a variety of downstream tasks, including precise and accurate parameter inference. We demonstrate how this paradigm can be used to construct summary representations that are insensitive to prescribed systematic effects, such as the influence of baryonic physics. Our results indicate that self-supervised machine learning techniques offer a promising new approach for compression of cosmological data as well its analysis."
 arxiv: "2308.09751"
-journal: 
-doi: 
+journal: Monthly Notices of the Royal Astronomical Society, 2023, Volume 527, Issue 3
+doi: https://doi.org/10.1093/mnras/stad3646
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2023-11-27

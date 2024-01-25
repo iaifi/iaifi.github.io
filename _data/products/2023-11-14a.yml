@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Probabilistic reconstruction of Dark Matter fields from biased tracers using diffusion models"
+authors: Core Francisco Park, Victoria Ono, Nayantara Mudur, Yueying Ni, Carolina Cuesta-Lazaro
+abstract: "Galaxies are biased tracers of the underlying cosmic web, which is dominated by dark matter components that cannot be directly observed. The relationship between dark matter density fields and galaxy distributions can be sensitive to assumptions in cosmology and astrophysical processes embedded in the galaxy formation models, that remain uncertain in many aspects. Based on state-of-the-art galaxy formation simulation suites with varied cosmological parameters and sub-grid astrophysics, we develop a diffusion generative model to predict the unbiased posterior distribution of the underlying dark matter fields from the given stellar mass fields, while being able to marginalize over the uncertainties in cosmology and galaxy formation."
+arxiv: "2311.08558"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

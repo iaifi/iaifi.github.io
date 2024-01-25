@@ -4,8 +4,8 @@ title: "SHAPER: Can You Hear the Shape of a Jet?"
 authors: Demba Ba, Akshunna S. Dogra, Rikab Gambhir, Abiy Tasissa, Jesse Thaler
 abstract: "The identification of interesting substructures within jets is an important tool for searching for new physics and probing the Standard Model at colliders. Many of these substructure tools have previously been shown to take the form of optimal transport problems, in particular the Energy Mover's Distance (EMD). In this work, we show that the EMD is in fact the natural structure for comparing collider events, which accounts for its recent success in understanding event and jet substructure. We then present a Shape Hunting Algorithm using Parameterized Energy Reconstruction (SHAPER), which is a general framework for defining and computing shape-based observables. SHAPER generalizes N-jettiness from point clusters to any extended, parametrizable shape. This is accomplished by efficiently minimizing the EMD between events and parameterized manifolds of energy flows representing idealized shapes, implemented using the dual-potential Sinkhorn approximation of the Wasserstein metric. We show how the geometric language of observables as manifolds can be used to define novel observables with built-in infrared-and-collinear safety. We demonstrate the efficacy of the SHAPER framework by performing empirical jet substructure studies using several examples of new shape-based observables."
 arxiv: "2302.12266"
-journal: 
-doi: 
+journal: Journal of High Energy Physics, 2023, Volume 2023, Article 195
+doi: https://doi.org/10.1007/JHEP06%282023%29195
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2023-06-29

@@ -4,8 +4,8 @@ title: "Uncovering dark matter density profiles in dwarf galaxies with graph neu
 authors: Tri Nguyễn, Siddharth Mishra-Sharma, Reuel Williams, Lina Necib
 abstract: 'Dwarf galaxies are small, dark matter-dominated galaxies, some of which are embedded within the Milky Way. Their lack of baryonic matter (e.g., stars and gas) makes them perfect test beds for probing the properties of dark matter -- understanding the spatial dark matter distribution in these systems can be used to constrain microphysical dark matter interactions that influence the formation and evolution of structures in our Universe. We introduce a new method that leverages simulation-based inference and graph-based machine learning in order to infer the dark matter density profiles of dwarf galaxies from observable kinematics of stars gravitationally bound to these systems. Our approach aims to address some of the limitations of established methods based on dynamical Jeans modeling. We show that this novel method can place stronger constraints on dark matter profiles and, consequently, has the potential to weigh in on some of the ongoing puzzles associated with the small-scale structure of dark matter halos, such as the core-cusp discrepancy.'
 arxiv: "2208.12825"
-journal: 
-doi: 
+journal: Physical Review D, 202, Volume 107, Issue 4
+doi: https://doi.org/10.1103/PhysRevD.107.043015
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2023-02-10

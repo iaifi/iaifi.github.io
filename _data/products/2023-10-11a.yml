@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Search for heavy neutral leptons in electron-positron and neutral-pion final states with the MicroBooNE detector"
+authors: MicroBooNE collaboration
+abstract: "We present the first search for heavy neutral leptons (HNL) decaying into νe+e− or νπ0 final states in a liquid-argon time projection chamber using data collected with the MicroBooNE detector. The data were recorded synchronously with the NuMI neutrino beam from Fermilab's Main Injector corresponding to a total exposure of 7.01×1020 protons on target. We set upper limits at the 90% confidence level on the mixing parameter |Uμ4|2 in the mass ranges 10≤mHNL≤150 MeV for the νe+e− channel and 150≤mHNL≤245 MeV for the νπ0 channel, assuming |Ue4|2=|Uτ4|2=0. These limits represent the most stringent constraints in the mass range 35<mHNL<175 MeV and the first constraints from a direct search for νπ0 decays."
+arxiv: "2310.07660"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

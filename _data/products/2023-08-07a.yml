@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "First demonstration for a LArTPC-based search for intranuclear neutron-antineutron transitions and annihilation in 40Ar using the MicroBooNE detector"
+authors: MicroBooNE collaboration
+abstract: 'In this paper, we present a novel methodology to search for intranuclear neutron-antineutron transition (n→n¯) followed by annihilation within an 40Ar nucleus, using the MicroBooNE liquid argon time projection chamber (LArTPC) detector. A discovery of n→n¯ transition or increased lower limit on the lifetime of this process would either constitute physics beyond the Standard Model or greatly constrain theories of baryogenesis, respectively. The approach presented in this paper makes use of deep learning methods to select n→n¯ events based on their unique features and differentiate them from cosmogenic backgrounds. The achieved signal and background efficiencies are (70±6)\% and (0.0020±0.0003)\%, respectively. A demonstration of a search is performed with a data set corresponding to an exposure of 3.32×1026neutron-years, and where the background rate is constrained through direct measurement, assuming the presence of a negligible signal. With this approach, no excess of events over the background prediction is observed, setting a demonstrative lower bound on the n→n¯ lifetime in 40Ar of τm>1.1×1026years, and on the free n→n¯ transition time of τn−n¯>2.6×105s, each at the 90% confidence level. This analysis represents a first-ever proof-of-principle demonstration of the ability to search for this rare process in LArTPCs with high efficiency and low background.'
+arxiv: "2308.03924"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

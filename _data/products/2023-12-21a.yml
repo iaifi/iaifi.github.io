@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "First search for dark-trident processes using the MicroBooNE detector"
+authors: MicroBooNE collaboration
+abstract: "We present a first search for dark-trident scattering in a neutrino beam using a data set corresponding to 7.2×1020 protons on target taken with the MicroBooNE detector at Fermilab. Proton interactions in the neutrino target at the Main Injector produce π0 and η mesons, which could decay into dark-matter (DM) particles mediated via a dark photon A′. A convolutional neural network is trained to identify interactions of the DM particles in the liquid-argon time projection chamber (LArTPC) exploiting its image-like reconstruction capability. In the absence of a DM signal, we provide limits at the 90% confidence level on the squared kinematic mixing parameter ε2 as a function of the dark-photon mass in the range 10≤MA′≤400 MeV. The limits cover previously unconstrained parameter space for the production of fermion or scalar DM particles χ for two benchmark models with mass ratios Mχ/MA′=0.6 and 2 and for dark fine-structure constants 0.1≤αD≤1."
+arxiv: "2312.13945"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
