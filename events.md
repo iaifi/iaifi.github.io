@@ -17,13 +17,22 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
   {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date > now %}
   {% if talk.type == "spring-2024" %}
+  {% if talk.talk-abstract %}
+<img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
+  {% else %}
+  <img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+  {% endif %}
 
-<img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
-
+  {% if talk.talk-abstract %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
     * {{talk.talk-abstract}}
+  {% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -41,12 +50,19 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 
 <img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
-    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
-    * <a href="{{talk.slides-link}}">Talk Slides</a>
     * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a> &#124; <a href="{{talk.slides-link}}">Talk Slides</a>
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -62,12 +78,19 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 
 <img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
-    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
-    * <a href="{{talk.slides-link}}">Talk Slides</a>
     * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a> &#124; <a href="{{talk.slides-link}}">Talk Slides</a>
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -83,16 +106,22 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 
 <img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
-    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
-    * <a href="{{talk.slides-link}}">Talk Slides</a>
     * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a> &#124; <a href="{{talk.slides-link}}">Talk Slides</a>
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
-
 
 &nbsp;
 ### Spring 2022
@@ -106,12 +135,19 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 
 <img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
-    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
-    * <a href="{{talk.slides-link}}">Talk Slides</a>
     * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a> &#124; <a href="{{talk.slides-link}}">Talk Slides</a>
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -128,12 +164,19 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 
 <img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
-    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
-    * <a href="{{talk.slides-link}}">Talk Slides</a>
     * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a> &#124; <a href="{{talk.slides-link}}">Talk Slides</a>
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -152,16 +195,19 @@ In Spring 2021, our colloquium series featured IAIFI senior investigators, aimin
 
 <img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
-    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
-    * <a href="{{talk.slides-link}}">Talk Slides</a>
     * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a> &#124; <a href="{{talk.slides-link}}">Talk Slides</a>
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
-    
-
-
-
