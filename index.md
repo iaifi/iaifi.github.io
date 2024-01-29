@@ -96,7 +96,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***Applications are now open for the [2024 IAIFI Summer School](/phd-summer-school).*** This year's Summer School will be held in Boston August 12–16, 2024. Applications are due March 1, 2024. 
 {:.success}
 
-***Our [IAIFI Colloquium series](events.html) will continue in February 2024.*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
+***Our [IAIFI Colloquium series](events.html) will continue on February 9, 2024 with Laurence Perrault-Levasseur (University of Montreal).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
 <style>
