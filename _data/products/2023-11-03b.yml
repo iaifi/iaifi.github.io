@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Pairing-based graph neural network for simulating quantum materials"
+authors: Di Luo, David D. Dai, Liang Fu
+abstract: 'We develop a pairing-based graph neural network for simulating quantum many-body systems. Our architecture augments a BCS-type geminal wavefunction with a generalized pair amplitude parameterized by a graph neural network. Variational Monte Carlo with our neural network simultaneously provides an accurate, flexible, and scalable method for simulating many-electron systems. We apply this method to two-dimensional semiconductor electron-hole bilayers and obtain accurate results on a variety of interaction-induced phases, including the exciton Bose-Einstein condensate, electron-hole superconductor, and bilayer Wigner crystal. Our study demonstrates the potential of physically-motivated neural network wavefunctions for quantum materials simulations.'
+arxiv: "2311.02143"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
