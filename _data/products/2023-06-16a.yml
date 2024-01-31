@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Development of the Topological Trigger for LHCb Run 3"
+authors: Nicole Schulte, Blaise Raheem Delaney, Niklas Nolte, Gregory Max Ciezarek, Johannes Albrecht, Mike Williams
+abstract: 'The data-taking conditions expected in Run 3 of the LHCb experiment at CERN are unprecedented and challenging for the software and computing systems. Despite that, the LHCb collaboration pioneers the use of a software-only trigger system to cope with the increased event rate efficiently. The beauty physics programme of LHCb is heavily reliant on topological triggers. These are devoted to selecting beauty-hadron candidates inclusively, based on the characteristic decay topology and kinematic properties expected from beauty decays. The following proceeding describes the current progress of the Run 3 implementation of the topological triggers using Lipschitz monotonic neural networks. This architecture offers robustness under varying detector conditions and sensitivity to long-lived candidates, improving the possibility of discovering New Physics at LHCb.'
+arxiv: "2306.09873"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
