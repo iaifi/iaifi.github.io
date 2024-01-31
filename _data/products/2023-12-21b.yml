@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Applications of Lipschitz neural networks to the Run 3 LHCb trigger system"
+authors: Blaise Delaney, Nicole Schulte, Gregory Ciezarek, Niklas Nolte, Mike Williams, Johannes Albrecht
+abstract: 'The operating conditions defining the current data taking campaign at the Large Hadron Collider, known as Run 3, present unparalleled challenges for the real-time data acquisition workflow of the LHCb experiment at CERN. To address the anticipated surge in luminosity and consequent event rate, the LHCb experiment is transitioning to a fully software-based trigger system. This evolution necessitated innovations in hardware configurations, software paradigms, and algorithmic design. A significant advancement is the integration of monotonic Lipschitz neural networks into the LHCb trigger system. These deep learning models offer certified robustness against detector instabilities, and the ability to encode domain-specific inductive biases. Such properties are crucial for the inclusive heavy-flavour triggers and, most notably, for the topological triggers designed to inclusively select b-hadron candidates by exploiting the unique kinematic and decay topologies of beauty decays. This paper describes the recent progress in integrating Lipschitz neural networks into the topological triggers, highlighting the resulting enhanced sensitivity to highly displaced multi-body candidates produced within the LHCb acceptance.'
+arxiv: "2312.14265"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
