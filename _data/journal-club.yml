@@ -15,6 +15,93 @@
   speaker-gender: "Man"
   talk-attendance: 4 in person, 3 virtual
 
+- type: "spring-2024"
+  speaker-name: Helen Qu
+  speaker-title: Grad Student
+  speaker-affiliation: University of Pennsylvania
+  speaker-website: "https://helenqu.com"
+  speaker-photo-location: 
+  talk-date: "2024-02-06"
+  talk-date-time: "Tuesday, February 6, 2024, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: Details to come
+  talk-abstract:
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics experiment"
+  speaker-gender: "Woman"
+  talk-attendance: 
+
+- type: "spring-2024"
+  speaker-name: Darius Faroughy
+  speaker-title: Postdoctoral Associate
+  speaker-affiliation: Rutgers University
+  speaker-website: "http://cgisvr.physics.rutgers.edu/cgi-bin/physdb/genpip.pl?FaroughyD"
+  speaker-photo-location: 
+  talk-date: "2024-02-20"
+  talk-date-time: "Tuesday, February 20, 2024, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: Details to come
+  talk-abstract:
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics theory"
+  speaker-gender: "Man"
+  talk-attendance: 
+
+- type: "spring-2024"
+  speaker-name: Jonas Rigo
+  speaker-title: Postdoc
+  speaker-affiliation: Forschungszentrum Jülich GmbH
+  speaker-website: "https://www.computational-quantum.science/people/jonas/"
+  speaker-photo-location: 
+  talk-date: "2024-02-27"
+  talk-date-time: "Tuesday, February 27, 2024, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: Is the ground state of Anderson's impurity model a recurrent neural network?
+  talk-abstract: 'When the Anderson impurity model (AIM) is expressed in terms of a Wilson chain it assumes a hierarchical Renormalization group structure that translates to a ground state with features like Friedel oscillations and the Kondo screening cloud [1]. Recurrent neural networks (RNNs) have recently gained traction in the form of Neural Quantum States (NQS) ansätze for quantum many body ground states and they are known to be able to learn such complex patterns [2]. We explore RNNs as an ansatz to capture the AIM’s ground state for a given Wilson chain length and investigate its capability to predict the ground state on longer chains for a converged ground state energy.
+[1] Affleck, Ian, László Borda, and Hubert Saleur. "Friedel oscillations and the Kondo screening cloud." Physical Review B* 77.18 (2008): 180404.
+[2] Hibat-Allah, Mohamed, et al. "Recurrent neural network wave functions." Physical Review Research 2.2 (2020): 023358.'
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics theory"
+  speaker-gender: "Man"
+  talk-attendance:
+
+- type: "spring-2024"
+  speaker-name: Katherine Fraser
+  speaker-title: Graduate Student
+  speaker-affiliation: Harvard University 
+  speaker-website: "https://projects.iq.harvard.edu/kfraser/home"
+  speaker-photo-location: 
+  talk-date: "2024-03-19"
+  talk-date-time: "Tuesday, March 19, 2024, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: Details to come
+  talk-abstract: 
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "physics theory"
+  speaker-gender: "Woman"
+  talk-attendance:
+
+- type: "spring-2024"
+  speaker-name: Akshunna Dogra
+  speaker-title: Graduate Student
+  speaker-affiliation: Imperial College London
+  speaker-website: "https://scholar.google.com/citations?user=TL86PJMAAAAJ&hl=en"
+  speaker-photo-location: 
+  talk-date: "2024-04-23"
+  talk-date-time: "Tuesday, April 23, 2024, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: Details to come
+  talk-abstract: 
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "foundational AI"
+  speaker-gender: "Man"
+  talk-attendance:
+
 - type: "fall-2023"
   speaker-name: Tony Menzo
   speaker-title: Graduate Assistant
