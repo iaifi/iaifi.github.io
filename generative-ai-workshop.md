@@ -3,7 +3,7 @@ layout: article
 title: Symposium on the Impact of Generative AI in the Physical Sciences
 ---
 
-The IAIFI Symposium on the Impact of Generative AI in the Physical Sciences invites leading researchers in generative AI and physics for plenary talks, panels, and discussion to better understand the needs of the physics community in relation to generative AI and the potential for generative AI to impact physics research. The organizers will be generating a whitepaper after the Symposium on generative AI's impact in physics, so themes from the talks and discussions may appear in the whitepaper. Credit will be given where appropriate.
+The IAIFI Symposium on the Impact of Generative AI in the Physical Sciences brings leading researchers in generative AI and physics together for plenary talks, panels, and discussion, to define the potential for this class of tools to impact physics research, and to understand what is needed for this potential to be realized. The organizers will be generating a whitepaper after the Symposium on the workshop topic, so themes from the talks and discussions may appear in the whitepaper. Credit will be given where appropriate.
 
 * When: March 14–15, 2024
 * Where: MIT (exact location TBD)
