@@ -9,7 +9,7 @@
   talk-location: "MIT Cosman Room, 6c-442"
   talk-title: "Analog quantum machine learning for near-term hardware"
   talk-abstract: "Quantum neuromorphic computing is a subfield of quantum machine learning that capitalizes on inherent system dynamics. As a result, it can run on contemporary, noisy quantum hardware and is poised to realize challenging algorithms in the near term. I will show how a present-day programmable quantum simulator has all the features to allow the learning of several cognitive tasks, such as multitasking, decision-making, and memory, by taking advantage of several key features of such a platform. One key element yet to be added to such modes is the characterization of the requisite dynamics for universal quantum neuromorphic computations. We address this issue by proposing a quantum perceptron, a simple mathematical model for a neuron that is the building block of various machine learning architectures and demonstrate that it can realize universal quantum computations. The effectiveness of this architecture can then also be shown by applying it to, e.g., calculating the inner products between quantum states, energy measurement, and quantum metrology."
-  slides-link: 
+  slides-link: https://drive.google.com/file/d/1kyvx0mywXONHn34PNvshk4jMJUYAHSet/view?usp=share_link
   youtube-link: 
   speaker-thrust: "physics theory"
   speaker-gender: "woman"
