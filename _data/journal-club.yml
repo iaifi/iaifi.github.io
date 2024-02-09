@@ -24,13 +24,30 @@
   talk-date: "2024-02-06"
   talk-date-time: "Tuesday, February 6, 2024, 11:00 am–12:00 pm"
   talk-location: "MIT LNS Conference Room (26-528)"
-  talk-title: Details to come
-  talk-abstract:
+  talk-title: "Enabling precision photometric SN Ia cosmology with machine learning"
+  talk-abstract: "The discovery of the accelerating expansion of the universe has led to increasing interest in probing the nature of dark energy. As very bright standardizable candles, type Ia supernovae (SNe Ia) are used to measure precise distances on cosmological scales and thus have been instrumental to this effort. Building a robust dataset of SNe Ia across a wide range of redshifts will allow for the construction of an accurate Hubble diagram, enrich our understanding of the expansion history of the universe, as well as place constraints on the dark energy equation of state. However, much of our analysis pipeline will be overwhelmed by the data deluge of the LSST era. In this talk, I will present recent improvements on two key pieces of SN Ia cosmology analysis: the purity of the photometric SNe Ia sample and the redshift identification accuracy for these SNe. To address the SNe Ia purity problem, I will present SCONE (Supernova Classification with a Convolutional Neural Network), a deep learning-based approach to early and full lightcurve photometric SN classification. On the redshift estimation front, I will present work on characterizing inaccurate redshifts due to SN host galaxy mismatch and its effect on cosmology, as well as Photo-zSNthesis, a machine learning algorithm that uses SN photometry to directly estimate redshift. As long as logistical challenges prevent the spectroscopic follow-up of most detected SNe, a reliable photometric SN classification algorithm and redshift estimation strategy will allow us to tap into the vast potential of the photometric dataset."
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: "Woman"
-  talk-attendance: 
+  talk-attendance: 5 in person, 3 virtual
+
+- type: "spring-2024"
+  speaker-name: Kehang Zu
+  speaker-title: Grad Student
+  speaker-affiliation: Harvard
+  speaker-website: "https://scholar.harvard.edu/kehang/home"
+  speaker-photo-location: 
+  talk-date: "2024-02-13"
+  talk-date-time: "Tuesday, February 13, 2024, 11:00 am–12:00 pm"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Agent-based modeling: Harnessing Large Language Models for Automated Exploration of Emergent Behaviors in Simulated Social Systems"
+  talk-abstract: "Two significant impediments to success of the social sciences in comparison to physics are the inherent difficulty in both rapidly executing multiple controlled experiments to explore a parameter space and determining what parameter space to explore. In this work, we present a computational framework and platform that simulates the entire social scientific process, leveraging Large Language Models (LLMs) to study human actors within social systems. We create controlled environments, akin to toy models in physics, that systematically explore the space parameter of variables relevant to any social system (such as attributes of human actors), allowing for the exponentially faster discovery of emergent social behaviors as compared to traditional social science experimentation. Central to our approach is the automatic generation of Structural Causal Models (SCMs) that generate statistical correlations of potential interactions within a social system and outline the requisite metrics and tools to observe and measure these nonlinear dynamics. With the flexibility to vary controlled variables across a nearly infinite parameter space, our system offers a sandbox to simulate and analyze various social scenarios – from wage bargaining and auction mechanics to nuclear weapon negotiations. Our framework and platform offers a new playground for physicists to study the nonlinear dynamics and emergent phenomena in human social systems."
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: "foundational AI"
+  speaker-gender: "Man"
+  talk-attendance:
 
 - type: "spring-2024"
   speaker-name: Darius Faroughy
