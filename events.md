@@ -39,6 +39,34 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 
 ## Past Colloquia 
 
+### Spring 2024
+
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% assign talks = site.data.colloquia %}
+{% for talk in talks %}
+  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
+  {% if date < now %}
+  {% if talk.type == "spring-2024" %}
+
+<img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:20%" hspace="10" vspace="10"/>
+
+{% if talk.slides-link %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a> &#124; <a href="{{talk.slides-link}}">Talk Slides</a>
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * <a href="{{talk.youtube-link}}">YouTube Recording</a>
+  {% endif %}
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
 ### Fall 2023
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
