@@ -57,10 +57,12 @@ Lecturer: [Carol Cuesta-Lazaro](https://iaifi.org/current-fellows.html#carolina-
 
 Lecturer: [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan), Assistant Professor of Applied Mathematics & Kempner Institute Associate Faculty, Harvard
 
-**Topic: Generative Models**
+### Topic: Generative Models
+
 Lecturer: TBA
 
-**Topic: Reinforcement Learning**
+### Topic: Reinforcement Learning
+
 Lecturer: TBA 
 
 ## Tutorial Leads
