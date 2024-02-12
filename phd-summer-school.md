@@ -40,7 +40,28 @@ Students for the Summer School will have the option to reserve dorm rooms (at th
 * Students who wish to stay for the [IAIFI Summer Workshop](/summer-workshop.html) will be able to book the same rooms through the weekend and the Workshop if they choose (at their own expense). 
 
 ## Lecturers
-Lecturers will be announced early in 2024.
+The following lecturers are confirmed for the 2024 IAIFI Summer School. Additional lecturers will be announced soon. 
+
+<img class="image" src="images/small-photo-melanie-weber.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+### Topic: Representation/Manifold Learning
+
+Lecturer: [Melanie Weber](http://melanie-weber.com), Assistant Professor of Applied Mathematics and of Computer Science, Harvard
+
+<img class="image" src="images/small-photo-carolina-cuesta.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+### Topic: Uncertainty Quantification/Simulation-Based Inference
+
+Lecturer: [Carol Cuesta-Lazaro](https://iaifi.org/current-fellows.html#carolina-cuesta), IAIFI Fellow
+
+<img class="image" src="images/small-photo-cengiz-pehlevan.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+### Topic: Physics-Motivated Optimization
+
+Lecturer: [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan), Assistant Professor of Applied Mathematics & Kempner Institute Associate Faculty, Harvard
+
+**Topic: Generative Models**
+Lecturer: TBA
+
+**Topic: Reinforcement Learning**
+Lecturer: TBA 
 
 ## Tutorial Leads
 Tutorial Leads will be announced early in 2024.
