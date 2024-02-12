@@ -5,9 +5,41 @@ aside:
   toc: true
 ---
 
+
+## Table of Contents
+
+{% for category in site.data.categories.categories %}
+<div><details>
+{%- if category.type3 %}
+{%- assign personnel1 = site.data[category.type1].personnel %}
+{%- assign personnel2 = site.data[category.type2].personnel %}
+{%- assign personnel3 = site.data[category.type3].personnel %}
+{%- assign personnel = personnel1 | concat: personnel2 | concat: personnel3 %}
+{%- elsif category.type2 %}
+{%- assign personnel1 = site.data[category.type1].personnel %}
+{%- assign personnel2 = site.data[category.type2].personnel %}
+{%- assign personnel = personnel1 | concat: personnel2 %}
+{%- else %}
+{%- assign personnel = site.data[category.type1].personnel %}
+{%- endif -%}
+<summary><b>{{category.name}}</b></summary>
+<ul>
+{%- for member in personnel -%}
+{%- assign person = site.data.people[member] -%}
+<li><a href="#{{person.name | replace: " ", "-"}}">{{person.name}}</a></li>
+{%- endfor -%}
+</ul><br>
+
+</details>
+</div>
+{% endfor %}
+
+
+
+
 {% for category in site.data.categories.categories  %}
 
-## {{category.name}}
+## {{category.name}} {#{{category.name | replace: " ", "-"}}}
 
 {% if category.type3 %}
 {% assign personnel1 = site.data[category.type1].personnel %}
@@ -25,7 +57,7 @@ aside:
 {% for member in personnel  %}
 {% assign person = site.data.people[member] %}
 
-### {{person.name}}
+#### {{person.name}} {#{{person.name | replace: " ", "-"}}}
 
 {% assign products = site.data.products | sort | reverse %}
 
