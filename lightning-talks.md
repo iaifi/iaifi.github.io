@@ -12,7 +12,10 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 
 ## Upcoming Lightning Talks 
 
-
+* **IAIFI Thematic Discussion: Uncertainty Quantification**
+     * **Friday, October 20, 2023, 2:00pm–3:00pm**
+     * Led by IAIFI Fellows Gaia Grosso and Jessie Micallef
+     * *The discussion will begin with a few flash presentations (~5 min each) by current IAIFI colleagues working on this subject. Gaia and Jessie will then lead a guided discussion to collect uncertainty quantification and robustness challenges across IAIFI and discuss pathways towards potential solutions and future work. Through this discussion, the aim is to bring together IAIFI researchers to learn from each other's experience, build connections and possibly research collaborations--you are encouraged to join the discussion no matter your research interests or background!*
 
 ## Past Lightning Talks
 [Access recordings of past lightning talks (for IAIFI members only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=share_link)

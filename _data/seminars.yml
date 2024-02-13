@@ -24,8 +24,8 @@
   talk-date: "2024-23-09"
   talk-date-time: "Friday, February 23, 2024, 2:00–3:00 pm"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come"
-  talk-abstract: 
+  talk-title: "Dynamical Measure Transport: Theory and Applications"
+  talk-abstract: I will discuss recent advances in generative modeling from the perspective of transport between probability densities. In particular, I will describe efforts to unify flow-based and diffusion based generative modeling methods through a paradigm known as stochastic interpolants. Using these ideas, I will illustrate various ways to make generative models more performant for conventional tasks, such as image generation, while also highlighting new applications in domains such as scientific computing, for example in the probabilistic forecasting of dynamical systems. 
   slides-link: 
   youtube-link: 
   speaker-thrust: "foundational AI"
