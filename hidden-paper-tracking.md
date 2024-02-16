@@ -65,7 +65,7 @@ aside:
 {% assign paper_count = 0 %}
 {% for product in products %}
 {% assign paper = product %}
-{% if paper.authors contains person.name %}
+{% if paper.authors contains person.name or paper.authors contains person.professional-name %}
 {% assign paper_count = paper_count | plus: 1 %}
 {% endif %}
 {% endfor %}
@@ -74,7 +74,7 @@ aside:
 <!-- Then display the papers -->
 {% for product in products %}
 {% assign paper = product %}
-{% if paper.authors contains person.name %}
+{% if paper.authors contains person.name or paper.authors contains person.professional-name %}
  * [{{paper_count}}] **{{paper.title}}** <br>
 {{paper.authors}} <br>
 {%if paper.doi %} [{{paper.journal}}]({{paper.doi}}) {% elsif paper.alt-url %} [{{paper.journal}}]({{paper.alt-url}}) {% endif %}[ {% if paper.arxiv %} [arXiv:{{paper.arxiv}}](https://arxiv.org/abs/{{paper.arxiv}}) {% endif %} {% if paper.code %} | [code]({{paper.code}}) {% endif %} ]
