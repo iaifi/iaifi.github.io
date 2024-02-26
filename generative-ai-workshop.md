@@ -98,7 +98,20 @@ Fireside Chat: Details to come
 Closing
 
 ## Speakers
-Speakers will be announced soon.
+* [Thea Aarrestad](https://thaarres.github.io), ETH Zurich
+* [Song Han](https://hanlab.mit.edu/songhan), MIT
+* [David Hogg](https://cosmo.nyu.edu/hogg/), NYU
+* [Anna Scaife](https://research.manchester.ac.uk/en/persons/anna.scaife), University of Manchester
+* [Kevin Yang](https://www.microsoft.com/en-us/research/people/kevyan/), Microsoft Research
+* ...more to come! 
+
+## Panelists
+* [Michael Brenner](https://research.google/people/michael-p-brenner/), Google
+* [Daniel Huttenlocher](https://web.mit.edu/hutt/www/), MIT
+* [Pavel Izmailov](https://izmailovpavel.github.io), OpenAI
+* [Vijay Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home), Harvard
+* [Jesse Thaler](https://jthaler.net), MIT/IAIFI
+* ...more to come!
 
 ## Organizing Committee 
 * Phil Harris (MIT)
