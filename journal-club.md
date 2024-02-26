@@ -29,6 +29,24 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
 
 ## Past Journal Clubs
 
+### Spring 2024 Journal Clubs
+
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% assign talks = site.data.journal-club %}
+{% for talk in talks %}
+  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
+  {% if date < now %}
+  {% if talk.type == "spring-2024" %}
+
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * [Slides]({{talk.slides-link}}) (for IAIFI members only)
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
 ### Fall 2023 Journal Clubs
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
