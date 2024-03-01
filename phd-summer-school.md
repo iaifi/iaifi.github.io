@@ -14,7 +14,7 @@ title: IAIFI Summer School
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. 
 
 * **August 5–9, 2024**
-* **Boston, MA (exact location TBA)**
+* **MIT**
 * **Applications for the 2024 Summer School are due March 1, 2024** 
 
 [Apply](https://app.smartsheet.com/b/form/4d72caf22cd74ce7b771a91ef25dde22){:.button.button--outline-primary.button--pill.button--lg}[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg}[Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
@@ -59,7 +59,7 @@ Lecturer: [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehl
 
 ### Topic: Generative Models
 
-Lecturer: TBA
+Lecturer: [Gilles Loupe](https://glouppe.github.io), Professor, University of Liège 
 
 ### Topic: Reinforcement Learning
 
