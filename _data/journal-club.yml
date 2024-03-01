@@ -47,7 +47,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "Man"
-  talk-attendance: 
+  talk-attendance: 24 in person, 11 virtual
 
 - type: "spring-2024"
   speaker-name: Jonas Rigo
@@ -55,7 +55,7 @@
   speaker-affiliation: Forschungszentrum Jülich GmbH
   speaker-website: "https://www.computational-quantum.science/people/jonas/"
   speaker-photo-location: 
-  talk-date: "2024-02-27"
+  talk-date: "2024-02-21"
   talk-date-time: "Tuesday, February 27, 2024, 11:00 am–12:00 pm"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: Is the ground state of Anderson's impurity model a recurrent neural network?
@@ -66,7 +66,7 @@
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "Man"
-  talk-attendance:
+  talk-attendance: 7 in person, 4 virtual
 
 - type: "spring-2024"
   speaker-name: Kehang Zhu
