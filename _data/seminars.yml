@@ -42,7 +42,7 @@
   talk-date-time: "Friday, March 8, 2024, 2:00–3:00 pm"
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Reconstructing the Lives (and Deaths) of Massive Stars through Scalable, Low-Latency Inference"
-  talk-abstract: 
+  talk-abstract: "The deaths of stars as supernovae sit at the nexus of multiple astrophysical domains: they trace the Universe's expansion, reveal the chemical enrichment of galaxies, and unveil the terminal stages of stellar evolution. As supernova discovery rates surpass exponential scaling, population studies of even rare phenomena will soon become possible. In this talk, I will describe the unique statistical challenges that accompany this new data-rich, real-time analysis paradigm. I will motivate a shift away from event classification toward characterizing unusual phenomena with the help of physically meaningful latent spaces. I will conclude by discussing the prospects for supernova science with the Vera C. Rubin Observatory, and what the impending data deluge can teach us about the pre-explosion stellar system."
   slides-link: 
   youtube-link: 
   speaker-thrust: "experimental physics"
