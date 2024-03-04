@@ -93,7 +93,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Applications are now open for the [2024 IAIFI Summer School](/phd-summer-school).*** This year's Summer School will be held in Boston August 12–16, 2024. Applications are due March 1, 2024. 
+***[IAIFI Symposium: The Impact of Generative AI in the Physical Sciences](https://iaifi.org/generative-ai-workshop).*** On March 14–15, 2024, join us for a Symposium on the impact of generative AI in the physical sciences. The event will include talks and discussions from global experts at the intersection of physics and AI and will be held on the 8th floor of MIT's College of Computing (Building 45). 
 {:.success}
 
 ***Our [IAIFI Colloquium series](events.html) will continue on March 22, 2024 with Soledad Villar (Johns Hopkins University).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).

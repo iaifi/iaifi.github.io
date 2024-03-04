@@ -27,6 +27,8 @@ header:
         url: /journal-club.html
       - title: Lightning Talks
         url: /lightning-talks.html
+      - title: Generative AI Symposium
+      - url: /generative-ai-workshop.html
       - title: Related External
         url: /related-events.html
 
