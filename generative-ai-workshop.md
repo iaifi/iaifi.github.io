@@ -24,6 +24,7 @@ Breakfast and Introduction
 **9:30–10:30 am ET**
 
 *Foundation Models in Physics: Successes in Astrophysics*
+
 Anna Scaife, University of Manchester
 
 **10:30–11:00 am ET**
@@ -33,6 +34,7 @@ Break
 **11:00 am–12:00 pm ET**
 
 *Physics-Motivated Approaches to Model Design: Deep Learning*
+
 Simon Batzner, Google DeepMind
 
 **12:00–1:30 pm ET**
@@ -42,6 +44,7 @@ Lunch
 **1:30–2:30 pm ET**
 
 *Foundation Models beyond Physics: Successes in Molecular Biology*
+
 Kevin Yang, Microsoft Research
 
 **2:30–3:00 pm ET**
@@ -51,11 +54,13 @@ Break
 **3:00–4:00 pm ET**
 
 *Physics-Motivated Approaches to Model Design: Observations and Data Analysis*
+
 David Hogg, NYU
 
 **4:00–5:30 pm ET**
 
 *Panel: Community Perspectives on what is needed for generative AI to fulfill its promise in physics*
+
 Dan Huttenlocher (MIT), Vijay Reddi (Harvard), Jesse Thaler (MIT/IAIFI)
 
 
@@ -64,6 +69,7 @@ Dan Huttenlocher (MIT), Vijay Reddi (Harvard), Jesse Thaler (MIT/IAIFI)
 **9:00 am–10:30 am ET**
 
 *Panel: Potential impacts of generative AI in physics*
+
 Pavel Izmailov (OpenAI), Michael Brenner (Google), David Hogg (NYU)
 
 **10:30–11:00 am ET**
@@ -73,6 +79,7 @@ Break
 **11:00 am–12:00 pm ET**
 
 *Big vs. Small Generative Models*
+
 Song Han, MIT
 
 **12:00–1:30 pm ET**
@@ -82,6 +89,7 @@ Lunch
 **1:30–2:30 pm ET**
 
 *Physics-Motivated Approaches to Hardware Design*
+
 Thea Aarrestad, ETH Zurich
 
 **2:30–3:00 pm ET**
@@ -91,6 +99,7 @@ Break
 **3:00–4:00 pm ET**
 
 *Physics-Motivated Approaches to Model Design: Natural Science of Artificial Intelligence*
+
 Hidenori Tanaka, Harvard 
 
 **4:00–5:15 pm ET**
