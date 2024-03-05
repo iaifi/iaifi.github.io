@@ -3,10 +3,12 @@ layout: article
 title: Symposium on the Impact of Generative AI in the Physical Sciences
 ---
 
+<img src="images/genAI-symposium-logo-2024.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
+
 The IAIFI Symposium on the Impact of Generative AI in the Physical Sciences brings leading researchers in generative AI and physics together for plenary talks, panels, and discussion, to define the potential for this class of tools to impact physics research, and to understand what is needed for this potential to be realized. The organizers will be generating a whitepaper after the Symposium on the workshop topic, so themes from the talks and discussions may appear in the whitepaper. Credit will be given where appropriate.
 
 * When: March 14–15, 2024
-* Where: MIT College of Computing (Building 45), 8th floor
+* Where: MIT College of Computing (Building 45), 8th floor (51 Vassar St, Cambridge, MA)
 
 [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [Organizing Committee](#organizing-committee){:.button.button--outline-primary.button--pill.button--lg}
 
