@@ -21,7 +21,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 **9:00 am–9:30 am ET**
 
-Breakfast and Introduction
+Breakfast and Introduction (coffee and pastries will be provided)
 
 **9:30–10:30 am ET**
 
@@ -31,7 +31,7 @@ Anna Scaife, University of Manchester
 
 **10:30–11:00 am ET**
 
-Break
+Break (coffee and pastries will be provided)
 
 **11:00 am–12:00 pm ET**
 
@@ -41,7 +41,7 @@ Simon Batzner, Google DeepMind
 
 **12:00–1:30 pm ET**
 
-Lunch
+Lunch Break (working meeting for speakers and organizers)
 
 **1:30–2:30 pm ET**
 
@@ -51,13 +51,13 @@ Kevin Yang, Microsoft Research
 
 **2:30–3:00 pm ET**
 
-Break
+Break (coffee and snacks will be provided)
 
 **3:00–4:00 pm ET**
 
 *Physics-Motivated Approaches to Model Design: Observations and Data Analysis*
 
-David Hogg, NYU
+David Hogg, NYU/Flatiron
 
 **4:00–5:30 pm ET**
 
@@ -72,11 +72,11 @@ Dan Huttenlocher (MIT), Vijay Reddi (Harvard), Jesse Thaler (MIT/IAIFI)
 
 *Panel: Potential impacts of generative AI in physics*
 
-Pavel Izmailov (OpenAI), Michael Brenner (Google), David Hogg (NYU)
+Pavel Izmailov (OpenAI), Michael Brenner (Google), David Hogg (NYU/Flatiron)
 
 **10:30–11:00 am ET**
 
-Break
+Break (coffee and pastries will be provided)
 
 **11:00 am–12:00 pm ET**
 
@@ -86,7 +86,7 @@ Song Han, MIT
 
 **12:00–1:30 pm ET**
 
-Lunch
+Lunch Break (working meeting for speakers and organizers)
 
 **1:30–2:30 pm ET**
 
@@ -96,7 +96,7 @@ Thea Aarrestad, ETH Zurich
 
 **2:30–3:00 pm ET**
 
-Break
+Break (coffee and snacks will be provided)
 
 **3:00–4:00 pm ET**
 
