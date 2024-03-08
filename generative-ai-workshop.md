@@ -15,6 +15,12 @@ The IAIFI Symposium on the Impact of Generative AI in the Physical Sciences brin
 ## About
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics.
 
+This event is funded by MIT's Office of the Provost.
+
+<img src="images/a3d3-logo.jpg" align="left" style="max-width:50px;width:10%" hspace="20">
+Additional support from [A3D3](https://a3d3.ai). 
+<br>
+
 ## Agenda
 
 ### Thursday, March 14, 2024
@@ -315,5 +321,3 @@ Closing
 * Gaia Grosso (IAIFI Fellow)
 * Siddharth Mishra-Sharma (IAIFI Fellow)
 * Marisa LaFleur (IAIFI Project Manager)
-
-This event is funded by MIT's Office of the Provost.
