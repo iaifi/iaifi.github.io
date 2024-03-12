@@ -10,6 +10,8 @@ The IAIFI Symposium on the Impact of Generative AI in the Physical Sciences brin
 * When: March 14–15, 2024
 * Where: MIT College of Computing (Building 45), 8th floor (51 Vassar St, Cambridge, MA)
 
+To join the Workshop on Zoom: [https://mit.zoom.us/j/96326295364](https://mit.zoom.us/j/96326295364)
+
 [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [Organizing Committee](#organizing-committee){:.button.button--outline-primary.button--pill.button--lg}
 
 ## About
@@ -78,7 +80,7 @@ Dan Huttenlocher (MIT), Vijay Reddi (Harvard), Jesse Thaler (MIT/IAIFI)
 
 *Panel: Potential impacts of generative AI in physics*
 
-Pavel Izmailov (OpenAI), Michael Brenner (Google), David Hogg (NYU/Flatiron)
+Pavel Izmailov (OpenAI), Matt Schwartz (Harvard), David Hogg (NYU/Flatiron)
 
 **10:30–11:00 am ET**
 
@@ -218,18 +220,6 @@ Closing
   <!--<div class="row">-->
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-michael-brenner.jpg" alt="Michael Brenner" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://research.google/people/michael-p-brenner/">Michael Brenner</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Professor/Researcher, Harvard/Google Research </em> <br>
-         </div>
-         </div>
-       </div>
-
-     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-david-hogg.jpg" alt="David Hogg" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -273,6 +263,18 @@ Closing
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Associate Professor, SEAS, Harvard </em> <br>
+         </div>
+         </div>
+       </div>
+
+     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-matt-schwartz.jpg" alt="Matt Schwartz" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://scholar.harvard.edu/schwartz">Matt Schwartz</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Professor, Physics, Harvard </em> <br>
          </div>
          </div>
        </div>
