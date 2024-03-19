@@ -38,5 +38,5 @@ Here are some useful commands for easy copy/pasting:
 * Get the latest version: `git pull`
 * Run the webserver: `bundle exec jekyll serve`
 * Go to the local website: <http://localhost:4000>
-
+Texting Maria
 
