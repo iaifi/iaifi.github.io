@@ -7,206 +7,136 @@ aside:
   toc: false
 --- 
  
+<img src="images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:3600px;width:100%" hspace="10" vspace="10"> 
 
-    
-View this email in your browser
-
+# Week of February 26, 2024
  
-Week of February 26, 2024
- 
-News from IAIFI Management
-Events This Week
-Upcoming Events
-In Case You Missed It
-New Papers
-New Funding 
-New Job Opportunities
+* [News from IAIFI Management](news-from-iaifi-management)
+* [Events This Week](events-this-week)
+* [Upcoming Events](upcoming-events)
+* [In Case You Missed It](in-case-you-missed-it)
+* [New Papers](new-papers)
+* [New Funding](new-funding)
+* [New Job Opportunities](new-job-opportunities)
  
 ## News from IAIFI Management
 
 Temporary Project Coordinator: Maria Figueiredo
  
-We are pleased to introduce Maria Figueiredo, who will be acting as A person wearing glasses and a blue suit
-
-Description automatically generatedour Project Coordinator for the next several weeks, as Comfort is out on an extended leave. Maria will be helping out with events, communication, and general IAIFI administration, so please feel free to reach out and join us in welcoming her to IAIFI! She will be sitting in 26-539 and her email is mariafig@mit.edu. 
+We are pleased to introduce Maria Figueiredo, who will be acting as our Project Coordinator for the next several weeks, as Comfort is out on an extended leave. Maria will be helping out with events, communication, and general IAIFI administration, so please feel free to reach out and join us in welcoming her to IAIFI! She will be sitting in 26-539 and her email is [mariafig@mit.edu]{mailto:mariafig@mit.edu). 
  
-To provide anonymous feedback to IAIFI, please fill this form
+[Provide feedback to IAIFI](https://forms.gle/hk2mrqjaLY8nCZrE6){:.button.button--outline-primary.button--pill.button--sm}
  
 ## Events This Week
  
-If you have any accessibility needs, please reach out to iaifi-accessibility@mit.edu
+If you have any accessibility needs, please reach out to [iaifi-accessibility@mit.edu](mailto:iaifi-accessibility@mit.edu)
+
+[View IAIFI Events Calendar](https://iaifi.com/events-calendar){:.button.button--outline-primary.button--pill.button--lg}
  
-IAIFI Journal Club
-Tuesday, February 20, 2024, 11:00am–12:00pm
-Jonas Rigo, Postdoc, Forschungszentrum Jülich GmbH
+### IAIFI Journal Club
+**Tuesday, February 20, 2024, 11:00am–12:00pm**
+*Jonas Rigo, Postdoc, Forschungszentrum Jülich GmbH*
 Is the ground state of Anderson’s impurity model a recurrent neural network?
 When the Anderson impurity model (AIM) is expressed in terms of a Wilson chain it assumes a hierarchical Renormalization group structure that translates to a ground state with features like Friedel oscillations and the Kondo screening cloud [1]. Recurrent neural networks (RNNs) have recently gained traction in the form of Neural Quantum States (NQS) ansätze for quantum many body ground states and they are known to be able to learn such complex patterns [2]. We explore RNNs as an ansatz to capture the AIM’s ground state for a given Wilson chain length and investigate its capability to predict the ground state on longer chains for a converged ground state energy. [1] Affleck, Ian, László Borda, and Hubert Saleur. “Friedel oscillations and the Kondo screening cloud.” Physical Review B* 77.18 (2008): 180404. [2] Hibat-Allah, Mohamed, et al. “Recurrent neural network wave functions.” Physical Review Research 2.2 (2020): 023358.
 Location: MIT LNS Conference Room (26-528)
 
-Zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
+Zoom: [https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09](https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09)
 Password: 369477
 
-Add to Calendar
+[Add to Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MThqcjQyZWFpcnFicW5qNDlucGpzcGJnazNfMjAyNDAzMTJUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn){:.button.button--outline-primary.button--pill.button--sm}
  
-IAIFI Coffee Hour
-Tuesday, February 27, 2024, 1:00–2:00 pm, IAIFI Penthouse (MIT 26, 6th floor)
+### IAIFI Coffee Hour
+**Tuesday, February 27, 2024, 1:00–2:00 pm, IAIFI Penthouse (MIT 26, 6th floor)**
 
-Add to Calendar
+[Add to Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MThqcjQyZWFpcnFicW5qNDlucGpzcGJnazNfMjAyNDAzMTJUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn){:.button.button--outline-primary.button--pill.button--sm}
  
-IAIFI Industry Lunch
-Friday, March 1, 2024, 12:30pm–1:30pm
-Efthymios Tziniz, Research Scientist, Google
+### IAIFI Industry Lunch
+**Friday, March 1, 2024, 12:30pm–1:30pm**
+*Efthymios Tziniz, Research Scientist, Google*
 Efthymios (Thymios) is a research scientist working on uni- and multi-modal sound separation and sound understanding in general. His research interests include the development of self-supervised audio and video perception machine learning models and their efficient deployment on low-energy mobile devices. He got his Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign and also holds a diploma (B.Sc. + M.Eng.) in Electrical and Computer Engineering from the National Technical University of Athens. He has co-authored more than 30 papers in the field of audio and audio-visual processing and holds two US patents. He has also been a past recipient of the Google Ph.D. fellowship for Machine Perception, Speech Technology and Computer Vision.
 Location: IAIFI Penthouse (26-648)
 
-Zoom: https://mit.zoom.us/j/92183041364?pwd=N3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09; 
+Zoom: [https://mit.zoom.us/j/92183041364?pwd=N3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09](https://mit.zoom.us/j/92183041364?pwd=N3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09) 
 Password: 247986
 
-RSVP        Add to Calendar
- 
-IAIFI Summer School Registration Deadline: March 1, 2024
-Applications for the 2024 IAIFI Summer School, which will take place August 5–9, 2024, are due on Friday, March 1, 2024. We encourage IAIFI Junior Investigators to apply to participate in the Summer School. 
+[RSVP](https://app.smartsheet.com/sheets/C2Wv7jxJr2h5CmQrvwGX5VQR79cx6jVRwfM7VX41){:.button.button--outline-primary.button--pill.button--sm}
 
-Apply to participate in the IAIFI Summer School        View details
+[Add to Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MThqcjQyZWFpcnFicW5qNDlucGpzcGJnazNfMjAyNDAzMTJUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn){:.button.button--outline-primary.button--pill.button--sm}
  
-External: AstroAI Lunch Talk
-Monday, February 26, 2024, 12:00pm–1:00pm
-Speaker 1: Jorge R Padial Doble (Vanderbilt)
+### External: AstroAI Lunch Talk
+**Monday, February 26, 2024, 12:00pm–1:00pm**
+*Speaker 1: Jorge R Padial Doble (Vanderbilt)*
 Talk Title: The ALEXIS Solar Flare Catalog:  Revisiting canonical databases with ML
-Speaker 2: Arthur Tsang (Harvard Physics)
+*Speaker 2: Arthur Tsang (Harvard Physics)*
 Talk Title: Strong lensing, dark perturbers, and machine learning
 Location: upper (lobby) level of the Wolbach Library, at the Center for Astrophysics, 60 Garden Street
 
-Zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+Zoom: [https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09](https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09)
 
-Add to Calendar
+[Add to Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MThqcjQyZWFpcnFicW5qNDlucGpzcGJnazNfMjAyNDAzMTJUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn){:.button.button--outline-primary.button--pill.button--sm}
  
-External: Women in Machine Learning Recruiting Event
-Thursday, February 29, 2024, 1:00pm
-WiML invites you to our exclusive recruiting event featuring DeepMind and other esteemed WiML partners. This is your golden opportunity to dive into the world of Machine Learning and discover the career you’ve always dreamed of.
+## Upcoming Events
+ 
+### IAIFI Discussion Seminar
+**Friday, March 8, 2024, 2:00pm–3:00pm**
 
-What to Expect?
-Insightful Talks: Hear directly from DeepMind and our partners about groundbreaking ML opportunities within their companies.
-Interactive Networking: Engage in meaningful conversations and connect with industry leaders in our breakout rooms. It's your chance to ask questions, seek advice, and make valuable connections.
-Register
- 
-View IAIFI Events Calendar
- 
-Upcoming Events
- 
-IAIFI Discussion Seminar
-Friday, March 8, 2024, 2:00pm–3:00pm
-Alex Gagliano, IAIFI Fellow
+*Alex Gagliano, IAIFI Fellow* 
+
 Details to come
+
 Location: MIT Kolker Room (26-414)
 
-Zoom: https://mit.zoom.us/j/92183041364?pwd=N3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09
+Zoom: [https://mit.zoom.us/j/92183041364?pwd=N3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09](https://mit.zoom.us/j/92183041364?pwd=N3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09)
 Password: 247986
 
-Add to Calendar
+[Add to Calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MThqcjQyZWFpcnFicW5qNDlucGpzcGJnazNfMjAyNDAzMTJUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn){:.button.button--outline-primary.button--pill.button--sm}
  
-View full list of IAIFI Related Events
+## In Case You Missed It
  
-In Case You Missed It
- 
-IAIFI Journal Club
-Tuesday, February 20, 2024, 11:00am–12:00pm
-Darius Faroughy, Postdoctoral Associate, Rutgers University
+### IAIFI Journal Club
+**Tuesday, February 20, 2024, 11:00am–12:00pm**
+
+*Darius Faroughy, Postdoctoral Associate, Rutgers University*
+
 Is flow-matching an alternative to diffusion?
+
 We discuss flow-matching (2210.02747), a recently proposed objective for training continuous normalizing flows inspired by diffusion models. As a generative model, flow-matching can produce state-of-the-art samples for images and other data representations. More interestingly, flow-matching can be used to go beyond generative modeling by learning to approximate the optimal transport map between two arbitrary data distributions. The JC is meant to be an interactive blackboard talk discussing the method. At the end, I’ll flash a few slides illustrating its usefulness for generating jets as particle clouds (2310.00049).
-View slides (when available)
- 
-IAIFI Discussion Seminar
-Friday, February 23, 2024, 2:00pm–3:00pm
-Michael Albergo, Postdoctoral Fellow, Courant Institute of Mathematical Sciences
-Dynamical Measure Transport: Theory and Applications
-I will discuss recent advances in generative modeling from the perspective of transport between probability densities. In particular, I will describe efforts to unify flow-based and diffusion based generative modeling methods through a paradigm known as stochastic interpolants. Using these ideas, I will illustrate various ways to make generative models more performant for conventional tasks, such as image generation, while also highlighting new applications in domains such as scientific computing, for example in the probabilistic forecasting of dynamical systems.
-View recording        View slides (when available)
- 
-View Past IAIFI Events
- 
-New Papers
- 
-View full list of IAIFI papers
- 
-New Funding Opportunities
- 
-View full list of funding opportunities
- 
-New Job Opportunities
- 
-Postdoc: LLMs applied to code
-University of Campinas
 
-Deadline: February 29, 2024
+[View slides (when available)](https://drive.google.com/drive/u/1/folders/1YGeKH7oG4gIW8YqY3CSSWao17xOGArV0){:.button.button--outline-primary.button--pill.button--sm}
 
-How to apply: Please send your curriculum vitae and a cover letter with a maximum of two pages (English) in the following form: https://forms.gle/6qxsTp13wufBaHAV7. Applicants should also provide at least two reference letters to be sent directly by the referees to mraimundo@ic.unicamp.br before the deadline. 
  
-Postdoctoral Researcher in Machine Learning/Data Science
-University of Aveiro
+### New Papers
 
-Deadline: March 1, 2024
+**(IAIFI Investigators in bold)**
 
-Learn more and apply
+[View full list of IAIFI papers](https://iaifi.org/papers){:.button.button--outline-primary.button--pill.button--lg}
  
-Senior Data Scientist/Postdoctoral Fellowship
-University of California, San Francisco
-
-Learn more and apply
  
-Postdoc in Multi-Agent Learning and Foundation Models
-King's College London, Cooperative AI Lab
+**Moments of Clarity: Streamlining Latent Spaces in Machine Learning using Moment Pooling**
 
-Deadline: March 12, 2024
+**Rikab Gambhir**, Athis Osathapan, **Jesse Thaler**
 
-Learn more and apply
+[View on arXiv](https://arxiv.org/abs/2403.08854){:.button.button--outline-primary.button--pill.button--sm}
+
+
+## New Job Opportunities
+[View full list of job opportunities](https://us20.mailchimp.com/mctx/clicks?url=https%3A%2F%2Fiaifi.org%2Fjob-board&xid=b817b6d93a&uid=167449526&iid=07f4c9516b&pool=cts&v=2&c=1710522326&h=7525e26c6f5ba08fbc075f74c8670ad6ddaaa03391720a5622c1b3522892d31b){:.button.button--outline-primary.button--pill.button--lg}
  
-Postdoctoral Fellow in Machine Learning and Artificial Intelligence
-Cyprus Institute
+### Postdoc: LLMs applied to code
+*University of Campinas*
 
-Deadline: March 12, 2024
+**Deadline: February 29, 2024**
 
-Learn more and apply
- 
-Assistant/Associate Professor in Computer Science and Machine Learning or Statistics
-CREST-ENSAI
+[Learn more and apply](https://jobs.careers.microsoft.com/global/en/search?q=residency%20program%20cambridge&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true){:.button.button--outline-primary.button--pill.button--sm}
 
-Deadline: March 12, 2024
-
-Learn more and apply
  
-Postdoc in Machine Learning
-Microsoft Research Montreal
-
-Learn more and apply
+## Useful Links
  
-Senior Researcher in Machine Learning
-Microsoft Research Montreal
-
-Learn more and apply
- 
-Principal Researcher in Machine Learning
-Microsoft Research Montreal
-
-Learn more and apply
- 
-View full list of job opportunities
- 
-Useful Links
- 
-View full events calendar | Access IAIFI Internal Google Drive | Access IAIFI Slack | How to do IAIFI
- 
-
-Twitter
-Website
-Email
-LinkedIn
+[Access IAIFI Internal Google Drive](https://drive.google.com/drive/u/1/folders/1KCCp9BpUL_GsvPGiWoJt976X0YkSEVDC){:.button.button--outline-primary.button--pill.button--sm} [How to do IAIFI](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit#heading=h.ayhhxke5ir7t){:.button.button--outline-primary.button--pill.button--sm}  [Twitter](https://twitter.com/iaifi_news){:.button.button--outline-primary.button--pill.button--sm}  [Website](https://iaifi.org){:.button.button--outline-primary.button--pill.button--sm}  [Email](mailto:iaifi@mit.edu){:.button.button--outline-primary.button--pill.button--sm}
  
  
 Copyright © 2024 Institute for Artificial Intelligence and Fundamental Interactions, All rights reserved.
 
-
- 
 _______________________________________________
 iaifi-all mailing list
 iaifi-all@mit.edu
