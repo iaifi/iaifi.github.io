@@ -5,19 +5,17 @@ title: Symposium on the Impact of Generative AI in the Physical Sciences
 
 <img src="images/genAI-symposium-logo-2024.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 
-The IAIFI Symposium on the Impact of Generative AI in the Physical Sciences brings leading researchers in generative AI and physics together for plenary talks, panels, and discussion, to define the potential for this class of tools to impact physics research, and to understand what is needed for this potential to be realized. The organizers will be generating a whitepaper after the Symposium on the workshop topic, so themes from the talks and discussions may appear in the whitepaper. Credit will be given where appropriate.
+The IAIFI Symposium on the Impact of Generative AI in the Physical Sciences brought leading researchers in generative AI and physics together for plenary talks, panels, and discussion, to define the potential for this class of tools to impact physics research, and to understand what is needed for this potential to be realized. The organizers will be generating a whitepaper after the Symposium on the workshop topic, so themes from the talks and discussions may appear in the whitepaper. Credit will be given where appropriate.
 
-* When: March 14–15, 2024
+* When: This event took place on March 14–15, 2024 
 * Where: MIT College of Computing (Building 45), 8th floor (51 Vassar St, Cambridge, MA)
-
-To join the Workshop on Zoom: [https://mit.zoom.us/j/96326295364](https://mit.zoom.us/j/96326295364)
 
 [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [Organizing Committee](#organizing-committee){:.button.button--outline-primary.button--pill.button--lg}
 
 ## About
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics.
 
-This event is funded by MIT's Office of the Provost.
+This event was funded by MIT's Office of the Provost.
 
 <img src="images/a3d3-logo.jpg" align="left" style="max-width:50px;width:10%" hspace="20">
 Additional support from [A3D3](https://a3d3.ai). 
@@ -37,6 +35,8 @@ Breakfast and Introduction (coffee and pastries will be provided)
 
 Anna Scaife, University of Manchester
 
+Slides coming soon | Recording coming soon
+
 **10:30–11:00 am ET**
 
 Break (coffee and pastries will be provided)
@@ -46,6 +46,8 @@ Break (coffee and pastries will be provided)
 *Physics-Motivated Approaches to Model Design: Deep Learning*
 
 Simon Batzner, Google DeepMind
+
+Slides not available | Recording not available
 
 **12:00–1:30 pm ET**
 
@@ -57,6 +59,8 @@ Lunch Break (working meeting for speakers and organizers)
 
 Kevin Yang, Microsoft Research
 
+[Slides](talks/2024_03_IAIFI_Symposium_Yang.pdf) | Recording coming soon
+
 **2:30–3:00 pm ET**
 
 Break (coffee and snacks will be provided)
@@ -66,6 +70,8 @@ Break (coffee and snacks will be provided)
 *Physics-Motivated Approaches to Model Design: Observations and Data Analysis*
 
 David Hogg, NYU/Flatiron
+
+[Slides](https://docs.google.com/presentation/d/1-Fqr8hPBEigV_DX5hNyUQFkhT3QgOz1Zmh2dWmDdeUI/edit?usp=sharing) | Recording coming soon
 
 **4:00–5:30 pm ET**
 
@@ -92,6 +98,8 @@ Break (coffee and pastries will be provided)
 
 Song Han, MIT
 
+[Slides](talks/2024_03_IAIFI_Symposium_Han.pdf) | Recording coming soon
+
 **12:00–1:30 pm ET**
 
 Lunch Break (working meeting for speakers and organizers)
@@ -102,6 +110,8 @@ Lunch Break (working meeting for speakers and organizers)
 
 Thea Aarrestad, ETH Zurich
 
+[Slides](talks/2024_03_IAIFI_Symposium_Aarrestad.pdf) | Recording coming soon
+
 **2:30–3:00 pm ET**
 
 Break (coffee and snacks will be provided)
@@ -111,6 +121,8 @@ Break (coffee and snacks will be provided)
 *Physics-Motivated Approaches to Model Design: Natural Science of Artificial Intelligence*
 
 Hidenori Tanaka, Harvard 
+
+[Slides](talks/2024_03_IAIFI_Symposium_Tanaka.pdf) | Recording coming soon
 
 **4:00–5:15 pm ET**
 
