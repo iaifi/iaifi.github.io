@@ -27,10 +27,10 @@
   talk-title: "Exact and approximate symmetries in machine learning"
   talk-abstract: In this talk, we explain how we can use invariant theory tools to express machine learning models that preserve symmetries arising from physical law. We consider applications to self-supervised contrastive learning, and cosmology.
   slides-link:
-  youtube-link:
+  youtube-link: https://youtube.com/live/RrXwHnspsSg?feature=share
   speaker-thrust: "foundational AI"
   speaker-gender: "woman"
-  talk-attendance: 
+  talk-attendance: 30 in person, 30 virtual
 
 - type: "spring-2024"
   speaker-name: Jennifer Ngadiuba
