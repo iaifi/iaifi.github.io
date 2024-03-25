@@ -29,13 +29,15 @@ Additional support from [A3D3](https://a3d3.ai).
 
 Breakfast and Introduction (coffee and pastries will be provided)
 
+Slides coming soon | [Recording](https://youtu.be/hGecu4rthBM)
+
 **9:30–10:30 am ET**
 
 *Foundation Models in Physics: Successes in Astrophysics*
 
 Anna Scaife, University of Manchester
 
-Slides coming soon | Recording coming soon
+Slides coming soon | [Recording](https://youtu.be/N-J7NNoOpkk)
 
 **10:30–11:00 am ET**
 
@@ -59,7 +61,7 @@ Lunch Break (working meeting for speakers and organizers)
 
 Kevin Yang, Microsoft Research
 
-[Slides](talks/2024_03_IAIFI_Symposium_Yang.pdf) | Recording coming soon
+[Slides](talks/2024_03_IAIFI_Symposium_Yang.pdf) | [Recording](https://youtu.be/mftG3QqUrnk)
 
 **2:30–3:00 pm ET**
 
@@ -71,13 +73,15 @@ Break (coffee and snacks will be provided)
 
 David Hogg, NYU/Flatiron
 
-[Slides](https://docs.google.com/presentation/d/1-Fqr8hPBEigV_DX5hNyUQFkhT3QgOz1Zmh2dWmDdeUI/edit?usp=sharing) | Recording coming soon
+[Slides](https://docs.google.com/presentation/d/1-Fqr8hPBEigV_DX5hNyUQFkhT3QgOz1Zmh2dWmDdeUI/edit?usp=sharing) | [Recording](https://youtu.be/aKMbW2ZeQMs)
 
 **4:00–5:30 pm ET**
 
 *Panel: Community Perspectives on what is needed for generative AI to fulfill its promise in physics*
 
-Dan Huttenlocher (MIT), Vijay Reddi (Harvard), Jesse Thaler (MIT/IAIFI)
+Dan Huttenlocher (MIT), Phil Harris (MIT), Jesse Thaler (MIT/IAIFI)
+
+[Recording](https://youtu.be/dhD1SdMyf-w)
 
 
 ### Friday, March 15, 2024
@@ -87,6 +91,8 @@ Dan Huttenlocher (MIT), Vijay Reddi (Harvard), Jesse Thaler (MIT/IAIFI)
 *Panel: Potential impacts of generative AI in physics*
 
 Pavel Izmailov (OpenAI), Matt Schwartz (Harvard), David Hogg (NYU/Flatiron)
+
+[Recording](https://youtu.be/BP-wf9A3PkE)
 
 **10:30–11:00 am ET**
 
@@ -98,7 +104,7 @@ Break (coffee and pastries will be provided)
 
 Song Han, MIT
 
-[Slides](talks/2024_03_IAIFI_Symposium_Han.pdf) | Recording coming soon
+[Slides](talks/2024_03_IAIFI_Symposium_Han.pdf) | [Recording](https://youtu.be/jpmRI5GxDAc)
 
 **12:00–1:30 pm ET**
 
@@ -110,7 +116,7 @@ Lunch Break (working meeting for speakers and organizers)
 
 Thea Aarrestad, ETH Zurich
 
-[Slides](talks/2024_03_IAIFI_Symposium_Aarrestad.pdf) | Recording coming soon
+[Slides](talks/2024_03_IAIFI_Symposium_Aarrestad.pdf) | [Recording](https://youtu.be/k_BRYNEmxr4)
 
 **2:30–3:00 pm ET**
 
@@ -122,11 +128,13 @@ Break (coffee and snacks will be provided)
 
 Hidenori Tanaka, Harvard 
 
-[Slides](talks/2024_03_IAIFI_Symposium_Tanaka.pdf) | Recording coming soon
+[Slides](talks/2024_03_IAIFI_Symposium_Tanaka.pdf) | [Recording](https://youtu.be/XIj_pP0Jopg)
 
 **4:00–5:15 pm ET**
 
 Fireside Chat: Jared Kaplan, Anthropic (Virtual)
+
+[Recording](https://youtu.be/r95lmRyL6rI)
 
 **5:15–5:30 pm ET**
 
