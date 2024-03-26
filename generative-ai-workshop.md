@@ -29,7 +29,7 @@ Additional support from [A3D3](https://a3d3.ai).
 
 Breakfast and Introduction (coffee and pastries will be provided)
 
-[Slides](https://mit.enterprise.slack.com/files/U02CRJUEALV/F06RMPNTXNV/mishrasharma_genai_symposium.pdf) | [Recording](https://youtu.be/hGecu4rthBM)
+[Slides](talks/2024_03_IAIFI_Symposium_MishraSharma_Intro.pdf) | [Recording](https://youtu.be/hGecu4rthBM)
 
 **9:30–10:30 am ET**
 
