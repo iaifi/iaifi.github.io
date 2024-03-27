@@ -1,0 +1,8 @@
+type: academia
+title: PhD Fellowship on Factual Text Generation
+employer: University of Copenhagen
+
+deadline: 2024-03-31
+expire: 2024-04-01
+link: https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=18970&ProjectId=161235&MediaId=5&SkipAdvertisement=false
+details: While recent large language models demonstrate surprising fluency and predictive capabilities in their generated text, they have been demonstrated to generate factual inaccuracies even when they have encoded truthful information. This limits their utility and safety in real world scenarios where guarantees of factuality are needed. To address this, the project will explore methods for improving the factuality of text generation with respect to both objective real-world facts and provided source documents.
