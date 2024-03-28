@@ -61,7 +61,7 @@ Coming soon.
 
 ## 2024 Organizing Committee 
 * Fabian Ruehle, Chair (Northeastern University)
-* Demba Ba (Tufts)
+* Demba Ba (Harvard)
 * Alex Gagliano (IAIFI Fellow)
 * Polina Abratenko (Tufts)
 * Owen Dugan (MIT)

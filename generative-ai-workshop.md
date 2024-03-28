@@ -37,7 +37,7 @@ Breakfast and Introduction (coffee and pastries will be provided)
 
 Anna Scaife, University of Manchester
 
-Slides coming soon | [Recording](https://youtu.be/N-J7NNoOpkk)
+[Slides](https://drive.google.com/file/d/10z4oTQEmpXQE755dYt_k6BmsEfDrHmn4/view?usp=sharing) | [Recording](https://youtu.be/N-J7NNoOpkk)
 
 **10:30–11:00 am ET**
 
