@@ -5,6 +5,35 @@ aside:
   toc: true
 ---
 
+## 2024-2027 IAIFI Fellows
+
+### [Michael Albergo](mailto:michaelsalbergo@gmail.com)
+<img src="images/small-photo-michael-albergo.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Michael Albergo has broad interests at the intersection of generative modeling and statistical physics, with a focus on designing machine learning methods to advance scientific computing. To explore these topics, he relies on tools from machine learning, applied probability, and numerical analysis. Along the way, he is curious how these new methods can be applied to various topics across the sciences and beyond.
+
+**Biographical Sketch**: Prior to coming to Boston, Michael received his PhD at New York University, where he had to the privilege to learn across disciplines from a wonderful set of physicists, mathematicians, and computer scientists. He received his MPhil at the University of Cambridge, and his AB at Harvard University. In addition to his participation in IAIFI, Michael is a Junior Fellow at the Society of Fellows at Harvard.
+
+### [Samuel Bright-Thonney](mailto:skb93@cornell.edu)
+<img src="images/small-photo-samuel-bright-thonney.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Sam works on developing novel machine learning tools to maximize the discovery potential of collider experiments. He is particularly interested in physics- and symmetry-aware algorithms that are robust when trained on noisy or mis-modeled simulations. He hopes to apply this work towards building self-supervised foundation models for collider physics, which will greatly accelerate downstream classification and generative tasks. Sam’s doctoral work focused on dark matter searches and model-independent anomaly detection, and he looks forward to building deep learning-based reconstruction algorithms to power a new generation of low-mass dark photon searches.
+
+**Biographical Sketch**: Sam received his PhD in Physics from Cornell University in 2024, where he worked on experimental particle physics in the CMS collaboration. Previously, he worked with his LHC colleagues in the ATLAS collaboration while pursuing undergraduate degrees in Physics and Applied Mathematics from UC Berkeley (2018). Sam grew up in England and Northern California, and enjoys playing music, hiking in the mountains, and browsing used bookstores.
+
+### [Akshunna Dogra](mailto:adogra@nyu.edu)
+<img src="images/small-photo-akshunna-dogra.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Akshunna's interests are rooted in mathematical and computational physics, with principled model design serving as his most used research vehicle, and Dynamical Systems, Fundamental Physics, and Machine Learning (ML) serving as the most visited topics. The versatility of their applications has allowed him to build models for problems in fluid dynamics, ML optimization, and quantum information. His generic approach to scientific model building is rooted in biasing the optimization dynamics towards optimal or near optimal solution models by leveraging known constraints and results on the problems and embedding them appropriately into the models. His doctoral work has been focused on providing unifying perspectives on the convergence regimes of ML models. He hopes to characterize the search phase of optimization as part of his fellowship and leverage such results for the creation of solution models for complex problems in QFT and String Theory.
+
+**Biographical Sketch**: Akshunna is currently finishing his PhD at the Dept. of Mathematics, Imperial College London, building a rigorous framework for Machine Learning (ML) based scientific modeling. He previously obtained a Bachelors of Arts in Mathematics and Physics from New York University. He was raised in a village nestled within the Indian Himalayan foothills. He is also the proud owner of a subsistence farming operation that produces the best ghee on the planet!
+
+### [Thomas Harvey](mailto:thomas.harvey@balliol.ox.ac.uk)
+<img src="images/small-photo-thomas-harvey.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Most of Thomas’ research comes under the umbrella term of String Phenomenology: The study of relating string theory to low energy particle physics and cosmology. In recent years machine learning methods have provided new tools in exploring the string landscape, and Thomas has been at the forefront of this work. In particular, genetic algorithms and reinforcement learning can be used for solving the large systems of Diophantine equations that arise in constructing string compactifications leading to the correct particle spectrum in 4D. At the same time, numerical metrics (represented by neural networks) of Calabi-Yau manifolds enable the calculation of more precise aspects of the resulting 4D theories, such as Yukawa couplings.
+
+**Biographical Sketch**: Thomas completed his undergraduate studies in 2019, with an MSci in Physics, from Royal Holloway, University of London before completing part III of the mathematical tripos at the University of Cambridge the following year. Thomas then undertook his graduate studies in the Rudolf Peierls Centre for Theoretical Physics at the University of Oxford under the supervision of Prof Andre Lukas and joined IAIFI as a fellow in 2024.
 
 ## 2023-2026 IAIFI Fellows
 
