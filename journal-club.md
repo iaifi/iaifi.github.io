@@ -38,11 +38,19 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
   {% if date < now %}
   {% if talk.type == "spring-2024" %}
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
     * {{talk.talk-abstract}}
     * [Slides]({{talk.slides-link}}) (for IAIFI members only)
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * Slides to come
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -56,11 +64,18 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
   {% if date < now %}
   {% if talk.type == "fall-2023" %}
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
     * {{talk.talk-abstract}}
     * [Slides]({{talk.slides-link}}) (for IAIFI members only)
+{% else %}
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * Slides not available
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}

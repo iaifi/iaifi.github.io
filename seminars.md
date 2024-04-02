@@ -34,11 +34,19 @@ aside:
   {% if date < now %}
   {% if talk.type == "spring-2024" %}
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}**
     * *{{talk.talk-title}}*
     * {{talk.talk-abstract}}
     * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * Slides to come
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -52,11 +60,19 @@ aside:
   {% if date < now %}
   {% if talk.type == "fall-2023" %}
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}**
     * *{{talk.talk-title}}*
     * {{talk.talk-abstract}}
     * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * Slides not available
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -70,11 +86,19 @@ aside:
   {% if date < now %}
   {% if talk.type == "spring-2023" %}
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}**
     * *{{talk.talk-title}}*
     * {{talk.talk-abstract}}
     * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * Slides not available
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -88,11 +112,19 @@ aside:
   {% if date < now %}
   {% if talk.type == "fall-2022" %}
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}**
     * *{{talk.talk-title}}*
     * {{talk.talk-abstract}}
     * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * Slides not available
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -106,11 +138,19 @@ aside:
   {% if date < now %}
   {% if talk.type == "spring-2022" %}
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}**
     * *{{talk.talk-title}}*
     * {{talk.talk-abstract}}
     * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * Slides not available
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -124,11 +164,19 @@ aside:
   {% if date < now %}
   {% if talk.type == "fall-2021" %}
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}**
     * *{{talk.talk-title}}*
     * {{talk.talk-abstract}}
     * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * Slides not available
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}
@@ -143,10 +191,18 @@ aside:
   {% if date < now %}
   {% if talk.type == "spring-2021" %}
 
+{% if talk.slides-link %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}**
     * *{{talk.talk-title}}*
     * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
+{% else %}
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}**
+    * *{{talk.talk-title}}*
+    * {{talk.talk-abstract}}
+    * Slides not available
+  {% endif %}
   {% endif %}
   {% endif %}
 {% endfor %}

@@ -26,7 +26,7 @@
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Dynamical Measure Transport: Theory and Applications"
   talk-abstract: I will discuss recent advances in generative modeling from the perspective of transport between probability densities. In particular, I will describe efforts to unify flow-based and diffusion based generative modeling methods through a paradigm known as stochastic interpolants. Using these ideas, I will illustrate various ways to make generative models more performant for conventional tasks, such as image generation, while also highlighting new applications in domains such as scientific computing, for example in the probabilistic forecasting of dynamical systems. 
-  slides-link: 
+  slides-link: https://drive.google.com/file/d/16DhjhuSUdBF0GLRy0j5gnQGif457QxiG/view
   youtube-link: 
   speaker-thrust: "foundational AI"
   speaker-gender: "man"
@@ -43,7 +43,7 @@
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Reconstructing the Lives (and Deaths) of Massive Stars through Scalable, Low-Latency Inference"
   talk-abstract: "The deaths of stars as supernovae sit at the nexus of multiple astrophysical domains: they trace the Universe's expansion, reveal the chemical enrichment of galaxies, and unveil the terminal stages of stellar evolution. As supernova discovery rates surpass exponential scaling, population studies of even rare phenomena will soon become possible. In this talk, I will describe the unique statistical challenges that accompany this new data-rich, real-time analysis paradigm. I will motivate a shift away from event classification toward characterizing unusual phenomena with the help of physically meaningful latent spaces. I will conclude by discussing the prospects for supernova science with the Vera C. Rubin Observatory, and what the impending data deluge can teach us about the pre-explosion stellar system."
-  slides-link: 
+  slides-link: https://drive.google.com/file/d/1TECru9BpNL5bLDDZafrln7Ra87HBmudB/view?usp=share_link
   youtube-link: 
   speaker-thrust: "experimental physics"
   speaker-gender: "man"
