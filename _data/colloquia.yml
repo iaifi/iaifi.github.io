@@ -9,7 +9,7 @@
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Data-Driven Strong Gravitational Lensing Analysis in the Era of Large Sky Surveys"
   talk-abstract: "Despite the remarkable success of the standard model of cosmology, the lambda CDM model, at predicting the observed structure of the universe over many scales, very little is known about the fundamental nature of its principal constituents: dark matter and dark energy. In the coming years, new surveys and telescopes will provide an opportunity to probe these unknown components. Strong gravitational lensing is emerging as one of the most promising probes of the nature of dark matter, as it can, in principle, measure its clustering properties on sub-galactic scales. The unprecedented volumes of data that will be produced by upcoming surveys like LSST, however, will render traditional analysis methods entirely impractical. In recent years, machine learning has been transforming many aspects of the computational methods we use in astrophysics and cosmology. I will share our recent work in developing machine learning tools for the analysis of strongly lensed systems."
-  slides-link: 
+  slides-link: "talks/2024_02_09_IAIFI_Colloquium_Levasseur.pdf"
   youtube-link: https://www.youtube.com/live/cN0BagfMkNQ?feature=shared
   speaker-thrust: "experimental physics"
   speaker-gender: "woman"
