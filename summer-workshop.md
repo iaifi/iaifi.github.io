@@ -69,3 +69,4 @@ Coming soon.
 * Yidi Qi (Northeastern)
 * Manos Theodosis (Harvard)
 * Sokratis Trifinopoulos (MIT)
+* Di Luo (MIT)

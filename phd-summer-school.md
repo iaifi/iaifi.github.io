@@ -84,6 +84,7 @@ To be announced. If you are interested in sponsoring the Summer School, please c
 * Yidi Qi (Northeastern)
 * Manos Theodosis (Harvard)
 * Sokratis Trifinopoulos (MIT)
+* Di Luo (MIT)
 
 
 ## FAQ 

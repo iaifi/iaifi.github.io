@@ -58,7 +58,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Will rotate membership in Fall 2024
 * Plans and coordinates the IAIFI Summer School and Workshop, including identifying and inviting lecturers and plenary speakers, developing the schedule, and reviewing applicants to the Summer School
 * Time Commitment: One two-hour meeting every 2-3 months and time spent helping at the Summer School/Workshop
-* Current Summer School and Workshop Committee: Fabian Ruehle (Chair), Demba Ba, Alexander Gagliano, Sokratis Trifinopoulos, Polina Abratenko, Sneh Pandya, Yidi Qi, Manos Theodosis, Owen Dugan, Marisa LaFleur
+* Current Summer School and Workshop Committee: Fabian Ruehle (Chair), Demba Ba, Alexander Gagliano, Sokratis Trifinopoulos, Polina Abratenko, Sneh Pandya, Yidi Qi, Manos Theodosis, Owen Dugan, Marisa LaFleur, Di Luo
 * Past Summer School and Workshop Committee: Jim Halverson, Shuchin Aeron, Tess Smidt, Denis Boyda, Anna Golubeva, Ouail Kitouni, Jeffrey Lazar, Peter Lu, Nayantara Mudur, Dylan Rankin
 * Primary Contact: [Email Fabian Ruehle (Chair)](mailto:f.ruehle@northeastern.edu)
 
