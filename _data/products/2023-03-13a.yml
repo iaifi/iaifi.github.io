@@ -4,8 +4,8 @@ title: "Exotic energy injection in the early universe II: CMB spectral distortio
 authors: Hongwan Liu, Wenzer Qin, Gregory W. Ridgway, Tracy R. Slatyer
 abstract: 'We calculate the post-recombination contribution to the Cosmic Microwave Background (CMB) spectral distortion due to general exotic energy injections, including dark matter (DM) decaying or annihilating to Standard Model particles. Upon subtracting the background distortion that would be present even without such energy injections, we find residual distortions that are still potentially large enough to be detectable by future experiments such as PIXIE. The distortions also have a high-energy spectral feature that is a unique signature of the injection of high-energy particles. We present a calculation of the global ionization history in the presence of decaying dark matter with sub-keV masses, and also show that previous calculations of the global ionization history in the presence of energy injection are not significantly modified by these additional spectral distortions. Our improved treatment of low-energy electrons allows us to extend calculations of the CMB anisotropy constraints for decaying DM down to arbitrarily low masses. We also recast these bounds as constraints on the coupling of axion-like particles to photons.'
 arxiv: "2303.07370"
-journal: 
-doi: 
+journal: APS Journals 2023, Volume 108, Issue 4
+doi: https://doi.org/10.1103/PhysRevD.108.043531
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2023-08-28

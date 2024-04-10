@@ -4,8 +4,8 @@ title: "Exotic energy injection in the early universe I: a novel treatment for l
 authors: Hongwan Liu, Wenzer Qin, Gregory W. Ridgway, Tracy R. Slatyer
 abstract: "Decaying or annihilating dark matter and other exotic energy injections can modify the spectrum of the universe's photon bath, resulting in e.g. new contributions to spectral distortions of the cosmic microwave background blackbody spectrum and modifications to the temperature and ionization history of the universe. Here, we present an improved version of the 𝙳𝚊𝚛𝚔𝙷𝚒𝚜𝚝𝚘𝚛𝚢 code, which is now capable of consistently calculating the spectrum of low-energy photons by properly treating the interactions of these photons with the levels of hydrogen atoms. Other changes to the code include a more detailed treatment of energy deposition by low-energy electrons, and spectral distortions from heating of the intergalactic medium. All of the improvements we have made to 𝙳𝚊𝚛𝚔𝙷𝚒𝚜𝚝𝚘𝚛𝚢 are publicly available."
 arxiv: "2303.07366"
-journal: 
-doi: 
+journal: APS Journals 2023, Volume 108, Issue 4
+doi: https://doi.org/10.1103/PhysRevD.108.043530
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2023-08-28

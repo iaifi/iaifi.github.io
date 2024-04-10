@@ -4,8 +4,8 @@ title: "An Extensive Hubble Space Telescope Study of the Offset and Host Light D
 authors: Brian Hsu, Peter K. Blanchard, Edo Berger, Sebastian Gomez
 abstract: 'We present an extensive Hubble Space Telescope (HST) rest-frame ultraviolet (UV) imaging study of the locations of Type I superluminous supernovae (SLSNe) within their host galaxies. The sample includes 65 SLSNe with detected host galaxies in the redshift range z≈0.05−2. Using precise astrometric matching with SN images, we determine the distributions of physical and host-normalized offsets relative to the host centers, as well as the fractional flux distribution relative to the underlying UV light distribution. We find that the host-normalized offsets of SLSNe roughly track an exponential disk profile, but exhibit an overabundance of sources with large offsets of 1.5−4 times their host half-light radius. The SLSNe normalized offsets are systematically larger than those of long gamma-ray bursts (LGRBs), and even Type Ib/c and II SNe. Furthermore, we find that about 40\% of all SLSNe occur in the dimmest regions of their host galaxies (fractional flux of 0), in stark contrast to LGRBs and Type Ib/c and II SNe. We do not detect any significant trends in the locations of SLSNe as a function of redshift, or as a function of explosion and magnetar engine parameters inferred from modeling of their optical lights curves. The significant difference in SLSN locations compared to LGRBs (and normal core-collapse SNe) suggests that at least some of their progenitors follow a different evolutionary path. We speculate that SLSNe arise from massive runaway stars from disrupted binary systems, with velocities of ∼102 km s−1.'
 arxiv: "2308.07271"
-journal:
-doi:
+journal: The Astrophysical Journal 2024, Volume 961, Number 2
+doi: 10.3847/1538-4357/ad12be
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2024-01-24
