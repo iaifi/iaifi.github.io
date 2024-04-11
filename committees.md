@@ -26,7 +26,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Seeking additional members
 * Develops educational materials for use in outreach activities, such as classroom visits, and brainstorms opportunities for outreach (including festivals, museum exhibits, etc)
 * Time Commitment: One-hour meeting every 3-4 weeks and time spent developing materials (on volunteer basis)
-* Current Public Engagement Committee: Carlos Argüelles-Delgado (Chair), Lina Necib, Gaia Grosso, Ge Yang, Sokratis Trifinopolous, Polina Abratenko, Tri Nguyen, Sneh Pandya, Sangeon Park, Comfort Asumadu, Marisa LaFleur
+* Current Public Engagement Committee: Carlos Argüelles-Delgado (Chair), Lina Necib, Gaia Grosso, Ge Yang, Sokratis Trifinopolous, Polina Abratenko, Tri Nguyen, Sneh Pandya, Sangeon Park, Marisa LaFleur
 * Past Public Engagement Committee: Brent Nelson, Harold Erbin
 * Primary Contact: [Email Carlos Argüelles-Delgado (Chair)](mailto:carguelles@fas.harvard.edu)
 
@@ -34,7 +34,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Accepting additional members
 * Brainstorms and plans community building events (such as coffee hours, social events, meet-ups, etc.)
 * Time Commitment: One-hour meeting per month and time spent helping with event setup occasionally
-* Current Community Building Committee: Matt Schwartz (Chair), Fabian Ruehle, Alexander Gagliano, Jessie Micallef, Omar Alterkait, Ouail Kitouni, Comfort Asumadu, Marisa LaFleur
+* Current Community Building Committee: Matt Schwartz (Chair), Fabian Ruehle, Alexander Gagliano, Jessie Micallef, Omar Alterkait, Ouail Kitouni, Marisa LaFleur
 * Past Community Building Committee: Mike Williams, Mehmet Demirtas, Niklas Nolte
 * Primary Contact: [Email Matt Schwartz (Chair)](mailto:schwartz@g.harvard.edu)
 
@@ -42,8 +42,8 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Will rotate membership in January 2024
 * [View the ECEC expectations](/images/ecec-expectations.pdf)
 * Time Commitment: One-hour meeting per month and occasional email discussion
-* Current ECEC: Edo Berger (Chair), Tess Smidt, Carolina Cuesta-Lazaro, Jessie Micallef, Sean Benevedes, Zeviel Imani, Rashmish Mishra, Marisa LaFleur
-* Past ECEC: Tracy Slatyer, Siddharth Mishra-Sharma, Mehmet Demirtas, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti
+* Current ECEC: Edo Berger (Chair), Tess Smidt, Carolina Cuesta-Lazaro, Jessie Micallef, Elyssa Hofgard, Zeviel Imani, Leo Yang, Marisa LaFleur
+* Past ECEC: Tracy Slatyer, Siddharth Mishra-Sharma, Mehmet Demirtas, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Sean Benevedes, Rashmish Mishra
 * Primary Contact: [Email Edo Berger (Chair)](mailto:eberger@cfa.harvard.edu) 
 
 # Speaker Selection 
@@ -58,7 +58,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Will rotate membership in Fall 2024
 * Plans and coordinates the IAIFI Summer School and Workshop, including identifying and inviting lecturers and plenary speakers, developing the schedule, and reviewing applicants to the Summer School
 * Time Commitment: One two-hour meeting every 2-3 months and time spent helping at the Summer School/Workshop
-* Current Summer School and Workshop Committee: Fabian Ruehle (Chair), Demba Ba, Alexander Gagliano, Sokratis Trifinopoulos, Polina Abratenko, Sneh Pandya, Yidi Qi, Manos Theodosis, Owen Dugan, Marisa LaFleur, Di Luo
+* Current Summer School and Workshop Committee: Fabian Ruehle (Chair), Demba Ba, Alexander Gagliano, Di Luo, Sokratis Trifinopoulos, Polina Abratenko, Sneh Pandya, Yidi Qi, Manos Theodosis, Owen Dugan, Marisa LaFleur
 * Past Summer School and Workshop Committee: Jim Halverson, Shuchin Aeron, Tess Smidt, Denis Boyda, Anna Golubeva, Ouail Kitouni, Jeffrey Lazar, Peter Lu, Nayantara Mudur, Dylan Rankin
 * Primary Contact: [Email Fabian Ruehle (Chair)](mailto:f.ruehle@northeastern.edu)
 

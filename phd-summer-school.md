@@ -78,13 +78,13 @@ To be announced. If you are interested in sponsoring the Summer School, please c
 * Fabian Ruehle, Chair (Northeastern University)
 * Demba Ba (Harvard)
 * Alex Gagliano (IAIFI Fellow)
+* Di Luo (IAIFI Fellow)
 * Polina Abratenko (Tufts)
 * Owen Dugan (MIT)
 * Sneh Pandya (Northeastern)
 * Yidi Qi (Northeastern)
 * Manos Theodosis (Harvard)
 * Sokratis Trifinopoulos (MIT)
-* Di Luo (MIT)
 
 
 ## FAQ 
