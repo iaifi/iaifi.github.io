@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Quantum Computation and Simulation using Fermion-Pair Registers"
+authors: Xiangkai Sun, Di Luo, Soonwon Choi
+abstract: 'We propose and analyze an approach to realize quantum computation and simulation using fermionic particles under quantum gas microscopes. Our work is inspired by a recent experimental demonstration of large-scale quantum registers, where tightly localized fermion pairs are used to encode qubits exhibiting long coherence time and robustness against laser intensity noise. We describe how to engineer the SWAP gate and high-fidelity controlled-phase gates by adjusting the fermion hopping as well as Feshbach interaction strengths. Combined with previously demonstrated single-qubit rotations, these gates establish the computational universality of the system. Furthermore, we show that 2D quantum Ising Hamiltonians with tunable transverse and longitudinal fields can be efficient simulated by modulating Feshbach interaction strengths. We present a sample-efficient protocol to characterize engineered gates and Hamiltonian dynamics based on an improved classical shadow process tomography that requires minimal experimental controls. Our work opens up new opportunities to harness existing ultracold quantum gases for quantum information sciences.'
+arxiv: "2306.03905"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

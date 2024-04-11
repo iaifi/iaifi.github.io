@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Level Crossings, Attractor Points and Complex Multiplication"
+authors: Hamza Ahmed, Fabian Ruehle
+abstract: 'We study the complex structure moduli dependence of the scalar Laplacian eigenmodes for one-parameter families of Calabi-Yau n-folds in P^{n+1}. It was previously observed that some eigenmodes get lighter while others get heavier as a function of these moduli, which leads to eigenvalue crossing. We identify the cause for this behavior for the torus. We then show that at points in a sublocus of complex structure moduli space where Laplacian eigenmodes cross, the torus has complex multiplication. We speculate that the generalization to arbitrary Calabi-Yau manifolds could be that level crossing is related to rank one attractor points. To test this, we compute the eigenmodes numerically for the quartic K3 and the quintic threefold, and match crossings to CM and attractor points in these varieties. To quantify the error of our numerical methods, we also study the dependence of the numerical spectrum on the quality of the Calabi-Yau metric approximation, the number of points sampled from the Calabi-Yau variety, the truncation of the eigenbasis, and the the distance from degeneration points in complex structure moduli space.'
+arxiv: "2304.00027"
+journal: Journal of High Energy Physics, 2023, Volume 2023, Article number 164
+doi: https://doi.org/10.1007/JHEP06%282023%29164
+nsf-par:
+code: 
+publication-date: 2023-06-26

@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Quantification of high dimensional non-Gaussianities and its implication to Fisher analysis in cosmology"
+authors: Core Francisco Park, Erwan Allys, Francisco Villaescusa-Navarro, Douglas P. Finkbeiner
+abstract: "It is well known that the power spectrum is not able to fully characterize the statistical properties of non-Gaussian density fields. Recently, many different statistics have been proposed to extract information from non-Gaussian cosmological fields that perform better than the power spectrum. The Fisher matrix formalism is commonly used to quantify the accuracy with which a given statistic can constrain the value of the cosmological parameters. However, these calculations typically rely on the assumption that the likelihood of the considered statistic follows a multivariate Gaussian distribution. In this work we follow Sellentin & Heavens (2017) and use two different statistical tests to identify non-Gaussianities in different statistics such as the power spectrum, bispectrum, marked power spectrum, and wavelet scatering transform (WST). We remove the non-Gaussian components of the different statistics and perform Fisher matrix calculations with the \textit{Gaussianized} statistics using Quijote simulations. We show that constraints on the parameters can change by a factor of ∼2 in some cases. We show with simple examples how statistics that do not follow a multivariate Gaussian distribution can achieve artificially tight bounds on the cosmological parameters when using the Fisher matrix formalism. We think that the non-Gaussian tests used in this work represent a powerful tool to quantify the robustness of Fisher matrix calculations and their underlying assumptions. We release the code used to compute the power spectra, bispectra, and WST that can be run on both CPUs and GPUs."
+arxiv: "2204.05435"
+journal: The Astrophysical Journal, Volume 946, Number 2
+doi: https://doi.org/10.3847/1538-4357/acbe3b
+nsf-par:
+code: 
+publication-date: 2022-04-05

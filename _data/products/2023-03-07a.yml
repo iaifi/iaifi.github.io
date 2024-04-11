@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Exploring the CP-violating Dashen phase in the Schwinger model with tensor networks"
+authors: Lena Funcke, Karl Jansen, Stefan Kühn
+abstract: 'We numerically study the phase structure of the two-flavor Schwinger model with matrix product states, focusing on the (1+1)-dimensional analog of the CP-violating Dashen phase in QCD. We simulate the two-flavor Schwinger model around the point where the positive mass of one fermion flavor corresponds to the negative mass of the other fermion flavor, which is a sign-problem afflicted regime for conventional Monte Carlo techniques. Our results indicate that the model undergoes a CP-violating Dashen phase transition at this point, which manifests itself in abrupt changes of the average electric field and the analog of the pion condensate in the model. Studying the scaling of the bipartite entanglement entropy as a function of the volume, we find clear indications that this transition is not of first order.'
+arxiv: "2303.03799"
+journal: Physical Review D, 2023, Volume 108, Issue 1
+doi: https://doi.org/10.1103/PhysRevD.108.014504
+nsf-par:
+code: 
+publication-date: 2023-07-13

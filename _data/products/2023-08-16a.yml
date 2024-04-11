@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Gravitational action for a massive Majorana fermion in 2d quantum gravity"
+authors: Corinne de Lacroix, Harold Erbin, Vincent Lahoche
+abstract: "We compute the gravitational action of a free massive Majorana fermion coupled to two-dimensional gravity on compact Riemann surfaces of arbitrary genus. The structure is similar to the case of the massive scalar. The small-mass expansion of the gravitational yields the Liouville action at zeroth order, and we can identify the Mabuchi action at first order. While the massive Majorana action is a conformal deformation of the massless Majorana CFT, we find an action different from the one given by the David-Distler-Kawai (DDK) ansatz."
+arxiv: "2308.08342"
+journal: Journal of High Energy Physics, 2024, Volume 2024, Article number 68
+doi: https://doi.org/10.1007/JHEP01%282024%29068
+nsf-par:
+code: 
+publication-date: 2024-01-24
