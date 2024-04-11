@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Correlation function distributions for O(N) lattice field theories in the disordered phase"
+authors: Cagin Yunus, William Detmold
+abstract: 'Numerical computations in strongly-interacting quantum field theories are often performed using Monte-Carlo sampling methods. A key task in these calculations is to estimate the value of a given physical quantity from the distribution of stochastic samples that are generated using the Monte-Carlo method. Typically, the sample mean and sample variance are used to define the expectation values and uncertainties of computed quantities. However, the Monte-Carlo sample distribution contains more information than these basic properties and it is useful to investigate it more generally. In this work, the exact form of the probability distributions of two-point correlation functions at zero momentum in O(N) lattice field theories in the disordered phase and in infinite volume are determined. These distributions allow for a robust investigation of the efficacy of the Monte-Carlo sampling procedure and are shown also to allow for improved estimators of the target physical quantity to be constructed. The theoretical expectations are shown to agree with numerical calculations in the O(2) model.'
+arxiv: "2304.03820"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

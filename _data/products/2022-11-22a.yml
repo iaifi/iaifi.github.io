@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Can denoising diffusion probabilistic models generate realistic astrophysical fields?"
+authors: Nayantara Mudur, Douglas P. Finkbeiner
+abstract: "Score-based generative models have emerged as alternatives to generative adversarial networks (GANs) and normalizing flows for tasks involving learning and sampling from complex image distributions. In this work we investigate the ability of these models to generate fields in two astrophysical contexts: dark matter mass density fields from cosmological simulations and images of interstellar dust. We examine the fidelity of the sampled cosmological fields relative to the true fields using three different metrics, and identify potential issues to address. We demonstrate a proof-of-concept application of the model trained on dust in denoising dust images. To our knowledge, this is the first application of this class of models to the interstellar medium."
+arxiv: "2211.12444"
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
