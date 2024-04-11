@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Large-time correlation functions in bosonic lattice field theories"
+authors: Cagin Yunus, William Detmold
+abstract: "Large-time correlation functions have a pivotal role in extracting particle masses from Euclidean lattice field theory calculations, however little is known about the statistical properties of these quantities. In this work, the asymptotic form of the distributions of the correlation functions at vanishing momentum is determined for bosonic interacting lattice field theories with a unique gapped vacuum. It is demonstrated that the deviations from the asymptotic form at large Euclidean times can be utilized to determine the spectrum of the theory."
+arxiv: "2210.15789"
+journal: Physics Letter B, 2023, Volume 840, 137890
+doi: https://doi.org/10.1016/j.physletb.2023.137890
+nsf-par:
+code: 
+publication-date: 2023-05-10

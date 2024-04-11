@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Constraint of pionless EFT using two-nucleon spectra from lattice QCD"
+authors: William Detmold, Fernando Romero-López, Phiala E. Shanahan
+abstract: 'Finite-volume pionless effective field theory (FVEFTπ/) at next-to-leading order (NLO) is used to analyze the two-nucleon lattice QCD spectrum of Ref.~\cite{Amarasinghe:2021lqa}, performed at quark masses corresponding to a pion mass of approximately 800 MeV. Specifically, the effective theory is formulated in finite volume, and variational sets of wave functions are optimized using differential programming. Using these wave functions projected to the appropriate finite-volume symmetry group, variational bounds from FVEFTπ/ are obtained for the ground state, as well as excited states. By comparison with the lattice QCD GEVP spectrum, different low energy constants (LECs) are constrained. Relativistic corrections are incorporated, allowing for the extractions of NLO LECs, as well as the leading s-d-wave mixing term in the deuteron channel.'
+arxiv: "2305.06313"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "New Pathways in Neutrino Physics via Quantum-Encoded Data Analysis"
+authors: Jeffrey Lazar, Santiago Giner Olavarrieta, Giancarlo Gatti, Carlos A. Argüelles, Mikel Sanz
+abstract: 'Ever-increasing amount of data is produced by particle detectors in their quest to unveil the laws of Nature. The large data rate requires the use of specialized triggers that promptly reduce the data rate to a manageable level; however, in doing so, unexpected new phenomena may escape detection. Additionally, the large data rate is increasingly difficult to analyze effectively, which has led to a recent revolution on machine learning techniques. Here, we present a methodology based on recent quantum compression techniques that has the capacity to store exponentially more amount of information than classically available methods. To demonstrate this, we encode the full neutrino telescope event information using parity observables in an IBM quantum processor using 8 qubits. Then we show that we can recover the information stored on the quantum computer with a fidelity of 84%. Finally, we illustrate the use of our protocol by performing a classification task that separates electron-neutrino events to muon-neutrinos events in a neutrino telescope. This new capability would eventually allow us to solve the street light effect in particle physics, where we only record signatures of particles with which we are familiar.'
+arxiv: "2402.19306"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 

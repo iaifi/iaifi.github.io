@@ -4,8 +4,8 @@ title: "Characterizing 4-string contact interaction using machine learning"
 authors: Harold Erbin, Atakan Hilmi Fırat
 abstract: "The geometry of 4-string contact interaction of closed string field theory is characterized using machine learning. We obtain Strebel quadratic differentials on 4-punctured spheres as a neural network by performing unsupervised learning with a custom-built loss function. This allows us to solve for local coordinates and compute their associated mapping radii numerically. We also train a neural network distinguishing vertex from Feynman region. As a check, 4-tachyon contact term in the tachyon potential is computed and a good agreement with the results in the literature is observed. We argue that our algorithm is manifestly independent of number of punctures and scaling it to characterize the geometry of n-string contact interaction is feasible."
 arxiv: "2211.09129"
-journal: 
-doi: 
+journal: Journal of High Energy Physics, 2024, Article 16
+doi: https://doi.org/10.1007/JHEP04%282024%29016
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2024-04-03

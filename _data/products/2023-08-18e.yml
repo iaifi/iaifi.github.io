@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Reconstructing S-matrix Phases with Machine Learning"
+authors: Aurélien Dersy, Matthew D. Schwartz, Alexander Zhiboedov
+abstract: 'An important element of the S-matrix bootstrap program is the relationship between the modulus of an S-matrix element and its phase. Unitarity relates them by an integral equation. Even in the simplest case of elastic scattering, this integral equation cannot be solved analytically and numerical approaches are required. We apply modern machine learning techniques to studying the unitarity constraint. We find that for a given modulus, when a phase exists it can generally be reconstructed to good accuracy with machine learning. Moreover, the loss of the reconstruction algorithm provides a good proxy for whether a given modulus can be consistent with unitarity at all. In addition, we study the question of whether multiple phases can be consistent with a single modulus, finding novel phase-ambiguous solutions. In particular, we find a new phase-ambiguous solution which pushes the known limit on such solutions significantly beyond the previous bound.'
+arxiv: "2308.09451"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 

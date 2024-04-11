@@ -4,8 +4,8 @@ title: "Variational Neural-Network Ansatz for Continuum Quantum Field Theory"
 authors: John M. Martyn, Khadijeh Najafi, Di Luo
 abstract: "Physicists dating back to Feynman have lamented the difficulties of applying the variational principle to quantum field theories. In non-relativistic quantum field theories, the challenge is to parameterize and optimize over the infinitely many n-particle wave functions comprising the state's Fock space representation. Here we approach this problem by introducing neural-network quantum field states, a deep learning ansatz that enables application of the variational principle to non-relativistic quantum field theories in the continuum. Our ansatz uses the Deep Sets neural network architecture to simultaneously parameterize all of the n-particle wave functions comprising a quantum field state. We employ our ansatz to approximate ground states of various field theories, including an inhomogeneous system and a system with long-range interactions, thus demonstrating a powerful new tool for probing quantum field theories."
 arxiv: "2212.00782"
-journal: 
-doi: 
+journal: APS Journals 2023, Volume 131, Issue 8
+doi: https://doi.org/10.1103/PhysRevLett.131.081601
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2023-08-24

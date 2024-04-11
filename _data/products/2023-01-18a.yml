@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Non-perturbative strong coupling at timelike momenta"
+authors: Jan Horak, Jan M. Pawlowski, Jonas Turnwald, Julian M. Urban, Nicolas Wink, Savvas Zafeiropoulos
+abstract: "We compute the strong coupling constant of Landau gauge QCD in the full complex momentum plane, both directly and via spectral reconstruction. In particular, we consider the Taylor coupling given by the product of ghost and gluon dressing functions. Assuming spectral representations for the latter, we first show that also the coupling obeys such a representation. The subsequent spectral reconstruction of the coupling data, obtained from 2+1 flavour lattice QCD results for the ghost and gluon, is based on a probabilistic inversion of this representation using Gaussian process regression with analytically enforced asymptotics. In contradistinction, our direct calculation relies on earlier reconstruction results for the ghost and gluon spectral functions themselves, as well as data obtained in functional QCD. Apart from its relevance for studies of resonances or scattering processes, the calculation also serves as a non-trivial benchmark of our reconstruction approach. The results show remarkable agreement, testifying to the reliability of the method."
+arxiv: "2301.08128"
+journal: Physical Review D 2023, Volume 107, Issue 7
+doi: https://doi.org/10.1103/PhysRevD.107.076019
+nsf-par:
+code: 
+publication-date: 2023-04-21

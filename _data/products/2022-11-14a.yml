@@ -4,8 +4,8 @@ title: "Aspects of scaling and scalability for flow-based sampling of lattice QC
 authors: Ryan Abbott, Michael S. Albergo, Aleksandar Botev, Denis Boyda, Kyle Cranmer, Daniel C. Hackett, Alexander G. D. G. Matthews, Sébastien Racanière, Ali Razavi, Danilo J. Rezende, Fernando Romero-López, Phiala E. Shanahan, Julian M. Urban
 abstract: "Recent applications of machine-learned normalizing flows to sampling in lattice field theory suggest that such methods may be able to mitigate critical slowing down and topological freezing. However, these demonstrations have been at the scale of toy models, and it remains to be determined whether they can be applied to state-of-the-art lattice quantum chromodynamics calculations. Assessing the viability of sampling algorithms for lattice field theory at scale has traditionally been accomplished using simple cost scaling laws, but as we discuss in this work, their utility is limited for flow-based approaches. We conclude that flow-based approaches to sampling are better thought of as a broad family of algorithms with different scaling properties, and that scalability must be assessed experimentally."
 arxiv: "2211.07541"
-journal: 
-doi: 
+journal: The European Physical Journal A 2023, Volume 59, Article Number 257
+doi: https://doi.org/10.1140/epja/s10050-023-01154-w
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2023-11-04

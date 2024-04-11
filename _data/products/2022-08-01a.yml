@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Robust Clustering of the Local Milky Way Stellar Kinematic Substructures with Gaia eDR3"
+authors: Xiaowei Ou, Lina Necib, Anna Frebel
+abstract: "We apply the clustering algorithm HDBSCAN on the Gaia early third data release astrometry combined with the Gaia second data release radial velocity measurements of almost 5.5 million stars to identify the local stellar kinematic substructures in the solar neighborhood. Understanding these structures helps build a more complete picture of the formation of the Milky Way, as well as an empirical phase space distribution of dark matter that would inform detection experiments. The main goal of this study is to provide a list of the most stable clusters, by taking into account the measurement uncertainties and studying the stability of the clustering results. We apply the clustering algorithm in two spaces, in velocity space in order to study recently accreted structures, and in action-angle space to find phase-mixed structures. We find 23 (6) robust clusters in velocity space (action-angle space) that are consistently not associated with noise. They are attributed to the known structures: the Gaia Sausage-Enceladus, the Helmi Stream, and globular cluster NGC 3201 are found in both spaces, while NGC 104 and the thick disk (Sequoia) are identified in velocity space (action-angle space). We discuss the kinematic properties of these structures and study whether many of the small clusters belong to a similar larger cluster based on their chemical abundances. Although we do not identify any new structures, we find that the HDBSCAN member selection of already known structures is unstable to input kinematics of the stars when resampled within their uncertainties. We therefore present the most stable subset of local kinematic structures, which are consistently identified by the clustering algorithm, and emphasize the need to take into account error propagation during both the manual and automated identification of stellar structures, both for existing ones as well as future discoveries. (abridged)"
+arxiv: "2208.01056"
+journal: Royal Astronomical Society, 2023, Volume 521, Issue 2
+doi: https://doi.org/10.1093/mnras/stad706
+nsf-par:
+code: 
+publication-date: 2023-03-09
