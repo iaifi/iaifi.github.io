@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Moments of Clarity: Streamlining Latent Spaces in Machine Learning using Moment Pooling"
+authors: Rikab Gambhir, Athis Osathapan, Jesse Thaler
+abstract: 'Many machine learning applications involve learning a latent representation of data, which is often high-dimensional and difficult to directly interpret. In this work, we propose "Moment Pooling", a natural extension of Deep Sets networks which drastically decrease latent space dimensionality of these networks while maintaining or even improving performance. Moment Pooling generalizes the summation in Deep Sets to arbitrary multivariate moments, which enables the model to achieve a much higher effective latent dimensionality for a fixed latent dimension. We demonstrate Moment Pooling on the collider physics task of quark/gluon jet classification by extending Energy Flow Networks (EFNs) to Moment EFNs. We find that Moment EFNs with latent dimensions as small as 1 perform similarly to ordinary EFNs with higher latent dimension. This small latent dimension allows for the internal representation to be directly visualized and interpreted, which in turn enables the learned internal jet representation to be extracted in closed form.'
+arxiv: "2403.08854"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 

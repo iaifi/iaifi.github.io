@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Two Watts is All You Need: Enabling In-Detector Real-Time Machine Learning for Neutrino Telescopes Via Edge Computing"
+authors: Miaochen Jin, Yushi Hu, Carlos A. Argüelles
+abstract: 'The use of machine learning techniques has significantly increased the physics discovery potential of neutrino telescopes. In the upcoming years, we are expecting upgrade of currently existing detectors and new telescopes with novel experimental hardware, yielding more statistics as well as more complicated data signals. This calls out for an upgrade on the software side needed to handle this more complex data in a more efficient way. Specifically, we seek low power and fast software methods to achieve real-time signal processing, where current machine learning methods are too expensive to be deployed in the resource-constrained regions where these experiments are located. We present the first attempt at and a proof-of-concept for enabling machine learning methods to be deployed in-detector for water/ice neutrino telescopes via quantization and deployment on Google Edge Tensor Processing Units (TPUs). We design a recursive neural network with a residual convolutional embedding, and adapt a quantization process to deploy the algorithm on a Google Edge TPU. This algorithm can achieve similar reconstruction accuracy compared with traditional GPU-based machine learning solutions while requiring the same amount of power compared with CPU-based regression solutions, combining the high accuracy and low power advantages and enabling real-time in-detector machine learning in even the most power-restricted environments.'
+arxiv: "2311.04983"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
