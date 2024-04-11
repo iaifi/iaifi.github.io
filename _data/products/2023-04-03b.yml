@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "DribbleBot: Dynamic Legged Manipulation in the Wild"
+authors: Yandong Ji, Gabriel B. Margolis, Pulkit Agrawal
+abstract: 'DribbleBot (Dexterous Ball Manipulation with a Legged Robot) is a legged robotic system that can dribble a soccer ball under the same real-world conditions as humans (i.e., in-the-wild). We adopt the paradigm of training policies in simulation using reinforcement learning and transferring them into the real world. We overcome critical challenges of accounting for variable ball motion dynamics on different terrains and perceiving the ball using body-mounted cameras under the constraints of onboard computing. Our results provide evidence that current quadruped platforms are well-suited for studying dynamic whole-body control problems involving simultaneous locomotion and manipulation directly from sensory observations.'
+arxiv: "2304.01159"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
