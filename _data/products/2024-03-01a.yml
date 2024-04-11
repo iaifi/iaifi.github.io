@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Multi-particle interpolating operators in quantum field theories with cubic symmetry"
+authors: William Detmold, William I. Jay, Gurtej Kanwar, Phiala E. Shanahan, Michael L. Wagman
+abstract: 'Numerical studies of lattice quantum field theories are conducted in finite spatial volumes, typically with cubic symmetry in the spatial coordinates. Motivated by these studies, this work presents a general algorithm to construct multi-particle interpolating operators for quantum field theories with cubic symmetry. The algorithm automates the block diagonalization required to combine multiple operators of definite linear momentum into irreducible representations of the appropriate little group. Examples are given for distinguishable and indistinguishable particles including cases with both zero and non-zero spin. An implementation of the algorithm is publicly available at this https URL.'
+arxiv: "2403.00672"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 

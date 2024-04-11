@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "On classical de Sitter solutions and parametric control"
+authors: David Andriot, Fabian Ruehle
+abstract: 'Finding string backgrounds with de Sitter spacetime, where all approximations and corrections are controlled, is an open problem. We revisit the search for de Sitter solutions in the classical regime for specific type IIB supergravity compactifications on group manifolds, an under-explored corner of the landscape that offers an interesting testing ground for swampland conjectures. While the supergravity de Sitter solutions we obtain numerically are ambiguous in terms of their classicality, we find an analytic scaling that makes four out of six compactification radii, as well as the overall volume, arbitrarily large. This potentially provides parametric control over corrections. If we could show that these solutions, or others to be found, are fully classical, they would constitute a counterexample to conjectures stating that asymptotic de Sitter solutions do not exist. We discuss this point in great detail.'
+arxiv: "2403.07065"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 
