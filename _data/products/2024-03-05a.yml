@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Operator Learning Renormalization Group"
+authors: Xiu-Zhe Luo, Di Luo, Roger G. Melko
+abstract: 'n this paper, we present a general framework for quantum many-body simulations called the operator learning renormalization group (OLRG). Inspired by machine learning perspectives, OLRG is a generalization of Wilsons numerical renormalization group and Whites density matrix renormalization group, which recursively builds a simulatable system to approximate a target system of the same number of sites via operator maps. OLRG uses a loss function to minimize the error of a target property directly by learning the operator map in lieu of a state ansatz. This loss function is designed by a scaling consistency condition that also provides a provable bound for real-time evolution. We implement two versions of the operator maps for classical and quantum simulations. The former, which we call the Operator Matrix Map, can be implemented via neural networks on classical computers. The latter, which we call the Hamiltonian Expression Map, generates device pulse sequences to leverage the capabilities of quantum computing hardware. We illustrate the performance of both maps for calculating time-dependent quantities in the quantum Ising model Hamiltonian.'
+arxiv: "2403.03199"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 
