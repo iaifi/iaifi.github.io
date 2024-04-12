@@ -62,7 +62,7 @@
   talk-abstract: 'When the Anderson impurity model (AIM) is expressed in terms of a Wilson chain it assumes a hierarchical Renormalization group structure that translates to a ground state with features like Friedel oscillations and the Kondo screening cloud [1]. Recurrent neural networks (RNNs) have recently gained traction in the form of Neural Quantum States (NQS) ansätze for quantum many body ground states and they are known to be able to learn such complex patterns [2]. We explore RNNs as an ansatz to capture the AIM’s ground state for a given Wilson chain length and investigate its capability to predict the ground state on longer chains for a converged ground state energy.
 [1] Affleck, Ian, László Borda, and Hubert Saleur. "Friedel oscillations and the Kondo screening cloud." Physical Review B* 77.18 (2008): 180404.
 [2] Hibat-Allah, Mohamed, et al. "Recurrent neural network wave functions." Physical Review Research 2.2 (2020): 023358.'
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1emRRA1kIbV5L_LxmIyYPNTjeRIWFMr-S/view?usp=drive_link"
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "Man"
@@ -79,7 +79,7 @@
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Agent-based modeling: Harnessing Large Language Models for Automated Exploration of Emergent Behaviors in Simulated Social Systems"
   talk-abstract: "Two significant impediments to success of the social sciences in comparison to physics are the inherent difficulty in both rapidly executing multiple controlled experiments to explore a parameter space and determining what parameter space to explore. In this work, we present a computational framework and platform that simulates the entire social scientific process, leveraging Large Language Models (LLMs) to study human actors within social systems. We create controlled environments, akin to toy models in physics, that systematically explore the space parameter of variables relevant to any social system (such as attributes of human actors), allowing for the exponentially faster discovery of emergent social behaviors as compared to traditional social science experimentation. Central to our approach is the automatic generation of Structural Causal Models (SCMs) that generate statistical correlations of potential interactions within a social system and outline the requisite metrics and tools to observe and measure these nonlinear dynamics. With the flexibility to vary controlled variables across a nearly infinite parameter space, our system offers a sandbox to simulate and analyze various social scenarios – from wage bargaining and auction mechanics to nuclear weapon negotiations. Our framework and platform offers a new playground for physicists to study the nonlinear dynamics and emergent phenomena in human social systems."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1T1SM-PPzUEE9pWQhZbSj6qgIYQ8diS41/view?usp=drive_link"
   youtube-link: ""
   speaker-thrust: "foundational AI"
   speaker-gender: "Man"
@@ -94,9 +94,9 @@
   talk-date: "2024-03-19"
   talk-date-time: "Tuesday, March 19, 2024, 11:00 am–12:00 pm"
   talk-location: "MIT LNS Conference Room (26-528)"
-  talk-title: Details to come
-  talk-abstract: 
-  slides-link: ""
+  talk-title: Combining Energy Correlators with Machine Learning
+  talk-abstract: Energy correlators, which are correlation functions of the energy flow operator, are theoretically clean observables which can be used to improve various measurements. In this talk, we discuss ongoing work exploring the benefits of combining them with Machine Learning for precisely measuring the Top-quark mass.
+  slides-link: "https://drive.google.com/file/d/1TxCOQpfrIsbGlIOqv0EdssgHltdQh5gq/view?usp=drive_link"
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "Woman"
@@ -145,8 +145,8 @@
   talk-date: "2024-04-23"
   talk-date-time: "Tuesday, April 23, 2024, 11:00 am–12:00 pm"
   talk-location: "MIT LNS Conference Room (26-528)"
-  talk-title: Details to come
-  talk-abstract: 
+  talk-title: Many-Fold Learning
+  talk-abstract: "Machine learning (ML) has been profitably leveraged across a wide variety of problems in recent years. Empirical observations show that ML models from suitable functional spaces are capable of adequately efficient learning across a wide variety of disciplines. In this work (first in a planned sequence of three), we build the foundations for a generic perspective on ML model optimization and generalization dynamics. Specifically, we prove that under variants of gradient descent, “well-initialized” models solve sufficiently well-posed problems at \textit{a priori} or \textit{in situ} determinable rates. Notably, these results are obtained for a wider class of problems, loss functions, and models than the standard mean squared error and large width regime that is the focus of conventional Neural Tangent Kernel (NTK) analysis. The $\nu$ - Tangent Kernel ($\nu$TK), a functional analytic object reminiscent of the NTK, emerges naturally as a key object in our analysis and its properties function as the control for learning. We exemplify the power of our proposed perspective by showing that it applies to diverse practical problems solved using real ML models, such as classification tasks, data/regression fitting, differential equations, shape observable analysis, etc. We end with a small discussion of the numerical evidence, and the role $\nu$TKs may play in characterizing the search phase of optimization, which leads to the “well-initialized” models that are the crux of this work."
   slides-link: ""
   youtube-link: ""
   speaker-thrust: "foundational AI"
