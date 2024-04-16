@@ -4,8 +4,8 @@ title: "Rigor with Machine Learning from Field Theory to the Poincaré Conjectur
 authors: Sergei Gukov, James Halverson, Fabian Ruehle
 abstract: 'Machine learning techniques are increasingly powerful, leading to many breakthroughs in the natural sciences, but they are often stochastic, error-prone, and blackbox. How, then, should they be utilized in fields such as theoretical physics and pure mathematics that place a premium on rigor and understanding? In this Perspective we discuss techniques for obtaining rigor in the natural sciences with machine learning. Non-rigorous methods may lead to rigorous results via conjecture generation or verification by reinforcement learning. We survey applications of these techniques-for-rigor ranging from string theory to the smooth 4d Poincaré conjecture in low-dimensional topology. One can also imagine building direct bridges between machine learning theory and either mathematics or theoretical physics. As examples, we describe a new approach to field theory motivated by neural network theory, and a theory of Riemannian metric flows induced by neural network gradient descent, which encompasses Perelmans formulation of the Ricci flow that was utilized to resolve the 3d Poincaré conjecture.'
 arxiv: "2402.13321"
-journal:
-doi: 
+journal: Nature Reviews Physics 2024
+doi: https://doi.org/10.1038/s42254-024-00709-0
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2024-04-08
