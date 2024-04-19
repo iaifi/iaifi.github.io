@@ -1,9 +1,9 @@
 type: paper
 iaifi-thrust: T
-title: "Pairing-based graph neural network for simulating quantum materials"
-authors: Di Luo, David D. Dai, Liang Fu
-abstract: 'We develop a pairing-based graph neural network for simulating quantum many-body systems. Our architecture augments a BCS-type geminal wavefunction with a generalized pair amplitude parameterized by a graph neural network. Variational Monte Carlo with our neural network simultaneously provides an accurate, flexible, and scalable method for simulating many-electron systems. We apply this method to two-dimensional semiconductor electron-hole bilayers and obtain accurate results on a variety of interaction-induced phases, including the exciton Bose-Einstein condensate, electron-hole superconductor, and bilayer Wigner crystal. Our study demonstrates the potential of physically-motivated neural network wavefunctions for quantum materials simulations.'
-arxiv: "2311.02143"
+title: "T-Duality and Flavor Symmetries in Little String Theories"
+authors: Hamza Ahmed, Paul-Konstantin Oehlmann, Fabian Ruehle
+abstract: 'We explore the T-duality web of 6D Heterotic Little String Theories, focusing on flavor algebra reducing deformations. A careful analysis of the full flavor algebra, including Abelian factors, shows that the flavor rank is preserved under T-duality. This suggests a new T-duality invariant in addition to the Coulomb branch dimension and the two-group structure constants. We also engineer Little String Theories with non-simply laced flavor algebras, whose appearance we attribute to certain discrete 3-form fluxes in M-theory. Geometrically, these theories are engineered in F-theory with non-Kähler favorable K3 fibers. This geometric origin leads us to propose that freezing fluxes are preserved across T-duality. Along the way, we discuss various exotic models, including two inequivalent Spin(32)/ℤ2 models that are dual to the same E8×E8 theory, and a family of self-T-dual models.'
+arxiv: "2311.02168"
 journal: 
 doi: 
 nsf-par:
