@@ -15,12 +15,11 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 * **IAIFI Thematic Discussion: Generative Modeling**
      * **Friday, April 19, 2024, 2:00pm–3:00pm**
      * Led by IAIFI Fellows Carol Cuesta-Lazaro and Denis Boyda
-     * In this thematic discussion, we will feature three awesome speakers who will each deliver 7-minute lightning talks:
-     "Generating Generative Models from Physics" - Ziming Liu;
-     "Symphony: Improving Autoregressive Models for 3D Molecule Generation" - Ameya Daigavane;
-     "Peeking Through A Pinhole: Foundation Priors for Robot Learning" - Ge Yang.
-    
-    Following to the lightning talks, we will held a panel discussion on generative modeling and its role in physics. The discussion will focus on open questions pertaining to the application of generative modeling in physics and the incorporation of physical principles into generative modeling techniques. Attendees are encouraged to bring questions from their respective fields to enrich the discussion.
+     * In this thematic discussion, we will present three distinguished speakers who will deliver 7-minute lightning talks: 
+        * "Generating Generative Models from Physics" - Presented by Ziming Liu 
+        * "Symphony: Improving Autoregressive Models for 3D Molecule Generation" - Presented by Ameya Daigavane
+        * "Peeking Through A Pinhole: Foundation Priors for Robot Perception" - Presented by Ge Yang 
+    * After the lightning talks, a panel discussion on generative modeling will be conducted. The discussion will focus on open questions about applying generative modeling in physics and incorporating physical principles into generative modeling techniques. Attendees are encouraged to bring questions from their respective fields to enrich the discussion.
     
     * Location: MIT Kolker Room (26-414) and breakout rooms 
     
