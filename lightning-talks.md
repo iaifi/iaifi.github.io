@@ -12,23 +12,7 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 
 ## Upcoming Lightning Talks 
 
-* **IAIFI Thematic Discussion: Generative Modeling**
-     * **Friday, April 19, 2024, 2:00pm–3:00pm**
-     * Led by IAIFI Fellows Carol Cuesta-Lazaro and Denis Boyda
-     * In this thematic discussion, we will present three distinguished speakers who will deliver 7-minute lightning talks: 
-        * "Generating Generative Models from Physics" - Presented by Ziming Liu 
-        * "Symphony: Improving Autoregressive Models for 3D Molecule Generation" - Presented by Ameya Daigavane
-        * "Peeking Through A Pinhole: Foundation Priors for Robot Perception" - Presented by Ge Yang 
-    * After the lightning talks, a panel discussion on generative modeling will be conducted. The discussion will focus on open questions about applying generative modeling in physics and incorporating physical principles into generative modeling techniques. Attendees are encouraged to bring questions from their respective fields to enrich the discussion.
-    
-    * Location: MIT Kolker Room (26-414) and breakout rooms 
-    
-    * Zoom: https://mit.zoom.us/j/92183041364?pwd=N3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09 (Password: 247986)
-
-* **IAIFI Thematic Discussion: Uncertainty Quantification**
-     * **Friday, October 20, 2023, 2:00pm–3:00pm**
-     * Led by IAIFI Fellows Gaia Grosso and Jessie Micallef
-     * *The discussion will begin with a few flash presentations (~5 min each) by current IAIFI colleagues working on this subject. Gaia and Jessie will then lead a guided discussion to collect uncertainty quantification and robustness challenges across IAIFI and discuss pathways towards potential solutions and future work. Through this discussion, the aim is to bring together IAIFI researchers to learn from each other's experience, build connections and possibly research collaborations--you are encouraged to join the discussion no matter your research interests or background!*
+Lightning Talks will continue in Fall 2024.
 
 ## Past Lightning Talks
 [Access recordings of past lightning talks (for IAIFI members only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=share_link)
