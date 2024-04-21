@@ -58,9 +58,9 @@
   talk-date: "2024-04-26"
   talk-date-time: "Friday, April 26, 2024, 2:00–3:00 pm"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come"
-  talk-abstract: 
-  slides-link: 
+  talk-title: "A signal-agnostic ML approach to hypothesis testing at the LHC"
+  talk-abstract: "Signal-agnostic data exploration could unveil very subtle statistical deviations of collider data from the expected Standard Model of particle physics. The extreme size, rate and complexity of the datasets produced at the Large Hadron Collider (LHC) pose unique challenges to the design of anomaly detection tools that are powerful, efficient and, at the same time, interpretable and robust. In this talk, I will present New Physics Learning Machine (NPLM), a machine-learning based strategy to test experimental data for significant departures from the Standard Model, with no prior bias on the nature of the underlying process responsible for it. The main idea behind the method is to fit the likelihood-ratio test statistic directly to the data with flexible machine learning models. I will describe the solution adopted in NPLM to account for systematic uncertainties affecting the Standard Model, and I will conclude discussing ongoing research on the problems of optimal model selection and efficient computing on large size samples that are essential for the application of the method to LHC datasets."
+  slides-link:
   youtube-link: 
   speaker-thrust: "experimental physics"
   speaker-gender: "woman"

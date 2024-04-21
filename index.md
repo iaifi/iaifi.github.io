@@ -93,7 +93,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Our [IAIFI Colloquium series](events.html) will continue on April 12, 2024 with Jennifer Ngadiuba (Fermilab).*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
+***Our [IAIFI Colloquium series](events.html) will continue in Fall 2024.*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
 <style>
