@@ -9,7 +9,7 @@ title:
 
 The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI.
 
-**Pre-registration is now open.  The registration fee is $200.**
+**Registration is now open.  The registration fee is $200.**
 {:.info} 
 
 [Register for the Summer Workshop](https://buy.stripe.com/8wMdSy0Nh5iv9OMbIU){:.button.button--outline-primary.button--pill.button--lg}  
