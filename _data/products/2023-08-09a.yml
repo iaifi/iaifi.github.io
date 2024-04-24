@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "FLORAH: A generative model for halo assembly histories"
+authors: Tri Nguyen, Chirag Modi, L. Y. Aaron Yung, Rachel S. Somerville
+abstract: 'The mass assembly history (MAH) of dark matter halos plays a crucial role in shaping the formation and evolution of galaxies. MAHs are used extensively in semi-analytic and empirical models of galaxy formation, yet current analytic methods to generate them are inaccurate and unable to capture their relationship with the halo internal structure and large-scale environment. This paper introduces FLORAH, a machine-learning framework for generating assembly histories of ensembles of dark matter halos. We train FLORAH on the assembly histories from the GUREFT and VSMDPL N-body simulations and demonstrate its ability to recover key properties such as the time evolution of mass and concentration. We obtain similar results for the galaxy stellar mass versus halo mass relation and its residuals when we run the Santa Cruz semi-analytic model on FLORAH-generated assembly histories and halo formation histories extracted from an N-body simulation. We further show that FLORAH also reproduces the dependence of clustering on properties other than mass (assembly bias), which is not captured by other analytic methods. By combining multiple networks trained on a suite of simulations with different redshift ranges and mass resolutions, we are able to construct accurate main progenitor branches (MPBs) with a wide dynamic mass range from z=0 up to an ultra-high redshift z≈20, currently far beyond that of a single N-body simulation. FLORAH is the first step towards a machine learning-based framework for planting full merger trees; this will enable the exploration of different galaxy formation scenarios with great computational efficiency at unprecedented accuracy.'
+arxiv: "2308.05145"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 

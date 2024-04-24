@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Learning Galaxy Intrinsic Alignment Correlations"
+authors: Sneh Pandya, Yuanyuan Yang, Nicholas Van Alfen, Jonathan Blazek, Robin Walters
+abstract: "The intrinsic alignments (IA) of galaxies, regarded as a contaminant in weak lensing analyses, represents the correlation of galaxy shapes due to gravitational tidal interactions and galaxy formation processes. As such, understanding IA is paramount for accurate cosmological inferences from weak lensing surveys; however, one limitation to our understanding and mitigation of IA is expensive simulation-based modeling. In this work, we present a deep learning approach to emulate galaxy position-position (ξ), position-orientation (ω), and orientation-orientation (η) correlation function measurements and uncertainties from halo occupation distribution-based mock galaxy catalogs. We find strong Pearson correlation values with the model across all three correlation functions and further predict aleatoric uncertainties through a mean-variance estimation training procedure. ξ(r) predictions are generally accurate to ≤10%. Our model also successfully captures the underlying signal of the noisier correlations ω(r) and η(r), although with a lower average accuracy. We find that the model performance is inhibited by the stochasticity of the data, and will benefit from correlations averaged over multiple data realizations. Our code will be made open source upon journal publication."
+arxiv: "2404.13702"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 
