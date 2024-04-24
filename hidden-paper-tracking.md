@@ -109,7 +109,6 @@ aside:
 {% endfor %}
 {% endfor %}
 
-
 {% for category in site.data.alumni-category.categories  %}
 
 ## {{category.name}} {#{{category.name | replace: " ", "-"}}}
