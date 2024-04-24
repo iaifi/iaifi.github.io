@@ -85,6 +85,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Jobs
 
+***IAIFI Project Coordinator Job Opportunity.*** IAIFI is seeking a motivated Project Coordinator interested in helping to enable cutting edge science through strong organization and communication skills to help support IAIFI's activities. [Apply to this position](https://web.mit.edu/lns/jobs/Proj-Coordinator.html)
+{:.success}
+
 ***Applications are now closed for the 2024–2027 IAIFI Fellowship search.*** Visit our [Job Board](https://iaifi.org/job-board.html) for job opportunities available outside IAIFI. 
 {:.success}
 
