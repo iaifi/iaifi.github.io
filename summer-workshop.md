@@ -9,7 +9,7 @@ title:
 
 The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI.
 
-**Registration is now open.  The registration fee is $200.**
+**Registration is now open.  The registration fee is $200 and includes a Workshop dinner.**
 {:.info} 
 
 [Register for the Summer Workshop](https://buy.stripe.com/8wMdSy0Nh5iv9OMbIU){:.button.button--outline-primary.button--pill.button--lg}  
@@ -48,19 +48,43 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 Speakers will be announced as they are confirmed. 
 <div class="card-columns">
   <!--<div class="row">-->
-
+    
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-alessandro-lovato.jpg" alt="Alessandro Lovato" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-pulkit-agrawal.jpg" alt="Pulkit Agrawal" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.anl.gov/profile/alessandro-lovato">Alessandro Lovato</a>
+         <a href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Physicist, Physics Division, Argonne National Laboratory </em> <br>
+         <em> Assistant Professor, EECS, MIT </em> <br>
          </div>
          </div>
        </div>
-       
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-earl-bellinger.jpg" alt="Earl Bellinger" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://earlbellinger.com/">Earl Bellinger</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Assistant Professor, Department of Astronomy, Yale University </em> <br>
+         </div>
+         </div>
+       </div>
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-nima-dehmamy.jpg" alt="Nima Dehmamy" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="http://nimadehmamy.com//">Nima Dehmamy</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Research Staff Member, IBM Research </em> <br>
+         </div>
+         </div>
+       </div>
+   
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-auralee-edelen.jpg" alt="Auralee Edelen" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
@@ -72,19 +96,20 @@ Speakers will be announced as they are confirmed.
          </div>
          </div>
        </div>
+
        
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-earl-bellinger.jpg" alt="Earl Bellinger" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-sebastian-goldt.jpg" alt="Sebastian Goldt" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://earlbellinger.com/">Earl Bellinger</a>
+         <a href="https://sgoldt.wordpress.com/">Sebastian Goldt</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Assistant Professor, Department of Astronomy at Yale University </em> <br>
+         <em> Assistant Professor, International School of Advanced Studies (SISSA) </em> <br>
          </div>
          </div>
        </div>
-       
+
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-jim-halverson.jpg" alt="Jim Halverson" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
@@ -92,19 +117,19 @@ Speakers will be announced as they are confirmed.
          <a href="http://www.jimhalverson.com/">Jim Halverson</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> IAIFI Institute Board (Northeastern); Summer School & Workshop Chair </em> <br>
+         <em> Associate Professor, Physics, Northeastern </em> <br>
          </div>
          </div>
        </div>
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-kaze-wong.jpg" alt="Kaze Wong" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-verena-kain.jpg" alt="Verena Kain" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.kaze-wong.com//">Kaze Wong</a>
+         <a href="https://sparks.cern/index.php/kain-verena/">Verena Kain</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Research Fellow, Flatiron Institute </em> <br>
+         <em> Scientist, CERN </em> <br>
          </div>
          </div>
        </div>
@@ -120,7 +145,19 @@ Speakers will be announced as they are confirmed.
          </div>
          </div>
        </div>
-       
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-alessandro-lovato.jpg" alt="Alessandro Lovato" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.anl.gov/profile/alessandro-lovato">Alessandro Lovato</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Physicist, Argonne National Laboratory </em> <br>
+         </div>
+         </div>
+       </div>
+
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-mariel-pettee.jpg" alt="Mariel Pettee" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
@@ -128,7 +165,20 @@ Speakers will be announced as they are confirmed.
          <a href="https://marielpettee.com//">Mariel Pettee</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Physicist & Chamberlain Postdoctoral Research Fellow, Lawrence Berkeley National Lab </em> <br>
+         <em> Chamberlain Postdoctoral Research Fellow, Lawrence Berkeley National Lab </em> <br>
+         </div>
+         </div>
+       </div>
+
+       
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-tilman-plehn.jpg" alt="Tilman Plehn" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.thphys.uni-heidelberg.de/~plehn/">Tilman Plehn</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Professor, ITP - Heidelberg University </em> <br>
          </div>
          </div>
        </div>
@@ -140,31 +190,31 @@ Speakers will be announced as they are confirmed.
          <a href="https://maurice-weiler.gitlab.io/">Maurice Weiler</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> PhD - Machine Learning,  University of Amsterdam </em> <br>
+         <em> Deep Leraning Researcher </em> <br>
          </div>
          </div>
        </div>
-       
+
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-nima-dehmamy.jpg" alt="Nima Dehmamy" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-christoph-weniger.jpg" alt="Christoph Weniger" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="http://nimadehmamy.com//">Nima Dehmamy</a>
+         <a href="https://www.christophweniger.com">Christoph Weniger</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Research Assistant Professor, CSSI - Kellogg School of Management at Northwestern University </em> <br>
+         <em> Associate Professor, University of Amsterdam </em> <br>
          </div>
          </div>
        </div>
-       
+
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-pulkit-agrawal.jpg" alt="Pulkit Agrawal" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-kaze-wong.jpg" alt="Kaze Wong" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a>
+         <a href="https://www.simonsfoundation.org/people/kaze-wong/">Kaze Wong</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> IAIFI Communications Committee Chair </em> <br>
+         <em> Research Fellow, Flatiron Institute/CCA </em> <br>
          </div>
          </div>
        </div>
@@ -181,41 +231,6 @@ Speakers will be announced as they are confirmed.
          </div>
        </div>
        
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-sebastian-goldt.jpg" alt="Sebastian Goldt" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://sgoldt.wordpress.com/">Sebastian Goldt</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Research Group Leader, Theory of neural networks group at SISSA </em> <br>
-         </div>
-         </div>
-       </div>
-       
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-tilman-plehn.jpg" alt="Tilman Plehn" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.thphys.uni-heidelberg.de/~plehn/">Tilman Plehn</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Professor, ITP - Heidelberg University </em> <br>
-         </div>
-         </div>
-       </div>
-       
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-verena-kain.jpg" alt="Verena Kain" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://sparks.cern/index.php/kain-verena/">Verena Kain</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Accelerator Physicist, CERN </em> <br>
-         </div>
-         </div>
-       </div>
     <!--
     </div>
 <br> -->

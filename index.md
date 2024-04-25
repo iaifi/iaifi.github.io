@@ -96,6 +96,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
+***Registration is open for the IAIFI Summer Workshop.*** The IAIFI Summer Workshop will be held August 12–16, 2024 at MIT. [Learn more and register](https://iaifi.org/summer-workshop) by July 31, 2024.
+{:.success}
+
 ***Our [IAIFI Colloquium series](events.html) will continue in Fall 2024.*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
