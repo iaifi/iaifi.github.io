@@ -190,7 +190,7 @@ Speakers will be announced as they are confirmed.
          <a href="https://maurice-weiler.gitlab.io/">Maurice Weiler</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Deep Leraning Researcher </em> <br>
+         <em> Deep Learning Researcher, University of Amsterdam </em> <br>
          </div>
          </div>
        </div>
