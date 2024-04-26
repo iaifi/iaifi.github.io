@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Seeing Double: Calibrating Two Jets at Once"
+authors: Rikab Gambhir, Benjamin Nachman
+abstract: 'Jet energy calibration is an important aspect of many measurements and searches at the LHC. Currently, these calibrations are performed on a per-jet basis, i.e. agnostic to the properties of other jets in the same event. In this work, we propose taking advantage of the correlations induced by momentum conservation between jets in order to improve their jet energy calibration. By fitting the pT asymmetry of dijet events in simulation, while remaining agnostic to the pT spectra themselves, we are able to obtain correlation-improved maximum likelihood estimates. This approach is demonstrated with simulated jets from the CMS Detector, yielding a 3-5% relative improvement in the jet energy resolution, corresponding to a quadrature improvement of approximately 35\%.'
+arxiv: "2402.14067"
+journal:
+doi:
+nsf-par:
+code: 
+publication-date: 
