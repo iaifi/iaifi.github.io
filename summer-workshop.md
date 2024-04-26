@@ -182,6 +182,18 @@ Speakers will be announced as they are confirmed.
          </div>
          </div>
        </div>
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-matt-schwartz.jpg" alt="Matt Schwartz" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://scholar.harvard.edu/schwartz">Matt Schwartz</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Professor, Harvard </em> <br>
+         </div>
+         </div>
+       </div>
        
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-maurice-weiler.jpg" alt="Maurice Weiler" height="210rem" style="object-fit: cover;">
