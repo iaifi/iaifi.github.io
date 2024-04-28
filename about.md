@@ -58,7 +58,7 @@ aside:
     </div>
 
     <div class="cell cell--8">
-      IAIFI researchers are producing state-of-the-art results through interdisciplinary projects across theoretical physics, experimental physics, and foundational AI. 
+      IAIFI researchers are producing state-of-the-art results through interdisciplinary projects across <a href="/physics-theory-research.html">theoretical physics</a>, <a href="/physics-experiment-research.html">experimental physics</a>, and <a href="/ai-research.html">foundational AI</a>. 
       <ul>
       <li><a href="/research.html">Research Overview and Highlights</a></li>
       <li><a href="/papers.html">Papers from IAIFI researchers</a></li>
@@ -97,10 +97,12 @@ aside:
       <li><a href="/fellows.html">IAIFI Fellowship Program</a></li>
       <li><a href="/current-fellows.html">Current IAIFI Fellows</a></li>
       <li><a href="/phd-summer-school.html">IAIFI Summer School</a></li>
+      <li><a href="/ecec.html">Early Career, Equity, and Ethics</a></li>
       <li><a href="/journal-club.html">Journal Club</a></li>
+      <li><a href="/education.html">Education</a></li>
+      <li><a href="/career-support.html">Career Support</a></li>
       <li><a href="/job-board.html">Job Board</a></li>
       <li><a href="/funding-opportunities.html">Funding Opportunities</a></li>
-      <li><a href="/career-support.html">Career Support</a></li>
     </ul>
     </div>
 
@@ -131,14 +133,16 @@ aside:
     IAIFI is making Cambridge and the surrounding Boston area a 
 nexus point for collaborative efforts aimed at advancing both physics and AI.
       <ul>
-      <li><a href="/events.html">IAIFI Colloquia</a></li>
-      <li><a href="/seminars.html">IAIFI Seminars</a></li>
-      <li><a href="/summer-workshop">IAIFI Summer Workshop</a></li>
-      <li><a href="/ecec.html">Early Career, Equity, and Ethics</a></li>
       <li><a href="/outreach.html">Public Engagement</a></li>
       <li><a href="/partnerships.html">Physics/AI Network</a></li>
-      <li><a href="/committees.html">Committees</a></li>
+      <li><a href="/summer-workshop">IAIFI Summer Workshop</a></li>
+      <li><a href="/events.html">IAIFI Colloquia</a></li>
+      <li><a href="/seminars.html">IAIFI Seminars</a></li>
+      <li><a href="/lightning-talks.html">Lightning Talks</a></li>
+      <li><a href="/hackathon.html">Hackathons</a></li>
+      <li><a href="/generative-ai-workshop.html">Generative AI Symposium</a></li>
       <li><a href="/industry-partners.html">Industry Partners</a></li>
+      <li><a href="/committees.html">Committees</a></li>
     </ul>
     </div>
 
