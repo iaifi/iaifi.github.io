@@ -8,7 +8,7 @@ aside:
 View high energy physics IAIFI papers [on INSPIRE](https://inspirehep.net/institutions/1862936?ui-citation-summary=true)
 {:.info}
 
-[Theoretical Physics Papers](/papers-theory.html){:.button.button--outline-primary.button--pill.button--lg}      [Experimental Physics Papers](/papers-experiment.html){:.button.button--outline-primary.button--pill.button--lg}.     [Foundational AI](/papers-ai.html){:.button.button--outline-primary.button--pill.button--lg}
+[Theoretical Physics Papers](/papers-theory.html){:.button.button--outline-primary.button--pill.button--lg}      [Experimental Physics Papers](/papers-experiment.html){:.button.button--outline-primary.button--pill.button--lg}.     [Foundational AI Papers](/papers-ai.html){:.button.button--outline-primary.button--pill.button--lg}
 
 ### Pre-prints
 
