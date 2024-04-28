@@ -42,6 +42,8 @@ header:
         url: /alumni.html
       - title: Advisors
         url: /advisors.html
+      - title: Join
+        url: /join.html
 
   - title: Research
     subtitles:
@@ -56,7 +58,7 @@ header:
       - title: Papers
         url: /papers.html
 
-  - title: Engagement
+  - title: Talent
     subtitles:
       - title: Public Engagement
         url: /outreach.html
@@ -70,6 +72,10 @@ header:
         url: /partnerships.html
       - title: Education
         url: /education.html
+
+  - title: Community
+    subtitles:
+      - title: 
 
   - title: Join
     subtitles:
