@@ -8,6 +8,10 @@ header:
         url: /code-of-conduct.html
       - title: News
         url: /iaifi-news.html
+      - title: FAQ
+        url: /faq.html
+      - title: For Members
+        url: /member-resources.html
 
   - title: Events
     subtitles:
@@ -42,6 +46,10 @@ header:
         url: /alumni.html
       - title: Advisors
         url: /advisors.html
+      - title: Join
+        url: /join.html
+      - title: Committees
+        url: /committees.html
 
   - title: Research
     subtitles:
@@ -56,43 +64,42 @@ header:
       - title: Papers
         url: /papers.html
 
-  - title: Engagement
-    subtitles:
-      - title: Public Engagement
-        url: /outreach.html
-      - title: Early Career, Equity, Ethics
-        url: /ecec.html
-      - title: Summer School
-        url: /phd-summer-school.html
-      - title: Summer Workshop
-        url: /summer-workshop.html
-      - title: Physics/AI Network
-        url: /partnerships.html
-      - title: Education
-        url: /education.html
-
-  - title: Join
+  - title: Talent
     subtitles:
       - title: IAIFI Fellowship
         url: /fellows.html
-      - title: Senior Researchers
-        url: /senior-researchers.html
-      - title: Junior Researchers
-        url: /junior-researchers.html
-      - title: Industry Partners
-        url: /industry-partners.html
-
-  - title: Resources
-    subtitles:
-      - title: FAQ
-        url: /faq.html
+      - title: Summer School
+        url: /phd-summer-school.html
+      - title: Early Career, Equity, Ethics
+        url: /ecec.html
+      - title: Journal Club
+        url: /journal-club.html
+      - title: Education
+        url: /education.html
+      - title: Career Support
+        url: /career-support.html
       - title: Job Board
         url: /job-board.html
       - title: Funding Opportunities
         url: /funding-opportunities.html
-      - title: For Members
-        url: /member-resources.html
-      - title: Career Support
-        url: /career-support.html
-      - title: Committees
-        url: /committees.html
+
+  - title: Community
+    subtitles:
+      - title: Public Engagement
+        url: /outreach.html
+      - title: Physics/AI Network
+        url: /partnerships.html
+      - title: Summer Workshop
+        url: /summer-workshop.html
+      - title: Colloquia
+        url: /events.html
+      - title: Seminars
+        url: /seminars.html
+      - title: Lightning Talks
+        url: /lightning-talks.html
+      - title: Hackathons
+        url: /hackathon.html
+      - title: Generative AI Symposium
+        url: /generative-ai-workshop.html
+      - title: Industry Partners
+        url: /industry-partners.html

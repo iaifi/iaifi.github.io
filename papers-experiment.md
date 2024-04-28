@@ -1,14 +1,11 @@
 ---
 layout: article
-title: IAIFI Papers
+title: IAIFI Experimental Physics Papers
 aside:
   toc: true
 ---
 
-View high energy physics IAIFI papers [on INSPIRE](https://inspirehep.net/institutions/1862936?ui-citation-summary=true)
-{:.info}
-
-[Theoretical Physics Papers](/papers-theory.html){:.button.button--outline-primary.button--pill.button--lg}      [Experimental Physics Papers](/papers-experiment.html){:.button.button--outline-primary.button--pill.button--lg}.     [Foundational AI Papers](/papers-ai.html){:.button.button--outline-primary.button--pill.button--lg}
+## Experimental Physics
 
 ### Pre-prints
 
@@ -16,6 +13,7 @@ View high energy physics IAIFI papers [on INSPIRE](https://inspirehep.net/instit
 {% for product in products %}
 {% assign paper = product %}
 {% if paper.type == "paper" %}
+{% if paper.iaifi-thrust == "E" %}
 {% if paper.publication-date == blank %}
 ***{{paper.title}}*** <br>
 {{paper.authors}} <br>
@@ -28,6 +26,7 @@ View high energy physics IAIFI papers [on INSPIRE](https://inspirehep.net/instit
 </div>
 {% endif %}
 {% endif %}
+{% endif %}
 {% endfor %}
 
 ### Published
@@ -36,6 +35,7 @@ View high energy physics IAIFI papers [on INSPIRE](https://inspirehep.net/instit
 {% for product in products %}
 {% assign paper = product %}
 {% if paper.type == "paper" %}
+{% if paper.iaifi-thrust == "E" %}
 {% if paper.publication-date %}
 ***{{paper.title}}*** <br>
 {{paper.authors}} <br>
@@ -48,4 +48,6 @@ View high energy physics IAIFI papers [on INSPIRE](https://inspirehep.net/instit
 </div>
 {% endif %}
 {% endif %}
+{% endif %}
 {% endfor %}
+
