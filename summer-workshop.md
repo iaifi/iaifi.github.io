@@ -74,6 +74,18 @@ Speakers will be announced as they are confirmed.
        </div>
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-tianji-cai.jpg" alt="Earl Bellinger" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://profiles.stanford.edu/tianji-cai">Tianji Cai</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Research Associate, SLAC National Accelerator Laboratory </em> <br>
+         </div>
+         </div>
+       </div>
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-nima-dehmamy.jpg" alt="Nima Dehmamy" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -97,6 +109,17 @@ Speakers will be announced as they are confirmed.
          </div>
        </div>
 
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-dirk-englund.jpg" alt="Dirk Englund" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.eecs.mit.edu/people/dirk-r-englund/">Dirk Englund</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Associate Professor, MIT </em> <br>
+         </div>
+         </div>
+       </div>
        
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-sebastian-goldt.jpg" alt="Sebastian Goldt" height="210rem" style="object-fit: cover;">
