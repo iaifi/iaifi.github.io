@@ -6,6 +6,6 @@ abstract: "We present a machine learning algorithm that discovers conservation l
 arxiv: "2203.12610"
 journal: Physical Review E, 2022, Volume 106, Article 045307
 doi: https://doi.org/10.1103/PhysRevE.106.045307
-nsf-par:
+nsf-par: 10391684
 code: 
 publication-date: 2022-10-21

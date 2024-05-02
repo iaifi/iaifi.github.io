@@ -6,6 +6,6 @@ abstract: Current model-based reinforcement learning methods struggle when opera
 arxiv: 2106.15612
 journal: Proceedings of the 38th International Conference on Machine Learning, 2021, PMLR 139
 doi: http://proceedings.mlr.press/v139/fu21b/fu21b.pdf
-nsf-par:
+nsf-par: 10280772
 code: https://xiangfu.co/tia
 publication-date: 2021-06-30

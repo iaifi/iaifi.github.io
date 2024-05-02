@@ -6,6 +6,6 @@ abstract: Anomaly detection with convolutional autoencoders is a popular method 
 arxiv: "2203.01343"
 journal: Physical Review D, 2022, Volume 106, Article 035014
 doi: https://doi.org/10.1103/PhysRevD.106.035014
-nsf-par:
+nsf-par: 10376762
 code: 
 publication-date: 2022-08-12S

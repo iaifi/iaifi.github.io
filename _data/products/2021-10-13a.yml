@@ -6,6 +6,6 @@ abstract: Anomaly detection relies on designing a score to determine whether a p
 arxiv: "2110.06948"
 journal: Journal of High Energy Physics, 2022, Article 66
 doi: https://doi.org/10.1007/JHEP03%282022%29066
-nsf-par:
+nsf-par: 10323036
 code: 
 publication-date: 2022-03-09
