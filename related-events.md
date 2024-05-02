@@ -23,6 +23,7 @@ Other organizations that hold public events relevant to the IAIFI community:
 ## Upcoming Related Workshops
 
 Upcoming workshops involving members of the IAIFI community:
+  * [GRaM: Geometry-grounded Representation Learning and Generative Modeling Workshop at ICML 2024 in Vienna, Austria, July 21-27, 2024](https://gram-workshop.github.io/index.html)
   * [AI for Robust Engineering & Science Workshop (AIRES4), April 18–20, 2023](https://aires.ornl.gov)
   * [Responsible AI in the Natural Sciences Mini-Workshop, May 8, 2023](https://sites.google.com/view/rainscmu)
   * [At the interface of Physics, Mathematics and Artificial Intelligence Workshop, May 29–June 2, 2023](https://agenda.infn.it/event/33851/)

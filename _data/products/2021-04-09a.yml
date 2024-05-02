@@ -6,6 +6,6 @@ abstract: "The identification and description of point sources is one of the old
 arxiv: 2104.04529
 journal: The Astrophysical Journal, 2022, Volume 260, Number 2
 doi: https://doi.org/10.3847/1538-4365/ac5cb7
-nsf-par:
+nsf-par: 10343316
 code: https://github.com/ghcollin/cpg_likelihood
 publication-date: 2022-06-17

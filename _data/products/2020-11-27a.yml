@@ -6,6 +6,6 @@ abstract: "We introduce a bottom-up model for simultaneously finding many bounda
 arxiv: 2011.13866
 journal: IEEE/CVF International Conference on Computer Vision, 2021
 doi: https://doi.org/10.1109/ICCV48922.2021.00679
-nsf-par:
+nsf-par: 10488616
 code:
 publication-date: 2021-10-17

@@ -6,6 +6,6 @@ abstract: Neural Radiance Fields (NeRF) is a popular view synthesis technique th
 arxiv: 2112.03907
 journal: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition
 doi: https://doi.org/10.1109/CVPR52688.2022.00541
-nsf-par:
+nsf-par: 10488619
 code: 
 publication-date: 2022-06-24

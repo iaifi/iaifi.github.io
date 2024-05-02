@@ -147,7 +147,7 @@
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: A Survey of Machine Learning Methods for Anomaly Detection
   talk-abstract: Machine learning-based anomaly detection (AD) methods are promising tools for extending the coverage of searches for physics beyond the Standard Model (BSM). I will first talk about a class of AD methods for "resonant anomaly detection", where the BSM is assumed to be localized in at least one known variable. There have been many methods proposed to  identify such a BSM signal that make use of simulated or detected data in different ways, so I will discuss their complementarity -- even if their maximum performance is the same, it may be beneficial more generally to combine approaches. I will then go over a class of AD methods for "nonresonant" detection, where the BSM may arise from off-shell effects or final states with significant missing energy. Using  a semi-visible jet signature as a benchmark signal model, I will show that these methods  can automatically identify anomalous events, elevating rare nonresonant signal models to the detection threshold.
-  slides-link:
+  slides-link: "https://drive.google.com/file/d/1Lbm2ka7rTzkvQ8JJBPqwIo3R-H1qA_f2/view?usp=drive_link"
   youtube-link: ""
   speaker-thrust: ""
   speaker-gender: "Woman"

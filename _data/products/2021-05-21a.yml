@@ -6,6 +6,6 @@ abstract: "Sparse Bayesian learning (SBL) is a powerful framework for tackling t
 arxiv: 2105.10439
 journal: IEEE Transactions on Signal Processing, volume 70
 doi: https://doi.org/10.1109/TSP.2022.3186185
-nsf-par:
+nsf-par: 10488636
 code: 
 publication-date: 2022-06-27
