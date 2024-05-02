@@ -6,6 +6,6 @@ abstract: "Sampling from known probability distributions is a ubiquitous task in
 arxiv: "2309.01156"
 journal: Nature Reviews Physics, 2023, Volume 5
 doi: https://doi.org/10.1038/s42254-023-00616-w
-nsf-par:
+nsf-par: 10488626
 code: 
 publication-date: 2023-08-04

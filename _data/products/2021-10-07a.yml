@@ -6,6 +6,6 @@ abstract: Restricted Boltzmann machines (RBMs) have proven to be a powerful tool
 arxiv: "2110.03676"
 journal: Physical Review B, 2022, Volume 105, Article 125124
 doi: https://doi.org/10.1103/PhysRevB.105.125124
-nsf-par:
+nsf-par: 10323038
 code: 
 publication-date: 2022-03-21

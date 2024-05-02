@@ -6,6 +6,6 @@ abstract: We describe the outcome of a data challenge conducted as part of the D
 arxiv: 2105.14027
 journal: SciPost Physics, 2022, Volume 12, Issue 1, Page 43
 doi: https://doi.org/10.21468/SciPostPhys.12.1.043
-nsf-par:
+nsf-par: 10323045
 code: https://github.com/bostdiek/DarkMachines-UnsupervisedChallenge
 publication-date: 2022-01-28

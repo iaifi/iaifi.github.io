@@ -6,6 +6,6 @@ abstract: "At the heart of both lossy compression and clustering is a trade-off 
 arxiv: "2204.02489"
 journal: Entropy, 2022, 24(6)
 doi: https://doi.org/10.3390/e24060771
-nsf-par:
+nsf-par: 10343307
 code:
 publication-date: 2022-05-30

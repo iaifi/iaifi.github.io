@@ -6,6 +6,6 @@ abstract: "The Lipschitz constant of the map between the input and output space 
 arxiv: "2112.00038"
 journal: Fourth Workshop on Machine Learning and the Physical Sciences (NeurIPS 2021) Proceedings, 
 doi: https://doi.org/10.1088/2632-2153/aced80
-nsf-par:
-code: 
+nsf-par: 10329738
+code:
 publication-date: 2021-12-13
