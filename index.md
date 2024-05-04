@@ -133,6 +133,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
 
+***IAIFI Senior Investigator Fabian Ruehle and incoming Fellow Thomas Harvey featured in Quanta Magazine***. Read about their work on how ["AI Starts to Sift Through String Theory’s Near-Endless Possibilities"](https://www.quantamagazine.org/ai-starts-to-sift-through-string-theorys-near-endless-possibilities-20240423/). *April 23, 2024*
+{:.info}
+
   ***IAIFI Director Jesse Thaler and IAIFI Investigators Phiala Shanahan and Jim Halverson featured in Symmetry Magazine***. Read ["Machine learning and theory"](https://www.symmetrymagazine.org/article/machine-learning-and-theory). *April 30, 2024*
 {:.info}
  
