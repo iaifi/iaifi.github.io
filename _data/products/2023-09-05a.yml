@@ -6,6 +6,6 @@ abstract: "State-of-the-art (SOTA) semi-supervised learning (SSL) methods have b
 arxiv:
 journal: Transactions on Machine Learning Research 2023, Submission number 1013
 doi: https://openreview.net/attachment?id=PRrKOaDQtQ&name=supplementary_material
-nsf-par:
+nsf-par: 10505512
 code: https://github.com/clott3/BaM-SSL
 publication-date: 2023-09-05

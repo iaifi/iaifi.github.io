@@ -6,6 +6,6 @@ abstract: "Symbolic regression is a machine learning technique that can learn th
 arxiv: "2207.08945"
 journal: IEEE Journals, 2023, PubMed ID 37721885
 doi: 10.1109/TNNLS.2023.3297978
-nsf-par:
+nsf-par: 10505428
 code: 
 publication-date: 2023-09-18
