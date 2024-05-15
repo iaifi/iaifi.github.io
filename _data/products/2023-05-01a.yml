@@ -4,8 +4,8 @@ title: "Pileup and Infrared Radiation Annihilation (PIRANHA): A Paradigm for Con
 authors: Samuel Alipour-Fard, Patrick T. Komiske, Eric M. Metodiev, Jesse Thaler
 abstract: 'Jet grooming is an important strategy for analyzing relativistic particle collisions in the presence of contaminating radiation. Most jet grooming techniques introduce hard cutoffs to remove soft radiation, leading to discontinuous behavior and associated experimental and theoretical challenges. In this paper, we introduce Pileup and Infrared Radiation Annihilation (PIRANHA), a paradigm for continuous jet grooming that overcomes the discontinuity and infrared sensitivity of hard-cutoff grooming procedures. We motivate PIRANHA from the perspective of optimal transport and the Energy Movers Distance and review Apollonius Subtraction and Iterated Voronoi Subtraction as examples of PIRANHA-style grooming. We then introduce a new tree-based implementation of PIRANHA, Recursive Subtraction, with reduced computational costs. Finally, we demonstrate the performance of Recursive Subtraction in mitigating sensitivity to soft distortions from hadronization and detector effects, and additive contamination from pileup and the underlying event.'
 arxiv: "2305.00989"
-journal:
-doi: 
-nsf-par:
-code: 
-publication-date: 
+journal: Journal of High Energy Physics 2023, Volume 2023, Article number 157
+doi: https://doi.org/10.1007/JHEP09%282023%29157
+nsf-par: 10505458
+code:
+publication-date: 09-22-2023

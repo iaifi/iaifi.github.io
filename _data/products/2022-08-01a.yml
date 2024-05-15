@@ -6,6 +6,6 @@ abstract: "We apply the clustering algorithm HDBSCAN on the Gaia early third dat
 arxiv: "2208.01056"
 journal: Royal Astronomical Society, 2023, Volume 521, Issue 2
 doi: https://doi.org/10.1093/mnras/stad706
-nsf-par:
+nsf-par: 10505460
 code: 
 publication-date: 2023-03-09

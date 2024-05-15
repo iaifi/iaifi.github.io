@@ -57,6 +57,7 @@ Lecturer: [Carol Cuesta-Lazaro](https://iaifi.org/current-fellows.html#carolina-
 
 Lecturer: [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan), Assistant Professor of Applied Mathematics & Kempner Institute Associate Faculty, Harvard
 
+<img class="image" src="images/photo-gilles-loupe.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Generative Models
 
 Lecturer: [Gilles Loupe](https://glouppe.github.io), Professor, University of Liège 

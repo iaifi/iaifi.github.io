@@ -1,11 +1,11 @@
 type: paper
 iaifi-thrust: T
-title: "Mehmet Demirtas, Manki Kim, Liam McAllister, Jakob Moritz, Andres Rios-Tascon"
-authors: David Shih, Matthew R. Buckley, Lina Necib
+title: "Computational Mirror Symmetry"
+authors: Mehmet Demirtas, Manki Kim, Liam McAllister, Jakob Moritz, Andres Rios-Tascon
 abstract: 'We present an efficient algorithm for computing the prepotential in compactifications of type II string theory on mirror pairs of Calabi-Yau threefolds in toric varieties. Applying this method, we exhibit the first systematic computation of genus-zero Gopakumar-Vafa invariants in compact threefolds with many moduli, including examples with up to 491 vector multiplets.'
 arxiv: "2303.00757"
 journal: Journal of High Energy Physics, 2024, Volume 2024, Article number 184
 doi: http://dx.doi.org/10.1007/JHEP01(2024)184
-nsf-par:
+nsf-par: 10505411
 code: 
 publication-date: 2024-01-30
