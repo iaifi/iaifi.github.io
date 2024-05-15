@@ -134,12 +134,6 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 --->
 
 
-***IAIFI Fellow Jessie Micallef interviewed in Symmetry Magazine***. Read about their work on how ["Machine Learning and Experiment"](https://www.symmetrymagazine.org/article/machine-learning-and-experiment). *April 25, 2024*
-{:.info}
-
-***IAIFI Senior Investigator Fabian Ruehle and incoming Fellow Thomas Harvey featured in Quanta Magazine***. Read about their work on how ["AI Starts to Sift Through String Theory’s Near-Endless Possibilities"](https://www.quantamagazine.org/ai-starts-to-sift-through-string-theorys-near-endless-possibilities-20240423/). *April 23, 2024*
-{:.info}
-
   ***IAIFI Director Jesse Thaler and IAIFI Investigators Phiala Shanahan and Jim Halverson featured in Symmetry Magazine***. Read ["Machine learning and theory"](https://www.symmetrymagazine.org/article/machine-learning-and-theory). *April 30, 2024*
 {:.info}
  
@@ -147,6 +141,12 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 {:.info}
 
  ***IAIFI Investigator Tracy Slatyer awarded 2024 Guggenheim Fellowship***. Read ["Three from MIT awarded 2024 Guggenheim Fellowships"](https://physics.mit.edu/news/tracy-slatyer-awarded-2024-guggenheim-fellowship-2/). *April 26, 2024*
+{:.info}
+
+***IAIFI Fellow Jessie Micallef interviewed in Symmetry Magazine***. Read about their work on ["Machine Learning and Experiment"](https://www.symmetrymagazine.org/article/machine-learning-and-experiment). *April 25, 2024*
+{:.info}
+
+***IAIFI Senior Investigator Fabian Ruehle and incoming Fellow Thomas Harvey featured in Quanta Magazine***. Read about their work on how ["AI Starts to Sift Through String Theory’s Near-Endless Possibilities"](https://www.quantamagazine.org/ai-starts-to-sift-through-string-theorys-near-endless-possibilities-20240423/). *April 23, 2024*
 {:.info}
 
  ***IAIFI Affiliate Dan Roberts writes about about using physics to understand AI risk***. Read ["Black Holes and the Intelligence Explosion"](https://www.sequoiacap.com/article/black-holes-perspective/). *December 12, 2023*
