@@ -40,7 +40,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 
 # Early Career and Equity 
 * Status: Will rotate membership in January 2024
-* [View the ECEC expectations](/images/ecec-expectations.pdf)
+* [View the ECEC expectations](https://docs.google.com/document/d/1wmjxpPnLZgVaDj4W_JUr7mtnSFZ9tlfv29GqlE2E1Rg/edit?usp=sharing)
 * Time Commitment: One-hour meeting per month and occasional email discussion
 * Current ECEC: Edo Berger (Chair), Tess Smidt, Carolina Cuesta-Lazaro, Jessie Micallef, Elyssa Hofgard, Zeviel Imani, Leo Yang, Marisa LaFleur
 * Past ECEC: Tracy Slatyer, Siddharth Mishra-Sharma, Mehmet Demirtas, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Sean Benevedes, Rashmish Mishra
