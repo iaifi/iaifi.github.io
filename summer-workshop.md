@@ -313,10 +313,22 @@ Speakers will be announced as they are confirmed.
 We have secured discounted rates at the following hotels:
 * <b>Royal Sonesta Boston</b>, 40 Edwin H Land Blvd, Cambridge, MA 02142. 
     
-    Nightly rate from $224 (intended for 1-2 people) [Book now](https://book.passkey.com/go/MITAugust2024)
+    $224 nightly rate (1-2 people per room) 
+
+    [Book now](https://book.passkey.com/go/MITAugust2024)
+
 * <b>Hampton Inn by Hilton Boston/Cambridge</b>, 191 Msgr O'Brien Hwy, Cambridge, MA 02141. 
     
-    Nightly rate from $279 (intended for sharing rooms - up to 4 people) [Book now](https://www.hilton.com/en/attend-my-event/iaifisummermitprogram/)
+    $279 nightly rate (up to 4 people per room) 
+
+    [Book now](https://www.hilton.com/en/attend-my-event/iaifisummermitprogram/)
+
+Workshop attendees are also welcome to book dorms for a discounted rate at Boston University: 
+* <b>10 Buick Street, Boston</b>
+
+    $97.50 nightly rate (1 person per room, shared bathroom with 1 other person) 
+
+    [Book now](https://mit-iaifi-housing-2024.eventbrite.com/)
 
 ## FAQ 
 * *Who can attend the Summer Workshop?* Any researcher working at or interested in the intersection of physics and AI is encouraged to attend the Summer Workshop. 
