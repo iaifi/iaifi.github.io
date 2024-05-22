@@ -35,7 +35,7 @@ We have extended the deadline to [submit a poster](https://t.co/AmNkXRoWeg).  Su
 {:.success}
 -->
 
-[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](/past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
+[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](/past-workshops.html){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}
 
 ## About
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field.
@@ -310,7 +310,25 @@ Speakers will be announced as they are confirmed.
 <br>
 
 ## Accommodations
-Coming soon. 
+We have secured discounted rates at the following hotels:
+* <b>Royal Sonesta Boston</b>, 40 Edwin H Land Blvd, Cambridge, MA 02142. 
+    
+    $224 nightly rate (1-2 people per room) 
+
+    [Book now](https://book.passkey.com/go/MITAugust2024)
+
+* <b>Hampton Inn by Hilton Boston/Cambridge</b>, 191 Msgr O'Brien Hwy, Cambridge, MA 02141. 
+    
+    $279 nightly rate (up to 4 people per room) 
+
+    [Book now](https://www.hilton.com/en/attend-my-event/iaifisummermitprogram/)
+
+Workshop attendees are also welcome to book dorms for a discounted rate at Boston University: 
+* <b>10 Buick Street, Boston</b>
+
+    $97.50 nightly rate (1 person per room, shared bathroom with 1 other person) 
+
+    [Book now](https://mit-iaifi-housing-2024.eventbrite.com/)
 
 ## FAQ 
 * *Who can attend the Summer Workshop?* Any researcher working at or interested in the intersection of physics and AI is encouraged to attend the Summer Workshop. 
