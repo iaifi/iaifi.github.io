@@ -298,7 +298,9 @@ Speakers will be announced as they are confirmed.
 <br>
 
 ## Accommodations
-Coming soon. 
+[Royal Sonesta Boston](https://book.passkey.com/go/MITAugust2024) (intended for 1-2 people), 40 Edwin H Land Blvd, Cambridge, MA 02142
+
+[Hampton Inn by Hilton Boston/Cambridge](https://www.hilton.com/en/attend-my-event/iaifisummermitprogram/) (intended for sharing rooms - up to 4 people), 191 Monsignor O'Brien Highway, Cambridge, MA 02141 
 
 ## FAQ 
 * *Who can attend the Summer Workshop?* Any researcher working at or interested in the intersection of physics and AI is encouraged to attend the Summer Workshop. 
