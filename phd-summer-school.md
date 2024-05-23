@@ -30,9 +30,8 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 [Apply to IAIFI Summer School](https://app.smartsheet.com/b/form/4d72caf22cd74ce7b771a91ef25dde22){:.button.button--outline-primary.button--pill.button--sm}
 
 ## Accommodations
-Students for the Summer School will have the option to reserve dorm rooms (at their own expense) at Boston University. Instructions for this will be provided to students upon acceptance.
+Students for the Summer School have the option to reserve dorm rooms (at their own expense) at Boston University. Instructions for this will be provided to students upon acceptance.
 
-[Boston University Housing](https://www.bu.edu/housing/undergrad-housing/stuvi/10buick/), 10 Buick St, Boston, MA 02215
 
 ### Costs
 * There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding. 
