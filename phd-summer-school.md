@@ -25,9 +25,8 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ## Apply
 
-**Applications are due March 1, 2024.** You you will be notified of your registration status by March 8, 2024.
+**Applications are closed for the 2024 IAIFI Summer School.
 
-[Apply to IAIFI Summer School](https://app.smartsheet.com/b/form/4d72caf22cd74ce7b771a91ef25dde22){:.button.button--outline-primary.button--pill.button--sm}
 
 ## Accommodations
 Students for the Summer School have the option to reserve dorm rooms (at their own expense) at Boston University. Instructions for this will be provided to students upon acceptance.
@@ -66,10 +65,171 @@ Lecturer: [Gilles Loupe](https://glouppe.github.io), Professor, University of Li
 Lecturer: TBA 
 
 ## Tutorial Leads
-Tutorial Leads will be announced early in 2024.
+
+Additional tutorial leads will be announced. 
+
+<img class="image" src="images/small-photo-jessie-micallef.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
+### Topic: Uncertainty Quantification/Simulation-Based Inference
+
+Tutorial Lead: [Jessie Micallef](https://github.com/jessimic), IAIFI Fellow
+
+<img class="image" src="images/small-photo-alex-atanasov.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
+### Topic: Physics-Motivated Optimization
+
+Tutorial Lead: [Alex Atanasov](https://abatanasov.com), PhD Student, Harvard
+
+<img class="image" src="images/small-photo-thomas-harvey.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
+### Topic: Reinforcement Learning
+
+Tutorial Lead: [Thomas Harvey](https://inspirehep.net/authors/1851078?ui-citation-summary=true), Incoming IAIFI Fellow
 
 ## Agenda
-The agenda will be shared by March 2024.
+This agenda is subject to change. 
+
+### Monday, August 5, 2024
+
+**9:00–9:30 am ET**
+
+Welcome/Introduction
+
+**9:30 am–12:00 pm ET**
+
+Lecture 1: Generative Modeling, Gilles Loupe 
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details>
+
+**12:00–1:00 pm ET**
+
+Lunch 
+
+**1:00–3:30 pm ET**
+
+Tutorial 1: Generative Modeling
+
+**3:30–4:30 pm ET**
+
+Workshop TBA (optional)
+
+**5:00–7:00 pm ET**
+
+Welcome Dinner
+
+
+### Tuesday, August 8, 2023
+
+**9:00–9:30 am ET**
+
+Lightning Talks
+
+**9:30 am–12:00 pm ET**
+
+Lecture 2: Geometric Machine Learning, Melanie Weber
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come</em>
+</details> 
+
+**12:00–1:00 pm ET**
+
+Lunch 
+
+**1:00–3:30 pm ET**
+
+Tutorial 2: Geometric Machine Learning
+
+**3:30–4:30 pm ET**
+
+Breakout Sessions with Days 1 and 2 Lecturers and Tutorial Leads (Optional)
+
+### Wednesday, August 9, 2023
+
+**9:00–9:30 am ET**
+
+Lightning Talks
+
+**9:30 am–12:00 pm ET**
+
+Lecture 3: Physics-motivated optimization, Cengiz Pehlevan
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come.</em>
+</details>
+
+**12:00–1:00 pm ET**
+
+Lunch 
+
+**1:00–3:30 pm ET**
+
+Tutorial 3: Physics-motivated optimization, Alex Atanasov
+
+**3:30–4:30 pm ET**
+
+Career Panel, Panelists TBA (Optional)
+
+### Thursday, August 10, 2023
+
+**9:00–9:30 am ET**
+
+Lightning Talks
+
+**9:30 am–12:00 pm ET**
+
+Lecture 4: Uncertainty Quantification, Carol Cuesta-Lazaro
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come.</em>
+</details> 
+
+**12:00–1:00 pm ET**
+
+Lunch 
+
+**1:00–3:30 pm ET**
+
+Tutorial 4: Uncertainty Quantification, Jessie Micallef
+
+**3:30–4:30 pm ET**
+
+Breakout Sessions with Days 3, 4, and 5 Lecturers and Tutorial Leads (Optional)
+
+**5:00–9:00 pm ET**
+
+Social Event with IAIFI members
+
+### Friday, August 11, 2023
+
+**9:00–9:30 am ET**
+
+Lightning Talks
+
+**9:30 am–12:00 pm ET**
+
+Lecture 5: Reinforcement Learning, TBD
+
+<details>
+<summary>Abstract</summary>    
+<em>Abstract to come.</em>
+</details>
+
+**12:00–1:00 pm ET**
+
+Lunch 
+
+**1:00–3:30 pm ET**
+
+Tutorial 5: Reinforcement Learning, Thomas Harvey
+
+**3:30–4:00 pm ET**
+
+Closing
+
 
 ## Financial Supporters
 To be announced. If you are interested in sponsoring the Summer School, please contact [iaifi@mit.edu](mailto:iaifi@mit.edu). 
@@ -94,6 +254,7 @@ To be announced. If you are interested in sponsoring the Summer School, please c
 * *If I come to the Summer School, can I also attend the Workshop?* Yes! We encourage you to stay for the [IAIFI Summer Workshop](/summer-workshop) and you can stay in the dorms for both events if you choose (at your own expense). Information about the Summer Workshop will be provided in early 2024. 
 * *Will the recordings of the lectures be available?* We expect to share recordings of the lectures after the Summer School.
 * *Will there be an option for virtual attendance?* Yes, there is an option for virtual attendance.
+* *How can I book a dorm for the IAIFI Summer SchooL?* Please email [iaifi-summer@mit.edu](iaifi-summer@mit.edu) to get the link for booking dorms at Boston University. 
 
 [Submit a question or comment](https://app.smartsheet.com/b/form/76c1d070d19d4688b65962c4ed190478){:.button.button--outline-primary.button--pill.button--sm}
 
