@@ -1,0 +1,2488 @@
+- project-lead: Alexander Gagliano
+  project-title: An Open-Source Conversational Agent for Supernova Science
+  project-label: A-3
+  other-iaifi-leads: ''
+  other-iaifi-members: ''
+  other-collaborators: Ashley Villar (CfA)
+  project-code: 'https://github.com/alexandergagliano/theSpeakYSE'
+  analytic-empirical-scale: '2'
+  innovation-application-scale: '5'
+  project-tags: generative models
+  project-summary: >-
+    An ongoing problem in time-domain astrophysics lies the question of
+    observing resource allocation. Starting next year, we will only be able to
+    obtain spectroscopic confirmation of ~1% of transients that we discover
+    photometrically, and we must very rapidly discover which ones merit study.
+    To interpret nightly data given science-specific interests, we are
+    addressing this problem by fine-tuning an LLM to retrieve data relevant to
+    specific science questions, a significant step forward in data exploration.
+  figure-caption: >-
+    The GUI for the speakYSE, the current iteration of the large language model
+    chat bot designed to build SQL queries to retrieve data taken by the Young
+    Supernova Experiment (YSE).
+  sub-thrust: Galaxy Formation
+  project-figure: research-projects/Gagliano_A-3_figure.jpg
+  project-papers: ''
+- project-lead: Siddharth Mishra-Sharma
+  project-title: >-
+    Better data compression and generalization for cosmological inference with
+    self-supervised machine learning
+  project-label: A-27
+  other-iaifi-leads: Cora Dvorkin
+  other-iaifi-members: Aizhan Akhmetzhanova
+  other-collaborators: ''
+  project-code: >-
+    https://github.com/AizhanaAkhmet/data-compression-inference-in-cosmology-with-SSL
+  analytic-empirical-scale: '7'
+  innovation-application-scale: '7'
+  project-tags: |-
+    representation/manifold learning
+    uncertainty quantification/robust AI
+  project-summary: >-
+    We use self-supervised learning with simulation-based augmentations to learn
+    powerful compressed representation of cosmological simulations for use in
+    downstream tasks.
+  figure-caption: >-
+    New figure in Year 4. Caption: "A schematic overview of the self-supervised
+    learning pipeline implemented in this work. The $T, T'$ are different
+    transformations used to produce two views (e.g., lognormal density maps) $X,
+    X'$ of the same underlying cosmological parameters of interest (e.g.,
+    $\Omega_M$ and $\sigma_8$). The inference network is trained on the
+    summaries $S, S'$ obtained from the pre-training step."
+  sub-thrust: Large-Scale Structure
+  project-figure: research-projects/Mishra-Sharma_A-27_figure.jpg
+  project-papers: ''
+- project-lead: Lina Necib
+  project-title: Building the Merger History of the Milky Way with Graph Neural Networks
+  project-label: A-15
+  other-iaifi-leads: Tess Smidt
+  other-iaifi-members: ''
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '6'
+  innovation-application-scale: '8'
+  project-tags: |-
+    physics-motivated optimization
+    representation/manifold learning
+  project-summary: >-
+    We will train an equivariant neural network on individual stars in simulated
+    Milky Way-like galaxies to build their merger histories, and apply this to
+    public data from the Gaia catalog.
+  figure-caption: >-
+    Example of three Milky Way-like galaxies in Illustris-TNG50, in which we
+    plot their kinematics in spherical galactocentric coordinates (vr −vφ) and
+    color them by the peak mass of their mergers (top) and infall time of that
+    merger (bottom). The figure shows that we can distinguish galaxies down to ∼
+    10^8 M⊙ in mass and those that have fallen up until 8 billion years ago.
+  sub-thrust: Galaxy Formation
+  project-figure: research-projects/Necib_A-15_figure.jpg
+  project-papers: ''
+- project-lead: Carolina Cuesta-Lazaro
+  project-title: >-
+    Debiasing with Diffusion: Probabilistic reconstruction of Dark Matter fields
+    from galaxies
+  project-label: A-6
+  other-iaifi-leads: ''
+  other-iaifi-members: Nayantara Mudur
+  other-collaborators: 'Core Francisco Park, Victoria Ono, Yueying Ni, Francisco Villaescusa-Navarro'
+  project-code: ''
+  analytic-empirical-scale: '7'
+  innovation-application-scale: 9 - Purely Physics Application
+  project-tags: |-
+    generative models
+    uncertainty quantification/robust AI
+  project-summary: >-
+    Galaxies are biased tracers of the underlying dark matter cosmic web, and
+    their relationship depends on uncertain cosmological and astrophysical
+    models. This work develops a diffusion generative model trained on the
+    CAMELS simulations to reconstruct dark matter fields from galaxy
+    distributions while marginalizing over model uncertainties.
+  figure-caption: >-
+    Schematic overview of the conditional diffusion model used to model the
+    posterior distribution of dark matter density fields given the stellar
+    density field. The left panel illustrates the diffusion process, and the
+    right panel shows the details of the convolutional-neural-network-based
+    denoising model.
+  sub-thrust: Dark Matter Searches
+  project-figure: research-projects/Cuesta-Lazaro_A-6_figure.jpg
+  project-papers: ''
+- project-lead: Edo Berger
+  project-title: Deep Learning Detection and Classification of Gravitational Wave Events
+  project-label: A-12
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Plamen Krastev, Maryam Hussaini'
+  other-collaborators: Ethan Silver (Harvard)
+  project-code: ''
+  analytic-empirical-scale: '7'
+  innovation-application-scale: '8'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    We are developing and testing various deep learning approaches to detect and
+    classify gravitational wave events in real LIGO/Virgo data, as well as to
+    perform parameter extraction for these events.
+  figure-caption: >-
+    Detection of all compact object mergers in the LIGO/Virgo GWTC-1 catalog, as
+    well as GW170817 and GW190425 (BNS mergers), GW200105 (NSBH marginal
+    candidate from GWTC-3), and GW200115 (NSBH candidate from GWTC-3) with our
+    deep neural network.
+  sub-thrust: Dark Matter Searches
+  project-figure: research-projects/Berger_A-12_figure.jpg
+  project-papers: ''
+- project-lead: Cora Dvorkin
+  project-title: Detecting Dark Matter Perturbers with Strong Gravitational Cluster Lenses
+  project-label: A-22
+  other-iaifi-leads: ''
+  other-iaifi-members: Chandrika Chandrashekar
+  other-collaborators: Cagan Sengul
+  project-code: '-'
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '8'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    From cosmological surveys of the large-scale structure in our universe, we
+    have been able to map out the distribution of dark matter on large scales.
+    Probing smaller scales will help us improve our understanding of the nature
+    of dark matter. One way to detect dark matter structure on sub-galactic
+    scales is to look for perturbers in strongly lensed systems. In this
+    project, we use cluster galaxies as strong lenses to detect the presence of
+    dark matter subhalos and line-of-sight halos through their effect on the
+    images of the lensed source.
+  figure-caption: >-
+    Top row: three images from the James Webb Space Telescope of a lensed
+    source. Middle row: reconstruction of these three images using Bayesian
+    analysis. Bottom row: residuals between the true images and the image
+    reconstructions.
+  sub-thrust: Large-Scale Structure
+  project-figure: research-projects/Dvorkin_A-22_figure.jpg
+  project-papers: ''
+- project-lead: Siddharth Mishra-Sharma
+  project-title: >-
+    Diagnosing and improving simulation-based inference under model
+    misspecification
+  project-label: A-20
+  other-iaifi-leads: Carolina Cuesta-Lazaro
+  other-iaifi-members: Aizhan Akhmetzhanova
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '6'
+  innovation-application-scale: '5'
+  project-tags: |-
+    generative models
+    uncertainty quantification/robust AI
+  project-summary: >-
+    The goal of this project is to develop a class of methods to reliably
+    perform simulation-based inference even when we know that our models aren't
+    perfect (which they also never are). When possible, we leverage known
+    physical inductive biases in the data to diagnose sources of
+    misspecification. With this, we hope to make simulation-based inference
+    applicable to a broader class of problem settings.
+  figure-caption: >-
+    A high-level sketch of the method. We use AI to extract features from the
+    forward model such that the featurized data (red point) lies within the
+    distribution of summaries (red blob).
+  sub-thrust: Large-Scale Structure
+  project-figure: research-projects/Mishra-Sharma_A-20_figure.jpg
+  project-papers: ''
+- project-lead: Alexander Gagliano
+  project-title: >-
+    Discovery and Characterization of Pre-Explosion Emission in Terminal Massive
+    Stars
+  project-label: A-2
+  other-iaifi-leads: Edo Berger (CfA)
+  other-iaifi-members: ''
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '2'
+  innovation-application-scale: 9 - Purely Physics Application
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    Wide-field surveys have revealed the tumultuous behavior of massive stars in
+    the years preceding their demise, in some cases shedding stellar masses of
+    material in their final year. Only a handful of these pre-explosion
+    eruptions have been discovered. In this work, we have simulated an eruptive
+    mass-loss event in order to forecast discovery rates with current and
+    upcoming telescopes. We further explore strategies for binning photometry to
+    enhance our discovery rates.
+  figure-caption: >-
+    The number of discovered eruptive precursors from red supergiants with one
+    year of observing from the Vera C. Rubin Observatory's Legacy Survey of
+    Space and Time.
+  sub-thrust: Galaxy Formation
+  project-figure: research-projects/Gagliano_A-2_figure.jpg
+  project-papers: ''
+- project-lead: Cora Dvorkin
+  project-title: Fast Detection of Subhalos in Strong Lensing Systems
+  project-label: A-25
+  other-iaifi-leads: ''
+  other-iaifi-members: Bryan Ostdiek (until Feb 2022); Arthur Tang
+  other-collaborators: Atinc Cagan Sengul
+  project-code: ''
+  analytic-empirical-scale: '7'
+  innovation-application-scale: 9 - Purely Physics Application
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    Tens of thousands of galaxy-galaxy strong lensing systems are expected to be
+    discovered by the end of the decade. These will form a vast new dataset that
+    can be used to probe subgalactic dark matter structures through its
+    gravitational effects, which will in turn allow us to study the nature of
+    dark matter at small length scales. We showed how we can leverage machine
+    learning to search through the data and identify which systems are most
+    likely to contain dark matter substructure and thus can be studied in
+    greater depth. We used a UNet, an image segmentation architecture, on a
+    simulated strongly-lensed dataset with realistic sources (COSMOS galaxies),
+    lenses (power-law elliptical profiles with multipoles and external shear),
+    and noise. Our machine learning algorithm is able to quickly detect most
+    substructure at high image resolution and subhalo concentration.
+  figure-caption: >-
+    Characteristic examples on test-set lensing systems. The first column shows
+    the original $640\times 640$ pixels high-resolution image, cropped to
+    $440\times 440$ pixels for visualization purposes. The second column shows
+    the ground truth subhalo location (circled). The third column shows the
+    UNet's predicted probability that each pixel contains a subhalo (predicted
+    position circled). Probabilities are on a log scale to better show the
+    low-probability predictions ($5\text{-}10\%$) on the second and third rows.
+    From top to bottom, we see that as the subhalo mass increases, the UNet
+    prediction improves. These examples were chosen systematically by taking the
+    first instance in the test set with a subhalo of a particular mass bin. The
+    first image is dimmer than the rest due to random differences in sources,
+    unrelated to the lack of a subhalo.
+  sub-thrust: Dark Matter Searches
+  project-figure: research-projects/Dvorkin_A-25_figure.jpg
+  project-papers: ''
+- project-lead: Siddharth Mishra-Sharma
+  project-title: >-
+    Foundation models for astrophysics: associating astronomical observations
+    and natural language
+  project-label: A-19
+  other-iaifi-leads: Jesse Thaler
+  other-iaifi-members: Yiding Song
+  other-collaborators: ''
+  project-code: 'https://github.com/smsharma/PAPERCLIP-Hubble'
+  analytic-empirical-scale: '8'
+  innovation-application-scale: '7'
+  project-tags: representation/manifold learning
+  project-summary: >-
+    We present PAPERCLIP (Proposal Abstracts Provide an Effective Representation
+    for Contrastive Language-Image Pre-training), a method which associates
+    astronomical observations imaged by telescopes with natural language using a
+    neural network model. The model is fine-tuned from a pre-trained Contrastive
+    Language-Image Pre-training (CLIP) model using successful observing proposal
+    abstracts and corresponding downstream observations, with the abstracts
+    optionally summarized via guided generation using large language models
+    (LLMs).
+  figure-caption: >-
+    Overview of the PAPERCLIP method. (Left) A pre-trained CLIP model is
+    fine-tuned using a dataset of Hubble observations and corresponding proposal
+    abstracts. The proposal abstracts are optionally summarized using guided
+    large language model generation. (Right) The fine-tuned model can then be
+    used for downstream tasks such as observation retrieval (i.e., finding the
+    observations most relevant to a given text query). The proposal abstract
+    snippet shown here corresponds to proposal ID
+    \href{https://archive.stsci.edu/proposal_search.php?id=16914&mission=hst}{16914}.
+  sub-thrust: Large-Scale Structure
+  project-figure: research-projects/Mishra-Sharma_A-19_figure.jpg
+  project-papers: ''
+- project-lead: Alexander Gagliano
+  project-title: Galaxy Anomaly Detection with Constrained Variational Autoencoders
+  project-label: A-1
+  other-iaifi-leads: Edo Berger (CfA)
+  other-iaifi-members: ''
+  other-collaborators: Ashley Villar (CfA)
+  project-code: 'https://github.com/alexandergagliano/galaxy_CVAE'
+  analytic-empirical-scale: '8'
+  innovation-application-scale: '7'
+  project-tags: |-
+    physics-motivated optimization
+    representation/manifold learning
+  project-summary: >-
+    Rich imaging data from astronomical surveys are an invaluable resource for
+    identifying novel populations of anomalous systems. Variational autoencoders
+    signify a potential path forward, but an ongoing challenge is distinguishing
+    meaningful anomalies from artifacts. By constraining the latent space using
+    the inferred spectral energy distributions of galaxies, we can make our
+    network more robust to observing artifacts and provide meaningful intuition
+    behind what makes identified galaxies unique.
+  figure-caption: >-
+    VAE-inferred versus SED-derived redshifts (left) and stellar masses (right)
+    for 400,000 DECaLS galaxies in the validation set. Properties are inferred
+    by sampling from the first two dimensions of the autoencoder's latent space.
+  sub-thrust: Galaxy Formation
+  project-figure: research-projects/Gagliano_A-1_figure.jpg
+  project-papers: ''
+- project-lead: Siddharth Mishra-Sharma
+  project-title: Generative modeling and benchmarking of galaxy clustering
+  project-label: A-17
+  other-iaifi-leads: 'Carolina Cuesta-Lazaro, Tess Smidt'
+  other-iaifi-members: Julia Balla
+  other-collaborators: ''
+  project-code: 'https://github.com/smsharma/point-cloud-galaxy-diffusion'
+  analytic-empirical-scale: '7'
+  innovation-application-scale: '7'
+  project-tags: |-
+    generative models
+    uncertainty quantification/robust AI
+  project-summary: >-
+    We construct a diffusion-based generative model for the distribution of
+    galaxies in the Universe, which can be used for emulation as well as
+    likelihood evaluation / inference.
+  figure-caption: >-
+    New figure attached for year 4. Caption: "A schematic overview of the point
+    cloud diffusion model, showing samples from the diffusion process at
+    different diffusion times. During training, noise is added to a data sample
+    $x$ using the diffusion kernel $q(z_t\mid x)$ and a denoising distribution
+    $p_\varphi\left(z_{t-1} \mid z_t\right)$ is learned. To generate samples, we
+    simulate the reverse process -- we sample noise from a standard Gaussian
+    distribution and denoise it iteratively using the learned denoising
+    distribution."
+  sub-thrust: Galaxy Formation
+  project-figure: research-projects/Mishra-Sharma_A-17_figure.jpg
+  project-papers: ''
+- project-lead: Carolina Cuesta-Lazaro
+  project-title: Hybrid simulators for cosmology
+  project-label: A-7
+  other-iaifi-leads: ''
+  other-iaifi-members: ''
+  other-collaborators: Chirag Modi
+  project-code: ''
+  analytic-empirical-scale: 1 - Purely analytic
+  innovation-application-scale: '3'
+  project-tags: |-
+    generative models
+    physics-motivated optimization
+  project-summary: >-
+    Cosmological N-body and hydrodynamical simulations are computationally
+    expensive due to requiring large volumes at high resolution. This project
+    combines approximate large-scale physical models with machine learning
+    models that correct for missing small-scale structure information on-the-fly
+    during the simulation.
+  figure-caption: >-
+    Dark matter density fields at redshift zero for low resolution PM
+    simulations (LR), on the left, our corrected PM simulations (LR + Nbodyify),
+    on the midle, and high resolution PM simulations (HR).
+  sub-thrust: Large-Scale Structure
+  project-figure: research-projects/Cuesta-Lazaro_A-7_figure.jpg
+  project-papers: ''
+- project-lead: Carolina Cuesta-Lazaro
+  project-title: Learned priors for effective field theories in cosmology
+  project-label: A-5
+  other-iaifi-leads: Siddharth Mishra-Sharma
+  other-iaifi-members: ''
+  other-collaborators: 'Mikhail M. Ivanov (friends of IAIFI?), Michael W. Toomey, Andrej Obuljen'
+  project-code: ''
+  analytic-empirical-scale: '5'
+  innovation-application-scale: 9 - Purely Physics Application
+  project-tags: |-
+    physics-motivated optimization
+    uncertainty quantification/robust AI
+  project-summary: >-
+    Effective field theories can accurately describe galaxy clustering on large
+    scales, but are limited by nuisance parameters accounting for small-scale
+    galaxy formation physics. This work uses normalizing flows trained on
+    simulated galaxy catalogs to apply informative priors on these nuisance
+    parameters, improving cosmological constraints from the BOSS survey by 40%
+    for single field inflation models.
+  figure-caption: >-
+    Corner plots with 2d and 1d marginalized posterior distribution of the
+    primordial non Gaussianity parameters that constrain single field inflation
+    from the full BOSS DR12 dataset and the galaxy bias parameters from BOSS NGC
+    high-z sample. HOD priors on bias parameters are shown in gray. Bias
+    parameters for other samples are shown in Appendix. Density levels
+    correspond to  68 %  and  95 %  CL.
+  sub-thrust: Galaxy Formation
+  project-figure: research-projects/Cuesta-Lazaro_A-5_figure.jpg
+  project-papers: ''
+- project-lead: Siddharth Mishra-Sharma
+  project-title: >-
+    Leveraging multiple modalities to learn physically-informative
+    representations of time-series data
+  project-label: A-21
+  other-iaifi-leads: Alexander Gagliano
+  other-iaifi-members: Gemma Zhang
+  other-collaborators: >-
+    Thomas Helfer (Stony Brook), Yunyi Shen (MIT, Prof. Tamara Broderick's
+    student)
+  project-code: 'https://github.com/ThomasHelfer/multimodal-supernovae'
+  analytic-empirical-scale: '7'
+  innovation-application-scale: '7'
+  project-tags: |-
+    generative models
+    representation/manifold learning
+  project-summary: >-
+    We develop methods to learn useful representations of astronomical
+    time-series data be leveraging multiple modalities (e.g., galaxy images and
+    spectra) and use them for various downstream tasks. We do this through
+    self-supervised contrastive learning and generative modeling.
+  figure-caption: >-
+    Light curves and host galaxy images of a subset of supernovae from the ZTF
+    Bright Transient Survey sample. These are embedded into the same embedding
+    space (along with corresponding spectra) to learn physically-informative
+    embeddings.
+  sub-thrust: Large-Scale Structure
+  project-figure: research-projects/Mishra-Sharma_A-21_figure.jpg
+  project-papers: ''
+- project-lead: Cora Dvorkin
+  project-title: Measuring the effective slope of a population of subhalos
+  project-label: A-8
+  other-iaifi-leads: Siddharth Mishra-Sharma
+  other-iaifi-members: Gemma Zhang
+  other-collaborators: Atinc Cagan Sengul
+  project-code: ''
+  analytic-empirical-scale: '8'
+  innovation-application-scale: 9 - Purely Physics Application
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    To test the nature of dark matter on sub-galactic scales, previous work by
+    the PI’s group (arXiv: 2206.10635, MNRAS, 2022) proposed a novel way of
+    distinguishing between dark matter models through measuring an effective
+    slope of substructure density profiles in strong gravitational lensing
+    images. Building upon this work, which measures the effective slope of one
+    subhalo per image, we built a neural likelihood ratio estimator to harness
+    population-level statistics on the effective slope in multiple images with a
+    large number of subhalos. We show the model is effective at differentiating
+    between different subhalo populations and provides more computationally
+    feasible inference than traditional methods. Furthermore, we applied it to
+    Hubble Space Telescope strong lensing data (arXiv: 2308.09739, MNRAS 2024).
+  figure-caption: ''
+  sub-thrust: Dark Matter Searches
+  project-figure: research-projects/Dvorkin_A-8_figure.jpg
+  project-papers: ''
+- project-lead: Jim Halverson
+  project-title: ML for Cosmology Theory
+  project-label: A-13
+  other-iaifi-leads: ''
+  other-iaifi-members: Sneh Pandya
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '6'
+  innovation-application-scale: '8'
+  project-tags: generative models
+  project-summary: >-
+    Cosmological stasis is a new phase of cosmological evolution in which matter
+    and radiation abundances are fixed for many e-folds in a universe with N
+    particle species. We use variational inference to estimate and sample from
+    stasis-conditioned posteriors on rates and matter abundances.
+  figure-caption: Our variational inference pipeline for studying stasis.
+  sub-thrust: Dark Matter Searches
+  project-figure: research-projects/Halverson_A-13_figure.jpg
+  project-papers: ''
+- project-lead: Edo Berger
+  project-title: Photometric classification of Supernovae
+  project-label: A-11
+  other-iaifi-leads: Ashley Villar
+  other-iaifi-members: 'Daichi Hiramatsu, Harsh Kumar'
+  other-collaborators: Sebastian Gomez
+  project-code: ''
+  analytic-empirical-scale: '8'
+  innovation-application-scale: '8'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    We are developing, testing, and implementing a set of machine learning based
+    algorithms to enable the photometric classification of supernovae from large
+    optical time-domain surveys. These includes approaches for general
+    classification, targeted selection of rare events, and detection of new
+    phenomena ('anomalies').  We are testing these algorithms on existing survey
+    data in real time.
+  figure-caption: >-
+    Comparison of superluminous supernova model parameters for events classified
+    via the traditional spectroscopic technique, and our ML-based photometric
+    classification method.  We find that the photometric selection returns
+    events that are typical of the spectroscopic sample, demonstrating that
+    ML-based photometric classification can replace the more expensive
+    spectroscopic classification in the Rubin/LSST era.
+  sub-thrust: Large-Scale Structure
+  project-figure: research-projects/Berger_A-11_figure.jpg
+  project-papers: ''
+- project-lead: Cora Dvorkin
+  project-title: >-
+    Precise Cosmological Constraints from BOSS Galaxy Clustering with a
+    Simulation-Based Emulator of the Wavelet Scattering Transform
+  project-label: A-28
+  other-iaifi-leads: ''
+  other-iaifi-members: Georgios Valogiannis
+  other-collaborators: Sihan Yuan
+  project-code: ''
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '7'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    We perform a reanalysis of the BOSS CMASS DR12 galaxy dataset using a
+    simulation-based emulator for the Wavelet Scattering Transform (WST)
+    coefficients. We find that a joint WST + 2-point correlation function
+    likelihood analysis allows us to obtain marginalized 1σ errors on the ΛCDM
+    parameters that are tighter by a factor of 2.5 − 6, compared to the 2-point
+    correlation function.
+  figure-caption: >-
+    Marginalized constraints on the ΛCDM cosmological parameters obtained using
+    the monopole and quadrupole of the galaxy correlation function (red), the
+    WST coefficients (blue) and their joint combination (black) in order to
+    analyze the BOSS CMASS observations. The results shown above were obtained
+    after imposing a BBN Gaussian prior on the value of ωb = 0.02268 ± 0.00038.
+  sub-thrust: Galaxy Formation
+  project-figure: research-projects/Dvorkin_A-28_figure.jpg
+  project-papers: ''
+- project-lead: Douglas Finkbeiner
+  project-title: Probabilistic Diffusion models for cosmology
+  project-label: A-10
+  other-iaifi-leads: Carol Cuesta-Lazaro
+  other-iaifi-members: Nayantara Mudur
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '2'
+  innovation-application-scale: '8'
+  project-tags: generative models
+  project-summary: >-
+    Diffusion models trained on cosmological simulations can generate density
+    fields conditional on input cosmological parameters.  The same model can be
+    used to provide parameters estimates, given an input density field.  We
+    apply this concept to the CAMELSL Multifield Dataset and demonstrate
+    excellent parameter recovery, similar to neural nets trained explicitly for
+    this purpose.
+  figure-caption: >-
+    Upper left: 1 sigma likelihood contours for various time steps in the
+    diffusion model.  Upper right: variation of 0th time step with seed and
+    sample input field.  Cross indicates true parameters.  Bottom row: predicted
+    vs. true parameters for 14 simulations with various matter density and
+    fluctuation amplitude.
+  sub-thrust: Large-Scale Structure
+  project-figure: research-projects/Finkbeiner_A-10_figure.jpg
+  project-papers: ''
+- project-lead: Daniel Eisenstein
+  project-title: >-
+    Reconstruction of Cosmological Initial Conditions from Galaxy Redshift
+    Surveys
+  project-label: A-23
+  other-iaifi-leads: ''
+  other-iaifi-members: Christopher Shallue
+  other-collaborators: >-
+    Lehman Garrison (Flatiron Institute), Sihan Yuan (Stanford), Xinyi Chen
+    (Yale), Nikhil Padmanabhan (Yale)
+  project-code: ''
+  analytic-empirical-scale: '6'
+  innovation-application-scale: '8'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    We used a convolutional neural net in combination with a gravitational model
+    to reconstruct the initial conditions of a large-scale structure simulation
+    from the final matter density field.
+  figure-caption: ''
+  sub-thrust: Large-Scale Structure
+  project-figure: research-projects/Eisenstein_A-23_figure.jpg
+  project-papers: ''
+- project-lead: Douglas Finkbeiner
+  project-title: Regularization techniques for star-based interstellar dust maps
+  project-label: A-9
+  other-iaifi-leads: ''
+  other-iaifi-members: Nayantara Mudur
+  other-collaborators: Core Francisco Park
+  project-code: 'https://github.com/nmudur/HighLatMaps'
+  analytic-empirical-scale: '8'
+  innovation-application-scale: '8'
+  project-tags: representation/manifold learning
+  project-summary: >-
+    Modern cosmology requires an accurate dust map to correct observations of
+    extragalactic objects. A star’s color and brightness yields information
+    about the dust density along the line of sight to it. We focused on
+    addressing two problems in this regard: firstly, we generated
+    stellar-reddening based dust maps that possess lower correlations with large
+    scale structure than most existing maps. Stellar-reddening based maps,
+    however, tend to be noisier than their emission-based counterparts. To this
+    end, we trained score-based generative models to learn a prior on dust and
+    showed that they can be used to denoise noisy images of dust.
+  figure-caption: ''
+  sub-thrust: Large-Scale Structure
+  project-figure: research-projects/Finkbeiner_A-9_figure.jpg
+  project-papers: ''
+- project-lead: Lina Necib
+  project-title: >-
+    Robust Clustering of the Local Milky Way Stellar Kinematic Substructures
+    with Gaia eDR3
+  project-label: A-14
+  other-iaifi-leads: ''
+  other-iaifi-members: ''
+  other-collaborators: Xiaowei Ou (MIT) and Anna Frebel (MIT)
+  project-code: ''
+  analytic-empirical-scale: '7'
+  innovation-application-scale: '6'
+  project-tags: |-
+    physics-motivated optimization
+    uncertainty quantification/robust AI
+  project-summary: >-
+    We apply the clustering algorithm HDBSCAN on the Gaia early third data
+    release astrometry combined with the Gaia second data release radial
+    velocity measurements of almost 5.5 million stars to identify the local
+    stellar kinematic substructures in the solar neighborhood. Understanding
+    these structures helps build a more complete picture of the formation of the
+    Milky Way, as well an empirical phase space distribution of dark matter that
+    would inform detection experiments. The main goal of this study is to
+    provide a list of the most stable clusters, by taking into account the
+    measurement uncertainties and studying the stability of the clustering
+    results. Although we do not identify any new structures, we find that the
+    HDBSCAN member selection of already known structures are unstable to input
+    kinematics of the stars when resampled within their uncertainties. We
+    therefore present the most stable subset of local kinematic structures,
+    which are consistently identified by the clustering algorithm, and emphasize
+    the need to take into account error propagation during both the manual and
+    automated identification of stellar structures, both for existing ones as
+    well as future discoveries.
+  figure-caption: >-
+    Summary plot for clusters that HDBSCAN identified from the high-stability
+    (Nstack> 20) sample with Zmax 2 σ above 2.5 kpc from the integral of motion
+    space.
+  sub-thrust: Galaxy Formation
+  project-figure: research-projects/Necib_A-14_figure.jpg
+  project-papers: ''
+- project-lead: Carolina Cuesta-Lazaro
+  project-title: Running the clock backwards to reconstruct the early Universe
+  project-label: A-4
+  other-iaifi-leads: 'Daniel Eisenstein, Siddharth Mishra-Sharma'
+  other-iaifi-members: ''
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '7'
+  project-tags: |-
+    generative models
+    uncertainty quantification/robust AI
+  project-summary: >-
+    This project aims to develop a computationally efficient method for sampling
+    the initial conditions of the cosmic density field from late-time
+    observations, enabling accurate simulations of structure formation in the
+    local Universe and tests on the theory of inflation. By employing flow
+    matching techniques that mimic gravitational evolution, we seek to
+    reconstruct the full trajectory of structure growth from the early Universe
+    to the present day.
+  figure-caption: >-
+    Example of initial conditions reconstruction. On the left, the late time
+    (redshift zero) dark matter density field, on the right, the reconstructed
+    initial conditions that gave rise to this late time density field.
+  sub-thrust: Galaxy Formation
+  project-figure: research-projects/Cuesta-Lazaro_A-4_figure.jpg
+  project-papers: ''
+- project-lead: Carolina Cuesta-Lazaro
+  project-title: Simulation-based Inference for Exoplanet Atmospheric Retrieval
+  project-label: A-24
+  other-iaifi-leads: ''
+  other-iaifi-members: ''
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: 9 - Purely empirical
+  innovation-application-scale: 9 - Purely Physics Application
+  project-tags: uncertainty quantification/robust AI
+  project-summary: >-
+    This project develops advanced machine learning models that leverage
+    normalizing flows to predict probability distributions of exoplanet
+    atmospheric parameters from telescope spectra data. Key outcomes include
+    insights on improving evaluation metrics, exploring more efficient modeling
+    approaches, and recommendations for enhancing future efforts to effectively
+    analyze observational data and advance our understanding of exoplanet
+    atmospheres.
+  figure-caption: >-
+    Comparison of the posteriors of T, H2O and CO2 for a previously unseen
+    random ideal spectrum.
+  sub-thrust: Dark Matter Searches
+  project-figure: research-projects/Cuesta-Lazaro_A-24_figure.jpg
+  project-papers: ''
+- project-lead: Siddharth Mishra-Sharma
+  project-title: Simulation-based inference over event ensembles
+  project-label: A-18
+  other-iaifi-leads: ''
+  other-iaifi-members: ''
+  other-collaborators: 'Lukas Heinrich, Philipp Windischhofer, Chris Pollard'
+  project-code: ''
+  analytic-empirical-scale: '4'
+  innovation-application-scale: '3'
+  project-tags: uncertainty quantification/robust AI
+  project-summary: >-
+    We develop methods for simulation-based inference that are applicable to
+    hierarchical models, i.e. those with both global (i.e., dataset-level) and
+    local (i.e., event-level) parameters. We show examples and applications from
+    particle physics and astrophysics.
+  figure-caption: >-
+    Schematic illustration of the deep set-based architecture used in this work,
+    which accounts for global as well as local structure in the forward model.
+    The red lines/arrows show the path used only in the frequentist setting for
+    training a global test-statistic estimator while profiling over global
+    nuisance parameters.
+  sub-thrust: Large-Scale Structure
+  project-figure: research-projects/Mishra-Sharma_A-18_figure.jpg
+  project-papers: ''
+- project-lead: Siddharth Mishra-Sharma
+  project-title: Strong lensing source reconstruction using continuous neural fields
+  project-label: A-26
+  other-iaifi-leads: Ge Yang
+  other-iaifi-members: ''
+  other-collaborators: ''
+  project-code: 'https://github.com/smsharma/lensing-neural-fields'
+  analytic-empirical-scale: '6'
+  innovation-application-scale: '4'
+  project-tags: |-
+    generative models
+    physics-motivated optimization
+    uncertainty quantification/robust AI
+  project-summary: >-
+    We use a differentiable gravitational lensing forward model in conjunction
+    with an implicit neural network representation of the background galaxy to
+    characterize gravitational lenses.
+  figure-caption: >-
+    Figure 1: A schematic overview of the method used in this work. Figure 2:
+    Results of reconstructing the source through our coordinate-based neural
+    network pipeline using a mock lensed image of galaxy NGC2906. The (a) true
+    source, (b) reconstructed source mean, (c) reconstructed mean minus true
+    source residuals, (d) true lensed image, (e) reconstructed lensed image, and
+    (f) reconstructed mean minus true lensed image residuals are shown. All
+    images are normalized by the observation noise.
+  sub-thrust: Dark Matter Searches
+  project-figure: research-projects/Mishra-Sharma_A-26_figure.jpg
+  project-papers: ''
+- project-lead: Siddharth Mishra-Sharma
+  project-title: >-
+    Uncovering dark matter density profiles in dwarf galaxies with graph neural
+    networks
+  project-label: A-16
+  other-iaifi-leads: Lina Necib
+  other-iaifi-members: Tri Nguyen
+  other-collaborators: ''
+  project-code: |-
+    https://github.com/trivnguyen/dsphs_gnn
+
+    New public codebase: https://github.com/trivnguyen/JeansGNN
+  analytic-empirical-scale: '7'
+  innovation-application-scale: '7'
+  project-tags: |-
+    generative models
+    uncertainty quantification/robust AI
+  project-summary: >-
+    We use neural simulation-based inference to constrain the dark matter
+    density profiles of dwarf galaxies using observed kinematics of stars
+    gravitationally bound to them. The method is more flexible and uses more
+    information than the traditional one based on analytic, dynamical modeling.
+  figure-caption: >-
+    Update for Year 3: I have added a new "Schematic illustration of the method"
+    figure. (Year 4: same as before)
+  sub-thrust: Dark Matter Searches
+  project-figure: research-projects/Mishra-Sharma_A-16_figure.jpg
+  project-papers: ''
+- project-lead: Isaac Chuang
+  project-title: >-
+    A threshold for life: Biological error correction codes generate
+    fault-tolerant neural networks
+  project-label: F-6
+  other-iaifi-leads: Max Tegmark
+  other-iaifi-members: 'Alexander Zlokapa, Andre Tan, John Martyn'
+  other-collaborators: Illa Fiete (MIT)
+  project-code: ''
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '4'
+  project-tags: uncertainty quantification/robust AI
+  project-summary: >-
+    In the grid cells of the mammalian cortex, analog error correction codes
+    have been observed to protect states against neural spiking noise, but their
+    role in information processing is unclear. Here, we use these biological
+    codes to show that a universal fault-tolerant neural network can be achieved
+    if the faultiness of each neuron lies below a sharp threshold
+  figure-caption: >-
+    Fault tolerance threshold for a neural implementation of a universal
+    primitive computational element as a function of the two kinds of noise
+    arising in biological neurons.
+  sub-thrust: Robust/Interpretable AI
+  project-figure: research-projects/Chuang_F-6_figure.jpg
+  project-papers: ''
+- project-lead: Tess Smidt
+  project-title: Action-Angle Networks
+  project-label: F-12
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Ameya Daigavane, Mario Geiger'
+  other-collaborators: Song Kim
+  project-code: 'https://github.com/ameya98/ActionAngleNetworks'
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '4'
+  project-tags: |-
+    physics-motivated optimization
+    representation/manifold learning
+  project-summary: >-
+    Learned simulators typically predict the evolution of the system in a
+    step-by-step manner with numerical integration techniques. However, such
+    models often suffer from instability over long roll-outs due to the
+    accumulation of both estimation and integration error at each prediction
+    step. We propose an alternative construction for learned physical simulators
+    that are inspired by the concept of action-angle coordinates from classical
+    mechanics for describing integrable systems. We propose Action-Angle
+    Networks, which learn a nonlinear transformation from input coordinates to
+    the action-angle space, where evolution of the system is linear. Unlike
+    traditional learned simulators, Action-Angle Networks do not employ any
+    higher-order numerical integration methods, making them extremely efficient
+    at modelling the dynamics of integrable physical systems.
+  figure-caption: An overview of the Action-Angle Network
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Smidt_F-12_figure.jpg
+  project-papers: ''
+- project-lead: Mike Williams
+  project-title: An Effective Theory of Representation Learning
+  project-label: F-23
+  other-iaifi-leads: Max Tegmark
+  other-iaifi-members: 'Ziming Liu, Ouail Kitouni, Niklas Nolte, Eric J. Michaud'
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '3'
+  innovation-application-scale: '3'
+  project-tags: representation/manifold learning
+  project-summary: >-
+    We studied how neural networks learn and found that generalization
+    originates from structured representations whose training dynamics and
+    dependence on training set size can be predicted by an effective theory in a
+    toy setting. This study not only provides intuitive explanations of the
+    origin of grokking, but also highlights the usefulness of physics-inspired
+    tools, e.g., effective theories and phase diagrams, for understanding deep
+    learning.
+  figure-caption: >-
+    Visualization of the first two principal components of the learned input
+    embeddings at different training stages of a transformer learning modular
+    addition. We observe that generalization coincides with the emergence of
+    structure in the embeddings.
+  sub-thrust: Robust/Interpretable AI
+  project-figure: research-projects/Williams_F-23_figure.jpg
+  project-papers: ''
+- project-lead: Ge Yang
+  project-title: Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation
+  project-label: F-22
+  other-iaifi-leads: ''
+  other-iaifi-members: ''
+  other-collaborators: Phillip Isola
+  project-code: 'https://f3rm.github.io/'
+  analytic-empirical-scale: 9 - Purely empirical
+  innovation-application-scale: 1 - Purely AI Innovation
+  project-tags: representation/manifold learning
+  project-summary: >-
+    Self-supervised and language-supervised image models contain rich knowledge
+    of the world that is important for generalization. Many robotic tasks,
+    however, require a detailed understanding of 3D geometry, which is often
+    lacking in 2D image features. This work bridges this 2D-to-3D gap for
+    robotic manipulation by leveraging distilled feature fields to combine
+    accurate 3D geometry with rich semantics from 2D foundation models. We
+    present a few-shot learning method for 6-DOF grasping and placing that
+    harnesses these strong spatial and semantic priors to achieve in-the-wild
+    generalization to unseen objects. Using features distilled from a
+    vision-language model, CLIP, we present a way to designate novel objects for
+    manipulation via free-text natural language, and demonstrate its ability to
+    generalize to unseen expressions and novel categories of objects.
+  figure-caption: >-
+    Caption:Feature Fields for Robotic Manipulation (F3RM) enables robots to
+    interpret open-ended text prompts using natural language, helping the
+    machines manipulate unfamiliar objects. The system’s 3D feature fields could
+    be helpful in environments that contain thousands of objects, such as
+    warehouses.
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Yang_F-22_figure.jpg
+  project-papers: ''
+- project-lead: Anna Golubeva
+  project-title: Dynamic sparse training with structural constraints
+  project-label: F-20
+  other-iaifi-leads: ''
+  other-iaifi-members: ''
+  other-collaborators: >-
+    Yani Ioannou (UCalgary), Mike Lasby (UCalgary), Utku Evci (Google), Mihai
+    Nica (UGuelph)
+  project-code: ''
+  analytic-empirical-scale: '8'
+  innovation-application-scale: 1 - Purely AI Innovation
+  project-tags: uncertainty quantification/robust AI
+  project-summary: >-
+    Dynamic Sparse Training (DST) methods achieve state-of-the-art results in
+    sparse neural network training, matching the generalization of dense models
+    while enabling sparse training and inference. Although the resulting models
+    are highly sparse and theoretically cheaper to train, achieving speedups
+    with unstructured sparsity on real-world hardware is challenging. This
+    project aims to develop a best-of-both-worlds approach by exploiting the DST
+    framework to learn both a highly sparse and structured representation, while
+    maintaining the generalization performance of DST and dense baselines.
+  figure-caption: structural constraints in sparse training methods
+  sub-thrust: Robust/Interpretable AI
+  project-figure: research-projects/Golubeva_F-20_figure.jpg
+  project-papers: ''
+- project-lead: Todd Zickler
+  project-title: Foundations of visual sensing
+  project-label: F-15
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Dean Hazineh, Gokhan Egri'
+  other-collaborators: ''
+  project-code: >-
+    https://github.com/google-research/multinerf,
+    https://github.com/dorverbin/fieldofjunctions
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '5'
+  project-tags: representation/manifold learning
+  project-summary: >-
+    This project aims to advance visual artificial intelligence by trying to
+    create artificial systems that can see. In particular, it pursues techniques
+    that leverage physics principles of light-matter interactions to improve
+    both the efficiency and accuracy of artificial vision.
+  figure-caption: >-
+    (a) Using a pre-trained neural surrogate model for local electromagnetic
+    scattering by a family of sub-wavelength geometric features on a planar
+    glass substrate, we optimize the feature shapes by gradient descent to enact
+    birefringent scattering that simultaneously induces four distinct point
+    spread functions in the four channels of a polarization-sensitive
+    photodetector array. (b) This creates a "camera" that, instead of measuring
+    scene intensity, measures spatial derivatives of intensity, with the spatial
+    derivative direction being "steerable" by simple linear re-weightings of the
+    four captured channels.
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Zickler_F-15_figure.jpg
+  project-papers: ''
+- project-lead: Marin Soljačić
+  project-title: 'Label-efficient machine learning for science, images and text'
+  project-label: F-8
+  other-iaifi-leads: 'Professor Pulkit Agrawal,  Di Luo, Ge Yang'
+  other-iaifi-members: >-
+    Rumen Dangovski, Charlotte Loh,Thomas Christensen, Samuel Kim, Peter Lu,
+    Owen Dugan, Julia Balla, Oreoluwa Alao, Anugrah Chemparathy, Adriano
+    Hernandez, Ziming Liu
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '4'
+  innovation-application-scale: '3'
+  project-tags: representation/manifold learning
+  project-summary: >-
+    Due to the challenges of labeling data, learning with fewer labels is a
+    leading research direction in computer vision, natural language processing
+    and science. This direction is especially relevant for science, since the
+    cost of obtaining expert annotations is high. While labeled data is scarce,
+    a vast amount of unlabeled image, text and simulated science data is
+    available. Hence, we develop label-efficient machine learning algorithms
+    trained on unlabeled data that address the problem of data scarcity. Namely,
+    by using contrastive learning, data augmentation and model calibration we
+    reduce the need of labeled data for training neural networks by several
+    orders-of-magnitude.
+  figure-caption: >-
+    Fig 1: Sketch of E-SSL with four-fold rotations prediction, resulting in a
+    backbone that is sensitive to rotations and insensitive to flips and
+    blurring.
+
+
+    Fig 2: Sketch of the multi-symmetry ensemble framework that utilizes
+    invariance and equivariance to enhance diversity. In this example we show
+    the case of using four-fold rotations.
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Soljačić_F-8_figure.jpg
+  project-papers: ''
+- project-lead: Pulkit Agrawal
+  project-title: 'Learning Athletic, Context-Adaptive Robot Locomotion'
+  project-label: F-24
+  other-iaifi-leads: ''
+  other-iaifi-members: ''
+  other-collaborators: 'Gabriel B Margolis, Yandong Ji'
+  project-code: 'https://github.com/Improbable-AI/walk-these-ways'
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '2'
+  project-tags: reinforcement learning
+  project-summary: >-
+    We advanced legged robot locomotion by developing two approaches:
+    Multiplicity of Behavior (MoB) for rapid adaptation to diverse tasks and
+    environments, and DribbleBot, a system for dexterous ball manipulation under
+    real-world conditions. MoB enables real-time strategy selection, while
+    DribbleBot demonstrates dynamic control through simultaneous locomotion and
+    manipulation. Both approaches leverage reinforcement learning and address
+    challenges of varying environment and task contexts for dynamic,
+    contact-rich motor skills.
+  figure-caption: >-
+    Like a human athlete, DribbleBot operates from onboard perception and
+    dynamically controls a ball across a wide variety of natural terrains
+    including grass, mud, snow, and pavement.
+  sub-thrust: Reinforcement Learning
+  project-figure: research-projects/Agrawal_F-24_figure.jpg
+  project-papers: ''
+- project-lead: Pulkit Agrawal
+  project-title: Learning to Extrapolate - A Transductive Approach
+  project-label: F-25
+  other-iaifi-leads: ''
+  other-iaifi-members: Aviv Netanyahu
+  other-collaborators: ''
+  project-code: 'https://github.com/avivne/bilinear-transduction'
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '5'
+  project-tags: representation/manifold learning
+  project-summary: >-
+    Machine learning systems, especially with overparameterized deep neural
+    networks, can generalize to novel test instances drawn from the same
+    distribution as the training data. However, they fare poorly when evaluated
+    on out-of-support test points. In this work, we tackle the problem of
+    developing machine learning systems that retain the power of
+    overparameterized function approximators while enabling extrapolation to
+    out-of-support test points when possible. This is accomplished by noting
+    that under certain conditions, a “transductive” reparameterization can
+    convert an out-of-support extrapolation problem into a problem of
+    within-support combinatorial generalization. We propose a simple strategy
+    based on bilinear embeddings to enable this type of combinatorial
+    generalization, thereby addressing the out-of-support extrapolation problem
+    under certain conditions. We instantiate a simple, practical algorithm
+    applicable to various supervised learning and imitation learning tasks.
+  figure-caption: >-
+    Figure :1 In the real-world the test distribution (orange) often has a
+    different support than the training distri- bution (blue). Some illustrative
+    tasks: (a) grasp point prediction for object instances with out-of-support
+    scale, (b) action prediction for reaching out-of-support goals, (e) function
+    value prediction for an out-of-support input range. The black crosses show
+    predictions for a conventionally trained deep neural network that makes
+    accu- rate predictions for in-support inputs, but fails on out-of-support
+    inputs. We propose an algorithm that makes accurate out-of-support
+    predictions under a set of assumptions.
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Agrawal_F-25_figure.jpg
+  project-papers: ''
+- project-lead: Max Tegmark
+  project-title: Mechanistic Interpretability
+  project-label: F-7
+  other-iaifi-leads: 'Isaac Chuang, Mike Williams'
+  other-iaifi-members: 'Ziming Liu, Eric Michaud'
+  other-collaborators: >-
+    Isaac Liao, Vedang Lad, Anish Mudide, Chloe Loughridge, Carl Guo, Tara
+    Rezaei Kheirkhah, Mateja Vukelic
+  project-code: ''
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '2'
+  project-tags: uncertainty quantification/robust AI
+  project-summary: >-
+    Our work focuses on figuriing out how machine-learned algorithms work under
+    the hood. We've made discoveries about how knowledge is represented about
+    math, geography and truth assessment, and even auto-distilled dozens of
+    learned algorithms into interpretable Python code.
+  figure-caption: ''
+  sub-thrust: Robust/Interpretable AI
+  project-figure: research-projects/Tegmark_F-7_figure.jpg
+  project-papers: ''
+- project-lead: Ge Yang
+  project-title: Neural Volumetric Memory for Visual Locomotion Control
+  project-label: F-4
+  other-iaifi-leads: ''
+  other-iaifi-members: Ge Yang
+  other-collaborators: 'Xiaolong Wang, Ruihan Yang'
+  project-code: ''
+  analytic-empirical-scale: 9 - Purely empirical
+  innovation-application-scale: '4'
+  project-tags: representation/manifold learning
+  project-summary: >-
+    Legged robots have the potential to expand the reach of autonomy beyond
+    paved roads. In this work, we consider the difficult problem of locomotion
+    on challenging terrains using a single forward-facing depth camera. Due to
+    the partial observability of the problem, the robot has to rely on past
+    observations to infer the terrain currently beneath it. To solve this
+    problem, we follow the paradigm in computer vision that explicitly models
+    the 3D geometry of the scene and propose Neural Volumetric Memory (NVM), a
+    geometric memory architecture that explicitly accounts for the SE(3)
+    equivariance of the 3D world. NVM aggregates feature volumes from multiple
+    camera views by first bringing them back to the ego-centric frame of the
+    robot. We test the learned visual-locomotion policy on a physical robot and
+    show that our approach, learning legged locomotion with neural volumetric
+    memory, produce performance gains over prior works on challenging terrains.
+    We include ablation studies, and show that the representations stored in the
+    neural volumetric memory capture sufficient geometric information to
+    reconstruct the scene.
+  figure-caption: Symmetry Enables Legged Robots to Walk Across Gaps and up Stairs
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Yang_F-4_figure.jpg
+  project-papers: ''
+- project-lead: Isaac Chuang
+  project-title: Noisy dynamical systems evolve error correcting codes and modularity
+  project-label: F-5
+  other-iaifi-leads: ''
+  other-iaifi-members: Trevor McCourt
+  other-collaborators: Ila Fiete
+  project-code: ''
+  analytic-empirical-scale: '7'
+  innovation-application-scale: '3'
+  project-tags: uncertainty quantification/robust AI
+  project-summary: >-
+    In this work, through experiments in Boolean networks, we show that the
+    simultaneous presence of error correction and modularity in biological
+    systems is no coincidence. Rather, it is a typical co-occurrence in noisy
+    dynamic systems undergoing evolution.
+  figure-caption: >-
+    A Boolean network that implements an error- correcting code. a A Boolean
+    network that has adapted to solve the AND task in the presence of noise.
+    Inputs are provided to the orange nodes 0 and 1 at time 0 and, the answer is
+    expected at the green node 2 at time T. A Boolean network is specified by a
+    directed graph with a truth table living on each node. The state of each
+    head node at time t+1 is a binary function of the state of each tail node at
+    time t. For example, the state of node 6 at time t+1 is computed by applying
+    a length 23 truth table to the states of nodes 0, 1, and 3 at time t. The
+    edge coloring reflects the influence of a head node on a tail node.
+    Influence is the probability (taken over the entire truth table) that the
+    head node flips if the tail node flips. b Noisy trajectories of the network
+    in (a) for each of the 22 possible input states. The network encodes the
+    answer in codewords of maximal Hamming distance and stabilizes the codeword
+    against noise events. Codewords may be taken as the final state of the
+    network x[T ] for the different output values. c The two codewords are
+    visualized on the network graph. The boundary of the circles indicates the
+    node function, and the fill indicates the codeword.
+  sub-thrust: Robust/Interpretable AI
+  project-figure: research-projects/Chuang_F-5_figure.jpg
+  project-papers: ''
+- project-lead: Ge Yang
+  project-title: Overcoming the Spectral Bias of Neural Value Approximation
+  project-label: F-21
+  other-iaifi-leads: Pulkit Agrawal
+  other-iaifi-members: ''
+  other-collaborators: Anurag Ajay (MIT)
+  project-code: 'https://github.com/geyang/ffn'
+  analytic-empirical-scale: '6'
+  innovation-application-scale: '3'
+  project-tags: reinforcement learning
+  project-summary: >-
+    Value approximation using deep neural networks is at the heart of off-policy
+    deep reinforcement learning, and is often the primary module that provides
+    learning signals to the rest of the algorithm.  While multi-layer perceptron
+    networks are universal function approximators, recent works in neural kernel
+    regression suggest the presence of a \textit{spectral bias}, where fitting
+    high-frequency components of the value function requires exponentially more
+    gradient update steps than the low-frequency ones. In this work, we
+    re-examine off-policy reinforcement learning through the lens of kernel
+    regression and propose to overcome such bias via a composite neural tangent
+    kernel. With just a single line-change, our approach, the Fourier feature
+    networks (FFN) produce state-of-the-art performance on challenging
+    continuous control domains with only a fraction of the compute. Faster
+    convergence and better off-policy stability also make it possible to remove
+    the target network without suffering catastrophic divergences, which further
+    reduces TD(0)'s estimation bias on a few tasks. Code and analysis available
+    at https://geyang.github.io/ffn.
+  figure-caption: >-
+    Fourier features allow Q learning to better approximate value functions, and
+    reduce learning bias.
+  sub-thrust: Reinforcement Learning
+  project-figure: research-projects/Yang_F-21_figure.jpg
+  project-papers: ''
+- project-lead: William Freeman
+  project-title: Perceiving Causal Structure
+  project-label: F-17
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Eric Li, Tianyuan Zhang'
+  other-collaborators: >-
+    Prof. Noah Snavely, Cornell University,  MIT professors/PI's:  Prof. Josh
+    Tenenbaum (BCS) and Dr. Vikash Mansinghka
+  project-code: ''
+  analytic-empirical-scale: '4'
+  innovation-application-scale: '4'
+  project-tags: representation/manifold learning
+  project-summary: >-
+    Robots cannot yet match humans’ ability to rapidly learn the shapes of novel
+    3D objects and recognize them robustly despite clutter and occlusion, nor
+    can they generally predict well the physical properties of what they see. 
+    This project aims to infer the layout and physical properties of what is
+    seen in images and videos.
+  figure-caption: >-
+    (Left) Leveraging and distilling prior knowledge of dynamics from a
+    pre-trained video generation model, we estimate a physical material field
+    for the static 3D object. (Right) The physical material field allows
+    synthesizing interactive 3D dynamics under arbitrary forces. We show
+    rendered sequences from two viewpoints, with red arrows indicating force
+    directions.
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Freeman_F-17_figure.jpg
+  project-papers: ''
+- project-lead: Pulkit Agrawal
+  project-title: Pointcloud representations for manipulation
+  project-label: F-9
+  other-iaifi-leads: ''
+  other-iaifi-members: Richard Li
+  other-collaborators: Anthony Simeonov (MIT)
+  project-code: 'https://github.com/richardrl/bandu_v1_full_clean'
+  analytic-empirical-scale: '6'
+  innovation-application-scale: '6'
+  project-tags: representation/manifold learning
+  project-summary: >-
+    Pointclouds are an attractive modality for robotic vision due to the
+    availability of high-quality, cheap depth cameras. Some open challenges in
+    pointcloud-based vision for robotics are 1) reducing human annotation
+    requirements, 2) generalization to out-of-distribution shapes and poses, and
+    3) handling multimodality in the space of rotations for symmetric objects.
+    We utilize self-supervised learning in order to be highly
+    annotation-efficient, specifically using domain augmentation and a 3D
+    autoencoding pre-training task. To improve shape generalization, we predict
+    local quantities such as contact points instead of global quantities such as
+    explicit 3D rotation operations, and extract a global rotation from this
+    local quantities. To improve pose generalization, we enforce
+    SE(3)-equivariance in our network architecture. Finally, multimodality is
+    addressed with test-time mode optimization (e.g. optimizing at test-time for
+    a single rotation out of multiple potential rotations predicted) and deep
+    generative modeling.
+  figure-caption: ''
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Agrawal_F-9_figure.jpg
+  project-papers: ''
+- project-lead: Demba Ba
+  project-title: >-
+    Probabilistic Unrolling: A Scalable Deep Learning Approach to Learning
+    Latent Gaussian Models
+  project-label: F-2
+  other-iaifi-leads: ''
+  other-iaifi-members: Alexander Lin
+  other-collaborators: Bahareh Tolooshams/Yves Atchadé
+  project-code: ''
+  analytic-empirical-scale: '3'
+  innovation-application-scale: '3'
+  project-tags: |-
+    generative models
+    uncertainty quantification/robust AI
+  project-summary: >-
+    Latent Gaussian models are ubiquitous tools in probabilistic machine
+    learning.  They provide a flexible way to incorporate both (1) domain
+    knowledge through a structured forward model and (2) data-dependent
+    parameters that can be adapted to different problem settings.  However,
+    classical statistical methods for fitting these models to data are too
+    expensive in high-dimensional and big-data regimes.  In this project, we
+    propose a novel computational framework called probabilistic unrolling that
+    can train a highly structured deep network to fit latent Gaussian models to
+    data in very high dimensions.  On both simulated and real datasets, we
+    demonstrate that our approach can be up to an order-of-magnitude faster than
+    classical methods.
+  figure-caption: >-
+    Comparing the computational time (left) and memory usage efficiency (right)
+    of our method.  We show that our method called probabilistic unrolling (PU)
+    is much more computationally efficient than classical algorithms (e.g.
+    expectation maximization (EM)).
+  sub-thrust: Robust/Interpretable AI
+  project-figure: research-projects/Ba_F-2_figure.jpg
+  project-papers: ''
+- project-lead: Pulkit Agrawal
+  project-title: Rigid body statics as a prior for neural scene generation
+  project-label: F-10
+  other-iaifi-leads: ''
+  other-iaifi-members: Richard Li
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '5'
+  project-tags: |-
+    generative models
+    physics-motivated optimization
+  project-summary: >-
+    Neural networks are good at producing rough predictions, but have
+    difficulties in producing outputs that have exact constraint satisfaction.
+    We consider a scenario where a neural diffusion model produces scenes of
+    objects, and an optimizer is used as a post-processing step to project the
+    neural outputs into static equilibrium. The post-processing stage is
+    difficult for gradient-based optimization due to disjunctive contact
+    constraints.
+  figure-caption: 'Example of static equiibrium optimization, before and after.'
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Agrawal_F-10_figure.jpg
+  project-papers: ''
+- project-lead: Alexander Rakhlin
+  project-title: Robust and Interpretable Models
+  project-label: F-1
+  other-iaifi-leads: ''
+  other-iaifi-members: Alexander Rakhlin
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '2'
+  project-tags: representation/manifold learning
+  project-summary: Understanding the representation power of transformer models.
+  figure-caption: ''
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Rakhlin_F-1_figure.jpg
+  project-papers: ''
+- project-lead: Anna Golubeva
+  project-title: Stochastic Theory of Deep Learning
+  project-label: F-19
+  other-iaifi-leads: ''
+  other-iaifi-members: ''
+  other-collaborators: >-
+    Vasudev Shyam (Stanford), Michael Buchhold (U Cologne), Mihai Nica (U
+    Guelph), Yani Ioannou (U Calgary)
+  project-code: ''
+  analytic-empirical-scale: '2'
+  innovation-application-scale: 1 - Purely AI Innovation
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    Learning in artificial neural networks is a stochastic process. Such
+    processes are ubiquitous in nature and have been studied extensively with a
+    variety of methods developed in theoretical physics. AI, however, is an
+    application-driven field, and thus its theoretical foundations remain
+    largely understudied. We aim to close this gap by leveraging methods from
+    theoretical physics, with the goal of developing a thorough understanding
+    which will guide the design and improvement of AI systems.
+  figure-caption: the principle of "condensed matrix multiplication" for sparse networks
+  sub-thrust: Robust/Interpretable AI
+  project-figure: research-projects/Golubeva_F-19_figure.jpg
+  project-papers: ''
+- project-lead: Tess Smidt
+  project-title: >-
+    Symmpiler: Domain Specific Language (DSL) for Symmetry Euclidean Neural
+    Networks
+  project-label: F-14
+  other-iaifi-leads: ''
+  other-iaifi-members: Mit Kotak
+  other-collaborators: 'Saman Amarasinghe, Fisher Xue, Vivienne Sze, Joel Emer'
+  project-code: 'https://github.com/atomicarchitects/FusionFail'
+  analytic-empirical-scale: 1 - Purely analytic
+  innovation-application-scale: '5'
+  project-tags: |-
+    generative models
+    uncertainty quantification/robust AI
+  project-summary: >-
+    We are building a domain specific language (DSL) that will enable Scientific
+    Machine Learning (SciML) researchers to deploy Euclidean Neural Networks
+    (ENNs) at scale, by making model architecture choices based on the
+    performance cost.
+  figure-caption: >-
+    Currently since the compiler is left with ~300 low level kernels, it falls
+    back upon this Graph mechanism which batches all of these kernels onto a
+    single compute graph at runtime to save up on the overhead of launching
+    multiple GPU kernels one by one. However, what if there’s a way to avoid
+    creating so many low level kernels that led us to the overhead problem in
+    the first place ? Kernel fusion ! Ideally we would want one fused kernel for
+    the forward pass and one fused kernel for the backward pass as shown on the
+    right.
+  sub-thrust: Robust/Interpretable AI
+  project-figure: research-projects/Smidt_F-14_figure.jpg
+  project-papers: ''
+- project-lead: Tess Smidt
+  project-title: >-
+    Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for
+    Molecule Generation
+  project-label: F-13
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Ameya Daigavane, Mario Geiger'
+  other-collaborators: Song Kim
+  project-code: 'https://github.com/atomicarchitects/symphony'
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '3'
+  project-tags: generative models
+  project-summary: >-
+    Symphony is a new E(3)-equivariant generative model for molecules that
+    utilizes higher-degree E(3)-equivariant features to compute spherical
+    harmonic projections for placing points.
+  figure-caption: An overview of the molecule generation process with Symphony
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Smidt_F-13_figure.jpg
+  project-papers: ''
+- project-lead: Alexander Rakhlin
+  project-title: the Husky Programming Language
+  project-label: F-18
+  other-iaifi-leads: ''
+  other-iaifi-members: Xiyu Zhai
+  other-collaborators: ''
+  project-code: 'https://github.com/xiyuzhai-husky-lang/husky'
+  analytic-empirical-scale: '5'
+  innovation-application-scale: 1 - Purely AI Innovation
+  project-tags: |-
+    generative models
+    reinforcement learning
+  project-summary: >-
+    The Husky programming language is a language for building fast, explainable,
+    and powerful post-LLM machine-learning algorithms. It features both static
+    rigor like Rust and Haskell and dynamic flexibility like Python and also
+    guarantees that things can be easily debugged. On top of that, it has a
+    novel programming paradigm that creates a powerful generalized computation
+    graph for advanced machine learning that is easy to develop and debug.
+  figure-caption: Debugging in Husky
+  sub-thrust: Reinforcement Learning
+  project-figure: research-projects/Rakhlin_F-18_figure.jpg
+  project-papers: ''
+- project-lead: Demba Ba
+  project-title: Topographic Regularization with Group Sparse Auto-encoders
+  project-label: F-3
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Manos Theodosis, Alexander Lin'
+  other-collaborators: ''
+  project-code: |-
+    https://github.com/manosth/silhouette-learning
+    https://github.com/manosth/cyclical-groups
+  analytic-empirical-scale: '3'
+  innovation-application-scale: 1 - Purely AI Innovation
+  project-tags: |-
+    generative models
+    physics-motivated optimization
+    representation/manifold learning
+    uncertainty quantification/robust AI
+  project-summary: >-
+    Group sparsity in neural networks lead to a topographic organization of both
+    features and representations. However, modern architectures incorporate
+    symmetry transformations as inductive biases to reduce computational burdens
+    and improve generalization. In this project, we combine group-sparse
+    architectures and symmetry constraints, leading to networks that have
+    topographic organization and also learn underlying symmetries in the domain.
+  figure-caption: >-
+    First figure: An image can be viewed as a discrete signal on Z^2. We
+    interpolate between the points and at the same time apply a linear
+    transformation to get a continuous signal in R^2. Then, we sample points on
+    the discrete grid of Z^2 to get the transformed image.
+
+
+    Second figure: Each network layer consists of a number of groups. Each group
+    has a number of filters and a shared transformation. To generate the
+    effective filters of each group, filters are recursively transformed by
+    applying the transformation of the group to the filters. The effective
+    filters of the layer is the collection of all groups' effective filters.
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Ba_F-3_figure.jpg
+  project-papers: ''
+- project-lead: Tess Smidt
+  project-title: >-
+    Uncovering symmetry breaking information using properties of gradients of
+    equivariant neural networks
+  project-label: F-11
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Elyssa Hofgard, YuQing Xie'
+  other-collaborators: 'Rui (Ray) Wang, Robin Walters'
+  project-code: ''
+  analytic-empirical-scale: '2'
+  innovation-application-scale: '4'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    Modeling symmetry breaking is essential for understanding the fundamental
+    changes in the behaviors and properties of physical systems, from
+    microscopic particle interactions to macroscopic phenomena like fluid
+    dynamics and cosmic structures. In this project, we develop novel neural
+    network architectures and algorithms to detect and model symmetry breaking.
+  figure-caption: >-
+    Updated figure for this year:
+
+    This figure shows our system of classifying symmetry breaking based on how
+    it may appear physically vs. in the dataset itself. Symmetry breaking can be
+    either explicit, arising when the governing equations are asymmetric, or
+    spontaneous, arising when a symmetric system evolves to a lower symmetry
+    without external influence. It can be also classified as either
+    distributional or functional based on how it manifests in data.
+
+
+    Figure from last year's proposal:
+
+    a) This figure shows a toy example of using an ENN to predict displacement
+    vectors (expressed as projections onto spherical harmonics) of how to morph
+    a high-symmetry square to a low-symmetry rectangle. Here, we do not include
+    additional non-scalars as a secondary input. Thus, the ENN is unable to
+    learn this task because the inputs are higher symmetry than the outputs. The
+    learned displacement vectors (shown above as spherical harmonic projections)
+    reflect that there are two symmetrically equivalent rectangles.   b) Now, we
+    show a single spherical harmonic projection for the same process when we
+    include non-scalar inputs and use the gradients of the ENNs to modify these
+    inputs. We see that the projections accurately learn the displacement vector
+    (as compared to the symmetrically degenerate signals in Figure 1.)
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Smidt_F-11_figure.jpg
+  project-papers: ''
+- project-lead: William Freeman
+  project-title: Unsupervised Semantic Segmentation by Distilling Feature Correspondences
+  project-label: F-16
+  other-iaifi-leads: ''
+  other-iaifi-members: Mark Hamilton
+  other-collaborators: >-
+    Zhoutong Zhang (MIT), Bharath Hariharan (Cornell), Noah Snavely (Cornell),
+    Andrew Zisserman (Oxford), John Hershey (Google)
+  project-code: ''
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '3'
+  project-tags: |-
+    physics-motivated optimization
+    representation/manifold learning
+  project-summary: >-
+    Unsupervised semantic segmentation aims to discover and localize
+    semantically meaningful categories within image corpora without any form of
+    annotation. To solve this task, algorithms must produce features for every
+    pixel that are both semantically meaningful and compact enough to form
+    distinct clusters. Unlike previous works which achieve this with a single
+    end-to-end framework, we propose to separate feature learning from cluster
+    compactification. Empirically, we show that current unsupervised feature
+    learning frameworks already generate dense features whose correlations are
+    semantically consistent. This observation motivates us to design STEGO
+    (Self-supervised Transformer with Energy-based Graph Optimization), a novel
+    framework that distills unsupervised features into high-quality discrete
+    semantic labels. At the core of STEGO is a novel contrastive loss function
+    that encourages features to form compact clusters while preserving their
+    relationships across the corpora. STEGO yields a significant improvement
+    over the prior state of the art, on both the CocoStuff (+14 mIoU) and
+    Cityscapes (+9 mIoU) semantic segmentation challenges. Please find short
+    youtube video explaining the project here:  https://youtu.be/NPub4E4o8BA
+  figure-caption: >-
+    Unsupervised semantic segmentation predictions on the CocoStuff (Caesar et
+    al., 2018) 27 class segmentation challenge. Our method, STEGO, does not use
+    labels to discover and segment consistent objects. Unlike the prior state of
+    the art, PiCIE (Cho et al., 2021), STEGO’s predictions are consistent,
+    detailed, and do not omit key objects.
+  sub-thrust: Representation Learning
+  project-figure: research-projects/Freeman_F-16_figure.jpg
+  project-papers: ''
+- project-lead: Philip Harris
+  project-title: Deep Neural Embedding into physics motivated latent space
+  project-label: E-10
+  other-iaifi-leads: 'Matt Schwartz, Erik Katsavounidis'
+  other-iaifi-members: >-
+    Sang Eon Park, Katherine Fraser, Samuel Homiller, Rashmish K. Mishra,
+    Nathaniel Woodward, Lana Xu, Patrick McCormack, Simon Rothman, Katya
+    Govorkova, Ryan Raikman, Eric A. Moreno, Ekaterina Govorkova, Ethan J Marx,
+    Alec Gunny,  Deep Chatterjee
+  other-collaborators: >-
+    Bryan Ostdiek (Microsoft Research), Samuel Bright-Thonney (Cornell), Adrian
+    Pol(Thomson Reuters),William Benoit (Minnesota), Michael W
+    Coughlin(Minnesota), Dylan Rankin(UPenn), Rafia Omer (Minnesota), Muhammed
+    Saleem (Minnesota)
+  project-code: ''
+  analytic-empirical-scale: '7'
+  innovation-application-scale: '7'
+  project-tags: representation/manifold learning
+  project-summary: >-
+    We aim to construct physically meaningful and interpretable spaces that
+    allow us to search for completely new physics models within the space. This
+    extends the capability of interpreting existing new physics searches, and
+    searching for completely new physics, often denoted anomaly detection, where
+    the model is driven by artificial intelligence.
+  figure-caption: >-
+    Application of the embedded space to quantify the phase space covered by
+    autoencoder algorithms.
+
+
+    GWAK: Presentation of the multidimensional embedding space used for
+    gravitational wave anomaly detection.
+  sub-thrust: Large Hadron Collider
+  project-figure: research-projects/Harris_E-10_figure.jpg
+  project-papers: ''
+- project-lead: Philip Harris
+  project-title: >-
+    Developing Robust  supervised learning for to Performi world leading Higgs 
+    and DM LHC measurements and Transient detection at LIGO
+  project-label: E-11
+  other-iaifi-leads: 'Gaia Grosso, Siddharth Mishra Sharma'
+  other-iaifi-members: >-
+    Jeffrey Krupa, Dylan Rankin, Eric Moreno,  Simon Rothman, Duc Hoang, Sang
+    Eon Park, Ethan Marx, Erik Kastavounidis, Katya Govorkova, Vladimir Loncar,
+    Andrezj Novak, Noah Paladino, Orion Foo
+  other-collaborators: >-
+    Nhan Tran (Fermilab), Javier Duarte (UCSD), David Yu (Brown), Jennet
+    Dickinson (Fermilab), Cristina Mantilla Suarez (Fermilab), Benedikt
+    Maier(KIT), Michael Kagan (SLAC), Samuel Bright-Thonney (Cornell)
+  project-code: ''
+  analytic-empirical-scale: '8'
+  innovation-application-scale: '6'
+  project-tags: uncertainty quantification/robust AI
+  project-summary: >-
+    We aim to develop robust deep-learning algorithms that can enable
+    high-quality measurements of properties of the Higgs boson, searches for
+    Dark Matter, and transient detection at the LHC. The goal is to understand
+    the appropriate mitigation strategies that help to mitigate the impact of
+    systematic effects that can bias the overall result. Recently this work has
+    focus on adaption of deep learning strategies to more sophisticated
+    approaches using self-supervised learning.
+  figure-caption: >-
+    Distribution in data and simulation for NN based di-tau reconstruction,
+    using a dedicated NN to recover the Neutrinos, and an NN to separate the
+    di-taus from background. This is for the loose control region. The NN is an
+    interaction network trained with a data augmented sample using modified
+    Matrix Elements to enable robust Data vs Simulation. 
+
+
+    Comparison of the uncertainty band for a jet substructure observable to an
+    updated transformer trained with a contrastive layer with uncertainty
+    augmentations.
+
+
+    (second image) Strategy for a pre-trainign of a jet tagger that mitigates
+    systematic uncertainties, and ultimately outperforms other jet taggers
+    through the use of a pre-traiing sample.
+  sub-thrust: Large Hadron Collider
+  project-figure: research-projects/Harris_E-11_figure.jpg
+  project-papers: ''
+- project-lead: Carlos Argüelles-Delgado
+  project-title: >-
+    Enhancing Events in Neutrino Telescopes through Deep Learning-Driven
+    Super-Resolution
+  project-label: E-1
+  other-iaifi-leads: Nicholas Kamp
+  other-iaifi-members: Felix Yu
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '6'
+  innovation-application-scale: '7'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    We propose a new method to enhance low-energy events in neutrino telescopes.
+    These events are crucial in understanding the neutrino properties, but are
+    difficult to reconstruct due to the little light emitted. Our new approach
+    uses ML to enhance the events prior to using traditional reconstruction
+    methods on them. This improved the reconstruction resolution significantly.
+  figure-caption: Figure shows current pipeline for up-scaling network.
+  sub-thrust: IceCube Neutrino Observatory
+  project-figure: research-projects/Argüelles-Delgado_E-1_figure.jpg
+  project-papers: ''
+- project-lead: Jessie Micallef
+  project-title: >-
+    Expanding Neural Network Toolkit for Liquid Argon Time Projection Chamber
+    Detectors
+  project-label: E-6
+  other-iaifi-leads: 'Taritree Wongjirad, Tess Smidt'
+  other-iaifi-members: 'Omar Alterkait, Zev Imani'
+  other-collaborators: 'Jeremy Wolcott, Hilary Utaegbulam, Dan Douglas'
+  project-code: ''
+  analytic-empirical-scale: '8'
+  innovation-application-scale: '8'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    Expanding the toolset for the universal Liquid Argon machine learning
+    reconstruction to identify and classify particle interactions. New features
+    being explored include using multiple detector inputs, beyond Liquid Argon
+    mediums, and inferring missing regions of particle signatures inside or
+    between detector regions.
+  figure-caption: >-
+    Image of the current Machine Learning toolkit networks along with their
+    functions on the LArTPC data
+  sub-thrust: IceCube Neutrino Observatory
+  project-figure: research-projects/Micallef_E-6_figure.jpg
+  project-papers: ''
+- project-lead: Taritree Wongjirad
+  project-title: Generative Networks for LArTPCs
+  project-label: E-13
+  other-iaifi-leads: Shuchin Aeron
+  other-iaifi-members: Zev Imani
+  other-collaborators: ''
+  project-code: 'https://github.com/zevimani/GenNets'
+  analytic-empirical-scale: '6'
+  innovation-application-scale: '6'
+  project-tags: generative models
+  project-summary: We are exploring the use of generative models for neutrino experiments.
+  figure-caption: >-
+    Single particle examples of protons and electrons using Diffusion-based
+    models
+  sub-thrust: IceCube Neutrino Observatory
+  project-figure: research-projects/Wongjirad_E-13_figure.jpg
+  project-papers: ''
+- project-lead: Jessie Micallef
+  project-title: IceCube Oscillation Analysis using CNNs to Reconstruct Neutrinos
+  project-label: E-5
+  other-iaifi-leads: ''
+  other-iaifi-members: ''
+  other-collaborators: 'Tyce DeYoung, Shiqi Yu, Kayla DeHolton, Tom Stuttard'
+  project-code: ''
+  analytic-empirical-scale: '8'
+  innovation-application-scale: 9 - Purely Physics Application
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    IceCube has O(10^5) atmospheric neutrinos that can be used to constrain
+    neutrino oscillation. Dr. Jessie Micallef’s previous work was building
+    convolutional neural networks (CNNs) to quickly reconstruct this large
+    sample, estimating the neutrinos’ properties with similar accuracy to the
+    previous methods and 10^4 speedup. This project is completing IceCube’s muon
+    neutrino disappearance analysis using 9.3 years of livetime. The results
+    indicate stability for both the simulation and data after the CNNs were used
+    for reconstruction and selection. They also show good agreement with
+    previous IceCube results using traditional reconstruction methods, along
+    with global experimental results.
+  figure-caption: >-
+    The black contour shows the preliminary DeepCore 9.3 year constraint the
+    oscillation mixing parameters (sin^2 theta23 and delta m^2 32), using
+    IceCube’s atmospheric neutrino sample reconstructed with CNNs. The results
+    are compared to experimental constraints published by other neutrino
+    oscillation experiments, all of which agree with the IceCube preliminary
+    contour.
+  sub-thrust: IceCube Neutrino Observatory
+  project-figure: research-projects/Micallef_E-5_figure.jpg
+  project-papers: ''
+- project-lead: Taritree Wongjirad
+  project-title: Improving 3D Deep Learning for LArTPCs with Equivariant Neural Networks
+  project-label: E-12
+  other-iaifi-leads: 'Tess Smidt, Jessie Micallef'
+  other-iaifi-members: Omar Alterkait
+  other-collaborators: ''
+  project-code: 'https://github.com/NuTufts/lareqnn'
+  analytic-empirical-scale: '7'
+  innovation-application-scale: '6'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    We are investigating if incorporating symmetries into the operations of our
+    machine learning algorithms can improve performance, efficiency, and
+    robustness.
+  figure-caption: Example of 3D particle trajectories in a LArTPC
+  sub-thrust: IceCube Neutrino Observatory
+  project-figure: research-projects/Wongjirad_E-12_figure.jpg
+  project-papers: ''
+- project-lead: Lisa Barsotti
+  project-title: >-
+    Improving the performance of the Laser Interferometer Gravitational-wave
+    Observatory (LIGO) with AI
+  project-label: E-7
+  other-iaifi-leads: Pulkit Agrawal
+  other-iaifi-members: Nikhil Mukund
+  other-collaborators: Matthew Evans (MIT)
+  project-code: 'https://github.com/chriswhittle/o3-sqz-ml  (related to the paper analysis).'
+  analytic-empirical-scale: '8'
+  innovation-application-scale: '7'
+  project-tags: |-
+    physics-motivated optimization
+    reinforcement learning
+  project-summary: >-
+    The LIGO detectors are able to measure displacements of 10−18m over the 4 km
+    length of its interferometer arms. This is only possible through a carefully
+    controlled opto-mechanical instrument which involves hundreds of control
+    loops that all need to work simultaneously. The tuning of this giant,
+    multiple-input and multiple-output control system is extremely time
+    consuming, requiring human intervention to maintain optimal performance over
+    many months of operations. We are exploring ways to introduce AI to control
+    LIGO. We started by studying how to use reinforcement learning to optimize
+    LIGO quantum performance by controlling LIGO’s squeezed vacuum system.
+  figure-caption: |-
+    Measured squeezing level calculated from
+    cross-correlation at the interferometer readout
+    compared with model estimates based on squeezer,
+    alignment and environment auxiliary channels. The
+    true and estimated squeezing levels are plotted for a
+    validation dataset with a duration of approximately one
+    week. Although each datapoint is a 60 s average, we
+    smooth the data with a rolling window of 20 minutes to
+    aid readability and emphasize longer-term trends (the
+    pre-smoothed true squeezing level is plotted as a lighter
+    gray). The models are all trained on the 30 days of data
+    preceding this validation dataset. The full nonlinear
+    neural network model (green) is compared with two
+    more simple models: a linear combination of witness
+    channels (blue) and a linear model that also allows for
+    cross-terms (orange)
+  sub-thrust: LIGO Gravitational Waves
+  project-figure: research-projects/Barsotti_E-7_figure.jpg
+  project-papers: ''
+- project-lead: Carlos Argüelles-Delgado
+  project-title: Quantum Machine Learning In Neutrino Telescopes
+  project-label: E-3
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Jeffrey Lazar, Pavel Zhelnin'
+  other-collaborators: Mikel Sanz
+  project-code: ''
+  analytic-empirical-scale: '8'
+  innovation-application-scale: '2'
+  project-tags: |-
+    representation/manifold learning
+    uncertainty quantification/robust AI
+  project-summary: >-
+    Quantum computing is expected to allow for significant more complex
+    calculations than traditional systems. We are developing techniques to use
+    quantum resources to analysis neutrino telescope data.
+  figure-caption: >-
+    Data compression through history. The vertical axis shows the number of
+    atoms needed to encode a single bit of information, while the horizontal
+    axis shows the technology or medium used to store it. We calculated the
+    number of atoms per bit in analog formats (shown in yellow) by counting the
+    average number of characters per document in Greek and English,
+    respectively. For digital medium (shown in blue), we estimated the number of
+    atoms from typical ISO fabrication standards. For quantum devices (shown in
+    pink), the number of bits accessible from 54-qubit quantum states in
+    Google’s Sycamore chip is first calculated for a straightforward basis
+    encoding (left) and afterwards calculated in a contextual quantum random
+    access code (right), extrapolating the method used in this work into that
+    scale. The bottom section shows a high-level overview of this work, starting
+    with the simulation of a high-energy neutrino interaction to the
+    classification of the decoded data. Intermediate steps are represented by
+    the IBM Q quantum computer and an artistic interpretation of quantum
+    computation.
+  sub-thrust: IceCube Neutrino Observatory
+  project-figure: research-projects/Argüelles-Delgado_E-3_figure.jpg
+  project-papers: ''
+- project-lead: Mike Williams
+  project-title: Representation Learning for Discovery in Physics
+  project-label: E-9
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Ouail Kitouni, Niklas Nolte, Sokratis Trifinopoulos, Subhash Kantamneni'
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '5'
+  project-tags: representation/manifold learning
+  project-summary: >-
+    Mechanistic Interpretability (MI) proposes a path toward fully understanding
+    how neural networks make their predictions. Prior work demonstrates that
+    even when trained to perform simple arithmetic, models can implement a
+    variety of algorithms (sometimes concurrently) depending on initialization
+    and hyperparameters. Does this mean neuron-level interpretability techniques
+    have limited applicability? Here, we argue that high-dimensional neural
+    networks can learn useful low-dimensional representations of the data they
+    were trained on, going beyond simply making good predictions: Such
+    representations can be understood with the MI lens and provide insights that
+    are surprisingly faithful to human-derived domain knowledge. This indicates
+    that such approaches to interpretability can be useful for deriving a new
+    understanding of a problem from models trained to solve it.
+  figure-caption: >-
+    Most important principal components of the neutron embedding representations
+    from (left) early and (right) late in the training. The left panel shows
+    that the most crucial aspects of the nuclear shell model, namely the shell
+    structure, including the magic numbers, and the Pauli Exclusion Principle,
+    arise already early in the training. (The Pauli principle is evident with
+    the even (odd) numbers represented as negative (positve) values of PC2. The
+    ends of the even chains of numbers are the magic numbers where each nuclear
+    shell become full.) In the right panel, the even-odd split now occurs in PC
+    dimension 4, hence is not shown. The shell structure has grown into
+    3-dimensional spirals, with the largest 4 magic numbers all occurring at
+    local maxima in PC2 and each shell represented as one revolution around an
+    approximately conic surface. Interpreting this spiral structure is ongoing
+    work.
+  sub-thrust: Large Hadron Collider
+  project-figure: research-projects/Williams_E-9_figure.jpg
+  project-papers: ''
+- project-lead: Mike Williams
+  project-title: Robust AI for Real-Time Applications
+  project-label: E-8
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Ouail Kitouni, Niklas Nolte, Blaise Delaney, Kate Richardson'
+  other-collaborators: Adrian Casais Vidal
+  project-code: |-
+    https://github.com/niklasnolte/MonotOneNorm
+
+    https://github.com/okitouni/EnergyMover-Dual/tree/neurips2022
+  analytic-empirical-scale: '7'
+  innovation-application-scale: '5'
+  project-tags: uncertainty quantification/robust AI
+  project-summary: >-
+    We developed a novel neural network architecture that is both robust and
+    interpretable. Our algorithm has been adopted for use as the primary
+    data-selection algorithm in the LHCb real-time data-processing system in the
+    current LHC data-taking period known as Run 3. In addition, our algorithm
+    has also achieved state-of-the-art performance on benchmarks in medicine,
+    finance, and other applications.
+  figure-caption: >-
+    Demonstration that our novel NN can describe arbitrarily complicated
+    Lipschitz functions due to how we implement the constraints and our choice
+    of activation function. (The white points are 3 different sets of training
+    data, and the function in color defines contours that can be used to
+    separate these classes.)
+  sub-thrust: Large Hadron Collider
+  project-figure: research-projects/Williams_E-8_figure.jpg
+  project-papers: ''
+- project-lead: Taritree Wongjirad
+  project-title: Search for new phyiscs in MicroBooNE using anomaly detection
+  project-label: E-14
+  other-iaifi-leads: Taritree Wongjirad
+  other-iaifi-members: Elizabeth Panner (Tufts Undergrad)
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: 9 - Purely empirical
+  innovation-application-scale: '8'
+  project-tags: generative models
+  project-summary: ' yet.'
+  figure-caption: >-
+    Example of an electron-positron electromagnetic shower pair that we are
+    searching for.
+  sub-thrust: IceCube Neutrino Observatory
+  project-figure: research-projects/Wongjirad_E-14_figure.jpg
+  project-papers: ''
+- project-lead: Carlos Argüelles-Delgado
+  project-title: >-
+    Self-supervised Learning in Neutrino Telescope For Improved Particle
+    Reconstruction
+  project-label: E-2
+  other-iaifi-leads: Nicholas Kamp
+  other-iaifi-members: Felix Yu
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: 9 - Purely empirical
+  innovation-application-scale: '4'
+  project-tags: |-
+    reinforcement learning
+    uncertainty quantification/robust AI
+  project-summary: >-
+    We propose the first self-supervised neutrino event reconstruction for
+    neutrino telescope using IceCube data. Our model reduces reliances on Monte
+    Carlo for particle reconstruction.
+  figure-caption: >-
+    This is an example of self-supervision applied to images from K. He et al.
+    We intend to do the same with neutrino telescope data.
+  sub-thrust: IceCube Neutrino Observatory
+  project-figure: research-projects/Argüelles-Delgado_E-2_figure.jpg
+  project-papers: ''
+- project-lead: Gaia Grosso
+  project-title: Statistical anomaly detection for collider data
+  project-label: E-4
+  other-iaifi-leads: 'Phil Harris, Demba Ba'
+  other-iaifi-members: ''
+  other-collaborators: 'Marco Letizia, Nicolò Lai'
+  project-code: ''
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '7'
+  project-tags: |-
+    representation/manifold learning
+    uncertainty quantification/robust AI
+  project-summary: >-
+    Statistical anomaly detection empowered by AI is a subject of growing
+    interest in high-energy physics and astrophysics. The unsupervised nature of
+    the anomaly detection task combined with the highly complex nature of the
+    LHC data give rise to a set of yet unaddressed challenges for AI. In this
+    project we aim at addressing two of them: (1) the problem of choosing an
+    optimized and tuned AI model architecture that is highly expressive,
+    interpretable and incorporates physics knowledge; (2) the problem
+    efficiently processing large size datasets in batches for quasi-online and
+    offline anomaly detection applications.
+  figure-caption: >-
+    The schematic shows how to "machine learn" a maximum-likelihood-ratio
+    goodness of fit test with the NPLM algorithm on a large size dataset. The
+    dataset is split in batches and NPLM is run over each of them separately.
+    The information learnt over multiple data batches is gathered to build a
+    shared data-driven alternative hypothesis for the test by aggregating the
+    local density ratios, f(x, w), learnt by each model. This approach allows to
+    enhance low significance signal while smoothening noisy statistical
+    fluctuation, thus outperforming aggregations acting at the level of the test
+    statistic t.
+  sub-thrust: Large Hadron Collider
+  project-figure: research-projects/Grosso_E-4_figure.jpg
+  project-papers: ''
+- project-lead: Marin Soljačić
+  project-title: >-
+    ANTN: Bridging Autoregressive Neural Networks and Tensor Networks for
+    Quantum Many-Body Simulation
+  project-label: T-8
+  other-iaifi-leads: Di Luo
+  other-iaifi-members: Zhuo Chen
+  other-collaborators: 'Laker Newhouse, Eddie Chen'
+  project-code: ''
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '5'
+  project-tags: |-
+    generative models
+    physics-motivated optimization
+    reinforcement learning
+  project-summary: >-
+    We develop the Autoregressive Neural TensorNet, combining autoregressive
+    neural networks and tensor networks while addressing their drawbacks, to
+    advance challenging quantum many-body physics simulations.
+  figure-caption: >-
+    Diagrammatic representation of autoregressive neural network (ARNN), tensor
+    network (TN) and our Autoregressive Neural TensorNet (ANTN).
+  sub-thrust: Quantum Many-Body Physics
+  project-figure: research-projects/Soljačić_T-8_figure.jpg
+  project-papers: ''
+- project-lead: Marin Soljačić
+  project-title: Discovering Sparse Interpretable Dynamics from Partial Observations
+  project-label: T-19
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Peter Y. Lu, Rumen Dangovski'
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '3'
+  innovation-application-scale: '4'
+  project-tags: |-
+    representation/manifold learning
+    uncertainty quantification/robust AI
+  project-summary: >-
+    Identifying the governing equations of a nonlinear dynamical system is key
+    to both understanding the physical features of the system and constructing
+    an accurate model of the dynamics that generalizes well beyond the available
+    data. Achieving this kind of interpretable system identification is even
+    more difficult for partially observed systems. We propose a machine learning
+    framework for discovering the governing equations of a dynamical system
+    using only partial observations. Our tests show that this method can
+    successfully reconstruct the full system state and identify the equations of
+    motion governing the underlying dynamics for a variety of ODE and PDE
+    systems.
+  figure-caption: >-
+    A machine learning framework for simultaneous system identification and
+    state reconstruction.
+  sub-thrust: Quantum Many-Body Physics
+  project-figure: research-projects/Soljačić_T-19_figure.jpg
+  project-papers: ''
+- project-lead: William Detmold
+  project-title: Finite volume effective field theory
+  project-label: T-14
+  other-iaifi-leads: Phiala Shanahan
+  other-iaifi-members: Fernando Romero-Lopez
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: 1 - Purely analytic
+  innovation-application-scale: 9 - Purely Physics Application
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    This project aims to use finite volume effective field theory to connect
+    lattice QCD calculations of energies and quantities such as electromagnetic
+    form factors that are performed in a finite spatial volume to results in
+    infinite volume. In order to achieve this, accurate representations of
+    finite-volume effective field theory wave functions are required and this
+    task is aided by the application of machine learning tools.
+  figure-caption: >-
+    Volume dependence of light nuclear binding energies determined using
+    differential programming technique.
+  sub-thrust: Quantum Field Theory and String Theory
+  project-figure: research-projects/Detmold_T-14_figure.jpg
+  project-papers: ''
+- project-lead: Di Luo
+  project-title: 'GenPhys: From Physical Processes to Generative Models'
+  project-label: F-26
+  other-iaifi-leads: Max Tegmark
+  other-iaifi-members: Ziming Liu
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '2'
+  innovation-application-scale: '5'
+  project-tags: generative models
+  project-summary: >-
+    We introduce a general family, Generative Models from Physical Processes
+    (GenPhys), where we translate partial differential equations (PDEs)
+    describing physical processes to generative models. We show that generative
+    models can be constructed from s-generative PDEs (s for smooth). GenPhys
+    subsume the two existing generative models (DM and PFGM) and even give rise
+    to new families of generative models, e.g., "Yukawa Generative Models"
+    inspired from weak interactions. On the other hand, some physical processes
+    by default do not belong to the GenPhys family, e.g., the wave equation and
+    the Schrödinger equation, but could be made into the GenPhys family with
+    some modifications. Our goal with GenPhys is to explore and expand the
+    design space of generative models.
+  figure-caption: Duality between physics and generative models
+  sub-thrust: Robust/Interpretable AI
+  project-figure: research-projects/Luo_F-26_figure.jpg
+  project-papers: ''
+- project-lead: Di Luo
+  project-title: 'Infinite neural network quantum states: entanglement and training dynamics'
+  project-label: T-16
+  other-iaifi-leads: Jim Halverson
+  other-iaifi-members: ''
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '4'
+  innovation-application-scale: '4'
+  project-tags: |-
+    generative models
+    physics-motivated optimization
+  project-summary: >-
+    We study infinite limits of neural network quantum states, which exhibit
+    representation power through ensemble statistics, and also tractable
+    gradient descent dynamics. Ensemble averages of Renyi entropies are
+    expressed in terms of neural network correlators, and architectures that
+    exhibit volume-law entanglement are presented. A general framework is
+    developed for studying the gradient descent dynamics of neural network
+    quantum states, using a quantum state neural tangent kernel. An analytic
+    solution is derived for quantum state supervised learning, which allows it
+    to recover any target wavefunction. Numerical experiments on in different
+    models demonstrate excellent agreement with theory.
+  figure-caption: ''
+  sub-thrust: Quantum Many-Body Physics
+  project-figure: research-projects/Luo_T-16_figure.jpg
+  project-papers: ''
+- project-lead: Jesse Thaler
+  project-title: Intelligent Point Cloud Processing with Energy Flow
+  project-label: T-3
+  other-iaifi-leads: 'Demba Ba (Harvard), Abiy Tasissa (Tufts)'
+  other-iaifi-members: >-
+    Samuel Alipour-fard, Sean Benevedes, Akshunna Dogra, Rikab Gambhir, Patrick
+    Komiske, Serhii Kryhin, Eric M. Metodiev, Athis Osathapan, Stella Wu
+  other-collaborators: >-
+    Pedro Cal (DESY), Ian Moult (Yale), Wouter Waalewijn (Amsterdam), Hua Xing
+    Zhu (Zhejiang), Peter Onyisi (UT Austin), Delon Shen (Stanford), Erik
+    Buhmann (Hamburg), Gregor Kasieczka (Hamburg), Ben Nachman (LBNL), Samuel
+    Bright-Thonney (Cornell), Andrew Larkoski (UCLA)
+  project-code: |-
+    http://github.com/pkomiske/Piranha
+    https://github.com/athiso/moment
+    https://github.com/rikab/MomentAnalysis
+  analytic-empirical-scale: '6'
+  innovation-application-scale: '6'
+  project-tags: |-
+    representation/manifold learning
+    uncertainty quantification/robust AI
+  project-summary: >-
+    The goal of this project is to leverage a collider physics concept called
+    "energy flow" to perform intelligent processing of point cloud datasets. The
+    energy flow representation suppresses information that is difficult to model
+    accurately while opening up a suite unsupervised learning tools involving
+    clustering and optimal transport.  This allows us to incorporate sparsity
+    concepts from computer science into the task of energy flow reconstruction
+    in collider physics.
+  figure-caption: 'PIRANHA:  Mitigating pileup at colliders using optimal transport'
+  sub-thrust: Nuclear/Particle Physics
+  project-figure: research-projects/Thaler_T-3_figure.jpg
+  project-papers: ''
+- project-lead: Fabian Ruehle
+  project-title: Metric Flows with Neural networks
+  project-label: T-17
+  other-iaifi-leads: James Halverson
+  other-iaifi-members: ''
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '3'
+  innovation-application-scale: '5'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    We study neural networks that approximate metrics on (data) manifolds and
+    discuss how flows of metrics studied by mathematicians (e.g. Ricci flow) can
+    be obtained as a special case of metric flows induced by training the
+    networks. We find that infinitely wide NNs (or other kernel methods we
+    study) can reproduce these flows, but do not outperform finite neural nets.
+    This hints at the importance of feature learning, which is shut off in the
+    infinite width limit.
+  figure-caption: Venn diagram of different metric flows
+  sub-thrust: Quantum Field Theory and String Theory
+  project-figure: research-projects/Ruehle_T-17_figure.jpg
+  project-papers: ''
+- project-lead: Jim Halverson
+  project-title: ML for Knot Theory
+  project-label: T-6
+  other-iaifi-leads: 'Fabian Ruehle, Max Tegmark'
+  other-iaifi-members: Ziming Liu
+  other-collaborators: >-
+    Sergei Gukov (California Institute of Technology), Ciprian Manolescu
+    Stanford)
+  project-code: ''
+  analytic-empirical-scale: '8'
+  innovation-application-scale: '8'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    Knot theory is a fundamental subject in low dimension topology that also has
+    implications for three-manifolds and four-manifolds. We are using machine
+    learning to understand a variety of important problems in knot theory,
+    including algorithms for demonstrating sliceness and disproving potential
+    counterexamples to the smooth 4d Poincare conjecture.
+  figure-caption: ''
+  sub-thrust: Quantum Field Theory and String Theory
+  project-figure: research-projects/Halverson_T-6_figure.jpg
+  project-papers: ''
+- project-lead: Tracy Slatyer
+  project-title: Modeling early-universe energy injection with dense neural networks
+  project-label: A-29
+  other-iaifi-leads: ''
+  other-iaifi-members: Yitian Sun
+  other-collaborators: ''
+  project-code: 'https://github.com/hongwanliu/DarkHistory/releases/tag/v1.1.0'
+  analytic-empirical-scale: '3'
+  innovation-application-scale: '8'
+  project-tags: |-
+    generative models
+    physics-motivated optimization
+  project-summary: >-
+    Dark matter annihilation and decay, or other new physics, could inject
+    high-energy particles into the early universe, but modeling the resulting
+    (potentially observable) effects is quite memory-intensive and relies on
+    simplifying assumptions. We showed that dense neural networks can be used to
+    accurately model the cooling of high-energy particles in the early universe,
+    reducing memory and storage requirements by a factor of ~400 relative to the
+    original code, and made the resulting pipeline publicly available.
+  figure-caption: >-
+    Example ionization and thermal history of the cosmos, and the present-day
+    distortion to the low-energy photon spectrum, in the presence of energy
+    injection from decaying dark matter, as computed by the original version of
+    DarkHistory (black lines) and the compact version employing dense neural
+    networks (red dashed line). The difference is shown by the blue line, and is
+    always small. 
+  sub-thrust: Galaxy Formation
+  project-figure: research-projects/Slatyer_A-29_figure.jpg
+  project-papers: ''
+- project-lead: Tracy Slatyer
+  project-title: Modeling the gamma-ray sky for dark matter searches
+  project-label: A-30
+  other-iaifi-leads: Siddharth Mishra-Sharma
+  other-iaifi-members: Yitian Sun
+  other-collaborators: >-
+    Luis Gabriel Bariuan (MIT), Yuqing Wu (Imperial College), Matt Buckley
+    (Rutgers), Edward Ramirez (Rutgers)
+  project-code: 'https://github.com/yitiansun/gce-prob-prog/'
+  analytic-empirical-scale: '6'
+  innovation-application-scale: '8'
+  project-tags: generative models
+  project-summary: >-
+    We are building a new, fast, end-to-end differentiable pipeline for
+    likelihood-based inference using gamma-ray observations of the Galaxy,
+    allowing us to separate the emission from the inner Milky Way into different
+    physical contributions, which is efficient for high-dimensional signal and
+    background models. We will use this pipeline to study the "Galactic Center
+    Excess" (GCE), which has been posited as a possible signal of dark matter
+    annihilation and/or a new population of pulsars; our new pipeline will
+    enable more flexible modeling of both the signal and the complex
+    astrophysical backgrounds. We are exploring the use of Gaussian processes to
+    provide an expressive model for the morphology of the GCE, and the use of
+    normalizing flows to produce generative models of gamma-ray backgrounds.
+  figure-caption: >-
+    Figure 1: (a) A comparison of gamma-ray maps simulated from the physical
+    forward model and those sampled from the trained normalizing flow. Good
+    visual agreement between the two sets of maps can be seen. (b) A comparison
+    of summary statistics (average photon counts PDF and power spectrum)
+    obtained from an ensembled of simulated samples and those generated from the
+    flow. The generative model is able to faithfully reproduce these summaries. 
+
+    Figure 2: Leveraging the diffeomorphism induced by the trained normalizing
+    flow in order to generate explanations for the outputs of neural networks
+    that predict the relative fractions of various modeled components. Minimal
+    perturbations to the data map that change the predicted contribution of a
+    given component by 1$\sigma$ (right, bottom row) are shown along with the
+    associated spatial templates of the components (right, top row).
+
+    Figure 3: Example results from our stochastic variational inference pipeline
+    applied to the Galactic Center Excess. (a) Subset of parameters describing
+    the signal and disk morphologies from a preliminary fit on Fermi data. The
+    radial slopes for the point-source and smooth components, fraction of
+    GCE-attributed point sources in a bulge-like component, and the disk
+    parameter posteriors are shown. (b) Ternary plot showing the result of
+    including three diffuse foreground templates modeling pion decay and
+    bremsstrahlung (left) and inverse Compton scattering (right) concurrently.
+    (c) Multiple signal templates, of astrophysical as well as DM origin,
+    proposed in the literature. Our analysis can include multiple templates in a
+    composite hypothesis in order to account for a larger set of possible signal
+    morphologies in a principled manner.
+  sub-thrust: Galaxy Formation
+  project-figure: research-projects/Slatyer_A-30_figure.jpg
+  project-papers: ''
+- project-lead: Jim Halverson
+  project-title: NN-QFT
+  project-label: T-5
+  other-iaifi-leads: 'Matt Schwartz, Fabian Ruehle'
+  other-iaifi-members: 'Anindita Maiti, Sneh Pandya, Mehmet Demirtas, Sam Frank'
+  other-collaborators: 'Joydeep Naskar (NU), Yidi Qi (NU), Jiahua Tian (ICTP Triest)'
+  project-code: ''
+  analytic-empirical-scale: '4'
+  innovation-application-scale: '6'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    NN-FT is a correspondence between neural networks and field theory that can
+    shed light in both directions. Recently, IAIFI PI's are primarily using it
+    as a new technique for field theory, with focuses on theoretical
+    understanding of the origin of interactions and conformal field theories.
+  figure-caption: ''
+  sub-thrust: Quantum Field Theory and String Theory
+  project-figure: research-projects/Halverson_T-5_figure.jpg
+  project-papers: ''
+- project-lead: Phiala Shanahan
+  project-title: Normalizing flows for lattice quantum field theory
+  project-label: T-11
+  other-iaifi-leads: Denis Boyda
+  other-iaifi-members: 'Fernando Romero-Lopez, Julian Urban, Ryan Abbott, Michael Zhang'
+  other-collaborators: 'Faculty: Kyle Cranmer (NYU), Student: Michael Albergo (NYU)'
+  project-code: ''
+  analytic-empirical-scale: 1 - Purely analytic
+  innovation-application-scale: '5'
+  project-tags: |-
+    generative models
+    physics-motivated optimization
+    uncertainty quantification/robust AI
+  project-summary: >-
+    This project aims to develop novel normalizing flow architectures tailored
+    to sampling problems encountered in lattice quantum field theory
+    calculations. If these techniques can be successfully deployed at scale,
+    this work has the potential to enable nuclear physics studies that are
+    currently computationally intractable.
+  figure-caption: >-
+    Illustration of information propagation layer-by-layer in
+    gauge-symmetry-equivariant flow architecture.
+  sub-thrust: Quantum Field Theory and String Theory
+  project-figure: research-projects/Shanahan_T-11_figure.jpg
+  project-papers: ''
+- project-lead: William Detmold
+  project-title: Path integral contour deformation for noisy observables
+  project-label: T-13
+  other-iaifi-leads: Phiala Shanahan
+  other-iaifi-members: 'Yin Lin, Gurtej Kanwar'
+  other-collaborators: Michael Wagman (Fermilab)
+  project-code: ''
+  analytic-empirical-scale: 1 - Purely analytic
+  innovation-application-scale: '7'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    Contour deformation enables improved statistical precision in the
+    calculation of high-dimensional integrals such as path integrals in lattice
+    field theory. Cauchy's theorem guarantees the deformation does not change
+    the expectation value of the samples, but can change the variance. Machine
+    learning is used to optimise the deformation contour to maximise the
+    signal-to-noise ratio.
+  figure-caption: >-
+    Demonstration of the exponentially improved determination of Wilson loop
+    observables in two-dimensional SU(2) gauge theory.
+  sub-thrust: Quantum Field Theory and String Theory
+  project-figure: research-projects/Detmold_T-13_figure.jpg
+  project-papers: ''
+- project-lead: Phiala Shanahan
+  project-title: >-
+    Physics-informed machine learning for next-generation gravitational-wave
+    astronomy
+  project-label: T-15
+  other-iaifi-leads: ''
+  other-iaifi-members: 'Noah Wolfe, Matthew Mould, Ryan Abbott'
+  other-collaborators: Salvatore Vitale
+  project-code: ''
+  analytic-empirical-scale: '3'
+  innovation-application-scale: '8'
+  project-tags: |-
+    generative models
+    physics-motivated optimization
+    uncertainty quantification/robust AI
+  project-summary: >-
+    Forecasting the science capabilities of future gravitational-wave detectors
+    while accounting for all the relevant physics and uncertainties has so far
+    been infeasible due to the computational cost of traditional data analysis
+    techniques. Our project utilizes generative modeling and physics-informed
+    feature extraction of noisy gravitational-wave data to perform rapid and
+    robust parameter estimation for binary black hole mergers.
+  figure-caption: >-
+    A normalizing flow learns to measure the masses of binary black hole mergers
+    from noisy observations by next-generation gravitational-wave detectors. In
+    blue are posterior measurements made with a standard technique (nested
+    sampling with the bilby code), while orange is the flow prediction, and
+    black lines mark the true values.
+  sub-thrust: Quantum Field Theory and String Theory
+  project-figure: research-projects/Shanahan_T-15_figure.jpg
+  project-papers: ''
+- project-lead: Jesse Thaler
+  project-title: Pushing the Frontiers of Simulation-Based Inference
+  project-label: T-4
+  other-iaifi-leads: ''
+  other-iaifi-members: >-
+    Rikab Gambhir, Sean Benevedes, Patrick Komiske, Raymond Wynne, Eric M.
+    Metodiev
+  other-collaborators: 'Krish Desai (Berkeley), Benjamin Nachman (LBNL), Brian Nord (Fermilab)'
+  project-code: ''
+  analytic-empirical-scale: '8'
+  innovation-application-scale: '7'
+  project-tags: uncertainty quantification/robust AI
+  project-summary: >-
+    The goal of this project is to develop new applications of simulation-based
+    inference that go beyond standard inference tasks.  By developing custom
+    architectures and loss functions, we aim to expand the range of
+    simulation-based tasks that can be accomplished using machine learning.
+  figure-caption: >-
+    FORCE:  Enhancing a new physics resonance through likelihood ratios learned
+    from data
+  sub-thrust: Nuclear/Particle Physics
+  project-figure: research-projects/Thaler_T-4_figure.jpg
+  project-papers: ''
+- project-lead: Marin Soljačić
+  project-title: >-
+    Q-Flow: Generative Modeling for Differential Equations of Open Quantum
+    Dynamics with Normalizing Flows
+  project-label: T-7
+  other-iaifi-leads: Di Luo
+  other-iaifi-members: 'Peter Lu, Rumen Dangovski'
+  other-collaborators: ''
+  project-code: Coming soon!
+  analytic-empirical-scale: '5'
+  innovation-application-scale: '7'
+  project-tags: |-
+    generative models
+    physics-motivated optimization
+  project-summary: >-
+    With Q-Flows, we propose a new paradigm for scientific simulations of
+    quantum systems based on the Husimi Q function formulation. Our approach has
+    several distinct features: (1) it is a universal approximation for quantum
+    state and overcomes the curse of exponential dimensionality of the Hilbert
+    space; (2) it enables applications of off-the-shelf deep generative models,
+    i.e., normalizing flows, to quantum dynamics simulations directly; and (3)
+    this is the first application of neural models to continuous or bosonic open
+    systems. Our method outperforms other methods (including PINN), especially
+    in high-dimensional systems.
+  figure-caption: >-
+    Q-Flows propose a new paradigm for simulations of quantum systems based on
+    the Husimi Q function formulation.
+  sub-thrust: Quantum Many-Body Physics
+  project-figure: research-projects/Soljačić_T-7_figure.jpg
+  project-papers: ''
+- project-lead: Di Luo
+  project-title: Quantum many-body physics simulations with machine learning
+  project-label: T-1
+  other-iaifi-leads: Marin Soljacic
+  other-iaifi-members: 'Zhuo Chen,  John Martyn'
+  other-collaborators: >-
+    Rumen Dangovski, Owen Dugan, Eddie Chen, Laker Newhouse, jiayu shen, Peter
+    Y. Lu, Khadijeh Najafi, Aidan P. Reddy, Trithep Devakul, Liang Fu
+  project-code: ''
+  analytic-empirical-scale: '4'
+  innovation-application-scale: '4'
+  project-tags: |-
+    generative models
+    physics-motivated optimization
+  project-summary: >-
+    This project develops new machine learning methods for simulating quantum
+    many-body physics. It includes three components: 1) phase space simulations
+    of bosonic open quantum system dynamics with flow-based neural network; 2)
+    quantum lattice model simulations with a new architecture that integrates
+    neural network and tensor network; 3) hybrid quantum-classical machine
+    learning algorithms for variational eigensolver simulations on near-term
+    quantum computer.
+  figure-caption: ''
+  sub-thrust: Quantum Many-Body Physics
+  project-figure: research-projects/Luo_T-1_figure.jpg
+  project-papers: ''
+- project-lead: Matthew Schwartz
+  project-title: Reconstructing S-matrix Phases with Machine Learning
+  project-label: T-20
+  other-iaifi-leads: ''
+  other-iaifi-members: Aurelian Dersy
+  other-collaborators: Alexander Zhibeodov
+  project-code: ''
+  analytic-empirical-scale: '4'
+  innovation-application-scale: '7'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    One long-standing problem in S-matrix theory is how to reconstruct the phase
+    of the S matrix knowning its amplitude. We use machine learning to determine
+    the phase by numerically solving the non-linear constraint imposed by
+    unitarity.
+  figure-caption: Finding new ambiguous phase solutions
+  sub-thrust: Nuclear/Particle Physics
+  project-figure: research-projects/Schwartz_T-20_figure.jpg
+  project-papers: ''
+- project-lead: Fabian Ruehle
+  project-title: Rigor with Machine Learning from Field Theory to the Poincare Conjecture
+  project-label: T-18
+  other-iaifi-leads: Jim Halverson
+  other-iaifi-members: ''
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '2'
+  innovation-application-scale: '2'
+  project-tags: |-
+    reinforcement learning
+    representation/manifold learning
+    uncertainty quantification/robust AI
+  project-summary: >-
+    In this Perspective article for Nature Reviews, we discuss techniques for
+    obtaining rigor in the natural sciences with machine learning. We survey
+    applications of these techniques-for-rigor ranging from string theory to the
+    smooth 4d Poincare conjecture in low-dimensional topology. We also describe
+    a new approach to field theory motivated by neural network theory, and a
+    theory of Riemannian metric flows induced by neural network gradient
+    descent, which encompasses Perelman's formulation of the Ricci flow that was
+    utilized to resolve the 3d Poincare conjecture.
+  figure-caption: >-
+    A so-called slice knot. Slice knots are very hard to detect with
+    conventional techniques, but ML techniques have been quite successful
+  sub-thrust: Quantum Field Theory and String Theory
+  project-figure: research-projects/Ruehle_T-18_figure.jpg
+  project-papers: ''
+- project-lead: Matthew Schwartz
+  project-title: Simplifying Polylogarithms with Machine Learning
+  project-label: T-9
+  other-iaifi-leads: ''
+  other-iaifi-members: Aurelian Dersy
+  other-collaborators: ''
+  project-code: ''
+  analytic-empirical-scale: '4'
+  innovation-application-scale: '7'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    Polylogrithmic functions, such as the logarithm or dilogarithm, satisfy a
+    number of algebraic identities. For the logarithm, all the identities follow
+    from the product rule. For the dilogarithm and higher-weight classical
+    polylogarithms, the identities can involve five functions or more. In many
+    calculations relevant to particle physics, complicated combinations of
+    polylogarithms often arise from Feynman integrals. Although the initial
+    expressions resulting from the integration usually simplify, it is often
+    difficult to know which identities to apply and in what order. To address
+    this bottleneck, we explore to what extent machine learning methods can
+    help. We consider both a reinforcement learning approach, where the
+    identities are analogous to moves in a game, and a transformer network
+    approach, where the problem is viewed analogously to a language-translation
+    task. While both methods are effective, the transformer network appears more
+    powerful and holds promise for practical use in symbolic manipulation tasks
+    in mathematical physics.
+  figure-caption: ''
+  sub-thrust: Nuclear/Particle Physics
+  project-figure: research-projects/Schwartz_T-9_figure.jpg
+  project-papers: ''
+- project-lead: Matthew Schwartz
+  project-title: Spinor-Helicity simplification with machine learning
+  project-label: T-10
+  other-iaifi-leads: ''
+  other-iaifi-members: Aurelian Dersy
+  other-collaborators: 'Clifford Cheung, Caltech'
+  project-code: ''
+  analytic-empirical-scale: '4'
+  innovation-application-scale: '7'
+  project-tags: physics-motivated optimization
+  project-summary: >-
+    Scattering amplitudes are often expressible concisely in terms of
+    spinor-helicity products. These products can be simplified with a set of
+    identities, but it is often difficult in practice to know which identities
+    to apply in which order. We study a machine learning approach to this
+    problem using transformer networks and contrastive learning
+  figure-caption: >-
+    Latent space shows evidence that machine is learning how to evaluate
+    complexity of objects.
+  sub-thrust: Nuclear/Particle Physics
+  project-figure: research-projects/Schwartz_T-10_figure.jpg
+  project-papers: ''
