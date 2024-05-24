@@ -12,6 +12,9 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 **Registration is now open.  The registration fee is $200 and includes a Workshop dinner.**
 {:.info} 
 
+**Interested in submitting a contributed talk or poster? [Submit here](https://app.smartsheet.com/b/form/d5398d0a865a457794ead604c4d61e84) by Monday, June 24, 2024 to be considered. Submissions will be reviewed on a rolling basis.**
+{:.info} 
+
 [Register for the Summer Workshop](https://buy.stripe.com/8wMdSy0Nh5iv9OMbIU){:.button.button--outline-primary.button--pill.button--lg}  
 
 * **The 2024 Summer Workshop will be held August 12–16, 2024**
