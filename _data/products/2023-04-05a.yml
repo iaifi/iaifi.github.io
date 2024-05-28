@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: A
+iaifi-thrust: F
 title: "GenPhys: From Physical Processes to Generative Models"
 authors: Ziming Liu, Di Luo, Yilun Xu, Tommi Jaakkola, Max Tegmark
 abstract: 'Since diffusion models (DM) and the more recent Poisson flow generative models (PFGM) are inspired by physical processes, it is reasonable to ask: Can physical processes offer additional new generative models? We show that the answer is yes. We introduce a general family, Generative Models from Physical Processes (GenPhys), where we translate partial differential equations (PDEs) describing physical processes to generative models. We show that generative models can be constructed from s-generative PDEs (s for smooth). GenPhys subsume the two existing generative models (DM and PFGM) and even give rise to new families of generative models, e.g., "Yukawa Generative Models" inspired from weak interactions. On the other hand, some physical processes by default do not belong to the GenPhys family, e.g., the wave equation and the Schrödinger equation, but could be made into the GenPhys family with some modifications. Our goal with GenPhys is to explore and expand the design space of generative models.'

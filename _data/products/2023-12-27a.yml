@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: E
+iaifi-thrust: A
 title: "A Physics-Informed Variational Autoencoder for Rapid Galaxy Inference and Anomaly Detection"
 authors: Alexander Gagliano, V. Ashley Villar
 abstract: 'The Vera C. Rubin Observatory is slated to observe nearly 20 billion galaxies during its decade-long Legacy Survey of Space and Time. The rich imaging data it collects will be an invaluable resource for probing galaxy evolution across cosmic time, characterizing the host galaxies of transient phenomena, and identifying novel populations of anomalous systems. To facilitate these studies, we introduce a convolutional variational autoencoder trained to estimate the redshift, stellar mass, and star-formation rates of galaxies from multi-band imaging data. We train and test our physics-informed CVAE on a spectroscopic sample of ∼26,000 galaxies within z<1 imaged through the Dark Energy Camera Legacy Survey. We show that our model can infer redshift and stellar mass more accurately than the latest image-based self-supervised learning approaches, and is >100x faster than more computationally-intensive SED-fitting techniques. Using a small sample of Green Pea and Red Spiral galaxies reported in the literature, we further demonstrate how this CVAE can be used to rapidly identify rare galaxy populations and interpret what makes them unique.'

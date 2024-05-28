@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: A
+iaifi-thrust: F
 title: "Learning Integrable Dynamics with Action-Angle Networks"
 authors: Ameya Daigavane, Arthur Kosmala, Miles Cranmer, Tess Smidt, Shirley Ho
 abstract: "Machine learning has become increasingly popular for efficiently modelling the dynamics of complex physical systems, demonstrating a capability to learn effective models for dynamics which ignore redundant degrees of freedom. Learned simulators typically predict the evolution of the system in a step-by-step manner with numerical integration techniques. However, such models often suffer from instability over long roll-outs due to the accumulation of both estimation and integration error at each prediction step. Here, we propose an alternative construction for learned physical simulators that are inspired by the concept of action-angle coordinates from classical mechanics for describing integrable systems. We propose Action-Angle Networks, which learn a nonlinear transformation from input coordinates to the action-angle space, where evolution of the system is linear. Unlike traditional learned simulators, Action-Angle Networks do not employ any higher-order numerical integration methods, making them extremely efficient at modelling the dynamics of integrable physical systems."

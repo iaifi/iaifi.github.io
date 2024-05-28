@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: E
+iaifi-thrust: A
 title: "Supernovae Time Profiles as a Probe of New Physics at Neutrino Telescopes"
 authors: Jeff Lazar, Ying-Ying Li, Carlos A. Arguelles, Vedran Brdar
 abstract: 'Neutrino telescopes, including IceCube, can detect galactic supernova events by observing the collective rise in photomultiplier count rates with a sub-second time resolution. Leveraging precise timing, we demonstrate the ability of neutrino telescopes to explore new weakly coupled states emitted from supernovae and subsequently decaying to neutrinos. Our approach utilizes publicly available packages, \texttt{ASTERIA} and \texttt{SNEWPY}, for simulating detector responses and parametrizing neutrino fluxes originating from Standard Model and new physics. We present results for two beyond the Standard Model scenarios and introduce the tool developed for testing a diverse range of new physics models.'

@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: E
+iaifi-thrust: A
 title: "A point cloud approach to generative modeling for galaxy surveys at the field level"
 authors: Carolina Cuesta-Lazaro, Siddharth Mishra-Sharma
 abstract: "We introduce a diffusion-based generative model to describe the distribution of galaxies in our Universe directly as a collection of points in 3-D space (coordinates) optionally with associated attributes (e.g., velocities and masses), without resorting to binning or voxelization. The custom diffusion model can be used both for emulation, reproducing essential summary statistics of the galaxy distribution, as well as inference, by computing the conditional likelihood of a galaxy field. We demonstrate a first application to massive dark matter haloes in the Quijote simulation suite. This approach can be extended to enable a comprehensive analysis of cosmological data, circumventing limitations inherent to summary statistic -- as well as neural simulation-based inference methods."
