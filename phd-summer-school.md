@@ -55,10 +55,10 @@ Lecturer: [Carol Cuesta-Lazaro](https://iaifi.org/current-fellows.html#carolina-
 
 Lecturer: [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan), Assistant Professor of Applied Mathematics & Kempner Institute Associate Faculty, Harvard
 
-<img class="image" src="images/photo-gilles-loupe.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+<img class="image" src="images/photo-gilles-louppe.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Generative Models
 
-Lecturer: [Gilles Loupe](https://glouppe.github.io), Professor, University of Liège 
+Lecturer: [Gilles Louppe](https://glouppe.github.io), Professor, University of Liège 
 
 ### Topic: Reinforcement Learning
 
@@ -94,7 +94,7 @@ Welcome/Introduction
 
 **9:30 am–12:00 pm ET**
 
-Lecture 1: Generative Modeling, Gilles Loupe 
+Lecture 1: Generative Modeling, Gilles Louppe 
 
 <details>
 <summary>Abstract</summary>
