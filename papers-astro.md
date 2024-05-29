@@ -1,11 +1,14 @@
 ---
 layout: article
-title: IAIFI Foundational AI Papers
+title: IAIFI Theoretical Physics Papers
 aside:
   toc: true
 ---
 
-## Foundational AI
+View high energy physics IAIFI papers [on INSPIRE](https://inspirehep.net/institutions/1862936?ui-citation-summary=true)
+{:.info}
+
+## Theoretical Physics
 
 ### Pre-prints
 
@@ -13,7 +16,7 @@ aside:
 {% for product in products %}
 {% assign paper = product %}
 {% if paper.type == "paper" %}
-{% if paper.iaifi-thrust == "F" %}
+{% if paper.iaifi-thrust == "A" %}
 {% if paper.publication-date == blank %}
 ***{{paper.title}}*** <br>
 {{paper.authors}} <br>
@@ -35,7 +38,7 @@ aside:
 {% for product in products %}
 {% assign paper = product %}
 {% if paper.type == "paper" %}
-{% if paper.iaifi-thrust == "F" %}
+{% if paper.iaifi-thrust == "A" %}
 {% if paper.publication-date %}
 ***{{paper.title}}*** <br>
 {{paper.authors}} <br>
