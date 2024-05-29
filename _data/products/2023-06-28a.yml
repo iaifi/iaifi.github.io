@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: E
+iaifi-thrust: A
 title: "Synthetic Gaia DR3 surveys from the FIRE cosmological simulations of Milky-Way-mass galaxies"
 authors: Tri Nguyen, Xiaowei Ou, Nondh Panithanpaisal, Nora Shipp, Lina Necib, Robyn Sanderson, Andrew Wetzel
 abstract: "The third data release (DR3) of Gaia has provided a five-fold increase in the number of radial velocity measurements of stars, as well as a stark improvement in parallax and proper motion measurements. To help with studies that seek to test models and interpret Gaia DR3, we present nine Gaia synthetic surveys, based on three solar positions in three Milky-Way-mass galaxies of the Latte suite of the Fire-2 cosmological simulations. These synthetic surveys match the selection function, radial velocity measurements, and photometry of Gaia DR3, adapting the code base Ananke, previously used to match the Gaia DR2 release in Sanderson et al. 2020. The synthetic surveys are publicly available and can be found at this http URL. Similarly to the previous release of Ananke, these surveys are based on cosmological simulations and thus able to model non-equilibrium dynamical effects, making them a useful tool in testing and interpreting Gaia DR3.

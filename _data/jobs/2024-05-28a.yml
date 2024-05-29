@@ -1,0 +1,7 @@
+type: postdoc
+title: Postdoctoral Research in Data Science and Particle Physics
+employer: Cranmer Lab, University of Wisconsin - Madison
+deadline:
+expire: 2024-06-28
+link: https://datascience.wisc.edu/2024/05/21/postdoctoral-research-opportunity-in-data-science-and-particle-physics/
+details: 'The successful applicant would devote at least half time to the IRIS-HEP effort by playing an active role in building an ecosystem of analysis tools (including scikit-hep, awkward, pyhf, cabinetry, MadMiner, RECAST, etc) and their integration into analysis facilities (with tools such as dask, coffea, Reana, etc.).The position could be based either at CERN or at the Data Science Institute in Madison.'

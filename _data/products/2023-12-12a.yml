@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: E
+iaifi-thrust: A
 title: "Cosmological Field Emulation and Parameter Inference with Diffusion Models"
 authors: Nayantara Mudur, Carolina Cuesta-Lazaro, Douglas P. Finkbeiner
 abstract: "Cosmological simulations play a crucial role in elucidating the effect of physical parameters on the statistics of fields and on constraining parameters given information on density fields. We leverage diffusion generative models to address two tasks of importance to cosmology -- as an emulator for cold dark matter density fields conditional on input cosmological parameters Ωm and σ8, and as a parameter inference model that can return constraints on the cosmological parameters of an input field. We show that the model is able to generate fields with power spectra that are consistent with those of the simulated target distribution, and capture the subtle effect of each parameter on modulations in the power spectrum. We additionally explore their utility as parameter inference models and find that we can obtain tight constraints on cosmological parameters."

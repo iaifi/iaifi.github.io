@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: A
+iaifi-thrust: F
 title: "Physics-Augmented Learning: A New Paradigm Beyond Physics-Informed Learning"
 authors: Ziming Liu, Yunyue Chen, Yuanqi Du, Max Tegmark
 abstract: Integrating physical inductive biases into machine learning can improve model generalizability. We generalize the successful paradigm of physics-informed learning (PIL) into a more general framework that also includes what we term physics-augmented learning (PAL). PIL and PAL complement each other by handling discriminative and generative properties, respectively. In numerical experiments, we show that PAL performs well on examples where PIL is inapplicable or inefficient.

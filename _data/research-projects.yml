@@ -1,5 +1,5 @@
 - project-lead: Alexander Gagliano
-  project-title: An Open-Source Conversational Agent for Supernova Science
+  title: An Open-Source Conversational Agent for Supernova Science
   project-label: A-3
   other-iaifi-leads: ''
   other-iaifi-members: ''
@@ -20,11 +20,11 @@
     The GUI for the speakYSE, the current iteration of the large language model
     chat bot designed to build SQL queries to retrieve data taken by the Young
     Supernova Experiment (YSE).
-  sub-thrust: Galaxy Formation
+  subthrust: galaxy_formation
   project-figure: research-projects/Gagliano_A-3_figure.jpg
   project-papers: ''
 - project-lead: Siddharth Mishra-Sharma
-  project-title: >-
+  title: >-
     Better data compression and generalization for cosmological inference with
     self-supervised machine learning
   project-label: A-27
@@ -49,11 +49,11 @@
     X'$ of the same underlying cosmological parameters of interest (e.g.,
     $\Omega_M$ and $\sigma_8$). The inference network is trained on the
     summaries $S, S'$ obtained from the pre-training step."
-  sub-thrust: Large-Scale Structure
+  subthrust: large_scale_structure
   project-figure: research-projects/Mishra-Sharma_A-27_figure.jpg
   project-papers: ''
 - project-lead: Lina Necib
-  project-title: Building the Merger History of the Milky Way with Graph Neural Networks
+  title: Building the Merger History of the Milky Way with Graph Neural Networks
   project-label: A-15
   other-iaifi-leads: Tess Smidt
   other-iaifi-members: ''
@@ -74,11 +74,11 @@
     color them by the peak mass of their mergers (top) and infall time of that
     merger (bottom). The figure shows that we can distinguish galaxies down to ∼
     10^8 M⊙ in mass and those that have fallen up until 8 billion years ago.
-  sub-thrust: Galaxy Formation
+  subthrust: galaxy_formation
   project-figure: research-projects/Necib_A-15_figure.jpg
   project-papers: ''
 - project-lead: Carolina Cuesta-Lazaro
-  project-title: >-
+  title: >-
     Debiasing with Diffusion: Probabilistic reconstruction of Dark Matter fields
     from galaxies
   project-label: A-6
@@ -103,11 +103,11 @@
     density field. The left panel illustrates the diffusion process, and the
     right panel shows the details of the convolutional-neural-network-based
     denoising model.
-  sub-thrust: Dark Matter Searches
+  subthrust: dark_matter
   project-figure: research-projects/Cuesta-Lazaro_A-6_figure.jpg
   project-papers: ''
 - project-lead: Edo Berger
-  project-title: Deep Learning Detection and Classification of Gravitational Wave Events
+  title: Deep Learning Detection and Classification of Gravitational Wave Events
   project-label: A-12
   other-iaifi-leads: ''
   other-iaifi-members: 'Plamen Krastev, Maryam Hussaini'
@@ -125,11 +125,11 @@
     well as GW170817 and GW190425 (BNS mergers), GW200105 (NSBH marginal
     candidate from GWTC-3), and GW200115 (NSBH candidate from GWTC-3) with our
     deep neural network.
-  sub-thrust: Dark Matter Searches
+  subthrust: dark_matter
   project-figure: research-projects/Berger_A-12_figure.jpg
   project-papers: ''
 - project-lead: Cora Dvorkin
-  project-title: Detecting Dark Matter Perturbers with Strong Gravitational Cluster Lenses
+  title: Detecting Dark Matter Perturbers with Strong Gravitational Cluster Lenses
   project-label: A-22
   other-iaifi-leads: ''
   other-iaifi-members: Chandrika Chandrashekar
@@ -152,11 +152,11 @@
     source. Middle row: reconstruction of these three images using Bayesian
     analysis. Bottom row: residuals between the true images and the image
     reconstructions.
-  sub-thrust: Large-Scale Structure
+  subthrust: large_scale_structure
   project-figure: research-projects/Dvorkin_A-22_figure.jpg
   project-papers: ''
 - project-lead: Siddharth Mishra-Sharma
-  project-title: >-
+  title: >-
     Diagnosing and improving simulation-based inference under model
     misspecification
   project-label: A-20
@@ -180,11 +180,11 @@
     A high-level sketch of the method. We use AI to extract features from the
     forward model such that the featurized data (red point) lies within the
     distribution of summaries (red blob).
-  sub-thrust: Large-Scale Structure
+  subthrust: large_scale_structure
   project-figure: research-projects/Mishra-Sharma_A-20_figure.jpg
   project-papers: ''
 - project-lead: Alexander Gagliano
-  project-title: >-
+  title: >-
     Discovery and Characterization of Pre-Explosion Emission in Terminal Massive
     Stars
   project-label: A-2
@@ -207,11 +207,11 @@
     The number of discovered eruptive precursors from red supergiants with one
     year of observing from the Vera C. Rubin Observatory's Legacy Survey of
     Space and Time.
-  sub-thrust: Galaxy Formation
+  subthrust: galaxy_formation
   project-figure: research-projects/Gagliano_A-2_figure.jpg
   project-papers: ''
 - project-lead: Cora Dvorkin
-  project-title: Fast Detection of Subhalos in Strong Lensing Systems
+  title: Fast Detection of Subhalos in Strong Lensing Systems
   project-label: A-25
   other-iaifi-leads: ''
   other-iaifi-members: Bryan Ostdiek (until Feb 2022); Arthur Tang
@@ -246,11 +246,11 @@
     first instance in the test set with a subhalo of a particular mass bin. The
     first image is dimmer than the rest due to random differences in sources,
     unrelated to the lack of a subhalo.
-  sub-thrust: Dark Matter Searches
+  subthrust: dark_matter
   project-figure: research-projects/Dvorkin_A-25_figure.jpg
   project-papers: ''
 - project-lead: Siddharth Mishra-Sharma
-  project-title: >-
+  title: >-
     Foundation models for astrophysics: associating astronomical observations
     and natural language
   project-label: A-19
@@ -279,11 +279,11 @@
     observations most relevant to a given text query). The proposal abstract
     snippet shown here corresponds to proposal ID
     \href{https://archive.stsci.edu/proposal_search.php?id=16914&mission=hst}{16914}.
-  sub-thrust: Large-Scale Structure
+  subthrust: large_scale_structure
   project-figure: research-projects/Mishra-Sharma_A-19_figure.jpg
   project-papers: ''
 - project-lead: Alexander Gagliano
-  project-title: Galaxy Anomaly Detection with Constrained Variational Autoencoders
+  title: Galaxy Anomaly Detection with Constrained Variational Autoencoders
   project-label: A-1
   other-iaifi-leads: Edo Berger (CfA)
   other-iaifi-members: ''
@@ -306,11 +306,11 @@
     VAE-inferred versus SED-derived redshifts (left) and stellar masses (right)
     for 400,000 DECaLS galaxies in the validation set. Properties are inferred
     by sampling from the first two dimensions of the autoencoder's latent space.
-  sub-thrust: Galaxy Formation
+  subthrust: galaxy_formation
   project-figure: research-projects/Gagliano_A-1_figure.jpg
   project-papers: ''
 - project-lead: Siddharth Mishra-Sharma
-  project-title: Generative modeling and benchmarking of galaxy clustering
+  title: Generative modeling and benchmarking of galaxy clustering
   project-label: A-17
   other-iaifi-leads: 'Carolina Cuesta-Lazaro, Tess Smidt'
   other-iaifi-members: Julia Balla
@@ -334,11 +334,11 @@
     simulate the reverse process -- we sample noise from a standard Gaussian
     distribution and denoise it iteratively using the learned denoising
     distribution."
-  sub-thrust: Galaxy Formation
+  subthrust: galaxy_formation
   project-figure: research-projects/Mishra-Sharma_A-17_figure.jpg
   project-papers: ''
 - project-lead: Carolina Cuesta-Lazaro
-  project-title: Hybrid simulators for cosmology
+  title: Hybrid simulators for cosmology
   project-label: A-7
   other-iaifi-leads: ''
   other-iaifi-members: ''
@@ -359,11 +359,11 @@
     Dark matter density fields at redshift zero for low resolution PM
     simulations (LR), on the left, our corrected PM simulations (LR + Nbodyify),
     on the midle, and high resolution PM simulations (HR).
-  sub-thrust: Large-Scale Structure
+  subthrust: large_scale_structure
   project-figure: research-projects/Cuesta-Lazaro_A-7_figure.jpg
   project-papers: ''
 - project-lead: Carolina Cuesta-Lazaro
-  project-title: Learned priors for effective field theories in cosmology
+  title: Learned priors for effective field theories in cosmology
   project-label: A-5
   other-iaifi-leads: Siddharth Mishra-Sharma
   other-iaifi-members: ''
@@ -388,11 +388,11 @@
     high-z sample. HOD priors on bias parameters are shown in gray. Bias
     parameters for other samples are shown in Appendix. Density levels
     correspond to  68 %  and  95 %  CL.
-  sub-thrust: Galaxy Formation
+  subthrust: galaxy_formation
   project-figure: research-projects/Cuesta-Lazaro_A-5_figure.jpg
   project-papers: ''
 - project-lead: Siddharth Mishra-Sharma
-  project-title: >-
+  title: >-
     Leveraging multiple modalities to learn physically-informative
     representations of time-series data
   project-label: A-21
@@ -417,11 +417,11 @@
     Bright Transient Survey sample. These are embedded into the same embedding
     space (along with corresponding spectra) to learn physically-informative
     embeddings.
-  sub-thrust: Large-Scale Structure
+  subthrust: large_scale_structure
   project-figure: research-projects/Mishra-Sharma_A-21_figure.jpg
   project-papers: ''
 - project-lead: Cora Dvorkin
-  project-title: Measuring the effective slope of a population of subhalos
+  title: Measuring the effective slope of a population of subhalos
   project-label: A-8
   other-iaifi-leads: Siddharth Mishra-Sharma
   other-iaifi-members: Gemma Zhang
@@ -443,11 +443,11 @@
     feasible inference than traditional methods. Furthermore, we applied it to
     Hubble Space Telescope strong lensing data (arXiv: 2308.09739, MNRAS 2024).
   figure-caption: ''
-  sub-thrust: Dark Matter Searches
+  subthrust: dark_matter
   project-figure: research-projects/Dvorkin_A-8_figure.jpg
   project-papers: ''
 - project-lead: Jim Halverson
-  project-title: ML for Cosmology Theory
+  title: ML for Cosmology Theory
   project-label: A-13
   other-iaifi-leads: ''
   other-iaifi-members: Sneh Pandya
@@ -462,11 +462,11 @@
     particle species. We use variational inference to estimate and sample from
     stasis-conditioned posteriors on rates and matter abundances.
   figure-caption: Our variational inference pipeline for studying stasis.
-  sub-thrust: Dark Matter Searches
+  subthrust: dark_matter
   project-figure: research-projects/Halverson_A-13_figure.jpg
   project-papers: ''
 - project-lead: Edo Berger
-  project-title: Photometric classification of Supernovae
+  title: Photometric classification of Supernovae
   project-label: A-11
   other-iaifi-leads: Ashley Villar
   other-iaifi-members: 'Daichi Hiramatsu, Harsh Kumar'
@@ -489,11 +489,11 @@
     events that are typical of the spectroscopic sample, demonstrating that
     ML-based photometric classification can replace the more expensive
     spectroscopic classification in the Rubin/LSST era.
-  sub-thrust: Large-Scale Structure
+  subthrust: large_scale_structure
   project-figure: research-projects/Berger_A-11_figure.jpg
   project-papers: ''
 - project-lead: Cora Dvorkin
-  project-title: >-
+  title: >-
     Precise Cosmological Constraints from BOSS Galaxy Clustering with a
     Simulation-Based Emulator of the Wavelet Scattering Transform
   project-label: A-28
@@ -517,11 +517,11 @@
     WST coefficients (blue) and their joint combination (black) in order to
     analyze the BOSS CMASS observations. The results shown above were obtained
     after imposing a BBN Gaussian prior on the value of ωb = 0.02268 ± 0.00038.
-  sub-thrust: Galaxy Formation
+  subthrust: galaxy_formation
   project-figure: research-projects/Dvorkin_A-28_figure.jpg
   project-papers: ''
 - project-lead: Douglas Finkbeiner
-  project-title: Probabilistic Diffusion models for cosmology
+  title: Probabilistic Diffusion models for cosmology
   project-label: A-10
   other-iaifi-leads: Carol Cuesta-Lazaro
   other-iaifi-members: Nayantara Mudur
@@ -543,11 +543,11 @@
     sample input field.  Cross indicates true parameters.  Bottom row: predicted
     vs. true parameters for 14 simulations with various matter density and
     fluctuation amplitude.
-  sub-thrust: Large-Scale Structure
+  subthrust: large_scale_structure
   project-figure: research-projects/Finkbeiner_A-10_figure.jpg
   project-papers: ''
 - project-lead: Daniel Eisenstein
-  project-title: >-
+  title: >-
     Reconstruction of Cosmological Initial Conditions from Galaxy Redshift
     Surveys
   project-label: A-23
@@ -565,11 +565,11 @@
     to reconstruct the initial conditions of a large-scale structure simulation
     from the final matter density field.
   figure-caption: ''
-  sub-thrust: Large-Scale Structure
+  subthrust: large_scale_structure
   project-figure: research-projects/Eisenstein_A-23_figure.jpg
   project-papers: ''
 - project-lead: Douglas Finkbeiner
-  project-title: Regularization techniques for star-based interstellar dust maps
+  title: Regularization techniques for star-based interstellar dust maps
   project-label: A-9
   other-iaifi-leads: ''
   other-iaifi-members: Nayantara Mudur
@@ -589,11 +589,11 @@
     end, we trained score-based generative models to learn a prior on dust and
     showed that they can be used to denoise noisy images of dust.
   figure-caption: ''
-  sub-thrust: Large-Scale Structure
+  subthrust: large_scale_structure
   project-figure: research-projects/Finkbeiner_A-9_figure.jpg
   project-papers: ''
 - project-lead: Lina Necib
-  project-title: >-
+  title: >-
     Robust Clustering of the Local Milky Way Stellar Kinematic Substructures
     with Gaia eDR3
   project-label: A-14
@@ -628,11 +628,11 @@
     Summary plot for clusters that HDBSCAN identified from the high-stability
     (Nstack> 20) sample with Zmax 2 σ above 2.5 kpc from the integral of motion
     space.
-  sub-thrust: Galaxy Formation
+  subthrust: galaxy_formation
   project-figure: research-projects/Necib_A-14_figure.jpg
   project-papers: ''
 - project-lead: Carolina Cuesta-Lazaro
-  project-title: Running the clock backwards to reconstruct the early Universe
+  title: Running the clock backwards to reconstruct the early Universe
   project-label: A-4
   other-iaifi-leads: 'Daniel Eisenstein, Siddharth Mishra-Sharma'
   other-iaifi-members: ''
@@ -655,11 +655,11 @@
     Example of initial conditions reconstruction. On the left, the late time
     (redshift zero) dark matter density field, on the right, the reconstructed
     initial conditions that gave rise to this late time density field.
-  sub-thrust: Galaxy Formation
+  subthrust: galaxy_formation
   project-figure: research-projects/Cuesta-Lazaro_A-4_figure.jpg
   project-papers: ''
 - project-lead: Carolina Cuesta-Lazaro
-  project-title: Simulation-based Inference for Exoplanet Atmospheric Retrieval
+  title: Simulation-based Inference for Exoplanet Atmospheric Retrieval
   project-label: A-24
   other-iaifi-leads: ''
   other-iaifi-members: ''
@@ -679,11 +679,11 @@
   figure-caption: >-
     Comparison of the posteriors of T, H2O and CO2 for a previously unseen
     random ideal spectrum.
-  sub-thrust: Dark Matter Searches
+  subthrust: dark_matter
   project-figure: research-projects/Cuesta-Lazaro_A-24_figure.jpg
   project-papers: ''
 - project-lead: Siddharth Mishra-Sharma
-  project-title: Simulation-based inference over event ensembles
+  title: Simulation-based inference over event ensembles
   project-label: A-18
   other-iaifi-leads: ''
   other-iaifi-members: ''
@@ -703,11 +703,11 @@
     The red lines/arrows show the path used only in the frequentist setting for
     training a global test-statistic estimator while profiling over global
     nuisance parameters.
-  sub-thrust: Large-Scale Structure
+  subthrust: large_scale_structure
   project-figure: research-projects/Mishra-Sharma_A-18_figure.jpg
   project-papers: ''
 - project-lead: Siddharth Mishra-Sharma
-  project-title: Strong lensing source reconstruction using continuous neural fields
+  title: Strong lensing source reconstruction using continuous neural fields
   project-label: A-26
   other-iaifi-leads: Ge Yang
   other-iaifi-members: ''
@@ -731,11 +731,11 @@
     source residuals, (d) true lensed image, (e) reconstructed lensed image, and
     (f) reconstructed mean minus true lensed image residuals are shown. All
     images are normalized by the observation noise.
-  sub-thrust: Dark Matter Searches
+  subthrust: dark_matter
   project-figure: research-projects/Mishra-Sharma_A-26_figure.jpg
   project-papers: ''
 - project-lead: Siddharth Mishra-Sharma
-  project-title: >-
+  title: >-
     Uncovering dark matter density profiles in dwarf galaxies with graph neural
     networks
   project-label: A-16
@@ -759,11 +759,11 @@
   figure-caption: >-
     Update for Year 3: I have added a new "Schematic illustration of the method"
     figure. (Year 4: same as before)
-  sub-thrust: Dark Matter Searches
+  subthrust: dark_matter
   project-figure: research-projects/Mishra-Sharma_A-16_figure.jpg
   project-papers: ''
 - project-lead: Isaac Chuang
-  project-title: >-
+  title: >-
     A threshold for life: Biological error correction codes generate
     fault-tolerant neural networks
   project-label: F-6
@@ -784,11 +784,11 @@
     Fault tolerance threshold for a neural implementation of a universal
     primitive computational element as a function of the two kinds of noise
     arising in biological neurons.
-  sub-thrust: Robust/Interpretable AI
+  subthrust: robust_ai
   project-figure: research-projects/Chuang_F-6_figure.jpg
   project-papers: ''
 - project-lead: Tess Smidt
-  project-title: Action-Angle Networks
+  title: Action-Angle Networks
   project-label: F-12
   other-iaifi-leads: ''
   other-iaifi-members: 'Ameya Daigavane, Mario Geiger'
@@ -813,11 +813,11 @@
     higher-order numerical integration methods, making them extremely efficient
     at modelling the dynamics of integrable physical systems.
   figure-caption: An overview of the Action-Angle Network
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Smidt_F-12_figure.jpg
   project-papers: ''
 - project-lead: Mike Williams
-  project-title: An Effective Theory of Representation Learning
+  title: An Effective Theory of Representation Learning
   project-label: F-23
   other-iaifi-leads: Max Tegmark
   other-iaifi-members: 'Ziming Liu, Ouail Kitouni, Niklas Nolte, Eric J. Michaud'
@@ -839,11 +839,11 @@
     embeddings at different training stages of a transformer learning modular
     addition. We observe that generalization coincides with the emergence of
     structure in the embeddings.
-  sub-thrust: Robust/Interpretable AI
+  subthrust: robust_ai
   project-figure: research-projects/Williams_F-23_figure.jpg
   project-papers: ''
 - project-lead: Ge Yang
-  project-title: Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation
+  title: Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation
   project-label: F-22
   other-iaifi-leads: ''
   other-iaifi-members: ''
@@ -871,11 +871,11 @@
     machines manipulate unfamiliar objects. The system’s 3D feature fields could
     be helpful in environments that contain thousands of objects, such as
     warehouses.
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Yang_F-22_figure.jpg
   project-papers: ''
 - project-lead: Anna Golubeva
-  project-title: Dynamic sparse training with structural constraints
+  title: Dynamic sparse training with structural constraints
   project-label: F-20
   other-iaifi-leads: ''
   other-iaifi-members: ''
@@ -896,11 +896,11 @@
     framework to learn both a highly sparse and structured representation, while
     maintaining the generalization performance of DST and dense baselines.
   figure-caption: structural constraints in sparse training methods
-  sub-thrust: Robust/Interpretable AI
+  subthrust: robust_ai
   project-figure: research-projects/Golubeva_F-20_figure.jpg
   project-papers: ''
 - project-lead: Todd Zickler
-  project-title: Foundations of visual sensing
+  title: Foundations of visual sensing
   project-label: F-15
   other-iaifi-leads: ''
   other-iaifi-members: 'Dean Hazineh, Gokhan Egri'
@@ -926,11 +926,11 @@
     scene intensity, measures spatial derivatives of intensity, with the spatial
     derivative direction being "steerable" by simple linear re-weightings of the
     four captured channels.
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Zickler_F-15_figure.jpg
   project-papers: ''
 - project-lead: Marin Soljačić
-  project-title: 'Label-efficient machine learning for science, images and text'
+  title: 'Label-efficient machine learning for science, images and text'
   project-label: F-8
   other-iaifi-leads: 'Professor Pulkit Agrawal,  Di Luo, Ge Yang'
   other-iaifi-members: >-
@@ -962,11 +962,11 @@
     Fig 2: Sketch of the multi-symmetry ensemble framework that utilizes
     invariance and equivariance to enhance diversity. In this example we show
     the case of using four-fold rotations.
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Soljačić_F-8_figure.jpg
   project-papers: ''
 - project-lead: Pulkit Agrawal
-  project-title: 'Learning Athletic, Context-Adaptive Robot Locomotion'
+  title: 'Learning Athletic, Context-Adaptive Robot Locomotion'
   project-label: F-24
   other-iaifi-leads: ''
   other-iaifi-members: ''
@@ -988,11 +988,11 @@
     Like a human athlete, DribbleBot operates from onboard perception and
     dynamically controls a ball across a wide variety of natural terrains
     including grass, mud, snow, and pavement.
-  sub-thrust: Reinforcement Learning
+  subthrust: reinforcement_learning
   project-figure: research-projects/Agrawal_F-24_figure.jpg
   project-papers: ''
 - project-lead: Pulkit Agrawal
-  project-title: Learning to Extrapolate - A Transductive Approach
+  title: Learning to Extrapolate - A Transductive Approach
   project-label: F-25
   other-iaifi-leads: ''
   other-iaifi-members: Aviv Netanyahu
@@ -1026,11 +1026,11 @@
     accu- rate predictions for in-support inputs, but fails on out-of-support
     inputs. We propose an algorithm that makes accurate out-of-support
     predictions under a set of assumptions.
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Agrawal_F-25_figure.jpg
   project-papers: ''
 - project-lead: Max Tegmark
-  project-title: Mechanistic Interpretability
+  title: Mechanistic Interpretability
   project-label: F-7
   other-iaifi-leads: 'Isaac Chuang, Mike Williams'
   other-iaifi-members: 'Ziming Liu, Eric Michaud'
@@ -1047,11 +1047,11 @@
     math, geography and truth assessment, and even auto-distilled dozens of
     learned algorithms into interpretable Python code.
   figure-caption: ''
-  sub-thrust: Robust/Interpretable AI
+  subthrust: robust_ai
   project-figure: research-projects/Tegmark_F-7_figure.jpg
   project-papers: ''
 - project-lead: Ge Yang
-  project-title: Neural Volumetric Memory for Visual Locomotion Control
+  title: Neural Volumetric Memory for Visual Locomotion Control
   project-label: F-4
   other-iaifi-leads: ''
   other-iaifi-members: Ge Yang
@@ -1078,11 +1078,11 @@
     neural volumetric memory capture sufficient geometric information to
     reconstruct the scene.
   figure-caption: Symmetry Enables Legged Robots to Walk Across Gaps and up Stairs
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Yang_F-4_figure.jpg
   project-papers: ''
 - project-lead: Isaac Chuang
-  project-title: Noisy dynamical systems evolve error correcting codes and modularity
+  title: Noisy dynamical systems evolve error correcting codes and modularity
   project-label: F-5
   other-iaifi-leads: ''
   other-iaifi-members: Trevor McCourt
@@ -1114,11 +1114,11 @@
     network x[T ] for the different output values. c The two codewords are
     visualized on the network graph. The boundary of the circles indicates the
     node function, and the fill indicates the codeword.
-  sub-thrust: Robust/Interpretable AI
+  subthrust: robust_ai
   project-figure: research-projects/Chuang_F-5_figure.jpg
   project-papers: ''
 - project-lead: Ge Yang
-  project-title: Overcoming the Spectral Bias of Neural Value Approximation
+  title: Overcoming the Spectral Bias of Neural Value Approximation
   project-label: F-21
   other-iaifi-leads: Pulkit Agrawal
   other-iaifi-members: ''
@@ -1147,11 +1147,11 @@
   figure-caption: >-
     Fourier features allow Q learning to better approximate value functions, and
     reduce learning bias.
-  sub-thrust: Reinforcement Learning
+  subthrust: reinforcement_learning
   project-figure: research-projects/Yang_F-21_figure.jpg
   project-papers: ''
 - project-lead: William Freeman
-  project-title: Perceiving Causal Structure
+  title: Perceiving Causal Structure
   project-label: F-17
   other-iaifi-leads: ''
   other-iaifi-members: 'Eric Li, Tianyuan Zhang'
@@ -1175,11 +1175,11 @@
     synthesizing interactive 3D dynamics under arbitrary forces. We show
     rendered sequences from two viewpoints, with red arrows indicating force
     directions.
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Freeman_F-17_figure.jpg
   project-papers: ''
 - project-lead: Pulkit Agrawal
-  project-title: Pointcloud representations for manipulation
+  title: Pointcloud representations for manipulation
   project-label: F-9
   other-iaifi-leads: ''
   other-iaifi-members: Richard Li
@@ -1205,11 +1205,11 @@
     a single rotation out of multiple potential rotations predicted) and deep
     generative modeling.
   figure-caption: ''
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Agrawal_F-9_figure.jpg
   project-papers: ''
 - project-lead: Demba Ba
-  project-title: >-
+  title: >-
     Probabilistic Unrolling: A Scalable Deep Learning Approach to Learning
     Latent Gaussian Models
   project-label: F-2
@@ -1239,11 +1239,11 @@
     of our method.  We show that our method called probabilistic unrolling (PU)
     is much more computationally efficient than classical algorithms (e.g.
     expectation maximization (EM)).
-  sub-thrust: Robust/Interpretable AI
+  subthrust: robust_ai
   project-figure: research-projects/Ba_F-2_figure.jpg
   project-papers: ''
 - project-lead: Pulkit Agrawal
-  project-title: Rigid body statics as a prior for neural scene generation
+  title: Rigid body statics as a prior for neural scene generation
   project-label: F-10
   other-iaifi-leads: ''
   other-iaifi-members: Richard Li
@@ -1263,11 +1263,11 @@
     difficult for gradient-based optimization due to disjunctive contact
     constraints.
   figure-caption: 'Example of static equiibrium optimization, before and after.'
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Agrawal_F-10_figure.jpg
   project-papers: ''
 - project-lead: Alexander Rakhlin
-  project-title: Robust and Interpretable Models
+  title: Robust and Interpretable Models
   project-label: F-1
   other-iaifi-leads: ''
   other-iaifi-members: Alexander Rakhlin
@@ -1278,11 +1278,11 @@
   project-tags: representation/manifold learning
   project-summary: Understanding the representation power of transformer models.
   figure-caption: ''
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Rakhlin_F-1_figure.jpg
   project-papers: ''
 - project-lead: Anna Golubeva
-  project-title: Stochastic Theory of Deep Learning
+  title: Stochastic Theory of Deep Learning
   project-label: F-19
   other-iaifi-leads: ''
   other-iaifi-members: ''
@@ -1302,11 +1302,11 @@
     theoretical physics, with the goal of developing a thorough understanding
     which will guide the design and improvement of AI systems.
   figure-caption: the principle of "condensed matrix multiplication" for sparse networks
-  sub-thrust: Robust/Interpretable AI
+  subthrust: robust_ai
   project-figure: research-projects/Golubeva_F-19_figure.jpg
   project-papers: ''
 - project-lead: Tess Smidt
-  project-title: >-
+  title: >-
     Symmpiler: Domain Specific Language (DSL) for Symmetry Euclidean Neural
     Networks
   project-label: F-14
@@ -1333,11 +1333,11 @@
     the first place ? Kernel fusion ! Ideally we would want one fused kernel for
     the forward pass and one fused kernel for the backward pass as shown on the
     right.
-  sub-thrust: Robust/Interpretable AI
+  subthrust: robust_ai
   project-figure: research-projects/Smidt_F-14_figure.jpg
   project-papers: ''
 - project-lead: Tess Smidt
-  project-title: >-
+  title: >-
     Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for
     Molecule Generation
   project-label: F-13
@@ -1353,11 +1353,11 @@
     utilizes higher-degree E(3)-equivariant features to compute spherical
     harmonic projections for placing points.
   figure-caption: An overview of the molecule generation process with Symphony
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Smidt_F-13_figure.jpg
   project-papers: ''
 - project-lead: Alexander Rakhlin
-  project-title: the Husky Programming Language
+  title: the Husky Programming Language
   project-label: F-18
   other-iaifi-leads: ''
   other-iaifi-members: Xiyu Zhai
@@ -1376,11 +1376,11 @@
     novel programming paradigm that creates a powerful generalized computation
     graph for advanced machine learning that is easy to develop and debug.
   figure-caption: Debugging in Husky
-  sub-thrust: Reinforcement Learning
+  subthrust: reinforcement_learning
   project-figure: research-projects/Rakhlin_F-18_figure.jpg
   project-papers: ''
 - project-lead: Demba Ba
-  project-title: Topographic Regularization with Group Sparse Auto-encoders
+  title: Topographic Regularization with Group Sparse Auto-encoders
   project-label: F-3
   other-iaifi-leads: ''
   other-iaifi-members: 'Manos Theodosis, Alexander Lin'
@@ -1414,11 +1414,11 @@
     effective filters of each group, filters are recursively transformed by
     applying the transformation of the group to the filters. The effective
     filters of the layer is the collection of all groups' effective filters.
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Ba_F-3_figure.jpg
   project-papers: ''
 - project-lead: Tess Smidt
-  project-title: >-
+  title: >-
     Uncovering symmetry breaking information using properties of gradients of
     equivariant neural networks
   project-label: F-11
@@ -1459,11 +1459,11 @@
     include non-scalar inputs and use the gradients of the ENNs to modify these
     inputs. We see that the projections accurately learn the displacement vector
     (as compared to the symmetrically degenerate signals in Figure 1.)
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Smidt_F-11_figure.jpg
   project-papers: ''
 - project-lead: William Freeman
-  project-title: Unsupervised Semantic Segmentation by Distilling Feature Correspondences
+  title: Unsupervised Semantic Segmentation by Distilling Feature Correspondences
   project-label: F-16
   other-iaifi-leads: ''
   other-iaifi-members: Mark Hamilton
@@ -1500,11 +1500,11 @@
     labels to discover and segment consistent objects. Unlike the prior state of
     the art, PiCIE (Cho et al., 2021), STEGO’s predictions are consistent,
     detailed, and do not omit key objects.
-  sub-thrust: Representation Learning
+  subthrust: representation_learning
   project-figure: research-projects/Freeman_F-16_figure.jpg
   project-papers: ''
 - project-lead: Philip Harris
-  project-title: Deep Neural Embedding into physics motivated latent space
+  title: Deep Neural Embedding into physics motivated latent space
   project-label: E-10
   other-iaifi-leads: 'Matt Schwartz, Erik Katsavounidis'
   other-iaifi-members: >-
@@ -1534,11 +1534,11 @@
 
     GWAK: Presentation of the multidimensional embedding space used for
     gravitational wave anomaly detection.
-  sub-thrust: Large Hadron Collider
+  subthrust: collider
   project-figure: research-projects/Harris_E-10_figure.jpg
   project-papers: ''
 - project-lead: Philip Harris
-  project-title: >-
+  title: >-
     Developing Robust  supervised learning for to Performi world leading Higgs 
     and DM LHC measurements and Transient detection at LIGO
   project-label: E-11
@@ -1579,11 +1579,11 @@
     (second image) Strategy for a pre-trainign of a jet tagger that mitigates
     systematic uncertainties, and ultimately outperforms other jet taggers
     through the use of a pre-traiing sample.
-  sub-thrust: Large Hadron Collider
+  subthrust: collider
   project-figure: research-projects/Harris_E-11_figure.jpg
   project-papers: ''
 - project-lead: Carlos Argüelles-Delgado
-  project-title: >-
+  title: >-
     Enhancing Events in Neutrino Telescopes through Deep Learning-Driven
     Super-Resolution
   project-label: E-1
@@ -1601,11 +1601,11 @@
     uses ML to enhance the events prior to using traditional reconstruction
     methods on them. This improved the reconstruction resolution significantly.
   figure-caption: Figure shows current pipeline for up-scaling network.
-  sub-thrust: IceCube Neutrino Observatory
+  subthrust: neutrino
   project-figure: research-projects/Argüelles-Delgado_E-1_figure.jpg
   project-papers: ''
 - project-lead: Jessie Micallef
-  project-title: >-
+  title: >-
     Expanding Neural Network Toolkit for Liquid Argon Time Projection Chamber
     Detectors
   project-label: E-6
@@ -1625,11 +1625,11 @@
   figure-caption: >-
     Image of the current Machine Learning toolkit networks along with their
     functions on the LArTPC data
-  sub-thrust: IceCube Neutrino Observatory
+  subthrust: neutrino
   project-figure: research-projects/Micallef_E-6_figure.jpg
   project-papers: ''
 - project-lead: Taritree Wongjirad
-  project-title: Generative Networks for LArTPCs
+  title: Generative Networks for LArTPCs
   project-label: E-13
   other-iaifi-leads: Shuchin Aeron
   other-iaifi-members: Zev Imani
@@ -1642,11 +1642,11 @@
   figure-caption: >-
     Single particle examples of protons and electrons using Diffusion-based
     models
-  sub-thrust: IceCube Neutrino Observatory
+  subthrust: neutrino
   project-figure: research-projects/Wongjirad_E-13_figure.jpg
   project-papers: ''
 - project-lead: Jessie Micallef
-  project-title: IceCube Oscillation Analysis using CNNs to Reconstruct Neutrinos
+  title: IceCube Oscillation Analysis using CNNs to Reconstruct Neutrinos
   project-label: E-5
   other-iaifi-leads: ''
   other-iaifi-members: ''
@@ -1673,11 +1673,11 @@
     are compared to experimental constraints published by other neutrino
     oscillation experiments, all of which agree with the IceCube preliminary
     contour.
-  sub-thrust: IceCube Neutrino Observatory
+  subthrust: neutrino
   project-figure: research-projects/Micallef_E-5_figure.jpg
   project-papers: ''
 - project-lead: Taritree Wongjirad
-  project-title: Improving 3D Deep Learning for LArTPCs with Equivariant Neural Networks
+  title: Improving 3D Deep Learning for LArTPCs with Equivariant Neural Networks
   project-label: E-12
   other-iaifi-leads: 'Tess Smidt, Jessie Micallef'
   other-iaifi-members: Omar Alterkait
@@ -1691,11 +1691,11 @@
     machine learning algorithms can improve performance, efficiency, and
     robustness.
   figure-caption: Example of 3D particle trajectories in a LArTPC
-  sub-thrust: IceCube Neutrino Observatory
+  subthrust: neutrino
   project-figure: research-projects/Wongjirad_E-12_figure.jpg
   project-papers: ''
 - project-lead: Lisa Barsotti
-  project-title: >-
+  title: >-
     Improving the performance of the Laser Interferometer Gravitational-wave
     Observatory (LIGO) with AI
   project-label: E-7
@@ -1735,11 +1735,11 @@
     more simple models: a linear combination of witness
     channels (blue) and a linear model that also allows for
     cross-terms (orange)
-  sub-thrust: LIGO Gravitational Waves
+  subthrust: gravitational_wave
   project-figure: research-projects/Barsotti_E-7_figure.jpg
   project-papers: ''
 - project-lead: Carlos Argüelles-Delgado
-  project-title: Quantum Machine Learning In Neutrino Telescopes
+  title: Quantum Machine Learning In Neutrino Telescopes
   project-label: E-3
   other-iaifi-leads: ''
   other-iaifi-members: 'Jeffrey Lazar, Pavel Zhelnin'
@@ -1771,11 +1771,11 @@
     classification of the decoded data. Intermediate steps are represented by
     the IBM Q quantum computer and an artistic interpretation of quantum
     computation.
-  sub-thrust: IceCube Neutrino Observatory
+  subthrust: neutrino
   project-figure: research-projects/Argüelles-Delgado_E-3_figure.jpg
   project-papers: ''
 - project-lead: Mike Williams
-  project-title: Representation Learning for Discovery in Physics
+  title: Representation Learning for Discovery in Physics
   project-label: E-9
   other-iaifi-leads: ''
   other-iaifi-members: 'Ouail Kitouni, Niklas Nolte, Sokratis Trifinopoulos, Subhash Kantamneni'
@@ -1811,11 +1811,11 @@
     local maxima in PC2 and each shell represented as one revolution around an
     approximately conic surface. Interpreting this spiral structure is ongoing
     work.
-  sub-thrust: Large Hadron Collider
+  subthrust: collider
   project-figure: research-projects/Williams_E-9_figure.jpg
   project-papers: ''
 - project-lead: Mike Williams
-  project-title: Robust AI for Real-Time Applications
+  title: Robust AI for Real-Time Applications
   project-label: E-8
   other-iaifi-leads: ''
   other-iaifi-members: 'Ouail Kitouni, Niklas Nolte, Blaise Delaney, Kate Richardson'
@@ -1840,11 +1840,11 @@
     of activation function. (The white points are 3 different sets of training
     data, and the function in color defines contours that can be used to
     separate these classes.)
-  sub-thrust: Large Hadron Collider
+  subthrust: collider
   project-figure: research-projects/Williams_E-8_figure.jpg
   project-papers: ''
 - project-lead: Taritree Wongjirad
-  project-title: Search for new phyiscs in MicroBooNE using anomaly detection
+  title: Search for new phyiscs in MicroBooNE using anomaly detection
   project-label: E-14
   other-iaifi-leads: Taritree Wongjirad
   other-iaifi-members: Elizabeth Panner (Tufts Undergrad)
@@ -1857,11 +1857,11 @@
   figure-caption: >-
     Example of an electron-positron electromagnetic shower pair that we are
     searching for.
-  sub-thrust: IceCube Neutrino Observatory
+  subthrust: neutrino
   project-figure: research-projects/Wongjirad_E-14_figure.jpg
   project-papers: ''
 - project-lead: Carlos Argüelles-Delgado
-  project-title: >-
+  title: >-
     Self-supervised Learning in Neutrino Telescope For Improved Particle
     Reconstruction
   project-label: E-2
@@ -1881,11 +1881,11 @@
   figure-caption: >-
     This is an example of self-supervision applied to images from K. He et al.
     We intend to do the same with neutrino telescope data.
-  sub-thrust: IceCube Neutrino Observatory
+  subthrust: neutrino
   project-figure: research-projects/Argüelles-Delgado_E-2_figure.jpg
   project-papers: ''
 - project-lead: Gaia Grosso
-  project-title: Statistical anomaly detection for collider data
+  title: Statistical anomaly detection for collider data
   project-label: E-4
   other-iaifi-leads: 'Phil Harris, Demba Ba'
   other-iaifi-members: ''
@@ -1916,11 +1916,11 @@
     enhance low significance signal while smoothening noisy statistical
     fluctuation, thus outperforming aggregations acting at the level of the test
     statistic t.
-  sub-thrust: Large Hadron Collider
+  subthrust: collider
   project-figure: research-projects/Grosso_E-4_figure.jpg
   project-papers: ''
 - project-lead: Marin Soljačić
-  project-title: >-
+  title: >-
     ANTN: Bridging Autoregressive Neural Networks and Tensor Networks for
     Quantum Many-Body Simulation
   project-label: T-8
@@ -1941,11 +1941,11 @@
   figure-caption: >-
     Diagrammatic representation of autoregressive neural network (ARNN), tensor
     network (TN) and our Autoregressive Neural TensorNet (ANTN).
-  sub-thrust: Quantum Many-Body Physics
+  subthrust: quantum_many_body
   project-figure: research-projects/Soljačić_T-8_figure.jpg
   project-papers: ''
 - project-lead: Marin Soljačić
-  project-title: Discovering Sparse Interpretable Dynamics from Partial Observations
+  title: Discovering Sparse Interpretable Dynamics from Partial Observations
   project-label: T-19
   other-iaifi-leads: ''
   other-iaifi-members: 'Peter Y. Lu, Rumen Dangovski'
@@ -1970,11 +1970,11 @@
   figure-caption: >-
     A machine learning framework for simultaneous system identification and
     state reconstruction.
-  sub-thrust: Quantum Many-Body Physics
+  subthrust: quantum_many_body
   project-figure: research-projects/Soljačić_T-19_figure.jpg
   project-papers: ''
 - project-lead: William Detmold
-  project-title: Finite volume effective field theory
+  title: Finite volume effective field theory
   project-label: T-14
   other-iaifi-leads: Phiala Shanahan
   other-iaifi-members: Fernando Romero-Lopez
@@ -1993,11 +1993,11 @@
   figure-caption: >-
     Volume dependence of light nuclear binding energies determined using
     differential programming technique.
-  sub-thrust: Quantum Field Theory and String Theory
+  subthrust: qft_string
   project-figure: research-projects/Detmold_T-14_figure.jpg
   project-papers: ''
 - project-lead: Di Luo
-  project-title: 'GenPhys: From Physical Processes to Generative Models'
+  title: 'GenPhys: From Physical Processes to Generative Models'
   project-label: F-26
   other-iaifi-leads: Max Tegmark
   other-iaifi-members: Ziming Liu
@@ -2019,11 +2019,11 @@
     some modifications. Our goal with GenPhys is to explore and expand the
     design space of generative models.
   figure-caption: Duality between physics and generative models
-  sub-thrust: Robust/Interpretable AI
+  subthrust: robust_ai
   project-figure: research-projects/Luo_F-26_figure.jpg
   project-papers: ''
 - project-lead: Di Luo
-  project-title: 'Infinite neural network quantum states: entanglement and training dynamics'
+  title: 'Infinite neural network quantum states: entanglement and training dynamics'
   project-label: T-16
   other-iaifi-leads: Jim Halverson
   other-iaifi-members: ''
@@ -2046,11 +2046,11 @@
     to recover any target wavefunction. Numerical experiments on in different
     models demonstrate excellent agreement with theory.
   figure-caption: ''
-  sub-thrust: Quantum Many-Body Physics
+  subthrust: quantum_many_body
   project-figure: research-projects/Luo_T-16_figure.jpg
   project-papers: ''
 - project-lead: Jesse Thaler
-  project-title: Intelligent Point Cloud Processing with Energy Flow
+  title: Intelligent Point Cloud Processing with Energy Flow
   project-label: T-3
   other-iaifi-leads: 'Demba Ba (Harvard), Abiy Tasissa (Tufts)'
   other-iaifi-members: >-
@@ -2079,11 +2079,11 @@
     concepts from computer science into the task of energy flow reconstruction
     in collider physics.
   figure-caption: 'PIRANHA:  Mitigating pileup at colliders using optimal transport'
-  sub-thrust: Nuclear/Particle Physics
+  subthrust: nuclear_particle
   project-figure: research-projects/Thaler_T-3_figure.jpg
   project-papers: ''
 - project-lead: Fabian Ruehle
-  project-title: Metric Flows with Neural networks
+  title: Metric Flows with Neural networks
   project-label: T-17
   other-iaifi-leads: James Halverson
   other-iaifi-members: ''
@@ -2101,11 +2101,11 @@
     This hints at the importance of feature learning, which is shut off in the
     infinite width limit.
   figure-caption: Venn diagram of different metric flows
-  sub-thrust: Quantum Field Theory and String Theory
+  subthrust: qft_string
   project-figure: research-projects/Ruehle_T-17_figure.jpg
   project-papers: ''
 - project-lead: Jim Halverson
-  project-title: ML for Knot Theory
+  title: ML for Knot Theory
   project-label: T-6
   other-iaifi-leads: 'Fabian Ruehle, Max Tegmark'
   other-iaifi-members: Ziming Liu
@@ -2123,11 +2123,11 @@
     including algorithms for demonstrating sliceness and disproving potential
     counterexamples to the smooth 4d Poincare conjecture.
   figure-caption: ''
-  sub-thrust: Quantum Field Theory and String Theory
+  subthrust: qft_string
   project-figure: research-projects/Halverson_T-6_figure.jpg
   project-papers: ''
 - project-lead: Tracy Slatyer
-  project-title: Modeling early-universe energy injection with dense neural networks
+  title: Modeling early-universe energy injection with dense neural networks
   project-label: A-29
   other-iaifi-leads: ''
   other-iaifi-members: Yitian Sun
@@ -2153,11 +2153,11 @@
     DarkHistory (black lines) and the compact version employing dense neural
     networks (red dashed line). The difference is shown by the blue line, and is
     always small. 
-  sub-thrust: Galaxy Formation
+  subthrust: galaxy_formation
   project-figure: research-projects/Slatyer_A-29_figure.jpg
   project-papers: ''
 - project-lead: Tracy Slatyer
-  project-title: Modeling the gamma-ray sky for dark matter searches
+  title: Modeling the gamma-ray sky for dark matter searches
   project-label: A-30
   other-iaifi-leads: Siddharth Mishra-Sharma
   other-iaifi-members: Yitian Sun
@@ -2207,11 +2207,11 @@
     proposed in the literature. Our analysis can include multiple templates in a
     composite hypothesis in order to account for a larger set of possible signal
     morphologies in a principled manner.
-  sub-thrust: Galaxy Formation
+  subthrust: galaxy_formation
   project-figure: research-projects/Slatyer_A-30_figure.jpg
   project-papers: ''
 - project-lead: Jim Halverson
-  project-title: NN-QFT
+  title: NN-QFT
   project-label: T-5
   other-iaifi-leads: 'Matt Schwartz, Fabian Ruehle'
   other-iaifi-members: 'Anindita Maiti, Sneh Pandya, Mehmet Demirtas, Sam Frank'
@@ -2226,11 +2226,11 @@
     as a new technique for field theory, with focuses on theoretical
     understanding of the origin of interactions and conformal field theories.
   figure-caption: ''
-  sub-thrust: Quantum Field Theory and String Theory
+  subthrust: qft_string
   project-figure: research-projects/Halverson_T-5_figure.jpg
   project-papers: ''
 - project-lead: Phiala Shanahan
-  project-title: Normalizing flows for lattice quantum field theory
+  title: Normalizing flows for lattice quantum field theory
   project-label: T-11
   other-iaifi-leads: Denis Boyda
   other-iaifi-members: 'Fernando Romero-Lopez, Julian Urban, Ryan Abbott, Michael Zhang'
@@ -2251,11 +2251,11 @@
   figure-caption: >-
     Illustration of information propagation layer-by-layer in
     gauge-symmetry-equivariant flow architecture.
-  sub-thrust: Quantum Field Theory and String Theory
+  subthrust: qft_string
   project-figure: research-projects/Shanahan_T-11_figure.jpg
   project-papers: ''
 - project-lead: William Detmold
-  project-title: Path integral contour deformation for noisy observables
+  title: Path integral contour deformation for noisy observables
   project-label: T-13
   other-iaifi-leads: Phiala Shanahan
   other-iaifi-members: 'Yin Lin, Gurtej Kanwar'
@@ -2274,11 +2274,11 @@
   figure-caption: >-
     Demonstration of the exponentially improved determination of Wilson loop
     observables in two-dimensional SU(2) gauge theory.
-  sub-thrust: Quantum Field Theory and String Theory
+  subthrust: qft_string
   project-figure: research-projects/Detmold_T-13_figure.jpg
   project-papers: ''
 - project-lead: Phiala Shanahan
-  project-title: >-
+  title: >-
     Physics-informed machine learning for next-generation gravitational-wave
     astronomy
   project-label: T-15
@@ -2305,11 +2305,11 @@
     blue are posterior measurements made with a standard technique (nested
     sampling with the bilby code), while orange is the flow prediction, and
     black lines mark the true values.
-  sub-thrust: Quantum Field Theory and String Theory
+  subthrust: qft_string
   project-figure: research-projects/Shanahan_T-15_figure.jpg
   project-papers: ''
 - project-lead: Jesse Thaler
-  project-title: Pushing the Frontiers of Simulation-Based Inference
+  title: Pushing the Frontiers of Simulation-Based Inference
   project-label: T-4
   other-iaifi-leads: ''
   other-iaifi-members: >-
@@ -2328,11 +2328,11 @@
   figure-caption: >-
     FORCE:  Enhancing a new physics resonance through likelihood ratios learned
     from data
-  sub-thrust: Nuclear/Particle Physics
+  subthrust: nuclear_particle
   project-figure: research-projects/Thaler_T-4_figure.jpg
   project-papers: ''
 - project-lead: Marin Soljačić
-  project-title: >-
+  title: >-
     Q-Flow: Generative Modeling for Differential Equations of Open Quantum
     Dynamics with Normalizing Flows
   project-label: T-7
@@ -2358,11 +2358,11 @@
   figure-caption: >-
     Q-Flows propose a new paradigm for simulations of quantum systems based on
     the Husimi Q function formulation.
-  sub-thrust: Quantum Many-Body Physics
+  subthrust: quantum_many_body
   project-figure: research-projects/Soljačić_T-7_figure.jpg
   project-papers: ''
 - project-lead: Di Luo
-  project-title: Quantum many-body physics simulations with machine learning
+  title: Quantum many-body physics simulations with machine learning
   project-label: T-1
   other-iaifi-leads: Marin Soljacic
   other-iaifi-members: 'Zhuo Chen,  John Martyn'
@@ -2384,11 +2384,11 @@
     learning algorithms for variational eigensolver simulations on near-term
     quantum computer.
   figure-caption: ''
-  sub-thrust: Quantum Many-Body Physics
+  subthrust: quantum_many_body
   project-figure: research-projects/Luo_T-1_figure.jpg
   project-papers: ''
 - project-lead: Matthew Schwartz
-  project-title: Reconstructing S-matrix Phases with Machine Learning
+  title: Reconstructing S-matrix Phases with Machine Learning
   project-label: T-20
   other-iaifi-leads: ''
   other-iaifi-members: Aurelian Dersy
@@ -2403,11 +2403,11 @@
     the phase by numerically solving the non-linear constraint imposed by
     unitarity.
   figure-caption: Finding new ambiguous phase solutions
-  sub-thrust: Nuclear/Particle Physics
+  subthrust: nuclear_particle
   project-figure: research-projects/Schwartz_T-20_figure.jpg
   project-papers: ''
 - project-lead: Fabian Ruehle
-  project-title: Rigor with Machine Learning from Field Theory to the Poincare Conjecture
+  title: Rigor with Machine Learning from Field Theory to the Poincare Conjecture
   project-label: T-18
   other-iaifi-leads: Jim Halverson
   other-iaifi-members: ''
@@ -2431,11 +2431,11 @@
   figure-caption: >-
     A so-called slice knot. Slice knots are very hard to detect with
     conventional techniques, but ML techniques have been quite successful
-  sub-thrust: Quantum Field Theory and String Theory
+  subthrust: qft_string
   project-figure: research-projects/Ruehle_T-18_figure.jpg
   project-papers: ''
 - project-lead: Matthew Schwartz
-  project-title: Simplifying Polylogarithms with Machine Learning
+  title: Simplifying Polylogarithms with Machine Learning
   project-label: T-9
   other-iaifi-leads: ''
   other-iaifi-members: Aurelian Dersy
@@ -2461,11 +2461,11 @@
     powerful and holds promise for practical use in symbolic manipulation tasks
     in mathematical physics.
   figure-caption: ''
-  sub-thrust: Nuclear/Particle Physics
+  subthrust: nuclear_particle
   project-figure: research-projects/Schwartz_T-9_figure.jpg
   project-papers: ''
 - project-lead: Matthew Schwartz
-  project-title: Spinor-Helicity simplification with machine learning
+  title: Spinor-Helicity simplification with machine learning
   project-label: T-10
   other-iaifi-leads: ''
   other-iaifi-members: Aurelian Dersy
@@ -2483,6 +2483,6 @@
   figure-caption: >-
     Latent space shows evidence that machine is learning how to evaluate
     complexity of objects.
-  sub-thrust: Nuclear/Particle Physics
+  subthrust: nuclear_particle
   project-figure: research-projects/Schwartz_T-10_figure.jpg
   project-papers: ''

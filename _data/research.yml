@@ -1,0 +1,65 @@
+thrusts:
+
+  - key: theory
+    name: Theoretical Physics
+    
+    subthrusts:
+    
+      - key:  qft_string
+        name: Quantum Field Theory & String Theory
+
+      - key:  nuclear_particle
+        name: Nuclear/Particle Physics
+
+      - key:  quantum_many_body
+        name: Quantum Many-Body Physics
+
+  - key: experiment
+    name: Experimental Physics
+
+    subthrusts:
+
+      - key:  collider
+        name: Collider Experiments
+
+      - key:  neutrino
+        name: Neutrino Experiments
+        
+      - key:  gravitational_wave
+        name: Gravitational Wave Experiments
+
+        
+  - key: astro
+    name: Astrophysics
+
+    subthrusts:
+
+      - key:   dark_matter
+        name:  Dark Matter Searches
+
+      - key:   large_scale_structure
+        name:  Large-Scale Structure
+
+      - key:   galaxy_formation
+        name:  Galaxy Formation
+
+  - key: ai
+    name: Foundational AI
+
+    subthrusts:
+    
+      - key:   robust_ai
+        name:  Robust/Interpretable AI
+
+      - key:   representation_learning
+        name:  Representation Learning
+        
+      - key:   reinforcement_learning
+        name:  Reinforcement Learning
+
+
+
+
+
+
+

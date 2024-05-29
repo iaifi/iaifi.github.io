@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: E
+iaifi-thrust: A
 title: "Simulation-based Inference for Exoplanet Atmospheric Retrieval: Insights from winning the Ariel Data Challenge 2023 using Normalizing Flows"
 authors: Mayeul Aubin, Carolina Cuesta-Lazaro, Ethan Tregidga, Javier Viaña, Cecilia Garraffo, Iouli E. Gordon, Mercedes López-Morales, Robert J. Hargreaves, Vladimir Yu. Makhnev, Jeremy J. Drake, Douglas P. Finkbeiner, Phillip Cargile
 abstract: "Advancements in space telescopes have opened new avenues for gathering vast amounts of data on exoplanet atmosphere spectra. However, accurately extracting chemical and physical properties from these spectra poses significant challenges due to the non-linear nature of the underlying physics. 

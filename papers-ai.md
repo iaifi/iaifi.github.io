@@ -13,7 +13,7 @@ aside:
 {% for product in products %}
 {% assign paper = product %}
 {% if paper.type == "paper" %}
-{% if paper.iaifi-thrust == "A" %}
+{% if paper.iaifi-thrust == "F" %}
 {% if paper.publication-date == blank %}
 ***{{paper.title}}*** <br>
 {{paper.authors}} <br>
@@ -35,7 +35,7 @@ aside:
 {% for product in products %}
 {% assign paper = product %}
 {% if paper.type == "paper" %}
-{% if paper.iaifi-thrust == "A" %}
+{% if paper.iaifi-thrust == "F" %}
 {% if paper.publication-date %}
 ***{{paper.title}}*** <br>
 {{paper.authors}} <br>
