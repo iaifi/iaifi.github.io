@@ -133,6 +133,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
 
+  ***IAIFI Investigator Carlos Argüelles-Delgado named a CIFAR Azrieli Global Scholar***. [Learn more about the 2024–2026 cohort.](https://cifar.ca/cifar-azrieli-global-scholars/). *May 29, 2024*
+{:.info}
+ 
  ***IAIFI Director Jesse Thaler featured on NSF CISE Newsletter***. Read ["NSF CISE Newsletter"](https://content.govdelivery.com/accounts/USNSF/bulletins/39e647f). *May 23, 2024*
 {:.info}
 
