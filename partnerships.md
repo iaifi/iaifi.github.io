@@ -43,6 +43,7 @@ The program is shared below. [The slides are available](https://internal.iaifi.o
 * [NSF AI Planning Institute for Data-Driven Discovery in Physics](https://www.cmu.edu/ai-physics-institute/index.html)
 * [Community Laboratory for AI Research at the Intersection with Physics (CLARIPHY)](https://clariphy.org)
 * [Dark Machines](https://darkmachines.org/#home)
+* [Machine Learning for Science (ML4Sci)](https://ml4sci.org/)
 * [View our calendar of related events](/related-events.html)
 
 ## Other NSF AI Institutes
