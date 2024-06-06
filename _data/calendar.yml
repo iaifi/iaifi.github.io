@@ -1,0 +1,27 @@
+columns:
+
+  - name: Monday
+    column_width: 2
+    day_span: 1
+
+  - name: Tuesday
+    column_width: 2
+    day_span: 1
+
+  - name: Wednesday
+    column_width: 2
+    day_span: 1
+
+  - name: Thursday
+    column_width: 2
+    day_span: 1
+
+  - name: Friday
+    column_width: 2
+    day_span: 1
+
+  - name: Sat/Sun
+    column_width: 2
+    day_span: 2
+
+
