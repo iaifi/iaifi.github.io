@@ -1,0 +1,23 @@
+- type: "coffee-hour"
+  event-date: "2024-06-11"
+  event-time: 01:00 pm ET
+  event-date-time: "June 11, 2024, 1:00–2:00 pm"
+  event-location: "IAIFI Penthouse"
+  event-description: "Weekly informal IAIFI Coffee Hour for networking and socializing. Anyone in IAIFI is welcome to attend and refreshments will be provided."
+  event-rsvp: No RSVP required
+
+- type: "game-night"
+  event-date: "2024-09-03"
+  event-time: 05:30 pm ET
+  event-date-time: "September 3, 2024, 5:30–7:30 pm"
+  event-location: "IAIFI Penthouse"
+  event-description: "Monthly game nights on the first Tuesday of every month. Pizza and snacks are provided! This event is family friendly, so feel free to bring significant others and kids (note: you are responsible for any guests you bring)."
+  event-rsvp: No RSVP required
+
+- type: "social-event"
+  event-date: "2024-04-26"
+  event-time: 03:30 pm ET
+  event-date-time: "September 3, 2024, 3:30–6:00 pm"
+  event-location: "Shy Bird"
+  event-description: "Join your fellow IAIFI members for an opportunity to network and socialize over a buffet and drinks. The menu will include: Crispy Green Leaf Salad, Smash Burger Sliders, Mac & Cheese, Vegetable Crudite with Housemade Dips, and Rosemary & Black Pepper Fries. There will also be an open bar--two drinks per person. Assuming good weather, the gathering will be on the patio (an indoor space is available if there is rain)."
+  event-rsvp: https://app.smartsheet.com/b/form/d6666a5845394d519c9786bad460f21c

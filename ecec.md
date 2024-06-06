@@ -10,7 +10,7 @@ aside:
 The Early Career & Equity Committee (ECEC) serves as an advisory body to IAIFI Management on aspects related to early career researchers and DEI, as well as to oversee the well-being and working environment of all IAIFI members. Their goal is to create an equitable, inclusive, welcoming, and enjoyable place of work, where people of all backgrounds and career stages can feel supported to do their best work and advance forward in their careers in an environment free from discrimination and injustice.
 
 * [View the IAIFI Code of Conduct](/code-of-conduct.html), developed by the ECEC
-* [View the ECEC expectations](/images/ecec-expectations.pdf)
+* [View the ECEC expectations](https://docs.google.com/document/d/1wmjxpPnLZgVaDj4W_JUr7mtnSFZ9tlfv29GqlE2E1Rg/edit?usp=share_link)
 * 2021 ECEC: Tracy Slatyer (Chair), Edo Berger, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Siddharth Mishra-Sharma
 * 2022 ECEC: Tracy Slatyer (Chair), Edo Berger, Sean Benevedes, Mehmet Demirtas, Anindita Maiti, Rashmish Mishra, Siddharth Mishra-Sharma
 * 2023 ECEC: Edo Berger (Chair), Tess Smidt, Sean Benevedes, Carolina Cuesta-Lazaro, Mehmet Demirtas, Zeviel Imani, Jessie Micallef, Rashmish Mishra
