@@ -192,7 +192,11 @@ aside:
   {% if talk.type == "spring-2021" %}
 
 {% if talk.slides-link %}
+{% if talk.speaker-website %}
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+{% else %}
+* **{{talk.speaker-name}}, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+{% endif %}
     * **{{talk.talk-date-time}}**
     * *{{talk.talk-title}}*
     * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
@@ -200,7 +204,6 @@ aside:
 * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
     * **{{talk.talk-date-time}}**
     * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
     * Slides not available
   {% endif %}
   {% endif %}

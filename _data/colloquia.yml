@@ -180,7 +180,7 @@
   talk-title: "Robophysics: robotics meets physics"
   talk-abstract: "Robots will soon move from the factory floor and into our lives (e.g. autonomous cars, package delivery drones, and search-and-rescue devices). However, compared to living systems, robot capabilities in complex environments are limited. I believe the mindset and tools of physics can help facilitate the creation of robust self-propelled autonomous systems. This “robophysics” approach – the systematic search for novel dynamics and principles in robotic systems -- can aid the computer science and engineering approaches which have proven successful in less complex environments. The rapidly decreasing cost of constructing sophisticated robot models with easy access to significant computational power bodes well for such interactions. And such devices are valuable as models of living systems (complementing theoretical and computational modeling approaches) and can lead to development of engineered devices that begin to achieve life-like locomotor abilities on and within complex environments. They also provide excellent tools to study questions in active matter physics. In this talk, I will provide examples of the above using recent studies in which concepts from modern physics--geometric phase and mechanical “diffraction” – have led to new insights into biological and engineered locomotion across scales."
   slides-link: 
-  youtube-link: 
+  youtube-link:
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
   talk-attendance: 30 in person 14 virtual

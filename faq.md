@@ -14,7 +14,7 @@ aside:
 
 * **How can I get more involved with IAIFI?** 
   * *If you are already a member of IAIFI:* Visit our [Committees](/committees.html) page for ways to help IAIFI achieve both its research and broader impacts objectives
-  * *If you are a senior researcher/faculty in the Boston area:* Visit our [Senior Researchers page](/senior-researchers.html).
+  * *If you are a senior researcher/faculty in the Boston area:* Visit our [Senior Researchers page](/join.html#faculty/senior-researchers).
   * *If you are a junior researcher in the Boston area:* Visit our [Junior Researchers page](/junior-researchers.html).
   * *If you are a potential industry partner:* Visit our [Industry Partners page](/industry-partners.html)
 
