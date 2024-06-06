@@ -23,6 +23,60 @@ aside:
 {% endunless %}
 {% endfor %}
 
+<!-- Trying to make graphically representation of projects -->
+
+```chart
+{
+  "type": "bubble",
+  "data": {
+    "datasets": [{
+      "label": "My dataset",
+      "data": [
+        {"x": 0, "y": 7},
+        {"x": 1, "y": 3}
+      ],
+      "backgroundColor": [
+        "#FF6384",
+        "#4BC0C0",
+        "#FFCE56",
+        "#E7E9ED",
+        "#36A2EB"
+      ]
+    }]
+  },
+  "options": {
+    "aspectRatio": 1,
+    "plugins": {
+      "title": {
+        "display": "true",
+        "text": "Custom Chart Title"
+      }
+    },
+    "scales": {
+      "x": {
+        "beginAtZero": "true",
+        "min": 0,
+        "max": 10
+      },
+      "yAxis": {
+        "title": { "display": "true", "text": "Number of Articles"},
+        "type": "logarithmic",
+        "position": "right",
+        "beginAtZero": "true",
+        "min": 0,
+        "max": 10
+      }
+    },
+    "elements": {
+      "point": {
+        "radius": 10
+      }
+    }
+  }
+}
+```
+
+
 <!-- Now print out everything -->
 
 {% for thrust in site.data.research.thrusts %}
