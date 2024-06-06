@@ -24,4 +24,25 @@ columns:
     column_width: 2
     day_span: 2
 
+events:
 
+  - type: "IAIFI Colloquium"
+    short_name:  "Jesse Thaler"
+    start_date_time:  2024-04-03 14:00
+    duration_in_minutes:  60
+
+  - type: "IAIFI Journal Club"
+    short_name:  "Jesse Thaler"
+    start_date_time:  2024-04-07 11:00
+    duration_in_minutes:  60
+
+
+  - type: "IAIFI Colloquium"
+    short_name:  "Jesse Thaler"
+    start_date_time:  2024-04-12 14:00
+    duration_in_minutes:  60
+
+  - type: "IAIFI Journal Club"
+    short_name:  "Jesse Thaler"
+    start_date_time:  2024-04-18 11:00
+    duration_in_minutes:  60
