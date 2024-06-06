@@ -14,7 +14,7 @@ Regardless of their position or seniority, members of the IAIFI and participants
 Furthermore, members of the IAIFI and participants in IAIFI activities may not engage in retaliation against anyone for objecting to a behavior that may violate this code, reporting a violation of this code, or participating in the resolution of such a complaint.
 
 ## Related Policies
-In addition to this Code of Conduct, members of the IAIFI and participants in IAIFI activities are required to comply with MIT’s Non-Discrimination Policy, and MIT’s Policy Prohibiting Discriminatory Harassment, including Sexual Harassment, Sexual Misconduct, Gender-Based Harassment, and Title IX Sexual Harassment (see [IAIFI’s Non-Discrimination Policy and Policy Prohibiting Discriminatory Harassment](#non-discrimination) for further information). 
+In addition to this Code of Conduct, members of the IAIFI and participants in IAIFI activities are required to comply with MIT’s Non-Discrimination Policy, and MIT’s Policy Prohibiting Discriminatory Harassment, including Sexual Harassment, Sexual Misconduct, Gender-Based Harassment, and Title IX Sexual Harassment (see [IAIFI’s Non-Discrimination Policy and Policy Prohibiting Discriminatory Harassment](#non-discrimination-policy-and-policy-prohibiting-discriminatory-harassment-including-sexual-harassment-sexual-misconduct-gender-based-harassment-and-title-ix-sexual-harassment) for further information). 
 
 See below for instructions on [reporting violations](#reporting-process-for-violations-to-the-code-of-conduct), [definitions of terms](#supplementary-list-of-definitions-and-resources), and [links to resources](#reporting-resources).
 {:.info}
@@ -31,7 +31,7 @@ Information provided to individual members of the ECEC will be shared with an EC
 
 When a Code of Conduct violation is reported to the IAIFI management and board, they will work to address it in conjunction with the human resources administration(s) of the relevant institution(s). Consequences for Code of Conduct violations may include a verbal or written warning, removal from IAIFI events, loss of IAIFI membership privileges, reporting to the relevant university offices, or other remedies as appropriate.
 
-For information on reporting violations of MIT’s Non-Discrimination Policy and Policy Prohibiting Discriminatory Harassment, and the resolution of such complaints, please click [here](#reporting-process-non-discrimination).
+For information on reporting violations of MIT’s Non-Discrimination Policy and Policy Prohibiting Discriminatory Harassment, and the resolution of such complaints, please click [here](#reporting-process-for-violations-of-non-discrimination-and-prohibition-against-discriminatory-harassment-policies"><a name="reporting-process-non-discrimination).
 
 Note that anyone is free to report any violations of institutional policies to the appropriate institution, but we cannot guarantee that institutions will forward information about a complaint to the IAIFI. If there has been a violation of the IAIFI Code of Conduct or other IAIFI policies and you want the IAIFI to respond, you should report it through one or more of the channels described above. 
 
@@ -93,12 +93,12 @@ The Code of Conduct uses several phrases that may need further explanation, so w
 #### Mental Health and Counseling Resources
 [MIT](https://medical.mit.edu/my-mit/parents/mental-health-resources) \| [Tufts](https://students.tufts.edu/health-and-wellness/counseling-and-mental-health) \| [Northeastern](https://www.northeastern.edu/uhcs/counseling-services) \| [Harvard](https://camhs.huhs.harvard.edu)
 
-## <a name="non-discrimination"></a> Non-Discrimination Policy and Policy Prohibiting Discriminatory Harassment including Sexual Harassment, Sexual Misconduct, Gender-Based Harassment and Title IX Sexual Harassment
+## Non-Discrimination Policy and Policy Prohibiting Discriminatory Harassment including Sexual Harassment, Sexual Misconduct, Gender-Based Harassment and Title IX Sexual Harassment
 
 Members of the IAIFI and participants in IAIFI activities are required to comply with [MIT’s Non-Discrimination Policy](https://policies.mit.edu/policies-procedures/90-relations-and-responsibilities-within-mit-community/92-nondiscrimination), and [MIT’s Policy Prohibiting Discriminatory Harassment, including Sexual Harassment, Sexual Misconduct, Gender-Based Harassment, Title IX Sexual Harassment](https://policies.mit.edu/policies-procedures/90-relations-and-responsibilities-within-mit-community/94-harassment).
 Members of the IAIFI and participants in IAIFI activities may not engage in retaliation against anyone for objecting to a behavior that may violate these policies, reporting a violation of these policies, or participating in the resolution of such a complaint.
 
-## <a name="reporting-process-non-discrimination"></a> Reporting Process for Violations of Non-Discrimination and Prohibition against Discriminatory Harassment Policies
+## Reporting Process for Violations of Non-Discrimination and Prohibition against Discriminatory Harassment Policies
 
 Reports of discrimination and discriminatory harassment should be made to [MIT’s Institute Discrimination & Harassment Response Office (IDHR)](https://idhr.mit.edu). Any reports of discrimination and discriminatory harassment made to the IAIFI management and board, or to any member of the Early Career and Equity Committee (ECEC) will be forwarded to IDHR. ECEC members who are not responsible employees must still share the report with a faculty or staff member of ECEC, although the complainant may request that their identity not be shared. In this case the faculty or staff ECEC member is responsible for forwarding the report to both IDHR and the IAIFI management and board. IAIFI members are encouraged to notify either an ECEC member or a member of IAIFI Management even if they report directly to IDHR.
 
