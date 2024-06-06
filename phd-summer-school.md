@@ -254,7 +254,7 @@ To be announced. If you are interested in sponsoring the Summer School, please c
 * *If I come to the Summer School, can I also attend the Workshop?* Yes! We encourage you to stay for the [IAIFI Summer Workshop](/summer-workshop) and you can stay in the dorms for both events if you choose (at your own expense). Information about the Summer Workshop will be provided in early 2024. 
 * *Will the recordings of the lectures be available?* We expect to share recordings of the lectures after the Summer School.
 * *Will there be an option for virtual attendance?* Yes, there is an option for virtual attendance.
-* *How can I book a dorm for the IAIFI Summer SchooL?* Please email [iaifi-summer@mit.edu](iaifi-summer@mit.edu) to get the link for booking dorms at Boston University. 
+* *How can I book a dorm for the IAIFI Summer SchooL?* Please email [mailto:iaifi-summer@mit.edu](iaifi-summer@mit.edu) to get the link for booking dorms at Boston University. 
 
 [Submit a question or comment](https://app.smartsheet.com/b/form/76c1d070d19d4688b65962c4ed190478){:.button.button--outline-primary.button--pill.button--sm}
 
