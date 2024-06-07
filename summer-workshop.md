@@ -221,6 +221,30 @@ Speakers will be announced as they are confirmed.
        </div>
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-lu-lu.jpg" alt="Lu Lu" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://lugroup.yale.edu/">Lu Lu</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Assistant Professor, Yale University </em> <br>
+         </div>
+         </div>
+       </div>
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-ayan-paul.jpg" alt="Ayan Paul" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://ai.northeastern.edu/our-people/ayan-paul">Ayan Paul</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Research Scientist, The Institute for Experiential AI - Northeastern University </em> <br>
+         </div>
+         </div>
+       </div>
+       
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-mariel-pettee.jpg" alt="Mariel Pettee" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -231,7 +255,6 @@ Speakers will be announced as they are confirmed.
          </div>
          </div>
        </div>
-
        
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-tilman-plehn.jpg" alt="Tilman Plehn" height="210rem" style="object-fit: cover;">
