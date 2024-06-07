@@ -104,7 +104,7 @@ Speakers will be announced as they are confirmed.
          <img class="my-card-img-top" src="images/small-photo-nima-dehmamy.jpg" alt="Nima Dehmamy" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="http://nimadehmamy.com//">Nima Dehmamy</a>
+         <a href="http://nimadehmamy.com/">Nima Dehmamy</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Research Staff Member, IBM Research </em> <br>
