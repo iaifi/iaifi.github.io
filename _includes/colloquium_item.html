@@ -1,0 +1,12 @@
+{% assign talk = include.talk %}
+{% assign is_previous = include.is_previous %}
+
+{% assign photo_size = 8 %}
+{% if talk.talk-abstract %}{% assign photo_size = 20 %}{% endif %}
+<img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:{{photo_size}}%" hspace="10" vspace="10"/>
+
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
+    * *{{talk.talk-title}}*
+{% if talk.talk-abstract %}    * {{talk.talk-abstract}}{% endif %}
+{% if is_previous %}    * {% if talk.youtube-link and talk.slides-link %}<a href="{{talk.youtube-link}}">YouTube Recording</a> &#124; <a href="{{talk.slides-link}}">Talk Slides</a>{% elsif talk.youtube-link %}<a href="{{talk.youtube-link}}">YouTube Recording</a>{% elsif talk.slides-link %}<a href="{{talk.slides-link}}">Talk Slides</a>{% else %}Slides and recording not available.{% endif %}{% endif %}
