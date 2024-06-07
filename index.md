@@ -133,7 +133,7 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
 
-  ***IAIFI Investigator Tracy Slatyer honored as "Committed to Caring"***. Read ["Paying it Forward"](https://physics.mit.edu/news/paying-it-forward/). *June 6, 2024*
+  ***IAIFI Investigator Tracy Slatyer honored as "Committed to Caring" by MIT***. Read ["Paying it Forward"](https://physics.mit.edu/news/paying-it-forward/) to learn about their approach to prioritizing students’ educational journeys. *June 6, 2024*
 {:.info}
 
   ***IAIFI Junior Investigator Owen Dugan awarded 2024 Hertz Foundation Fellowship***. Read ["Ten with MIT connections win 2024 Hertz Foundation Fellowships"](https://physics.mit.edu/news/ten-with-mit-connections-win-2024-hertz-foundation-fellowships/). *June 3, 2024*
