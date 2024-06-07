@@ -133,6 +133,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
 
+  ***IAIFI Junior Investigator Owen Dugan awarded 2024 Hertz Foundation Fellowship***. Read ["Ten with MIT connections win 2024 Hertz Foundation Fellowships"](https://physics.mit.edu/news/ten-with-mit-connections-win-2024-hertz-foundation-fellowships/). *June 3, 2024*
+{:.info}
+
   ***IAIFI Investigator Carlos Argüelles-Delgado named a CIFAR Azrieli Global Scholar***. [Learn more about the 2024–2026 cohort.](https://cifar.ca/cifar-azrieli-global-scholars/). *May 29, 2024*
 {:.info}
  
