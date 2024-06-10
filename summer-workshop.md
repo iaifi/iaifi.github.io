@@ -215,7 +215,7 @@ Speakers will be announced as they are confirmed.
          <a href="https://kindxiaoming.github.io/">Ziming Liu</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> IAIFI Junior Investigator </em> <br>
+         <em> Grad Student, MIT </em> <br>
          </div>
          </div>
        </div>
