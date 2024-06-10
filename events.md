@@ -18,7 +18,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
   {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
   {% unless talk-date > now %}{% continue %}{% endunless %}
 
-  {% include colloquium_item_upcoming.html talk = talk %}
+  {% include colloquium_item.html talk=talk %}
 
 {% endfor %}
 
@@ -32,7 +32,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
   {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
   {% unless talk-date < now and talk.type == semester.tag %}{% continue %}{% endunless%}
 
-  {% include colloquium_item_previous.html talk = talk %}
+  {% include colloquium_item.html talk=talk is_previous=true %}
 
 {% endfor %}
 
