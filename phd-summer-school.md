@@ -118,7 +118,7 @@ Workshop TBA (optional)
 Welcome Dinner
 
 
-### Tuesday, August 8, 2023
+### Tuesday, August 6, 2024
 
 **9:00–9:30 am ET**
 
@@ -145,7 +145,7 @@ Tutorial 2: Geometric Machine Learning
 
 Breakout Sessions with Days 1 and 2 Lecturers and Tutorial Leads (Optional)
 
-### Wednesday, August 9, 2023
+### Wednesday, August 7, 2024
 
 **9:00–9:30 am ET**
 
@@ -172,7 +172,7 @@ Tutorial 3: Physics-motivated optimization, Alex Atanasov
 
 Career Panel, Panelists TBA (Optional)
 
-### Thursday, August 10, 2023
+### Thursday, August 8, 2024
 
 **9:00–9:30 am ET**
 
@@ -203,7 +203,7 @@ Breakout Sessions with Days 3, 4, and 5 Lecturers and Tutorial Leads (Optional)
 
 Social Event with IAIFI members
 
-### Friday, August 11, 2023
+### Friday, August 9, 2024
 
 **9:00–9:30 am ET**
 
