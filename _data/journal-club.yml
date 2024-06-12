@@ -6,6 +6,8 @@
   speaker-photo-location: 
   talk-date: "2024-01-16"
   talk-date-time: "Tuesday, January 16, 2024, 11:00 am–12:00 pm"
+  start-date-time: "2024-01-16 11:00"
+  end-date-time: "2024-01-16 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Data processing challenges for real-time observational astrophysics"
   talk-abstract: "Astronomical transient and variable events comprise the things that go boom in the night, or otherwise vary in brightness or color over time, and are among the most powerful phenomena of the universe, providing a window into energy scales inaccessible to any laboratory on Earth. The fundamental physics determining the time-series light curves of these astronomical objects, which include exploding stars and black hole mergers, is key to understanding the nature of the dark energy driving the accelerating expansion of the universe, the dark matter guiding the formation and clustering of massive structures, and ultimately our place in the cosmos. During its ten-year mission beginning in 2025, the Legacy Survey of Space and Time (LSST) on the Vera C. Rubin Observatory will observe hundreds of millions of such transient and variable sources, up from the mere millions known to date, by making a ten-year 3D movie of the night sky. In doing so, it will revolutionize astronomy with a deluge of data that could enable boundless discoveries, conditioned on meeting the challenges of the data’s nontrivial noise properties; the scale of the anticipated data is a direct corollary to the strategy of collecting less informative photometric data rather than high-fidelity, resource-intensive spectroscopy. In this talk, I will introduce open problems and evolving data-driven solutions for several interesting aspects of the systems for processing and interpreting the anticipated data."
@@ -23,6 +25,8 @@
   speaker-photo-location: 
   talk-date: "2024-02-06"
   talk-date-time: "Tuesday, February 6, 2024, 11:00 am–12:00 pm"
+  start-date-time: "2024-02-06 11:00"
+  end-date-time: "2024-02-06 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Enabling precision photometric SN Ia cosmology with machine learning"
   talk-abstract: "The discovery of the accelerating expansion of the universe has led to increasing interest in probing the nature of dark energy. As very bright standardizable candles, type Ia supernovae (SNe Ia) are used to measure precise distances on cosmological scales and thus have been instrumental to this effort. Building a robust dataset of SNe Ia across a wide range of redshifts will allow for the construction of an accurate Hubble diagram, enrich our understanding of the expansion history of the universe, as well as place constraints on the dark energy equation of state. However, much of our analysis pipeline will be overwhelmed by the data deluge of the LSST era. In this talk, I will present recent improvements on two key pieces of SN Ia cosmology analysis: the purity of the photometric SNe Ia sample and the redshift identification accuracy for these SNe. To address the SNe Ia purity problem, I will present SCONE (Supernova Classification with a Convolutional Neural Network), a deep learning-based approach to early and full lightcurve photometric SN classification. On the redshift estimation front, I will present work on characterizing inaccurate redshifts due to SN host galaxy mismatch and its effect on cosmology, as well as Photo-zSNthesis, a machine learning algorithm that uses SN photometry to directly estimate redshift. As long as logistical challenges prevent the spectroscopic follow-up of most detected SNe, a reliable photometric SN classification algorithm and redshift estimation strategy will allow us to tap into the vast potential of the photometric dataset."
@@ -40,6 +44,8 @@
   speaker-photo-location: 
   talk-date: "2024-02-20"
   talk-date-time: "Tuesday, February 20, 2024, 11:00 am–12:00 pm"
+  start-date-time: "2024-02-20 11:00"
+  end-date-time: "2024-02-20 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: Is flow-matching an alternative to diffusion?
   talk-abstract: We discuss flow-matching (2210.02747), a recently proposed objective for training continuous normalizing flows inspired by diffusion models. As a generative model, flow-matching can produce state-of-the-art samples for images and other data representations. More interestingly, flow-matching can be used to go beyond generative modeling by learning to approximate the optimal transport map between two arbitrary data distributions. The JC is meant to be an interactive blackboard talk discussing the method. At the end, I'll flash a few slides illustrating its usefulness for generating jets as particle clouds (2310.00049).  
@@ -57,6 +63,8 @@
   speaker-photo-location: 
   talk-date: "2024-02-21"
   talk-date-time: "Tuesday, February 27, 2024, 11:00 am–12:00 pm"
+  start-date-time: "2024-02-27 11:00"
+  end-date-time: "2024-02-27 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: Is the ground state of Anderson's impurity model a recurrent neural network?
   talk-abstract: 'When the Anderson impurity model (AIM) is expressed in terms of a Wilson chain it assumes a hierarchical Renormalization group structure that translates to a ground state with features like Friedel oscillations and the Kondo screening cloud [1]. Recurrent neural networks (RNNs) have recently gained traction in the form of Neural Quantum States (NQS) ansätze for quantum many body ground states and they are known to be able to learn such complex patterns [2]. We explore RNNs as an ansatz to capture the AIM’s ground state for a given Wilson chain length and investigate its capability to predict the ground state on longer chains for a converged ground state energy.
@@ -76,6 +84,8 @@
   speaker-photo-location: 
   talk-date: "2024-03-12"
   talk-date-time: "March 12, 2024, 11:00 am–12:00 pm"
+  start-date-time: "2024-03-12 11:00"
+  end-date-time: "2024-03-12 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Agent-based modeling: Harnessing Large Language Models for Automated Exploration of Emergent Behaviors in Simulated Social Systems"
   talk-abstract: "Two significant impediments to success of the social sciences in comparison to physics are the inherent difficulty in both rapidly executing multiple controlled experiments to explore a parameter space and determining what parameter space to explore. In this work, we present a computational framework and platform that simulates the entire social scientific process, leveraging Large Language Models (LLMs) to study human actors within social systems. We create controlled environments, akin to toy models in physics, that systematically explore the space parameter of variables relevant to any social system (such as attributes of human actors), allowing for the exponentially faster discovery of emergent social behaviors as compared to traditional social science experimentation. Central to our approach is the automatic generation of Structural Causal Models (SCMs) that generate statistical correlations of potential interactions within a social system and outline the requisite metrics and tools to observe and measure these nonlinear dynamics. With the flexibility to vary controlled variables across a nearly infinite parameter space, our system offers a sandbox to simulate and analyze various social scenarios – from wage bargaining and auction mechanics to nuclear weapon negotiations. Our framework and platform offers a new playground for physicists to study the nonlinear dynamics and emergent phenomena in human social systems."
@@ -93,6 +103,8 @@
   speaker-photo-location: 
   talk-date: "2024-03-19"
   talk-date-time: "Tuesday, March 19, 2024, 11:00 am–12:00 pm"
+  start-date-time: "2024-03-19 11:00"
+  end-date-time: "2024-03-19 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: Combining Energy Correlators with Machine Learning
   talk-abstract: Energy correlators, which are correlation functions of the energy flow operator, are theoretically clean observables which can be used to improve various measurements. In this talk, we discuss ongoing work exploring the benefits of combining them with Machine Learning for precisely measuring the Top-quark mass.
@@ -110,6 +122,8 @@
   speaker-photo-location: 
   talk-date: "2024-04-02"
   talk-date-time: "Tuesday, April 2, 2024, 11:00 am–12:00 pm"
+  start-date-time: "2024-04-02 11:00"
+  end-date-time: "2024-04-02 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: Managing Time and Influencing People
   talk-abstract: Taking a break from our regularly scheduled journal club programming, the Industry Partnership Committee have requested a crash course in project management for academics. I'll share some time management and communication tips and tricks to elevate your project management skills and increase efficiency, leaving more time for research. We'll leave time for questions, so come with all of your organizational concerns!
@@ -127,6 +141,8 @@
   speaker-photo-location: 
   talk-date: "2024-04-23"
   talk-date-time: "Tuesday, April 23, 2024, 11:00 am–12:00 pm"
+  start-date-time: "2024-04-23 11:00"
+  end-date-time: "2024-04-23 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: Many-Fold Learning
   talk-abstract: "Machine learning (ML) has been profitably leveraged across a wide variety of problems in recent years. Empirical observations show that ML models from suitable functional spaces are capable of adequately efficient learning across a wide variety of disciplines. In this work (first in a planned sequence of three), we build the foundations for a generic perspective on ML model optimization and generalization dynamics. Specifically, we prove that under variants of gradient descent, “well-initialized” models solve sufficiently well-posed problems at \textit{a priori} or \textit{in situ} determinable rates. Notably, these results are obtained for a wider class of problems, loss functions, and models than the standard mean squared error and large width regime that is the focus of conventional Neural Tangent Kernel (NTK) analysis. The $\nu$ - Tangent Kernel ($\nu$TK), a functional analytic object reminiscent of the NTK, emerges naturally as a key object in our analysis and its properties function as the control for learning. We exemplify the power of our proposed perspective by showing that it applies to diverse practical problems solved using real ML models, such as classification tasks, data/regression fitting, differential equations, shape observable analysis, etc. We end with a small discussion of the numerical evidence, and the role $\nu$TKs may play in characterizing the search phase of optimization, which leads to the “well-initialized” models that are the crux of this work."
@@ -143,7 +159,9 @@
   speaker-website: https://scholar.google.com/citations?user=uTi-1LsAAAAJ&hl=en
   speaker-photo-location:
   talk-date: "2024-04-30"
-  talk-date-time: "Tuesday, April 16, 2024, 11:00 am–12:00 pm"
+  talk-date-time: "Tuesday, April 30, 2024, 11:00 am–12:00 pm"
+  start-date-time: "2024-04-30 11:00"
+  end-date-time: "2024-04-30 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: A Survey of Machine Learning Methods for Anomaly Detection
   talk-abstract: Machine learning-based anomaly detection (AD) methods are promising tools for extending the coverage of searches for physics beyond the Standard Model (BSM). I will first talk about a class of AD methods for "resonant anomaly detection", where the BSM is assumed to be localized in at least one known variable. There have been many methods proposed to  identify such a BSM signal that make use of simulated or detected data in different ways, so I will discuss their complementarity -- even if their maximum performance is the same, it may be beneficial more generally to combine approaches. I will then go over a class of AD methods for "nonresonant" detection, where the BSM may arise from off-shell effects or final states with significant missing energy. Using  a semi-visible jet signature as a benchmark signal model, I will show that these methods  can automatically identify anomalous events, elevating rare nonresonant signal models to the detection threshold.
@@ -161,6 +179,8 @@
   speaker-photo-location: 
   talk-date: "2023-09-19"
   talk-date-time: "Tuesday, September 19, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-09-19 11:00"
+  end-date-time: "2023-09-19 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Towards a data-driven model of hadronization"
   talk-abstract: "We will discuss recent and ongoing developments at the intersection of machine learning and simulated hadronization. Specifically, we'll focus on some of the major challenges presented when attempting to build a data-driven model of hadronization that utilizes experimental data during training. Solutions to some of these challenges will be presented in the context of invertible neural networks or normalizing flows including the introduction of a new paradigm that allows for the training of microscopic hadronization dynamics from macroscopic event-level observables."
@@ -178,6 +198,8 @@
   speaker-photo-location: 
   talk-date: "2023-09-26"
   talk-date-time: "Tuesday, September 26, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-09-26 11:00"
+  end-date-time: "2023-09-26 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Open-Source Simulation and Machine Learning for Neutrino Telescopes"
   talk-abstract: "In the last decade, the filed of neutrino astronomy has made major strides, culminating of the definitive detection of galactic and extragalactic components of the astrophysical neutrino flux. We can now  begin characterizing these astrophysical beams and pursuing new physics through them. Machine learning techniques have played an integral part in these recent advances, and while these current efforts have been impressive, it is clear that there is room to improve. This face, along with the growing, global network of neutrino telescopes, drives the need for open-source tools to use all person power and avoid reduplicating effort. In this talk I will present Prometheus, the first open-source, end-to-end simulation for neutrino telescopes. Furthermore, I will show a recent example of Prometheus to develop machine learning techniques capable of running at typical neutrino telescope trigger rates."
@@ -195,6 +217,8 @@
   speaker-photo-location: 
   talk-date: "2023-10-03"
   talk-date-time: "Tuesday, October 3, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-10-03 11:00"
+  end-date-time: "2023-10-03 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Learning Group Representations in Neural Networks"
   talk-abstract: "Employing equivariance in neural networks leads to greater parameter efﬁciency via parameter sharing and improved generalization performance through the encoding of domain knowledge in the architecture; however, the majority of existing approaches require an a priori speciﬁcation of the data symmetries. We present a neural network architecture, Group Representation Networks (GRNs), that learns symmetries on the weight space of neural networks without any supervision or knowledge of the hidden symmetries in the data. Beyond their interpretability, GRNs’ learned representations distill symmetries of the data domain and the downstream task, which are incorporated when training networks on different datasets. The key idea behind GRNs relates weights in neural networks via a cyclic action whose group representation depends on the data domain, and is learned in an unsupervised manner. Our experiments underline the ability of GRNs to correctly recover symmetries in the data, show competitive performance when GRNs are used as a drop-in replacement for conventional layers, and highlight the ability to transfer learned representations across tasks and datasets."
@@ -212,6 +236,8 @@
   speaker-photo-location: 
   talk-date: "2023-10-17"
   talk-date-time: "Tuesday, October 17, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-10-17 11:00"
+  end-date-time: "2023-10-17 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Two Watts is All You Need: Low-Power Machine Learning on TPU for Neutrino Telescopes"
   talk-abstract: "In neutrino experiments, we have seen machine learning software methods to boost our abilities of physics discovery given the hardware experimental setups. Currently, we face upgrades and new telescopes and experimental hardware expecting more statistics as well as more complicated data signals. This calls out for an upgrade on the software side as well for handling the more complex data in a more efficient way. Specifically, we need low power and fast software methods in order to achieve real time signal processing, where current machine learning base methods are too expensive to be deployed in the commonly power-restricted regions where these experiments are located. In this talk, I will present the first attempt at and a proof of concept for enabling machine learning methods to be deployed live in under water/ice neutrino telescopes via quantization and deployment on Tensor Processing Units (TPUs). We use an LSTM-based recursive neural network with residual convolution-based data encoding, combined with specifically tailored data pre-processing and quantization aware training methods for deployment on the Google Edge TPU. This algorithm can achieve state-of-the-art angular resolution in reconstruction with a real-time inference frequency of 100 Hz/Watts in a TPU accelerator at only 2 Watts of power consumption. This opens up a world of chances to integrate machine learning capacity into detectors and electronics deep into even the most power-restricted environments."
@@ -229,6 +255,8 @@
   speaker-photo-location: 
   talk-date: "2023-10-24"
   talk-date-time: "Tuesday, October 24, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-10-24 11:00"
+  end-date-time: "2023-10-24 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "GWAK: Gravitational Wave Anomalous Knowledge with Recurrent Autoencoders"
   talk-abstract: "Matched-filtering detection techniques for gravitational-wave (GW) signals in ground-based interferometers rely on having well-modeled templates of the GW emission. Such techniques have been traditionally used in searches for compact binary coalescences (CBCs), and have been employed in all known GW detections so far. However, interesting science cases aside from compact mergers do not yet have accurate enough modeling to make matched filtering possible, including core-collapse supernovae and sources where stochasticity may be involved. Therefore the development of techniques to identify sources of these types is of significant interest. In this paper, we present a method of anomaly detection based on deep recurrent autoencoders to enhance the search region to unmodeled transients. We use a semi-supervised strategy that we name Gravitational Wave Anomalous Knowledge (GWAK). While the semi-supervised nature of the problem comes with a cost in terms of accuracy as compared to supervised techniques, there is a qualitative advantage in generalizing experimental sensitivity beyond pre-computed signal templates. We construct a low-dimensional embedded space using the GWAK method, capturing the physical signatures of distinct signals on each axis of the space. By introducing signal priors that capture some of the salient features of GW signals, we allow for the recovery of sensitivity even when an unmodeled anomaly is encountered. We show that regions of the GWAK space can identify CBCs, detector glitches and also a variety of unmodeled astrophysical sources."
@@ -246,6 +274,8 @@
   speaker-photo-location: 
   talk-date: "2023-10-31"
   talk-date-time: "Tuesday, October 31, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-10-31 11:00"
+  end-date-time: "2023-10-31 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Conditional normalizing flows for IceCube event reconstruction"
   talk-abstract: "In this seminar, I will talk about normalizing flows (NFs), in particular about the types that are useful for high-energy neutrino event reconstruction in IceCube. First, I will give an introduction that focuses on essentially two different classes of flows which have quite a citation disparity in the literature: 1)  normalizing flows in high dimensions (D>~100), which typically have high citation counts, and 2) normalizing flows in low dimensions (D = 1 - 100),  which are typically cited less frequently. I discuss the reasons why I think this latter class, which is often less known, is in particular useful for high-energy physicists, and then briefly review two examples of that class: specific Gaussianization flows (2003.01941) , and exponential-map flows (0906.0874/2002.02428). Finally, I discuss a recent application of these particular flows as  conditional NFs for neutrino event econstruction in the IceCube detector (2309.16380)."
@@ -263,6 +293,8 @@
   speaker-photo-location: 
   talk-date: "2023-11-07"
   talk-date-time: "Tuesday, November 7, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-11-07 11:00"
+  end-date-time: "2023-11-07 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "lie-nn: Pioneering lie G-equivariant Neural Networks for Cross-Domain Scientific Applications"
   talk-abstract: "This talk explores a novel Equivariant Neural Network architecture that respects symmetries of finite-dimensional representations of any reductive Lie Group G. These groups span several scientific domains, from high energy physics to computer vision.
@@ -282,6 +314,8 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-photo-location: 
   talk-date: "2023-11-14"
   talk-date-time: "Tuesday, November 14, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-11-14 11:00"
+  end-date-time: "2023-11-14 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Score-based Diffusion Models for Generating LArTPC Images"
   talk-abstract: "Modern generative modeling has demonstrated remarkable success in the realm of natural images. However, these approaches do not necessarily generalize to all image domains. In neutrino physics experiments, our Liquid Argon Time Project Chamber (LArTPC) particle detectors produce images that are globally sparse but locally dense. We have found that some generation algorithms, such as GANs and VQ-VAE, are unable to reproduce these image characteristics. Recently, we have successfully generated high-fidelity images of track and shower particle event types using a score-based diffusion model. In this talk, I will outline the methodology underlying this type of model, explore our quality metrics for these generated images, and discuss planned extensions and applications of this work."
@@ -300,6 +334,8 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-photo-location: 
   talk-date: "2023-11-28"
   talk-date-time: "Tuesday, November 28, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-11-28 11:00"
+  end-date-time: "2023-11-28 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: "Thimbology and The Sign Problem"
   talk-abstract: "I will talk about thimbology, a technique for taming sign problems in lattice field theory, where the domain of integration of path integral is deformed into complex field space. Machine learning contours proves useful for certain problems and is now a common technique. I’ll review the idea for a general audience, then share some recent results."
