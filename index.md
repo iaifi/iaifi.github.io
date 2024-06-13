@@ -163,6 +163,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 ***IAIFI Investigator William Freeman co-authored a textbook on Computer Vision published by MIT Press, with Antonio Torralba and Philip Isola***. Learn More ["Foundations of Computer Vision"](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/). *April 16, 2024*
 {:.info}
 
+***IAIFI Affiliate Dan Roberts named to AI-MO prize advisory committee***. Learn about the [Artificial Intelligence Mathematical Olympiad\[https://aimoprize.com], which will be held in July 2024. *February 7, 2024*
+{:.info}
+
  ***IAIFI Affiliate Dan Roberts writes about about using physics to understand AI risk***. Read ["Black Holes and the Intelligence Explosion"](https://www.sequoiacap.com/article/black-holes-perspective/). *December 12, 2023*
 {:.info}
 
