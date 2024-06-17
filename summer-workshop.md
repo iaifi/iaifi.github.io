@@ -135,18 +135,6 @@ Speakers will be announced as they are confirmed.
          </div>
          </div>
        </div>
-       
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-sebastian-goldt.jpg" alt="Sebastian Goldt" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://sgoldt.wordpress.com/">Sebastian Goldt</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Assistant Professor, International School of Advanced Studies (SISSA) </em> <br>
-         </div>
-         </div>
-       </div>
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-jim-halverson.jpg" alt="Jim Halverson" height="210rem" style="object-fit: cover;">
