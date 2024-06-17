@@ -1,4 +1,5 @@
-- type: "spring-2024"
+- type: "colloquium"
+  semester: "spring-2024"
   speaker-name: Laurence Perrault-Levasseur
   speaker-title: Assistant Professor
   speaker-affiliation: University of Montreal
@@ -17,7 +18,8 @@
   speaker-gender: "woman"
   talk-attendance: 30 in person, 27 virtual
 
-- type: "spring-2024"
+- type: "colloquium"
+  semester: "spring-2024"
   speaker-name: Soledad Villar
   speaker-title: Assistant Professor
   speaker-affiliation: Johns Hopkins University
@@ -36,7 +38,8 @@
   speaker-gender: "woman"
   talk-attendance: 30 in person, 30 virtual
 
-- type: "spring-2024"
+- type: "colloquium"
+  semester: "spring-2024"
   speaker-name: Jennifer Ngadiuba
   speaker-title: Associate Scientist
   speaker-affiliation: Fermi National Accelerator Laboratory
@@ -55,7 +58,8 @@
   speaker-gender: "woman"
   talk-attendance: 37 in peeaon, 15 virtual
 
-- type: "fall-2023"
+- type: "colloquium"
+  semester: "fall-2023"
   speaker-name: Hidenori Tanaka
   speaker-title: Research Scientist
   speaker-affiliation: NTT Research, Harvard University
@@ -74,7 +78,8 @@
   speaker-gender: "man"
   talk-attendance: 41 in person 19 virtual
 
-- type: "fall-2023"
+- type: "colloquium"
+  semester: "fall-2023"
   speaker-name: François Lanusse
   speaker-title: Researcher
   speaker-affiliation: CNRS
@@ -93,7 +98,8 @@
   speaker-gender: "man"
   talk-attendance: 55 in person 19 virtual
 
-- type: "fall-2023"
+- type: "colloquium"
+  semester: "fall-2023"
   speaker-name: Xiaoliang Qi
   speaker-title: Professor of Physics
   speaker-affiliation: Stanford University
@@ -112,7 +118,8 @@
   speaker-gender: "man"
   talk-attendance: 26 in person 30 virtual
 
-- type: "spring-2023"
+- type: "colloquium"
+  semester: "spring-2023"
   speaker-name: Uros Seljak
   speaker-title: Professor
   speaker-affiliation: UC Berkeley
@@ -131,7 +138,8 @@
   speaker-gender: "man"
   talk-attendance: 30 in person 43 virtual
 
-- type: "spring-2023"
+- type: "colloquium"
+  semester: "spring-2023"
   speaker-name: Yonatan Kahn
   speaker-title: Assistant Professor
   speaker-affiliation: UIUC
@@ -150,7 +158,8 @@
   speaker-gender: "man"
   talk-attendance: 38 in person 58 virtual
 
-- type: "spring-2023"
+- type: "colloquium"
+  semester: "spring-2023"
   speaker-name: Boris Hanin
   speaker-title: Assistant Professor
   speaker-affiliation: Princeton University
@@ -169,7 +178,8 @@
   speaker-gender: "man"
   talk-attendance: 32 in person 44 virtual
 
-- type: "fall-2022"
+- type: "colloquium"
+  semester: "fall-2022"
   speaker-name: Anima Anandkumar
   speaker-title: Professor
   speaker-affiliation: Caltech & Director of ML, NVIDIA
@@ -188,7 +198,8 @@
   speaker-gender: "woman"
   talk-attendance: 31 in person 49 virtual
 
-- type: "fall-2022"
+- type: "colloquium"
+  semester: "fall-2022"
   speaker-name: Daniel Goldman
   speaker-title: Professor
   speaker-affiliation: Georgia Tech
@@ -207,7 +218,8 @@
   speaker-gender: "man"
   talk-attendance: 30 in person 14 virtual
 
-- type: "fall-2022"
+- type: "colloquium"
+  semester: "fall-2022"
   speaker-name: Lucy Colwell
   speaker-title: Associate Professor
   speaker-affiliation: Cambridge University
@@ -226,7 +238,8 @@
   speaker-gender: "woman"
   talk-attendance: 24 in person 26 virtual
 
-- type: "spring-2022"
+- type: "colloquium"
+  semester: "spring-2022"
   speaker-name: Kyle Cranmer
   speaker-title: Professor of Physics and Data Science
   speaker-affiliation: New York University; Visiting Scientist at Meta AI
@@ -245,7 +258,8 @@
   speaker-gender: "man"
   talk-attendance: 79 
 
-- type: "spring-2022"
+- type: "colloquium"
+  semester: "spring-2022"
   speaker-name: Giuseppe Carleo
   speaker-title: Assistant Professor
   speaker-affiliation: Computational Quantum Science Laboratory, École Polytechnique
@@ -264,7 +278,8 @@
   speaker-gender: "man"
   talk-attendance: 48
 
-- type: "spring-2022"
+- type: "colloquium"
+  semester: "spring-2022"
   speaker-name: Yann LeCun
   speaker-title: VP and Chief AI Scientist
   speaker-affiliation: Meta
@@ -283,7 +298,8 @@
   speaker-gender: "man"
   talk-attendance: 112
 
-- type: "spring-2022"
+- type: "colloquium"
+  semester: "spring-2022"
   speaker-name: Hiranya Peiris
   speaker-title: Professor of Astrophysics
   speaker-affiliation: University College London; Professor of Cosmoparticle Physics at the Oskar Klein Centre, Stockholm
@@ -302,7 +318,8 @@
   speaker-gender: "woman"
   talk-attendance: 49
 
-- type: "spring-2022"
+- type: "colloquium"
+  semester: "spring-2022"
   speaker-name: Laura Waller
   speaker-title: Associate Professor
   speaker-affiliation: EECS, University of California, Berkeley
@@ -321,7 +338,8 @@
   Speaker-gender: woman
   talk-attendance: 30
 
-- type: "fall-2021"
+- type: "colloquium"
+  semester: "fall-2021"
   speaker-name: Surya Ganguli
   speaker-title: Associate Professor, Applied Physics
   speaker-affiliation: Stanford University
@@ -340,7 +358,8 @@
   speaker-gender: "man"
   talk-attendance: 117
 
-- type: "fall-2021"
+- type: "colloquium"
+  semester: "fall-2021"
   speaker-name: Ben Wandelt
   speaker-title: Director
   speaker-affiliation: Lagrange Institute
@@ -359,7 +378,8 @@
   speaker-gender: "man"
   talk-attendance: 65
 
-- type: "fall-2021"
+- type: "colloquium"
+  semester: "fall-2021"
   speaker-name: Rose Yu
   speaker-title: Assistant Professor, Computer Science and Engineering
   speaker-affiliation: UC San Diego
@@ -378,7 +398,8 @@
   speaker-gender: "woman"
   talk-attendance: 48
 
-- type: "fall-2021"
+- type: "colloquium"
+  semester: "fall-2021"
   speaker-name: Sven Krippendorf
   speaker-title: Senior Researcher, Mathematical Physics and String Theory
   speaker-affiliation: Ludwig-Maximilians Universität
@@ -397,7 +418,8 @@
   speaker-gender: "man"
   talk-attendance: 66
 
-- type: "fall-2021"
+- type: "colloquium"
+  semester: "fall-2021"
   speaker-name: Yasaman Bahri
   speaker-title: Research Scientist, Google Research, Brain Team
   speaker-affiliation: Google Research
@@ -416,7 +438,8 @@
   speaker-gender: "woman"
   talk-attendance: 99
 
-- type: "fall-2021"
+- type: "colloquium"
+  semester: "fall-2021"
   speaker-name: Kazuhiro Terao
   speaker-title: Staff Scientist, SLAC National Accelerator Laboratory, Stanford University
   speaker-affiliation: SLAC National Accelerator Laboratory
@@ -435,7 +458,8 @@
   speaker-gender: "man"
   talk-attendance: 31
 
-- type: "spring-2021"
+- type: "colloquium"
+  semester: "spring-2021"
   speaker-name: Phiala Shanahan
   speaker-title: Assistant Professor
   speaker-affiliation: MIT
@@ -454,7 +478,8 @@
   speaker-gender: "woman"
   talk-attendance: 218
 
-- type: "spring-2021"
+- type: "colloquium"
+  semester: "spring-2021"
   speaker-name: Pulkit Agrawal
   speaker-title: Assistant Professor
   speaker-affiliation: MIT
@@ -473,7 +498,8 @@
   speaker-gender: "man"
   talk-attendance: 101
 
-- type: "spring-2021"
+- type: "colloquium"
+  semester: "spring-2021"
   speaker-name: Max Tegmark
   speaker-title: Professor
   speaker-affiliation: MIT
@@ -492,7 +518,8 @@
   speaker-gender: "man"
   talk-attendance: 211
 
-- type: "spring-2021"
+- type: "colloquium"
+  semester: "spring-2021"
   speaker-name: Phil Harris
   speaker-title: Assistant Professor
   speaker-affiliation: MIT
@@ -511,7 +538,8 @@
   speaker-gender: "man"
   talk-attendance: 85
 
-- type: "spring-2021"
+- type: "colloquium"
+  semester: "spring-2021"
   speaker-name: Doug Finkbeiner
   speaker-title: Professor
   speaker-affiliation: Harvard
@@ -530,7 +558,8 @@
   speaker-gender: "man"
   talk-attendance: 60
 
-- type: "spring-2021"
+- type: "colloquium"
+  semester: "spring-2021"
   speaker-name: Demba Ba
   speaker-title: Professor
   speaker-affiliation: Harvard
@@ -549,7 +578,8 @@
   speaker-gender: "man"
   talk-attendance: 73
 
-- type: "spring-2021"
+- type: "colloquium"
+  semester: "spring-2021"
   speaker-name: Jim Halverson
   speaker-title: Assistant Professor
   speaker-affiliation: Northeastern

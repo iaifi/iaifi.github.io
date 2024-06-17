@@ -30,7 +30,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 
 {% for talk in talks %}
   {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
-  {% unless talk-date < now and talk.type == semester.tag %}{% continue %}{% endunless%}
+  {% unless talk-date < now and talk.semester == semester.tag %}{% continue %}{% endunless%}
 
   {% include colloquium_item.html talk=talk is_previous=true %}
 
