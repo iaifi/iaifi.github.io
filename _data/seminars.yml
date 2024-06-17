@@ -1,4 +1,5 @@
-- type: "spring-2024"
+- type: "seminar"
+  semester: "spring-2024"
   speaker-name: Susanne Yelin
   speaker-title: Professor of Physics in Residence
   speaker-affiliation: Harvard University
@@ -17,7 +18,8 @@
   speaker-gender: "woman"
   talk-attendance: 20 in person, 13 virtual
 
-- type: "spring-2024"
+- type: "seminar"
+  semester: "spring-2024"
   speaker-name: Michael Albergo
   speaker-title: Postdoctoral Fellow
   speaker-affiliation: Courant Institute of Mathematical Sciences
@@ -36,7 +38,8 @@
   speaker-gender: "man"
   talk-attendance: 30 in person, 18 virtual
 
-- type: "spring-2024"
+- type: "seminar"
+  semester: "spring-2024"
   speaker-name: Alex Gagliano
   speaker-title: Postdoctoral Fellow
   speaker-affiliation: IAIFI
@@ -55,7 +58,8 @@
   speaker-gender: "man"
   talk-attendance: 19 in person, 8 virtual
 
-- type: "spring-2024"
+- type: "seminar"
+  semester: "spring-2024"
   speaker-name: Gaia Grosso
   speaker-title: Postdoctoral Fellow
   speaker-affiliation: IAIFI
@@ -74,7 +78,8 @@
   speaker-gender: "woman"
   talk-attendance: 28 in person, 8 online
 
-- type: "fall-2023"
+- type: "seminar"
+  semester: "fall-2023"
   speaker-name: Dmitrii Kochkov
   speaker-title: Research Engineer
   speaker-affiliation: Google
@@ -93,7 +98,8 @@
   speaker-gender: "man"
   talk-attendance: 36 in person 18 virtual
 
-- type: "fall-2023"
+- type: "seminar"
+  semester: "fall-2023"
   speaker-name: Mike Douglas
   speaker-title: Research Scientist
   speaker-affiliation: Harvard CMSA
@@ -115,7 +121,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance: 20 in person 19 virtual
 
-- type: "spring-2023"
+- type: "seminar"
+  semester: "spring-2023"
   speaker-name: "Denis Boyda"
   speaker-title: "Fellow"
   speaker-affiliation: "IAIFI"
@@ -134,7 +141,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance: 16 in person 14 virtual
 
-- type: "spring-2023"
+- type: "seminar"
+  semester: "spring-2023"
   speaker-name: "Brian Nord"
   speaker-title: "Research Scientist"
   speaker-affiliation: "Fermilab"
@@ -153,7 +161,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance: 20 in person 12 virtual
 
-- type: "spring-2023"
+- type: "seminar"
+  semester: "spring-2023"
   speaker-name: "Carolina Cuesta-Lazaro"
   speaker-title: "Fellow"
   speaker-affiliation: "IAIFI"
@@ -172,7 +181,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "woman"
   talk-attendance: 19 in person 13 virtual
 
-- type: "spring-2023"
+- type: "seminar"
+  semester: "spring-2023"
   speaker-name: "Special Seminar: Eun-Ah Kim"
   speaker-title: "Professor"
   speaker-affiliation: "Cornell University"
@@ -191,7 +201,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "woman"
   talk-attendance: 20 in person 23 virtual
 
-- type: "fall-2022"
+- type: "seminar"
+  semester: "fall-2022"
   speaker-name: "Aleksander Madry"
   speaker-title: "Professor"
   speaker-affiliation: "MIT"
@@ -210,7 +221,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance:
 
-- type: "fall-2022"
+- type: "seminar"
+  semester: "fall-2022"
   speaker-name: "Abiy Tasissa"
   speaker-title: "Professor"
   speaker-affiliation: "Tufts"
@@ -229,7 +241,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance: 26 in person 11 virtual
 
-- type: "fall-2022"
+- type: "seminar"
+  semester: "fall-2022"
   speaker-name: "Special Seminar: Kaća Bradonjić"
   speaker-title: "Professor"
   speaker-affiliation: "Hampshire College"
@@ -248,7 +261,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "woman"
   talk-attendance: 20 in person 13 virtual
 
-- type: "fall-2022"
+- type: "seminar"
+  semester: "fall-2022"
   speaker-name: "Jessie Micallef"
   speaker-title: "Fellow"
   speaker-affiliation: "IAIFI"
@@ -267,7 +281,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "not specified"
   talk-attendance: 26 in person 7 virtual
 
-- type: "spring-2022"
+- type: "seminar"
+  semester: "spring-2022"
   speaker-name: "Anna Golubeva"
   speaker-title: "Fellow"
   speaker-affiliation: "IAIFI"
@@ -286,7 +301,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "woman"
   talk-attendance: 27
 
-- type: "spring-2022"
+- type: "seminar"
+  semester: "spring-2022"
   speaker-name: "Boaz Borak"
   speaker-title: "Professor"
   speaker-affiliation: "Computer Science, Harvard"
@@ -305,7 +321,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance: 27
 
-- type: "spring-2022"
+- type: "seminar"
+  semester: "spring-2022"
   speaker-name: "Siddharth Mishra-Sharma"
   speaker-title: "Fellow"
   speaker-affiliation: "IAIFI"
@@ -324,7 +341,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance: 40
 
-- type: "spring-2022"
+- type: "seminar"
+  semester: "spring-2022"
   speaker-name: "Special Seminar: Junyu Liu"
   speaker-title: "Researcher"
   speaker-affiliation: "University of Chicago/IBM"
@@ -332,8 +350,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-photo-location: ""
   talk-date: "2022-06-01"
   talk-date-time: "Wednesday, June 1, 2022, 2:30-3:30 pm"
-  start-date-time: "2022-06-01 14:00"
-  end-date-time: "2022-06-01 15:00"
+  start-date-time: "2022-06-01 14:30"
+  end-date-time: "2022-06-01 15:30"
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "An analytic theory for the dynamics of wide quantum neural networks"
   talk-abstract: "Parametrized quantum circuits can be used as quantum neural networks and have the potential to outperform their classical counterparts when trained for addressing learning problems. To date, much of the results on their performance on practical problems are heuristic in nature. In particular, the convergence rate for the training of quantum neural networks is not fully understood. Here, we analyze the dynamics of gradient descent for the training error of a class of variational quantum machine learning models. We define wide quantum neural networks as parameterized quantum circuits in the limit of a large number of qubits and variational parameters. We then find a simple analytic formula that captures the average behavior of their loss function and discuss the consequences of our findings. For example, for random quantum circuits, we predict and characterize an exponential decay of the residual training error as a function of the parameters of the system. We finally validate our analytic results with numerical experiments."
@@ -343,7 +361,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance:
 
-- type: "fall-2021"
+- type: "seminar"
+  semester: "fall-2021"
   speaker-name: "Fabian Ruehle"
   speaker-title: "Assistant Professor"
   speaker-affiliation: "Northeastern University"
@@ -362,7 +381,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance: 26
 
-- type: "fall-2021"
+- type: "seminar"
+  semester: "fall-2021"
   speaker-name: "Di Luo"
   speaker-title: "Fellow"
   speaker-affiliation: "IAIFI"
@@ -381,7 +401,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance: 31
 
-- type: "fall-2021"
+- type: "seminar"
+  semester: "fall-2021"
   speaker-name: "Cengiz Pehlevan"
   speaker-title: "Assistant Professor"
   speaker-affiliation: "Applied Mathematics, Harvard University (SEAS)"
@@ -400,7 +421,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance: 27
 
-- type: "fall-2021"
+- type: "seminar"
+  semester: "fall-2021"
   speaker-name: "Bryan Ostdiek"
   speaker-title: "Postdoctoral Fellow"
   speaker-affiliation: "Theoretical Particle Physics, Harvard University"
@@ -419,7 +441,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "man"
   talk-attendance: 34
 
-- type: "fall-2021"
+- type: "seminar"
+  semester: "fall-2021"
   speaker-name: "Tess Smidt"
   speaker-title: "Assistant Professor"
   speaker-affiliation: "EECS, MIT"
@@ -438,7 +461,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "woman"
   talk-attendance: 47
 
-- type: "fall-2021"
+- type: "seminar"
+  semester: "fall-2021"
   speaker-name: "Harini Suresh"
   speaker-title: "PhD Student"
   speaker-affiliation: "Computer Science, MIT"
@@ -457,7 +481,8 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-gender: "woman"
   talk-attendance: 18
 
-- type: "spring-2021"
+- type: "seminar"
+  semester: "spring-2021"
   speaker-name: "Justin Solomon"
   speaker-title: "Assistant Professor"
   speaker-affiliation: "MIT"
@@ -469,14 +494,14 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   end-date-time: "2021-02-03 12:00"
   talk-location: ""
   talk-title: "Geometric Data Processing at MIT"
-  talk-abstract: 
   slides-link: "https://drive.google.com/file/d/1QyhNjYpzsfCIXdjL8OVzZJ8hMrbdPVOu/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
   talk-attendance: 38
 
-- type: "spring-2021"
+- type: "seminar"
+  semester: "spring-2021"
   speaker-name: "Phil Harris, Anjali Nambrath, Karna Morey, Michal Szurek, Jade Chongsathapornpong"
   speaker-title: "Professor and Graduate Students"
   speaker-affiliation: "MIT"
@@ -488,14 +513,14 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   end-date-time: "2021-02-25 12:00"
   talk-location: ""
   talk-title: "Open Data Science in Physics Courses"
-  talk-abstract: ""
   slides-link: "https://drive.google.com/file/d/129JGTKX5pFmXQrPAw_sENjWI035-z8lZ/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "physics experiment"
   speaker-gender: ""
   talk-attendance: 29
 
-- type: "spring-2021"
+- type: "seminar"
+  semester: "spring-2021"
   speaker-name: "Ge Yang"
   speaker-title: "Fellow"
   speaker-affiliation: "IAIFI"
@@ -503,18 +528,18 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   speaker-photo-location: ""
   talk-date: "2021-03-11"
   talk-date-time: "Thursday, March 11, 2021, 11am-noon"
-  start-date-time: "2021-03-11 14:00"
-  end-date-time: "2021-03-11 15:00"
+  start-date-time: "2021-03-11 11:00"
+  end-date-time: "2021-03-11 12:00"
   talk-location: ""
   talk-title: "Learning Task Informed Abstractions"
-  talk-abstract: ""
   slides-link: "https://drive.google.com/file/d/1L5ic6K1n1qcTwS4HUctPCikcHlmhFrEq/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   speaker-gender: "man"
   talk-attendance: 34
 
-- type: "spring-2021"
+- type: "seminar"
+  semester: "spring-2021"
   speaker-name: "Christopher Rackauckas"
   speaker-title: "Research Affiliate"
   speaker-affiliation: "MIT"
@@ -526,14 +551,14 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   end-date-time: "2021-03-25 12:00"
   talk-location: ""
   talk-title: "Overview of SciML"
-  talk-abstract: ""
   slides-link: "https://drive.google.com/file/d/1V_N8LDBGdMA0UnXTXQ9W3ELtz5QIJhC6/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
   talk-attendance: 22
 
-- type: "spring-2021"
+- type: "seminar"
+  semester: "spring-2021"
   speaker-name: "George Barbastathis/Demba Ba"
   speaker-title: Professor/Professor
   speaker-affiliation: "MIT/Harvard"
@@ -545,14 +570,14 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   end-date-time: "2021-04-08 12:00"
   talk-location: ""
   talk-title: "On the Continuum between Dictionaries and Neural Nets for Inverse Problems"
-  talk-abstract: ""
   slides-link: "https://drive.google.com/file/d/120zmk-awc-rSdX0CtUPCnp86qlsChiZ3/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
   talk-attendance: 31
 
-- type: "spring-2021"
+- type: "seminar"
+  semester: "spring-2021"
   speaker-name: "David Kaiser"
   speaker-title: "Professor"
   speaker-affiliation: "MIT"
@@ -561,17 +586,17 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   talk-date: "2021-04-22"
   talk-date-time: "Thursday, April 22, 2021, 11am-noon"
   start-date-time: "2021-04-22 11:00"
-  end-date-time: "2021-04-22 15:00"
+  end-date-time: "2021-04-22 12:00"
   talk-location: ""
   talk-title: "Ethics and AI"
-  talk-abstract: ""
   slides-link: "https://drive.google.com/file/d/1W6FmaEhY-INyiRkydkcdKTRXQzOLWEaF/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: man
   talk-attendance: 22
 
-- type: "spring-2021"
+- type: "seminar"
+  semester: "spring-2021"
   speaker-name: "Alexander Rakhlin"
   speaker-title: "Professor"
   speaker-affiliation: "MIT"
@@ -583,14 +608,14 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   end-date-time: "2021-05-06 12:00"
   talk-location: ""
   talk-title: "Deep Learning: A Statistical Viewpoint"
-  talk-abstract: ""
   slides-link: "https://drive.google.com/file/d/1HVgQN3cRAUgZmVrP0OOrer8DeenBE7Fu/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "Foundational AI"
   Speaker-gender: "man"
   talk-attendance: 26
 
-- type: "spring-2021"
+- type: "seminar"
+  semester: "spring-2021"
   speaker-name: "Edo Berger"
   speaker-title: "Professor"
   speaker-affiliation: "MIT"
@@ -602,7 +627,6 @@ and ITP is starting to help with the development of cutting edge mathematics. Me
   end-date-time: "2021-05-20 12:00"
   talk-location: ""
   talk-title: "Machine Learning for Cosmic Explosions"
-  talk-abstract: ""
   slides-link: "https://drive.google.com/file/d/1FEqmHIxhujJq-R80wIJ7pBNWk6prHHYh/view?usp=share_link"
   youtube-link: ""
   speaker-thrust: "physics experiment"

@@ -5,208 +5,35 @@ aside:
   toc: true
 ---
 
-## Upcoming Seminars
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.seminars %}
-{% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date > now %}
-  {% if talk.type == "spring-2024" %}
+[Access recordings of past seminars](https://docs.google.com/document/d/1ZGLuC_-eqMwyeeJNbwR5YhEg_S18E8akbDE9m39oYsY/edit?usp=sharing)  (for IAIFI members only)
 
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-  {% endif %}
-  {% endif %}
+{% assign now = 'now' | date: '%s' | plus: 0 %}
+{% assign talks = site.data.seminars %}
+
+
+
+## Upcoming Seminars 
+
+{% for talk in talks %}
+  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+  {% unless talk-date > now %}{% continue %}{% endunless %}
+
+  {% include seminar_item.html talk=talk %}
+
 {% endfor %}
 
+## Past Seminars 
 
-## Past Seminars
-[Access recordings of past seminars (for IAIFI members only)](https://docs.google.com/document/d/1ZGLuC_-eqMwyeeJNbwR5YhEg_S18E8akbDE9m39oYsY/edit?usp=sharing)
+{% for semester in site.data.calendar.semesters %}
 
-### Spring 2024 Seminars
+### {{semester.name}}
 
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.seminars %}
 {% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date < now %}
-  {% if talk.type == "spring-2024" %}
+  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+  {% unless talk-date < now and talk.semester == semester.tag %}{% continue %}{% endunless%}
 
-{% if talk.slides-link %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
-{% else %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * Slides to come
-  {% endif %}
-  {% endif %}
-  {% endif %}
+  {% include seminar_item.html talk=talk is_previous=true %}
+
 {% endfor %}
 
-### Fall 2023 Seminars
-
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.seminars %}
-{% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date < now %}
-  {% if talk.type == "fall-2023" %}
-
-{% if talk.slides-link %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
-{% else %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * Slides not available
-  {% endif %}
-  {% endif %}
-  {% endif %}
 {% endfor %}
-
-### Spring 2023 Seminars
-
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.seminars %}
-{% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date < now %}
-  {% if talk.type == "spring-2023" %}
-
-{% if talk.slides-link %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
-{% else %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * Slides not available
-  {% endif %}
-  {% endif %}
-  {% endif %}
-{% endfor %}
-
-### Fall 2022 Seminars
-
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.seminars %}
-{% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date < now %}
-  {% if talk.type == "fall-2022" %}
-
-{% if talk.slides-link %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
-{% else %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * Slides not available
-  {% endif %}
-  {% endif %}
-  {% endif %}
-{% endfor %}
-    
-### Spring 2022 Seminars
-
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.seminars %}
-{% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date < now %}
-  {% if talk.type == "spring-2022" %}
-
-{% if talk.slides-link %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
-{% else %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * Slides not available
-  {% endif %}
-  {% endif %}
-  {% endif %}
-{% endfor %}
-
-### Fall 2021 Seminars
-
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.seminars %}
-{% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date < now %}
-  {% if talk.type == "fall-2021" %}
-
-{% if talk.slides-link %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
-{% else %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * Slides not available
-  {% endif %}
-  {% endif %}
-  {% endif %}
-{% endfor %}
-
-
-### Spring 2021 Seminars
-
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.seminars %}
-{% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date < now %}
-  {% if talk.type == "spring-2021" %}
-
-{% if talk.slides-link %}
-{% if talk.speaker-website %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-{% else %}
-* **{{talk.speaker-name}}, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-{% endif %}
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * <a href="{{talk.slides-link}}">Talk Slides</a> (For IAIFI members only)
-{% else %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}**
-    * *{{talk.talk-title}}*
-    * Slides not available
-  {% endif %}
-  {% endif %}
-  {% endif %}
-{% endfor %}
-
