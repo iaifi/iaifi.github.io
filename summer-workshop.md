@@ -179,7 +179,7 @@ Speakers will be announced as they are confirmed.
          <a href="https://web.mit.edu/dikaiser/www/">David Kaiser</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Germeshausen Professor of the History of Science and Professor of Physics, MIT </em> <br>
+         <em> Professor, History of Science/Physics, MIT </em> <br>
          </div>
          </div>
        </div>
