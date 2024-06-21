@@ -301,7 +301,7 @@ If time permits, I will also present our latest results on generalizing the QCNN
   * **Murphy Niu, Google Quantum AI**
     * **Thursday, December 3, 11:00am-12:00pm**
     * *"Entangling Quantum Generative Adversarial Networks using Tensorflow Quantum"*
-    * Abstract/Resources: [https://arxiv.org/pdf/2105.00080.pdf](https://arxiv.org/pdf/2105.00080.pdf); [https://arxiv.org/pdf/2003.02989.pdf%20-%20Page%202.pdf](https://arxiv.org/pdf/2003.02989.pdf%20-%20Page%202.pdf)
+    * Abstract/Resources: [https://arxiv.org/pdf/2105.00080.pdf](https://arxiv.org/pdf/2105.00080.pdf); [https://arxiv.org/pdf/2003.02989.pdf](https://arxiv.org/pdf/2003.02989.pdf)
 
 ### Spring 2021 Journal Clubs
   * **Anindita Maiti**
