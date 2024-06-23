@@ -6,7 +6,7 @@ title: Industry Partners
 Thank you for your interest in getting involved with IAIFI! 
 
 ## Partnership Hub
-We are in the process of developing partnerships across both industry and academia. If you are interested in discussing partnership opportunities with IAIFI, [contact Todd Zickler](mailto:zickler@seas.harvard.edu), IAIFI Industry Partnership Coordinator. 
+We are in the process of developing partnerships across both industry and academia. If you are interested in discussing partnership opportunities with IAIFI, [contact Marin Soljacic](mailto:soljacic@mit.edu), IAIFI Industry Partnership Coordinator. 
 
 ## Industry Visits
 

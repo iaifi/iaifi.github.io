@@ -60,13 +60,14 @@ Lecturer: [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehl
 
 Lecturer: [Gilles Louppe](https://glouppe.github.io), Professor, University of Liège 
 
-### Topic: Reinforcement Learning
-
-Lecturer: TBA 
-
 ## Tutorial Leads
 
 Additional tutorial leads will be announced. 
+
+<img class="image" src="images/small-photo-thomas-harvey.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
+### Topic: Representation/Manifold Learning
+
+Tutorial Lead: [Thomas Harvey](https://inspirehep.net/authors/1851078?ui-citation-summary=true), Incoming IAIFI Fellow
 
 <img class="image" src="images/small-photo-jessie-micallef.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
 ### Topic: Uncertainty Quantification/Simulation-Based Inference
@@ -78,10 +79,10 @@ Tutorial Lead: [Jessie Micallef](https://github.com/jessimic), IAIFI Fellow
 
 Tutorial Lead: [Alex Atanasov](https://abatanasov.com), PhD Student, Harvard
 
-<img class="image" src="images/small-photo-thomas-harvey.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
-### Topic: Reinforcement Learning
+<img class="image" src="images/small-photo-gaia-grosso.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
+### Topic: Generative Modeling
 
-Tutorial Lead: [Thomas Harvey](https://inspirehep.net/authors/1851078?ui-citation-summary=true), Incoming IAIFI Fellow
+Tutorial Lead: [Gaia Grosso](https://iaifi.org/current-fellows.html#gaia-grosso), IAIFI Fellow
 
 ## Agenda
 This agenda is subject to change. 
@@ -145,6 +146,10 @@ Tutorial 2: Geometric Machine Learning
 
 Breakout Sessions with Days 1 and 2 Lecturers and Tutorial Leads (Optional)
 
+**4:30–6:00 pm ET**
+
+Group work for hackathon
+
 ### Wednesday, August 7, 2024
 
 **9:00–9:30 am ET**
@@ -174,6 +179,10 @@ Career Panel, Panelists TBA (Optional)
 
 ### Thursday, August 8, 2024
 
+**4:30–6:00 pm ET**
+
+Group work for hackathon
+
 **9:00–9:30 am ET**
 
 Lightning Talks
@@ -199,9 +208,20 @@ Tutorial 4: Uncertainty Quantification, Jessie Micallef
 
 Breakout Sessions with Days 3, 4, and 5 Lecturers and Tutorial Leads (Optional)
 
-**5:00–9:00 pm ET**
+**4:30–6:00 pm ET**
+
+Group work for hackathon
+
+**5:30–10:00 pm ET**
 
 Social Event with IAIFI members
+
+<details>
+<summary>Details</summary>
+<em>5:30–7:00 pm ET: Picnic with IAIFI members</em> <br>
+
+<em>7:00–10:00 pm ET: Movie Night with MIT OpenSpace, The Imitation Game</em>
+</details> 
 
 ### Friday, August 9, 2024
 
@@ -211,20 +231,29 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 5: Reinforcement Learning, TBD
+Hackathon
 
 <details>
-<summary>Abstract</summary>    
-<em>Abstract to come.</em>
+<summary>Projects</summary>    
+<em>Project details to come.</em>
 </details>
 
 **12:00–1:00 pm ET**
 
 Lunch 
 
-**1:00–3:30 pm ET**
+**1:00–2:30 pm ET**
 
-Tutorial 5: Reinforcement Learning, Thomas Harvey
+Hackathon
+
+<details>
+<summary>Projects</summary>    
+<em>Project details to come.</em>
+</details>
+
+**2:30–3:30 pm ET**
+
+Hackathon presentations
 
 **3:30–4:00 pm ET**
 
