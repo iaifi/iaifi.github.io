@@ -15,7 +15,6 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 
 * **August 5–9, 2024**
 * **MIT**
-* **Applications for the 2024 Summer School are due March 1, 2024** 
 
 [Apply](https://app.smartsheet.com/b/form/4d72caf22cd74ce7b771a91ef25dde22){:.button.button--outline-primary.button--pill.button--lg}[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg}[Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -38,7 +37,7 @@ Students for the Summer School have the option to reserve dorm rooms (at their o
 * Students who wish to stay for the [IAIFI Summer Workshop](/summer-workshop.html) will be able to book the same rooms through the weekend and the Workshop if they choose (at their own expense). 
 
 ## Lecturers
-The following lecturers are confirmed for the 2024 IAIFI Summer School. Additional lecturers will be announced soon. 
+The following lecturers are confirmed for the 2024 IAIFI Summer School.
 
 <img class="image" src="images/small-photo-melanie-weber.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Representation/Manifold Learning
@@ -61,8 +60,6 @@ Lecturer: [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehl
 Lecturer: [Gilles Louppe](https://glouppe.github.io), Professor, University of Liège 
 
 ## Tutorial Leads
-
-Additional tutorial leads will be announced. 
 
 <img class="image" src="images/small-photo-thomas-harvey.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
 ### Topic: Representation/Manifold Learning
@@ -112,7 +109,7 @@ Tutorial 1: Generative Modeling
 
 **3:30–4:30 pm ET**
 
-Workshop TBA (optional)
+Quantum Computing Workshop 
 
 **5:00–7:00 pm ET**
 

@@ -29,7 +29,7 @@ Here are some useful commands for easy copy/pasting:
 * Seeing Jekyll page locally:  <http://localhost:4000>
 * Jekyll TeXt theme documentation:  <https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start>
 
-#### Steps for Comfort
+#### Steps for Thomas
 
 ##### Getting the webserver running
 
