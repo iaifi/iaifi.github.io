@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Towards Universal Unfolding of Detector Effects in High-Energy Physics using Denoising Diffusion Probabilistic Models"
+authors: Camila Pazos, Shuchin Aeron, Pierre-Hugues Beauchemin, Vincent Croft, Martin Klassen, Taritree Wongjirad
+abstract: "The unfolding of detector effects in experimental data is critical for enabling precision measurements in high-energy physics. However, traditional unfolding methods face challenges in scalability, flexibility, and dependence on simulations. We introduce a novel unfolding approach using conditional Denoising Diffusion Probabilistic Models (cDDPM). Our method utilizes the cDDPM for a non-iterative, flexible posterior sampling approach, which exhibits a strong inductive bias that allows it to generalize to unseen physics processes without explicitly assuming the underlying distribution. We test our approach by training a single cDDPM to perform multidimensional particle-wise unfolding for a variety of physics processes, including those not seen during training. Our results highlight the potential of this method as a step towards a 'universal' unfolding tool that reduces dependence on truth-level assumptions."
+arxiv: "2406.01507"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 

@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Re-Simulation-based Self-Supervised Learning for Pre-Training Foundation Models"
+authors: Philip Harris, Michael Kagan, Jeffrey Krupa, Benedikt Maier, Nathaniel Woodward
+abstract: 'Self-Supervised Learning (SSL) is at the core of training modern large machine learning models, providing a scheme for learning powerful representations that can be used in a variety of downstream tasks. However, SSL strategies must be adapted to the type of training data and downstream tasks required. We propose RS3L, a novel simulation-based SSL strategy that employs a method of re-simulation to drive data augmentation for contrastive learning. By intervening in the middle of the simulation process and re-running simulation components downstream of the intervention, we generate multiple realizations of an event, thus producing a set of augmentations covering all physics-driven variations available in the simulator. Using experiments from high-energy physics, we explore how this strategy may enable the development of a foundation model; we show how R3SL pre-training enables powerful performance in downstream tasks such as discrimination of a variety of objects and uncertainty mitigation. In addition to our results, we make the RS3L dataset publicly available for further studies on how to improve SSL strategies.'
+arxiv: "2403.07066"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 
