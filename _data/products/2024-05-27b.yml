@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: F
+title: "Survival of the Fittest Representation: A Case Study with Modular Addition"
+authors: Xiaoman Delores Ding, Zifan Carl Guo, Eric J. Michaud, Ziming Liu, Max Tegmark
+abstract: "When a neural network can learn multiple distinct algorithms to solve a task, how does it 'choose' between them during training? To approach this question, we take inspiration from ecology: when multiple species coexist, they eventually reach an equilibrium where some survive while others die out. Analogously, we suggest that a neural network at initialization contains many solutions (representations and algorithms), which compete with each other under pressure from resource constraints, with the 'fittest' ultimately prevailing. To investigate this Survival of the Fittest hypothesis, we conduct a case study on neural networks performing modular addition, and find that these networks' multiple circular representations at different Fourier frequencies undergo such competitive dynamics, with only a few circles surviving at the end. We find that the frequencies with high initial signals and gradients, the 'fittest,' are more likely to survive. By increasing the embedding dimension, we also observe more surviving frequencies. Inspired by the Lotka-Volterra equations describing the dynamics between species, we find that the dynamics of the circles can be nicely characterized by a set of linear differential equations. Our results with modular addition show that it is possible to decompose complicated representations into simpler components, along with their basic interactions, to offer insight on the training dynamics of representations."
+arxiv: "2405.17420"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 

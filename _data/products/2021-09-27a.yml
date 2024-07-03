@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: E
+title: "Presenting Unbinned Differential Cross Section Results"
+authors: Miguel Arratia, Anja Butter, Mario Campanelli, Vincent Croft, Aishik Ghosh, Dag Gillberg, Kristin Lohwasser, Bogdan Malaescu, Vinicius Mikuni, Benjamin Nachman, Juan Rojo, Jesse Thaler, Ramon Winterhalder
+abstract: "Machine learning tools have empowered a qualitatively new way to perform differential cross section measurements whereby the data are unbinned, possibly in many dimensions. Unbinned measurements can enable, improve, or at least simplify comparisons between experiments and with theoretical predictions. Furthermore, many-dimensional measurements can be used to define observables after the measurement instead of before. There is currently no community standard for publishing unbinned data. While there are also essentially no measurements of this type public, unbinned measurements are expected in the near future given recent methodological advances. The purpose of this paper is to propose a scheme for presenting and using unbinned results, which can hopefully form the basis for a community standard to allow for integration into analysis workflows. This is foreseen to be the start of an evolving community dialogue, in order to accommodate future developments in this field that is rapidly evolving."
+arxiv: "2109.13243"
+journal: "Journal of Instrumentation, 2022, Volume 17"
+doi: "https://doi.org/10.1088/1748-0221/17/01/P01024"
+nsf-par:
+code: 
+publication-date: 2022-01-19

@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: F
+title: "Observation of enhanced free-electron radiation from photonic flatband resonancesg"
+authors: Yi Yang, Charles Roques-Carmes, Steven E. Kooi, Haoning Tang, Justin Beroz, Eric Mazur, Ido Kaminer, John D. Joannopoulos, Marin Soljačić
+abstract: "Flatbands emerge from a myriad of structures such as Landau levels, Lieb and Kagome lattices, linegraphs, and more recently moire superlattices. They enable unique properties including slow light in photonics, correlated phases in electronics, and supercollimation in both systems. Despite these intense parallel efforts, flatbands have never been shown to affect the core light-matter interaction between electrons and photons, which is limited by a dimensionality mismatch. Here, we reveal that a photonic flatband can overcome this mismatch between localized electrons and extended photons and thus remarkably boost their light-matter interaction. We design flatband resonances in a silicon-on-insulator photonic crystal slab to control and enhance the radiation emission from free electrons by tuning their trajectory and velocity. In particular, we record a 100-fold radiation enhancement from the conventional diffraction-enabled Smith-Purcell radiation, and show the potential of our approach to achieve 106-fold enhancements and beyond. The enhancement also enables us to perform polarization shaping of free electron radiation from multiple flatbands and demonstrate an approach to measure photonic bands via angle-resolved electron-beam measurements. Our results suggest flatbands as ideal test beds for strong light-electron interaction in various systems, with particular relevance for efficient and compact free-electron light sources and accelerators."
+arxiv: "2110.03550"
+journal: "Nature, 2023"
+doi: "https://doi.org/10.1038/s41586-022-05387-5"
+nsf-par:
+code: 
+publication-date: 2023-01-04
