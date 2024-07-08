@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Yang-Mills glueball masses from spectral reconstruction"
+authors: Jan M. Pawlowski, Coralie S. Schneider, Jonas Turnwald, Julian M. Urban, Nicolas Wink
+abstract: "We compute masses of the two lightest glueballs from spectral reconstructions of timelike interaction channels of the four-gluon vertex in Landau gauge Yang-Mills theory. The Euclidean spacelike dressings of the vertex are calculated with the functional renormalisation group. For the spectral reconstruction of these Euclidean data, we employ Gaussian process regression. The glueball resonances can be identified straightforwardly and we obtain msc=1870(75)  MeV as well as mps=2700(120)  MeV, in accordance with functional bound state and lattice calculations."
+arxiv: "2212.01113"
+journal: Physical Review D 2023, Volume 108, Issue 7
+doi: https://doi.org/10.1103/PhysRevD.108.076018
+nsf-par:
+code: 
+publication-date: 2023-10-25

@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: F
+title: "Learning Force Control for Legged Manipulation"
+authors: Tifanny Portela, Gabriel B. Margolis, Yandong Ji, Pulkit Agrawal
+abstract: "Controlling contact forces during interactions is critical for locomotion and manipulation tasks. While sim-to-real reinforcement learning (RL) has succeeded in many contact-rich problems, current RL methods achieve forceful interactions implicitly without explicitly regulating forces. We propose a method for training RL policies for direct force control without requiring access to force sensing. We showcase our method on a whole-body control platform of a quadruped robot with an arm. Such force control enables us to perform gravity compensation and impedance control, unlocking compliant whole-body manipulation. The learned whole-body controller with variable compliance makes it intuitive for humans to teleoperate the robot by only commanding the manipulator, and the robot's body adjusts automatically to achieve the desired position and force. Consequently, a human teleoperator can easily demonstrate a wide variety of loco-manipulation tasks. To the best of our knowledge, we provide the first deployment of learned whole-body force control in legged manipulators, paving the way for more versatile and adaptable legged robots."
+arxiv: "2405.01402"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 

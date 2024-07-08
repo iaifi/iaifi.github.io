@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: 'Flow-based density of states for complex actions'
+authors: Jan M. Pawlowski, Julian M. Urban
+abstract: 'Emerging sampling algorithms based on normalizing flows have the potential to solve ergodicity problems in lattice calculations. Furthermore, it has been noted that flows can be used to compute thermodynamic quantities which are difficult to access with traditional methods. This suggests that they are also applicable to the density-of-states approach to complex action problems. In particular, flow-based sampling may be used to compute the density directly, in contradistinction to the conventional strategy of reconstructing it via measuring and integrating the derivative of its logarithm. By circumventing this procedure, the accumulation of errors from the numerical integration is avoided completely and the overall normalization factor can be determined explicitly. In this proof-of-principle study, we demonstrate our method in the context of two-component scalar field theory where the O(2) symmetry is explicitly broken by an imaginary external field. First, we concentrate on the zero-dimensional case which can be solved exactly. We show that with our method, the Lee-Yang zeroes of the associated partition function can be successfully located. Subsequently, we confirm that the flow-based approach correctly reproduces the density computed with conventional methods in one- and two-dimensional models.'
+arxiv: "2203.01243"
+journal: Physical Review D, 2023, Volume 108, Issue 5
+doi: https://doi.org/10.1103/PhysRevD.108.054511
+nsf-par:
+code: 
+publication-date: 2023-09-29

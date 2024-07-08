@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Multiscale Normalizing Flows for Gauge Theories"
+authors: Ryan Abbott, Michael S. Albergo, Denis Boyda, Daniel C. Hackett, Gurtej Kanwar, Fernando Romero-López, Phiala E. Shanahan, Julian M. Urban
+abstract: "Scale separation is an important physical principle that has previously enabled algorithmic advances such as multigrid solvers. Previous work on normalizing flows has been able to utilize scale separation in the context of scalar field theories, but the principle has been largely unexploited in the context of gauge theories. This work gives an overview of a new method for generating gauge fields using hierarchical normalizing flow models. This method builds gauge fields from the outside in, allowing different parts of the model to focus on different scales of the problem. Numerical results are presented for U(1) and SU(3) gauge theories in 2, 3, and 4 spacetime dimensions."
+arxiv: "2404.10819"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
