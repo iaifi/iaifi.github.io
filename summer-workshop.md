@@ -45,6 +45,8 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ## Agenda
 
+<img src="images/2024-workshop-agenda.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
+
 ### Monday, August 12, 2024
 **9:15-9:30 am ET**
 
