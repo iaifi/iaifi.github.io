@@ -44,8 +44,89 @@ We have extended the deadline to [submit a poster](https://t.co/AmNkXRoWeg).  Su
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field.
 
 ## Agenda
-*The agenda will be announced in April 2024.
 
+### Monday, August 12, 2024
+**9:15-9:30 am ET**
+
+Welcome
+
+**9:30–10:15 am ET**
+
+10,000 Einsteins: AI and the future of theoretical physics - Matt Schwartz, Harvard/IAIFI
+
+<details>
+<summary>Abstract</summary>
+<em>AI has already proved revolutionary in many areas of physics, particularly those focused on data analysis. However, machines are also advancing rapidly in symbolic tasks. As much of what is done in theoretical physics is symbolic, there is tremendous potential for machines to transition from data analysis to formal theoretical work. This talk will discuss some initial progress in this direction and a vision for how machines and humans might collaborate in the future to solve some of the most challenging problems in fundamental physics.</em>
+</details>
+
+**10:15–11:00 am ET**
+
+Dynamic Models from Data - Nathan Kutz, University of Washington
+
+<details>
+<summary>Abstract</summary>
+<em>Physics based models and governing equations dominate science and engineering practice.  The advent of scientific computing has transformed every discipline as complex, high-dimensional and nonlinear systems could be easily simulated using numerical integration schemes whose accuracy and stability could be controlled.  With the advent of machine learning, a new paradigm has emerged in computing whereby we can build models directly from data.  In this work, integration strategies for leveraging the advantages of both traditional scientific computing and emerging machine learning techniques are discussed.  Using domain knowledge and physics-informed principles, new paradigms are available to aid in engineering understanding, design and control.</em>
+</details>
+
+**11:00-11:30 am ET**
+
+Break
+
+**11:30 am–12:00 pm ET**
+
+Accurate, efficient, and reliable learning of deep neural operators for multiphysics and multiscale problems - Lu Lu, Yale University
+
+<details>
+<summary>Abstract</summary>
+<em>It is widely known that neural networks (NNs) are universal approximators of functions. However, a less known but powerful result is that a NN can accurately approximate any nonlinear operator. This universal approximation theorem of operators is suggestive of the potential of deep neural networks (DNNs) in learning operators of complex systems. In this talk, I will present the deep operator network (DeepONet) to learn various operators that represent deterministic and stochastic differential equations. I will also present several extensions of DeepONet, such as DeepM&Mnet for multiphysics problems, DeepONet with proper orthogonal decomposition or Fourier decoder layers, MIONet for multiple-input operators, and multifidelity DeepONet. I will demonstrate the effectiveness of DeepONet and its extensions to diverse multiphysics and multiscale problems, such as bubble growth dynamics, high-speed boundary layers, electroconvection, hypersonics, geological carbon sequestration, and full waveform inversion. Deep learning models are usually limited to interpolation scenarios, and I will quantify the extrapolation complexity and develop a complete workflow to address the challenge of extrapolation for deep neural operators.</em>
+</details>
+
+**12:15–1:30 pm ET**
+
+Lunch
+
+**1:30–3:00 pm ET**
+
+**Contributed Talks: Details to come**
+
+**3:00–3:30 pm ET**
+
+Break
+
+**3:30–4:15 pm ET**
+
+What Do Language Models Have To Say About Fundamental Physics? - Mariel Pettee, LBNL/Flatiron
+
+<details>
+<summary>Abstract</summary>
+<em>The launch of ChatGPT in November 2022 ignited an ongoing worldwide conversation about the possible impacts of Large Language Models (LLMs) on the way we work. As scientists, however, the changes in our workflows since the advent of this technology have been relatively minor. Will this still be the case in 10 years? Could an analogous paradigm shift arise from a foundation model trained on a large amount of scientific data, transforming the way we conduct our research? If so, what can we learn from the development of other foundation models, particularly LLMs, in their evolution from specialists to (quasi-)generalists? In this talk, I will present some recent work exploring how language models could help form a foundation model of fundamental physics. I'll also share my perspective on how we should strive to shape such models to reflect our highest priorities as scientists.</em>
+</details>
+
+**4:15-5:00 pm ET**
+
+Solving the nuclear many-body problem with neural quantum state - Alessandro Lovato, Argonne National Laboratory
+
+<details>
+<summary>Abstract</summary>
+<em>Artificial neural networks can be employed to accurately and compactly represent quantum many-body states relevant to many applications, including nuclear physics, quantum chemistry, and condensed matter problems. I will argue that a variational Monte Carlo algorithm based on neural-network quantum states provides a systematically improvable solution to the nuclear Schrödinger equation with a polynomial cost in the number of nucleons. After presenting recent progress in describing atomic nuclei, neutron-star matter, and hypernuclei, I will illustrate an application to condensed-matter systems, specifically ultra-cold Fermi gases near the unitary limit. Detailed benchmarks with continuum Quantum Monte Carlo methods will be presented.</em>
+</details>
+
+**5:00–7:00 pm ET**
+
+Poster Session
+
+<details>
+<summary>Details</summary>
+<em>Details to come.</em>
+</details>
+
+**6:00–8:00 pm ET**
+
+Welcome Reception
+
+### Tuesday, August 13, 2024
+
+**9:30 am–10:15 am ET**
 
 ## Speakers
 Speakers will be announced as they are confirmed. 
