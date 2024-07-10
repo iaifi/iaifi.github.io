@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Harmonic 1-forms on real loci of Calabi-Yau manifolds"
+authors: Michael R. Douglas, Daniel Platt, Yidi Qi
+abstract: "We numerically study whether there exist nowhere vanishing harmonic 1-forms on the real locus of some carefully constructed examples of Calabi-Yau manifolds, which would then give rise to potentially new examples of G2-manifolds and an explicit description of their metrics. We do this in two steps: first, we use a neural network to compute an approximate Calabi-Yau metric on each manifold. Second, we use another neural network to compute an approximately harmonic 1-form with respect to the approximate metric, and then inspect the found solution. On two manifolds existence of a nowhere vanishing harmonic 1-form can be ruled out using differential geometry. The real locus of a third manifold is diffeomorphic to S1×S2, and our numerics suggest that when the Calabi-Yau metric is close to a singular limit, then it admits a nowhere vanishing harmonic 1-form. We explain how such an approximate solution could potentially be used in a numerically verified proof for the fact that our example manifold must admit a nowhere vanishing harmonic 1-form."
+arxiv: "2405.19402"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 

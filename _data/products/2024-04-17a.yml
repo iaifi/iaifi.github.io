@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Practical applications of machine-learned flows on gauge fields"
+authors: Ryan Abbott, Michael S. Albergo, Denis Boyda, Daniel C. Hackett, Gurtej Kanwar, Fernando Romero-López, Phiala E. Shanahan, Julian M. Urban
+abstract: "Normalizing flows are machine-learned maps between different lattice theories which can be used as components in exact sampling and inference schemes. Ongoing work yields increasingly expressive flows on gauge fields, but it remains an open question how flows can improve lattice QCD at state-of-the-art scales. We discuss and demonstrate two applications of flows in replica exchange (parallel tempering) sampling, aimed at improving topological mixing, which are viable with iterative improvements upon presently available flows."
+arxiv: "2404.11674"
+journal: 
+doi: 
+nsf-par:
+code: 
+publication-date: 
