@@ -5,7 +5,7 @@ authors: Ryan Abbott, Aleksandar Botev, Denis Boyda, Daniel C. Hackett, Gurtej K
 abstract: "Machine-learned normalizing flows can be used in the context of lattice quantum field theory to generate statistically correlated ensembles of lattice gauge fields at different action parameters. This work demonstrates how these correlations can be exploited for variance reduction in the computation of observables. Three different proof-of-concept applications are demonstrated using a novel residual flow architecture: continuum limits of gauge theories, the mass dependence of QCD observables, and hadronic matrix elements based on the Feynman-Hellmann approach. In all three cases, it is shown that statistical uncertainties are significantly reduced when machine-learned flows are incorporated as compared with the same calculations performed with uncorrelated ensembles or direct reweighting."
 arxiv: "2401.10874"
 journal:
-doi: 
+doi:
 nsf-par:
 code: 
 publication-date: 
