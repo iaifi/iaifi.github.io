@@ -254,7 +254,7 @@ Lunch
 
 **1:30–3:00 pm ET**
 
-**Contributed Talks: Details to come**
+**Industry-Academia Collaboration Panel**
 
 **3:00–3:30 pm ET**
 
