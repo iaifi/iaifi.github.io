@@ -45,6 +45,8 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ## Agenda
 
+<img src="images/2024-workshop-agenda.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
+
 ### Monday, August 12, 2024
 **9:15-9:30 am ET**
 
@@ -126,7 +128,259 @@ Welcome Reception
 
 ### Tuesday, August 13, 2024
 
-**9:30 am–10:15 am ET**
+**9:30–10:15 am ET**
+
+Trends in AI for particle accelerators - Verena Kain, CERN
+
+<details>
+<summary>Abstract</summary>
+<em>AI is without doubt radically transforming science with many successful applications in molecular biology, astrophysics, nuclear physics and particle physics. It has enabled significant technological advances for robotics that can particularly enhance a system’s perception, navigational and manipulation abilities and interaction. For control, it enables novel and faster learning/teaching of tasks, replacing or augmenting classical control techniques for hard problems such as real-time control of the non-linear dynamics of the plasma in a tokamak of a fusion reactor, or navigating drones with super-human performance. Given the success and types of use cases that can be solved with AI algorithms, accelerator physics and associated technologies have also picked up on AI in the last 5 to 10 years with the number of ML applications steadily rising  - and subsequently the number of ML related papers at the big particle accelerator conferences. This contribution will give a brief overview of the typical use cases for AI for particle accelerators, show recent trends and describe the potential and vision of AI for particle accelerators with the emphasis on control and optimisation of particle accelerators.</em>
+</details>
+
+**10:15–11:00 am ET**
+
+Machine Learning for LHC Theory or Something Like That - Tilman Plehn, Heidelberg
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+**11:00-11:30 am ET**
+
+Break
+
+**11:30 am–12:00 pm ET**
+
+Details to come - Rose Yu, UCSD
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+**12:15–1:30 pm ET**
+
+Lunch
+
+**1:30–3:00 pm ET**
+
+**Contributed Talks: Details to come**
+
+**3:00–3:30 pm ET**
+
+Break
+
+**3:30–4:15 pm ET**
+
+KAN: Kolmogorov-Arnold Networks - Ziming Liu, MIT/IAIFI
+
+<details>
+<summary>Abstract</summary>
+<em>Inspired by the Kolmogorov-Arnold representation theorem, we propose Kolmogorov-Arnold Networks (KANs) as promising alternatives to Multi-Layer Perceptrons (MLPs). While MLPs have fixed activation functions on nodes ("neurons"), KANs have learnable activation functions on edges ("weights"). KANs have no linear weights at all -- every weight parameter is replaced by a univariate function parametrized as a spline. We show that this seemingly simple change makes KANs outperform MLPs in terms of accuracy and interpretability. For accuracy, much smaller KANs can achieve comparable or better accuracy than much larger MLPs in data fitting and PDE solving. Theoretically and empirically, KANs possess faster neural scaling laws than MLPs. For interpretability, KANs can be intuitively visualized and can easily interact with human users. Through two examples in mathematics and physics, KANs are shown to be useful collaborators helping scientists (re)discover mathematical and physical laws. In summary, KANs are promising alternatives for MLPs, opening opportunities for further improving today's deep learning models which rely heavily on MLPs.</em>
+</details>
+
+**4:15-5:00 pm ET**
+
+Details to come - Pulkit Agrawal, MIT/IAIFI
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+### Wednesday, August 14, 2024
+
+**9:30–10:15 am ET**
+
+Navigating Complex Models: Neural Networks for High-Dimensional Statistical Inference - Christoph Weniger, University of Amsterdam
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+**10:15–11:00 am ET**
+
+Data-Driven High-Dimensional Inverse Problems: A Journey Through Strong Lensing Data Analysis - Laurence Levasseur, University of Montreal
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+**11:00-11:30 am ET**
+
+Break
+
+**11:30 am–12:00 pm ET**
+
+Machine Learning and Physics: The Alliance of the Titans - Ayan Paul, Northeastern
+
+<details>
+<summary>Abstract</summary>
+<em>Leaps in our understanding of Physics have been concomitant with the adoption of new and increasingly powerful mathematical structures that shift our perspective of how we probe the dynamics of the universe and allow us to unravel complex concepts that were hitherto inaccessible to us. In the realm of data-driven science, where physics is firmly planted, machine learning is proving to be a long-awaited and much-needed mathematical structure that has showcased its worth in aiding landmark discoveries, understanding the underlying symmetries of theories that we propose, and connecting signals to kinematics interpretably, to mention a few. In this parable on the charm of machine learning in physics, we will discuss the nuances of some of these achievements and lay out what we can expect from the future.</em>
+</details>
+
+**12:15–1:30 pm ET**
+
+Lunch
+
+**1:30–3:00 pm ET**
+
+**Contributed Talks: Details to come**
+
+**3:00–3:30 pm ET**
+
+Break
+
+**3:30–4:15 pm ET**
+
+Details to come - Earl Bellinger, Yale University
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+**4:15-5:00 pm ET**
+
+Big data cosmology meets AI - Carol Cuesta-Lazaro, IAIFI Fellow
+
+<details>
+<summary>Abstract</summary>
+<em>The upcoming era of cosmological surveys promises an unprecedented wealth of observational data that will transform our understanding of the universe. Surveys such as DESI, Euclid, and the Vera C. Rubin Observatory will provide extremely detailed maps of billions of galaxies out to high redshifts. Analyzing these massive datasets poses exciting challenges that machine learning is uniquely poised to help overcome. In this talk, I will highlight recent examples from my work on probabilistic machine learning for cosmology. First, I will explain how a point cloud diffusion model can be used both as a generative model for 3D maps of galaxy clustering and as a likelihood model for such datasets. Moreover, I will present a generative model developed to reconstruct the initial conditions of the Universe from spectroscopic survey observations. When combined with the wealth of data from upcoming surveys, these machine learning techniques have the potential to provide new insights into fundamental questions about the nature of the universe.</em>
+</details>
+
+### Thursday, August 15, 2024
+
+**9:30–10:15 am ET**
+
+Uncertainty Quantification from Neural Network Correlation Functions - Yonatan Kahn, University of Illinois Urbana-Champaign
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+**10:15–11:00 am ET**
+
+Transformers to transform Scattering Amplitudes Calculation - Tianji Cai, SLAC
+
+<details>
+<summary>Abstract</summary>
+<em>AI for fundamental physics is now a burgeoning field, with numerous efforts pushing the boundaries of experimental and theoretical physics. In this talk, I will introduce a recent innovative application of Natural Language Processing to state-of-the-art calculations for scattering amplitudes. Specifically, we use Transformers to predict the symbols at high loop orders of the three-gluon form factors in planar N=4 Super Yang-Mills theory. Our results have demonstrated great promises of Transformers for amplitude calculations, opening the door for an exciting new scientific paradigm where discoveries and human insights are inspired and aided by AI.</em>
+</details>
+
+**11:00-11:30 am ET**
+
+Break
+
+**11:30 am–12:00 pm ET**
+
+Neural ansatze for physical systems - Nima Dehmamy, IBM Research MIT-IBM Lab 
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+**12:15–1:30 pm ET**
+
+Lunch
+
+**1:30–3:00 pm ET**
+
+**Contributed Talks: Details to come**
+
+**3:00–3:30 pm ET**
+
+Break
+
+**3:30–4:15 pm ET**
+
+Applications of Neural Networks to Mitigate Unique Challenges in Neutrino Experiments - Jessie Micallef, IAIFI Fellow
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+**4:15-5:00 pm ET**
+
+Equivariant Convolutional Networks & Group Steerable Kernels - Maurice Weiler, MIT
+
+<details>
+<summary>Abstract</summary>
+<em>Equivariance imposes symmetry constraints on the connectivity of neural networks. This talk investigates the case of equivariant networks for feature vector fields or point clouds, which generally requires 1) spatial (convolutional) weight sharing, and 2) G-steerability constraints on the shared weights themselves. It gives an intuition for steerable convolution kernels, discusses how they can be implemented directly via harmonic bases or implicitly via equivariant MLPs, and clarifies the relation to typical message passing operations in equivariant MPNNs. A gauge theoretic formulation of equivariant CNNs and MPNNs shows that these models are not only equivariant under global transformations, but under more general local gauge transformations as well.</em>
+</details>
+
+**5:00-5:30 pm ET**
+
+Break
+
+**5:30-7:30 pm ET**
+
+Workshop Dinner
+
+### Friday, August 16, 2024
+
+**9:30–10:15 am ET**
+
+Neural Networks and Conformal Field Theory - Jim Halverson, Northeastern/IAIFI
+
+<details>
+<summary>Abstract</summary>
+<em>I'll present an essential result in ML theory, explain how it motivates a new approach to field theory, and present some key findings. Next, I'll discuss new work, explaining a result of Dirac on the relationship between Lorentz invariance and conformal invariance, and how this can be applied in neural networks for constructing new conformal field theories.</em>
+</details>
+
+**10:15–11:00 am ET**
+
+Solving inverse problems with adaptive MCMC - Kaze Wong, Flatiron
+
+<details>
+<summary>Abstract</summary>
+<em>Solving inverse problems is one of the most common tasks in natural science, which involves estimating the probability distribution of some parameters of interest given some data. MCMC has been the main workhorse in solving inverse problems for decades now. However, the relative inefficiency of MCMC compared to other methods such as simulation-based inference makes them not suitable for many modern datasets. In this talk, I will talk about adaptive MCMC, which combines MCMC and neural networks to improve the efficiency of MCMC while maintaining their guarantee.</em>
+</details>
+
+**11:00-11:30 am ET**
+
+Break
+
+**11:30 am–12:00 pm ET**
+
+Details to come - David Kaiser, MIT
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+**12:15–1:30 pm ET**
+
+Lunch
+
+**1:30–2:15 pm ET**
+
+Details to come - Dirk Englund, MIT
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+**2:15–3:00 pm ET**
+
+Details to come - Auralee Edelen, SLAC
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
+
+**3:00–3:30 pm ET**
+
+Closing
 
 ## Speakers
 Speakers will be announced as they are confirmed. 
