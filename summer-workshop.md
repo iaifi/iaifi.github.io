@@ -54,7 +54,9 @@ Welcome
 
 **9:30–10:15 am ET**
 
-10,000 Einsteins: AI and the future of theoretical physics - Matt Schwartz, Harvard/IAIFI
+*10,000 Einsteins: AI and the future of theoretical physics*
+
+Matt Schwartz, Harvard/IAIFI
 
 <details>
 <summary>Abstract</summary>
@@ -63,7 +65,9 @@ Welcome
 
 **10:15–11:00 am ET**
 
-Dynamic Models from Data - Nathan Kutz, University of Washington
+*Dynamic Models from Data*
+
+Nathan Kutz, University of Washington
 
 <details>
 <summary>Abstract</summary>
@@ -76,7 +80,9 @@ Break
 
 **11:30 am–12:00 pm ET**
 
-Accurate, efficient, and reliable learning of deep neural operators for multiphysics and multiscale problems - Lu Lu, Yale University
+*Accurate, efficient, and reliable learning of deep neural operators for multiphysics and multiscale problems*
+
+Lu Lu, Yale University
 
 <details>
 <summary>Abstract</summary>
@@ -97,7 +103,9 @@ Break
 
 **3:30–4:15 pm ET**
 
-What Do Language Models Have To Say About Fundamental Physics? - Mariel Pettee, LBNL/Flatiron
+*What Do Language Models Have To Say About Fundamental Physics?* 
+
+Mariel Pettee, LBNL/Flatiron
 
 <details>
 <summary>Abstract</summary>
@@ -106,7 +114,9 @@ What Do Language Models Have To Say About Fundamental Physics? - Mariel Pettee, 
 
 **4:15-5:00 pm ET**
 
-Solving the nuclear many-body problem with neural quantum state - Alessandro Lovato, Argonne National Laboratory
+*Solving the nuclear many-body problem with neural quantum state*
+
+Alessandro Lovato, Argonne National Laboratory
 
 <details>
 <summary>Abstract</summary>
@@ -130,7 +140,9 @@ Welcome Reception
 
 **9:30–10:15 am ET**
 
-Trends in AI for particle accelerators - Verena Kain, CERN
+*Trends in AI for particle accelerators*
+
+Verena Kain, CERN
 
 <details>
 <summary>Abstract</summary>
@@ -139,7 +151,9 @@ Trends in AI for particle accelerators - Verena Kain, CERN
 
 **10:15–11:00 am ET**
 
-Machine Learning for LHC Theory or Something Like That - Tilman Plehn, Heidelberg
+*Machine Learning for LHC Theory or Something Like That*
+
+Tilman Plehn, Heidelberg
 
 <details>
 <summary>Abstract</summary>
@@ -152,7 +166,9 @@ Break
 
 **11:30 am–12:00 pm ET**
 
-Details to come - Rose Yu, UCSD
+*Details to come*
+
+Rose Yu, UCSD
 
 <details>
 <summary>Abstract</summary>
@@ -173,7 +189,9 @@ Break
 
 **3:30–4:15 pm ET**
 
-KAN: Kolmogorov-Arnold Networks - Ziming Liu, MIT/IAIFI
+*KAN: Kolmogorov-Arnold Networks*
+
+Ziming Liu, MIT/IAIFI
 
 <details>
 <summary>Abstract</summary>
@@ -182,7 +200,9 @@ KAN: Kolmogorov-Arnold Networks - Ziming Liu, MIT/IAIFI
 
 **4:15-5:00 pm ET**
 
-Details to come - Pulkit Agrawal, MIT/IAIFI
+*Details to come*
+
+Pulkit Agrawal, MIT/IAIFI
 
 <details>
 <summary>Abstract</summary>
@@ -193,7 +213,9 @@ Details to come - Pulkit Agrawal, MIT/IAIFI
 
 **9:30–10:15 am ET**
 
-Navigating Complex Models: Neural Networks for High-Dimensional Statistical Inference - Christoph Weniger, University of Amsterdam
+*Navigating Complex Models: Neural Networks for High-Dimensional Statistical Inference*
+
+Christoph Weniger, University of Amsterdam
 
 <details>
 <summary>Abstract</summary>
@@ -202,7 +224,9 @@ Navigating Complex Models: Neural Networks for High-Dimensional Statistical Infe
 
 **10:15–11:00 am ET**
 
-Data-Driven High-Dimensional Inverse Problems: A Journey Through Strong Lensing Data Analysis - Laurence Levasseur, University of Montreal
+*Data-Driven High-Dimensional Inverse Problems: A Journey Through Strong Lensing Data Analysis*
+
+Laurence Levasseur, University of Montreal
 
 <details>
 <summary>Abstract</summary>
@@ -215,7 +239,9 @@ Break
 
 **11:30 am–12:00 pm ET**
 
-Machine Learning and Physics: The Alliance of the Titans - Ayan Paul, Northeastern
+*Machine Learning and Physics: The Alliance of the Titans*
+
+Ayan Paul, Northeastern
 
 <details>
 <summary>Abstract</summary>
@@ -236,7 +262,9 @@ Break
 
 **3:30–4:15 pm ET**
 
-Details to come - Earl Bellinger, Yale University
+*Details to come*
+
+Earl Bellinger, Yale University
 
 <details>
 <summary>Abstract</summary>
@@ -245,7 +273,9 @@ Details to come - Earl Bellinger, Yale University
 
 **4:15-5:00 pm ET**
 
-Big data cosmology meets AI - Carol Cuesta-Lazaro, IAIFI Fellow
+*Big data cosmology meets AI*
+
+Carol Cuesta-Lazaro, IAIFI Fellow
 
 <details>
 <summary>Abstract</summary>
@@ -256,7 +286,9 @@ Big data cosmology meets AI - Carol Cuesta-Lazaro, IAIFI Fellow
 
 **9:30–10:15 am ET**
 
-Uncertainty Quantification from Neural Network Correlation Functions - Yonatan Kahn, University of Illinois Urbana-Champaign
+*Uncertainty Quantification from Neural Network Correlation Functions*
+
+Yonatan Kahn, University of Illinois Urbana-Champaign
 
 <details>
 <summary>Abstract</summary>
@@ -265,7 +297,9 @@ Uncertainty Quantification from Neural Network Correlation Functions - Yonatan K
 
 **10:15–11:00 am ET**
 
-Transformers to transform Scattering Amplitudes Calculation - Tianji Cai, SLAC
+*Transformers to transform Scattering Amplitudes Calculation*
+
+Tianji Cai, SLAC
 
 <details>
 <summary>Abstract</summary>
@@ -278,7 +312,9 @@ Break
 
 **11:30 am–12:00 pm ET**
 
-Neural ansatze for physical systems - Nima Dehmamy, IBM Research MIT-IBM Lab 
+*Neural ansatze for physical systems*
+
+Nima Dehmamy, IBM Research MIT-IBM Lab 
 
 <details>
 <summary>Abstract</summary>
@@ -299,7 +335,9 @@ Break
 
 **3:30–4:15 pm ET**
 
-Applications of Neural Networks to Mitigate Unique Challenges in Neutrino Experiments - Jessie Micallef, IAIFI Fellow
+*Applications of Neural Networks to Mitigate Unique Challenges in Neutrino Experiments*
+
+Jessie Micallef, IAIFI Fellow
 
 <details>
 <summary>Abstract</summary>
@@ -308,7 +346,9 @@ Applications of Neural Networks to Mitigate Unique Challenges in Neutrino Experi
 
 **4:15-5:00 pm ET**
 
-Equivariant Convolutional Networks & Group Steerable Kernels - Maurice Weiler, MIT
+*Equivariant Convolutional Networks & Group Steerable Kernels*
+
+Maurice Weiler, MIT
 
 <details>
 <summary>Abstract</summary>
@@ -327,7 +367,9 @@ Workshop Dinner
 
 **9:30–10:15 am ET**
 
-Neural Networks and Conformal Field Theory - Jim Halverson, Northeastern/IAIFI
+*Neural Networks and Conformal Field Theory*
+
+Jim Halverson, Northeastern/IAIFI
 
 <details>
 <summary>Abstract</summary>
@@ -336,7 +378,9 @@ Neural Networks and Conformal Field Theory - Jim Halverson, Northeastern/IAIFI
 
 **10:15–11:00 am ET**
 
-Solving inverse problems with adaptive MCMC - Kaze Wong, Flatiron
+*Solving inverse problems with adaptive MCMC*
+
+Kaze Wong, Flatiron
 
 <details>
 <summary>Abstract</summary>
@@ -349,7 +393,9 @@ Break
 
 **11:30 am–12:00 pm ET**
 
-Details to come - David Kaiser, MIT
+*Details to come*
+
+David Kaiser, MIT
 
 <details>
 <summary>Abstract</summary>
@@ -362,7 +408,9 @@ Lunch
 
 **1:30–2:15 pm ET**
 
-Details to come - Dirk Englund, MIT
+*Details to come*
+
+Dirk Englund, MIT
 
 <details>
 <summary>Abstract</summary>
@@ -371,7 +419,9 @@ Details to come - Dirk Englund, MIT
 
 **2:15–3:00 pm ET**
 
-Details to come - Auralee Edelen, SLAC
+*Details to come*
+
+Auralee Edelen, SLAC
 
 <details>
 <summary>Abstract</summary>
