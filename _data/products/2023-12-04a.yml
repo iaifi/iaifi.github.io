@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "What does cosmology teach us about non-gravitational properties of dark matter?"
+authors: "Tracy R. Slatyer"
+abstract: "Cosmological observations provide our most robust evidence for dark matter that is (approximately) collisionless and cold, and furthermore can provide powerful tests of the non-gravitational properties of dark matter. There are exciting prospects for significant experimental/observational progress in the coming years. In particular, current experiments are targeting a first confirmed detection of primordial 21 cm radiation and a measurement of its power spectrum, which would open a new observational window on the end of the cosmic dark ages and cosmic dawn. On a longer timescale, there are proposed missions that could improve our measurements of the energy spectrum of the cosmic microwave background radiation by 3+ orders of magnitude, providing a new physical probe of the thermal history of the universe up to keV temperatures. In this contribution, I will discuss how signals from dark matter interactions with Standard Model particles, in particular through annihilation and decay of particle-like dark matter, could appear in these observables, and recent improvements in their theoretical modeling. There are existing stringent and broadly applicable limits on annihilating and decaying dark matter (especially at sub-GeV mass scales) from the cosmic microwave background, and complementary and competitive bounds from the Lyman-α forest for leptonically decaying light dark matter. I will outline how energy injections that are not currently excluded could change the conditions of the early universe, impact the formation of the first stars and black hole seeds, and imprint signals in the cosmological background radiation."
+arxiv:
+journal: Nuclear Physics B, 2024, Volume 1003
+doi: "https://doi.org/10.1016/j.nuclphysb.2024.116468"
+nsf-par:
+code: 
+publication-date: 2024-05-06
