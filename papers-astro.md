@@ -1,14 +1,11 @@
 ---
 layout: article
-title: IAIFI Theoretical Physics Papers
+title: IAIFI Astrophysics Papers
 aside:
   toc: true
 ---
 
-View high energy physics IAIFI papers [on INSPIRE](https://inspirehep.net/institutions/1862936?ui-citation-summary=true)
-{:.info}
-
-## Theoretical Physics
+## Astrophysics
 
 ### Pre-prints
 
