@@ -95,7 +95,76 @@ Lunch
 
 **1:30–3:00 pm ET**
 
-**Contributed Talks: Details to come**
+**Contributed Talks - Session A**
+
+**Representation/Manifold Learning**
+<details>
+<summary> A Neural Net Model for Distillation with Weights Explained, Berfin Simsek (NYU/Flatiron Institute)</summary>
+<em>It is important to understand how large models represent knowledge to make them efficient and safe. We study a toy model of neural nets that exhibits non-linear dynamics and phase transition. Although the model is complex, it allows finding a family of the so-called "copy-average" critical points of the loss. The gradient flow initialized with random weights consistently converges to one such critical point for networks up to a certain width, which we proved to be optimal among all copy-average points. Moreover, we can explain every neuron of a trained neural network of any width. As the width grows, the network changes the compression strategy and exhibits a phase transition. We close by listing open questions calling for further mathematical analysis and extensions of the model considered here.</em>
+</details>
+
+<details>
+<summary>Interpretable representation learning from Chandra X-ray data, Shivam Raval (Harvard University)</summary>
+<em>We build novel, high-quality data representation vectors (also called embeddings) for X-ray spectral data obtained from the Chandra X-ray observatory, as a means to extract meaningful patterns. We show that these embeddings are interpretable and can be further processed for downstream machine-learning tasks. The data representations are generated using specialized state-of-the-art transformer architectures and state-space models that incorporate the symmetries and correlations in spectra data through a self-supervised or mask-modeling training scheme. The learned representations are powerful and be utilized for classification and regression tasks to predict various properties of the recorded observation such as the spectral parameters of the physical models that are more likely to describe the observations. This is a step towards generating representations of X-ray data that can be used for the classification of serendipitous X-ray sources, most of which remain unclassified, identification of spectral anomalies in high energy datasets, and also as the raw material for future foundation models in astrophysics. This is one of the earliest attempts to construct transformer-based representations in X-ray datasets, and a stepping stone to create learned representations in an energy regime poorly explored so far with machine learning algorithms.</em>
+</details>
+
+**ML4Physics / AI4Science / Equivariant ML**
+<details>
+<summary> Approximately-symmetric neural networks for quantum spin liquids, Dominik Kufel (Harvard University)</summary>
+<em>We propose and analyze a family of approximately-symmetric neural networks for quantum spin liquid problems. These tailored architectures are parameter-efficient, scalable, and significantly out-perform existing symmetry-unaware neural network architectures. Utilizing the mixed-field toric code model, we demonstrate that our approach is competitive with the state-of-the-art tensor network and quantum Monte Carlo methods. Moreover, at the largest system sizes (N=480), our method allows us to explore Hamiltonians with sign problems beyond the reach of both quantum Monte Carlo and finite-size matrix-product states. The network comprises an exactly symmetric block following a non-symmetric block, which we argue learns a transformation of the ground state analogous to quasiadiabatic continuation. Our work paves the way toward investigating quantum spin liquid problems within interpretable neural network architectures.</em>
+</details>
+
+**Theory of geometric deep learning**
+<details>
+<summary>Symmetries and neural tangent kernels: using physical principles to understand deep learning, Jan Gerken (Chalmers University of Technology)</summary>
+<em>Despite its extraordinary success in applications, a thorough theoretical understanding of deep learning is still lacking, making progress depend largely on costly trial-and-error procedures. At the same time, theoretical physics has a long history of developing deep mathematical understanding of complex systems. In this talk, I will present some recent work on how techniques from theoretical physics can be used to deepen our understanding of deep learning and lead to practically relevant insights. In particular, symmetries, which are an established cornerstone of theoretical physics, have reached widespread popularity as a guiding principle in deep learning as well. In machine learning, symmetries feature most importantly in the form of data augmentation and equivariant neural networks. At the same time, neural tangent kernels, which are closely related to statistical field theory, have emerged as a powerful tool to understand neural networks both at initialization and during training. Combining these paradigms leads to practically relevant statements in deep learning. Furthermore, it opens the door towards further deepening the connecting between theoretical physics and our understanding of neural networks.</em>
+</details>
+
+**Physics-Motivated Optimization**
+<details>
+<summary>Beyond Closure Models: Estimating Long-term Statistics of Chaotic-Systems via Physics-Informed Neural Operators, Chuwei Wang (Caltech)</summary>
+<em>Accurately predicting the long-term behavior of chaotic systems is important in many applications. This requires iterative computations on a dense spatiotemporal grid to account for the unstable nature of chaotic systems, which is expensive and impractical in many real-world scenarios. The alternative approach to such a full-resolved simulation is using a coarse grid and then correcting its errors through a 'closure model', which approximates the overall information from fine scales not captured in the coarse-grid simulation. Recently, ML approaches have been used for closure modeling, but they typically require a large number of training samples from expensive fully-resolved simulations (FRS). In this work, through the lens of Liouville flow in function spaces, we prove an even more fundamental limitation, viz., the standard approach to learning closure models suffers from a large approximation error for generic problems, no matter how large the model is, and it stems from the non-uniqueness of the mapping. We propose an alternative end-to-end learning approach using a physics-informed neural operator (PINO) that overcomes this limitation by not using a closure model or a coarse-grid solver.   We first train the PINO model on data from a coarse-grid solver and then fine-tune it with (a small amount of) FRS and physics-based losses on a fine grid. The discretization-free nature of neural operators means that they do not suffer from the restriction of a coarse grid that closure models face, and they can provably approximate the long-term statistics of chaotic systems. In our experiments on fluid dynamics, our PINO model achieves a 120x speedup compared to FRS with a relative error ~5%. In contrast, the closure model coupled with a coarse-grid solver is 58x slower than PINO while having a much higher error 205% when the closure model is trained on the same FRS dataset.</em>
+</details>
+
+<details>
+<summary>Determining Heterogeneous Elastic Properties of Soft Materials using Physics-Informed Neural Networks, Wensi Wu (Children's Hospital of Philadelphia)</summary>
+<em>The heterogeneous mechanical properties found in biological materials have profound implications for both engineering and medical applications. Within the engineering community, these properties are frequently studied to guide the design of mechanical devices such as artificial organs and soft robots. Concurrently, in the medical field, the mechanical properties of tissues play a crucial role in providing diagnostic information about various diseases and conditions. The significance of material mechanical properties across these diverse domains has driven a need to better understand the underlying mechanisms governing the microscopic properties of biological tissues and their associated functions, whether for improving material designs or disease diagnosis. In traditional engineering, identifying unknown material parameters requires iterative inverse finite element analyses and optimization of the constitutive parameters until the finite element model achieves an acceptable level of mechanical response, aligning with experimental data. While this method is efficient with homogeneous materials, optimizing the elasticity map of heterogeneous materials is challenging. In this work, we propose using physics-informed neural networks (PINNs) to identify the full-field elastic properties of highly nonlinear, hyperelastic materials. We applied our improved PINNs to six structurally complex materials and three constitutive material models (Neo-Hookean, Mooney-Rivlin, and Gent) to evaluate the accuracy of full-field elasticity maps estimated by PINNs. Our PINN model consistently produced highly accurate estimates of the full-field elastic properties, even when there was up to 10% noise present in the training data.</em>
+</details>
+
+**Contributed Talks - Session B**
+
+**Generative Models**
+<details>
+<summary>Machine learning phase transitions: A probabilistic perspective, Julian Arnold (University of Basel)</summary>
+<em>The identification of phase transitions and the classification of different phases of matter from data are among the most popular applications of machine learning in physics. Neural network (NN)-based approaches have proven to be particularly powerful due to the ability of NNs to learn arbitrary functions. Many such approaches work by computing indicators of phase transitions from the output of NNs trained to solve specific classification problems. In this talk, I will derive the optimal solutions to these classification problems given by Bayes classifiers that take into account the probability distributions underlying the physical system under consideration [1]. This probabilistic viewpoint allows us to gain a deeper understanding of previous NN-based studies, highlighting the strengths and weaknesses of individual methods [1], enables us to root the methods in information theory [2], yields more efficient numerical routines based on the incorporation of readily available generative models [3], and widens the application domain of these methods to systems outside physics (such as diffusion models or transformers) [4,5]. 
+[1] J. Arnold and F. Schäfer, PRX 12, 031044 (2022) [2] J. Arnold et al., arXiv:2311.10710 (2023) [3] J. Arnold et al., PRL 132, 207301 (2024) [4] J. Arnold et al., arXiv:2311.09128 (2023) [5] J. Arnold et al., arXiv:2405.17088 (2024)</em>
+</details>
+
+<details>
+<summary>Understanding Diffusion Models by Feynman's Path Integral, Yuji Hirono (Osaka University)</summary>
+<em>Score-based diffusion models have proven effective in image generation and have gained widespread usage. We introduce a novel formulation of diffusion models using Feynman's path integral [1]. We find this formulation providing comprehensive descriptions of score-based generative models, and demonstrate the derivation of backward stochastic differential equations and loss functions.The formulation accommodates an interpolating parameter connecting stochastic and deterministic sampling schemes, and we identify this parameter as a counterpart of Planck's constant in quantum physics. This analogy enables us to apply the Wentzel-Kramers-Brillouin (WKB) expansion, a well-established technique in quantum physics, for evaluating the negative log-likelihood to assess the performance disparity between stochastic and deterministic sampling schemes.
+Reference: [1] Yuji Hirono, Akinori Tanaka, Kenji Fukushima, accepted in ICML2024 [arXiv:2403.11262].</em>
+</details>
+
+<details>
+<summary>Accelerating Molecular Discovery with Machine Learning, Yuanqi Du (Cornell University)</summary>
+<em>Recent advancements in machine learning have paved the way for groundbreaking opportunities in the realm of molecular discovery. At the forefront of this evolution are improved computational tools with proper inductive biases and efficient optimization. In this talk, I will delve into our efforts around these themes from a geometry, sampling and optimization perspective. I will first introduce how to encode symmetries in the design of neural networks and the balance of expressiveness and computational efficiency. Next, I will discuss how generative models enable a wide range of design and optimization tasks in molecular discovery. In the third part, I will talk about how the advancements in stochastic optimal control, sampling and optimal transport can be applied to find transition states in chemical reactions.</em>
+</details>
+
+<details>
+<summary>Predicting Missing Regions in Charged Particle Tracks Using a Sparse 3D Convolutional Neural Network, Hilary Utaegbulam (University of Rochester)</summary>
+<em>The 2x2 Demonstrator is a prototype detector for the Deep Underground Neutrino Experiment (DUNE)'s Near Detector. Both the 2x2 Demonstrator and the Near Detector itself will have inactive regions wherein there is reduced or no sensitivity to charge deposition and light signals that arise from charged particle interactions with liquid argon. In the 2x2, these inactive regions are positioned in-between the active detector modules, which introduces the challenge of inferring what charge signals ought to look like in these regions. This study explores the use of a Sparse 3D Convolutional Neural Network (ConvNet) to infer missing regions in charged particle tracks. Hits corresponding to energy depositions are voxelized into a three-dimensional (3D) grid for each track. Inactive regions within the tracks are replaced with a dense, rectangular 3D grid of voxels, ensuring consistent step sizes in X, Y, and Z directions. Voxels in these dense regions are initialized with an energy value of -1, indicating nonphysical energy or charge. The model is trained to predict which voxels should activate as part of the track and which should not, with the goal of eventually inferring the missing charge or energy values in these voxels. Results indicate that the model accurately predicts track voxels within ±3 unit in X, Y, or Z directions and effectively identifies non-track voxels, despite some overprediction. The approach shows promise in prediction of missing track regions with some accuracy.</em>
+</details>
+
+<details>
+<summary>GANSky: fast full sky weak lensing simulations using physics-informed GANs, Supranta Sarma Boruah (University of Pennsylvania)</summary>
+<em>Producing accurate weak lensing simulations for future cosmological surveys will be a severe computational bottleneck. We present a method that uses generative adversarial networks (GANs) to produce accurate weak lensing simulations from fast lognormal simulations. This enables us to produce full-sky weak lensing simulations in seconds. Our method: 1. Is physics-informed and explainable, where large-scales are described by an analytic lognormal model and the GAN only learns local redistribution of matter in these approximate maps. 2. Works on full-sky, as required for future wide-field surveys, 3. Requires fewer simulations to train, 4. Accurately reproduces non-Gaussianities of the weak lensing convergence field. This breakthrough enables fast simulation-based or field-based inference with weak lensing data.</em>
+</details>
+
+<details>
+<summary>A fast diffusion density estimator, Akhil Premkumar (University of Chicago)</summary>
+<em>Diffusion models can be used as neural density estimators. The present approach to doing this involves casting the diffusion model as a normalizing flow, and solving the flow to compute the likelihood. This is slow calculation, and prone to noise. We present a highly parallelizable approach which computes the likelihoods at a fraction of the time. Our method also opens the possibility of using diffusion models as fast classifiers.</em>
+</details>
 
 **3:00–3:30 pm ET**
 
@@ -751,12 +820,6 @@ We have secured discounted rates at the following hotels:
     $224 nightly rate (1-2 people per room) 
 
     [Book now](https://book.passkey.com/go/MITAugust2024)
-
-* <b>Hampton Inn by Hilton Boston/Cambridge</b>, 191 Msgr O'Brien Hwy, Cambridge, MA 02141. 
-    
-    $279 nightly rate (up to 4 people per room) 
-
-    [Book now](https://www.hilton.com/en/attend-my-event/iaifisummermitprogram/)
 
 Workshop attendees are also welcome to book dorms for a discounted rate at Boston University: 
 * <b>10 Buick Street, Boston</b>
