@@ -280,6 +280,10 @@ Lunch
 <em>Details to come</em>
 </details>
 
+**Contributed Talks - Session B**
+
+Details to come
+
 **3:00–3:30 pm ET**
 
 Break
