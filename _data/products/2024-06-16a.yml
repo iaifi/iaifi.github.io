@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Constructing gauge-invariant neural networks for scientific applications"
+authors: Emmanouil Theodosis
+abstract: "Our current models for fundamental forces in nature are “gauge theories”. These models are suitable for systems where interactions are local and where the local choice of coordinates does not affect physical quantities. While recent works have introduced gauge equivariant neural networks, these models focus on tangent bundles or quotient space and are not applicable to most gauge theories appearing in physics. We propose an architecture for learning general gauge invariant quantities. Our framework fills a gap in the existing literature, providing a general recipe for gauge invariance without restrictions on the spaces of the measurement vectors. We evaluate our method on a classical physical system, the XY model, that is invariant to the choice of local gauges. "
+arxiv:
+journal: Open Review, Submission Number 184
+doi: https://openreview.net/forum?id=NBoq37km2Q
+nsf-par:
+code: https://github.com/manosth/gauge-net/
+publication-date: 2024-06-16

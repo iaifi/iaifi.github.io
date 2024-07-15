@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: F
+title: "Learning Linear Groups in Neural Networks"
+authors: Emmanouil Theodosis, Karim Helwani, Demba Ba
+abstract: 'Employing equivariance in neural networks leads to greater parameter efficiency and improved generalization performance through the encoding of domain knowledge in the architecture; however, the majority of existing approaches require an a priori specification of the desired symmetries. We present a neural network architecture, Linear Group Networks (LGNs), for learning linear groups acting on the weight space of neural networks. Linear groups are desirable due to their inherent interpretability, as they can be represented as finite matrices. LGNs learn groups without any supervision or knowledge of the hidden symmetries in the data and the groups can be mapped to well known operations in machine learning. We use LGNs to learn groups on multiple datasets while considering different downstream tasks; we demonstrate that the linear group structure depends on both the data distribution and the considered task.'
+arxiv: "2305.18552"
+journal:
+doi:
+nsf-par:
+code: 
+publication-date: 
