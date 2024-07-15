@@ -247,7 +247,38 @@ Lunch
 
 **1:30–3:00 pm ET**
 
-**Contributed Talks: Details to come**
+**Contributed Talks - Session A**
+
+**Foundational ML**
+<details>
+<summary>Input Space Mode Connectivity in Deep Neural Networks, Jakub Vrabel (CEITEC, Brno University of Technology)</summary>
+<em>We extend the concept of loss landscape mode connectivity to the input space of deep neural networks. Mode connectivity was originally studied within parameter space, where it describes the existence of low-loss paths between different solutions (loss minimizers) obtained through gradient descent. We present theoretical and empirical evidence of its presence in the input space of deep networks, thereby highlighting the broader nature of the phenomenon. We observe that different input images with similar predictions are generally connected, and for trained models, the path tends to be simple, with only a small deviation from being a linear path. Our methodology utilizes real, interpolated, and synthetic inputs created using the input optimization technique for feature visualization. To prove the existence of general mode connectivity in high-dimensional input spaces, we employ percolation theory. We argue that the approximate linear mode connectivity post-training is a manifestation of some implicit bias. We exploit mode connectivity to obtain new insights about adversarial examples and demonstrate its potential for adversarial detection. Additionally, we discuss applications for the interpretability of deep networks.</em>
+</details>
+
+<details>
+<summary>Neural scaling laws from large-N field theory, Zhengkang Zhang (University of Utah)</summary>
+<em>Many machine learning models based on neural networks exhibit scaling laws: their performance scales as power laws with respect to the sizes of the model and training data set. We use large-N field theory methods to solve a model recently proposed by Maloney, Roberts and Sully which provides a simplified setting to study neural scaling laws. Our solution extends the result in this latter paper to general nonzero values of the ridge parameter, which are essential to regularize the behavior of the model. In addition to obtaining new and more precise scaling laws, we also uncover a duality transformation at the diagrams level which explains the symmetry between model and training data set sizes. The same duality underlies recent efforts to design neural networks to simulate quantum field theories.</em>
+</details>
+
+<details>
+<summary>RG flow of the NTK dynamics at finite-width from Feynman diagrams, Max Guillen (Chalmers University of Technology)</summary>
+<em>Deep Learning is nowadays a well-stablished method for different applications in science and technology. However, it has been unclear for a long time how the "learning process" actually occurs in different architectures, and how this knowledge could be used to optimize performance and efficiency. Recently, high-energy-physics-based ideas have been applied to the modelling of Deep Learning, thus translating the learning problem to an RG flow analysis in Quantum Field Theory (QFT). In this talk, I will explain how these quite complicated formulae describing such RG flows for different observables in neural networks at initialization, can be easily obtained from a few rules resembling Feynman rules in QFT. I will also comment on some work in progress which implements such rules for computing higher-order corrections to the frozen (infinite-width) NTK for particular activation functions, and how they evolve after a few steps of SGD.</em>
+</details>
+
+<details>
+<summary>Diversity with Similarity as a Measure of Dataset Quality, Josiah Couch (Beth Israel Deaconess Medical Center)</summary>
+<em>Dataset size and class balance are important measures in deep learning. Maximizing them is seen as a way to ensure that datasets contain diverse images, which models are thought to need in order to generalize well. Yet neither size nor class balance measure image diversity directly, raising the possibility that better measures of dataset quality might exist. To test this hypothesis, we turned to a comprehensive framework of diversity measures that generalizes familiar quantities like Shannon entropy by accounting for the similarities and differences among images. (Size and class balance emerge from this framework as special cases.) We created several thousand diverse datasets by subsampling a variety of large medical-image datasets representing a range of imaging modalities, trained classifiers on these subsets, and calculated the correlation between subset diversity and model accuracy using diversity measures from the framework.</em>
+</details>
+
+<details>
+<summary>Fourier-enhanced deep operator network for geophysics with improved accuracy, efficiency, and generalizability, Min Zhu (Yale University)</summary>
+<em>Full waveform inversion (FWI) and geologic carbon sequestration (GCS) are two significant topics in geophysics. FWI infers subsurface structure information from seismic waveform data by solving a non-convex optimization problem. On the other hand, solving multiphase flow in porous media is essential for CO2 migration and pressure fields in the subsurface associated with GCS. However, numerical simulations for both FWI and GCS are computationally challenging and expensive due to the highly nonlinear governing partial differential equations (PDEs). Here, we develop a Fourier-enhanced deep operator network (Fourier-DeepONet) to address this issue. For FWI, compared with existing data-driven FWI methods, Fourier-DeepONet achieves more accurate predictions of subsurface structures across a wide range of source parameters. Additionally, Fourier-DeepONet demonstrates superior robustness when handling data with Gaussian noise or missing traces. For GCS, compared to the state-of-the-art Fourier neural operator (FNO), Fourier-DeepONet offers superior computational efficiency, with 90% fewer unknown parameters, significantly reduced training time (approximately 3.5 times faster), and much lower GPU memory requirements (less than 35%). Furthermore, Fourier-DeepONet maintains good accuracy when predicting out-of-distribution (OOD) data. This excellent generalizability is enabled by its adherence to the physical principle that the solution to a PDE is continuous over time.</em>
+</details>
+
+<details>
+<summary>Details to come, Anindita Maiti (Perimeter Institute)</summary>
+<em>Details to come</em>
+</details>
 
 **3:00–3:30 pm ET**
 
