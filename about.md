@@ -162,6 +162,8 @@ nexus point for collaborative efforts aimed at advancing both physics and AI.
 
   * ![NSF IAIFI](images/iaifi-fullname-logo-black.png){:.image--sm}  **IAIFI Logo with Name**:  [Black PDF](images/iaifi-fullname-logo-black.pdf)
   
+  * ![IAIFI](images/nsf-iaifi-black-fulltext.png){:.image--sm}  **IAIFI Logo with NSF with Name**:  [JPEG](images/nsf-iaifi-black-fulltext.png)
+  
   * ![IAIFI](images/iaifi-pressimage-horizontalcrop.jpg){:.image--sm} **IAIFI Horizontal Fusion**: [JPEG](images/iaifi-pressimage-horizontalcrop.jpg)
   
   * ![IAIFI](images/iaifi-pressimage.jpg){:.image--sm} **IAIFI Full Size Fusion**:  [JPEG](images/iaifi-pressimage.jpg)
