@@ -95,9 +95,8 @@ Lunch
 
 **1:30–3:00 pm ET**
 
-**Contributed Talks - Session A**
+**Contributed Talks Session A - Representation/Manifold Learning**
 
-**Representation/Manifold Learning**
 <details>
 <summary>Symmetries and neural tangent kernels: using physical principles to understand deep learning, Jan Gerken (Chalmers University of Technology)</summary>
 <em>Despite its extraordinary success in applications, a thorough theoretical understanding of deep learning is still lacking, making progress depend largely on costly trial-and-error procedures. At the same time, theoretical physics has a long history of developing deep mathematical understanding of complex systems. In this talk, I will present some recent work on how techniques from theoretical physics can be used to deepen our understanding of deep learning and lead to practically relevant insights. In particular, symmetries, which are an established cornerstone of theoretical physics, have reached widespread popularity as a guiding principle in deep learning as well. In machine learning, symmetries feature most importantly in the form of data augmentation and equivariant neural networks. At the same time, neural tangent kernels, which are closely related to statistical field theory, have emerged as a powerful tool to understand neural networks both at initialization and during training. Combining these paradigms leads to practically relevant statements in deep learning. Furthermore, it opens the door towards further deepening the connecting between theoretical physics and our understanding of neural networks.</em>
@@ -118,6 +117,7 @@ Lunch
 <em>It is important to understand how large models represent knowledge to make them efficient and safe. We study a toy model of neural nets that exhibits non-linear dynamics and phase transition. Although the model is complex, it allows finding a family of the so-called "copy-average" critical points of the loss. The gradient flow initialized with random weights consistently converges to one such critical point for networks up to a certain width, which we proved to be optimal among all copy-average points. Moreover, we can explain every neuron of a trained neural network of any width. As the width grows, the network changes the compression strategy and exhibits a phase transition. We close by listing open questions calling for further mathematical analysis and extensions of the model considered here.</em>
 </details>
 
+**Physics-Motivated Optimization**
 <details>
 <summary>Beyond Closure Models: Estimating Long-term Statistics of Chaotic-Systems via Physics-Informed Neural Operators, Chuwei Wang (Caltech)</summary>
 <em>Accurately predicting the long-term behavior of chaotic systems is important in many applications. This requires iterative computations on a dense spatiotemporal grid to account for the unstable nature of chaotic systems, which is expensive and impractical in many real-world scenarios. The alternative approach to such a full-resolved simulation is using a coarse grid and then correcting its errors through a 'closure model', which approximates the overall information from fine scales not captured in the coarse-grid simulation. Recently, ML approaches have been used for closure modeling, but they typically require a large number of training samples from expensive fully-resolved simulations (FRS). In this work, through the lens of Liouville flow in function spaces, we prove an even more fundamental limitation, viz., the standard approach to learning closure models suffers from a large approximation error for generic problems, no matter how large the model is, and it stems from the non-uniqueness of the mapping. We propose an alternative end-to-end learning approach using a physics-informed neural operator (PINO) that overcomes this limitation by not using a closure model or a coarse-grid solver.   We first train the PINO model on data from a coarse-grid solver and then fine-tune it with (a small amount of) FRS and physics-based losses on a fine grid. The discretization-free nature of neural operators means that they do not suffer from the restriction of a coarse grid that closure models face, and they can provably approximate the long-term statistics of chaotic systems. In our experiments on fluid dynamics, our PINO model achieves a 120x speedup compared to FRS with a relative error ~5%. In contrast, the closure model coupled with a coarse-grid solver is 58x slower than PINO while having a much higher error 205% when the closure model is trained on the same FRS dataset.</em>
@@ -128,9 +128,7 @@ Lunch
 <em>The heterogeneous mechanical properties found in biological materials have profound implications for both engineering and medical applications. Within the engineering community, these properties are frequently studied to guide the design of mechanical devices such as artificial organs and soft robots. Concurrently, in the medical field, the mechanical properties of tissues play a crucial role in providing diagnostic information about various diseases and conditions. The significance of material mechanical properties across these diverse domains has driven a need to better understand the underlying mechanisms governing the microscopic properties of biological tissues and their associated functions, whether for improving material designs or disease diagnosis. In traditional engineering, identifying unknown material parameters requires iterative inverse finite element analyses and optimization of the constitutive parameters until the finite element model achieves an acceptable level of mechanical response, aligning with experimental data. While this method is efficient with homogeneous materials, optimizing the elasticity map of heterogeneous materials is challenging. In this work, we propose using physics-informed neural networks (PINNs) to identify the full-field elastic properties of highly nonlinear, hyperelastic materials. We applied our improved PINNs to six structurally complex materials and three constitutive material models (Neo-Hookean, Mooney-Rivlin, and Gent) to evaluate the accuracy of full-field elasticity maps estimated by PINNs. Our PINN model consistently produced highly accurate estimates of the full-field elastic properties, even when there was up to 10% noise present in the training data.</em>
 </details>
 
-**Contributed Talks - Session B**
-
-**Generative Models**
+**Contributed Talks Session B - Generative Models**
 <details>
 <summary>Machine learning phase transitions: A probabilistic perspective, Julian Arnold (University of Basel)</summary>
 <em>The identification of phase transitions and the classification of different phases of matter from data are among the most popular applications of machine learning in physics. Neural network (NN)-based approaches have proven to be particularly powerful due to the ability of NNs to learn arbitrary functions. Many such approaches work by computing indicators of phase transitions from the output of NNs trained to solve specific classification problems. In this talk, I will derive the optimal solutions to these classification problems given by Bayes classifiers that take into account the probability distributions underlying the physical system under consideration [1]. This probabilistic viewpoint allows us to gain a deeper understanding of previous NN-based studies, highlighting the strengths and weaknesses of individual methods [1], enables us to root the methods in information theory [2], yields more efficient numerical routines based on the incorporation of readily available generative models [3], and widens the application domain of these methods to systems outside physics (such as diffusion models or transformers) [4,5]. 
@@ -195,7 +193,40 @@ Poster Session
 
 <details>
 <summary>Details</summary>
-<em>Details to come.</em>
+<em>Data Compression and Inference in Cosmology with Self-Supervised Machine Learning, Aizhan Akhmetzhanova (Harvard University)</em> <br>
+<em>CNN and Transformer architecture for jets events classification, Juvenal Bassa (University of Puerto Rico - Mayaguez)</em> <br>
+<em>Data-Driven Discovery of X-ray Transients with Machine Learning, Steven Dillmann (University of Cambridge)</em> <br>
+<em>Sampling Transition Dynamics with Machine Learning Approaches, Yuanqi Du (Cornell University)</em> <br>
+<em>Multi-Modal Generalized Class Discovery for Scalable Autonomous All-Sky Surveys, Sriram Elango (Harvard University)</em> <br>
+<em>Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs, Robert Joseph George (Caltech)</em> <br>
+<em>Optimizing Self-Assembly Yields of Chain-like Structures: A Computational Approach using Implicit Differentiation, Livia Guttieres (Harvard University)</em> <br>
+<em>Inverse Design of Complex Fluids with Fully-Differentiable Lagrangian Particle Dynamics, Kaylie Hausknecht (Harvard University and MIT)</em> <br>
+<em>Perfect Jet Classification Through Equivariant Regression, Timothy Hoffman (University of Chicago)</em> <br>
+<em>Flow-Based Generative Emulation of Grids of Stellar Evolutionary Models, Marc Hon (MIT Kavli Institute for Astrophysics and Space Research)</em> <br>
+<em>Enhancing Cosmological Simulations with Efficient and Interpretable Machine Learning in the Wavelet Basis, Cooper Jacobus (UC Berkeley: Dept. Astrophysics, Lawrence Berkeley National Lab: Computational Cosmology Center)</em> <br>
+<em>Training neural operators to preserve invariant measures of chaotic attractors, Ruoxi Jiang (University of Chicago)</em> <br>
+<em>Hidden Giants: Redefining QSO Classification and Outlier Detection with Redshift Invariant Autoencoders, Thaddaeus Kiker (Columbia University)</em> <br>
+<em>KAN: Kolmogorov-Arnold Networks, Ziming Liu (MIT, IAIFI)</em> <br>
+<em>Phase Transitions in the Output Distribution of Large Language Models, Niels Loerch (University of Basel)</em> <br>
+<em>Tackling reasoning problems with AI, Rishabh Mallik (Forschungszentrum Jülich)</em> <br>
+<em>Recurrent Features of Amplitudes in Planar N = 4 Super Yang-Mills Theory, Garrett Merz (University of Wisconsin-Madison)</em> <br>
+<em>Ultrafast Jet Classification using Geometric Learning, Patrick Odagiu (ETH Zurich)</em> <br>
+<em>Deep Stochastic Mechanics, Elena Orlova (The University of Chicago)</em> <br>
+<em>Differentiable and Distributional Cosmological Stasis, Sneh Pandya (Northeastern / IAIFI)</em> <br>
+<em>Exploring Astronomical Catalog Crossmatching with Machine Learning, Victor Samuel Perez Diaz (Center for Astrophysics | Harvard & Smithsonian, IAIFI)</em> <br>
+<em>Towards an AI-enabled astronomy system: natural language processing of Chandra data archive, Shivam Raval (Harvard University)</em> <br>
+<em>Auto-decoding Poisson Processes for Unsupervised X-ray Sources Learning, Yanke Song (Harvard University, Department of Statistics)</em> <br>
+<em>Development of photothermal techniques for the detection of cancer biomarkers, Ilhem Soyah (Higher school of sciences and technology of Hammam Sousse)</em> <br>
+<em>Multi-Modal Contrastive Training for Robust VQA, Mitra Tajrobehkar (Vertical Oceans)</em> <br>
+<em>Zero-Shot Classification of Astronomical Images with Large Multimodal Models, Dimitrios Tanoglidis (University of Pennsylvania)</em> <br>
+<em>Vertex finding and jet class classification using Wasserstein Neural Network, Diego F. Vasquez Plaza (Univesity Puerto rico Mayagüez)</em> <br>
+<em>Learning Group Invariant CY Metrics by Fundamental Domain Projections, Moritz Walden (Uppsala University)</em> <br>
+<em>Accelerating Energy Computation in Many-electron Systems with Forward Laplacian, Chuwei Wang (Caltech)</em> <br>
+<em>Emulating the Effects of Pile-Up on X-ray Spectra, Justina Yang (Harvard University)</em> <br>
+<em>Hessian Methods for Periodic Orbits, Leo Yao (MIT)</em> <br>
+<em>HyperTagging: Reconstruction of Full Decays using Transformers and Hyperbolic Embedding, Boyang Yu (LMU Munich, Germany)</em> <br>
+<em>Neural scaling laws from large-N field theory, Zhengkang Zhang (University of Utah)</em> <br>
+<em>Revealing the 3D Cosmic Web with Physics Constrained Neural Fields, Brandon Zhao (Caltech)</em> <br>
 </details>
 
 **6:00–8:00 pm ET**
@@ -247,9 +278,7 @@ Lunch
 
 **1:30–3:00 pm ET**
 
-**Contributed Talks - Session A**
-
-**Foundational ML**
+**Contributed Talks - Session A - Foundational ML**
 <details>
 <summary>Diversity with Similarity as a Measure of Dataset Quality, Josiah Couch (Beth Israel Deaconess Medical Center)</summary>
 <em>Dataset size and class balance are important measures in deep learning. Maximizing them is seen as a way to ensure that datasets contain diverse images, which models are thought to need in order to generalize well. Yet neither size nor class balance measure image diversity directly, raising the possibility that better measures of dataset quality might exist. To test this hypothesis, we turned to a comprehensive framework of diversity measures that generalizes familiar quantities like Shannon entropy by accounting for the similarities and differences among images. (Size and class balance emerge from this framework as special cases.) We created several thousand diverse datasets by subsampling a variety of large medical-image datasets representing a range of imaging modalities, trained classifiers on these subsets, and calculated the correlation between subset diversity and model accuracy using diversity measures from the framework.</em>
@@ -280,9 +309,7 @@ Lunch
 <em>Full waveform inversion (FWI) and geologic carbon sequestration (GCS) are two significant topics in geophysics. FWI infers subsurface structure information from seismic waveform data by solving a non-convex optimization problem. On the other hand, solving multiphase flow in porous media is essential for CO2 migration and pressure fields in the subsurface associated with GCS. However, numerical simulations for both FWI and GCS are computationally challenging and expensive due to the highly nonlinear governing partial differential equations (PDEs). Here, we develop a Fourier-enhanced deep operator network (Fourier-DeepONet) to address this issue. For FWI, compared with existing data-driven FWI methods, Fourier-DeepONet achieves more accurate predictions of subsurface structures across a wide range of source parameters. Additionally, Fourier-DeepONet demonstrates superior robustness when handling data with Gaussian noise or missing traces. For GCS, compared to the state-of-the-art Fourier neural operator (FNO), Fourier-DeepONet offers superior computational efficiency, with 90% fewer unknown parameters, significantly reduced training time (approximately 3.5 times faster), and much lower GPU memory requirements (less than 35%). Furthermore, Fourier-DeepONet maintains good accuracy when predicting out-of-distribution (OOD) data. This excellent generalizability is enabled by its adherence to the physical principle that the solution to a PDE is continuous over time.</em>
 </details>
 
-**Contributed Talks - Session B**
-
-**Physics-Motivated Optimization**
+**Contributed Talks Session B - Physics-Motivated Optimization**
 <details>
 <summary>Search for new physics using Event-based anomaly detection at the ATLAS detector of CERN, Wasikul Islam (University of Wisconsin-Madison)</summary>
 <em>Searches for new resonances in two-body invariant mass distributions are performed using an unsupervised anomaly detection technique in events produced in proton-proton collisions at a center of mass energy of 13 TeV recorded by the ATLAS detector at the LHC. Studies are conducted in data containing at least one isolated lepton. An autoencoder network is trained with 1% randomly selected collision events and anomalous regions are then defined which contain events with high reconstruction losses from the decoder. Nine invariant mass distributions are inspected which contain pairs of one light jet (or one b-jet) and one lepton, photon, or a second light jet (b-jet). The 95% confidence level upper limits on contributions from generic Gaussian signals are reported for the studied invariant mass distributions. The obtained model-independent limits show strong potential to exclude generic heavy states with complex decays.</em>
@@ -457,9 +484,7 @@ Lunch
 
 **1:30–3:00 pm ET**
 
-**Contributed Talks: Session A**
-
-**Uncertainty Quantification/Robust AI**
+**Contributed Talks: Session A - Uncertainty Quantification/Robust AI**
 <details>
 <summary>Jolideco: A Hybrid ML-Statistical Approach for Robust Image Deconvolution in Sparse Poisson Regimes, Axel Donath (Center for Astrophysics | Harvard & Smithsonian)</summary>
 <em>Machine learning for sparse image data reconstruction remains challenging, particularly in Astronomy where ground truth is often unavailable. While simulations and transfer learning offer partial solutions, high-dimensional parameter spaces can render these approaches computationally expensive or infeasible. Moreover, in low-count Poisson domains, quantifying uncertainties is crucial. We present Jolideco, a novel hybrid method for joint likelihood image deconvolution that synergizes machine learning with classical statistical modeling. This approach leverages a hand-crafted forward model for the imaging process, incorporating prior information such as telescope characteristics and noise distributions. Simultaneously, it employs an high-dimensional, patch-based image prior trained via ML on astronomical images from other wavelengths to regularize image structure. Jolideco demonstrates significantly improved reconstruction quality across diverse source scenarios and signal-to-noise regimes. Its closed statistical framework facilitates multi-telescope data integration and robust uncertainty quantification. We showcase Jolideco's effectiveness using example data from the Chandra X-ray Observatory and the Fermi-LAT Gamma-ray Space Telescope, illustrating its potential to advance astronomical image analysis in the Poisson regime.</em>
@@ -490,9 +515,7 @@ Lunch
 <em>Classifying jets for proton-proton collisions is a challenging problem, and several Artificial Intelligence / Machine Learning classifiers have been introduced to help handle the task. Different classifiers have tradeoffs in terms of their accuracy, model dependency, processing time, etc. We study these tradeoffs for different model architectures, and explore techniques to improve their overall performance. In particular, we study the technique of Knowledge Distillation, which distills knowledge from a complex model with high accuracy to a simpler model with faster processing time and potentially less model-dependence to see if it is possible to increase the accuracy of the simpler model while maintaining its other advantages.</em>
 </details>
 
-**Contributed Talks - Session B**
-
-**Representation/Manifold Learning**
+**Contributed Talks Session B - Representation/Manifold Learning**
 <details>
 <summary>Data Compression and Inference in Cosmology with Self-Supervised Machine Learning, Aizhan Akhmetzhanova (Harvard University)</summary>
 <em>The influx of massive amounts of data from current and upcoming cosmological surveys necessitates compression schemes that can efficiently summarize the data with minimal loss of information. We introduce a method that leverages the paradigm of self-supervised machine learning in a novel manner to construct representative summaries of massive datasets using simulation-based augmentations. Deploying the method on hydrodynamical cosmological simulations, we show that it can deliver highly informative summaries, which can be used for a variety of downstream tasks, including precise and accurate parameter inference. We demonstrate how this paradigm can be used to construct summary representations that are insensitive to prescribed systematic effects, such as the influence of baryonic physics. Our results indicate that self-supervised machine learning techniques offer a promising new approach for compression of cosmological data as well its analysis.</em>
@@ -509,12 +532,6 @@ Lunch
 </details>
 
 <details>
-<summary>Privacy Enhancing Technologies and Machine Learning. - a Match Made in Heaven, Anderson Nascimento (Visa)</summary>
-<em>Data is the driving force behind the ongoing AI revolution. Sharing this data across various organizations and individuals has immense potential to transform diverse fields, from automating money laundering detection to collecting health data for drug development. However, privacy concerns and regulatory restrictions often make this level of data sharing impossible. Privacy-enhancing technologies like secure multiparty computation, fully homomorphic encryption, differential privacy, and federated learning, present a solution to this issue. They allow us to enjoy the advantages of data collaboration without compromising the privacy of those providing the data. They are also costly, affecting the runtime, accuracy, and fairness of the final result. This talk will introduce several of these privacy-enhancing technologies, focusing primarily on secure multiparty computation and differential privacy. We will demonstrate how these technologies can be integrated to achieve privacy-preserving machine learning, explain their limitations, and discuss how these research findings are being applied in real-world scenarios. We will also present current open research problems in this field. This talk is designed for a general audience. No prior experience with secure multiparty computation and differential privacy is necessary. 
-Bio: Dr. Anderson C. A. Nascimento is an information theory and privacy expert with two decades of postdoctoral experience. His career milestones include being a Senior Director and Head of Security Research at Visa, an endowed professor and Computer Science chair at the University of Washington (Tacoma Campus), a permanent member of the Cryptography Lab at Nippon Telegraph and Telecom, a research scientist at Meta, and a professor with the University of Brasilia, Brazil. Anderson is a University of Tokyo Ph.D. graduate (2004), and he specializes in cryptography and privacy-preserving machine learning, developing novel techniques for various domains. He has won international research competitions, including the iDash competition for privacy-preserving genomic data, and he took second place in the PETS prize organized by the US and UK governments. He has 100+ publications, edited four books, supervised 26 theses and dissertations, and served as a panelist or reviewer for the National Science Foundation, The National Council of Research and Development of Brazil, and the European Science Foundation. He has also presented expert testimony to the Brazilian Supreme Court on privacy issues. His Erdos number is 3.</em>
-</details>
-
-<details>
 <summary>Multi-modal Contrastive Learning for Robust Text  Representation Classification, Mitra Tajrobehkar (Vertical Oceans)</summary>
 <em>Contrastive representation learning has emerged as a powerful technique in both Computer Vision (CV) and Natural Language Processing (NLP) domains, enabling the acquisition of practical and meaningful representations from text data. This talk will explore the captivating realm of contrastive representation learning in NLP, investigating its underlying principles and applications in tasks such as question answering. We will delve into the remarkable success of contrastive learning in enhancing language understanding, transfer learning, and domain adaptation in NLP tasks. Additionally, we will address the challenges associated with training language models, including limitations arising from data scarcity and bias. Join us to discover the potential of contrastive representation learning in advancing the capabilities of pre-trained language models.</em>
 </details>
@@ -523,6 +540,14 @@ Bio: Dr. Anderson C. A. Nascimento is an information theory and privacy expert w
 <summary>Parameter Symmetry and Formation of Latent Representations, Liu Ziyin (MIT, NTT Research)</summary>
 <em>Symmetries exist abundantly in the loss function of neural networks. We characterize the learning dynamics of stochastic gradient descent (SGD) when exponential symmetries, a broad subclass of continuous symmetries, exist in the loss function. We establish that when gradient noises do not balance, SGD has the tendency to move the model parameters toward a point where noises from different directions are balanced. Here, a special type of fixed point in the constant directions of the loss function emerges as a candidate for solutions for SGD. As the main theoretical result, we prove that every parameter connects without loss function barrier to a unique noise-balanced fixed point. Lastly, we discuss how the theory can be leveraged to understand common phenomena in deep learning, such as progressive sharpening and flattening and the formation of latent representations.</em>
 </details>
+
+**Privacy in Machine Learning**
+<details>
+<summary>Privacy Enhancing Technologies and Machine Learning. - a Match Made in Heaven, Anderson Nascimento (Visa)</summary>
+<em>Data is the driving force behind the ongoing AI revolution. Sharing this data across various organizations and individuals has immense potential to transform diverse fields, from automating money laundering detection to collecting health data for drug development. However, privacy concerns and regulatory restrictions often make this level of data sharing impossible. Privacy-enhancing technologies like secure multiparty computation, fully homomorphic encryption, differential privacy, and federated learning, present a solution to this issue. They allow us to enjoy the advantages of data collaboration without compromising the privacy of those providing the data. They are also costly, affecting the runtime, accuracy, and fairness of the final result. This talk will introduce several of these privacy-enhancing technologies, focusing primarily on secure multiparty computation and differential privacy. We will demonstrate how these technologies can be integrated to achieve privacy-preserving machine learning, explain their limitations, and discuss how these research findings are being applied in real-world scenarios. We will also present current open research problems in this field. This talk is designed for a general audience. No prior experience with secure multiparty computation and differential privacy is necessary. 
+Bio: Dr. Anderson C. A. Nascimento is an information theory and privacy expert with two decades of postdoctoral experience. His career milestones include being a Senior Director and Head of Security Research at Visa, an endowed professor and Computer Science chair at the University of Washington (Tacoma Campus), a permanent member of the Cryptography Lab at Nippon Telegraph and Telecom, a research scientist at Meta, and a professor with the University of Brasilia, Brazil. Anderson is a University of Tokyo Ph.D. graduate (2004), and he specializes in cryptography and privacy-preserving machine learning, developing novel techniques for various domains. He has won international research competitions, including the iDash competition for privacy-preserving genomic data, and he took second place in the PETS prize organized by the US and UK governments. He has 100+ publications, edited four books, supervised 26 theses and dissertations, and served as a panelist or reviewer for the National Science Foundation, The National Council of Research and Development of Brazil, and the European Science Foundation. He has also presented expert testimony to the Brazilian Supreme Court on privacy issues. His Erdos number is 3.</em>
+</details>
+
 
 **3:00–3:30 pm ET**
 
