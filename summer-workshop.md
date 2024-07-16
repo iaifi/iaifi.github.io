@@ -193,40 +193,41 @@ Poster Session
 
 <details>
 <summary>Details</summary>
-<em>Data Compression and Inference in Cosmology with Self-Supervised Machine Learning, Aizhan Akhmetzhanova (Harvard University)</em> <br>
-<em>CNN and Transformer architecture for jets events classification, Juvenal Bassa (University of Puerto Rico - Mayaguez)</em> <br>
-<em>Data-Driven Discovery of X-ray Transients with Machine Learning, Steven Dillmann (University of Cambridge)</em> <br>
-<em>Sampling Transition Dynamics with Machine Learning Approaches, Yuanqi Du (Cornell University)</em> <br>
-<em>Multi-Modal Generalized Class Discovery for Scalable Autonomous All-Sky Surveys, Sriram Elango (Harvard University)</em> <br>
-<em>Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs, Robert Joseph George (Caltech)</em> <br>
-<em>Optimizing Self-Assembly Yields of Chain-like Structures: A Computational Approach using Implicit Differentiation, Livia Guttieres (Harvard University)</em> <br>
-<em>Inverse Design of Complex Fluids with Fully-Differentiable Lagrangian Particle Dynamics, Kaylie Hausknecht (Harvard University and MIT)</em> <br>
-<em>Perfect Jet Classification Through Equivariant Regression, Timothy Hoffman (University of Chicago)</em> <br>
-<em>Flow-Based Generative Emulation of Grids of Stellar Evolutionary Models, Marc Hon (MIT Kavli Institute for Astrophysics and Space Research)</em> <br>
-<em>Enhancing Cosmological Simulations with Efficient and Interpretable Machine Learning in the Wavelet Basis, Cooper Jacobus (UC Berkeley: Dept. Astrophysics, Lawrence Berkeley National Lab: Computational Cosmology Center)</em> <br>
-<em>Training neural operators to preserve invariant measures of chaotic attractors, Ruoxi Jiang (University of Chicago)</em> <br>
-<em>Hidden Giants: Redefining QSO Classification and Outlier Detection with Redshift Invariant Autoencoders, Thaddaeus Kiker (Columbia University)</em> <br>
-<em>KAN: Kolmogorov-Arnold Networks, Ziming Liu (MIT, IAIFI)</em> <br>
-<em>Phase Transitions in the Output Distribution of Large Language Models, Niels Loerch (University of Basel)</em> <br>
-<em>Tackling reasoning problems with AI, Rishabh Mallik (Forschungszentrum Jülich)</em> <br>
-<em>Recurrent Features of Amplitudes in Planar N = 4 Super Yang-Mills Theory, Garrett Merz (University of Wisconsin-Madison)</em> <br>
-<em>Ultrafast Jet Classification using Geometric Learning, Patrick Odagiu (ETH Zurich)</em> <br>
-<em>Deep Stochastic Mechanics, Elena Orlova (The University of Chicago)</em> <br>
-<em>Differentiable and Distributional Cosmological Stasis, Sneh Pandya (Northeastern / IAIFI)</em> <br>
-<em>Exploring Astronomical Catalog Crossmatching with Machine Learning, Victor Samuel Perez Diaz (Center for Astrophysics | Harvard & Smithsonian, IAIFI)</em> <br>
-<em>Towards an AI-enabled astronomy system: natural language processing of Chandra data archive, Shivam Raval (Harvard University)</em> <br>
-<em>Auto-decoding Poisson Processes for Unsupervised X-ray Sources Learning, Yanke Song (Harvard University, Department of Statistics)</em> <br>
-<em>Development of photothermal techniques for the detection of cancer biomarkers, Ilhem Soyah (Higher school of sciences and technology of Hammam Sousse)</em> <br>
-<em>Multi-Modal Contrastive Training for Robust VQA, Mitra Tajrobehkar (Vertical Oceans)</em> <br>
-<em>Zero-Shot Classification of Astronomical Images with Large Multimodal Models, Dimitrios Tanoglidis (University of Pennsylvania)</em> <br>
-<em>Vertex finding and jet class classification using Wasserstein Neural Network, Diego F. Vasquez Plaza (Univesity Puerto rico Mayagüez)</em> <br>
-<em>Learning Group Invariant CY Metrics by Fundamental Domain Projections, Moritz Walden (Uppsala University)</em> <br>
-<em>Accelerating Energy Computation in Many-electron Systems with Forward Laplacian, Chuwei Wang (Caltech)</em> <br>
-<em>Emulating the Effects of Pile-Up on X-ray Spectra, Justina Yang (Harvard University)</em> <br>
-<em>Hessian Methods for Periodic Orbits, Leo Yao (MIT)</em> <br>
-<em>HyperTagging: Reconstruction of Full Decays using Transformers and Hyperbolic Embedding, Boyang Yu (LMU Munich, Germany)</em> <br>
-<em>Neural scaling laws from large-N field theory, Zhengkang Zhang (University of Utah)</em> <br>
-<em>Revealing the 3D Cosmic Web with Physics Constrained Neural Fields, Brandon Zhao (Caltech)</em> <br>
+
+<ul> <li> Data Compression and Inference in Cosmology with Self-Supervised Machine Learning, Aizhan Akhmetzhanova (Harvard University) </li>
+<li> CNN and Transformer architecture for jets events classification, Juvenal Bassa (University of Puerto Rico - Mayaguez) </li> 
+<li>Data-Driven Discovery of X-ray Transients with Machine Learning, Steven Dillmann (University of Cambridge)</li>
+<li>Sampling Transition Dynamics with Machine Learning Approaches, Yuanqi Du (Cornell University)</li>
+<li>Multi-Modal Generalized Class Discovery for Scalable Autonomous All-Sky Surveys, Sriram Elango (Harvard University)</li>
+<li>Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs, Robert Joseph George (Caltech)</li>
+<li>Optimizing Self-Assembly Yields of Chain-like Structures: A Computational Approach using Implicit Differentiation, Livia Guttieres (Harvard University)</li>
+<li>Inverse Design of Complex Fluids with Fully-Differentiable Lagrangian Particle Dynamics, Kaylie Hausknecht (Harvard University and MIT)</li>
+<li>Perfect Jet Classification Through Equivariant Regression, Timothy Hoffman (University of Chicago)</li>
+<li>Flow-Based Generative Emulation of Grids of Stellar Evolutionary Models, Marc Hon (MIT Kavli Institute for Astrophysics and Space Research)</li>
+<li>Enhancing Cosmological Simulations with Efficient and Interpretable Machine Learning in the Wavelet Basis, Cooper Jacobus (UC Berkeley: Dept. Astrophysics, Lawrence Berkeley National Lab: Computational Cosmology Center)</li>
+<li>Training neural operators to preserve invariant measures of chaotic attractors, Ruoxi Jiang (University of Chicago)</li>
+<li>Hidden Giants: Redefining QSO Classification and Outlier Detection with Redshift Invariant Autoencoders, Thaddaeus Kiker (Columbia University)</li>
+<li>KAN: Kolmogorov-Arnold Networks, Ziming Liu (MIT, IAIFI)</li>
+<li>Phase Transitions in the Output Distribution of Large Language Models, Niels Loerch (University of Basel)</li>
+<li>Tackling reasoning problems with AI, Rishabh Mallik (Forschungszentrum Jülich)</li>
+<li>Recurrent Features of Amplitudes in Planar N = 4 Super Yang-Mills Theory, Garrett Merz (University of Wisconsin-Madison)</li>
+<li>Ultrafast Jet Classification using Geometric Learning, Patrick Odagiu (ETH Zurich)</li>
+<li>Deep Stochastic Mechanics, Elena Orlova (The University of Chicago)</li>
+<li>Differentiable and Distributional Cosmological Stasis, Sneh Pandya (Northeastern / IAIFI)</li>
+<li>Exploring Astronomical Catalog Crossmatching with Machine Learning, Victor Samuel Perez Diaz (Center for Astrophysics | Harvard & Smithsonian, IAIFI)</li>
+<li>Towards an AI-enabled astronomy system: natural language processing of Chandra data archive, Shivam Raval (Harvard University)</li>
+<li>Auto-decoding Poisson Processes for Unsupervised X-ray Sources Learning, Yanke Song (Harvard University, Department of Statistics)</li>
+<li>Development of photothermal techniques for the detection of cancer biomarkers, Ilhem Soyah (Higher school of sciences and technology of Hammam Sousse)</li>
+<li>Multi-Modal Contrastive Training for Robust VQA, Mitra Tajrobehkar (Vertical Oceans)</li>
+<li>Zero-Shot Classification of Astronomical Images with Large Multimodal Models, Dimitrios Tanoglidis (University of Pennsylvania)</li>
+<li>Vertex finding and jet class classification using Wasserstein Neural Network, Diego F. Vasquez Plaza (Univesity Puerto rico Mayagüez)</li>
+<li>Learning Group Invariant CY Metrics by Fundamental Domain Projections, Moritz Walden (Uppsala University)</li>
+<li>Accelerating Energy Computation in Many-electron Systems with Forward Laplacian, Chuwei Wang (Caltech)</li>
+<li>Emulating the Effects of Pile-Up on X-ray Spectra, Justina Yang (Harvard University)</li>
+<li>Hessian Methods for Periodic Orbits, Leo Yao (MIT)</li>
+<li>HyperTagging: Reconstruction of Full Decays using Transformers and Hyperbolic Embedding, Boyang Yu (LMU Munich, Germany)</li>
+<li>Neural scaling laws from large-N field theory, Zhengkang Zhang (University of Utah)</li>
+<li>Revealing the 3D Cosmic Web with Physics Constrained Neural Fields, Brandon Zhao (Caltech)</li> </ul>
 </details>
 
 **6:00–8:00 pm ET**
