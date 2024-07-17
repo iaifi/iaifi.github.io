@@ -291,8 +291,8 @@ Lunch
 </details>
 
 <details>
-<summary>Details to come, Anindita Maiti (Perimeter Institute)</summary>
-<em>Details to come</em>
+<summary>Supervised learning of infinitely-overparameterized DNNs through the lens of Wilsonian RG, Anindita Maiti (Perimeter Institute)</summary>
+<em>The key to the performance of ML algorithms is an ability to segregate relevant features in input datasets from the irrelevant ones. In a setup where data features play the role of an energy scale, we develop a Wilsonian RG framework to integrate out unlearnable modes associated with the Neural Network Gaussian Process (NNGP) kernel, in the regression context. Such a framework in the case of Gaussian features leads to a universal flow of the ridge parameter, whereas, non-Gaussianities in data features result in rich input-dependent RG flows. This framework goes beyond the usual analogies between RG flows and learning dynamics, and offers potential improvements to our understanding of feature learning and universality classes of models.</em>
 </details>
 
 <details>
