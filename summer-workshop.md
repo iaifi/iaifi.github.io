@@ -410,9 +410,27 @@ Ayan Paul, Northeastern
 
 Lunch
 
-**1:30–3:00 pm ET**
+**1:30–2:15 pm ET**
 
-**Industry-Academia Collaboration Panel**
+*Geometric Machine Learning*
+
+Melanie Weber, Harvard University
+
+<details>
+<summary>Abstract</summary>
+<em>A recent surge of interest in exploiting geometric structure in data and models in machine learning has motivated the design of a range of geometric algorithms and architectures. This lecture will give an overview of this emerging research area and its mathematical foundation. We will cover topics at the intersection of Geometry and Machine Learning, including relevant tools from differential geometry and group theory, geometric representation learning, graph machine learning, and geometric deep learning.</em>
+</details>
+
+**2:15–3:00 pm ET**
+
+*Details to come*
+
+Patrick Kidger, Cradle.io
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come</em>
+</details>
 
 **3:00–3:30 pm ET**
 
@@ -789,6 +807,18 @@ Speakers will be announced as they are confirmed.
          </div>
          </div>
        </div>
+       
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-patrick-kidger.jpg" alt="Patrick Kidger" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://kidger.site/">Patrick Kidger</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Mathematician and Machine Learning Researcher, Cradle.bio </em> <br>
+         </div>
+         </div>
+       </div>
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/photo-j-nathan-kutz.jpg" alt="J. Nathan Kutz" height="210rem" style="object-fit: cover;">
@@ -814,7 +844,7 @@ Speakers will be announced as they are confirmed.
          </div>
        </div>
        
-           <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-ziming-liu.jpg" alt="Ziming Liu" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -906,6 +936,18 @@ Speakers will be announced as they are confirmed.
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Professor, Harvard </em> <br>
+         </div>
+         </div>
+       </div>
+       
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-melanie-weber.jpg" alt="Melanie Weber" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="http://melanie-weber.com/">Melanie Weber</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Assistant Professor of Applied Mathematics and of Computer Science, Harvard </em> <br>
          </div>
          </div>
        </div>
