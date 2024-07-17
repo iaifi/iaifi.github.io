@@ -270,7 +270,7 @@ Rose Yu, UCSD
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come</em>
+<em>Despite the success of equivariant neural networks in scientific applications, they require knowing the symmetry group a priori. However, it may be difficult to know which symmetry to use as an inductive bias in practice. Enforcing the wrong symmetry could even hurt the performance. In this talk, I will discuss our effort in developing a deep learning framework that can automatically discover symmetry from data.  Our framework, LieGAN, represents symmetry as interpretable Lie algebra basis and uses a paradigm akin to generative adversarial training. We further generalized it LaLieGAN to discover non-linear symmetries from high-dimensional data.  Empirically, the learned symmetry can also be readily used in  existing equivariant neural networks to improve accuracy and generalization in prediction. It can also improve equation discovery and long-term forecasting for various dynamical systems.</em>
 </details>
 
 **12:15–1:30 pm ET**
@@ -614,7 +614,7 @@ Break
 
 **11:30 am–12:00 pm ET**
 
-*Details to come*
+*Generative AI and the natural sciences: Governance strategies and historical perspectives*
 
 David Kaiser, MIT
 
