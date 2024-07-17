@@ -157,10 +157,14 @@ nexus point for collaborative efforts aimed at advancing both physics and AI.
 ## Graphics
 
   * ![IAIFI](images/iaifi-logo-black.png){:.image--sm} **IAIFI Logo**:  [Black PDF](images/iaifi-logo-black.pdf),  [White PDF](images/iaifi-logo-white.pdf), [Black JPEG](images/iaifi-logo-black-noborder-hires.jpg)
+  
+    * ![IAIFI](images/iaifi-logo-square-rainbow.png){:.image--sm} **IAIFI Logo**:  [PDF](images/iaifi-logo-square-rainbow.pdf),  [JPEG](images/iaifi-logo-square-rainbow.png)
 
   * ![NSF IAIFI](images/iaifi-nsf-logo-black.png){:.image--sm}  **IAIFI Logo with NSF**:  [Black PDF](images/iaifi-nsf-logo-black.pdf),  [White PDF](images/iaifi-nsf-logo-white.pdf)
 
   * ![NSF IAIFI](images/iaifi-fullname-logo-black.png){:.image--sm}  **IAIFI Logo with Name**:  [Black PDF](images/iaifi-fullname-logo-black.pdf)
+  
+  * ![IAIFI](images/nsf-iaifi-black-fulltext.png){:.image--sm}  **IAIFI Logo with NSF with Name**:  [Black PDF](images/nsf-iaifi-black-fulltext.pdf)
   
   * ![IAIFI](images/iaifi-pressimage-horizontalcrop.jpg){:.image--sm} **IAIFI Horizontal Fusion**: [JPEG](images/iaifi-pressimage-horizontalcrop.jpg)
   
