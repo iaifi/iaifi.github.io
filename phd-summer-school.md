@@ -24,7 +24,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ## Apply
 
-**Applications are closed for the 2024 IAIFI Summer School.
+**Applications are closed for the 2024 IAIFI Summer School.**
 
 
 ## Accommodations
@@ -37,7 +37,6 @@ Students for the Summer School have the option to reserve dorm rooms (at their o
 * Students who wish to stay for the [IAIFI Summer Workshop](/summer-workshop.html) will be able to book the same rooms through the weekend and the Workshop if they choose (at their own expense). 
 
 ## Lecturers
-The following lecturers are confirmed for the 2024 IAIFI Summer School.
 
 <img class="image" src="images/small-photo-melanie-weber.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Representation/Manifold Learning
@@ -84,6 +83,8 @@ Tutorial Lead: [Gaia Grosso](https://iaifi.org/current-fellows.html#gaia-grosso)
 ## Agenda
 This agenda is subject to change. 
 
+<img src="images/summer-school-2024_schedule.png" align="left" style="max-width:2602px;width:100%" hspace="10" vspace="10"> 
+
 ### Monday, August 5, 2024
 
 **9:00–9:30 am ET**
@@ -92,7 +93,7 @@ Welcome/Introduction
 
 **9:30 am–12:00 pm ET**
 
-Lecture 1: Generative Modeling, Gilles Louppe 
+Lecture 1: Deep generative models: A latent variable model perspective, Gilles Louppe 
 
 <details>
 <summary>Abstract</summary>
@@ -105,11 +106,16 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 1: Generative Modeling
+Tutorial 1: Deep generative models: A latent variable model perspective, Gaia Grosso
 
 **3:30–4:30 pm ET**
 
-Quantum Computing Workshop 
+Large-scale quantum reservoir learning with QuEra, Pedro Lopes and Milan Kornjača
+
+<details>
+<summary>Abstract</summary>
+<em>Quantum machine learning has gained considerable attention as quantum technology advances, presenting a promising approach for efficiently learning complex data patterns. Despite this promise, most contemporary quantum methods require significant resources for variational parameter optimization and face issues with vanishing gradients, leading to experiments that are either limited in scale or lack potential for quantum advantage. To address this, we develop a general-purpose, gradient-free, and scalable quantum reservoir learning algorithm that harnesses the quantum dynamics of QuEra's Aquila to process data. Quantum reservoir learning on Aquila, achieves competitive performance across various categories of machine learning tasks, including binary and multi-class classification, as well as time series prediction. The QuEra team performed successful quantum machine leaning demonstration on up to 108 qubits, demonstrating the largest quantum machine learning experiment to date. We also observe comparative quantum kernel advantage in learning tasks by constructing synthetic datasets based on the geometric differences between generated quantum and classical data kernels. In this workshop we will cover the general methods utilized to run quantum reservoir computing in QuEra's neutral-atom analog hardware, providing an introduction for users to pursue new research directions.</em>
+</details>
 
 **5:00–7:00 pm ET**
 
@@ -137,11 +143,11 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 2: Geometric Machine Learning
+Tutorial 2: Geometric Machine Learning, Thomas Harvey
 
 **3:30–4:30 pm ET**
 
-Breakout Sessions with Days 1 and 2 Lecturers and Tutorial Leads (Optional)
+Breakout Sessions with Days 1 and 2 Lecturers and Tutorial Leads 
 
 **4:30–6:00 pm ET**
 
@@ -155,7 +161,7 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 3: Physics-motivated optimization, Cengiz Pehlevan
+Lecture 3: Scaling and renormalization in high-dimensional regression, Cengiz Pehlevan
 
 <details>
 <summary>Abstract</summary>
@@ -168,17 +174,36 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 3: Physics-motivated optimization, Alex Atanasov
+Tutorial 3: Physics-motivated optimization: Scaling and renormalization in high-dimensional regression, Alex Atanasov
 
 **3:30–4:30 pm ET**
 
-Career Panel, Panelists TBA (Optional)
+Career Panel
+
+<details>
+<summary>Panelists</summary>
+* Carol Cuesta-Lazaro, IAIFI Fellow
+* Pedro Lopes, Quantum Advocate, QuEra Computing
+* Gilles Louppe, Professor, University of Liège
+* Cengiz Pehlevan, Assistant Professor of Applied Mathematics & Kempner Institute Associate Faculty, Harvard
+* Partha Saha, Distinguished Engineer, Data and AI Platform, Visa
+* Melanie Weber, Assistant Professor of Applied Mathematics and of Computer Science, Harvard
+</details>
 
 ### Thursday, August 8, 2024
 
-**4:30–6:00 pm ET**
+**4:30–5:00 pm ET**
 
 Group work for hackathon
+
+**5:00–7:00 pm ET**
+
+Industry Seminar and Reception hosted by PDT Partners
+
+<details>
+<summary>Details</summary>
+<em>Details to come.</em>
+</details>
 
 **9:00–9:30 am ET**
 
@@ -205,7 +230,7 @@ Tutorial 4: Uncertainty Quantification, Jessie Micallef
 
 Breakout Sessions with Days 3, 4, and 5 Lecturers and Tutorial Leads (Optional)
 
-**4:30–6:00 pm ET**
+**4:30–5:30 pm ET**
 
 Group work for hackathon
 
@@ -258,7 +283,9 @@ Closing
 
 
 ## Financial Supporters
-To be announced. If you are interested in sponsoring the Summer School, please contact [iaifi@mit.edu](mailto:iaifi@mit.edu). 
+We extend a sincere thank you to the following financial supporters of this year's IAIFI Summer School:
+
+<img src="images/visa-logo.png" align="center" style="max-width:10355px;width:30%" hspace="10" vspace="10"> <img src="images/quera-logo.jpg" align="center" style="max-width:8080px;width:30%" hspace="10" vspace="10"> 
 
 ## 2024 Organizing Committee 
 * Fabian Ruehle, Chair (Northeastern University)
