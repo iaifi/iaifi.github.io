@@ -28,7 +28,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Time Commitment: One-hour meeting every 3-4 weeks and time spent developing materials (on volunteer basis)
 * Current Public Engagement Committee: Lina Necib (Chair), Gaia Grosso, Ge Yang, Sokratis Trifinopolous, Polina Abratenko, Tri Nguyen, Sneh Pandya, Sangeon Park, Marisa LaFleur
 * Past Public Engagement Committee: Carlos Argüelles-Delgado, Brent Nelson, Harold Erbin
-* Primary Contact: [Email Carlos Argüelles-Delgado (Chair)](mailto:carguelles@fas.harvard.edu)
+* Primary Contact: [Email Lina Necib (Chair)](mailto:lnecib@mit.edu)
 
 # Community Building and Inclusion
 * Status: Accepting additional members
@@ -36,7 +36,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Time Commitment: One-hour meeting per month and time spent helping with event setup occasionally
 * Current Community Building Committee: Tracy Slatyer (Chair), Fabian Ruehle, Alexander Gagliano, Jessie Micallef, Omar Alterkait, Ouail Kitouni, Marisa LaFleur
 * Past Community Building Committee: Matt Schwartz, Mike Williams, Mehmet Demirtas, Niklas Nolte
-* Primary Contact: [Email Matt Schwartz (Chair)](mailto:schwartz@g.harvard.edu)
+* Primary Contact: [Email Tracy Slatyer (Chair)](mailto:tslatyer@mit.edu)
 
 # Early Career and Equity 
 * Status: Will rotate membership in January 2024
@@ -44,7 +44,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Time Commitment: One-hour meeting per month and occasional email discussion
 * Current ECEC: Lisa Barsotti (Chair), Tess Smidt, Carolina Cuesta-Lazaro, Jessie Micallef, Elyssa Hofgard, Zeviel Imani, Leo Yang, Marisa LaFleur
 * Past ECEC: Edo Berger, Tracy Slatyer, Siddharth Mishra-Sharma, Mehmet Demirtas, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Sean Benevedes, Rashmish Mishra
-* Primary Contact: [Email Edo Berger (Chair)](mailto:eberger@cfa.harvard.edu) 
+* Primary Contact: [Email Lisa Barsotti (Chair)](mailto:lisabar@mit.edu) 
 
 # Speaker Selection 
 * Status: Will rotate membership in Fall 2023
@@ -52,7 +52,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Time Commitment: One or two two-hour meetings every semester and attendance at talks
 * Current Speaker Selection Committee: Alexander Gagliano (Co-Chair), Gaia Grosso (Co-Chair), Dan Roberts, Ameya Shrikant Daigavane, Marisa LaFleur
 * Past Speaker Selection Committee: Di Luo, Siddharth Mishra-Sharma, Nayantara Mudur, Demba Ba, Cora Dvorkin, Arkopal Dutt
-* Primary Contacts: [Email Siddharth Mishra-Sharma](mailto:smsharma@mit.edu) or [email Di Luo](mailto:diluo@mit.edu)
+* Primary Contacts: [Email Alexander Gagliano](mailto:gaglian2@mit.edu) or [email Gaia Grosso](mailto:gaiag795@mit.edu)
 
 # Summer School & Workshop
 * Status: Will rotate membership in Fall 2024
