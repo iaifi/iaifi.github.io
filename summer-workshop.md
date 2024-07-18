@@ -458,6 +458,18 @@ Carol Cuesta-Lazaro, IAIFI Fellow
 <em>The upcoming era of cosmological surveys promises an unprecedented wealth of observational data that will transform our understanding of the universe. Surveys such as DESI, Euclid, and the Vera C. Rubin Observatory will provide extremely detailed maps of billions of galaxies out to high redshifts. Analyzing these massive datasets poses exciting challenges that machine learning is uniquely poised to help overcome. In this talk, I will highlight recent examples from my work on probabilistic machine learning for cosmology. First, I will explain how a point cloud diffusion model can be used both as a generative model for 3D maps of galaxy clustering and as a likelihood model for such datasets. Moreover, I will present a generative model developed to reconstruct the initial conditions of the Universe from spectroscopic survey observations. When combined with the wealth of data from upcoming surveys, these machine learning techniques have the potential to provide new insights into fundamental questions about the nature of the universe.</em>
 </details>
 
+**5:30-6:30 pm ET**
+
+*Panel on Industry–Academia Collaboration*
+
+(Additional panelists to be announced)
+
+* Moderator: Carol Cuesta-Lazaro, IAIFI Fellow
+
+* Bill Freeman, Professor of EECS, MIT
+
+* Partha Saha, Distinguished Engineer, Data and AI Platform, Visa
+
 ### Thursday, August 15, 2024
 
 **9:30–10:15 am ET**

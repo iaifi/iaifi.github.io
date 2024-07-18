@@ -180,15 +180,20 @@ Tutorial 3: Physics-motivated optimization: Scaling and renormalization in high-
 
 Career Panel
 
-<details>
-<summary>Panelists</summary>
+* Moderator: Alex Gagliano, IAIFI Fellow
+
 * Carol Cuesta-Lazaro, IAIFI Fellow
+
 * Pedro Lopes, Quantum Advocate, QuEra Computing
+
 * Gilles Louppe, Professor, University of Liège
+
 * Cengiz Pehlevan, Assistant Professor of Applied Mathematics & Kempner Institute Associate Faculty, Harvard
+
 * Partha Saha, Distinguished Engineer, Data and AI Platform, Visa
+
 * Melanie Weber, Assistant Professor of Applied Mathematics and of Computer Science, Harvard
-</details>
+
 
 ### Thursday, August 8, 2024
 

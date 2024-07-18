@@ -18,7 +18,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Accepting additional members
 * Establishes and fosters connections with industry partners for mutual benefit through internships, workforce development and recruitment, resource sharing, collaboration, and funding; as well as provides resources and guidance to IAIFI members for career development and exploration.
 * Time Commitment: Expected one-hour meeting per month and time spent developing materials (on volunteer basis)
-* Current Industry Partnership Committee: Marin Soljacic (Chair), Mike Williams, Denis Boyda, Carolina Cuesta-Lazaro, Ge Yang, Sangeon Park, Emmanouil Theodosis, Marisa LaFleur
+* Current Industry Partnership Committee: Marin Soljacic (Chair), Mike Williams, Denis Boyda, Carolina Cuesta-Lazaro, Ge Yang, Nayantara Mudur, Sangeon Park, Emmanouil Theodosis, Marisa LaFleur
 * Past Industry Partnership Committee: Todd Zickler, Anna Golubeva
 * Primary Contact: [Email Marin Soljacic (Chair)](mailto:soljacic@mit.edu)
 
@@ -26,33 +26,33 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Seeking additional members
 * Develops educational materials for use in outreach activities, such as classroom visits, and brainstorms opportunities for outreach (including festivals, museum exhibits, etc)
 * Time Commitment: One-hour meeting every 3-4 weeks and time spent developing materials (on volunteer basis)
-* Current Public Engagement Committee: Carlos Argüelles-Delgado (Chair), Lina Necib, Gaia Grosso, Ge Yang, Sokratis Trifinopolous, Polina Abratenko, Tri Nguyen, Sneh Pandya, Sangeon Park, Marisa LaFleur
-* Past Public Engagement Committee: Brent Nelson, Harold Erbin
-* Primary Contact: [Email Carlos Argüelles-Delgado (Chair)](mailto:carguelles@fas.harvard.edu)
+* Current Public Engagement Committee: Lina Necib (Chair), Gaia Grosso, Ge Yang, Sokratis Trifinopolous, Polina Abratenko, Tri Nguyen, Sneh Pandya, Sangeon Park, Marisa LaFleur
+* Past Public Engagement Committee: Carlos Argüelles-Delgado, Brent Nelson, Harold Erbin
+* Primary Contact: [Email Lina Necib (Chair)](mailto:lnecib@mit.edu)
 
 # Community Building and Inclusion
 * Status: Accepting additional members
 * Brainstorms and plans community building events (such as coffee hours, social events, meet-ups, etc.)
 * Time Commitment: One-hour meeting per month and time spent helping with event setup occasionally
-* Current Community Building Committee: Matt Schwartz (Chair), Fabian Ruehle, Alexander Gagliano, Jessie Micallef, Omar Alterkait, Ouail Kitouni, Marisa LaFleur
-* Past Community Building Committee: Mike Williams, Mehmet Demirtas, Niklas Nolte
-* Primary Contact: [Email Matt Schwartz (Chair)](mailto:schwartz@g.harvard.edu)
+* Current Community Building Committee: Tracy Slatyer (Chair), Fabian Ruehle, Alexander Gagliano, Jessie Micallef, Omar Alterkait, Ouail Kitouni, Marisa LaFleur
+* Past Community Building Committee: Matt Schwartz, Mike Williams, Mehmet Demirtas, Niklas Nolte
+* Primary Contact: [Email Tracy Slatyer (Chair)](mailto:tslatyer@mit.edu)
 
 # Early Career and Equity 
 * Status: Will rotate membership in January 2024
 * [View the ECEC expectations](https://docs.google.com/document/d/1wmjxpPnLZgVaDj4W_JUr7mtnSFZ9tlfv29GqlE2E1Rg/edit?usp=sharing)
 * Time Commitment: One-hour meeting per month and occasional email discussion
-* Current ECEC: Edo Berger (Chair), Tess Smidt, Carolina Cuesta-Lazaro, Jessie Micallef, Elyssa Hofgard, Zeviel Imani, Leo Yang, Marisa LaFleur
-* Past ECEC: Tracy Slatyer, Siddharth Mishra-Sharma, Mehmet Demirtas, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Sean Benevedes, Rashmish Mishra
-* Primary Contact: [Email Edo Berger (Chair)](mailto:eberger@cfa.harvard.edu) 
+* Current ECEC: Lisa Barsotti (Chair), Tess Smidt, Carolina Cuesta-Lazaro, Jessie Micallef, Elyssa Hofgard, Zeviel Imani, Leo Yang, Marisa LaFleur
+* Past ECEC: Edo Berger, Tracy Slatyer, Siddharth Mishra-Sharma, Mehmet Demirtas, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Sean Benevedes, Rashmish Mishra
+* Primary Contact: [Email Lisa Barsotti (Chair)](mailto:lisabar@mit.edu) 
 
 # Speaker Selection 
 * Status: Will rotate membership in Fall 2023
 * Identifies and invites speakers to the IAIFI Seminars and Colloquia and introduces speakers as needed
 * Time Commitment: One or two two-hour meetings every semester and attendance at talks
-* Current Speaker Selection Committee: Di Luo (Co-Chair), Siddharth Mishra-Sharma (Co-Chair), Dan Roberts, Ameya Shrikant Daigavane, Nayantara Mudur, Marisa LaFleur
-* Past Speaker Selection Committee: Demba Ba, Cora Dvorkin, Arkopal Dutt
-* Primary Contacts: [Email Siddharth Mishra-Sharma](mailto:smsharma@mit.edu) or [email Di Luo](mailto:diluo@mit.edu)
+* Current Speaker Selection Committee: Alexander Gagliano (Co-Chair), Gaia Grosso (Co-Chair), Dan Roberts, Ameya Shrikant Daigavane, Marisa LaFleur
+* Past Speaker Selection Committee: Di Luo, Siddharth Mishra-Sharma, Nayantara Mudur, Demba Ba, Cora Dvorkin, Arkopal Dutt
+* Primary Contacts: [Email Alexander Gagliano](mailto:gaglian2@mit.edu) or [email Gaia Grosso](mailto:gaiag795@mit.edu)
 
 # Summer School & Workshop
 * Status: Will rotate membership in Fall 2024
@@ -68,13 +68,13 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Time Commitment: One-hour meeting each month and time spent contributing to communications.
 * Current Communications Committee: Pulkit Agrawal (Chair), Tracy Slatyer, Cari Cesarotti, Richard Li, Marisa LaFleur
 * Past Communications Committee: Anna Golubeva
-Primary Contact: [Email Pulkit Agrawal (Chair)](mailto:pulkitag@mit.edu)
+* Primary Contact: [Email Pulkit Agrawal (Chair)](mailto:pulkitag@mit.edu)
 
 # Journal Club Organizers
 * Status: No additional organizers needed at this time, but [sign up here to lead a Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7)
 * Schedules and coordinates the IAIFI Journal Club and introduces Journal Club presenters
 * Time Commitment: One-hour meeting per semester, attendance at Journal Club every 1-2 weeks, and time spent inviting presenters
-* Current Journal Club Organizers: Alexander Gagliano, Sean Benevedes, Rikab Gambhir
-* Past Journal Club Organizers: John Martyn, Andrew Tan
-* Primary Contact: [Email Alexander Gagliano](mailto:gaglian2@mit.edu) or [Email Sean Benevedes](mailto:seanmb@mit.edu) or  [Email Rikab Gambhir](mailto:rikab@mit.edu)
+* Current Journal Club Organizers: Sean Benevedes, Rikab Gambhir
+* Past Journal Club Organizers: Alexander Gagliano, John Martyn, Andrew Tan
+* Primary Contact: [Email Sean Benevedes](mailto:seanmb@mit.edu) or  [Email Rikab Gambhir](mailto:rikab@mit.edu)
 
