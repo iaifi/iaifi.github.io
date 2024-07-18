@@ -68,7 +68,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Time Commitment: One-hour meeting each month and time spent contributing to communications.
 * Current Communications Committee: Pulkit Agrawal (Chair), Tracy Slatyer, Cari Cesarotti, Richard Li, Marisa LaFleur
 * Past Communications Committee: Anna Golubeva
-Primary Contact: [Email Pulkit Agrawal (Chair)](mailto:pulkitag@mit.edu)
+* Primary Contact: [Email Pulkit Agrawal (Chair)](mailto:pulkitag@mit.edu)
 
 # Journal Club Organizers
 * Status: No additional organizers needed at this time, but [sign up here to lead a Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7)
@@ -76,5 +76,5 @@ Primary Contact: [Email Pulkit Agrawal (Chair)](mailto:pulkitag@mit.edu)
 * Time Commitment: One-hour meeting per semester, attendance at Journal Club every 1-2 weeks, and time spent inviting presenters
 * Current Journal Club Organizers: Sean Benevedes, Rikab Gambhir
 * Past Journal Club Organizers: Alexander Gagliano, John Martyn, Andrew Tan
-* Primary Contact: [Email Alexander Gagliano](mailto:gaglian2@mit.edu) or [Email Sean Benevedes](mailto:seanmb@mit.edu) or  [Email Rikab Gambhir](mailto:rikab@mit.edu)
+* Primary Contact: [Email Sean Benevedes](mailto:seanmb@mit.edu) or  [Email Rikab Gambhir](mailto:rikab@mit.edu)
 
