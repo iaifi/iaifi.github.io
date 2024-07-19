@@ -249,7 +249,7 @@ Verena Kain, CERN
 
 **10:15–11:00 am ET**
 
-*Machine Learning for LHC Theory or Something Like That*
+*Machine Learning for LHC Theory*
 
 Tilman Plehn, Heidelberg
 
@@ -547,11 +547,6 @@ Lunch
 </details>
 
 **Contributed Talks Session B - Representation/Manifold Learning**
-<details>
-<summary>Data Compression and Inference in Cosmology with Self-Supervised Machine Learning, Aizhan Akhmetzhanova (Harvard University)</summary>
-<em>The influx of massive amounts of data from current and upcoming cosmological surveys necessitates compression schemes that can efficiently summarize the data with minimal loss of information. We introduce a method that leverages the paradigm of self-supervised machine learning in a novel manner to construct representative summaries of massive datasets using simulation-based augmentations. Deploying the method on hydrodynamical cosmological simulations, we show that it can deliver highly informative summaries, which can be used for a variety of downstream tasks, including precise and accurate parameter inference. We demonstrate how this paradigm can be used to construct summary representations that are insensitive to prescribed systematic effects, such as the influence of baryonic physics. Our results indicate that self-supervised machine learning techniques offer a promising new approach for compression of cosmological data as well its analysis.</em>
-</details>
-
 <details>
 <summary>Multi-modal generalized class discovery for scalable autonomous all-sky surveys, Laura Domine (Center for Astrophysics, Harvard University)</summary>
 <em>The Galileo Project is a systematic scientific research program focused on understanding the origins and nature of Unidentified Aerial Phenomena (UAP). To date there is very little data on UAP whose properties and kinematics purportedly reside outside the performance envelope of known phenomena. We are in the process of designing, building and commissioning a multi-modal, multi-spectral detector to continuously monitor the sky and collect UAP data through a rigorous aerial census of natural and human-made phenomena. This open-world setting is a major challenge for artificial intelligence (AI) techniques which need to both (i) accurately detect and classify objects from known classes and (ii) cluster unknown, out-of-distribution objects. Using a commissioning dataset, which includes several months of videos from an all-sky array of eight long wave-infrared cameras and audible recordings, I will discuss our work developing a multi-modal generalized class discovery method to automatically identify new classes of objects in unlabeled data in addition to known classes. It opens the door to an autonomous aerial census where categorization relies less on our prior expectations.</em>
