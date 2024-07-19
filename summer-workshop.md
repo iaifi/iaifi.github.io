@@ -249,7 +249,7 @@ Verena Kain, CERN
 
 **10:15–11:00 am ET**
 
-*Machine Learning for LHC Theory or Something Like That*
+*Machine Learning for LHC Theory*
 
 Tilman Plehn, Heidelberg
 
