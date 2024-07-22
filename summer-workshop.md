@@ -1019,7 +1019,9 @@ Speakers will be announced as they are confirmed.
 We have secured discounted rates at the following hotels:
 * <b>Royal Sonesta Boston</b>, 40 Edwin H Land Blvd, Cambridge, MA 02142. 
     
-    $224 nightly rate (1-2 people per room) - deadline to book: July 29
+    $224 nightly rate (1-2 people per room)
+    
+    Deadline to book: July 29
 
     [Book now](https://book.passkey.com/go/MITAugust2024)
 
