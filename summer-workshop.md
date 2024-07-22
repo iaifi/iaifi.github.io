@@ -249,9 +249,9 @@ Verena Kain, CERN
 
 **10:15–11:00 am ET**
 
-*Machine Learning for LHC Theory*
+*Details to come*
 
-Tilman Plehn, Heidelberg
+Patrick Kidger, Cradle.io
 
 <details>
 <summary>Abstract</summary>
@@ -423,9 +423,10 @@ Melanie Weber, Harvard University
 
 **2:15–3:00 pm ET**
 
-*Details to come*
 
-Patrick Kidger, Cradle.io
+*Machine Learning for LHC Theory*
+
+Tilman Plehn, Heidelberg
 
 <details>
 <summary>Abstract</summary>
@@ -1018,7 +1019,7 @@ Speakers will be announced as they are confirmed.
 We have secured discounted rates at the following hotels:
 * <b>Royal Sonesta Boston</b>, 40 Edwin H Land Blvd, Cambridge, MA 02142. 
     
-    $224 nightly rate (1-2 people per room) 
+    $224 nightly rate (1-2 people per room) - deadline to book: July 29
 
     [Book now](https://book.passkey.com/go/MITAugust2024)
 
