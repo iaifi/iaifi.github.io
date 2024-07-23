@@ -147,8 +147,8 @@ Reference: [1] Yuji Hirono, Akinori Tanaka, Kenji Fukushima, accepted in ICML202
 </details>
 
 <details>
-<summary>A fast diffusion density estimator, Akhil Premkumar (University of Chicago)</summary>
-<em>Diffusion models can be used as neural density estimators. The present approach to doing this involves casting the diffusion model as a normalizing flow, and solving the flow to compute the likelihood. This is slow calculation, and prone to noise. We present a highly parallelizable approach which computes the likelihoods at a fraction of the time. Our method also opens the possibility of using diffusion models as fast classifiers.</em>
+<summary>Neural Entropy, Akhil Premkumar (University of Chicago)</summary>
+<em>What is the smallest neural network that can do a particular task? To answer this question we need to understand the capacity of neural networks to encode and store information. In the context of generative diffusion models, we show that it is possible to identify the entropy of the network, which characterizes precisely its storage capacity.</em>
 </details>
 
 <details>
