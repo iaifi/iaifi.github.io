@@ -248,13 +248,13 @@ Verena Kain, CERN
 
 **10:15–11:00 am ET**
 
-*Details to come*
+*An introduction to neural ODEs in scientific machine learning*
 
 Patrick Kidger, Cradle.io
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come</em>
+<em>This is an introduction to neural ODEs for scientific applications. The goal is to (a) provide a modelling tool that enhances the expressivity of existing theory-driven approaches, (b) demonstrate that neural ODEs are easy to use via modern autodifferentiable software, and (c) give enough of the tips-and-tricks needed to make neural ODEs work in practice!</em>
 </details>
 
 **11:00-11:30 am ET**
