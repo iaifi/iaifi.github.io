@@ -188,6 +188,8 @@ Career Panel
 
 * Gilles Louppe, Professor, University of Liège
 
+* Anton Mazurenko, Researcher, PDT Partners
+
 * Cengiz Pehlevan, Assistant Professor of Applied Mathematics & Kempner Institute Associate Faculty, Harvard
 
 * Partha Saha, Distinguished Engineer, Data and AI Platform, Visa
