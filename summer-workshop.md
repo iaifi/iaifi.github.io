@@ -438,13 +438,13 @@ Break
 
 **3:30–4:15 pm ET**
 
-*Details to come*
+*Asteroseismic probes of far-ranging astrophysics with big data and machine learning*
 
 Earl Bellinger, Yale University
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come</em>
+<em>Space telescopes like the NASA Kepler and TESS missions as well as the forthcoming PLATO mission are driving a data revolution in stellar astrophysics. The ultra-precise observations provided by these missions are challenging our best models of how stars evolve, and are in turn granting insights into the formation and evolution of planetary systems and the Galaxy as a whole. They furthermore present novel opportunities to probe far-ranging physics, such as dark matter and theories of gravity beyond general relativity. In this talk, I will give an overview of the data, models, challenges, and opportunities in asteroseismology, and highlight the role that machine learning is playing in advancing our knowledge across astrophysics.</em>
 </details>
 
 **4:15-5:00 pm ET**
