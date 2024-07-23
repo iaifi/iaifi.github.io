@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: A
+title: "Multi-filter UV to NIR Data-driven Light Curve Templates for Stripped Envelope Supernovae"
+authors: Somayeh Khakpash, Federica B. Bianco, Maryam Modjaz, Willow F. Fortino, Alexander Gagliano, Conor Larison, Tyler A. Pritchard
+abstract: "While the spectroscopic classification scheme for Stripped envelope supernovae (SESNe) is clear, and we know that they originate from massive stars that lost some or all their envelopes of Hydrogen and Helium, the photometric evolution of classes within this family is not fully characterized. Photometric surveys, like the Vera C. Rubin Legacy Survey of Space and Time, will discover tens of thousands of transients each night and spectroscopic follow-up will be limited, prompting the need for photometric classification and inference based solely on photometry. We have generated 54 data-driven photometric templates for SESNe of subtypes IIb, Ib, Ic, Ic-bl, and Ibn in U/u, B, g, V, R/r, I/i, J, H, Ks, and Swift w2, m2, w1 bands using Gaussian Processes and a multi-survey dataset composed of all well-sampled open-access light curves (165 SESNe, 29531 data points) from the Open Supernova Catalog. We use our new templates to assess the photometric diversity of SESNe by comparing final per-band subtype templates with each other and with individual, unusual and prototypical SESNe. We find that SNe Ibns and Ic-bl exhibit a distinctly faster rise and decline compared to other subtypes. We also evaluate the behavior of SESNe in the PLAsTiCC and ELAsTiCC simulations of LSST light curves highlighting differences that can bias photometric classification models trained on the simulated light curves. Finally, we investigate in detail the behavior of fast-evolving SESNe (including SNe Ibn) and the implications of the frequently observed presence of two peaks in their light curves."
+arxiv: "2405.01672"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 
