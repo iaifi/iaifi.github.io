@@ -467,6 +467,8 @@ Carol Cuesta-Lazaro, IAIFI Fellow
 
 * Partha Saha, Distinguished Engineer, Data and AI Platform, Visa
 
+* Nima Dehmamy, Research Assistant Professor, IBM Research MIT-IBM Lab
+
 ### Thursday, August 15, 2024
 
 **9:30–10:15 am ET**
