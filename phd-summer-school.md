@@ -292,7 +292,7 @@ Closing
 ## Financial Supporters
 We extend a sincere thank you to the following financial supporters of this year's IAIFI Summer School:
 
-<img src="images/visa-logo.png" align="center" style="max-width:10355px;width:30%" hspace="10" vspace="10"> <img src="images/quera-logo.jpg" align="center" style="max-width:8080px;width:30%" hspace="10" vspace="10"> 
+[<img src="images/visa-logo.png" align="center" style="max-width:10355px;width:30%" hspace="10" vspace="10">](https://usa.visa.com/) [<img src="images/quera-logo.jpg" align="center" style="max-width:8080px;width:30%" hspace="10" vspace="10">](https://www.quera.com) [<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:30%" hspace="10" vspace="10">](https://pdtpartners.com)
 
 ## 2024 Organizing Committee 
 * Fabian Ruehle, Chair (Northeastern University)
