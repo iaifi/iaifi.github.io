@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Stochastic logic in biased coupled photonic probabilistic bits"
+authors: Michael Horodynski, Charles Roques-Carmes, Yannick Salamin, Seou Choi, Jamison Sloan, Di Luo, Marin Soljačić
+abstract: "Optical computing often employs tailor-made hardware to implement specific algorithms, trading generality for improved performance in key aspects like speed and power efficiency. An important computing approach that is still missing its corresponding optical hardware is probabilistic computing, used e.g. for solving difficult combinatorial optimization problems. In this study, we propose an experimentally viable photonic approach to solve arbitrary probabilistic computing problems. Our method relies on the insight that coherent Ising machines composed of coupled and biased optical parametric oscillators can emulate stochastic logic. We demonstrate the feasibility of our approach by using numerical simulations equivalent to the full density matrix formulation of coupled optical parametric oscillators."
+arxiv: "2406.04000"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 

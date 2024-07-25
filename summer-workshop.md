@@ -147,8 +147,8 @@ Reference: [1] Yuji Hirono, Akinori Tanaka, Kenji Fukushima, accepted in ICML202
 </details>
 
 <details>
-<summary>A fast diffusion density estimator, Akhil Premkumar (University of Chicago)</summary>
-<em>Diffusion models can be used as neural density estimators. The present approach to doing this involves casting the diffusion model as a normalizing flow, and solving the flow to compute the likelihood. This is slow calculation, and prone to noise. We present a highly parallelizable approach which computes the likelihoods at a fraction of the time. Our method also opens the possibility of using diffusion models as fast classifiers.</em>
+<summary>Neural Entropy, Akhil Premkumar (University of Chicago)</summary>
+<em>What is the smallest neural network that can do a particular task? To answer this question we need to understand the capacity of neural networks to encode and store information. In the context of generative diffusion models, we show that it is possible to identify the entropy of the network, which characterizes precisely its storage capacity.</em>
 </details>
 
 <details>
@@ -248,13 +248,13 @@ Verena Kain, CERN
 
 **10:15–11:00 am ET**
 
-*Details to come*
+*An introduction to neural ODEs in scientific machine learning*
 
 Patrick Kidger, Cradle.io
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come</em>
+<em>This is an introduction to neural ODEs for scientific applications. The goal is to (a) provide a modelling tool that enhances the expressivity of existing theory-driven approaches, (b) demonstrate that neural ODEs are easy to use via modern autodifferentiable software, and (c) give enough of the tips-and-tricks needed to make neural ODEs work in practice!</em>
 </details>
 
 **11:00-11:30 am ET**
@@ -438,13 +438,13 @@ Break
 
 **3:30–4:15 pm ET**
 
-*Details to come*
+*Asteroseismic probes of far-ranging astrophysics with big data and machine learning*
 
 Earl Bellinger, Yale University
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come</em>
+<em>Space telescopes like the NASA Kepler and TESS missions as well as the forthcoming PLATO mission are driving a data revolution in stellar astrophysics. The ultra-precise observations provided by these missions are challenging our best models of how stars evolve, and are in turn granting insights into the formation and evolution of planetary systems and the Galaxy as a whole. They furthermore present novel opportunities to probe far-ranging physics, such as dark matter and theories of gravity beyond general relativity. In this talk, I will give an overview of the data, models, challenges, and opportunities in asteroseismology, and highlight the role that machine learning is playing in advancing our knowledge across astrophysics.</em>
 </details>
 
 **4:15-5:00 pm ET**

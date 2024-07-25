@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "Simulating moiré quantum matter with neural network"
+authors: Di Luo, David D. Dai, Liang Fu
+abstract: "Moiré materials provide an ideal platform for exploring quantum phases of matter. However, solving the many-electron problem in moiré systems is challenging due to strong correlation effects. We introduce a powerful variational representation of quantum states, many-body neural Bloch wavefunction, to solve many-electron problems in moiré materials accurately and efficiently. Applying our method to the semiconductor heterobilayer WSe2/WS2 , we obtain a generalized Wigner crystal at filling factor n = 1/3, a Mott insulator n = 1, and a correlated insulator with local magnetic moments and antiferromagnetic spin correlation at n = 2. Our neural network approach improves the simulation accuracy of strongly interacting moiré materials and paves the way for discovery of new quantum phases with variational learning principle in a unified framework."
+arxiv: "2406.17645"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 
