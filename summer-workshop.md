@@ -463,6 +463,8 @@ Carol Cuesta-Lazaro, IAIFI Fellow
 
 * Bill Freeman, Professor of EECS, MIT
 
+* Marin Soljacic, Professor of Physics, MIT
+
 * Partha Saha, Distinguished Engineer, Data and AI Platform, Visa
 
 ### Thursday, August 15, 2024
