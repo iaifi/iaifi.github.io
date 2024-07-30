@@ -321,11 +321,6 @@ Lunch
 </details>
 
 <details>
-<summary>Expediting Astronomical Discovery with Large Language Models: Progress, Challenges, and Future Directions, Yuan-Sen Ting (Ohio State University)</summary>
-<em>The vast and interdisciplinary nature of astronomy, coupled with its open-access ethos, makes it an ideal testbed for exploring the potential of Large Language Models (LLMs) in automating and accelerating scientific discovery. In this talk, we present our recent progress in applying LLMs to tackle real-life astronomy problems. We demonstrate the ability of LLM agents to perform end-to-end research tasks, from data fitting and analysis to iterative strategy improvement and outlier detection, mimicking human intuition and deep literature understanding. However, the cost-effectiveness of closed-source solutions remains a challenge for large-scale applications involving billions of sources. To address this issue, we introduce our ongoing work at AstroMLab on training lightweight, open-source specialized models and our effort to benchmark these models with carefully curated astronomy benchmark datasets. We will also discuss our effort to construct the first LLM-based knowledge graph in astronomy, leveraging citation-reference relations. The open-source specialized LLMs and knowledge graph are expected to guide more efficient strategy searches in autonomous research pipelines. While many challenges lie ahead, we explore the immense potential of scaling up automated inference in astronomy, revolutionizing the way astronomical research is conducted, ultimately accelerating scientific breakthroughs and deepening our understanding of the Universe.</em>
-</details>
-
-<details>
 <summary>Marginalize, Don't Subtract:  Spectral Component Separation for Faint Objects in DESI, Ana Sofia Uzsoy (Harvard University)</summary>
 <em>Component separation is a critical step in disentangling multiple signals and in extracting useful information from spectra. In this talk, I present MADGICS (Marginalized Analytic Dataspace Gaussian Inference for Component Separation), a data-driven Bayesian component separation technique that can separate a spectrum into any number of Gaussian-distributed components. I then discuss the application of this technique for automatically determining redshifts for Lyman Alpha Emitter (LAE) galaxies observed with DESI while marginalizing over sky residuals to separate sky from target emission lines. We create a covariance matrix from visually inspected DESI LAE targets to provide physically motivated priors, and determine redshift by jointly inferring sky, LAE, and residual components for each individual spectrum. This component separation technique will allow us to create a high-quality catalog of LAE spectra and redshifts from DESI data and is also broadly generalizable to other spectral features of interest.</em>
 </details>
@@ -468,7 +463,11 @@ Carol Cuesta-Lazaro, IAIFI Fellow
 
 * Bill Freeman, Professor of EECS, MIT
 
+* Marin Soljacic, Professor of Physics, MIT
+
 * Partha Saha, Distinguished Engineer, Data and AI Platform, Visa
+
+* Nima Dehmamy, Research Assistant Professor, IBM Research MIT-IBM Lab
 
 ### Thursday, August 15, 2024
 

@@ -60,10 +60,10 @@ Lecturer: [Gilles Louppe](https://glouppe.github.io), Professor, University of L
 
 ## Tutorial Leads
 
-<img class="image" src="images/small-photo-thomas-harvey.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
+<img class="image" src="images/small-photo-sokratis-trifinopoulos.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
 ### Topic: Representation/Manifold Learning
 
-Tutorial Lead: [Thomas Harvey](https://inspirehep.net/authors/1851078?ui-citation-summary=true), Incoming IAIFI Fellow
+Tutorial Lead: [Sokratis Trifinopoulos](https://physics.mit.edu/faculty/sokratis-trifinopoulos/) (with [Thomas Harvey](https://inspirehep.net/authors/1851078?ui-citation-summary=true), Incoming IAIFI Fellow)
 
 <img class="image" src="images/small-photo-jessie-micallef.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
 ### Topic: Uncertainty Quantification/Simulation-Based Inference
@@ -83,7 +83,7 @@ Tutorial Lead: [Gaia Grosso](https://iaifi.org/current-fellows.html#gaia-grosso)
 ## Agenda
 This agenda is subject to change. 
 
-<img src="images/summer-school-2024_schedule.png" align="left" style="max-width:2602px;width:100%" hspace="10" vspace="10"> 
+<img src="images/2024-summer-school-schedule.png" align="left" style="max-width:2602px;width:100%" hspace="10" vspace="10"> 
 
 ### Monday, August 5, 2024
 
@@ -110,11 +110,11 @@ Tutorial 1: Deep generative models: A latent variable model perspective, Gaia Gr
 
 **3:30–4:30 pm ET**
 
-Large-scale quantum reservoir learning with QuEra, Pedro Lopes and Milan Kornjača
+Introduction to Quantum Reservoir Learning with QuEra, Pedro Lopes and Milan Kornjača
 
 <details>
 <summary>Abstract</summary>
-<em>Quantum machine learning has gained considerable attention as quantum technology advances, presenting a promising approach for efficiently learning complex data patterns. Despite this promise, most contemporary quantum methods require significant resources for variational parameter optimization and face issues with vanishing gradients, leading to experiments that are either limited in scale or lack potential for quantum advantage. To address this, we develop a general-purpose, gradient-free, and scalable quantum reservoir learning algorithm that harnesses the quantum dynamics of QuEra's Aquila to process data. Quantum reservoir learning on Aquila, achieves competitive performance across various categories of machine learning tasks, including binary and multi-class classification, as well as time series prediction. The QuEra team performed successful quantum machine leaning demonstration on up to 108 qubits, demonstrating the largest quantum machine learning experiment to date. We also observe comparative quantum kernel advantage in learning tasks by constructing synthetic datasets based on the geometric differences between generated quantum and classical data kernels. In this workshop we will cover the general methods utilized to run quantum reservoir computing in QuEra's neutral-atom analog hardware, providing an introduction for users to pursue new research directions.</em>
+<em>Quantum machine learning has gained considerable attention as quantum technology advances, presenting a promising approach for efficiently learning complex data patterns. Despite this promise, most contemporary quantum methods require significant resources for variational parameter optimization and face issues with vanishing gradients, leading to experiments that are either limited in scale or lack potential for quantum advantage. To address this, we develop a general-purpose, gradient-free, and scalable quantum reservoir learning algorithm that harnesses the quantum dynamics of QuEra's Aquila to process data. Quantum reservoir learning on Aquila, achieves competitive performance across various categories of machine learning tasks, including binary and multi-class classification, as well as time series prediction. The QuEra team performed successful quantum machine leaning demonstration on up to 108 qubits, demonstrating the largest quantum machine learning experiment to date. We also observe comparative quantum kernel advantage in learning tasks by constructing synthetic datasets based on the geometric differences between generated quantum and classical data kernels. In this presentation we will cover the general methods utilized to run quantum reservoir computing in QuEra's neutral-atom analog hardware, providing an introduction for users to pursue new research directions.</em>
 </details>
 
 **5:00–7:00 pm ET**
@@ -134,7 +134,7 @@ Lecture 2: Geometric Machine Learning, Melanie Weber
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>A recent surge of interest in exploiting geometric structure in data and models in machine learning has motivated the design of a range of geometric algorithms and architectures. This lecture will give an overview of this emerging research area and its mathematical foundation. We will cover topics at the intersection of Geometry and Machine Learning, including relevant tools from differential geometry and group theory, geometric representation learning, graph machine learning, and geometric deep learning.</em>
 </details> 
 
 **12:00–1:00 pm ET**
@@ -143,7 +143,7 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 2: Geometric Machine Learning, Thomas Harvey
+Tutorial 2: Geometric Machine Learning, Sokratis Trifinopoulos
 
 **3:30–4:30 pm ET**
 
