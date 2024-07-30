@@ -60,10 +60,10 @@ Lecturer: [Gilles Louppe](https://glouppe.github.io), Professor, University of L
 
 ## Tutorial Leads
 
-<img class="image" src="images/small-photo-thomas-harvey.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
+<img class="image" src="images/small-photo-sokratis-trifinopoulos.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
 ### Topic: Representation/Manifold Learning
 
-Tutorial Lead: [Thomas Harvey](https://inspirehep.net/authors/1851078?ui-citation-summary=true), Incoming IAIFI Fellow
+Tutorial Lead: [Sokratis Trifinopoulos](https://physics.mit.edu/faculty/sokratis-trifinopoulos/) (with [Thomas Harvey](https://inspirehep.net/authors/1851078?ui-citation-summary=true), Incoming IAIFI Fellow)
 
 <img class="image" src="images/small-photo-jessie-micallef.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
 ### Topic: Uncertainty Quantification/Simulation-Based Inference
@@ -134,7 +134,7 @@ Lecture 2: Geometric Machine Learning, Melanie Weber
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>A recent surge of interest in exploiting geometric structure in data and models in machine learning has motivated the design of a range of geometric algorithms and architectures. This lecture will give an overview of this emerging research area and its mathematical foundation. We will cover topics at the intersection of Geometry and Machine Learning, including relevant tools from differential geometry and group theory, geometric representation learning, graph machine learning, and geometric deep learning.</em>
 </details> 
 
 **12:00–1:00 pm ET**
@@ -143,7 +143,7 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 2: Geometric Machine Learning, Thomas Harvey
+Tutorial 2: Geometric Machine Learning, Sokratis Trifinopoulos
 
 **3:30–4:30 pm ET**
 
