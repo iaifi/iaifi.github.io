@@ -83,7 +83,7 @@ Tutorial Lead: [Gaia Grosso](https://iaifi.org/current-fellows.html#gaia-grosso)
 ## Agenda
 This agenda is subject to change. 
 
-<img src="images/summer-school-2024_schedule.png" align="left" style="max-width:2602px;width:100%" hspace="10" vspace="10"> 
+<img src="images/2024-summer-school-schedule.png" align="left" style="max-width:2602px;width:100%" hspace="10" vspace="10"> 
 
 ### Monday, August 5, 2024
 
