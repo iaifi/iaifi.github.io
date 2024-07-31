@@ -97,7 +97,7 @@ Lecture 1: Deep generative models: A latent variable model perspective, Gilles L
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Deep generative models are probabilistic models that can be used as simulators of the data. They are used to generate samples, perform inference, or encode complex priors. In this lecture, we will review the principles of deep generative models from the unified perspective of latent variable models, covering variational auto-encoders, diffusion models, latent diffusion models, and normalizing flows. We will discuss the principles of variational inference, the training of generative models, and the interpretation of the latent space. Selected applications from scientific domains will also be presented.</em>
 </details>
 
 **12:00–1:00 pm ET**
@@ -165,7 +165,7 @@ Lecture 3: Scaling and renormalization in high-dimensional regression, Cengiz Pe
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>From benign overfitting in overparameterized models to rich power-law scalings in performance, simple ridge regression displays surprising behaviors sometimes thought to be limited to deep neural networks. This balance of phenomenological richness with analytical tractability makes ridge regression the model system of choice in high-dimensional machine learning. In this set of lectures, I will present a unifying perspective on recent results on ridge regression using the basic tools of random matrix theory and free probability, aimed at researchers with backgrounds in physics and deep learning. I will highlight the fact that statistical fluctuations in empirical covariance matrices can be absorbed into a renormalization of the ridge parameter. This “deterministic equivalence” allows us to obtain analytic formulas for the training and generalization errors in a few lines of algebra by leveraging the properties of the S-transform of free probability. From these precise asymptotics, we can easily identify sources of power-law scaling in model performance. In all models, the S-transform corresponds to the train-test generalization gap, and yields an analogue of the generalized-cross-validation estimator.</em>
 </details>
 
 **12:00–1:00 pm ET**
@@ -199,18 +199,9 @@ Career Panel
 
 ### Thursday, August 8, 2024
 
-**4:30–5:00 pm ET**
+**4:30–5:30 pm ET**
 
-Group work for hackathon
-
-**5:00–7:00 pm ET**
-
-Industry Seminar and Reception hosted by PDT Partners
-
-<details>
-<summary>Details</summary>
-<em>Details to come.</em>
-</details>
+Networking Reception sponsored by PDT Partners
 
 **9:00–9:30 am ET**
 
@@ -218,11 +209,11 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 4: Uncertainty Quantification, Carol Cuesta-Lazaro
+Lecture 4: Simulation-Based Inference for Modern Scientific Discovery, Carol Cuesta-Lazaro
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>In this lecture, we will explore the foundations and applications of simulation-based inference (SBI) methods, demonstrating their efficiency in solving inverse problems across scientific disciplines. We'll introduce key approaches to SBI, including Neural Likelihood Estimation (NLE), Neural Posterior Estimation (NPE), and Neural Ratio Estimation (NRE), while highlighting their connections to data compression, density estimation, and generative models. Throughout the lecture, we'll address practical considerations such as computational efficiency and scalability to high-dimensional problems. We'll also examine recent advancements in the field, such as sequential methods and differentiable calibration, empowering attendees with the knowledge to adapt and customize these algorithms to their specific research challenges and constraints. </em>
 </details> 
 
 **12:00–1:00 pm ET**
@@ -290,9 +281,13 @@ Closing
 
 
 ## Financial Supporters
+The Summer School is funded primarily by support from the National Science Foundation under Cooperative Agreement PHY-2019786. Computing resources are provided by the NSF ACCESS program.
+
 We extend a sincere thank you to the following financial supporters of this year's IAIFI Summer School:
 
 [<img src="images/visa-logo.png" align="center" style="max-width:10355px;width:30%" hspace="10" vspace="10">](https://usa.visa.com/) [<img src="images/quera-logo.jpg" align="center" style="max-width:8080px;width:30%" hspace="10" vspace="10">](https://www.quera.com) [<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:30%" hspace="10" vspace="10">](https://pdtpartners.com)
+
+We are also grateful to [Foundry](https://www.mlfoundry.com) for providing compute as a prize for the hackathon.
 
 ## 2024 Organizing Committee 
 * Fabian Ruehle, Chair (Northeastern University)
