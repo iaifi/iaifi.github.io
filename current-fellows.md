@@ -5,6 +5,9 @@ aside:
   toc: true
 ---
 
+***Applications are now open for the 2025–2028 IAIFI Fellowship search.*** [Apply to be an IAIFI Fellow](https://iaifi.org/fellows) by October 9, 2024. 
+{:.success}
+
 ## 2024-2027 IAIFI Fellows
 
 ### [Michael Albergo](mailto:michaelsalbergo@gmail.com)

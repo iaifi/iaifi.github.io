@@ -85,7 +85,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI Jobs
 
-***Applications are now closed for the 2024–2027 IAIFI Fellowship search.*** Visit our [Job Board](https://iaifi.org/job-board.html) for job opportunities available outside IAIFI. 
+***Applications are now open for the 2025–2028 IAIFI Fellowship search.*** [Apply to be an IAIFI Fellow](https://iaifi.org/fellows) by October 9, 2024. 
 {:.success}
 
 
