@@ -45,6 +45,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Current ECEC: Lisa Barsotti (Chair), Tess Smidt, Carolina Cuesta-Lazaro, Jessie Micallef, Elyssa Hofgard, Zeviel Imani, Leo Yang, Marisa LaFleur
 * Past ECEC: Edo Berger, Tracy Slatyer, Siddharth Mishra-Sharma, Mehmet Demirtas, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Sean Benevedes, Rashmish Mishra
 * Primary Contact: [Email Lisa Barsotti (Chair)](mailto:lisabar@mit.edu) 
+* [Learn more about this committee](/ecec.html)
 
 # Speaker Selection 
 * Status: Will rotate membership in Fall 2023
