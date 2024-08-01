@@ -6,6 +6,6 @@ abstract: 'The automatic classification of X-ray detections is a necessary step 
 arxiv: "2401.12203"
 journal: Monthly Notices of the Royal Astronomical Society 2024, Volume 528, Issue 3
 doi: https://doi.org/10.1093/mnras/stae260
-nsf-par:
+nsf-par: "10525812"
 code: 
 publication-date: 2024-01-24
