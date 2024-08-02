@@ -194,7 +194,6 @@ Poster Session
 <li>Data-Driven Discovery of X-ray Transients with Machine Learning, Steven Dillmann (University of Cambridge)</li>
 <li>Sampling Transition Dynamics with Machine Learning Approaches, Yuanqi Du (Cornell University)</li>
 <li>Multi-Modal Generalized Class Discovery for Scalable Autonomous All-Sky Surveys, Sriram Elango (Harvard University)</li>
-<li>Optimizing Self-Assembly Yields of Chain-like Structures: A Computational Approach using Implicit Differentiation, Livia Guttieres (Harvard University)</li>
 <li>Inverse Design of Complex Fluids with Fully-Differentiable Lagrangian Particle Dynamics, Kaylie Hausknecht (Harvard University and MIT)</li>
 <li>Perfect Jet Classification Through Equivariant Regression, Timothy Hoffman (University of Chicago)</li>
 <li>Flow-Based Generative Emulation of Grids of Stellar Evolutionary Models, Marc Hon (MIT Kavli Institute for Astrophysics and Space Research)</li>
