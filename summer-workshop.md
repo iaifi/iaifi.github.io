@@ -493,13 +493,13 @@ Break
 
 **11:30 am–12:00 pm ET**
 
-*Neural ansatze for physical systems*
+*Neural ansatze for physics and physics of neural networks*
 
 Nima Dehmamy, IBM Research MIT-IBM Lab 
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come</em>
+<em>I will discuss some of our recent works on using ML to solve physics problems and using physics to understand ML. For the former, I will talk about using a "neural ansatz" for physics simulations and our work on gauge equivariant networks. For the latter, I will discuss our work on parameter space symmetries and conservation laws, as well as some work in progress on transformers. </em>
 </details>
 
 **12:15–1:30 pm ET**
