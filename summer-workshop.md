@@ -152,11 +152,6 @@ Reference: [1] Yuji Hirono, Akinori Tanaka, Kenji Fukushima, accepted in ICML202
 </details>
 
 <details>
-<summary>GANSky: fast full sky weak lensing simulations using physics-informed GANs, Supranta Sarma Boruah (University of Pennsylvania)</summary>
-<em>Producing accurate weak lensing simulations for future cosmological surveys will be a severe computational bottleneck. We present a method that uses generative adversarial networks (GANs) to produce accurate weak lensing simulations from fast lognormal simulations. This enables us to produce full-sky weak lensing simulations in seconds. Our method: 1. Is physics-informed and explainable, where large-scales are described by an analytic lognormal model and the GAN only learns local redistribution of matter in these approximate maps. 2. Works on full-sky, as required for future wide-field surveys, 3. Requires fewer simulations to train, 4. Accurately reproduces non-Gaussianities of the weak lensing convergence field. This breakthrough enables fast simulation-based or field-based inference with weak lensing data.</em>
-</details>
-
-<details>
 <summary>Predicting Missing Regions in Charged Particle Tracks Using a Sparse 3D Convolutional Neural Network, Hilary Utaegbulam (University of Rochester)</summary>
 <em>The 2x2 Demonstrator is a prototype of ND-LAr, the liquid argon time-projection chamber of the Deep Underground Neutrino Experiment’s Near Detector complex. Both the 2x2 Demonstrator and ND-LAr are modular detectors that will have pixelated charge readouts and inactive regions wherein there is no sensitivity to charge deposition and light signals that arise from charged particle interactions with liquid argon. In the 2x2, these inactive regions are located in between the active detector modules, which introduces the challenge of inferring what charge signals ought to look like in these regions. This study explores the use of a Sparse 3D Convolutional Neural Network (ConvNet) to infer missing regions in charged particle tracks. Hits corresponding to energy depositions are voxelized into a three-dimensional grid for each track. Voxels that fall into predefined inactive regions are removed to simulate the lack of detector output. The model is trained to infer the topology of the missing track voxels, with the ultimate goal of inferring the missing charge or energy values in these voxels as well. Results indicate that this approach shows promise in prediction of missing track regions with some accuracy.</em>
 </details>
@@ -199,7 +194,6 @@ Poster Session
 <li>Data-Driven Discovery of X-ray Transients with Machine Learning, Steven Dillmann (University of Cambridge)</li>
 <li>Sampling Transition Dynamics with Machine Learning Approaches, Yuanqi Du (Cornell University)</li>
 <li>Multi-Modal Generalized Class Discovery for Scalable Autonomous All-Sky Surveys, Sriram Elango (Harvard University)</li>
-<li>Optimizing Self-Assembly Yields of Chain-like Structures: A Computational Approach using Implicit Differentiation, Livia Guttieres (Harvard University)</li>
 <li>Inverse Design of Complex Fluids with Fully-Differentiable Lagrangian Particle Dynamics, Kaylie Hausknecht (Harvard University and MIT)</li>
 <li>Perfect Jet Classification Through Equivariant Regression, Timothy Hoffman (University of Chicago)</li>
 <li>Flow-Based Generative Emulation of Grids of Stellar Evolutionary Models, Marc Hon (MIT Kavli Institute for Astrophysics and Space Research)</li>
@@ -499,13 +493,13 @@ Break
 
 **11:30 am–12:00 pm ET**
 
-*Neural ansatze for physical systems*
+*Neural ansatze for physics and physics of neural networks*
 
 Nima Dehmamy, IBM Research MIT-IBM Lab 
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come</em>
+<em>I will discuss some of our recent works on using ML to solve physics problems and using physics to understand ML. For the former, I will talk about using a "neural ansatz" for physics simulations and our work on gauge equivariant networks. For the latter, I will discuss our work on parameter space symmetries and conservation laws, as well as some work in progress on transformers. </em>
 </details>
 
 **12:15–1:30 pm ET**

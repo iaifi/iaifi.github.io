@@ -16,7 +16,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 
 # Industry Partnership
 * Status: Accepting additional members
-* Establishes and fosters connections with industry partners for mutual benefit through internships, workforce development and recruitment, resource sharing, collaboration, and funding; as well as provides resources and guidance to IAIFI members for career development and exploration.
+* Establishes and fosters connections with industry partners for mutual benefit through internships, workforce development and recruitment, resource sharing, collaboration, and funding; as well as provides resources and guidance to IAIFI members for career development and exploration. Learn more about [Career Support](/career-support.html)
 * Time Commitment: Expected one-hour meeting per month and time spent developing materials (on volunteer basis)
 * See the current [Job Opportunities](/job-board.html) and [Funding Opportunities](/funding-opportunities.html)
 * Current Industry Partnership Committee: Marin Soljacic (Chair), Mike Williams, Denis Boyda, Carolina Cuesta-Lazaro, Ge Yang, Nayantara Mudur, Sangeon Park, Emmanouil Theodosis, Marisa LaFleur
