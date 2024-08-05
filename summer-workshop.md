@@ -257,7 +257,7 @@ Break
 
 **11:30 am–12:00 pm ET**
 
-*Details to come*
+*Automatic Symmetry Discovery from Data*
 
 Rose Yu, UCSD
 
