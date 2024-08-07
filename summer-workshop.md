@@ -320,8 +320,8 @@ Lunch
 </details>
 
 <details>
-<summary>Hessian Methods for Periodic Orbits, Leo Yao (MIT)</summary>
-<em>We discuss Hessian-based methods for analyzing periodic orbits in chaotic systems. Using a loss parametrization on the variational method of finding orbits, we use Hessian eigendecompositions to obtain solutions in the vicinity of unstable fixed points, to propagate along continuous families of periodic solutions, and to determine bifurcation points in the periodic orbit spectrum. We demonstrate applications to the PCR3BP and the double pendulum, including full collections of orbits between pairs of fixed points.</em>
+<summary>A Variational Continuation Method for Periodic Orbits Using Autograd and Hessian Eigendecompositions, Leo Yao (MIT)</summary>
+<em>We present a Hessian-based approach to numerically continue periodic orbits. Our method offers precise initializations of oscillations around unstable fixed points, an integrator-free variational continuation method, and efficient detection of orbit family intersections and subharmonic bifurcations. Leveraging autograd for computations, we present full continuations of periodic double pendulum oscillations from fixed points and examples of detected bifurcations along these orbit families.</em>
 </details>
 
 <details>
