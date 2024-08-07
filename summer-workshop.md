@@ -217,7 +217,7 @@ Poster Session
 <li>Learning Group Invariant CY Metrics by Fundamental Domain Projections, Moritz Walden (Uppsala University)</li>
 <li>Accelerating Energy Computation in Many-electron Systems with Forward Laplacian, Chuwei Wang (Caltech)</li>
 <li>Emulating the Effects of Pile-Up on X-ray Spectra, Justina Yang (Harvard University)</li>
-<li>Hessian Methods for Periodic Orbits, Leo Yao (MIT)</li>
+<li>A Variational Continuation Method for Periodic Orbits Using Autograd and Hessian Eigendecompositions, Leo Yao (MIT)</li>
 <li>HyperTagging: Reconstruction of Full Decays using Transformers and Hyperbolic Embedding, Boyang Yu (LMU Munich, Germany)</li>
 <li>Neural scaling laws from large-N field theory, Zhengkang Zhang (University of Utah)</li>
 <li>Revealing the 3D Cosmic Web with Physics Constrained Neural Fields, Brandon Zhao (Caltech)</li> </ul>
