@@ -346,7 +346,7 @@ Ziming Liu, MIT/IAIFI
 
 **4:15-5:00 pm ET**
 
-*Details to come*
+*A Pathway to Robotic Intelligence*
 
 Pulkit Agrawal, MIT/IAIFI
 
@@ -451,8 +451,6 @@ Carol Cuesta-Lazaro, IAIFI Fellow
 
 *Panel on Industry–Academia Collaboration*
 
-(Additional panelists to be announced)
-
 * Moderator: Carol Cuesta-Lazaro, IAIFI Fellow
 
 * Bill Freeman, Professor of EECS, MIT
@@ -551,6 +549,12 @@ Lunch
 </details>
 
 <details>
+<summary>Hybrid Physics-AI for efficient bias-aware state estimation, Stiven Briand God Massala Moussounsa (Nanyang Technological University)</summary>
+<em>We consider the problem of optimal recovery of an element $u$ of a Hilbert space \mathcal{H} from noisy measurements $\ell_i(u)$. Specifically, $u$ is solution of a biased parametric partial differential equation \(\mathcal{P}( u, \mu) \) and measurements $\ell_i(u)$ are linear functionals on \mathcal{H}. We propose a bias-aware Hybrid-AI approach to solve the optimal recovery by combining the Parameterized Background Data-Weak(PBDW) with the deep neural operator (Deeponet) \cite{lulu}. PBDW combines the model \(\mathcal{P}\) and the measurement in a weak form and estimate the state and the model's bias as a  combination of anticipated(Knowledge) and unanticipated(Ignorance) uncertainty. The anticipated uncertainty belongs to a background space $\mathcal{Z}_N$ built from a reduced model of a best-knowledge manifold \(\mathcal{M}^{\mathrm{bk}} =\{u(\mu), \for \mu \in \mathcal{D} \}\), while the unanticipated uncertainty modeled by a Deeponet belongs to $\mathcal{Z}_{N}^{\perp}$. By integrating Deeponet in the PBDW sate estimate, Deeponet lies inside the kernel of the anticipated physics thus strictly accommodates the deficient physics by locally learning the model bias. The local information comes from an optimal sensor selection strategy. To showcase its potential for solving complex physical systems, we apply this method on a 2D Helmoltz equation defined on the physical domain $\Omega$ with various model's bias from the source, boundary conditions or both.
+</em>
+</details>
+
+<details>
 <summary>Multi-modal Contrastive Learning for Robust Text  Representation Classification, Mitra Tajrobehkar (Vertical Oceans)</summary>
 <em>Contrastive representation learning has emerged as a powerful technique in both Computer Vision (CV) and Natural Language Processing (NLP) domains, enabling the acquisition of practical and meaningful representations from text data. This talk will explore the captivating realm of contrastive representation learning in NLP, investigating its underlying principles and applications in tasks such as question answering. We will delve into the remarkable success of contrastive learning in enhancing language understanding, transfer learning, and domain adaptation in NLP tasks. Additionally, we will address the challenges associated with training language models, including limitations arising from data scarcity and bias. Join us to discover the potential of contrastive representation learning in advancing the capabilities of pre-trained language models.</em>
 </details>
@@ -559,14 +563,6 @@ Lunch
 <summary>Parameter Symmetry and Formation of Latent Representations, Liu Ziyin (MIT, NTT Research)</summary>
 <em>Symmetries exist abundantly in the loss function of neural networks. We characterize the learning dynamics of stochastic gradient descent (SGD) when exponential symmetries, a broad subclass of continuous symmetries, exist in the loss function. We establish that when gradient noises do not balance, SGD has the tendency to move the model parameters toward a point where noises from different directions are balanced. Here, a special type of fixed point in the constant directions of the loss function emerges as a candidate for solutions for SGD. As the main theoretical result, we prove that every parameter connects without loss function barrier to a unique noise-balanced fixed point. Lastly, we discuss how the theory can be leveraged to understand common phenomena in deep learning, such as progressive sharpening and flattening and the formation of latent representations.</em>
 </details>
-
-**Privacy in Machine Learning**
-<details>
-<summary>Privacy Enhancing Technologies and Machine Learning. - a Match Made in Heaven, Anderson Nascimento (Visa)</summary>
-<em>Data is the driving force behind the ongoing AI revolution. Sharing this data across various organizations and individuals has immense potential to transform diverse fields, from automating money laundering detection to collecting health data for drug development. However, privacy concerns and regulatory restrictions often make this level of data sharing impossible. Privacy-enhancing technologies like secure multiparty computation, fully homomorphic encryption, differential privacy, and federated learning, present a solution to this issue. They allow us to enjoy the advantages of data collaboration without compromising the privacy of those providing the data. They are also costly, affecting the runtime, accuracy, and fairness of the final result. This talk will introduce several of these privacy-enhancing technologies, focusing primarily on secure multiparty computation and differential privacy. We will demonstrate how these technologies can be integrated to achieve privacy-preserving machine learning, explain their limitations, and discuss how these research findings are being applied in real-world scenarios. We will also present current open research problems in this field. This talk is designed for a general audience. No prior experience with secure multiparty computation and differential privacy is necessary. 
-Bio: Dr. Anderson C. A. Nascimento is an information theory and privacy expert with two decades of postdoctoral experience. His career milestones include being a Senior Director and Head of Security Research at Visa, an endowed professor and Computer Science chair at the University of Washington (Tacoma Campus), a permanent member of the Cryptography Lab at Nippon Telegraph and Telecom, a research scientist at Meta, and a professor with the University of Brasilia, Brazil. Anderson is a University of Tokyo Ph.D. graduate (2004), and he specializes in cryptography and privacy-preserving machine learning, developing novel techniques for various domains. He has won international research competitions, including the iDash competition for privacy-preserving genomic data, and he took second place in the PETS prize organized by the US and UK governments. He has 100+ publications, edited four books, supervised 26 theses and dissertations, and served as a panelist or reviewer for the National Science Foundation, The National Council of Research and Development of Brazil, and the European Science Foundation. He has also presented expert testimony to the Brazilian Supreme Court on privacy issues. His Erdos number is 3.</em>
-</details>
-
 
 **3:00–3:30 pm ET**
 
@@ -638,7 +634,7 @@ David Kaiser, MIT
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come</em>
+<em>Generative AI techniques offer many exciting opportunities for researchers across the natural sciences and beyond. Like any new technologies, however, these tools can also lead to unanticipated problems. Therefore it is imperative to identify — and work to avoid or ameliorate — potential harms. Doing so requires coordination among the research community as well as with individuals and groups who are not themselves scientists. Recent history provides several examples of how once-new technologies have been managed by wide-ranging constituencies to advance the greater good. This talk will conclude by describing guidance for protecting scientific integrity in an age of generative AI, which was recently developed by a working group of the US National Academy of Sciences.</em>
 </details>
 
 **12:15–1:30 pm ET**
@@ -647,24 +643,26 @@ Lunch
 
 **1:30–2:15 pm ET**
 
-*Details to come*
+*Compiling Learning onto Physical Systems*
 
 Dirk Englund, MIT
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come</em>
+<em>The hardware limitations of conventional electronics in deep learning applications have spurred exploration into physical architectures fundamentally different from today’s computers. This talk covers the scalability and performance metrics—such as throughput, energy consumption, and latency—of emerging optical and opto-electronic architectures, with a focus on recently developed hardware error correction techniques, in-situ training methods and initial field trials, as well as methods leveraging quantum information science to perform learning and inference in ways not currently possible. 
+</em>
 </details>
 
 **2:15–3:00 pm ET**
 
-*Details to come*
+*ML-based modeling and control to enable new capabilities in beam customization and control at particle accelerator scientific user facilities*
 
 Auralee Edelen, SLAC
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come</em>
+<em>Particle accelerators are incredibly complicated machines that are used for numerous applications in science, industry, and medicine. At scientific user facilities driven by particle accelerators, it is often the case that custom particle beams must be generated on demand. Simultaneously, increasingly tight tolerances and difficult-to-achieve beam characteristics are needed to meet the needs of future applications of accelerators and unlock new experimental capabilities. This is a highly complicated, nonlinear control problem that involves precise shaping of the beam in 6D position-momentum phase space. In this talk I will discuss how ML based modeling and control is beginning to transform how beam control is conducted at accelerator facilities that require highly flexible beam customization. This includes the development of digital twins for accelerator systems, improving accelerator system models using differentiable simulations and other hybrid ML and physics approaches, physics-informed Bayesian optimization, reinforcement learning, and ML enhanced beam diagnostics. The talk will focus on examples from LCLS, LCLS-II, FACET-II, and MeV-UED at SLAC, and the APS and AWA at Argonne National Lab, all major scientific user facilities.
+</em>
 </details>
 
 **3:00–3:30 pm ET**
@@ -672,7 +670,7 @@ Auralee Edelen, SLAC
 Closing
 
 ## Speakers
-Speakers will be announced as they are confirmed. 
+ 
 <div class="card-columns">
   <!--<div class="row">-->
     
