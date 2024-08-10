@@ -18,7 +18,7 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 [Register for the Summer Workshop](https://buy.stripe.com/8wMdSy0Nh5iv9OMbIU){:.button.button--outline-primary.button--pill.button--lg}  
 
 * **The 2024 Summer Workshop will be held August 12–16, 2024**
-* **Location: MIT Media Lab**
+* **Location: Bartos Theater, MIT List Visual Arts Center, Lower Level (20 Ames Street, Cambridge)**
 * **Registration deadline: July 31, 2024** 
 
 Here's what attendees at previous IAIFI Summer Workshops had to say about the experience: 
@@ -97,6 +97,8 @@ Lunch
 
 **Contributed Talks Session A - Representation/Manifold Learning**
 
+Bartos Theater
+
 <details>
 <summary>Symmetries and neural tangent kernels: using physical principles to understand deep learning, Jan Gerken (Chalmers University of Technology)</summary>
 <em>Despite its extraordinary success in applications, a thorough theoretical understanding of deep learning is still lacking, making progress depend largely on costly trial-and-error procedures. At the same time, theoretical physics has a long history of developing deep mathematical understanding of complex systems. In this talk, I will present some recent work on how techniques from theoretical physics can be used to deepen our understanding of deep learning and lead to practically relevant insights. In particular, symmetries, which are an established cornerstone of theoretical physics, have reached widespread popularity as a guiding principle in deep learning as well. In machine learning, symmetries feature most importantly in the form of data augmentation and equivariant neural networks. At the same time, neural tangent kernels, which are closely related to statistical field theory, have emerged as a powerful tool to understand neural networks both at initialization and during training. Combining these paradigms leads to practically relevant statements in deep learning. Furthermore, it opens the door towards further deepening the connecting between theoretical physics and our understanding of neural networks.</em>
@@ -129,6 +131,9 @@ Lunch
 </details>
 
 **Contributed Talks Session B - Generative Models**
+
+MIT Media Lab, Room 633
+
 <details>
 <summary>Machine learning phase transitions: A probabilistic perspective, Julian Arnold (University of Basel)</summary>
 <em>The identification of phase transitions and the classification of different phases of matter from data are among the most popular applications of machine learning in physics. Neural network (NN)-based approaches have proven to be particularly powerful due to the ability of NNs to learn arbitrary functions. Many such approaches work by computing indicators of phase transitions from the output of NNs trained to solve specific classification problems. In this talk, I will derive the optimal solutions to these classification problems given by Bayes classifiers that take into account the probability distributions underlying the physical system under consideration [1]. This probabilistic viewpoint allows us to gain a deeper understanding of previous NN-based studies, highlighting the strengths and weaknesses of individual methods [1], enables us to root the methods in information theory [2], yields more efficient numerical routines based on the incorporation of readily available generative models [3], and widens the application domain of these methods to systems outside physics (such as diffusion models or transformers) [4,5]. 
@@ -186,6 +191,8 @@ Alessandro Lovato, Argonne National Laboratory
 
 Poster Session
 
+MIT Media Lab, 6th Floor
+
 <details>
 <summary>Details</summary>
 
@@ -226,6 +233,8 @@ Poster Session
 **6:00–8:00 pm ET**
 
 Welcome Reception
+
+MIT Media Lab, 6th Floor
 
 ### Tuesday, August 13, 2024
 
@@ -273,6 +282,9 @@ Lunch
 **1:30–3:00 pm ET**
 
 **Contributed Talks - Session A - Foundational ML**
+
+Bartos Theater
+
 <details>
 <summary>Diversity with Similarity as a Measure of Dataset Quality, Josiah Couch (Beth Israel Deaconess Medical Center)</summary>
 <em>Dataset size and class balance are important measures in deep learning. Maximizing them is seen as a way to ensure that datasets contain diverse images, which models are thought to need in order to generalize well. Yet neither size nor class balance measure image diversity directly, raising the possibility that better measures of dataset quality might exist. To test this hypothesis, we turned to a comprehensive framework of diversity measures that generalizes familiar quantities like Shannon entropy by accounting for the similarities and differences among images. (Size and class balance emerge from this framework as special cases.) We created several thousand diverse datasets by subsampling a variety of large medical-image datasets representing a range of imaging modalities, trained classifiers on these subsets, and calculated the correlation between subset diversity and model accuracy using diversity measures from the framework.</em>
@@ -304,6 +316,9 @@ Lunch
 </details>
 
 **Contributed Talks Session B - Physics-Motivated Optimization**
+
+MIT Media Lab, Room 633
+
 <details>
 <summary>Search for new physics using Event-based anomaly detection at the ATLAS detector of CERN, Wasikul Islam (University of Wisconsin-Madison)</summary>
 <em>Searches for new resonances in two-body invariant mass distributions are performed using an unsupervised anomaly detection technique in events produced in proton-proton collisions at a center of mass energy of 13 TeV recorded by the ATLAS detector at the LHC. Studies are conducted in data containing at least one isolated lepton. An autoencoder network is trained with 1% randomly selected collision events and anomalous regions are then defined which contain events with high reconstruction losses from the decoder. Nine invariant mass distributions are inspected which contain pairs of one light jet (or one b-jet) and one lepton, photon, or a second light jet (b-jet). The 95% confidence level upper limits on contributions from generic Gaussian signals are reported for the studied invariant mass distributions. The obtained model-independent limits show strong potential to exclude generic heavy states with complex decays.</em>
@@ -507,6 +522,9 @@ Lunch
 **1:30–3:00 pm ET**
 
 **Contributed Talks: Session A - Uncertainty Quantification/Robust AI**
+
+Bartos Theater
+
 <details>
 <summary>Jolideco: A Hybrid ML-Statistical Approach for Robust Image Deconvolution in Sparse Poisson Regimes, Axel Donath (Center for Astrophysics | Harvard & Smithsonian)</summary>
 <em>Machine learning for sparse image data reconstruction remains challenging, particularly in Astronomy where ground truth is often unavailable. While simulations and transfer learning offer partial solutions, high-dimensional parameter spaces can render these approaches computationally expensive or infeasible. Moreover, in low-count Poisson domains, quantifying uncertainties is crucial. We present Jolideco, a novel hybrid method for joint likelihood image deconvolution that synergizes machine learning with classical statistical modeling. This approach leverages a hand-crafted forward model for the imaging process, incorporating prior information such as telescope characteristics and noise distributions. Simultaneously, it employs an high-dimensional, patch-based image prior trained via ML on astronomical images from other wavelengths to regularize image structure. Jolideco demonstrates significantly improved reconstruction quality across diverse source scenarios and signal-to-noise regimes. Its closed statistical framework facilitates multi-telescope data integration and robust uncertainty quantification. We showcase Jolideco's effectiveness using example data from the Chandra X-ray Observatory and the Fermi-LAT Gamma-ray Space Telescope, illustrating its potential to advance astronomical image analysis in the Poisson regime.</em>
@@ -538,6 +556,9 @@ Lunch
 </details>
 
 **Contributed Talks Session B - Representation/Manifold Learning**
+
+MIT Media Lab, Room 633
+
 <details>
 <summary>Multi-modal generalized class discovery for scalable autonomous all-sky surveys, Laura Domine (Center for Astrophysics, Harvard University)</summary>
 <em>The Galileo Project is a systematic scientific research program focused on understanding the origins and nature of Unidentified Aerial Phenomena (UAP). To date there is very little data on UAP whose properties and kinematics purportedly reside outside the performance envelope of known phenomena. We are in the process of designing, building and commissioning a multi-modal, multi-spectral detector to continuously monitor the sky and collect UAP data through a rigorous aerial census of natural and human-made phenomena. This open-world setting is a major challenge for artificial intelligence (AI) techniques which need to both (i) accurately detect and classify objects from known classes and (ii) cluster unknown, out-of-distribution objects. Using a commissioning dataset, which includes several months of videos from an all-sky array of eight long wave-infrared cameras and audible recordings, I will discuss our work developing a multi-modal generalized class discovery method to automatically identify new classes of objects in unlabeled data in addition to known classes. It opens the door to an autonomous aerial census where categorization relies less on our prior expectations.</em>
@@ -813,7 +834,7 @@ Closing
          <a href="https://kidger.site/">Patrick Kidger</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Mathematician and Machine Learning Researcher, Cradle.bio </em> <br>
+         <em> Mathematician and Machine Learning Researcher, Cradle.io </em> <br>
          </div>
          </div>
        </div>
