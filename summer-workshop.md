@@ -78,7 +78,7 @@ Nathan Kutz, University of Washington
 
 Break
 
-**11:30 am–12:00 pm ET**
+**11:30 am–12:15 pm ET**
 
 *Accurate, efficient, and reliable learning of deep neural operators for multiphysics and multiscale problems*
 
@@ -110,8 +110,8 @@ Bartos Theater
 </details>
 
 <details>
-<summary>Interpretable representation learning from Chandra X-ray data, Shivam Raval (Harvard University)</summary>
-<em>We build novel, high-quality data representation vectors (also called embeddings) for X-ray spectral data obtained from the Chandra X-ray observatory, as a means to extract meaningful patterns. We show that these embeddings are interpretable and can be further processed for downstream machine-learning tasks. The data representations are generated using specialized state-of-the-art transformer architectures and state-space models that incorporate the symmetries and correlations in spectra data through a self-supervised or mask-modeling training scheme. The learned representations are powerful and be utilized for classification and regression tasks to predict various properties of the recorded observation such as the spectral parameters of the physical models that are more likely to describe the observations. This is a step towards generating representations of X-ray data that can be used for the classification of serendipitous X-ray sources, most of which remain unclassified, identification of spectral anomalies in high energy datasets, and also as the raw material for future foundation models in astrophysics. This is one of the earliest attempts to construct transformer-based representations in X-ray datasets, and a stepping stone to create learned representations in an energy regime poorly explored so far with machine learning algorithms.</em>
+<summary>Title to come, Simonetta Liuti (The University of Virginia)</summary>
+<em>Abstract to come</em>
 </details>
 
 <details>
@@ -264,7 +264,7 @@ Patrick Kidger, Cradle.io
 
 Break
 
-**11:30 am–12:00 pm ET**
+**11:30 am–12:15 pm ET**
 
 *Automatic Symmetry Discovery from Data*
 
@@ -322,11 +322,6 @@ MIT Media Lab, Room 633
 <details>
 <summary>Search for new physics using Event-based anomaly detection at the ATLAS detector of CERN, Wasikul Islam (University of Wisconsin-Madison)</summary>
 <em>Searches for new resonances in two-body invariant mass distributions are performed using an unsupervised anomaly detection technique in events produced in proton-proton collisions at a center of mass energy of 13 TeV recorded by the ATLAS detector at the LHC. Studies are conducted in data containing at least one isolated lepton. An autoencoder network is trained with 1% randomly selected collision events and anomalous regions are then defined which contain events with high reconstruction losses from the decoder. Nine invariant mass distributions are inspected which contain pairs of one light jet (or one b-jet) and one lepton, photon, or a second light jet (b-jet). The 95% confidence level upper limits on contributions from generic Gaussian signals are reported for the studied invariant mass distributions. The obtained model-independent limits show strong potential to exclude generic heavy states with complex decays.</em>
-</details>
-
-<details>
-<summary>PolarBERT: a Foundation Model  for Neutrino Telescope Data, Inar Timiryasov (Niels Bohr Institue, Copenhagen Univeristy)</summary>
-<em>Neutrinos are elusive particles that require massive detectors for observation. The IceCube neutrino observatory at the South Pole is a cubic kilometer of Antarctic ice, instrumented with 5,160 digital optical modules. Its results play an essential role in both particle physics and astrophysics. Deep learning methods, such as graph neural networks, have been successfully applied to the steady stream of incoming data IceCube is receiving. In this talk, we will present a foundation model for the IceCube data. It is trained in a self-supervised way without any data labeling. We further fine-tune this pretrained model for the downstream task of directional reconstruction of neutrino events. We show that this pretrained model significantly outperforms models trained from scratch. Remarkably, the foundation model does not require any knowledge of the IceCube detector geometry or characteristics of its electronics, since it extracts all the necessary information from the raw data.</em>
 </details>
 
 <details>
@@ -398,7 +393,7 @@ Laurence Levasseur, University of Montreal
 
 Break
 
-**11:30 am–12:00 pm ET**
+**11:30 am–12:15 pm ET**
 
 *Machine Learning and Physics: The Alliance of the Titans*
 
@@ -504,7 +499,7 @@ Tianji Cai, SLAC
 
 Break
 
-**11:30 am–12:00 pm ET**
+**11:30 am–12:15 pm ET**
 
 *Neural ansatze for physics and physics of neural networks*
 
@@ -576,11 +571,6 @@ MIT Media Lab, Room 633
 </details>
 
 <details>
-<summary>Multi-modal Contrastive Learning for Robust Text  Representation Classification, Mitra Tajrobehkar (Vertical Oceans)</summary>
-<em>Contrastive representation learning has emerged as a powerful technique in both Computer Vision (CV) and Natural Language Processing (NLP) domains, enabling the acquisition of practical and meaningful representations from text data. This talk will explore the captivating realm of contrastive representation learning in NLP, investigating its underlying principles and applications in tasks such as question answering. We will delve into the remarkable success of contrastive learning in enhancing language understanding, transfer learning, and domain adaptation in NLP tasks. Additionally, we will address the challenges associated with training language models, including limitations arising from data scarcity and bias. Join us to discover the potential of contrastive representation learning in advancing the capabilities of pre-trained language models.</em>
-</details>
-
-<details>
 <summary>Parameter Symmetry and Formation of Latent Representations, Liu Ziyin (MIT, NTT Research)</summary>
 <em>Symmetries exist abundantly in the loss function of neural networks. We characterize the learning dynamics of stochastic gradient descent (SGD) when exponential symmetries, a broad subclass of continuous symmetries, exist in the loss function. We establish that when gradient noises do not balance, SGD has the tendency to move the model parameters toward a point where noises from different directions are balanced. Here, a special type of fixed point in the constant directions of the loss function emerges as a candidate for solutions for SGD. As the main theoretical result, we prove that every parameter connects without loss function barrier to a unique noise-balanced fixed point. Lastly, we discuss how the theory can be leveraged to understand common phenomena in deep learning, such as progressive sharpening and flattening and the formation of latent representations.</em>
 </details>
@@ -647,7 +637,7 @@ Kaze Wong, Flatiron
 
 Break
 
-**11:30 am–12:00 pm ET**
+**11:30 am–12:15 pm ET**
 
 *Generative AI and the natural sciences: Governance strategies and historical perspectives*
 
