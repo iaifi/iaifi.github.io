@@ -626,13 +626,13 @@ Jim Halverson, Northeastern/IAIFI
 
 **10:15–11:00 am ET**
 
-*Solving inverse problems with adaptive MCMC*
+*How good is your model — Goodness-of-fit by Neyman-Pearson testing*
 
-Kaze Wong, Flatiron
+Gaia Grosso, IAIFI Fellow
 
 <details>
 <summary>Abstract</summary>
-<em>Solving inverse problems is one of the most common tasks in natural science, which involves estimating the probability distribution of some parameters of interest given some data. MCMC has been the main workhorse in solving inverse problems for decades now. However, the relative inefficiency of MCMC compared to other methods such as simulation-based inference makes them not suitable for many modern datasets. In this talk, I will talk about adaptive MCMC, which combines MCMC and neural networks to improve the efficiency of MCMC while maintaining their guarantee.</em>
+<em>The Neyman-Pearson strategy for hypothesis testing can be employed for goodness-of-fit if the alternative hypothesis is selected from data by exploring a rich parametrised family of models. The New Physics Learning Machine (NPLM) methodology has been developed as a concrete implementation of this idea, to target the detection of new physical effects in multidimensional and unbinned collider data. The applications of the Neyman-Pearson test as a goodness-of-fit method extend beyond new physics discovery, to problems of data quality monitoring and, crucially, generative models validation. In this talk I will discuss the main challenges behind the practical use of the Neyman-Pearson strategy in real setups, such as model selection, uncertainty quantification and scalability, and I will present recent solutions and future prospect to tackle them.</em>
 </details>
 
 **11:00-11:30 am ET**
@@ -771,6 +771,18 @@ Closing
          </div>
        </div>
 
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-gaia-grosso.jpg" alt="Gaia Grosso" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://iaifi.org/current-fellows.html#gaia-grosso">Gaia Grosso</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> IAIFI Fellow </em> <br>
+         </div>
+         </div>
+       </div>
+       
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-jim-halverson.jpg" alt="Jim Halverson" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
@@ -983,18 +995,6 @@ Closing
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Associate Professor, University of Amsterdam </em> <br>
-         </div>
-         </div>
-       </div>
-
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-kaze-wong.jpg" alt="Kaze Wong" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.simonsfoundation.org/people/kaze-wong/">Kaze Wong</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Research Fellow, Flatiron Institute/CCA </em> <br>
          </div>
          </div>
        </div>
