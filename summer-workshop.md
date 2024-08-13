@@ -255,7 +255,7 @@ Verena Kain, CERN
 
 *An introduction to neural ODEs in scientific machine learning*
 
-Patrick Kidger, Cradle.io
+Patrick Kidger, Cradle.bio
 
 <details>
 <summary>Abstract</summary>
@@ -826,7 +826,7 @@ Closing
          <a href="https://kidger.site/">Patrick Kidger</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Mathematician and Machine Learning Researcher, Cradle.io </em> <br>
+         <em> Mathematician and Machine Learning Researcher, Cradle.bio </em> <br>
          </div>
          </div>
        </div>
