@@ -322,7 +322,7 @@ Bartos Theater
 MIT Media Lab, Room 633
 
 <details>
-<summary>Search for new physics using Event-based anomaly detection at the ATLAS detector of CERN, Wasikul Islam (University of Wisconsin-Madison)</summary>
+<summary>Search for new physics using Event-based anomaly detection at the ATLAS detector of CERN and development of ADFilter tool, Wasikul Islam (University of Wisconsin-Madison)</summary>
 <em>Searches for new resonances in two-body invariant mass distributions are performed using an unsupervised anomaly detection technique in events produced in proton-proton collisions at a center of mass energy of 13 TeV recorded by the ATLAS detector at the LHC. Studies are conducted in data containing at least one isolated lepton. An autoencoder network is trained with 1% randomly selected collision events and anomalous regions are then defined which contain events with high reconstruction losses from the decoder. Nine invariant mass distributions are inspected which contain pairs of one light jet (or one b-jet) and one lepton, photon, or a second light jet (b-jet). The 95% confidence level upper limits on contributions from generic Gaussian signals are reported for the studied invariant mass distributions. The obtained model-independent limits show strong potential to exclude generic heavy states with complex decays.</em>
 </details>
 
