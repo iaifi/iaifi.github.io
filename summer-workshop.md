@@ -609,7 +609,7 @@ Break
 
 **5:30-7:30 pm ET**
 
-Workshop Dinner
+Workshop Dinner, MIT Schwarzman College of Computing (51 Vassar St, Cambridge), 8th Floor
 
 ### Friday, August 16, 2024
 
