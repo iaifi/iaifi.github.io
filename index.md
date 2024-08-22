@@ -129,6 +129,8 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+  ***DUNE scientists observe first neutrinos with prototype detector at Fermilab***. [Learn more.](https://news.fnal.gov/2024/08/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/) *August 12, 2024*
+{:.info}
 
   ***IAIFI Investigator Tracy Slatyer honored as "Committed to Caring" by MIT***. Read ["Paying it Forward"](https://physics.mit.edu/news/paying-it-forward/) to learn about their approach to prioritizing students’ educational journeys. *June 6, 2024*
 {:.info}
