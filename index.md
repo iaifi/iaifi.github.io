@@ -93,9 +93,6 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Registration is open for the IAIFI Summer Workshop.*** The IAIFI Summer Workshop will be held August 12–16, 2024 at MIT. [Learn more and register](https://iaifi.org/summer-workshop) by July 31, 2024.
-{:.success}
-
 ***Our [IAIFI Colloquium series](events.html) will continue in Fall 2024.*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
@@ -129,6 +126,8 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+  ***DUNE scientists, including IAIFI Fellow Jessie Micallef, observe first neutrinos with prototype detector at Fermilab***. [Learn more.](https://news.fnal.gov/2024/08/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/) *August 12, 2024*
+{:.info}
 
   ***IAIFI Investigator Tracy Slatyer honored as "Committed to Caring" by MIT***. Read ["Paying it Forward"](https://physics.mit.edu/news/paying-it-forward/) to learn about their approach to prioritizing students’ educational journeys. *June 6, 2024*
 {:.info}
