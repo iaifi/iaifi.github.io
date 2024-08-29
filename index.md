@@ -126,6 +126,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+   ***IAIFI Investigator Isaac Chuang, and IAIFI Alum Curtis Northcutt, awarded the 2024 IJCAI-JAIR best paper prize for their article "Confident Learning: Estimating Uncertainty in Dataset Labels", which appeared in JAIR Volume 70 (2021).*** See the award citation and read their article [here.](https://www.jair.org/index.php/jair/IJCAIJAIR) *August 2024*
+{:.info}
+
   ***DUNE scientists, including IAIFI Fellow Jessie Micallef, observe first neutrinos with prototype detector at Fermilab***. [Learn more.](https://news.fnal.gov/2024/08/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/) *August 12, 2024*
 {:.info}
 
