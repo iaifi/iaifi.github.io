@@ -9,13 +9,11 @@ title:
 
 The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI.
 
-**Many of the videos from the 2024 IAIFI Summer Workshop are now [posted on the IAIFI YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGZ-XaBaBu4IFgkRNyj54Ba9&feature=shared).** More videos will be added to the playlist in the coming weeks.
+**Many of the videos from the 2024 IAIFI Summer Workshop are now [posted on the IAIFI YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGZ-XaBaBu4IFgkRNyj54Ba9&feature=shared).**
 {:.info} 
 
-**Interested in submitting a contributed talk or poster? [Submit here](https://app.smartsheet.com/b/form/d5398d0a865a457794ead604c4d61e84) by Monday, June 24, 2024 to be considered. Submissions will be reviewed on a rolling basis.**
+**Many of the speakers' slides from the 2024 IAIFI Summer Workshop are now [available online](https://drive.google.com/drive/folders/1oc50D5LE6BvAzHozT98VyLn1KoU1aN9d?usp=sharing).** 
 {:.info} 
-
-[Register for the Summer Workshop](https://buy.stripe.com/8wMdSy0Nh5iv9OMbIU){:.button.button--outline-primary.button--pill.button--lg}  
 
 * **The 2024 Summer Workshop was held August 12–16, 2024**
 * **Location: Bartos Theater, MIT List Visual Arts Center, Lower Level (20 Ames Street, Cambridge)**
