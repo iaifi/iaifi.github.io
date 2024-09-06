@@ -39,6 +39,86 @@
   talk-attendance: 0 in person, 0 virtual
   
 - type: "colloquium"
+  semester: "fall-2024"
+  speaker-name: Thomas Harvey
+  speaker-title: IAIFI Fellow
+  speaker-affiliation: University of Oxford
+  speaker-website: "https://inspirehep.net/authors/1851078?ui-citation-summary=true"
+  speaker-photo-location: "images/small-photo-thomas-harvey.jpg"
+  talk-date: "2024-10-11"
+  talk-date-time: "Friday, October 11, 2024, 2:00–3:00 pm"
+  start-date-time: "2024-10-11 14:00"
+  end-date-time: "2024-10-11 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Navigating the String Landscape with Machine Learning Techniques"
+  talk-abstract: "Abstract TBA.<br><br><br><br>"
+  slides-link: "TBD"
+  youtube-link: TBD
+  speaker-thrust: "TBD"
+  speaker-gender: "TBD"
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "colloquium"
+  semester: "fall-2024"
+  speaker-name: Fernanda Viégas
+  speaker-title: Professor of Computer Science
+  speaker-affiliation: Harvard University
+  speaker-website: "http://www.fernandaviegas.com/"
+  speaker-photo-location: "images/small-photo-fernanda-viegas.jpg"
+  talk-date: "2024-10-25"
+  talk-date-time: "Friday, October 25, 2024, 2:00–3:00 pm"
+  start-date-time: "2024-10-25 14:00"
+  end-date-time: "2024-10-25 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Title TBA."
+  talk-abstract: "Abstract TBA.<br><br><br><br><br>"
+  slides-link: "TBD"
+  youtube-link: TBD
+  speaker-thrust: "TBD"
+  speaker-gender: "TBD"
+  talk-attendance: 0 in person, 0 virtual
+
+- type: "colloquium"
+  semester: "fall-2024"
+  speaker-name: Speaker TBA
+  speaker-title: November
+  speaker-affiliation: 2024
+  speaker-website: "https://iaifi.org/events.html"
+  speaker-photo-location: " "
+  talk-date: "2024-11-08"
+  talk-date-time: "Friday, November 8, 2024, 2:00–3:00 pm"
+  start-date-time: "2024-11-08 14:00"
+  end-date-time: "2024-11-08 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Title TBA."
+  talk-abstract: "Abstract TBA.<br><br><br>"
+  slides-link: "TBD"
+  youtube-link: TBD
+  speaker-thrust: "TBD"
+  speaker-gender: "TBD"
+  talk-attendance: 0 in person, 0 virtual
+
+- type: "colloquium"
+  semester: "fall-2024"
+  speaker-name: Yuan-Sen Ting
+  speaker-title: Associate Professor in Astrophysics
+  speaker-affiliation: Ohio State University
+  speaker-website: "https://www.asc.ohio-state.edu/ting.74/"
+  speaker-photo-location: "images/small-photo-yuan-sen-ting.jpg"
+  talk-date: "2024-11-29"
+  talk-date-time: "Friday, November 29, 2024, 2:00–3:00 pm"
+  start-date-time: "2024-11-29 14:00"
+  end-date-time: "2024-11-29 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Title TBA."
+  talk-abstract: "Abstract TBA.<br><br><br><br><br>"
+  slides-link: "TBD"
+  youtube-link: TBD
+  speaker-thrust: "TBD"
+  speaker-gender: "TBD"
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "colloquium"
   semester: "spring-2024"
   speaker-name: Laurence Perrault-Levasseur
   speaker-title: Assistant Professor
