@@ -87,7 +87,8 @@ IAIFI Senior Investigators, Junior Investigators, and Affiliates have access to 
 [Access IAIFI Google Drive](https://drive.google.com/drive/folders/1KCCp9BpUL_GsvPGiWoJt976X0YkSEVDC?usp=sharing){:.button.button--outline-primary.button--pill.button--lg} [Join University affinity group](#affinity-groups){:.button.button--outline-primary.button--pill.button--lg} [Find other AI + physics groups](#related-groups-and-events){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Advertise and acknowledge IAIFI
-  * Use the IAIFI (with NSF) logo in talks related to IAIFI: [Black](images/iaifi-nsf-logo-black.pdf);  [White](images/iaifi-nsf-logo-white.pdf)
+  * Use the IAIFI (with NSF) logo in talks related to IAIFI: [Black](images/iaifi-nsf-logo-black.pdf);  [White](images/iaifi-nsf-logo-white.pdf);
+      [Rainbow](images/iaifi-logo-square-rainbow.pdf)
   * Share slides advertising public IAIFI opportunities when appropriate: [Overview Slide](images/iaifi-oneslide-overview.pdf); [Resources and Activities Slide](images/iaifi-oneslide-resources.pdf)
   * Include IAIFI affiliation in papers: The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (Note: There is no address.)
   * Include IAIFI acknowledgment in IAIFI-related papers (required if you are a Junior or Senior Investigator): This work is supported by the National Science Foundation under Cooperative Agreement PHY-2019786 (The NSF AI Institute for Artificial Intelligence and Fundamental Interactions, http://iaifi.org/). 
