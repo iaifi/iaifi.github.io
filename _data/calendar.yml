@@ -32,6 +32,8 @@ event_types:
   - social-events
 
 semesters:
+  - name:  "Fall 2024"
+    tag:  fall-2024
 
   - name:  "Spring 2024"
     tag:  spring-2024
