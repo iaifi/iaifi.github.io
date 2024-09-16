@@ -12,11 +12,11 @@
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Transformers meet Lyapunov. Solving a long-standing open problem in mathematics"
   talk-abstract: "A condition for the global stability of a dynamical system is the existence of an entropy-like Lyapunov function. Unfortunately, no systematic method for discovering such functions is known, except in very special cases. Transformers can indeed be trained to discover new Lyapunov functions. I discuss the our results, with a particular focus on the specific issues of training language models on open or hard problems."
-  slides-link: "TBD"
-  youtube-link: TBD
+  slides-link: "talks/2024_09_13_IAIFI_Colloquium_Charton.pdf"
+  youtube-link: https://www.youtube.com/live/yCzV97QNG8w?feature=shared
   speaker-thrust: "TBD"
   speaker-gender: "TBD"
-  talk-attendance: 0 in person, 0 virtual
+  talk-attendance: 17 in person, 26 virtual
   
 - type: "colloquium"
   semester: "fall-2024"
