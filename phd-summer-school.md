@@ -3,6 +3,8 @@ layout: article
 title: IAIFI Summer School
 ---
 
+***Stay tuned for updates about our 2025 IAIFI Summer School*** [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates.
+{:.info}
 
 <img src="images/phd-summer-school-logo-2024.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 

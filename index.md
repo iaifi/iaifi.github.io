@@ -93,7 +93,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Our [IAIFI Colloquium series](events.html) will continue with François Charton on Friday September 13, and with Katie Bouman on Monday September 16.*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
+***Our [IAIFI Colloquium series](events.html) will continue with Thomas Harvey on Friday, October 11, 2024.*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
 {:.success}
 
 <style>
@@ -126,6 +126,10 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+  
+  ***IAIFI Junior Investigator Ziming Liu and Senior Investigator Max Tegmark featured in Quanta Magazine***. Read about their work on KANs in ["Novel Architecture Makes Neural Networks More Understandable"](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/). *September 11, 2024*
+  {:.info}
+  
    ***IAIFI Investigator Isaac Chuang and IAIFI Alumnus Curtis Northcutt awarded the 2024 IJCAI-JAIR best paper prize.*** Read ["Confident Learning: Estimating Uncertainty in Dataset Labels"](https://www.jair.org/index.php/jair/IJCAIJAIR). *August 2024*
 {:.info}
 
