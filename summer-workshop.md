@@ -3,6 +3,8 @@ layout: article
 title: 
 ---
 
+***Stay tuned for updates about our 2025 IAIFI Summer Workshop.*** [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates.
+{:.info}
 
 <img src="images/summer-workshop-logo_2024.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 

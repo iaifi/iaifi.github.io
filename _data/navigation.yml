@@ -29,7 +29,7 @@ header:
         url: /seminars.html
       - title: Journal Club
         url: /journal-club.html
-      - title: Lightning Talks
+      - title: Thematic Discussions
         url: /lightning-talks.html
       - title: Generative AI Symposium
         url: /generative-ai-workshop.html
@@ -61,6 +61,8 @@ header:
         url: /physics-theory-research.html
       - title: Physics Experiment
         url: /physics-experiment-research.html
+      - title: Astrophysics
+        url: /astrophysics-research.html
       - title: Papers
         url: /papers.html
 

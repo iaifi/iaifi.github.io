@@ -11,7 +11,8 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Seeking additional members
 * Coordinates the purchase and management of IAIFI computing hardware and identifies and establishes additional computing solutions, as well as facilitates the utilization of computing resources and tools
 * Time commitment: One meeting per month, with some input or information gathering needed between meetings
-* Current Computing Committee: Will Detmold (Chair), Taritree Wongjirad, Denis Boyda, Siddharth Mishra-Sharma, Mit Kotak, Andrew Saydjari, Marisa LaFleur
+* Current Computing Committee: Will Detmold (Chair), Taritree Wongjirad, Denis Boyda, Mit Kotak, Marisa LaFleur
+* Past Computing Committee Members: Siddharth Mishra-Sharma, Andrew Saydjari
 * Primary Contact: [Email Will Detmold (Chair)](mailto:wdetmold@mit.edu)
 
 # Industry Partnership
@@ -19,24 +20,24 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Establishes and fosters connections with industry partners for mutual benefit through internships, workforce development and recruitment, resource sharing, collaboration, and funding; as well as provides resources and guidance to IAIFI members for career development and exploration. Learn more about [Career Support](/career-support.html)
 * Time Commitment: Expected one-hour meeting per month and time spent developing materials (on volunteer basis)
 * See the current [Job Opportunities](/job-board.html) and [Funding Opportunities](/funding-opportunities.html)
-* Current Industry Partnership Committee: Marin Soljacic (Chair), Mike Williams, Denis Boyda, Carolina Cuesta-Lazaro, Ge Yang, Nayantara Mudur, Sangeon Park, Emmanouil Theodosis, Marisa LaFleur
-* Past Industry Partnership Committee: Todd Zickler, Anna Golubeva
+* Current Industry Partnership Committee: Marin Soljacic (Chair), Carolina Cuesta-Lazaro, Ge Yang, Nayantara Mudur, Sangeon Park, Emmanouil Theodosis, Marisa LaFleur
+* Past Industry Partnership Committee: Todd Zickler, Anna Golubeva, Mike Williams, Denis Boyda
 * Primary Contact: [Email Marin Soljacic (Chair)](mailto:soljacic@mit.edu)
 
 # Public Engagement
 * Status: Seeking additional members
 * Develops educational materials for use in outreach activities, such as classroom visits, and brainstorms opportunities for outreach (including festivals, museum exhibits, etc)
 * Time Commitment: One-hour meeting every 3-4 weeks and time spent developing materials (on volunteer basis)
-* Current Public Engagement Committee: Lina Necib (Chair), Gaia Grosso, Ge Yang, Sokratis Trifinopolous, Polina Abratenko, Tri Nguyen, Sneh Pandya, Sangeon Park, Marisa LaFleur
-* Past Public Engagement Committee: Carlos Argüelles-Delgado, Brent Nelson, Harold Erbin
+* Current Public Engagement Committee: Lina Necib (Chair), Gaia Grosso, Ge Yang, Sokratis Trifinopolous, Polina Abratenko, Sneh Pandya, Sangeon Park, Marisa LaFleur
+* Past Public Engagement Committee: Carlos Argüelles-Delgado, Brent Nelson, Harold Erbin, Tri Nguyen
 * Primary Contact: [Email Lina Necib (Chair)](mailto:lnecib@mit.edu)
 
 # Community Building and Inclusion
 * Status: Accepting additional members
 * Brainstorms and plans community building events (such as coffee hours, social events, meet-ups, etc.)
 * Time Commitment: One-hour meeting per month and time spent helping with event setup occasionally
-* Current Community Building Committee: Tracy Slatyer (Chair), Fabian Ruehle, Alexander Gagliano, Jessie Micallef, Omar Alterkait, Ouail Kitouni, Marisa LaFleur
-* Past Community Building Committee: Matt Schwartz, Mike Williams, Mehmet Demirtas, Niklas Nolte
+* Current Community Building Committee: Tracy Slatyer (Chair), Alexander Gagliano, Jessie Micallef, Omar Alterkait, Marisa LaFleur
+* Past Community Building Committee: Matt Schwartz, Mike Williams, Mehmet Demirtas, Niklas Nolte, Fabian Ruehle, Ouail Kitouni
 * Primary Contact: [Email Tracy Slatyer (Chair)](mailto:tslatyer@mit.edu)
 
 # Early Career and Equity 
@@ -66,6 +67,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Past Summer School and Workshop Committee: Jim Halverson, Shuchin Aeron, Tess Smidt, Denis Boyda, Anna Golubeva, Ouail Kitouni, Jeffrey Lazar, Peter Lu, Nayantara Mudur, Dylan Rankin
 * Primary Contact: [Email Fabian Ruehle (Chair)](mailto:f.ruehle@northeastern.edu)
 
+<!--
 # Communications
 * Status: Accepting new members
 * Provide feedback on and contribute to both internal and external communications to enhance the reach and impact of IAIFI in both physics and AI communities.
@@ -74,6 +76,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Past Communications Committee: Anna Golubeva
 * Primary Contact: [Email Pulkit Agrawal (Chair)](mailto:pulkitag@mit.edu)
 
+-->
 # Journal Club Organizers
 * Status: No additional organizers needed at this time, but [sign up here to lead a Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7)
 * Schedules and coordinates the IAIFI Journal Club and introduces Journal Club presenters

@@ -5,24 +5,37 @@ title: Research
 
 The goal of the IAIFI is to advance knowledge of fundamental interactions from the smallest to the largest scales using innovative methods in AI built upon *ab initio* physics principles, while simultaneously advancing the foundations of AI. Specifically, we are targeting opportunities for *ab initio* AI to improve theory calculations, to improve experiments, and to advance the field of AI. While our work includes a broad spectrum of physics and AI applications, our core focus is developing the nascent field of *ab initio* AI itself.
 
+* [Foundational AI](/ai-research.html)
 * [Physics Theory](/physics-theory-research.html)
 * [Physics Experiment](/physics-experiment-research.html)
-* [Foundational AI](/ai-research.html)
-
-
-Coming soon: A full set of IAIFI project pages, each with more details about our research work, publications, *etc.*
-{:.info}
+* [Astrophysics](/astrophysics-research.html)
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgzM9Xbgvg3Epzvsyeg8XUExYPAK368Q0N5MM2jYdGbrsYeAPSQhu6H3FkT7ceaw1kLs_TXgGEu91b/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1JL_ebwA_UsGh_WKijCRklhNrpbfaOjMbLp83JacKLFw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 ## Highlights
 
-*Updated July 9, 2024*
+*Updated September 4, 2024*
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/1HzJW3YjcGMTSWssn3YOp1qj_NUHVXFV2vOoLjI4AdpA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+[View and download slide](https://docs.google.com/presentation/d/1HzJW3YjcGMTSWssn3YOp1qj_NUHVXFV2vOoLjI4AdpA/edit?usp=sharing)
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/19NsX_FbtP_Bh7oY_FLruWollaspqPGMFzwElKCocdro/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+[View and download slide](https://docs.google.com/presentation/d/19NsX_FbtP_Bh7oY_FLruWollaspqPGMFzwElKCocdro/edit?usp=sharing)
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
@@ -192,4 +205,4 @@ Coming soon: A full set of IAIFI project pages, each with more details about our
 
 ## Summary
 
-IAIFI researchers are incorporating  complex *ab initio* principles into AI research to revolutionize how AI is used in the study of fundamental interactions, while simultaneously advancing the foundations of AI.  [Join us!](/fellows.html)
+IAIFI researchers are helping to establish the field of AI+Physics to revolutionize how AI is used in the study of fundamental interactions, while simultaneously advancing the foundations of AI.  [Join us!](/fellows.html)

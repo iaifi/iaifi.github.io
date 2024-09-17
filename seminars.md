@@ -5,6 +5,9 @@ aside:
   toc: true
 ---
 
+***The IAIFI Seminar series has been combined with the IAIFI Colloquium series beginning in Fall 2024.*** [View the Colloquium schedule](http://iaifi.org/events).
+{:.info}
+
 [Access recordings of past seminars](https://docs.google.com/document/d/1ZGLuC_-eqMwyeeJNbwR5YhEg_S18E8akbDE9m39oYsY/edit?usp=sharing)  (for IAIFI members only)
 
 {% assign now = 'now' | date: '%s' | plus: 0 %}
