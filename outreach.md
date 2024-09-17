@@ -6,7 +6,7 @@ aside:
 ---
 # Cambridge Science Festival 2024
 
-[<img src="images/CSF24-logo.png" align="center" style="max-width:2601px;width:100%" hspace="20" vspace="20">](https://cambridgesciencefestival.org)
+[<img src="images/CSF24-logo.png" align="center" style="max-width:2601px;width:50%" hspace="20" vspace="20">](https://cambridgesciencefestival.org)
 
 IAIFI is excited to participate for the third year in a row at the 2024 Cambridge Science Festival!
 
