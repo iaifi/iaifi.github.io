@@ -7,5 +7,5 @@ arxiv: "2211.09129"
 journal: Journal of High Energy Physics, 2024, Article 16
 doi: https://doi.org/10.1007/JHEP04%282024%29016
 nsf-par: 10505410
-code: 
+code: https://github.com/melsophos/pysft-nn
 publication-date: 2024-04-03

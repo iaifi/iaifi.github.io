@@ -7,5 +7,5 @@ arxiv: "2211.01514"
 journal: "PNAS, 2023, Vol. 120, No. 9"
 doi: "https://doi.org/10.1073/pnas.2219208120"
 nsf-par:
-code: 
+code: https://github.com/qkoopman/QuACK
 publication-date: 2023-02-24
