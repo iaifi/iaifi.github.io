@@ -32,11 +32,11 @@
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Seeing Beyond the Blur: Imaging Black Holes with Increasingly Strong Assumptions"
   talk-abstract: "At the heart of our Milky Way galaxy lies a supermassive black hole called Sagittarius A* that is evolving on the timescale of mere minutes. This talk will present the methods and procedures used to produce the first images of Sagittarius A* as well as discuss future directions we are taking to leverage machine learning to sharpen our view of the black hole, including mapping its evolving environment in 3D. It has been theorized for decades that a black hole will leave a 'shadow' on a background of hot gas. However, due to its small size, traditional imaging approaches require an Earth-sized radio telescope. In this talk, I discuss techniques we have developed to photograph a black hole using the Event Horizon Telescope, a network of telescopes scattered across the globe. Recovering an image from this data requires solving an ill-posed inverse problem which necessitates the use of image priors to reduce the space of possible solutions. Although we have learned a lot from these initial images already, remaining scientific questions motivate us to improve this computational telescope to see black hole phenomena still invisible to us. In particular, we will discuss approaches we have developed to incorporate data-driven diffusion model priors into the imaging process to sharpen our view of the black hole and understand the sensitivity of the image to different underlying assumptions. Additionally, we will discuss how we have developed techniques that allow us to extract the evolving structure of our own Milky Way's black hole over the course of a night. In particular, we introduce Orbital Black Hole Tomography, which integrates known physics with a neural representation to map evolving flaring emission around the black hole in 3D for the first time."
-  slides-link: "TBD"
-  youtube-link: TBD
+  slides-link: "talks/2024_09_16_IAIFI_Colloquium_Bouman.pdf"
+  youtube-link: https://www.youtube.com/live/gRgFkilU1SM?feature=shared
   speaker-thrust: "TBD"
   speaker-gender: "TBD"
-  talk-attendance: 0 in person, 0 virtual
+  talk-attendance: 64 in person, 15 virtual
   
 - type: "colloquium"
   semester: "fall-2024"
@@ -49,7 +49,7 @@
   talk-date-time: "Friday, October 11, 2024, 2:00–3:00 pm"
   start-date-time: "2024-10-11 14:00"
   end-date-time: "2024-10-11 15:00"
-  talk-location: "MIT Kolker Room (26-414)"
+  talk-location: "MIT Cosman Room (6C-442)"
   talk-title: "Navigating the String Landscape with Machine Learning Techniques"
   talk-abstract: "Abstract TBA.<br><br><br><br>"
   slides-link: "TBD"
