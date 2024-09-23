@@ -1,0 +1,11 @@
+type: paper
+iaifi-thrust: T
+title: "A Field Guide to Event-Shape Observables Using Optimal Transport"
+authors: Cari Cesarotti, Matt LeBlanc
+abstract: "We lay out the phenomenological behavior of event-shape observables evaluated by solving optimal transport problems between collider events and reference geometries -- which we name 'manifold distances' -- to provide guidance regarding their use in future studies. This discussion considers several choices related to the metric used to quantify these distances. We explore the differences between the various options, using a combination of analytical studies and simulated minimum-bias and multi-jet events. Making judicious choices when defining the metric and reference geometry can improve sensitivity to interesting signal features and reduce sensitivity to non-perturbative effects in QCD. The goal of this article is to provide a 'field guide' that can inform how choices made when defining a manifold distance can be tailored for the analysis at-hand."
+arxiv: "2409.13150"
+journal:
+doi:
+nsf-par:
+code: https://zenodo.org/records/4939331
+publication-date: 2024-08-21
