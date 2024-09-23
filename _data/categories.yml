@@ -36,8 +36,8 @@ categories:
     type2: postdocs
     type3: 
   - students:
-    name: Students
-    anchor: students
-    type1: graduate-students
-    type2: undergrad-students
-    type3:
+    name: Students and Post-Bacs
+    anchor: students-and-postbacs
+    type1: postbac
+    type2: graduate-students
+    type3: undergrad-students
