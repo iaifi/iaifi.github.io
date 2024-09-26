@@ -20,7 +20,7 @@ As a hub for the intersection of Physics and AI in the Boston area and beyond, w
   {% if date > now %}
 {% assign iaifi-faculty = job %}
 {% if job.type == "iaifi-faculty" %}
-**{{job.title}}** <br>
+#### {{job.title}}
 *{{job.employer}}* <br>
 {%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
 <div style = "position:relative; top:-1em;" >
@@ -43,7 +43,7 @@ Postdoctoral researchers at any of the partner institutions may collaborate with
   {% if date > now %}
 {% assign iaifi-postdoc = job %}
 {% if job.type == "iaifi-postdoc" %}
-**{{job.title}}** <br>
+#### {{job.title}}
 *{{job.employer}}* <br>
 {%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
 <div style = "position:relative; top:-1em;" >
@@ -66,7 +66,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
   {% if date > now %}
 {% assign iaifi-grad = job %}
 {% if job.type == "iaifi-grad" %}
-**{{job.title}}** <br>
+#### {{job.title}}
 *{{job.employer}}* <br>
 {%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
 <div style = "position:relative; top:-1em;" >
@@ -89,7 +89,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
   {% if date > now %}
 {% assign faculty = job %}
 {% if job.type == "faculty" %}
-**{{job.title}}** <br>
+#### {{job.title}}
 *{{job.employer}}* <br>
 {%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
 <div style = "position:relative; top:-1em;" >
@@ -110,7 +110,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
   {% if date > now %}
 {% assign postdoc = job %}
 {% if job.type == "postdoc" %}
-**{{job.title}}** <br>
+#### {{job.title}}
 *{{job.employer}}* <br>
 {%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
 <div style = "position:relative; top:-1em;" >
@@ -132,7 +132,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
   {% if date > now %}
 {% assign academic = job %}
 {% if job.type == "academic" %}
-**{{job.title}}** <br>
+#### {{job.title}}
 *{{job.employer}}* <br>
 {%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
 <div style = "position:relative; top:-1em;" >
@@ -155,7 +155,7 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
   {% if date > now %}
 {% assign industry = job %}
 {% if job.type == "industry" %}
-**{{job.title}}** <br>
+#### {{job.title}}
 *{{job.employer}}* <br>
 {%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}})
 <div style = "position:relative; top:-1em;" >
