@@ -11,7 +11,7 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Moments Of Clarity in Machine Learning for Jet Physics"
   talk-abstract: "Machine learning models have shown incredible promise for science, especially for physics at the Large Hadron Collider (LHC), through their ability to extract information from huge amounts of data. However, as physicists, we often desire to have precise control of the information input and output of a model, both to improve interpretability and to guarantee properties of interest in our problems. In this talk, I go over three different examples from my work in jet physics at the LHC where targeted and goal-motivated model design and loss function choice can be used to control the extracted information in machine learning models. In particular, I discuss how task-engineered network architectures and losses can be used to extract provably prior-independent and unbiased resolutions for calibrations at the LHC, how they can be used to construct a new class of robust observables for jets, and how they can be used to streamline latent spaces using elementary functions for interpretability."
-  slides-link:
+  slides-link: https://docs.google.com/presentation/d/1mFzyzI8nA-OxcpQdcEhSPLh3aq9-zm8f9F72sh2RS4E/edit?usp=sharing
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "Man"
