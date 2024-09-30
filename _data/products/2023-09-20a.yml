@@ -9,3 +9,4 @@ doi: https://doi.org/10.1007/JHEP01(2024)158
 nsf-par: 10505513
 code: https://github.com/ML4GW/gwak
 publication-date: 2024-01-25
+bib-tex: "@misc{cesarotti2024fieldguideeventshapeobservables, <br> title={A Field Guide to Event-Shape Observables Using Optimal Transport}, <br> author={Cari Cesarotti and Matt LeBlanc}, <br> year={2024}, <br> eprint={2409.13150}, <br> archivePrefix={arXiv}, <br> primaryClass={hep-ph}, <br> url={https://arxiv.org/abs/2409.13150}, <br>}"
