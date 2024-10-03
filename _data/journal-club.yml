@@ -1,4 +1,194 @@
 - type: "fall-2024"
+  speaker-name: Aishik Ghosh
+  speaker-title:
+  speaker-affiliation: Further information to come
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-12-17"
+  talk-date-time: "Tuesday, December 17, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-12-17 13:00"
+  end-date-time: "2024-12-17 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+
+- type: "fall-2024"
+  speaker-name: Nate Woodward
+  speaker-title: Undergraduate Student
+  speaker-affiliation: MIT
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-12-10"
+  talk-date-time: "Tuesday, December 10, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-12-10 13:00"
+  end-date-time: "2024-12-10 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+
+- type: "fall-2024"
+  speaker-name: Davide Bray
+  speaker-title: Graduate Student
+  speaker-affiliation: Harvard University
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-12-03"
+  talk-date-time: "Tuesday, December 3, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-12-03 13:00"
+  end-date-time: "2024-12-03 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Mike Toomey
+  speaker-title: Postdoctoral Student
+  speaker-affiliation: MIT
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-11-26"
+  talk-date-time: "Tuesday, November 26, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-11-26 13:00"
+  end-date-time: "2024-11-26 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Neill Warrington
+  speaker-title: Postdoctoral Student
+  speaker-affiliation: MIT
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-11-19"
+  talk-date-time: "Tuesday, November 19, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-11-19 13:00"
+  end-date-time: "2024-11-19 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Thomas Helfer
+  speaker-title:
+  speaker-affiliation: Further information to come
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-11-12"
+  talk-date-time: "Tuesday, November 12, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-11-12 13:00"
+  end-date-time: "2024-11-12 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Konstantin Leyde
+  speaker-title:
+  speaker-affiliation: University of Portsmouth
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-10-29"
+  talk-date-time: "Tuesday, October 29, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-10-29 13:00"
+  end-date-time: "2024-10-29 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Kayla DeHolton
+  speaker-title:
+  speaker-affiliation: Penn State University
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-10-22"
+  talk-date-time: "Tuesday, October 22, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-10-22 13:00"
+  end-date-time: "2024-10-22 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Keiya Hirashima
+  speaker-title:
+  speaker-affiliation: University of Tokyo
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-10-15"
+  talk-date-time: "Tuesday, October 15, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-10-15 13:00"
+  end-date-time: "2024-10-15 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Felix Yu
+  speaker-title: Graduate Student
+  speaker-affiliation: Harvard University
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-10-08"
+  talk-date-time: "Tuesday, October 8, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-10-08 13:00"
+  end-date-time: "2024-10-08 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
   speaker-name: Kit Fraser-Taliente
   speaker-title: Graduate Student
   speaker-affiliation: University of Oxford

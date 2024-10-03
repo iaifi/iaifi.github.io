@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/HEP-GAN/MomentUnfolding
 publication-date: 
+bib-tex: |
+  @misc{desai2024momentunfolding,
+      title={Moment Unfolding},
+      author={Krish Desai and Benjamin Nachman and Jesse Thaler},
+      year={2024},
+      eprint={2407.11284},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2407.11284},
+  }
