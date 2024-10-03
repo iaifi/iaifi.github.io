@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{halverson2024tasilecturesphysicsmachine,
+      title={TASI Lectures on Physics for Machine Learning},
+      author={Jim Halverson},
+      year={2024},
+      eprint={2408.00082},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2408.00082},
+  }
