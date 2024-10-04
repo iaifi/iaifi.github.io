@@ -52,6 +52,9 @@ MIT is an equal employment opportunity employer. All qualified applicants will r
 *  **What should I include in my statement of research interests?** We do not have strict expectations about the statement of research interest. Approach it in a way that best advocates for yourself and your research. 
 *  **Should I tailor my research statement to the expertise of the hiring committee?** The hiring committee spans all of IAIFI and is representative of the range of backgrounds and expertise in IAIFI, so you should focus on advocating for yourself and your research. 
 * **How many Fellows do you plan to hire?** We expect to hire 1-4 Fellows each year, but the final number is dependent on funding and fit/strength of applicants.
+* **What if my letter writers do not submit by the deadline?** We will continue to accept reference letters up to 1 week after the deadline. After that, we can not guarantee that the selection committee will include the late reference letters in their review.
+* **Are references and figures included within the two-page limit for the research statement and is there any requirement for the font size or paper margin?** Yes, references and figures are included in the two-page limit and there is no requirement for font size or paper margin as long as it is readable.
+* **What is the difference between the research statement and the cover letter?** In general, the primary evaluation will be based on the research statement.  The cover letter is a place to summarize the information in the rest of the file and perhaps add information that doesn't fit anywhere else.
 
 ### Advertising the Fellowship
 We aim to spread the word about the Fellowship as widely as possible. In addition to sharing the announcement with individuals, we have posted the job in the following places:
