@@ -1,7 +1,7 @@
 #### IAIFI Reporting Script
 
 # importing modules
-import yaml,os
+import yaml,os,pybtex.database
 
 def iaifi_quarter(month):
   if month in ['10','11','12']: return 'Q1'
@@ -36,10 +36,16 @@ def iaifi_year_quarter(year,month):
 products = os.listdir("../_data/products/")
 products.sort(reverse=True)
 
-outputfiledictionary = {}
-outputcountdictionary = {}
+# Creating bibtex files/strings
+output_bibtex_file = open('reporting/iaifi_bibliography.bib',"w")
+output_thrust_keys_string_dictionary = {}
+for thrust in ['T','E','A','F']:
+  output_string = '\\cite{'
+  output_thrust_keys_string_dictionary.update({thrust : output_string})
 
 # Creating all of the output files
+outputfiledictionary = {}
+outputcountdictionary = {}
 for thrust in ['T','E','A','F']:
   for status in ['submitted','published']:
     for year in ['Y0','Y1','Y2','Y3','Y4','Y5']:
@@ -67,6 +73,15 @@ for filename in products:
 
   # skip if not paper
   if not (parsed['type'] == 'paper'): continue
+
+  # If present, pull out bibtex entry
+  if ('bib-tex' in parsed):
+    bibtex_string = parsed['bib-tex']
+    output_bibtex_file.write(bibtex_string+'\n')
+    this_key = next(iter(pybtex.database.parse_string(bibtex_string,"bibtex").entries))
+    this_thrust = parsed['iaifi-thrust'][0]
+    output_thrust_keys_string_dictionary[this_thrust] += this_key+','
+
 
   # figure out which file to put things in
   thrust = parsed['iaifi-thrust'][0]
@@ -130,4 +145,11 @@ for thrust in ['T','E','A','F']:
         print(outputfilename + ' : ' + str(outputcount))
         
 
-
+# Closing the bibtex key files
+for thrust in ['T','E','A','F']:
+  outputfile = open('reporting/iaifi_paper_key_'+thrust+'.tex',"w")
+  output_string = output_thrust_keys_string_dictionary[thrust]
+  if output_string[-1] == ',':
+    output_string = output_string[:-1]
+  output_string += '}'
+  outputfile.write(output_string)

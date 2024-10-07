@@ -1,0 +1,7 @@
+type: faculty
+title: Tenure-track AI Opening
+employer: University of Rochester, Rochester, NY
+deadline: 2025-01-01
+expire: 2025-01-02
+link: https://www.cs.rochester.edu/about/recruit.html
+details: "The University of Rochester’s Department of Computer Science seeks to hire an outstanding early-career candidate in the area of Artificial Intelligence.<br><br>Specifically, we are looking to hire a tenure-track Assistant Professor in any of the following areas:<br><br>1. Learning Theory, especially related to deep learning,<br>2. Machine Learning Systems (ML Ops, memory efficient training techniques, distributed model training methods with GPUs/accelerators, etc.), or<br>3. Deep reinforcement learning."
