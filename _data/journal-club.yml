@@ -180,8 +180,8 @@
   start-date-time: "2024-10-08 13:00"
   end-date-time: "2024-10-08 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abtract to come"
+  talk-title: "Learning Representations & Super-Resolution of Neutrino Telescope Events"
+  talk-abstract: "Neutrino telescopes detect rare interactions of particles produced in some of the most extreme environments in the Universe. This is accomplished by instrumenting a cubic-kilometer volume of naturally occurring transparent medium with light sensors. Given their substantial size and the high frequency of background interactions, these telescopes amass an enormous quantity of large variance, high-dimensional data. These attributes create substantial challenges for analyzing and reconstructing interactions, particularly when utilizing machine learning (ML) techniques. In this talk, I will present a novel approach that employs transformer-based variational autoencoders to efficiently represent neutrino telescope events by learning compact and descriptive latent representations. I will also talk about some potential applications which can take advantage of these more flexible and efficient representations, including super-resolving neutrino telescope events to enhance reconstruction performance."
   slides-link: https://iaifi.org/
   youtube-link: ""
   speaker-thrust: ""
