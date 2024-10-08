@@ -21,7 +21,7 @@ The following positions are at IAIFI-affiliated universities and therefore have 
   {% if date > now %}
 {% assign iaifi-faculty = job %}
 {% if job.type == "iaifi-faculty" %}
-#### {{job.title}}
+### {{job.title}}
 *{{job.employer}}* <br>
 {%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
 <div style = "position:relative; top:-1em;" >

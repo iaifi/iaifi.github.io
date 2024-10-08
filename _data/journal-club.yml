@@ -201,7 +201,7 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Computation of Quark Masses in String Theory"
   talk-abstract: "We present a numerical computation, based on neural network techniques, of the physical Yukawa couplings in a heterotic string theory model obtained after compactification on a Calabi-Yau threefold.  I consider examples from a large class of models with precisely the MSSM low-energy spectrum, plus fields uncharged under the standard-model group. Suitable neural networks are used to compute the relevant quantities. I will discuss the general problem of learning functions on manifolds, equivariant neural networks, and generalisation to other models and constructions."
-  slides-link:
+  slides-link: "https://drive.google.com/file/d/12PEpNWwDeJTJglxaYHsXHPTWP9aNg3dq/view?usp=drive_link"
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "Man"
