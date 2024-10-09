@@ -161,8 +161,8 @@
   start-date-time: "2024-10-15 13:00"
   end-date-time: "2024-10-15 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abtract to come"
+  talk-title: "Surrogate Modeling for Supernova Feedback toward Star-by-star Simulations of Milky-Way-sized Galaxies"
+  talk-abstract: "In recent decades, improvements in galaxy simulations have revealed the interdependence of multiscale gas physics, such as star formation and feedback processes. Still, so-called sub-grid models have been widely used due to limited resolution and scalability. Even in zoom-in simulations, the mass resolution is capped at around 1,000 solar masses. To address this, we are developing the ASURA-FDPS code to leverage exascale computing for simulating individual stars and feedback in galaxies. Challenges in scalability arise from localized short-timescale events like supernovae (SNe). To overcome this, we developed a machine-learning-based surrogate model that predicts SNe feedback 100,000 years ahead, reducing the computational cost to 1% of direct resolution. This presentation discusses the fidelity and progress of high-resolution galaxy simulations using this approach."
   slides-link: https://iaifi.org/
   youtube-link: ""
   speaker-thrust: ""
@@ -182,10 +182,10 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Learning Representations & Super-Resolution of Neutrino Telescope Events"
   talk-abstract: "Neutrino telescopes detect rare interactions of particles produced in some of the most extreme environments in the Universe. This is accomplished by instrumenting a cubic-kilometer volume of naturally occurring transparent medium with light sensors. Given their substantial size and the high frequency of background interactions, these telescopes amass an enormous quantity of large variance, high-dimensional data. These attributes create substantial challenges for analyzing and reconstructing interactions, particularly when utilizing machine learning (ML) techniques. In this talk, I will present a novel approach that employs transformer-based variational autoencoders to efficiently represent neutrino telescope events by learning compact and descriptive latent representations. I will also talk about some potential applications which can take advantage of these more flexible and efficient representations, including super-resolving neutrino telescope events to enhance reconstruction performance."
-  slides-link: https://iaifi.org/
+  slides-link: "https://drive.google.com/file/d/1uB_ruIRmqHKa8BQ06vbCJbEfpUVPeyWF/view?usp=sharing"
   youtube-link: ""
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "physics experiment"
+  speaker-gender: "Man"
   talk-attendance: 13 in person, 2 virtual
   
 - type: "fall-2024"
