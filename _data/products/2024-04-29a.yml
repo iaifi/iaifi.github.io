@@ -1,0 +1,12 @@
+type: paper
+iaifi-thrust: A
+title: "SN 2024ggi in NGC 3621: Rising Ionization in a Nearby, CSM-Interacting Type II Supernova"
+authors: CW. V. Jacobson-Galán, K. W. Davis, C. D. Kilpatrick, L. Dessart, R. Margutti, R. Chornock, R. J. Foley, P. Arunachalam, K. Auchettl, C. R. Bom, R. Cartier, D. A. Coulter, G. Dimitriadis, D. Dickinson, M. R. Drout, A. T. Gagliano, C. Gall, B. Garretson, L. Izzo, D. O. Jones, N. LeBaron, H.-Y. Miao, D. Milisavljevic, Y.-C. Pan, A. Rest, C. Rojas-Bravo, A. Santos, H. Sears, B. M. Subrayan, K. Taggart, S. Tinyanont
+abstract: "We present UV/optical/NIR observations and modeling of supernova (SN) 2024ggi, a type II supernova (SN II) located in NGC 3621 at 7.2 Mpc. Early-time ('flash') spectroscopy of SN 2024ggi within +0.8 days of discovery shows emission lines of H I, He I, C III, and N III with a narrow core and broad, symmetric wings (i.e., IIn-like) arising from the photoionized, optically-thick, unshocked circumstellar material (CSM) that surrounded the progenitor star at shock breakout. By the next spectral epoch at +1.5 days, SN 2024ggi showed a rise in ionization as emission lines of He II, C IV, N IV/V and O V became visible. This phenomenon is temporally consistent with a blueward shift in the UV/optical colors, both likely the result of shock breakout in an extended, dense CSM. The IIn-like features in SN 2024ggi persist on a timescale of tIIn=3.8±1.6 days at which time a reduction in CSM density allows the detection of Doppler broadened features from the fastest SN material. SN 2024ggi has peak UV/optical absolute magnitudes of Mw2=−18.7 mag and Mg=−18.1 mag that are consistent with the known population of CSM-interacting SNe II. Comparison of SN 2024ggi with a grid of radiation hydrodynamics and non-local thermodynamic equilibrium (nLTE) radiative-transfer simulations suggests a progenitor mass-loss rate of M˙=10−2M⊙ yr−1 (vw = 50 km/s), confined to a distance of r<5×1014 cm. Assuming a wind velocity of vw = 50 km/s, the progenitor star underwent an enhanced mass-loss episode in the last ~3 years before explosion."
+arxiv: "2404.19006"
+journal: "The Astrophysical Journal, 2024, Volume 972, Number 2"
+doi: "http://dx.doi.org/10.3847/1538-4357/ad5c64"
+nsf-par:
+code: 
+publication-date: 2024-09-05
+bib-tex:
