@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: T
+title: "Attractors, Geodesics, and the Geometry of Moduli Spaces"
+authors: "Fabian Ruehle, Benjamin Sung"
+abstract: "We connect recent conjectures and observations pertaining to geodesics, attractor flows, Laplacian eigenvalues and the geometry of moduli spaces by using that attractor flows are geodesics. For toroidal compactifications, attractor points are related to (degenerate) masses of the Laplacian on the target space, and also to the Laplacian on the moduli space. We also explore compactifications of M-Theory to 5D on a Calabi-Yau threefold and argue that geodesics are unique in a special set of classes, providing further evidence for a recent conjecture by Raman and Vafa. Finally, we describe the role of the marked moduli space in 4d =2 compactifications. We study split attractor flows in an explicit example of the one-parameter family of quintics and discuss setups where flops to isomorphic Calabi-Yau manifolds exist."
+arxiv: "2408.00830"
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @misc{ruehle2024attractorsgeodesicsgeometrymoduli,
+      title={Attractors, Geodesics, and the Geometry of Moduli Spaces},
+      author={Fabian Ruehle and Benjamin Sung},
+      year={2024},
+      eprint={2408.00830},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2408.00830}, 
+  }

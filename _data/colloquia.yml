@@ -70,8 +70,8 @@
   start-date-time: "2024-10-25 14:00"
   end-date-time: "2024-10-25 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Title TBA."
-  talk-abstract: "Abstract TBA.<br><br><br><br><br>"
+  talk-title: "From Victorian trains to chatbots, via high-dimensional geometry"
+  talk-abstract: "Is language all you need to interact with AI, or is there room for other interfaces? Our talk will explore how we might help people work with AI effectively, safely, and enjoyably. Taking inspiration from the role of transparency in Victorian railways, we dive into the internal geometry of deep neural networks. The goal is a new kind of AI instrumentation: a dashboard for large language models. We argue that if toasters and coffeemakers have displays that tell you their internal state, we should expect nothing less from a machine learning model with a trillion parameters."
   slides-link: "TBD"
   youtube-link: TBD
   speaker-thrust: "TBD"
