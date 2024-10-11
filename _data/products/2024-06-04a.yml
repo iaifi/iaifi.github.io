@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: F
+title: "OccamLLM: Fast and Exact Language Model Arithmetic in a Single Step"
+authors: "Owen Dugan, Donato Manuel Jimenez Beneto, Charlotte Loh, Zhuo Chen, Rumen Dangovski, Marin Soljačić"
+abstract: "Despite significant advancements in text generation and reasoning, Large Language Models (LLMs) still face challenges in accurately performing complex arithmetic operations. Language model systems often enable LLMs to generate code for arithmetic operations to achieve accurate calculations. However, this approach compromises speed and security, and fine-tuning risks the language model losing prior capabilities. We propose a framework that enables exact arithmetic in a single autoregressive step, providing faster, more secure, and more interpretable LLM systems with arithmetic capabilities. We use the hidden states of a LLM to control a symbolic architecture that performs arithmetic. Our implementation using Llama 3 with OccamNet as a symbolic model (OccamLlama) achieves 100% accuracy on single arithmetic operations (+,−,×,÷,sin,cos,log,exp,√), outperforming GPT 4o with and without a code interpreter. Furthermore, OccamLlama outperforms GPT 4o with and without a code interpreter on average across a range of mathematical problem solving benchmarks, demonstrating that OccamLLMs can excel in arithmetic tasks, even surpassing much larger models. We will make our code public shortly."
+arxiv: "2406.06576"
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @misc{dugan2024occamllmfastexactlanguage,
+      title={OccamLLM: Fast and Exact Language Model Arithmetic in a Single Step},
+      author={Owen Dugan and Donato Manuel Jimenez Beneto and Charlotte Loh and Zhuo Chen and Rumen Dangovski and Marin Soljačić},
+      year={2024},
+      eprint={2406.06576},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2406.06576},
+  }

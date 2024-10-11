@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: A
+title: "LINX: A Fast, Differentiable, and Extensible Big Bang Nucleosynthesis Package"
+authors: "Cara Giovanetti, Mariangela Lisanti, Hongwan Liu, Siddharth Mishra-Sharma, Joshua T. Ruderman"
+abstract: "We introduce LINX (Light Isotope Nucleosynthesis with JAX), a new differentiable public Big Bang Nucleosynthesis (BBN) code designed for fast parameter estimation. By leveraging JAX, LINX achieves both speed and differentiability, enabling the use of Bayesian inference, including gradient-based methods. We discuss the formalism used in LINX for rapid primordial elemental abundance predictions and give examples of how LINX can be used. When combined with differentiable Cosmic Microwave Background (CMB) power spectrum emulators, LINX can be used for joint CMB and BBN analyses without requiring extensive computational resources, including on personal hardware."
+arxiv: "2408.14538"
+journal:
+doi:
+nsf-par:
+code: https://github.com/cgiovanetti/LINX
+publication-date:
+bib-tex: |
+  @misc{giovanetti2024linxfastdifferentiableextensible,
+      title={LINX: A Fast, Differentiable, and Extensible Big Bang Nucleosynthesis Package},
+      author={Cara Giovanetti and Mariangela Lisanti and Hongwan Liu and Siddharth Mishra-Sharma and Joshua T. Ruderman},
+      year={2024},
+      eprint={2408.14538},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2408.14538},
+  }

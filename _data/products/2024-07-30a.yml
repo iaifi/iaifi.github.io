@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: A
+title: "A Generative Modeling Approach to Reconstructing 21-cm Tomographic Data"
+authors: "Nashwan Sabti, Ram Reddy, Julian B. Muñoz, Siddharth Mishra-Sharma, Taewook Youn"
+abstract: "Analyses of the cosmic 21-cm signal are hampered by astrophysical foregrounds that are far stronger than the signal itself. These foregrounds, typically confined to a wedge-shaped region in Fourier space, often necessitate the removal of a vast majority of modes, thereby degrading the quality of the data anisotropically. To address this challenge, we introduce a novel deep generative model based on stochastic interpolants to reconstruct the 21-cm data lost to wedge filtering. Our method leverages the non-Gaussian nature of the 21-cm signal to effectively map wedge-filtered 3D lightcones to samples from the conditional distribution of wedge-recovered lightcones. We demonstrate how our method is able to restore spatial information effectively, considering both varying cosmological initial conditions and astrophysics. Furthermore, we discuss a number of future avenues where this approach could be applied in analyses of the 21-cm signal, potentially offering new opportunities to improve our understanding of the Universe during the epochs of cosmic dawn and reionization."
+arxiv: "2407.21097"
+journal:
+doi:
+nsf-par:
+code: https://github.com/NNSSA/Rec21
+publication-date:
+bib-tex: |
+  @misc{sabti2024generativemodelingapproachreconstructing,
+      title={A Generative Modeling Approach to Reconstructing 21-cm Tomographic Data},
+      author={Nashwan Sabti and Ram Reddy and Julian B. Muñoz and Siddharth Mishra-Sharma and Taewook Youn},
+      year={2024},
+      eprint={2407.21097},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2407.21097},
+  }

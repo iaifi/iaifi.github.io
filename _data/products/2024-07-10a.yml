@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: A
+title: "The Type I Superluminous Supernova Catalog I: Light Curve Properties, Models, and Catalog Description"
+authors: "Sebastian Gomez, Matt Nicholl, Edo Berger, Peter K. Blanchard, V. Ashley Villar, Sofia Rest, Griffin Hosseinzadeh, Aysha Aamer, Yukta Ajay, Wasundara Athukoralalage, David C. Coulter, Tarraneh Eftekhari, Achille Fiore, Noah Franz, Ori Fox, Alexander Gagliano, Daichi Hiramatsu, D. Andrew Howell, Brian Hsu, Mitchell Karmen, Matthew R. Siebert, Réka Könyves-Tóth, Harsh Kumar, Curtis McCully, Craig Pellegrino, Justin Pierel, Armin Rest, Qinan Wang"
+abstract: "We present the most comprehensive catalog to date of Type I Superluminous Supernovae (SLSNe), a class of stripped envelope supernovae (SNe) characterized by exceptionally high luminosities. We have compiled a sample of 262 SLSNe reported through 2022 December 31. We verified the spectroscopic classification of each SLSN and collated an exhaustive data set of UV, optical and IR photometry from both publicly available data and our own FLEET observational follow-up program, totaling over 30,000 photometric detections. Using these data we derive observational parameters such as the peak absolute magnitudes, rise and decline timescales, as well as bolometric luminosities, temperature and photospheric radius evolution for all SLSNe. Additionally, we model all light curves using a hybrid model that includes contributions from both a magnetar central engine and the radioactive decay of 56Ni. We explore correlations among various physical and observational parameters, and recover the previously found relation between ejecta mass and magnetar spin, as well as the overall progenitor pre-explosion mass distribution with a peak at ≈6.5 M⊙. We find no significant redshift dependence for any parameter, and no evidence for distinct sub-types of SLSNe. We find that <3% of SLSNe are best fit with a significant contribution from radioactive decay ≳50%, representing a set of relatively dim and slowly declining SNe. We provide several analytical tools designed to simulate typical SLSN light curves across a broad range of wavelengths and phases, enabling accurate K-corrections, bolometric scaling calculations, and inclusion of SLSNe in survey simulations or future comparison works. The complete catalog, including all of the photometry, models, and derived parameters, is made available as an open-source resource on GitHub."
+arxiv: "2407.07946"
+journal:
+doi:
+nsf-par:
+code: https://github.com/gmzsebastian/SLSNe
+publication-date:
+bib-tex: |
+  @misc{gomez2024typeisuperluminoussupernova,
+      title={The Type I Superluminous Supernova Catalog I: Light Curve Properties, Models, and Catalog Description},
+      author={Sebastian Gomez and Matt Nicholl and Edo Berger and Peter K. Blanchard and V. Ashley Villar and Sofia Rest and Griffin Hosseinzadeh and Aysha Aamer and Yukta Ajay and Wasundara Athukoralalage and David C. Coulter and Tarraneh Eftekhari and Achille Fiore and Noah Franz and Ori Fox and Alexander Gagliano and Daichi Hiramatsu and D. Andrew Howell and Brian Hsu and Mitchell Karmen and Matthew R. Siebert and Réka Könyves-Tóth and Harsh Kumar and Curtis McCully and Craig Pellegrino and Justin Pierel and Armin Rest and Qinan Wang},
+      year={2024},
+      eprint={2407.07946},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2407.07946},
+  }
