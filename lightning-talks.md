@@ -7,10 +7,7 @@ aside:
 
 Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC). 
 
-## Upcoming Discussion Sessions 
-* **IAIFI Mini-Symposium**
-     * **Friday, September 27, 2024, 2:00pm–3:00pm**
-     * Details to come
+## Upcoming Discussion 
 
 * **IAIFI Thematic Discussion: Robust AI**
      * **Friday, October 18, 2024, 2:00pm–3:00pm**
@@ -20,6 +17,10 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 
 ## Past Lightning Talks
 [Access recordings of past lightning talks (for IAIFI members only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=share_link)
+
+* **IAIFI Mini-Symposium**
+     * **Friday, September 27, 2024, 2:00pm–3:00pm**
+     * *The Mini Symposium will include one hour of 2-minute overview talks by IAIFI Senior Investigators and Fellows, presenting their research interests broadly. Presenters will include Jesse Thaler, Gaia Grosso, Jessie Micallef, Lina Necib, Marin Soljacic, Nikhil Mukund, Phil Harris, Sam Bright-Thonney, Shuchin Aeron, Thomas Harvey, and more.*
 
 * **State of the IAIFI**
      * **Friday, September 6, 2024, 2:00pm–3:00pm**
