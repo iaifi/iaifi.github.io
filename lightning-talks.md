@@ -11,9 +11,8 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 
 * **IAIFI Thematic Discussion: Robust AI**
      * **Friday, October 18, 2024, 2:00pm–3:00pm**
-     * Led bby Alex Gagliano, IAIFI Fellow
-     * Details to come
-
+     * Led by Alex Gagliano and Sam Bright-Thonney, IAIFI Fellows
+     * *Many of the recent successes in AI rely on the manifold hypothesis: that most high-dimensional data lie on a lower-dimensional manifold. From transfer to contrastive learning to foundation modeling, significant effort has been devoted to methods to efficiently find and map input data to this latent space. In this Thematic Discussion Session, we'll hear from three distinguished speakers on extracting meaningful latent representations from data from the physical sciences. After three 10-minute lightning talks, we'll have a 30 minute open discussion/Q&A session to explore the major challenges and opportunities in this field. We encourage attendees to come with questions and insights from their own work!*
 
 ## Past Lightning Talks
 [Access recordings of past lightning talks (for IAIFI members only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=share_link)
