@@ -52,19 +52,19 @@
   talk-location: "MIT Cosman Room (6C-442)"
   talk-title: "Navigating the String Landscape with Machine Learning Techniques"
   talk-abstract: "String theory is a framework for quantum gravity that seemingly encompasses all necessary features to describe our universe. The study of this theory has yielded significant insights in various domains of physics and mathematics, such as the quantum nature of black holes and the discovery of mirror symmetry. Despite these successes, due to the vast array of possible initial conditions, it remains unclear if we live somewhere in the “string landscape”. In this talk, we present efforts to leverage Reinforcement Learning to navigate this landscape and geometrically engineer quasi-realistic models of particle physics. Furthermore, we explore how recent advances in applying neural networks to numerical geometry have enabled the calculation of previously inaccessible properties of the low-energy theory, particularly Yukawa couplings and quark masses."
-  slides-link: "TBD"
-  youtube-link: TBD
+  slides-link: "talks/2024_10_11_IAIFI_Colloquium_Harvey.pdf"
+  youtube-link: https://www.youtube.com/live/ibi8EEOUMuA?si=ka7Tgh3R_-AKvTn0
   speaker-thrust: "physics theory"
   speaker-gender: "man"
-  talk-attendance: 0 in person, 0 virtual
+  talk-attendance: 17 in person, 21 virtual
   
 - type: "colloquium"
   semester: "fall-2024"
   speaker-name: Fernanda Viégas
   speaker-title: Professor of Computer Science
-  speaker-affiliation: Harvard University
+  speaker-affiliation: Harvard University; and [Martin Wattenberg](https://www.bewitched.com/about.html), Professor of Computer Science, Harvard University
   speaker-website: "http://www.fernandaviegas.com/"
-  speaker-photo-location: "images/small-photo-fernanda-viegas.jpg"
+  speaker-photo-location: "images/small-photo-fernanda-martin.jpg"
   talk-date: "2024-10-26"
   talk-date-time: "Friday, October 25, 2024, 2:00–3:00 pm"
   start-date-time: "2024-10-25 14:00"

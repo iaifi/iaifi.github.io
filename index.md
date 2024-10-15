@@ -93,7 +93,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Our [IAIFI Colloquium series](events.html) will continue with Thomas Harvey on Friday, October 11, 2024.*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7).
+***Our [IAIFI Colloquium series](events.html) will continue with Fernanda Viégas and Martin Wattenberg on Friday, October 25, 2024.*** Recordings of our previous [hybrid colloquium series](events.html) are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>

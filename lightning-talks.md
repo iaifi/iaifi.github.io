@@ -7,19 +7,19 @@ aside:
 
 Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room, Building 26, Room 414) and over [Zoom](https://mit.zoom.us/j/92183041364?pwd%3DN3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw0SMrjNzSOUddjpaY3nOnCC). 
 
-## Upcoming Discussion Sessions 
-* **IAIFI Mini-Symposium**
-     * **Friday, September 27, 2024, 2:00pm–3:00pm**
-     * Details to come
+## Upcoming Discussion 
 
 * **IAIFI Thematic Discussion: Robust AI**
      * **Friday, October 18, 2024, 2:00pm–3:00pm**
-     * Led bby Alex Gagliano, IAIFI Fellow
-     * Details to come
-
+     * Led by Alex Gagliano and Sam Bright-Thonney, IAIFI Fellows
+     * *Many of the recent successes in AI rely on the manifold hypothesis: that most high-dimensional data lie on a lower-dimensional manifold. From transfer to contrastive learning to foundation modeling, significant effort has been devoted to methods to efficiently find and map input data to this latent space. In this Thematic Discussion Session, we'll hear from three distinguished speakers on extracting meaningful latent representations from data from the physical sciences. After three 10-minute lightning talks, we'll have a 30 minute open discussion/Q&A session to explore the major challenges and opportunities in this field. We encourage attendees to come with questions and insights from their own work!*
 
 ## Past Lightning Talks
 [Access recordings of past lightning talks (for IAIFI members only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=share_link)
+
+* **IAIFI Mini-Symposium**
+     * **Friday, September 27, 2024, 2:00pm–3:00pm**
+     * *The Mini Symposium will include one hour of 2-minute overview talks by IAIFI Senior Investigators and Fellows, presenting their research interests broadly. Presenters will include Jesse Thaler, Gaia Grosso, Jessie Micallef, Lina Necib, Marin Soljacic, Nikhil Mukund, Phil Harris, Sam Bright-Thonney, Shuchin Aeron, Thomas Harvey, and more.*
 
 * **State of the IAIFI**
      * **Friday, September 6, 2024, 2:00pm–3:00pm**
