@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{detmold2023constraintpionlesseftusing,
+      title={Constraint of pionless EFT using two-nucleon spectra from lattice QCD},
+      author={William Detmold and Fernando Romero-López and Phiala E. Shanahan},
+      year={2023},
+      eprint={2305.06313},
+      archivePrefix={arXiv},
+      primaryClass={nucl-th},
+      url={https://arxiv.org/abs/2305.06313},
+  }

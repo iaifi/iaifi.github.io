@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://deanhazineh.github.io/publications/Multi Image Synthesis/MIS Home.html
 publication-date: 
+bib-tex: |
+  @misc{hazineh2023polarizationmultiimagesynthesisbirefringent,
+      title={Polarization Multi-Image Synthesis with Birefringent Metasurfaces},
+      author={Dean Hazineh and Soon Wei Daniel Lim and Qi Guo and Federico Capasso and Todd Zickler},
+      year={2023},
+      eprint={2307.08106},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2307.08106},
+  }

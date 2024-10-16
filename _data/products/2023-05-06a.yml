@@ -9,3 +9,17 @@ doi: https://doi.org/10.1051/epjconf/202429509036
 nsf-par: "10525742"
 code: https://github.com/fastmachinelearning/hls4ml-tutorial
 publication-date: 2024-05-06
+bib-tex: |
+  @article{Tsoi_2024,
+   title={Symbolic Regression on FPGAs for Fast Machine Learning Inference},
+   volume={295},
+   ISSN={2100-014X},
+   url={http://dx.doi.org/10.1051/epjconf/202429509036},
+   DOI={10.1051/epjconf/202429509036},
+   journal={EPJ Web of Conferences},
+   publisher={EDP Sciences},
+   author={Tsoi, Ho Fung and Pol, Adrian Alan and Loncar, Vladimir and Govorkova, Ekaterina and Cranmer, Miles and Dasu, Sridhara and Elmer, Peter and Harris, Philip and Ojalvo, Isobel and Pierini, Maurizio},
+   editor={De Vita, R. and Espinal, X. and Laycock, P. and Shadura, O.},
+   year={2024},
+   pages={09036}
+  }

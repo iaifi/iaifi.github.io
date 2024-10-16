@@ -9,3 +9,17 @@ doi: https://doi.org/10.1051/0004-6361/202347628
 nsf-par: 10504094
 code: 
 publication-date: 2024-01-19
+bib-tex: |
+  @article{Edenhofer_2024,
+   title={A parsec-scale Galactic 3D dust map out to 1.25 kpc from the Sun},
+   volume={685},
+   ISSN={1432-0746},
+   url={http://dx.doi.org/10.1051/0004-6361/202347628},
+   DOI={10.1051/0004-6361/202347628},
+   journal={Astronomy &amp; Astrophysics},
+   publisher={EDP Sciences},
+   author={Edenhofer, Gordian and Zucker, Catherine and Frank, Philipp and Saydjari, Andrew K. and Speagle, Joshua S. and Finkbeiner, Douglas and Enßlin, Torsten A.},
+   year={2024},
+   month=may, pages={A82}
+  }
+

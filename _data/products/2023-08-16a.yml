@@ -9,3 +9,17 @@ doi: https://doi.org/10.1007/JHEP01%282024%29068
 nsf-par: 10505444
 code: 
 publication-date: 2024-01-24
+bib-tex: |
+  @article{de_Lacroix_2024,
+   title={Gravitational action for a massive Majorana fermion in 2d quantum gravity},
+   volume={2024},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP01(2024)068},
+   DOI={10.1007/jhep01(2024)068},
+   number={1},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={de Lacroix, Corinne and Erbin, Harold and Lahoche, Vincent},
+   year={2024},
+   month=jan
+  }

@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{brightthonney2023chainedquantilemorphingnormalizing,
+      title={Chained Quantile Morphing with Normalizing Flows},
+      author={Samuel Bright-Thonney and Philip Harris and Patrick McCormack and Simon Rothman},
+      year={2023},
+      eprint={2309.15912},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2309.15912},
+  }

@@ -9,3 +9,17 @@ doi: https://doi.org/10.1093/mnras/stad3646
 nsf-par:
 code: 
 publication-date: 2023-11-27
+bib-tex: |
+  @article{Akhmetzhanova_2023,
+   title={Data compression and inference in cosmology with self-supervised machine learning},
+   volume={527},
+   ISSN={1365-2966},
+   url={http://dx.doi.org/10.1093/mnras/stad3646},
+   DOI={10.1093/mnras/stad3646},
+   number={3},
+   journal={Monthly Notices of the Royal Astronomical Society},
+   publisher={Oxford University Press (OUP)},
+   author={Akhmetzhanova, Aizhan and Mishra-Sharma, Siddharth and Dvorkin, Cora},
+   year={2023},
+   month=nov, pages={7459–7481}
+  }

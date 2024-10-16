@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{liu2023grokkingcompressionnonlinearcomplexity,
+      title={Grokking as Compression: A Nonlinear Complexity Perspective},
+      author={Ziming Liu and Ziqian Zhong and Max Tegmark},
+      year={2023},
+      eprint={2310.05918},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2310.05918},
+  }

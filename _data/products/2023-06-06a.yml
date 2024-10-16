@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{sun2023quantumcomputationsimulationusing,
+      title={Quantum Computation and Simulation using Fermion-Pair Registers},
+      author={Xiangkai Sun and Di Luo and Soonwon Choi},
+      year={2023},
+      eprint={2306.03905},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2306.03905},
+  }

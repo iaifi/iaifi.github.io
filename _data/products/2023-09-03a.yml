@@ -9,3 +9,18 @@ doi: https://doi.org/10.1038/s42254-023-00616-w
 nsf-par: 10488626
 code: 
 publication-date: 2023-08-04
+bib-tex: |
+  @article{Cranmer_2023,
+   title={Advances in machine-learning-based sampling motivated by lattice quantum chromodynamics},
+   volume={5},
+   ISSN={2522-5820},
+   url={http://dx.doi.org/10.1038/s42254-023-00616-w},
+   DOI={10.1038/s42254-023-00616-w},
+   number={9},
+   journal={Nature Reviews Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Cranmer, Kyle and Kanwar, Gurtej and Racanière, Sébastien and Rezende, Danilo J. and Shanahan, Phiala E.},
+   year={2023},
+   month=aug, pages={526–535}
+  }
+

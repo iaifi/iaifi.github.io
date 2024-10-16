@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code:  https://github.com/NuTufts/Score_Based_Diffusion_for_LArTPC_Images
 publication-date:
+bib-tex: |
+  @misc{imani2024scorebaseddiffusionmodelsgenerating,
+      title={Score-based Diffusion Models for Generating Liquid Argon Time Projection Chamber Images},
+      author={Zeviel Imani and Shuchin Aeron and Taritree Wongjirad},
+      year={2024},
+      eprint={2307.13687},
+      archivePrefix={arXiv},
+      primaryClass={hep-ex},
+      url={https://arxiv.org/abs/2307.13687},
+  }
