@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{gromov2024unreasonableineffectivenessdeeperlayers,
+      title={The Unreasonable Ineffectiveness of the Deeper Layers},
+      author={Andrey Gromov and Kushal Tirumala and Hassan Shapourian and Paolo Glorioso and Daniel A. Roberts},
+      year={2024},
+      eprint={2403.17887},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2403.17887},
+  }

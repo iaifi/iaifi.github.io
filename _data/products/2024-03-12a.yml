@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/VTDA-Group/superphot-plus
 publication-date: 
+bib-tex: |
+  @misc{desoto2024superphotrealtimefittingclassification,
+      title={Superphot+: Realtime Fitting and Classification of Supernova Light Curves},
+      author={Kaylee M. de Soto and Ashley Villar and Edo Berger and Sebastian Gomez and Griffin Hosseinzadeh and Doug Branton and Sandro Campos and Melissa DeLucchi and Jeremy Kubica and Olivia Lynn and Konstantin Malanchev and Alex I. Malz},
+      year={2024},
+      eprint={2403.07975},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2403.07975},
+  }

@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{choi2024photonicprobabilisticmachinelearning,
+      title={Photonic probabilistic machine learning using quantum vacuum noise},
+      author={Seou Choi and Yannick Salamin and Charles Roques-Carmes and Rumen Dangovski and Di Luo and Zhuo Chen and Michael Horodynski and Jamison Sloan and Shiekh Zia Uddin and Marin Soljacic},
+      year={2024},
+      eprint={2403.04731},
+      archivePrefix={arXiv},
+      primaryClass={physics.optics},
+      url={https://arxiv.org/abs/2403.04731},
+  }

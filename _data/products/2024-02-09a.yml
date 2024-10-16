@@ -9,3 +9,18 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @article{Lin_2024,
+   title={Real-time dynamics of the Schwinger model as an open quantum system with Neural Density Operators},
+   volume={2024},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP06(2024)211},
+   DOI={10.1007/jhep06(2024)211},
+   number={6},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Lin, Joshua and Luo, Di and Yao, Xiaojun and Shanahan, Phiala E.},
+   year={2024},
+   month=jun
+  }
+

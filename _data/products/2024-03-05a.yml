@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/Roger-luo/olrgteal
 publication-date:
+bib-tex: |
+  @misc{luo2024operatorlearningrenormalizationgroup,
+      title={Operator Learning Renormalization Group},
+      author={Xiu-Zhe Luo and Di Luo and Roger G. Melko},
+      year={2024},
+      eprint={2403.03199},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2403.03199},
+  }

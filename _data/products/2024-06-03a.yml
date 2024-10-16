@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{pazos2024universalunfoldingdetectoreffects,
+      title={Towards Universal Unfolding of Detector Effects in High-Energy Physics using Denoising Diffusion Probabilistic Models},
+      author={Camila Pazos and Shuchin Aeron and Pierre-Hugues Beauchemin and Vincent Croft and Martin Klassen and Taritree Wongjirad},
+      year={2024},
+      eprint={2406.01507},
+      archivePrefix={arXiv},
+      primaryClass={physics.data-an},
+      url={https://arxiv.org/abs/2406.01507},
+  }

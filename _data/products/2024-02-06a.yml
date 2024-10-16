@@ -9,3 +9,16 @@ doi: "https://doi.org/10.33232/001c.120559"
 nsf-par: "10526434"
 code: https://github.com/maho3/ltu-ili
 publication-date: 2024-07-03
+bib-tex: |
+  @article{Ho_2024,
+   title={LtU-ILI: An All-in-One Framework for Implicit Inference in Astrophysics and Cosmology},
+   volume={7},
+   ISSN={2565-6120},
+   url={http://dx.doi.org/10.33232/001c.120559},
+   DOI={10.33232/001c.120559},
+   journal={The Open Journal of Astrophysics},
+   publisher={Maynooth University},
+   author={Ho, Matthew and Bartlett, Deaglan J. and Chartier, Nicolas and Cuesta-Lazaro, Carolina and Ding, Simon and Lapel, Axel and Lemos, Pablo and Lovell, Christopher C. and Makinen, T. Lucas and Modi, Chirag and Pandya, Viraj and Pandey, Shivam and Perez, Lucia A. and Wandelt, Benjamin and Bryan, Greg L.},
+   year={2024},
+   month=jul
+  }

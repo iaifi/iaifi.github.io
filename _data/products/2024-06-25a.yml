@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{luo2024simulatingmoirequantummatter,
+      title={Simulating moir\'e quantum matter with neural network},
+      author={Di Luo and David D. Dai and Liang Fu},
+      year={2024},
+      eprint={2406.17645},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.str-el},
+      url={https://arxiv.org/abs/2406.17645},
+  }

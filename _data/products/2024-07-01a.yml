@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{grosso2024anomalyawaresummarystatisticdata,
+      title={Anomaly-aware summary statistic from data batches},
+      author={Gaia Grosso},
+      year={2024},
+      eprint={2407.01249},
+      archivePrefix={arXiv},
+      primaryClass={hep-ex},
+      url={https://arxiv.org/abs/2407.01249},
+  }

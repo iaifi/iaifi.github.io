@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{gerstgrasser2024modelcollapseinevitablebreaking,
+      title={Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data},
+      author={Matthias Gerstgrasser and Rylan Schaeffer and Apratim Dey and Rafael Rafailov and Henry Sleight and John Hughes and Tomasz Korbak and Rajashree Agrawal and Dhruv Pai and Andrey Gromov and Daniel A. Roberts and Diyi Yang and David L. Donoho and Sanmi Koyejo},
+      year={2024},
+      eprint={2404.01413},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2404.01413},
+  }

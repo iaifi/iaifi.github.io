@@ -9,3 +9,18 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @article{Bright_Thonney_2024,
+   title={Infrared-safe energy weighting does not guarantee small nonperturbative effects},
+   volume={110},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.110.014029},
+   DOI={10.1103/physrevd.110.014029},
+   number={1},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Bright-Thonney, Samuel and Nachman, Benjamin and Thaler, Jesse},
+   year={2024},
+   month=jul
+  }
+

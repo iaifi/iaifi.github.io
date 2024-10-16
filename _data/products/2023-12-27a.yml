@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/alexandergagliano/physics_CVAE
 publication-date: 
+bib-tex: |
+  @misc{gagliano2023physicsinformedvariationalautoencoderrapid,
+      title={A Physics-Informed Variational Autoencoder for Rapid Galaxy Inference and Anomaly Detection},
+      author={Alexander Gagliano and V. Ashley Villar},
+      year={2023},
+      eprint={2312.16687},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM},
+      url={https://arxiv.org/abs/2312.16687},
+  }

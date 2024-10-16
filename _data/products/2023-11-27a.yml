@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/atomicarchitects/symphony
 publication-date: 
+bib-tex: |
+  @misc{daigavane2024symphonysymmetryequivariantpointcenteredspherical,
+      title={Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for 3D Molecule Generation},
+      author={Ameya Daigavane and Song Kim and Mario Geiger and Tess Smidt},
+      year={2024},
+      eprint={2311.16199},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2311.16199},
+  }

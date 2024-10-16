@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https:// github.com/smsharma/eft-hod
 publication-date: 
+bib-tex: |
+  @misc{ivanov2024fullshapeanalysissimulationbasedpriors,
+      title={Full-shape analysis with simulation-based priors: constraints on single field inflation from BOSS},
+      author={Mikhail M. Ivanov and Carolina Cuesta-Lazaro and Siddharth Mishra-Sharma and Andrej Obuljen and Michael W. Toomey},
+      year={2024},
+      eprint={2402.13310},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2402.13310},
+  }

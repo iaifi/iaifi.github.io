@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code:  https://github.com/ ejmichaud/neural-verification
 publication-date: 
+bib-tex: |
+  @misc{michaud2024openingaiblackbox,
+      title={Opening the AI black box: program synthesis via mechanistic interpretability},
+      author={Eric J. Michaud and Isaac Liao and Vedang Lad and Ziming Liu and Anish Mudide and Chloe Loughridge and Zifan Carl Guo and Tara Rezaei Kheirkhah and Mateja Vukelić and Max Tegmark},
+      year={2024},
+      eprint={2402.05110},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2402.05110},
+  }
