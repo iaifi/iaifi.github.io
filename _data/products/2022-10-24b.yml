@@ -9,3 +9,17 @@ doi: https://www.mdpi.com/1099-4300/25/1/175
 nsf-par:
 code: https://github.com/ejmichaud/precision-ml
 publication-date: 2023-01-15
+bib-tex: |
+  @article{Michaud_2023,
+   title={Precision Machine Learning},
+   volume={25},
+   ISSN={1099-4300},
+   url={http://dx.doi.org/10.3390/e25010175},
+   DOI={10.3390/e25010175},
+   number={1},
+   journal={Entropy},
+   publisher={MDPI AG},
+   author={Michaud, Eric J. and Liu, Ziming and Tegmark, Max},
+   year={2023},
+   month=jan, pages={175}
+  }

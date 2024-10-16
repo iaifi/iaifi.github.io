@@ -9,3 +9,18 @@ doi: https://doi.org/10.3847/1538-4357/acc32c
 nsf-par: 10488625
 code: https://github.com/nmudur/HighLatMaps/
 publication-date: 2023-02-20
+bib-tex: |
+  @article{Mudur_2023,
+   title={Stellar-reddening-based Extinction Maps for Cosmological Applications},
+   volume={949},
+   ISSN={1538-4357},
+   url={http://dx.doi.org/10.3847/1538-4357/acc32c},
+   DOI={10.3847/1538-4357/acc32c},
+   number={2},
+   journal={The Astrophysical Journal},
+   publisher={American Astronomical Society},
+   author={Mudur, Nayantara and Park, Core Francisco and Finkbeiner, Douglas P.},
+   year={2023},
+   month=may, pages={47}
+  }
+

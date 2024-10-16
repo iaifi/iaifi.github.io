@@ -9,3 +9,18 @@ doi: https://doi.org/10.1103/PhysRevD.107.063541
 nsf-par:
 code: 
 publication-date: 2023-03-27
+bib-tex: |
+  @article{Sun_2023,
+   title={Modeling early-universe energy injection with dense neural networks},
+   volume={107},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.107.063541},
+   DOI={10.1103/physrevd.107.063541},
+   number={6},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Sun, Yitian and Slatyer, Tracy R.},
+   year={2023},
+   month=mar
+  }
+

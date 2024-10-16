@@ -9,3 +9,13 @@ doi: https://doi.org/10.1007/JHEP04(2021)070
 nsf-par: 10505432
 code:
 publication-date: 2023-09-27
+bib-tex: |
+  @misc{mcbreen2023ellipticstableenvelopeshypertoric,
+      title={Elliptic stable envelopes and hypertoric loop spaces},
+      author={Michael McBreen and Artan Sheshmani and Shing-Tung Yau},
+      year={2023},
+      eprint={2010.00670},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2010.00670},
+  }

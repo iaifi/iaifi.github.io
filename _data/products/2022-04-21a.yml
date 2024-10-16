@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{chuang2022diffcsedifferencebasedcontrastivelearning,
+      title={DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings},
+      author={Yung-Sung Chuang and Rumen Dangovski and Hongyin Luo and Yang Zhang and Shiyu Chang and Marin Soljačić and Shang-Wen Li and Wen-tau Yih and Yoon Kim and James Glass},
+      year={2022},
+      eprint={2204.10298},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2204.10298},
+  }

@@ -9,3 +9,17 @@ doi: https://doi.org/10.1007/JHEP09(2021)058
 nsf-par: 10299647
 code:
 publication-date: 2021-09-09
+bib-tex: |
+  @article{Flesher_2021,
+   title={Parameter inference from event ensembles and the top-quark mass},
+   volume={2021},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP09(2021)058},
+   DOI={10.1007/jhep09(2021)058},
+   number={9},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Flesher, Forrest and Fraser, Katherine and Hutchison, Charles and Ostdiek, Bryan and Schwartz, Matthew D.},
+   year={2021},
+   month=sep
+  }

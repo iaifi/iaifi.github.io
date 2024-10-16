@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.106.074506
 nsf-par:
 code: 
 publication-date: 2022-10-18
+bib-tex: |
+  @article{Abbott_2022,
+   title={Gauge-equivariant flow models for sampling in lattice field theories with pseudofermions},
+   volume={106},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.106.074506},
+   DOI={10.1103/physrevd.106.074506},
+   number={7},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Abbott, Ryan and Albergo, Michael S. and Boyda, Denis and Cranmer, Kyle and Hackett, Daniel C. and Kanwar, Gurtej and Racanière, Sébastien and Rezende, Danilo J. and Romero-López, Fernando and Shanahan, Phiala E. and Tian, Betsy and Urban, Julian M.},
+   year={2022},
+   month=oct
+  }

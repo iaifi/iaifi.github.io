@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/Harvard-Neutrino/prometheus
 publication-date: 
+bib-tex: |
+  @misc{lazar2023prometheusopensourceneutrinotelescope,
+      title={Prometheus: An Open-Source Neutrino Telescope Simulation},
+      author={Jeffrey Lazar and Stephan Meighen-Berger and Christian Haack and David Kim and Santiago Giner and Carlos A. Argüelles},
+      year={2023},
+      eprint={2304.14526},
+      archivePrefix={arXiv},
+      primaryClass={hep-ex},
+      url={https://arxiv.org/abs/2304.14526},
+  }

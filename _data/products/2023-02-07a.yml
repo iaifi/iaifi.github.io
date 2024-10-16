@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{chong2023geometrycontactcontactplanning,
+      title={Geometry of contact: contact planning for multi-legged robots via spin models duality},
+      author={Baxi Chong and Di Luo and Tianyu Wang and Gabriel Margolis and Juntao He and Pulkit Agrawal and Marin Soljačić and Daniel I. Goldman},
+      year={2023},
+      eprint={2302.03019},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2302.03019},
+  }

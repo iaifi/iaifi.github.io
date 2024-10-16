@@ -9,3 +9,17 @@ doi: https://doi.org/10.1093/mnras/stac3014
 nsf-par: 10391620
 code: 
 publication-date: 2022-10-20
+bib-tex: |
+  @article{Zhang_2022,
+   title={Inferring subhalo effective density slopes from strong lensing observations with neural likelihood-ratio estimation},
+   volume={517},
+   ISSN={1365-2966},
+   url={http://dx.doi.org/10.1093/mnras/stac3014},
+   DOI={10.1093/mnras/stac3014},
+   number={3},
+   journal={Monthly Notices of the Royal Astronomical Society},
+   publisher={Oxford University Press (OUP)},
+   author={Zhang, Gemma and Mishra-Sharma, Siddharth and Dvorkin, Cora},
+   year={2022},
+   month=oct, pages={4317–4326}
+  }

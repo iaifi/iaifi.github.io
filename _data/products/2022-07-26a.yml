@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.107.103014
 nsf-par: 10488634
 code: 
 publication-date: 2023-05-09
+bib-tex: |
+  @article{Bariuan_2023,
+   title={Characterizing the expected behavior of non-Poissonian template fitting},
+   volume={107},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.107.103014},
+   DOI={10.1103/physrevd.107.103014},
+   number={10},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Bariuan, Luis Gabriel C. and Slatyer, Tracy R.},
+   year={2023},
+   month=may
+  }

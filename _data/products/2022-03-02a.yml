@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.106.035014
 nsf-par: 10376762
 code: 
 publication-date: 2022-08-12S
+bib-tex: |
+  @article{Bradshaw_2022,
+   title={Creating simple, interpretable anomaly detectors for new physics in jet substructure},
+   volume={106},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.106.035014},
+   DOI={10.1103/physrevd.106.035014},
+   number={3},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Bradshaw, Layne and Chang, Spencer and Ostdiek, Bryan},
+   year={2022},
+   month=aug
+  }

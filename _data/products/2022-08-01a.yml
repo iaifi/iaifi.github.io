@@ -9,3 +9,17 @@ doi: https://doi.org/10.1093/mnras/stad706
 nsf-par: 10505460
 code: 
 publication-date: 2023-03-09
+bib-tex: |
+  @article{Ou_2023,
+   title={Robust clustering of the local Milky Way stellar kinematic substructures with Gaia eDR3},
+   volume={521},
+   ISSN={1365-2966},
+   url={http://dx.doi.org/10.1093/mnras/stad706},
+   DOI={10.1093/mnras/stad706},
+   number={2},
+   journal={Monthly Notices of the Royal Astronomical Society},
+   publisher={Oxford University Press (OUP)},
+   author={Ou, Xiaowei and Necib, Lina and Frebel, Anna},
+   year={2023},
+   month=mar, pages={2623–2648}
+  }

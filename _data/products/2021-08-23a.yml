@@ -9,3 +9,18 @@ doi: https://doi.org/10.1103/PhysRevD.104.014513
 nsf-par: 10404282
 code: 
 publication-date: 2021-07-30
+bib-tex: |
+  @article{Kanwar_2021,
+   title={Real-time lattice gauge theory actions: Unitarity, convergence, and path integral contour deformations},
+   volume={104},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.104.014513},
+   DOI={10.1103/physrevd.104.014513},
+   number={1},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Kanwar, Gurtej and Wagman, Michael L.},
+   year={2021},
+   month=jul
+  }
+

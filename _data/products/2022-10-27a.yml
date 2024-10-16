@@ -9,3 +9,16 @@ doi: https://doi.org/10.1016/j.physletb.2023.137890
 nsf-par: 10505446
 code: 
 publication-date: 2023-05-10
+bib-tex: |
+  @article{Yunus_2023,
+   title={Large-time correlation functions in bosonic lattice field theories},
+   volume={840},
+   ISSN={0370-2693},
+   url={http://dx.doi.org/10.1016/j.physletb.2023.137890},
+   DOI={10.1016/j.physletb.2023.137890},
+   journal={Physics Letters B},
+   publisher={Elsevier BV},
+   author={Yunus, Cagin and Detmold, William},
+   year={2023},
+   month=may, pages={137890}
+  }

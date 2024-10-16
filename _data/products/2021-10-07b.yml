@@ -9,3 +9,18 @@ doi: "https://doi.org/10.1038/s41586-022-05387-5"
 nsf-par:
 code: 
 publication-date: 2023-01-04
+bib-tex: |
+  @article{Yang_2023,
+   title={Photonic flatband resonances for free-electron radiation},
+   volume={613},
+   ISSN={1476-4687},
+   url={http://dx.doi.org/10.1038/s41586-022-05387-5},
+   DOI={10.1038/s41586-022-05387-5},
+   number={7942},
+   journal={Nature},
+   publisher={Springer Science and Business Media LLC},
+   author={Yang, Yi and Roques-Carmes, Charles and Kooi, Steven E. and Tang, Haoning and Beroz, Justin and Mazur, Eric and Kaminer, Ido and Joannopoulos, John D. and Soljačić, Marin},
+   year={2023},
+   month=jan, pages={42–47}
+  }
+

@@ -9,3 +9,18 @@ doi: https://doi.org/10.1088/2632-2153/ac0ea1
 nsf-par: 
 code: 
 publication-date: 2021-07-16
+bib-tex: |
+  @article{Aarrestad_2021,
+   title={Fast convolutional neural networks on FPGAs with hls4ml},
+   volume={2},
+   ISSN={2632-2153},
+   url={http://dx.doi.org/10.1088/2632-2153/ac0ea1},
+   DOI={10.1088/2632-2153/ac0ea1},
+   number={4},
+   journal={Machine Learning: Science and Technology},
+   publisher={IOP Publishing},
+   author={Aarrestad, Thea and Loncar, Vladimir and Ghielmetti, Nicolò and Pierini, Maurizio and Summers, Sioni and Ngadiuba, Jennifer and Petersson, Christoffer and Linander, Hampus and Iiyama, Yutaro and Di Guglielmo, Giuseppe and Duarte, Javier and Harris, Philip and Rankin, Dylan and Jindariani, Sergo and Pedro, Kevin and Tran, Nhan and Liu, Mia and Kreinar, Edward and Wu, Zhenbin and Hoang, Duc},
+   year={2021},
+   month=jul, pages={045015}
+  }
+

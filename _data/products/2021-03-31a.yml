@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code:
 publication-date: 
+bib-tex: |
+  @misc{roberts2021aihardphysicssimple,
+      title={Why is AI hard and Physics simple?},
+      author={Daniel A. Roberts},
+      year={2021},
+      eprint={2104.00008},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2104.00008},
+  }

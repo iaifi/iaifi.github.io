@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{mishrasharma2022inferringdarkmattersubstructure,
+      title={Inferring dark matter substructure with astrometric lensing beyond the power spectrum},
+      author={Siddharth Mishra-Sharma},
+      year={2022},
+      eprint={2110.01620},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2110.01620},
+  }

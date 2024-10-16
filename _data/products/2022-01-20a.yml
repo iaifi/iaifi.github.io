@@ -9,3 +9,17 @@ doi: https://doi.org/10.3847/1538-4357/ac5631
 nsf-par:
 code:
 publication-date: 2022-06-07
+bib-tex: |
+  @article{Gill_2022,
+   title={Constraining the Time of Gravitational-wave Emission from Core-collapse Supernovae},
+   volume={931},
+   ISSN={1538-4357},
+   url={http://dx.doi.org/10.3847/1538-4357/ac5631},
+   DOI={10.3847/1538-4357/ac5631},
+   number={2},
+   journal={The Astrophysical Journal},
+   publisher={American Astronomical Society},
+   author={Gill, K. and Hosseinzadeh, G. and Berger, E. and Zanolin, M. and Szczepańczyk, M.},
+   year={2022},
+   month=jun, pages={159}
+  }

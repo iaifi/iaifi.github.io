@@ -9,3 +9,18 @@ doi: https://doi.org/10.1038/s41467-022-31915-y
 nsf-par: 10376790
 code: 
 publication-date: 2022-07-21
+bib-tex: |
+  @article{Loh_2022,
+   title={Surrogate- and invariance-boosted contrastive learning for data-scarce applications in science},
+   volume={13},
+   ISSN={2041-1723},
+   url={http://dx.doi.org/10.1038/s41467-022-31915-y},
+   DOI={10.1038/s41467-022-31915-y},
+   number={1},
+   journal={Nature Communications},
+   publisher={Springer Science and Business Media LLC},
+   author={Loh, Charlotte and Christensen, Thomas and Dangovski, Rumen and Kim, Samuel and Soljačić, Marin},
+   year={2022},
+   month=jul
+  }
+

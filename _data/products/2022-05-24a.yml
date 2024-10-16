@@ -9,3 +9,17 @@ doi: https://doi.org/10.1093/mnras/stad209
 nsf-par: 10404293
 code: 
 publication-date: 2023-01-23
+bib-tex: |
+  @article{Dropulic_2023,
+   title={Revealing the Milky Way’s most recent major merger with a Gaia EDR3 catalogue of machine-learned line-of-sight velocities},
+   volume={521},
+   ISSN={1365-2966},
+   url={http://dx.doi.org/10.1093/mnras/stad209},
+   DOI={10.1093/mnras/stad209},
+   number={2},
+   journal={Monthly Notices of the Royal Astronomical Society},
+   publisher={Oxford University Press (OUP)},
+   author={Dropulic, Adriana and Liu, Hongwan and Ostdiek, Bryan and Lisanti, Mariangela},
+   year={2023},
+   month=jan, pages={1633–1645}
+  }

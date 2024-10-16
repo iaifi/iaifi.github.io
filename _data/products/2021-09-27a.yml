@@ -9,3 +9,18 @@ doi: "https://doi.org/10.1088/1748-0221/17/01/P01024"
 nsf-par:
 code: 
 publication-date: 2022-01-19
+bib-tex: |
+  @article{Arratia_2022,
+   title={Publishing unbinned differential cross section results},
+   volume={17},
+   ISSN={1748-0221},
+   url={http://dx.doi.org/10.1088/1748-0221/17/01/P01024},
+   DOI={10.1088/1748-0221/17/01/p01024},
+   number={01},
+   journal={Journal of Instrumentation},
+   publisher={IOP Publishing},
+   author={Arratia, Miguel and Butter, Anja and Campanelli, Mario and Croft, Vincent and Gillberg, Dag and Ghosh, Aishik and Lohwasser, Kristin and Malaescu, Bogdan and Mikuni, Vinicius and Nachman, Benjamin and Rojo, Juan and Thaler, Jesse and Winterhalder, Ramon},
+   year={2022},
+   month=jan, pages={P01024}
+  }
+

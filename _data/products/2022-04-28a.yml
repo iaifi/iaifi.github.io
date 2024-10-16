@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.106.103509
 nsf-par: 10391681
 code: 
 publication-date: 2022-11-14
+bib-tex: |
+  @article{Valogiannis_2022,
+   title={Going beyond the galaxy power spectrum: An analysis of BOSS data with wavelet scattering transforms},
+   volume={106},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.106.103509},
+   DOI={10.1103/physrevd.106.103509},
+   number={10},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Valogiannis, Georgios and Dvorkin, Cora},
+   year={2022},
+   month=nov
+  }

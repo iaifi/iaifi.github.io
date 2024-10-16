@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.106.094506
 nsf-par: 10404272
 code: 
 publication-date: 2022-11-22
+bib-tex: |
+  @article{Yunus_2022,
+   title={Infinite variance in Monte Carlo sampling of lattice field theories},
+   volume={106},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.106.094506},
+   DOI={10.1103/physrevd.106.094506},
+   number={9},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Yunus, Cagin and Detmold, William},
+   year={2022},
+   month=nov
+  }

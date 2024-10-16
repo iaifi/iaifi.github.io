@@ -9,3 +9,13 @@ doi: http://proceedings.mlr.press/v139/fu21b/fu21b.pdf
 nsf-par: 10280772
 code: https://xiangfu.co/tia
 publication-date: 2021-06-30
+bib-tex: |
+  @misc{fu2021learningtaskinformedabstractions,
+      title={Learning Task Informed Abstractions},
+      author={Xiang Fu and Ge Yang and Pulkit Agrawal and Tommi Jaakkola},
+      year={2021},
+      eprint={2106.15612},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2106.15612},
+  }

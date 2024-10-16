@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{ou2023darkmatterprofilemilky,
+      title={The dark matter profile of the Milky Way inferred from its circular velocity curve},
+      author={Xiaowei Ou and Anna-Christina Eilers and Lina Necib and Anna Frebel},
+      year={2023},
+      eprint={2303.12838},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.GA},
+      url={https://arxiv.org/abs/2303.12838},
+  }

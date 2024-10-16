@@ -9,3 +9,13 @@ doi: https://openreview.net/forum?id=vIC-xLFuM6
 nsf-par:
 code: 
 publication-date: 2021-09-28
+bib-tex: |
+  @misc{yang2022overcomingspectralbiasneural,
+      title={Overcoming the Spectral Bias of Neural Value Approximation},
+      author={Ge Yang and Anurag Ajay and Pulkit Agrawal},
+      year={2022},
+      eprint={2206.04672},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2206.04672},
+  }

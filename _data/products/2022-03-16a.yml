@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code:
 publication-date:
+bib-tex: |
+  @misc{hamilton2022unsupervisedsemanticsegmentationdistilling,
+      title={Unsupervised Semantic Segmentation by Distilling Feature Correspondences},
+      author={Mark Hamilton and Zhoutong Zhang and Bharath Hariharan and Noah Snavely and William T. Freeman},
+      year={2022},
+      eprint={2203.08414},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2203.08414},
+  }

@@ -9,3 +9,17 @@ doi: "https://doi.org/10.1073/pnas.2219208120"
 nsf-par:
 code: https://github.com/qkoopman/QuACK
 publication-date: 2023-02-24
+bib-tex: |
+  @article{Rivera_2023,
+   title={Creating large Fock states and massively squeezed states in optics using systems with nonlinear bound states in the continuum},
+   volume={120},
+   ISSN={1091-6490},
+   url={http://dx.doi.org/10.1073/pnas.2219208120},
+   DOI={10.1073/pnas.2219208120},
+   number={9},
+   journal={Proceedings of the National Academy of Sciences},
+   publisher={Proceedings of the National Academy of Sciences},
+   author={Rivera, Nicholas and Sloan, Jamison and Salamin, Yannick and Joannopoulos, John D. and Soljačić, Marin},
+   year={2023},
+   month=feb
+  }

@@ -9,3 +9,17 @@ doi: https://doi.org/10.1007/JHEP09%282022%29021
 nsf-par: 10376753
 code: 
 publication-date: 2022-09-02
+bib-tex: |
+  @article{Cal_2022,
+   title={Power counting energy flow polynomials},
+   volume={2022},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP09(2022)021},
+   DOI={10.1007/jhep09(2022)021},
+   number={9},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Cal, Pedro and Thaler, Jesse and Waalewijn, Wouter J.},
+   year={2022},
+   month=sep
+  }

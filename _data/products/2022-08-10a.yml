@@ -9,3 +9,17 @@ doi: https://doi.org/10.1007/JHEP07%282023%29108
 nsf-par: 10488633
 code: 
 publication-date: 2023-07-12
+bib-tex: |
+  @article{Park_2023,
+   title={Neural embedding: learning the embedding of the manifold of physics data},
+   volume={2023},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP07(2023)108},
+   DOI={10.1007/jhep07(2023)108},
+   number={7},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Park, Sang Eon and Harris, Philip and Ostdiek, Bryan},
+   year={2023},
+   month=jul
+  }

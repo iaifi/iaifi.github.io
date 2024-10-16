@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/Newbeeer/poisson_flow
 publication-date: 
+bib-tex: |
+  @misc{xu2022poissonflowgenerativemodels,
+      title={Poisson Flow Generative Models},
+      author={Yilun Xu and Ziming Liu and Max Tegmark and Tommi Jaakkola},
+      year={2022},
+      eprint={2209.11178},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2209.11178},
+  }

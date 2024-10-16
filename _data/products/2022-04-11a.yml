@@ -9,3 +9,17 @@ doi: https://doi.org/10.3847/1538-4357/acbe3b
 nsf-par: 10505459
 code: 
 publication-date: 2022-04-05
+bib-tex: |
+  @article{Park_2023,
+   title={Quantification of High-dimensional Non-Gaussianities and Its Implication to Fisher Analysis in Cosmology},
+   volume={946},
+   ISSN={1538-4357},
+   url={http://dx.doi.org/10.3847/1538-4357/acbe3b},
+   DOI={10.3847/1538-4357/acbe3b},
+   number={2},
+   journal={The Astrophysical Journal},
+   publisher={American Astronomical Society},
+   author={Park, Core Francisco and Allys, Erwan and Villaescusa-Navarro, Francisco and Finkbeiner, Douglas},
+   year={2023},
+   month=apr, pages={107}
+  }

@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{brandt2021automaticinterpretation3dplots,
+      title={Toward Automatic Interpretation of 3D Plots},
+      author={Laura E. Brandt and William T. Freeman},
+      year={2021},
+      eprint={2106.07627},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2106.07627},
+  }

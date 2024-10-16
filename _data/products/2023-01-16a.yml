@@ -9,3 +9,13 @@ doi: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.20.06404
 nsf-par:
 code: 
 publication-date: 2023-12-22
+bib-tex: |
+  @misc{mukund2023demonstrationneuralsensingcontrol,
+      title={First demonstration of neural sensing and control in a kilometer-scale gravitational wave observatory},
+      author={Nikhil Mukund and James Lough and Aparna Bisht and Holger Wittel and Séverin Landry Nadji and Christoph Affeldt and Fabio Bergamin and Marc Brinkmann and Volker Kringel and Harald Lück and Michael Weinert and Karsten Danzmann},
+      year={2023},
+      eprint={2301.06221},
+      archivePrefix={arXiv},
+      primaryClass={physics.ins-det},
+      url={https://arxiv.org/abs/2301.06221},
+  }

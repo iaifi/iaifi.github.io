@@ -9,3 +9,18 @@ doi: https://doi.org/10.1103/PhysRevD.108.012001
 nsf-par: 10488628
 code: https://github.com/DelonShen/classifying-collider-events-with-point-clouds
 publication-date: 2023-07-05
+bib-tex: |
+  @article{Onyisi_2023,
+   title={Comparing point cloud strategies for collider event classification},
+   volume={108},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.108.012001},
+   DOI={10.1103/physrevd.108.012001},
+   number={1},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Onyisi, Peter and Shen, Delon and Thaler, Jesse},
+   year={2023},
+   month=jul
+  }
+

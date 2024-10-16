@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{liu2022understandinggrokkingeffectivetheory,
+      title={Towards Understanding Grokking: An Effective Theory of Representation Learning},
+      author={Ziming Liu and Ouail Kitouni and Niklas Nolte and Eric J. Michaud and Max Tegmark and Mike Williams},
+      year={2022},
+      eprint={2205.10343},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2205.10343},
+  }

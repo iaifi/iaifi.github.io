@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.107.043015
 nsf-par: 10405283
 code: 
 publication-date: 2023-02-10
+bib-tex: |
+  @article{Nguyen_2023,
+   title={Uncovering dark matter density profiles in dwarf galaxies with graph neural networks},
+   volume={107},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.107.043015},
+   DOI={10.1103/physrevd.107.043015},
+   number={4},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Nguyen, Tri and Mishra-Sharma, Siddharth and Williams, Reuel and Necib, Lina},
+   year={2023},
+   month=feb
+  }

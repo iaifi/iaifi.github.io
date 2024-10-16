@@ -9,3 +9,17 @@ doi: https://doi.org/10.1007/JHEP06(2021)030
 nsf-par: 10299645
 code: https://github.com/SangeonPark/QUAK
 publication-date: 2021-06-04
+bib-tex: |
+  @article{Park_2021,
+   title={Quasi anomalous knowledge: searching for new physics with embedded knowledge},
+   volume={2021},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP06(2021)030},
+   DOI={10.1007/jhep06(2021)030},
+   number={6},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Park, Sang Eon and Rankin, Dylan and Udrescu, Silviu-Marian and Yunus, Mikaeel and Harris, Philip},
+   year={2021},
+   month=jun
+  }

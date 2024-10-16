@@ -1,0 +1,26 @@
+type: paper
+iaifi-thrust: E
+title: "Challenges for Unsupervised Anomaly Detection in Particle Physics"
+authors: Katherine Fraser, Samuel Homiller, Rashmish K. Mishra, Bryan Ostdiek, Matthew D. Schwartz
+abstract: "Anomaly detection relies on designing a score to determine whether a particular event is uncharacteristic of a given background distribution. One way to define a score is to use autoencoders, which rely on the ability to reconstruct certain types of data (background) but not others (signals). In this paper, we study some challenges associated with variational autoencoders, such as the dependence on hyperparameters and the metric used, in the context of anomalous signal (top and W) jets in a QCD background. We find that the hyperparameter choices strongly affect the network performance and that the optimal parameters for one signal are non-optimal for another. In exploring the networks, we uncover a connection between the latent space of a variational autoencoder trained using mean-squared-error and the optimal transport distances within the dataset. We then show that optimal transport distances to representative events in the background dataset can be used directly for anomaly detection, with performance comparable to the autoencoders. Whether using autoencoders or optimal transport distances for anomaly detection, we find that the choices that best represent the background are not necessarily best for signal identification. These challenges with unsupervised anomaly detection bolster the case for additional exploration of semi-supervised or alternative approaches."
+arxiv: "2110.06948"
+journal: "Journal of High Energy Physics, 2022, Volume 2022, Article Number 66"
+doi: "https://link.springer.com/article/10.1007/JHEP03(2022)066"
+nsf-par:
+code: 
+publication-date: 2022-03-09
+bib-tex: |
+  @article{Fraser_2022,
+   title={Challenges for unsupervised anomaly detection in particle physics},
+   volume={2022},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP03(2022)066},
+   DOI={10.1007/jhep03(2022)066},
+   number={3},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Fraser, Katherine and Homiller, Samuel and Mishra, Rashmish K. and Ostdiek, Bryan and Schwartz, Matthew D.},
+   year={2022},
+   month=mar
+  }
+

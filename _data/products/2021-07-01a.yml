@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{hackett2021flowbasedsamplingmultimodaldistributions,
+      title={Flow-based sampling for multimodal distributions in lattice field theory},
+      author={Daniel C. Hackett and Chung-Chun Hsieh and Michael S. Albergo and Denis Boyda and Jiunn-Wei Chen and Kai-Feng Chen and Kyle Cranmer and Gurtej Kanwar and Phiala E. Shanahan},
+      year={2021},
+      eprint={2107.00734},
+      archivePrefix={arXiv},
+      primaryClass={hep-lat},
+      url={https://arxiv.org/abs/2107.00734},
+  }

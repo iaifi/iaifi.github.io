@@ -9,3 +9,18 @@ doi: https://doi.org/10.1093/mnras/stac1967
 nsf-par: 10376788
 code: 
 publication-date: 2022-07-23
+bib-tex: |
+  @article{Seng_l_2022,
+   title={Substructure detection reanalysed: dark perturber shown to be a line-of-sight halo},
+   volume={515},
+   ISSN={1365-2966},
+   url={http://dx.doi.org/10.1093/mnras/stac1967},
+   DOI={10.1093/mnras/stac1967},
+   number={3},
+   journal={Monthly Notices of the Royal Astronomical Society},
+   publisher={Oxford University Press (OUP)},
+   author={Sengül, Atinç Çagan and Dvorkin, Cora and Ostdiek, Bryan and Tsang, Arthur},
+   year={2022},
+   month=jul, pages={4391–4401}
+  }
+

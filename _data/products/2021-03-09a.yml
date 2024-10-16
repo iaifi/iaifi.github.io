@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code:
 publication-date: 
+bib-tex: |
+  @misc{fahim2021hls4mlopensourcecodesignworkflow,
+      title={hls4ml: An Open-Source Codesign Workflow to Empower Scientific Low-Power Machine Learning Devices},
+      author={Farah Fahim and Benjamin Hawks and Christian Herwig and James Hirschauer and Sergo Jindariani and Nhan Tran and Luca P. Carloni and Giuseppe Di Guglielmo and Philip Harris and Jeffrey Krupa and Dylan Rankin and Manuel Blanco Valentin and Josiah Hester and Yingyi Luo and John Mamish and Seda Orgrenci-Memik and Thea Aarrestad and Hamza Javed and Vladimir Loncar and Maurizio Pierini and Adrian Alan Pol and Sioni Summers and Javier Duarte and Scott Hauck and Shih-Chieh Hsu and Jennifer Ngadiuba and Mia Liu and Duc Hoang and Edward Kreinar and Zhenbin Wu},
+      year={2021},
+      eprint={2103.05579},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2103.05579},
+  }

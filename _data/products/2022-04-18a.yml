@@ -9,3 +9,17 @@ doi: https://doi.org/10.3847/1538-4357/ac9842
 nsf-par: 10391621
 code: 
 publication-date: 2022-12-15
+bib-tex: |
+  @article{Gomez_2022,
+   title={Luminous Supernovae: Unveiling a Population between Superluminous and Normal Core-collapse Supernovae},
+   volume={941},
+   ISSN={1538-4357},
+   url={http://dx.doi.org/10.3847/1538-4357/ac9842},
+   DOI={10.3847/1538-4357/ac9842},
+   number={2},
+   journal={The Astrophysical Journal},
+   publisher={American Astronomical Society},
+   author={Gomez, Sebastian and Berger, Edo and Nicholl, Matt and Blanchard, Peter K. and Hosseinzadeh, Griffin},
+   year={2022},
+   month=dec, pages={107}
+  }

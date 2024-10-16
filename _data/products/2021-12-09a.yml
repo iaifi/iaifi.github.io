@@ -9,3 +9,13 @@ doi: https://doi.org/10.48550/arXiv.2112.05124
 nsf-par:
 code: https://yilundu.github.io/ndf/
 publication-date: 2022-05-27
+bib-tex: |
+  @misc{simeonov2021neuraldescriptorfieldsse3equivariant,
+      title={Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation},
+      author={Anthony Simeonov and Yilun Du and Andrea Tagliasacchi and Joshua B. Tenenbaum and Alberto Rodriguez and Pulkit Agrawal and Vincent Sitzmann},
+      year={2021},
+      eprint={2112.05124},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2112.05124},
+  }

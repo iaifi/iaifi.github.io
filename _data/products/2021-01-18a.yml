@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.103.116013
 nsf-par: 10251778
 code: https://github.com/bnachman/EnsembleLearning
 publication-date: 2021-06-14
+bib-tex: |
+  @article{Nachman_2021,
+   title={Learning from many collider events at once},
+   volume={103},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.103.116013},
+   DOI={10.1103/physrevd.103.116013},
+   number={11},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Nachman, Benjamin and Thaler, Jesse},
+   year={2021},
+   month=jun
+  }

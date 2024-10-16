@@ -9,3 +9,16 @@ doi: https://doi.org/10.1016/j.physletb.2023.137850
 nsf-par: 10404265
 code: 
 publication-date: 2023-05-10
+bib-tex: |
+  @article{Qiu_2023,
+   title={Deep learning detection and classification of gravitational waves from neutron star-black hole mergers},
+   volume={840},
+   ISSN={0370-2693},
+   url={http://dx.doi.org/10.1016/j.physletb.2023.137850},
+   DOI={10.1016/j.physletb.2023.137850},
+   journal={Physics Letters B},
+   publisher={Elsevier BV},
+   author={Qiu, Richard and Krastev, Plamen G. and Gill, Kiranjyot and Berger, Edo},
+   year={2023},
+   month=may, pages={137850}
+  }

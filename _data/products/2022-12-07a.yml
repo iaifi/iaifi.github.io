@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://faun.rc.fas.harvard.edu/saydjari/GaiaDIB/
 publication-date: 
+bib-tex: |
+  @misc{saydjari2023measuring8621radiffuse,
+      title={Measuring the 8621 \r{A} Diffuse Interstellar Band in Gaia DR3 RVS Spectra: Obtaining a Clean Catalog by Marginalizing over Stellar Types},
+      author={Andrew K. Saydjari and Ana Sofía M. Uzsoy and Catherine Zucker and J. E. G. Peek and Douglas P. Finkbeiner},
+      year={2023},
+      eprint={2212.03879},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.GA},
+      url={https://arxiv.org/abs/2212.03879},
+  }

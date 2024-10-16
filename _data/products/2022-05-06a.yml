@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevLett.129.082001
 nsf-par: 10376761
 code: 
 publication-date: 2022-08-15
+bib-tex: |
+  @article{Gambhir_2022,
+   title={Learning Uncertainties the Frequentist Way: Calibration and Correlation in High Energy Physics},
+   volume={129},
+   ISSN={1079-7114},
+   url={http://dx.doi.org/10.1103/PhysRevLett.129.082001},
+   DOI={10.1103/physrevlett.129.082001},
+   number={8},
+   journal={Physical Review Letters},
+   publisher={American Physical Society (APS)},
+   author={Gambhir, Rikab and Nachman, Benjamin and Thaler, Jesse},
+   year={2022},
+   month=aug
+  }

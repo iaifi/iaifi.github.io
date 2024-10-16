@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{luo2024quackacceleratinggradientbasedquantum,
+      title={QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning},
+      author={Di Luo and Jiayu Shen and Rumen Dangovski and Marin Soljačić},
+      year={2024},
+      eprint={2211.01365},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2211.01365},
+  }

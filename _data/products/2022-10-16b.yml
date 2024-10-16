@@ -9,3 +9,18 @@ doi: https://doi.org/10.1007/JHEP04%282023%29089
 nsf-par:
 code: 
 publication-date: 2023-04-19
+bib-tex: |
+  @article{Halverson_2023,
+   title={Electric-magnetic duality in a class of G2-compactifications of M-theory},
+   volume={2023},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP04(2023)089},
+   DOI={10.1007/jhep04(2023)089},
+   number={4},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Halverson, James and Sung, Benjamin and Tian, Jiahua},
+   year={2023},
+   month=apr
+  }
+

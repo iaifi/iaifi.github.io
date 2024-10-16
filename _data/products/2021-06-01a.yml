@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{maiti2021symmetryviadualityinvariantneuralnetwork,
+      title={Symmetry-via-Duality: Invariant Neural Network Densities from Parameter-Space Correlators},
+      author={Anindita Maiti and Keegan Stoner and James Halverson},
+      year={2021},
+      eprint={2106.00694},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2106.00694},
+  }

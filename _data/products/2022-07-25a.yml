@@ -9,3 +9,17 @@ doi: https://doi.org/10.1093/mnras/stad528
 nsf-par: 10404286
 code: 
 publication-date: 2023-02-20
+bib-tex: |
+  @article{Shallue_2023,
+   title={Reconstructing cosmological initial conditions from late-time structure with convolutional neural networks},
+   volume={520},
+   ISSN={1365-2966},
+   url={http://dx.doi.org/10.1093/mnras/stad528},
+   DOI={10.1093/mnras/stad528},
+   number={4},
+   journal={Monthly Notices of the Royal Astronomical Society},
+   publisher={Oxford University Press (OUP)},
+   author={Shallue, Christopher J and Eisenstein, Daniel J},
+   year={2023},
+   month=feb, pages={6256–6267}
+  }

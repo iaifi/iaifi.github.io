@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{liu2021physicsaugmentedlearningnewparadigm,
+      title={Physics-Augmented Learning: A New Paradigm Beyond Physics-Informed Learning},
+      author={Ziming Liu and Yunyue Chen and Yuanqi Du and Max Tegmark},
+      year={2021},
+      eprint={2109.13901},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2109.13901},
+  }

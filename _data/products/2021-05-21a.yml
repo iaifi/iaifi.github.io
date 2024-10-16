@@ -9,3 +9,16 @@ doi: https://doi.org/10.1109/TSP.2022.3186185
 nsf-par: 10488636
 code: 
 publication-date: 2022-06-27
+bib-tex: |
+  @article{Lin_2022,
+   title={Covariance-Free Sparse Bayesian Learning},
+   volume={70},
+   ISSN={1941-0476},
+   url={http://dx.doi.org/10.1109/TSP.2022.3186185},
+   DOI={10.1109/tsp.2022.3186185},
+   journal={IEEE Transactions on Signal Processing},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Lin, Alexander and Song, Andrew H. and Bilgic, Berkin and Ba, Demba},
+   year={2022},
+   pages={3818–3831}
+  }

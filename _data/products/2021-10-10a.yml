@@ -9,3 +9,13 @@ doi: https://doi.org/10.1109/ICASSP43922.2022.9747848
 nsf-par:
 code: 
 publication-date: 2022-04-27
+bib-tex: |
+  @misc{lin2022mixturemodelautoencodersdeep,
+      title={Mixture Model Auto-Encoders: Deep Clustering through Dictionary Learning},
+      author={Alexander Lin and Andrew H. Song and Demba Ba},
+      year={2022},
+      eprint={2110.04683},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2110.04683},
+  }

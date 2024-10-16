@@ -9,3 +9,18 @@ doi: https://doi.org/10.1007/JHEP06%282023%29092
 nsf-par: 10434455
 code: 
 publication-date: 2023-06-15
+bib-tex: |
+  @article{Demirtas_2023,
+   title={PQ axiverse},
+   volume={2023},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP06(2023)092},
+   DOI={10.1007/jhep06(2023)092},
+   number={6},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Demirtas, Mehmet and Gendler, Naomi and Long, Cody and McAllister, Liam and Moritz, Jakob},
+   year={2023},
+   month=jun
+  }
+

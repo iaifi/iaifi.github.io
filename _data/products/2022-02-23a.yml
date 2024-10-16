@@ -9,3 +9,17 @@ doi: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.014514
 nsf-par:
 code: 
 publication-date: 2022-07-29
+bib-tex: |
+  @article{Albergo_2022,
+   title={Flow-based sampling in the lattice Schwinger model at criticality},
+   volume={106},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.106.014514},
+   DOI={10.1103/physrevd.106.014514},
+   number={1},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Albergo, Michael S. and Boyda, Denis and Cranmer, Kyle and Hackett, Daniel C. and Kanwar, Gurtej and Racanière, Sébastien and Rezende, Danilo J. and Romero-López, Fernando and Shanahan, Phiala E. and Urban, Julian M.},
+   year={2022},
+   month=jul
+  }

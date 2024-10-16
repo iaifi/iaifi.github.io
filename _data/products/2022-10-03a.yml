@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/KindXiaoming/Omnigrok
 publication-date: 
+bib-tex: |
+  @misc{liu2023omnigrokgrokkingalgorithmicdata,
+      title={Omnigrok: Grokking Beyond Algorithmic Data},
+      author={Ziming Liu and Eric J. Michaud and Max Tegmark},
+      year={2023},
+      eprint={2210.01117},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2210.01117},
+  }

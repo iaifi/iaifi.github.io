@@ -9,3 +9,16 @@ doi: https://doi.org/10.1016/j.physletb.2021.136161
 nsf-par: 10299653
 code: 
 publication-date: 2021-10-04
+bib-tex: |
+  @article{Krastev_2021,
+   title={Detection and parameter estimation of gravitational waves from binary neutron-star mergers in real LIGO data using deep learning},
+   volume={815},
+   ISSN={0370-2693},
+   url={http://dx.doi.org/10.1016/j.physletb.2021.136161},
+   DOI={10.1016/j.physletb.2021.136161},
+   journal={Physics Letters B},
+   publisher={Elsevier BV},
+   author={Krastev, Plamen G. and Gill, Kiranjyot and Villar, V. Ashley and Berger, Edo},
+   year={2021},
+   month=apr, pages={136161}
+  }

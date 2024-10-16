@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code:
 publication-date: 
+bib-tex: |
+  @misc{kur2021minimalerrorempiricalrisk,
+      title={On the Minimal Error of Empirical Risk Minimization},
+      author={Gil Kur and Alexander Rakhlin},
+      year={2021},
+      eprint={2102.12066},
+      archivePrefix={arXiv},
+      primaryClass={math.ST},
+      url={https://arxiv.org/abs/2102.12066},
+  }

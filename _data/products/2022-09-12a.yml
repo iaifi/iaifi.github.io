@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.106.056008
 nsf-par: 10404268
 code: 
 publication-date: 2022-09-12
+bib-tex: |
+  @article{Anschuetz_2022,
+   title={Degeneracy engineering for classical and quantum annealing: A case study of sparse linear regression in collider physics},
+   volume={106},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.106.056008},
+   DOI={10.1103/physrevd.106.056008},
+   number={5},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Anschuetz, Eric R. and Funcke, Lena and Komiske, Patrick T. and Kryhin, Serhii and Thaler, Jesse},
+   year={2022},
+   month=sep
+  }
