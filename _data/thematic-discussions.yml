@@ -1,0 +1,357 @@
+- type: "thematic-discussion"
+  semester: "fall-2024"
+  speaker-names-affiliations: "Led by Alex Gagliano and Sam Bright-Thonney (IAIFI Fellows)"
+  speaker-title: "Postdoctoral Fellows"
+  speaker-affiliation: IAIFI
+  speaker-website:
+  speaker-photo-location: 
+  talk-date: "2024-10-19"
+  talk-date-time: "Friday, October 18, 2024, 2:00–3:00 pm"
+  start-date-time: "2024-10-18 14:00"
+  end-date-time: "2024-10-18 15:00"
+  talk-location: "MIT Kolker Room, 26-414"
+  talk-title: "Representation/Manifold Learning: Learned Representations"
+  talk-abstract: "Many of the recent successes in AI rely on the manifold hypothesis: that most high-dimensional data lie on a lower-dimensional manifold. From transfer to contrastive learning to foundation modeling, significant effort has been devoted to methods to efficiently find and map input data to this latent space. In this Thematic Discussion Session, we'll hear from three distinguished speakers on extracting meaningful latent representations from data from the physical sciences: Aizhan Akhmetzhanova (Self-Supervised Learning for Data Compression and Inference in Cosmology), Nate Woodward, (Product Manifold Machine Learning for Physics) and David Baek, (GenEFT: Physics-Inspired Theory of Representation Learning). After three 10-minute lightning talks, we'll have a 30 minute open discussion/Q&A session to explore the major challenges and opportunities in this field. We encourage attendees to come with questions and insights from their own work!"
+  slides-link:
+  youtube-link: 
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 30
+  talk-attendance-virtual: 10
+  
+- type: "thematic-discussion"
+  semester: "fall-2024"
+  speaker-names-affiliations: "Rahul Kulkarni, UMass Boston"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-11-15"
+  talk-date-time: "Friday, November 15, 2024, 2:00–5:00 pm"
+  start-date-time: "2024-11-15 14:00"
+  end-date-time: "2024-11-15 17:00"
+  talk-location: "MIT Kolker Room, 26-414"
+  talk-title: "IAIFI-UMass Boston Workshop: Partnership for research and training in QUantum, Artificial intelligence, Non-equilibrium physics Theory and Applications (QUANTA)"
+  talk-abstract: "Details to come"
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person:
+  talk-attendance-virtual:
+
+- type: "thematic-discussion"
+  semester: "fall-2024"
+  speaker-names-affiliations: "Jesse Thaler (MIT), Gaia Grosso (IAIFI Fellow), Jessie Micallef (IAIFI Fellow), Lina Necib (MIT), Marin Soljacic (MIT), Nikhil Mukund (MIT), Phil Harris (MIT), Shuchin Aeron (Tufts), Thomas Harvey (IAIFI Fellow), Jim Halverson (Northeastern), and Tess Smidt (MIT)"
+  speaker-title: Investigators
+  speaker-affiliation: IAIFI
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-09-28"
+  talk-date-time: "Friday, September 27, 2024, 2:00–3:00 pm"
+  start-date-time: "2024-09-27 14:00"
+  end-date-time: "2024-09-27 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "IAIFI Mini-Symposium"
+  talk-abstract: The Mini Symposium will include one hour of 2-minute overview talks by IAIFI Senior Investigators and Fellows, presenting their research interests broadly. Presenters will include Jesse Thaler, Gaia Grosso, Jessie Micallef, Lina Necib, Marin Soljacic, Nikhil Mukund, Phil Harris, Shuchin Aeron, Thomas Harvey, Jim Halverson, and Tess Smidt.
+  slides-link: "https://docs.google.com/presentation/d/1KAW-7DUtCA46XedrgtaROgKDQxKfLX1g5z1BpJOy4G0/edit?usp=sharing"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 30
+  talk-attendance-virtual: 9
+
+- type: "thematic-discussion"
+  semester: "fall-2024"
+  speaker-names-affiliations: "Jesse Thaler, IAIFI Director"
+  speaker-title: Professor
+  speaker-affiliation: MIT and IAIFI Director
+  speaker-website: "https://jthaler.net"
+  speaker-photo-location: ""
+  talk-date: "2024-09-07"
+  talk-date-time: "Friday, September 6, 2024, 2:00–3:00 pm"
+  start-date-time: "2024-09-06 14:00"
+  end-date-time: "2024-09-06 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "State of the IAIFI"
+  talk-abstract:
+  slides-link: "https://docs.google.com/presentation/d/1jGn7-tNCWoJYLzbT1Yvs4HsprM-p0b665lSXL4AR03g/edit?usp=share_link"
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: "man"
+  talk-attendance-in-person: 20
+  talk-attendance-virtual: 22
+
+- type: "thematic-discussion"
+  semester: "spring-2024"
+  speaker-names-affiliations: "Led by Carol Cuesta-Lazaro and Denis Boyda (IAIFI Fellows)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-04-19"
+  talk-date-time: "Friday, April 19, 2024, 2:00–3:00 pm"
+  start-date-time: "2024-04-19 14:00"
+  end-date-time: "2024-04-19 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Generative Modeling"
+  talk-abstract: "In this thematic discussion, we will present three distinguished speakers who will deliver 7-minute lightning talks: Ziming Liu (Generating Generative Models from Physics), Ameya Daigavane (Symphony: Improving Autoregressive Models for 3D Molecule Generation), Ge Yang (Peeking Through A Pinhole: Foundation Priors for Robot Perception). After the lightning talks, a panel discussion on generative modeling will be conducted. The discussion will focus on open questions about applying generative modeling in physics and incorporating physical principles into generative modeling techniques. Attendees are encouraged to bring questions from their respective fields to enrich the discussion."
+  slides-link: "https://docs.google.com/presentation/d/1jGn7-tNCWoJYLzbT1Yvs4HsprM-p0b665lSXL4AR03g/edit?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 30
+  talk-attendance-virtual:
+
+- type: "thematic-discussion"
+  semester: "spring-2024"
+  speaker-names-affiliations: "Led by Gaia Grosso and Jessie Micallef (IAIFI Fellows)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2024-02-16"
+  talk-date-time: "Friday, February 16, 2024, 2:00–3:00 pm"
+  start-date-time: "2024-02-16 14:00"
+  end-date-time: "2024-02-16 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Uncertainty Quantification"
+  talk-abstract: "The discussion will begin with a few flash presentations (~5 min each) by current IAIFI colleagues working on this subject. Gaia and Jessie will then lead a guided discussion to collect uncertainty quantification and robustness challenges across IAIFI and discuss pathways towards potential solutions and future work. Through this discussion, the aim is to bring together IAIFI researchers to learn from each other's experience, build connections and possibly research collaborations--you are encouraged to join the discussion no matter your research interests or background!"
+  slides-link: "https://drive.google.com/drive/folders/1mveEewopS295wCF1c4vPAVLfTJuVwItl?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 30
+  talk-attendance-virtual:
+  
+- type: "thematic-discussion"
+  semester: "fall-2023"
+  speaker-names-affiliations: "Carolina Cuesta-Lazaro, Alexander Gagliano, Gaia Grosso, Di Luo, and Ge Yang (IAIFI Fellows)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2023-10-20"
+  talk-date-time: "Friday, October 20, 2023, 2:00–3:00 pm"
+  start-date-time: "2023-10-20 14:00"
+  end-date-time: "2023-10-20 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "IAIFI Fellows Showcase"
+  talk-abstract: "This IAIFI Lightning Talk session featured several IAIFI Fellows discussing their research interests, current projects and opportunities for collaboration!"
+  slides-link: "https://drive.google.com/drive/folders/1JcXHTKr2OrjozlYdlylpctBEpoYQ2-yS?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 27
+  talk-attendance-virtual: 6
+  
+- type: "thematic-discussion"
+  semester: "spring-2023"
+  speaker-names-affiliations: "Phiala Shanahan (MIT), Cora Dvorkin (Harvard), Marin Soljacic (MIT), Di Luo (MIT), Lina Necib (MIT), Tracy Slatyer (MIT), Will Detmold (MIT), Denis Boyda (MIT), Fabian Ruehle (Northeastern), Max Tegmark (MIT), Siddharth Mishra-Sharma (MIT), Carol Cuesta-Lazaro (MIT), Daniel Eisenstein (Harvard), Lisa Barsotti/Nikhil Mukund (MIT), Jessie Micallef (MIT), Mike Williams (MIT), Ge Yang (MIT), Anna Golubeva (MIT), Pulkit Agrawal (MIT), Taritree Wongjirad (Tufts), Matt Schwartz (Harvard), Phil Harris (MIT)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2023-04-14"
+  talk-date-time: "Friday, April 14, 2023, 2:00–3:00 pm"
+  start-date-time: "2023-04-14 14:00"
+  end-date-time: "2023-04-14 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "IAIFI Mini-Symposium"
+  talk-abstract: "IAIFI Senior Investigators and Fellows will each briefly present their research. This will be followed by an opportunity to hold breakouts and/or network with researchers whose interests align with yours."
+  slides-link: "https://drive.google.com/drive/folders/13NWGvmFK4ewE9IPxDd0kIyoIsNaX6lmx?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 30
+  talk-attendance-virtual: 25
+
+- type: "thematic-discussion"
+  semester: "spring-2023"
+  speaker-names-affiliations: "Arthur Tsang (Harvard), Emmaouil Theodosis (Harvard), Giorgi Butbaia (UNH)"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location: ""
+  talk-date: "2023-03-17"
+  talk-date-time: "Friday, March 17, 2023, 2:00–3:00 pm"
+  start-date-time: "2023-03-17 14:00"
+  end-date-time: "2023-03-17 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Spring 2023 Lightning Talk Session II: Geometric learning/embedding strategies"
+  talk-abstract: "Arthur Tsang (Grad Student, Harvard), Finding Subhalos in Galaxy-Galaxy Strong Lensing Systems; Emmanouil Theodosis (Grad Student, Harvard), Constraining neural networks to craft representations; Giorgi Butbaia (Grad Student, UNH), Numerical Calabi-Yau metrics using Spectral neural networks"
+  slides-link: "https://drive.google.com/drive/folders/1zGZX4GTznaBuTdqwW_vUVkDZdqMAFBPC?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance-in-person: 28
+  talk-attendance-virtual: 7
+  
+- type: "thematic-discussion"
+  semester: "spring-2023"
+  speaker-names-affiliations: "Niklas Nolte (MIT), Yin Lin (MIT), Andrew Tan (MIT)"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location: ""
+  talk-date: "2023-02-17"
+  talk-date-time: "Friday, February 17, 2023, 2:00–3:00 pm"
+  start-date-time: "2023-02-17 14:00"
+  end-date-time: "2023-02-17 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Spring 2023 Lightning Talk Session I: Robustness/fault tolerance"
+  talk-abstract: "Niklas Nolte (Postdoc, MIT), Lipschitz Network classification; Yin Lin (Postdoc, MIT), Contour deformation for lattice QCD; Andrew Tan (PhD student, MIT), Fault-tolerant neural networks from biologically inspired error correction codes"
+  slides-link: "https://drive.google.com/drive/folders/1k4HYsQurtWPeWDGtNmfSmDOpqC5fw8NG?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 33
+  talk-attendance-virtual: 12
+  
+- type: "thematic-discussion"
+  semester: "fall-2022"
+  speaker-names-affiliations: "Georgios Stratis (Northeastern), Ziming Liu (MIT), Eric Moreno (MIT)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2022-12-09"
+  talk-date-time: "Friday, December 9, 2022, 2:00–3:00 pm"
+  start-date-time: "2022-12-09 14:00"
+  end-date-time: "2022-12-09 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Fall 2022 Lightning Talk Session III: Constructing Likelihoods with Neural Nets"
+  talk-abstract: "Georgios Stratis (Postdoc, Northeastern), Sample generation for the spin-fermion model using neural networks; Ziming Liu (Grad Student, MIT), Poisson flow generative models; Eric Moreno (Grad Student, MIT), Embedded Spaces to Detect Unmodelled Gravitational-Wave Signals"
+  slides-link: "https://drive.google.com/drive/folders/1MDaXURacCfs-fYFJUwNKDE5BodMKPuVL?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 18
+  talk-attendance-virtual: 9
+  
+- type: "thematic-discussion"
+  semester: "fall-2022"
+  speaker-names-affiliations: "John Martyn (MIT), Anna Golubeva (IAIFI Fellow), Matthew Farrell (Harvard)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2022-11-18"
+  talk-date-time: "Friday, November 18, 2022, 2:00–3:00 pm"
+  start-date-time: "2022-11-18 14:00"
+  end-date-time: "2022-11-18 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Fall 2022 Lightning Talk Session II: Physics-Motivated Gradient Descent"
+  talk-abstract: "John Martyn (Grad Student, MIT), Neural Network Quantum States for Quantum Fields; Anna Golubeva (IAIFI Fellow), Fokker-Planck Equation for the Stochastic Gradient Descent; Matthew Farrell (Postdoc Fellow, Harvard), Expressivity of deep neural networks under geometric constraints (equivariance)"
+  slides-link: "https://drive.google.com/drive/folders/1_9s5fF8WEzPATDzoakyr_eH2xSYk5Jnv?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 21
+  talk-attendance-virtual: 7
+  
+- type: "thematic-discussion"
+  semester: "fall-2022"
+  speaker-names-affiliations: "Andrew Saydjari (Harvard), Harold Erbin (MIT), Zev Imani (Tufts)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2022-09-23"
+  talk-date-time: "Friday, September 23, 2022, 2:00–3:00 pm"
+  start-date-time: "2022-09-23 14:00"
+  end-date-time: "2022-09-23 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Fall 2022 Lightning Talk Session I"
+  talk-abstract: "Andrew Saydjari (Grad Student, Harvard), Marginalized Data-space Gaussian Inference for Component Separation (MaDGICS): An Application to Stellar Spectra; Harold Erbin (Postdoc, MIT), Neural networks for string field theory; Zev Imani (Grad Student, Tufts), Score-Based Generative Modeling"
+  slides-link: "https://drive.google.com/drive/folders/12OXMrLEXqPlasrxFEjaWcJFktQQhkkIg?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 18
+  talk-attendance-virtual: 6
+  
+- type: "thematic-discussion"
+  semester: "spring-2022"
+  speaker-names-affiliations: "Sangeon Park (MIT), Anindita Maiti (Northeastern), Gabe Margolis (MIT)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2022-05-13"
+  talk-date-time: "Friday, May 13, 2022, 2:00–3:00 pm"
+  start-date-time: "2022-05-13 14:00"
+  end-date-time: "2022-05-13 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Spring 2022 Lightning Talk Session III: Discovering Latent Structure in Artificial and Physical Systems"
+  talk-abstract: "Sangeon Park (Grad Student, MIT), Embedding complex physics manifold into other spaces for learning the latent structure; Anindita Maiti (Grad Student, Northeastern), Non-Gaussianity and Locality in Neural Network Field Theories; Gabe Margolis (Grad Student, MIT), Rapid Locomotion via Reinforcement Learning"
+  slides-link: "https://drive.google.com/drive/folders/1jfPoPtId78-WmoLKv5hGZXBv92SMsVYp?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 32
+  talk-attendance-virtual:
+  
+- type: "thematic-discussion"
+  semester: "spring-2022"
+  speaker-names-affiliations: "Mehmet Demirtas (Northeastern), Peter Lu (MIT), Doug Finkbeiner (Harvard), Askhunna Dogra (Harvard)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2022-02-24"
+  talk-date-time: "Friday, February 25, 2022, 2:00–3:00 pm"
+  start-date-time: "2022-02-25 14:00"
+  end-date-time: "2022-02-25 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "S[ring 2022 Lightning Talk Session II"
+  talk-abstract: "Mehmet Demirtas (Postdoc, Northeastern), Mass Manufacturing String Compactifications; Peter Lu (Grad Student, MIT), Discovering Conservation Laws via Manifold Learning; Doug Finkbeiner (Professor, Harvard), De-blending galaxies in crowded images; Akshunna Dogra (Post-bach, Harvard), Effective theories/mathe-physical perspectives on deep learning"
+  slides-link: "https://drive.google.com/drive/folders/1li5kHQCzIdW7p0jv-pGr3Fe2LZi-27YO?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 32
+  talk-attendance-virtual:
+  
+- type: "thematic-discussion"
+  semester: "spring-2022"
+  speaker-names-affiliations: "Julian Urban (MIT), Keiran Llewellan (MIT), Gabriel Margolis (MIT)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2022-02-11"
+  talk-date-time: "Friday, February 11, 2022, 2:00–3:00 pm"
+  start-date-time: "2022-02-11 14:00"
+  end-date-time: "2022-02-11 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Spring 2022 Lightning Talk Session I"
+  talk-abstract: "Julian Urban (Postdoc, MIT), Reconstructing QCD spectral functions with Gaussian processes; Keiran Llewellan (Grad Student, MIT), [“Building Graph Neural Networks for measurements of the Higgs boson properties; Gabriel Margolis (Grad Student, MIT), Agile Locomotion via Model-free Learning"
+  slides-link: "https://drive.google.com/drive/folders/1xBvAWE0u7bjjY9ZGTLtiZ81f2lyPd-sa?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 34
+  talk-attendance-virtual:
+  
+- type: "thematic-discussion"
+  semester: "fall-2021"
+  speaker-names-affiliations: "Rumen Dangovski (MIT), Taritree Wongjirad (Tufts), Akshunna Dogra (Harvard)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  talk-date: "2021-12-17"
+  talk-date-time: "Friday, December 17, 2021, 2:00–3:00 pm"
+  start-date-time: "2021-12-17 14:00"
+  end-date-time: "2021-12-17 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "AI Lightning Talks"
+  talk-abstract: "Rumen Dangovski (Grad Student, MIT), Equivariant Contrastive Learning; Taritree Wongjirad (Assistant Professor, Tufts) and Tess Smidt (Assistant Professor, MIT), Sparse Equivariant Convolutions for Neutrino Event Classification; Rikab Gambhir (Grad Student, MIT), Can you see the shape of a jet?"
+  slides-link: "https://drive.google.com/drive/folders/1-EdqzBK0N6v8-50He-OGrILdOJC6JxtL?usp=share_link"
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person: 30
+  talk-attendance-virtual:
+
