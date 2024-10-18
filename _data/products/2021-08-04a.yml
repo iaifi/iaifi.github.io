@@ -9,3 +9,18 @@ doi: https://doi.org/10.1088/2632-2153/ac37f7
 nsf-par: 10308629
 code: 
 publication-date: 2021-11-25
+bib-tex: |
+  @article{Erbin_2021,
+   title={Deep multi-task mining Calabi–Yau four-folds},
+   volume={3},
+   ISSN={2632-2153},
+   url={http://dx.doi.org/10.1088/2632-2153/ac37f7},
+   DOI={10.1088/2632-2153/ac37f7},
+   number={1},
+   journal={Machine Learning: Science and Technology},
+   publisher={IOP Publishing},
+   author={Erbin, Harold and Finotello, Riccardo and Schneider, Robin and Tamaazousti, Mohamed},
+   year={2021},
+   month=nov, pages={015006}
+  }
+

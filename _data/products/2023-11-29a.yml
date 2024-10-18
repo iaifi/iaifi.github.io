@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{payot2023learningeffectiveevolutionequation,
+      title={Learning an Effective Evolution Equation for Particle-Mesh Simulations Across Cosmologies},
+      author={Nicolas Payot and Pablo Lemos and Laurence Perreault-Levasseur and Carolina Cuesta-Lazaro and Chirag Modi and Yashar Hezaveh},
+      year={2023},
+      eprint={2311.18017},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2311.18017},
+  }

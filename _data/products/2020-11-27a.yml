@@ -9,3 +9,13 @@ doi: https://doi.org/10.1109/ICCV48922.2021.00679
 nsf-par: 10488616
 code:
 publication-date: 2021-10-17
+bib-tex: |
+  @misc{verbin2021fieldjunctionsextractingboundary,
+      title={Field of Junctions: Extracting Boundary Structure at Low SNR},
+      author={Dor Verbin and Todd Zickler},
+      year={2021},
+      eprint={2011.13866},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2011.13866},
+  }

@@ -9,3 +9,18 @@ doi: https://doi.org/10.1088/2632-2153/ace02f
 nsf-par: 10488631
 code: 
 publication-date: 2023-07-03
+bib-tex: |
+  @article{Luo_2023,
+   title={Infinite neural network quantum states: entanglement and training dynamics},
+   volume={4},
+   ISSN={2632-2153},
+   url={http://dx.doi.org/10.1088/2632-2153/ace02f},
+   DOI={10.1088/2632-2153/ace02f},
+   number={2},
+   journal={Machine Learning: Science and Technology},
+   publisher={IOP Publishing},
+   author={Luo, Di and Halverson, James},
+   year={2023},
+   month=jun, pages={025038}
+  }
+

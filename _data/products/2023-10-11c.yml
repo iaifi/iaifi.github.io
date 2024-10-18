@@ -9,4 +9,19 @@ doi: "https://doi.org/10.1088/1742-5468/ad5c5c"
 nsf-par:
 code:
 publication-date: 2024-08-02
-bib-tex:
+bib-tex: |
+  @article{Erbin_2024,
+   title={A functional renormalization group for signal detection and stochastic ergodicity breaking},
+   volume={2024},
+   ISSN={1742-5468},
+   url={http://dx.doi.org/10.1088/1742-5468/ad5c5c},
+   DOI={10.1088/1742-5468/ad5c5c},
+   number={8},
+   journal={Journal of Statistical Mechanics: Theory and Experiment},
+   publisher={IOP Publishing},
+   author={Erbin, Harold and Finotello, Riccardo and Wahabou Kpera, Bio and Lahoche, Vincent and Ousmane Samary, Dine},
+   year={2024},
+   month=aug, pages={083203}
+  }
+
+

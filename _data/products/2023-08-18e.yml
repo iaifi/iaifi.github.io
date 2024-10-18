@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/aureliendersy/S-Matrix-Bootstrap
 publication-date: 
+bib-tex: |
+  @misc{dersy2023reconstructingsmatrixphasesmachine,
+      title={Reconstructing $S$-matrix Phases with Machine Learning},
+      author={Aurélien Dersy and Matthew D. Schwartz and Alexander Zhiboedov},
+      year={2023},
+      eprint={2308.09451},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2308.09451},
+  }

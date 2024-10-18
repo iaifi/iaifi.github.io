@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.106.094021
 nsf-par: 10391679
 code: 
 publication-date: 2022-11-16
+bib-tex: |
+  @article{Komiske_2022,
+   title={Disentangling quarks and gluons in CMS open data},
+   volume={106},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.106.094021},
+   DOI={10.1103/physrevd.106.094021},
+   number={9},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Komiske, Patrick T. and Kryhin, Serhii and Thaler, Jesse},
+   year={2022},
+   month=nov
+  }

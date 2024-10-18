@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{gunny2021hardwareacceleratedinferencerealtimegravitationalwave,
+      title={Hardware-accelerated Inference for Real-Time Gravitational-Wave Astronomy},
+      author={Alec Gunny and Dylan Rankin and Jeffrey Krupa and Muhammed Saleem and Tri Nguyen and Michael Coughlin and Philip Harris and Erik Katsavounidis and Steven Timm and Burt Holzman},
+      year={2021},
+      eprint={2108.12430},
+      archivePrefix={arXiv},
+      primaryClass={gr-qc},
+      url={https://arxiv.org/abs/2108.12430},
+  }

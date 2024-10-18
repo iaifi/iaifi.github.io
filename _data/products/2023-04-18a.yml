@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/ruehlef/ribbon
 publication-date: 
+bib-tex: |
+  @misc{gukov2023searchingribbonsmachinelearning,
+      title={Searching for ribbons with machine learning},
+      author={Sergei Gukov and James Halverson and Ciprian Manolescu and Fabian Ruehle},
+      year={2023},
+      eprint={2304.09304},
+      archivePrefix={arXiv},
+      primaryClass={math.GT},
+      url={https://arxiv.org/abs/2304.09304},
+  }

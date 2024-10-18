@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{halverson2021buildingquantumfieldtheories,
+      title={Building Quantum Field Theories Out of Neurons},
+      author={James Halverson},
+      year={2021},
+      eprint={2112.04527},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2112.04527},
+  }

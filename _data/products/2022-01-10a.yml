@@ -9,3 +9,13 @@ doi: http://dx.doi.org/10.1016/j.aim.2023.109477
 nsf-par:
 code: 
 publication-date: 2024-01-10
+bib-tex: |
+  @misc{borisov2022strictificationgluinglagrangiandistributions,
+      title={Strictification and gluing of Lagrangian distributions on derived schemes with shifted symplectic forms},
+      author={Dennis Borisov and Ludmil Katzarkov and Artan Sheshmani and Shing-Tung Yau},
+      year={2022},
+      eprint={1908.00651},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/1908.00651},
+  }

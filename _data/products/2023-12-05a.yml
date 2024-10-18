@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{liao2023generatinginterpretablenetworksusing,
+      title={Generating Interpretable Networks using Hypernetworks},
+      author={Isaac Liao and Ziming Liu and Max Tegmark},
+      year={2023},
+      eprint={2312.03051},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2312.03051},
+  }

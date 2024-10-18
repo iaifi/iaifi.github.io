@@ -9,3 +9,18 @@ doi: https://doi.org/10.1103/PhysRevResearch.6.013029
 nsf-par:
 code: 
 publication-date: 2022-01-10
+bib-tex: |
+  @article{Levy_2024,
+   title={Classical shadows for quantum process tomography on near-term quantum computers},
+   volume={6},
+   ISSN={2643-1564},
+   url={http://dx.doi.org/10.1103/PhysRevResearch.6.013029},
+   DOI={10.1103/physrevresearch.6.013029},
+   number={1},
+   journal={Physical Review Research},
+   publisher={American Physical Society (APS)},
+   author={Levy, Ryan and Luo, Di and Clark, Bryan K.},
+   year={2024},
+   month=jan
+  }
+

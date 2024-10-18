@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevLett.128.180201
 nsf-par: 10343309
 code: 
 publication-date: 2022-05-06
+bib-tex: |
+  @article{Liu_2022,
+   title={Machine Learning Hidden Symmetries},
+   volume={128},
+   ISSN={1079-7114},
+   url={http://dx.doi.org/10.1103/PhysRevLett.128.180201},
+   DOI={10.1103/physrevlett.128.180201},
+   number={18},
+   journal={Physical Review Letters},
+   publisher={American Physical Society (APS)},
+   author={Liu, Ziming and Tegmark, Max},
+   year={2022},
+   month=may
+  }

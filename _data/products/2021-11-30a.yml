@@ -9,3 +9,18 @@ doi: https://doi.org/10.1088/2632-2153/aced80
 nsf-par: 10329738
 code:
 publication-date: 2021-12-13
+bib-tex: |
+  @article{Kitouni_2023,
+   title={Robust and provably monotonic networks},
+   volume={4},
+   ISSN={2632-2153},
+   url={http://dx.doi.org/10.1088/2632-2153/aced80},
+   DOI={10.1088/2632-2153/aced80},
+   number={3},
+   journal={Machine Learning: Science and Technology},
+   publisher={IOP Publishing},
+   author={Kitouni, Ouail and Nolte, Niklas and Williams, Mike},
+   year={2023},
+   month=aug, pages={035020}
+  }
+

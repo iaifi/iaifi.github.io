@@ -9,3 +9,18 @@ doi: https://doi.org/10.1007/JHEP06%282023%29195
 nsf-par:
 code: https://github.com/ rikab/SHAPER
 publication-date: 2023-06-29
+bib-tex: |
+  @article{Ba_2023,
+   title={SHAPER: can you hear the shape of a jet?},
+   volume={2023},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP06(2023)195},
+   DOI={10.1007/jhep06(2023)195},
+   number={6},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Ba, Demba and Dogra, Akshunna S. and Gambhir, Rikab and Tasissa, Abiy and Thaler, Jesse},
+   year={2023},
+   month=jun
+  }
+

@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{jin2023wattsneedenablingindetector,
+      title={Two Watts is All You Need: Enabling In-Detector Real-Time Machine Learning for Neutrino Telescopes Via Edge Computing},
+      author={Miaochen Jin and Yushi Hu and Carlos A. Argüelles},
+      year={2023},
+      eprint={2311.04983},
+      archivePrefix={arXiv},
+      primaryClass={hep-ex},
+      url={https://arxiv.org/abs/2311.04983},
+  }

@@ -8,3 +8,13 @@ journal:
 doi: 
 code: 
 publication-date:
+bib-tex: |
+  @misc{halverson2023metricflowsneuralnetworks,
+      title={Metric Flows with Neural Networks},
+      author={James Halverson and Fabian Ruehle},
+      year={2023},
+      eprint={2310.19870},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2310.19870},
+  }

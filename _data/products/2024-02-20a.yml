@@ -9,3 +9,13 @@ doi: https://doi.org/10.1038/s42254-024-00709-0
 nsf-par:
 code: 
 publication-date: 2024-04-08
+bib-tex: |
+  @misc{gukov2024rigormachinelearningfield,
+      title={Rigor with Machine Learning from Field Theory to the Poincar\'e Conjecture},
+      author={Sergei Gukov and James Halverson and Fabian Ruehle},
+      year={2024},
+      eprint={2402.13321},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2402.13321},
+  }

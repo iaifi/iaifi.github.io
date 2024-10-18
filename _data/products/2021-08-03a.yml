@@ -9,3 +9,18 @@ doi: https://doi.org/10.1088/2632-2153/ac4f69
 nsf-par: 10323041
 code: 
 publication-date: 2022-02-21
+bib-tex: |
+  @article{Erbin_2022,
+   title={Non-perturbative renormalization for the neural network-QFT correspondence},
+   volume={3},
+   ISSN={2632-2153},
+   url={http://dx.doi.org/10.1088/2632-2153/ac4f69},
+   DOI={10.1088/2632-2153/ac4f69},
+   number={1},
+   journal={Machine Learning: Science and Technology},
+   publisher={IOP Publishing},
+   author={Erbin, H and Lahoche, V and Ousmane Samary, D},
+   year={2022},
+   month=feb, pages={015027}
+  }
+

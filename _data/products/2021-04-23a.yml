@@ -9,3 +9,13 @@ doi: https://openreview.net/pdf?id=tPMQ6Je2rB
 nsf-par:
 code:
 publication-date: 2022-09-01
+bib-tex: |
+  @misc{kim2022deeplearningbayesianoptimization,
+      title={Deep Learning for Bayesian Optimization of Scientific Problems with High-Dimensional Structure},
+      author={Samuel Kim and Peter Y. Lu and Charlotte Loh and Jamie Smith and Jasper Snoek and Marin Soljačić},
+      year={2022},
+      eprint={2104.11667},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2104.11667},
+  }

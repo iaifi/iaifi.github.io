@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.105.103534
 nsf-par: 10343310
 code: 
 publication-date: 2022-05-27
+bib-tex: |
+  @article{Valogiannis_2022,
+   title={Towards an optimal estimation of cosmological parameters with the wavelet scattering transform},
+   volume={105},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.105.103534},
+   DOI={10.1103/physrevd.105.103534},
+   number={10},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Valogiannis, Georgios and Dvorkin, Cora},
+   year={2022},
+   month=may
+  }

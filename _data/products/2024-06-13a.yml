@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{abbott2024qcdconstraintsisospindensematter,
+      title={QCD constraints on isospin-dense matter and the nuclear equation of state},
+      author={Ryan Abbott and William Detmold and Marc Illa and Assumpta Parreño and Robert J. Perry and Fernando Romero-López and Phiala E. Shanahan and Michael L. Wagman},
+      year={2024},
+      eprint={2406.09273},
+      archivePrefix={arXiv},
+      primaryClass={hep-lat},
+      url={https://arxiv.org/abs/2406.09273},
+  }

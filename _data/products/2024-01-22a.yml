@@ -9,3 +9,18 @@ doi: https://doi.org/10.1093/mnras/stae260
 nsf-par: "10525812"
 code: https://umlcaxs-playground.streamlit.app
 publication-date: 2024-01-24
+bib-tex: |
+  @article{P_rez_D_az_2024,
+   title={Unsupervised machine learning for the classification of astrophysical X-ray sources},
+   volume={528},
+   ISSN={1365-2966},
+   url={http://dx.doi.org/10.1093/mnras/stae260},
+   DOI={10.1093/mnras/stae260},
+   number={3},
+   journal={Monthly Notices of the Royal Astronomical Society},
+   publisher={Oxford University Press (OUP)},
+   author={Pérez-Díaz, Víctor Samuel and Martínez-Galarza, Juan Rafael and Caicedo, Alexander and D’Abrusco, Raffaele},
+   year={2024},
+   month=jan, pages={4852–4871}
+  }
+

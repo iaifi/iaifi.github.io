@@ -1,0 +1,13 @@
+{% assign talk = include.talk %}
+{% assign is_previous = include.is_previous %}
+
+* **{{talk.talk-title}}**
+    * **{{talk.start-date-time | date: "%A, %B %e, %Y"}}, {{talk.start-date-time | date: "%l:%M%P"}}–{{talk.end-date-time | date: "%l:%M%P" | strip}}**
+    * *{{talk.speaker-names-affiliations}}*
+{% if talk.talk-abstract %}   * {{talk.talk-abstract}}
+{% endif -%}
+{% if is_previous and talk.slides-link %}    * <a href="{{talk.slides-link}}">Talk Slides</a> (for IAIFI members only)
+{% endif -%}
+
+
+

@@ -9,3 +9,17 @@ doi: https://doi.org/10.3847/1538-4357/acc535
 nsf-par: 10488632
 code: 
 publication-date: 2023-06-02
+bib-tex: |
+  @article{Gomez_2023,
+   title={Identifying Tidal Disruption Events with an Expansion of the FLEET Machine-learning Algorithm},
+   volume={949},
+   ISSN={1538-4357},
+   url={http://dx.doi.org/10.3847/1538-4357/acc535},
+   DOI={10.3847/1538-4357/acc535},
+   number={2},
+   journal={The Astrophysical Journal},
+   publisher={American Astronomical Society},
+   author={Gomez, Sebastian and Villar, V. Ashley and Berger, Edo and Gezari, Suvi and van Velzen, Sjoert and Nicholl, Matt and Blanchard, Peter K. and Alexander, Kate. D.},
+   year={2023},
+   month=jun, pages={113}
+  }

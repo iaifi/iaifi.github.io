@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{abbott2024multiscalenormalizingflowsgauge,
+      title={Multiscale Normalizing Flows for Gauge Theories},
+      author={Ryan Abbott and Michael S. Albergo and Denis Boyda and Daniel C. Hackett and Gurtej Kanwar and Fernando Romero-López and Phiala E. Shanahan and Julian M. Urban},
+      year={2024},
+      eprint={2404.10819},
+      archivePrefix={arXiv},
+      primaryClass={hep-lat},
+      url={https://arxiv.org/abs/2404.10819},
+  }

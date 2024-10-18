@@ -9,4 +9,13 @@ doi: "http://dx.doi.org/10.1007/JHEP07(2024)188"
 nsf-par:
 code:
 publication-date: 2024-07-24
-bib-tex:
+bib-tex: |
+  @misc{lin2024positionspacerenormalizationschemesfourquark,
+      title={Position-space renormalization schemes for four-quark operators in HQET},
+      author={Joshua Lin and William Detmold and Stefan Meinel},
+      year={2024},
+      eprint={2404.16191},
+      archivePrefix={arXiv},
+      primaryClass={hep-lat},
+      url={https://arxiv.org/abs/2404.16191},
+  }

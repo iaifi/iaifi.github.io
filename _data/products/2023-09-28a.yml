@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/florpi/sunbird
 publication-date: 
+bib-tex: |
+  @misc{cuestalazaro2023sunbirdsimulationbasedmodelfullshape,
+      title={SUNBIRD: A simulation-based model for full-shape density-split clustering},
+      author={Carolina Cuesta-Lazaro and Enrique Paillas and Sihan Yuan and Yan-Chuan Cai and Seshadri Nadathur and Will J. Percival and Florian Beutler and Arnaud de Mattia and Daniel Eisenstein and Daniel Forero-Sanchez and Nelson Padilla and Mathilde Pinon and Vanina Ruhlmann-Kleider and Ariel G. Sánchez and Georgios Valogiannis and Pauline Zarrouk},
+      year={2023},
+      eprint={2309.16539},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2309.16539},
+  }

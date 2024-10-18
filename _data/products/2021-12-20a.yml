@@ -9,3 +9,16 @@ doi: https://doi.org/10.1098/rsta.2021.0062
 nsf-par:
 code: 
 publication-date: 2021-12-20
+bib-tex: |
+  @article{Funcke_2021,
+   title={Towards quantum simulations in particle physics and beyond on noisy intermediate-scale quantum devices},
+   volume={380},
+   ISSN={1471-2962},
+   url={http://dx.doi.org/10.1098/rsta.2021.0062},
+   DOI={10.1098/rsta.2021.0062},
+   number={2216},
+   journal={Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences},
+   publisher={The Royal Society},
+   author={Funcke, L. and Hartung, T. and Jansen, K. and Kühn, S. and Schneider, M. and Stornati, P. and Wang, X.},
+   year={2021},
+   month=dec }

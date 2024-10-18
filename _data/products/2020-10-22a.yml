@@ -9,3 +9,18 @@ doi: "https://doi.org/10.1103/PhysRevD.103.036020"
 nsf-par:
 code: 
 publication-date: 2021-02-01
+bib-tex: |
+  @article{Faucett_2021,
+   title={Mapping machine-learned physics into a human-readable space},
+   volume={103},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.103.036020},
+   DOI={10.1103/physrevd.103.036020},
+   number={3},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Faucett, Taylor and Thaler, Jesse and Whiteson, Daniel},
+   year={2021},
+   month=feb
+  }
+

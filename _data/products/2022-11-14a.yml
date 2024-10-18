@@ -9,3 +9,13 @@ doi: https://doi.org/10.1140/epja/s10050-023-01154-w
 nsf-par: 10478643
 code: 
 publication-date: 2023-11-04
+bib-tex: |
+  @misc{abbott2022aspectsscalingscalabilityflowbased,
+      title={Aspects of scaling and scalability for flow-based sampling of lattice QCD},
+      author={Ryan Abbott and Michael S. Albergo and Aleksandar Botev and Denis Boyda and Kyle Cranmer and Daniel C. Hackett and Alexander G. D. G. Matthews and Sébastien Racanière and Ali Razavi and Danilo J. Rezende and Fernando Romero-López and Phiala E. Shanahan and Julian M. Urban},
+      year={2022},
+      eprint={2211.07541},
+      archivePrefix={arXiv},
+      primaryClass={hep-lat},
+      url={https://arxiv.org/abs/2211.07541},
+  }

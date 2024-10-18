@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/JacobHA/RLC-SoftQBounding
 publication-date: 
+bib-tex: |
+  @misc{adamczyk2024boostingsoftqlearningbounding,
+      title={Boosting Soft Q-Learning by Bounding},
+      author={Jacob Adamczyk and Volodymyr Makarenko and Stas Tiomkin and Rahul V. Kulkarni},
+      year={2024},
+      eprint={2406.18033},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2406.18033},
+  }

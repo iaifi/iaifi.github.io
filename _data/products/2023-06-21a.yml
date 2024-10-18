@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/smsharma/hierarchical-inference
 publication-date:
+bib-tex: |
+  @misc{heinrich2024hierarchicalneuralsimulationbasedinference,
+      title={Hierarchical Neural Simulation-Based Inference Over Event Ensembles},
+      author={Lukas Heinrich and Siddharth Mishra-Sharma and Chris Pollard and Philipp Windischhofer},
+      year={2024},
+      eprint={2306.12584},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2306.12584},
+  }

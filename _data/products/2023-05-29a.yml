@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{theodosis2023learninglineargroupsneural,
+      title={Learning Linear Groups in Neural Networks},
+      author={Emmanouil Theodosis and Karim Helwani and Demba Ba},
+      year={2023},
+      eprint={2305.18552},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2305.18552},
+  }

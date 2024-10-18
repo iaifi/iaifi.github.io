@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{liu2023discoveringnewinterpretableconservation,
+      title={Discovering New Interpretable Conservation Laws as Sparse Invariants},
+      author={Ziming Liu and Patrick Obin Sturm and Saketh Bharadwaj and Sam Silva and Max Tegmark},
+      year={2023},
+      eprint={2305.19525},
+      archivePrefix={arXiv},
+      primaryClass={math.DS},
+      url={https://arxiv.org/abs/2305.19525},
+  }

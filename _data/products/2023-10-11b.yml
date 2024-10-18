@@ -9,3 +9,13 @@ doi:
 nsf-par: 10505445
 code: 
 publication-date: 
+bib-tex: |
+  @misc{liu2023growingbrainscoemergenceanatomical,
+      title={Growing Brains: Co-emergence of Anatomical and Functional Modularity in Recurrent Neural Networks},
+      author={Ziming Liu and Mikail Khona and Ila R. Fiete and Max Tegmark},
+      year={2023},
+      eprint={2310.07711},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.NC},
+      url={https://arxiv.org/abs/2310.07711},
+  }

@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{sitzmann2022lightfieldnetworksneural,
+      title={Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering},
+      author={Vincent Sitzmann and Semon Rezchikov and William T. Freeman and Joshua B. Tenenbaum and Fredo Durand},
+      year={2022},
+      eprint={2106.02634},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2106.02634},
+  }

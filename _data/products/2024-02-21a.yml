@@ -9,3 +9,13 @@ doi:
 nsf-par: 
 code: https://github.com/rikab/SeeingDouble
 publication-date: 
+bib-tex: |
+  @misc{gambhir2024seeingdoublecalibratingjets,
+      title={Seeing Double: Calibrating Two Jets at Once},
+      author={Rikab Gambhir and Benjamin Nachman},
+      year={2024},
+      eprint={2402.14067},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2402.14067},
+  }

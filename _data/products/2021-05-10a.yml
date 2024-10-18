@@ -10,3 +10,13 @@ alt-url:  https://simdl.github.io/files/12.pdf
 nsf-par: 10251785
 code:
 publication-date: 
+bib-tex: |
+  @misc{andreassen2021scaffoldingsimulationsdeeplearning,
+      title={Scaffolding Simulations with Deep Learning for High-dimensional Deconvolution},
+      author={Anders Andreassen and Patrick T. Komiske and Eric M. Metodiev and Benjamin Nachman and Adi Suresh and Jesse Thaler},
+      year={2021},
+      eprint={2105.04448},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2105.04448},
+  }

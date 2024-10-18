@@ -9,3 +9,17 @@ doi: https://doi.org/10.1093/mnras/stac1677
 nsf-par:
 code: 
 publication-date: 2022-07-04
+bib-tex: |
+  @article{Broekgaarden_2022,
+   title={Impact of massive binary star and cosmic evolution on gravitational wave observations – II. Double compact object rates and properties},
+   volume={516},
+   ISSN={1365-2966},
+   url={http://dx.doi.org/10.1093/mnras/stac1677},
+   DOI={10.1093/mnras/stac1677},
+   number={4},
+   journal={Monthly Notices of the Royal Astronomical Society},
+   publisher={Oxford University Press (OUP)},
+   author={Broekgaarden, Floor S and Berger, Edo and Stevenson, Simon and Justham, Stephen and Mandel, Ilya and Chruślińska, Martyna and van Son, Lieke A C and Wagg, Tom and Vigna-Gómez, Alejandro and de Mink, Selma E and Chattopadhyay, Debatri and Neijssel, Coenraad J},
+   year={2022},
+   month=jul, pages={5737–5761}
+  }

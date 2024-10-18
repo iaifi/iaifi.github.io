@@ -9,3 +9,13 @@ doi: https://doi.org/10.1088/2632-2153/abe91f
 nsf-par:
 code:
 publication-date: 2021-04-21
+bib-tex: |
+  @misc{gukov2020learningunknot,
+      title={Learning to Unknot},
+      author={Sergei Gukov and James Halverson and Fabian Ruehle and Piotr Sułkowski},
+      year={2020},
+      eprint={2010.16263},
+      archivePrefix={arXiv},
+      primaryClass={math.GT},
+      url={https://arxiv.org/abs/2010.16263},
+  }

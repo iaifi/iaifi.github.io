@@ -9,3 +9,17 @@ doi: https://doi.org/10.1088/1475-7516/2023/05/040
 nsf-par: 10505454
 code: 
 publication-date: 2023-05-22
+bib-tex: |
+  @article{Wu_2023,
+   title={Non-parametric Lagrangian biasing from the insights of neural nets},
+   volume={2023},
+   ISSN={1475-7516},
+   url={http://dx.doi.org/10.1088/1475-7516/2023/05/040},
+   DOI={10.1088/1475-7516/2023/05/040},
+   number={05},
+   journal={Journal of Cosmology and Astroparticle Physics},
+   publisher={IOP Publishing},
+   author={Wu, Xiaohan and Muñoz, Julian B. and Eisenstein, Daniel J.},
+   year={2023},
+   month=may, pages={040}
+  }

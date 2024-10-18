@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{mishrasharma2022stronglensingsourcereconstruction,
+      title={Strong Lensing Source Reconstruction Using Continuous Neural Fields},
+      author={Siddharth Mishra-Sharma and Ge Yang},
+      year={2022},
+      eprint={2206.14820},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2206.14820},
+  }

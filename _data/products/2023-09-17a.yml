@@ -12,3 +12,13 @@ doi:
 nsf-par:
 code: https://github.com/ML4GW/gwak
 publication-date: 
+bib-tex: |
+  @misc{aubin2023simulationbasedinferenceexoplanetatmospheric,
+      title={Simulation-based Inference for Exoplanet Atmospheric Retrieval: Insights from winning the Ariel Data Challenge 2023 using Normalizing Flows},
+      author={Mayeul Aubin and Carolina Cuesta-Lazaro and Ethan Tregidga and Javier Viaña and Cecilia Garraffo and Iouli E. Gordon and Mercedes López-Morales and Robert J. Hargreaves and Vladimir Yu. Makhnev and Jeremy J. Drake and Douglas P. Finkbeiner and Phillip Cargile},
+      year={2023},
+      eprint={2309.09337},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.EP},
+      url={https://arxiv.org/abs/2309.09337},
+  }

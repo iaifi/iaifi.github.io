@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/rikab/MomentAnalysis
 publication-date: 
+bib-tex: |
+  @misc{gambhir2024momentsclaritystreamlininglatent,
+      title={Moments of Clarity: Streamlining Latent Spaces in Machine Learning using Moment Pooling},
+      author={Rikab Gambhir and Athis Osathapan and Jesse Thaler},
+      year={2024},
+      eprint={2403.08854},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2403.08854},
+  }

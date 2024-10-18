@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{sharma2021learnstaringblankwall,
+      title={What You Can Learn by Staring at a Blank Wall},
+      author={Prafull Sharma and Miika Aittala and Yoav Y. Schechner and Antonio Torralba and Gregory W. Wornell and William T. Freeman and Fredo Durand},
+      year={2021},
+      eprint={2108.13027},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2108.13027},
+  }

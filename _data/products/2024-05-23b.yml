@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/heidelberg-hepml/lorentz-gatr
 publication-date: 
+bib-tex: |
+  @misc{spinner2024lorentzequivariantgeometricalgebratransformers,
+      title={Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics},
+      author={Jonas Spinner and Victor Bresó and Pim de Haan and Tilman Plehn and Jesse Thaler and Johann Brehmer},
+      year={2024},
+      eprint={2405.14806},
+      archivePrefix={arXiv},
+      primaryClass={physics.data-an},
+      url={https://arxiv.org/abs/2405.14806},
+  }

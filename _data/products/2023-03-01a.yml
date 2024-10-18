@@ -9,3 +9,13 @@ doi: http://dx.doi.org/10.1007/JHEP01(2024)184
 nsf-par: 10505411
 code: 
 publication-date: 2024-01-30
+bib-tex: |
+  @misc{demirtas2024computationalmirrorsymmetry,
+      title={Computational Mirror Symmetry},
+      author={Mehmet Demirtas and Manki Kim and Liam McAllister and Jakob Moritz and Andres Rios-Tascon},
+      year={2024},
+      eprint={2303.00757},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2303.00757},
+  }

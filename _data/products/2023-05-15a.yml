@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{gagliano2023impressionsearlytimeclassificationsupernovae,
+      title={First Impressions: Early-Time Classification of Supernovae using Host Galaxy Information and Shallow Learning},
+      author={Alexander Gagliano and Gabriella Contardo and Daniel Foreman-Mackey and Alex I. Malz and Patrick D. Aleo},
+      year={2023},
+      eprint={2305.08894},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM},
+      url={https://arxiv.org/abs/2305.08894},
+  }

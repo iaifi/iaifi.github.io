@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{zlokapa2024faulttolerantneuralnetworksbiological,
+      title={Fault-Tolerant Neural Networks from Biological Error Correction Codes},
+      author={Alexander Zlokapa and Andrew K. Tan and John M. Martyn and Ila R. Fiete and Max Tegmark and Isaac L. Chuang},
+      year={2024},
+      eprint={2202.12887},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2202.12887},
+  }

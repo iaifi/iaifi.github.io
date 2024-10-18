@@ -9,3 +9,17 @@ doi: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c03307
 nsf-par: 10405282
 code: 
 publication-date: 2023-01-20
+bib-tex: |
+  @article{Ma_2023,
+   title={Topogivity: A Machine-Learned Chemical Rule for Discovering Topological Materials},
+   volume={23},
+   ISSN={1530-6992},
+   url={http://dx.doi.org/10.1021/acs.nanolett.2c03307},
+   DOI={10.1021/acs.nanolett.2c03307},
+   number={3},
+   journal={Nano Letters},
+   publisher={American Chemical Society (ACS)},
+   author={Ma, Andrew and Zhang, Yang and Christensen, Thomas and Po, Hoi Chun and Jing, Li and Fu, Liang and Soljačić, Marin},
+   year={2023},
+   month=jan, pages={772–778}
+  }

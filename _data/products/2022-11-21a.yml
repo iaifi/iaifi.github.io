@@ -9,3 +9,18 @@ doi: https://doi.org/10.1126/scirobotics.adc9244
 nsf-par: 10505515
 code: https://github.com/Improbable-AI/dexenv
 publication-date: 2023-11-22
+bib-tex: |
+  @article{Chen_2023,
+   title={Visual dexterity: In-hand reorientation of novel and complex object shapes},
+   volume={8},
+   ISSN={2470-9476},
+   url={http://dx.doi.org/10.1126/scirobotics.adc9244},
+   DOI={10.1126/scirobotics.adc9244},
+   number={84},
+   journal={Science Robotics},
+   publisher={American Association for the Advancement of Science (AAAS)},
+   author={Chen, Tao and Tippur, Megha and Wu, Siyang and Kumar, Vikash and Adelson, Edward and Agrawal, Pulkit},
+   year={2023},
+   month=nov
+  }
+

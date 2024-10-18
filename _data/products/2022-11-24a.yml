@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/ameya98/ActionAngleNetworks
 publication-date:
+bib-tex: |
+  @misc{daigavane2022learningintegrabledynamicsactionangle,
+      title={Learning Integrable Dynamics with Action-Angle Networks},
+      author={Ameya Daigavane and Arthur Kosmala and Miles Cranmer and Tess Smidt and Shirley Ho},
+      year={2022},
+      eprint={2211.15338},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2211.15338},
+  }

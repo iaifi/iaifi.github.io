@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{ahmed2023tdualityflavorsymmetrieslittle,
+      title={T-Duality and Flavor Symmetries in Little String Theories},
+      author={Hamza Ahmed and Paul-Konstantin Oehlmann and Fabian Ruehle},
+      year={2023},
+      eprint={2311.02168},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2311.02168},
+  }

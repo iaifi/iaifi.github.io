@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{oehlmann2024frozenphaseheteroticftheory,
+      title={The Frozen Phase of Heterotic F-theory Duality},
+      author={Paul-Konstantin Oehlmann and Fabian Ruehle and Benjamin Sung},
+      year={2024},
+      eprint={2404.02191},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2404.02191},
+  }

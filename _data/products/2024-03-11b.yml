@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{harris2024resimulationbasedselfsupervisedlearningpretraining,
+      title={Re-Simulation-based Self-Supervised Learning for Pre-Training Foundation Models},
+      author={Philip Harris and Michael Kagan and Jeffrey Krupa and Benedikt Maier and Nathaniel Woodward},
+      year={2024},
+      eprint={2403.07066},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2403.07066},
+  }

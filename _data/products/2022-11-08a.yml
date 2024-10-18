@@ -9,3 +9,17 @@ doi: https://doi.org/10.3847/2041-8213/acae98
 nsf-par:
 code: 
 publication-date: 2023-04-26
+bib-tex: |
+  @article{Hiramatsu_2023,
+   title={Limits on Simultaneous and Delayed Optical Emission from Well-localized Fast Radio Bursts},
+   volume={947},
+   ISSN={2041-8213},
+   url={http://dx.doi.org/10.3847/2041-8213/acae98},
+   DOI={10.3847/2041-8213/acae98},
+   number={2},
+   journal={The Astrophysical Journal Letters},
+   publisher={American Astronomical Society},
+   author={Hiramatsu, Daichi and Berger, Edo and Metzger, Brian D. and Gomez, Sebastian and Bieryla, Allyson and Arcavi, Iair and Howell, D. Andrew and Mckinven, Ryan and Tominaga, Nozomu},
+   year={2023},
+   month=apr, pages={L28}
+  }

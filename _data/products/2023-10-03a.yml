@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{liu2024neuralscalinglawlottery,
+      title={A Neural Scaling Law from Lottery Ticket Ensembling},
+      author={Ziming Liu and Max Tegmark},
+      year={2024},
+      eprint={2310.02258},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2310.02258},
+  }

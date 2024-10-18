@@ -9,3 +9,17 @@ doi: https://iopscience.iop.org/article/10.1088/2632-2153/acb488
 nsf-par:
 code:
 publication-date: 2023-03-01
+bib-tex: |
+  @article{Sheshmani_2023,
+   title={Categorical representation learning and RG flow operators for algorithmic classifiers},
+   volume={4},
+   ISSN={2632-2153},
+   url={http://dx.doi.org/10.1088/2632-2153/acb488},
+   DOI={10.1088/2632-2153/acb488},
+   number={1},
+   journal={Machine Learning: Science and Technology},
+   publisher={IOP Publishing},
+   author={Sheshmani, Artan and You, Yi-Zhuang and Fu, Wenbo and Azizi, Ahmadreza},
+   year={2023},
+   month=feb, pages={015012}
+  }

@@ -3,9 +3,24 @@ iaifi-thrust: T
 title: "Preserving New Physics while Simultaneously Unfolding All Observables"
 authors: Patrick Komiske, W. Patrick McCormack, Benjamin Nachman
 abstract: "Direct searches for new particles at colliders have traditionally been factorized into model proposals by theorists and model testing by experimentalists. With the recent advent of machine learning methods that allow for the simultaneous unfolding of all observables in a given phase space region, there is a new opportunity to blur these traditional boundaries by performing searches on unfolded data. This could facilitate a research program where data are explored in their natural high dimensionality with as little model bias as possible. We study how the information about physics beyond the Standard Model is preserved by full phase space unfolding using an important physics target at the Large Hadron Collider (LHC): exotic Higgs boson decays involving hadronic final states. We find that if the signal cross section is high enough, information about the new physics is visible in the unfolded data. We will show that in some cases, quantifiably all of the information about the new physics is encoded in the unfolded data. Finally, we show that there are still many cases when the unfolding does not work fully or precisely, such as when the signal cross section is small. This study will serve as an important benchmark for enhancing unfolding methods for the LHC and beyond."
-arxiv: "2105.09923 "
+arxiv: "2105.09923"
 journal: Physical Review D, Volume 104, Article 076027
 doi: https://doi.org/10.1103/PhysRevD.104.076027
 nsf-par: 10404276
 code: 
 publication-date: 2021-10-27
+bib-tex: |
+  @article{Komiske_2021,
+   title={Preserving new physics while simultaneously unfolding all observables},
+   volume={104},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.104.076027},
+   DOI={10.1103/physrevd.104.076027},
+   number={7},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Komiske, Patrick and McCormack, W. Patrick and Nachman, Benjamin},
+   year={2021},
+   month=oct
+  }
+

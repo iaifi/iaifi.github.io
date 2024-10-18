@@ -9,3 +9,18 @@ doi: https://doi.org/10.1007/JHEP04(2021)070
 nsf-par: 10228224
 code: https://github.com/okitouni/MoDe
 publication-date: 2021-04-08
+bib-tex: |
+  @article{Kitouni_2021,
+   title={Enhancing searches for resonances with machine learning and moment decomposition},
+   volume={2021},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP04(2021)070},
+   DOI={10.1007/jhep04(2021)070},
+   number={4},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Kitouni, Ouail and Nachman, Benjamin and Weisser, Constantin and Williams, Mike},
+   year={2021},
+   month=apr
+  }
+

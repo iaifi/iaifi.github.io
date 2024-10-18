@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/carlguo866/circle-survival
 publication-date: 
+bib-tex: |
+  @misc{ding2024survivalfittestrepresentationcase,
+      title={Survival of the Fittest Representation: A Case Study with Modular Addition},
+      author={Xiaoman Delores Ding and Zifan Carl Guo and Eric J. Michaud and Ziming Liu and Max Tegmark},
+      year={2024},
+      eprint={2405.17420},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2405.17420},
+  }

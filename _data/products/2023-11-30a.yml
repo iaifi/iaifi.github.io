@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/ r- wynne/FORCE
 publication-date: 
+bib-tex: |
+  @misc{metodiev2024anomalydetectioncolliderphysics,
+      title={Anomaly Detection in Collider Physics via Factorized Observables},
+      author={Eric M. Metodiev and Jesse Thaler and Raymond Wynne},
+      year={2024},
+      eprint={2312.00119},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2312.00119},
+  }

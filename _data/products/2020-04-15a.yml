@@ -9,3 +9,13 @@ doi: https://doi.org/10.48550/arXiv.1905.11481
 nsf-par:
 code:
 publication-date: 2020-04-15
+bib-tex: |
+  @misc{udrescu2020aifeynmanphysicsinspiredmethod,
+      title={AI Feynman: a Physics-Inspired Method for Symbolic Regression},
+      author={Silviu-Marian Udrescu and Max Tegmark},
+      year={2020},
+      eprint={1905.11481},
+      archivePrefix={arXiv},
+      primaryClass={physics.comp-ph},
+      url={https://arxiv.org/abs/1905.11481},
+  }

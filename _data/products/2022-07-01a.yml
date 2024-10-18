@@ -9,3 +9,13 @@ doi: https://ieeexplore.ieee.org/document/10253952
 nsf-par: 10505428
 code: 
 publication-date: 2023-09-18
+bib-tex: |
+  @misc{zhang2023deeplearningsymbolicregression,
+      title={Deep Learning and Symbolic Regression for Discovering Parametric Equations},
+      author={Michael Zhang and Samuel Kim and Peter Y. Lu and Marin Soljačić},
+      year={2023},
+      eprint={2207.00529},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2207.00529},
+  }

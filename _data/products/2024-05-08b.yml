@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/nmudur/diffusion-hmc
 publication-date: 
+bib-tex: |
+  @misc{mudur2024diffusionhmcparameterinferencediffusion,
+      title={Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo},
+      author={Nayantara Mudur and Carolina Cuesta-Lazaro and Douglas P. Finkbeiner},
+      year={2024},
+      eprint={2405.05255},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2405.05255},
+  }

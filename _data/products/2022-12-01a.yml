@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevLett.131.081601
 nsf-par: 10505514
 code: https://github.com/jmmartyn/Neural-Network-Quantum- Field-States
 publication-date: 2023-08-24
+bib-tex: |
+  @article{Martyn_2023,
+   title={Variational Neural-Network Ansatz for Continuum Quantum Field Theory},
+   volume={131},
+   ISSN={1079-7114},
+   url={http://dx.doi.org/10.1103/PhysRevLett.131.081601},
+   DOI={10.1103/physrevlett.131.081601},
+   number={8},
+   journal={Physical Review Letters},
+   publisher={American Physical Society (APS)},
+   author={Martyn, John M. and Najafi, Khadijeh and Luo, Di},
+   year={2023},
+   month=aug
+  }

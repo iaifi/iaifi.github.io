@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.107.076019
 nsf-par: 10505457
 code: 
 publication-date: 2023-04-21
+bib-tex: |
+  @article{Buhmann_2023,
+   title={EPiC-GAN: Equivariant point cloud generation for particle jets},
+   volume={15},
+   ISSN={2542-4653},
+   url={http://dx.doi.org/10.21468/SciPostPhys.15.4.130},
+   DOI={10.21468/scipostphys.15.4.130},
+   number={4},
+   journal={SciPost Physics},
+   publisher={Stichting SciPost},
+   author={Buhmann, Erik and Kasieczka, Gregor and Thaler, Jesse},
+   year={2023},
+   month=oct
+  }

@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.104.114507
 nsf-par: 10323043
 code: 
 publication-date: 2021-12-15
+bib-tex: |
+  @article{Albergo_2021,
+   title={Flow-based sampling for fermionic lattice field theories},
+   volume={104},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.104.114507},
+   DOI={10.1103/physrevd.104.114507},
+   number={11},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Albergo, Michael S. and Kanwar, Gurtej and Racanière, Sébastien and Rezende, Danilo J. and Urban, Julian M. and Boyda, Denis and Cranmer, Kyle and Hackett, Daniel C. and Shanahan, Phiala E.},
+   year={2021},
+   month=dec
+  }

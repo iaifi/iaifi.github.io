@@ -9,3 +9,19 @@ doi: https://doi.org/10.1371/journal.pone.0271947
 nsf-par:
 code: 
 publication-date: 2022-08-10
+bib-tex: |
+  @article{D_Alonzo_2022,
+   title={Machine-learning media bias},
+   volume={17},
+   ISSN={1932-6203},
+   url={http://dx.doi.org/10.1371/journal.pone.0271947},
+   DOI={10.1371/journal.pone.0271947},
+   number={8},
+   journal={PLOS ONE},
+   publisher={Public Library of Science (PLoS)},
+   author={D’Alonzo, Samantha and Tegmark, Max},
+   editor={Castiello, Ciro},
+   year={2022},
+   month=aug, pages={e0271947}
+  }
+

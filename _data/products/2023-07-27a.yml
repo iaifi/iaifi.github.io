@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/f3rm/f3rm
 publication-date: 
+bib-tex: |
+  @misc{shen2023distilledfeaturefieldsenable,
+      title={Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation},
+      author={William Shen and Ge Yang and Alan Yu and Jansen Wong and Leslie Pack Kaelbling and Phillip Isola},
+      year={2023},
+      eprint={2308.07931},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2308.07931},
+  }

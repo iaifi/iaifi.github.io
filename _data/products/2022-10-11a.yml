@@ -9,3 +9,13 @@ doi: "https://openreview.net/pdf?id=Ns2X7Azudy"
 nsf-par:
 code: 
 publication-date: 2023-09-01
+bib-tex: |
+  @misc{liao2023learningoptimizequasinewtonmethods,
+      title={Learning to Optimize Quasi-Newton Methods},
+      author={Isaac Liao and Rumen R. Dangovski and Jakob N. Foerster and Marin Soljačić},
+      year={2023},
+      eprint={2210.06171},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2210.06171},
+  }

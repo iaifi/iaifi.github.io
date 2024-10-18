@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.103.074503
 nsf-par:
 code: 
 publication-date: 2021-04-14
+bib-tex: |
+  @article{Detmold_2021,
+   title={Few-nucleon matrix elements in pionless effective field theory in a finite volume},
+   volume={103},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.103.074503},
+   DOI={10.1103/physrevd.103.074503},
+   number={7},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Detmold, W. and Shanahan, P. E.},
+   year={2021},
+   month=apr
+  }

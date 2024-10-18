@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/RevModPhys.94.031003
 nsf-par:
 code: 
 publication-date: 2022-09-08
+bib-tex: |
+  @article{Boehnlein_2022,
+   title={Colloquium: Machine learning in nuclear physics},
+   volume={94},
+   ISSN={1539-0756},
+   url={http://dx.doi.org/10.1103/RevModPhys.94.031003},
+   DOI={10.1103/revmodphys.94.031003},
+   number={3},
+   journal={Reviews of Modern Physics},
+   publisher={American Physical Society (APS)},
+   author={Boehnlein, Amber and Diefenthaler, Markus and Sato, Nobuo and Schram, Malachi and Ziegler, Veronique and Fanelli, Cristiano and Hjorth-Jensen, Morten and Horn, Tanja and Kuchera, Michelle P. and Lee, Dean and Nazarewicz, Witold and Ostroumov, Peter and Orginos, Kostas and Poon, Alan and Wang, Xin-Nian and Scheinker, Alexander and Smith, Michael S. and Pang, Long-Gang},
+   year={2022},
+   month=sep
+  }

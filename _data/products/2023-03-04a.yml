@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/ clott3/multi-sym-ensem
 publication-date: 
+bib-tex: |
+  @@misc{loh2023multisymmetryensemblesimprovingdiversity,
+      title={Multi-Symmetry Ensembles: Improving Diversity and Generalization via Opposing Symmetries},
+      author={Charlotte Loh and Seungwook Han and Shivchander Sudalairaj and Rumen Dangovski and Kai Xu and Florian Wenzel and Marin Soljacic and Akash Srivastava},
+      year={2023},
+      eprint={2303.02484},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2303.02484},
+  }

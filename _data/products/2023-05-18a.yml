@@ -9,3 +9,17 @@ doi: 10.3847/1538-4357/ad2854
 nsf-par:
 code: 
 publication-date: 2024-03-29
+bib-tex: |
+  @article{Hiramatsu_2024,
+   title={Multiple Peaks and a Long Precursor in the Type IIn Supernova 2021qqp: An Energetic Explosion in a Complex Circumstellar Environment},
+   volume={964},
+   ISSN={1538-4357},
+   url={http://dx.doi.org/10.3847/1538-4357/ad2854},
+   DOI={10.3847/1538-4357/ad2854},
+   number={2},
+   journal={The Astrophysical Journal},
+   publisher={American Astronomical Society},
+   author={Hiramatsu, Daichi and Matsumoto, Tatsuya and Berger, Edo and Ransome, Conor and Villar, V. Ashley and Gomez, Sebastian and Cendes, Yvette and De, Kishalay and Bostroem, K. Azalee and Farah, Joseph and Howell, D. Andrew and McCully, Curtis and Newsome, Megan and Padilla Gonzalez, Estefania and Pellegrino, Craig and Suzuki, Akihiro and Terreran, Giacomo},
+   year={2024},
+   month=mar, pages={181}
+  }

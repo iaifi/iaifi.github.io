@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.109.103503
 nsf-par: "10525378"
 code:
 publication-date: 2024-05-02
+bib-tex: |
+  @article{Valogiannis_2024,
+   title={Precise cosmological constraints from BOSS galaxy clustering with a simulation-based emulator of the wavelet scattering transform},
+   volume={109},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.109.103503},
+   DOI={10.1103/physrevd.109.103503},
+   number={10},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Valogiannis, Georgios and Yuan, Sihan and Dvorkin, Cora},
+   year={2024},
+   month=may
+  }

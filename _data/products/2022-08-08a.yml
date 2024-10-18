@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevD.107.034506
 nsf-par:
 code: 
 publication-date: 2023-02-16
+bib-tex: |
+  @article{Spitz_2023,
+   title={Confinement in non-Abelian lattice gauge theory via persistent homology},
+   volume={107},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.107.034506},
+   DOI={10.1103/physrevd.107.034506},
+   number={3},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Spitz, Daniel and Urban, Julian M. and Pawlowski, Jan M.},
+   year={2023},
+   month=feb
+  }

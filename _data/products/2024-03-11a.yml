@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{andriot2024classicalsittersolutionsparametric,
+      title={On classical de Sitter solutions and parametric control},
+      author={David Andriot and Fabian Ruehle},
+      year={2024},
+      eprint={2403.07065},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2403.07065},
+  }

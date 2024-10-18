@@ -9,3 +9,17 @@ doi: https://doi.org/10.1007/JHEP03%282022%29066
 nsf-par: 10323036
 code: 
 publication-date: 2022-03-09
+bib-tex: |
+  @article{Fraser_2022,
+   title={Challenges for unsupervised anomaly detection in particle physics},
+   volume={2022},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP03(2022)066},
+   DOI={10.1007/jhep03(2022)066},
+   number={3},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Fraser, Katherine and Homiller, Samuel and Mishra, Rashmish K. and Ostdiek, Bryan and Schwartz, Matthew D.},
+   year={2022},
+   month=mar
+  }

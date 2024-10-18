@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/mhamilton723/FeatUp
 publication-date: 
+bib-tex: |
+  @misc{fu2024featupmodelagnosticframeworkfeatures,
+      title={FeatUp: A Model-Agnostic Framework for Features at Any Resolution},
+      author={Stephanie Fu and Mark Hamilton and Laura Brandt and Axel Feldman and Zhoutong Zhang and William T. Freeman},
+      year={2024},
+      eprint={2403.10516},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2403.10516},
+  }

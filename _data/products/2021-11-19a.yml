@@ -9,3 +9,17 @@ doi: https://doi.org/10.1103/PhysRevLett.128.171301
 nsf-par: 10376789
 code: 
 publication-date: 2022-04-27
+bib-tex: |
+  @article{Rogers_2022,
+   title={Limits on the Light Dark Matter–Proton Cross Section from Cosmic Large-Scale Structure},
+   volume={128},
+   ISSN={1079-7114},
+   url={http://dx.doi.org/10.1103/PhysRevLett.128.171301},
+   DOI={10.1103/physrevlett.128.171301},
+   number={17},
+   journal={Physical Review Letters},
+   publisher={American Physical Society (APS)},
+   author={Rogers, Keir K. and Dvorkin, Cora and Peiris, Hiranya V.},
+   year={2022},
+   month=apr
+  }

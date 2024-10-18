@@ -9,3 +9,15 @@ doi: https://doi.org/10.1017/9781009023405
 nsf-par:
 code: 
 publication-date: 2022-05-25
+bib-tex: |
+  @book{Roberts_2022,
+   title={The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks},
+   ISBN={9781316519332},
+   url={http://dx.doi.org/10.1017/9781009023405},
+   DOI={10.1017/9781009023405},
+   publisher={Cambridge University Press},
+   author={Roberts, Daniel A. and Yaida, Sho and Hanin, Boris},
+   year={2022},
+   month=may
+  }
+

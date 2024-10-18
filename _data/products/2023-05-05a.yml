@@ -9,3 +9,13 @@ doi: https://doi.org/10.48550/arXiv.2305.03751
 nsf-par: 10504097
 code: 
 publication-date: 2023-08-18
+bib-tex: |
+  @misc{larkoski2023spectralmetriccollidergeometry,
+      title={A Spectral Metric for Collider Geometry},
+      author={Andrew J. Larkoski and Jesse Thaler},
+      year={2023},
+      eprint={2305.03751},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2305.03751},
+  }

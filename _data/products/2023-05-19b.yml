@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{lasby2024dynamicsparsetrainingstructured,
+      title={Dynamic Sparse Training with Structured Sparsity},
+      author={Mike Lasby and Anna Golubeva and Utku Evci and Mihai Nica and Yani Ioannou},
+      year={2024},
+      eprint={2305.02299},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2305.02299},
+  }

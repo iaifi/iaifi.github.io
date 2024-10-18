@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/snehjp2/GCNNMorphology
 publication-date: 
+bib-tex: |
+  @misc{pandya2023e2equivariantneuralnetworks,
+      title={E(2) Equivariant Neural Networks for Robust Galaxy Morphology Classification},
+      author={Sneh Pandya and Purvik Patel and Franc O and Jonathan Blazek},
+      year={2023},
+      eprint={2311.01500},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.GA},
+      url={https://arxiv.org/abs/2311.01500},
+  }

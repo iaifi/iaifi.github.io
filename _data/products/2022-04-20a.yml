@@ -9,3 +9,17 @@ doi: https://doi.org/10.3847/1538-4357/ac87ff
 nsf-par: 10376758
 code: 
 publication-date: 2022-09-16
+bib-tex: |
+  @article{Hsu_2022,
+   title={Photometrically Classified Superluminous Supernovae from the Pan-STARRS1 Medium Deep Survey: A Case Study for Science with Machine-learning-based Classification},
+   volume={937},
+   ISSN={1538-4357},
+   url={http://dx.doi.org/10.3847/1538-4357/ac87ff},
+   DOI={10.3847/1538-4357/ac87ff},
+   number={1},
+   journal={The Astrophysical Journal},
+   publisher={American Astronomical Society},
+   author={Hsu, Brian and Hosseinzadeh, Griffin and Villar, V. Ashley and Berger, Edo},
+   year={2022},
+   month=sep, pages={13}
+  }

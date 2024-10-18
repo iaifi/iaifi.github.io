@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://feature-splatting.github.io
 publication-date: 
+bib-tex: |
+  @misc{qiu2024featuresplattinglanguagedrivenphysicsbased,
+      title={Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing},
+      author={Ri-Zhao Qiu and Ge Yang and Weijia Zeng and Xiaolong Wang},
+      year={2024},
+      eprint={2404.01223},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2404.01223},
+  }

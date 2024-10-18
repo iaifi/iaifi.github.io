@@ -9,3 +9,17 @@ doi: https://doi.org/10.1007/JHEP02%282023%29175
 nsf-par: 10404305
 code: 
 publication-date: 2023-02-17
+bib-tex: |
+  @article{Lukas_2023,
+   title={Symmetries of Calabi-Yau prepotentials with isomorphic flops},
+   volume={2023},
+   ISSN={1029-8479},
+   url={http://dx.doi.org/10.1007/JHEP02(2023)175},
+   DOI={10.1007/jhep02(2023)175},
+   number={2},
+   journal={Journal of High Energy Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Lukas, Andre and Ruehle, Fabian},
+   year={2023},
+   month=feb
+  }

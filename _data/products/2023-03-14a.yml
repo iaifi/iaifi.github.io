@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{luo2023artificialintelligenceartificialmaterials,
+      title={Artificial intelligence for artificial materials: moir\'e atom},
+      author={Di Luo and Aidan P. Reddy and Trithep Devakul and Liang Fu},
+      year={2023},
+      eprint={2303.08162},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.str-el},
+      url={https://arxiv.org/abs/2303.08162},
+  }

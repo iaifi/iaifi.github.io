@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://tianweiy.github.io/dmd/
 publication-date: 
+bib-tex: |
+  @misc{yin2024onestepdiffusiondistributionmatching,
+      title={One-step Diffusion with Distribution Matching Distillation},
+      author={Tianwei Yin and Michaël Gharbi and Richard Zhang and Eli Shechtman and Fredo Durand and William T. Freeman and Taesung Park},
+      year={2024},
+      eprint={2311.18828},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2311.18828},
+  }

@@ -9,3 +9,18 @@ doi: https://doi.org/10.1103/PhysRevB.105.125124
 nsf-par: 10323038
 code: 
 publication-date: 2022-03-21
+bib-tex: |
+  @article{Golubeva_2022,
+   title={Pruning a restricted Boltzmann machine for quantum state reconstruction},
+   volume={105},
+   ISSN={2469-9969},
+   url={http://dx.doi.org/10.1103/PhysRevB.105.125124},
+   DOI={10.1103/physrevb.105.125124},
+   number={12},
+   journal={Physical Review B},
+   publisher={American Physical Society (APS)},
+   author={Golubeva, Anna and Melko, Roger G.},
+   year={2022},
+   month=mar
+  }
+

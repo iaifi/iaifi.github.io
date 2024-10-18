@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @misc{sun2022finitevolumepionlesseffectivefield,
+      title={Finite-Volume Pionless Effective Field Theory for Few-Nucleon Systems with Differentiable Programming},
+      author={Xiangkai Sun and William Detmold and Di Luo and Phiala E. Shanahan},
+      year={2022},
+      eprint={2202.03530},
+      archivePrefix={arXiv},
+      primaryClass={nucl-th},
+      url={https://arxiv.org/abs/2202.03530},
+  }

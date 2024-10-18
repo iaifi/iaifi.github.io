@@ -9,3 +9,13 @@ doi:
 nsf-par:
 code: https://github.com/florpi/sunbird
 publication-date: 
+bib-tex: |
+  @misc{paillas2023cosmologicalconstraintsdensitysplitclustering,
+      title={Cosmological constraints from density-split clustering in the BOSS CMASS galaxy sample},
+      author={Enrique Paillas and Carolina Cuesta-Lazaro and Will J. Percival and Seshadri Nadathur and Yan-Chuan Cai and Sihan Yuan and Florian Beutler and Arnaud de Mattia and Daniel Eisenstein and Daniel Forero-Sanchez and Nelson Padilla and Mathilde Pinon and Vanina Ruhlmann-Kleider and Ariel G. Sánchez and Georgios Valogiannis and Pauline Zarrouk},
+      year={2023},
+      eprint={2309.16541},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2309.16541},
+  }
