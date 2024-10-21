@@ -123,8 +123,8 @@
   start-date-time: "2024-10-29 13:00"
   end-date-time: "2024-10-29 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abtract to come"
+  talk-title: "Gravitational wave populations and cosmology with neural posterior estimation"
+  talk-abstract: "Compact binary coalescences that are observed through gravitational waves (GWs) provide an independent probe to constrain the current expansion rate of the Universe, H0. In addition to the information on the luminosity distance that is directly provided from the GW, redshift information is also needed for the H0 measurement. All GW events observed thus far (with the exception of the binary neutron star merger GW170817) do not have electromagnetic counterparts, and other methods are needed to provide this redshift information. I will summarize a method that uses the (redshifted) source frame mass distribution, also known as the mass spectrum method. Since this approach requires no additional electromagnetic redshift, the mass spectrum method allows to constrain H0 from all observed GW sources so far. In my talk, I will summarize how one can apply neural posterior estimation for fast-and-accurate hierarchical Bayesian inference of gravitational wave populations. We use a normalizing flow to estimate directly the population hyper-parameters from a collection of individual source observations. This approach provides complete freedom in event representation, automatic inclusion of selection effects, and (in contrast to likelihood estimation) without the need for stochastic samplers to obtain posterior samples. Since the number of events may be unknown when the network is trained, we split our analysis into sub-population analyses that we later recombine; this allows for fast sequential analyses as additional events are observed. We demonstrate our method on a toy problem within the mass spectrum method desctibed above, and show that inference takes just a few minutes and scales to 600 events before performance degrades. I will argue that neural posterior estimation therefore represents a promising avenue for population inference with large numbers of GW events."
   slides-link: https://iaifi.org/
   youtube-link: ""
   speaker-thrust: ""
@@ -142,8 +142,8 @@
   start-date-time: "2024-10-22 13:00"
   end-date-time: "2024-10-22 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abtract to come"
+  talk-title: "Graph Neural Networks for GeV neutrinos in IceCube"
+  talk-abstract: "The IceCube Neutrino Observatory, located at the South Pole, is a multi-purpose detector for particle physics and multimessenger astrophysics. It has been collecting data for more than a decade and in recent years, several major discoveries and measurements have utilized neural networks. The convolution neural network frameworks used in these analyses are limited by the irregular geometry of the detector and the sparsity of detected photons in GeV-scale neutrino events. These limitations will become even more difficult to work around with future detectors like the IceCube Upgrade, a low energy extension to be constructed in the 2025-2026 Antarctic season. New efforts with graph neural networks have already shown promising improvements, unlocking new opportunities for future analyses and paving the way for exciting new discoveries."
   slides-link: https://iaifi.org/
   youtube-link: ""
   speaker-thrust: ""
@@ -166,8 +166,8 @@
   slides-link: https://iaifi.org/
   youtube-link: ""
   speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
+  speaker-gender: "Man"
+  talk-attendance: 9 in person, 2 virtual
   
 - type: "fall-2024"
   speaker-name: Felix Yu
