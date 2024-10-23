@@ -1,192 +1,21 @@
 - type: "fall-2024"
-  speaker-name: Aishik Ghosh
-  speaker-title:
-  speaker-affiliation: Further information to come
-  speaker-website:
-  speaker-photo-location:
-  talk-date: "2024-12-17"
-  talk-date-time: "Tuesday, December 17, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-12-17 13:00"
-  end-date-time: "2024-12-17 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abtract to come"
-  slides-link: https://iaifi.org/
-  youtube-link: ""
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
-
-- type: "fall-2024"
-  speaker-name: Nate Woodward
-  speaker-title: Undergraduate Student
-  speaker-affiliation: MIT
-  speaker-website:
-  speaker-photo-location:
-  talk-date: "2024-12-10"
-  talk-date-time: "Tuesday, December 10, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-12-10 13:00"
-  end-date-time: "2024-12-10 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abtract to come"
-  slides-link: https://iaifi.org/
-  youtube-link: ""
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
-
-- type: "fall-2024"
-  speaker-name: Davide Bray
+  speaker-name: Rikab Gambhir
   speaker-title: Graduate Student
-  speaker-affiliation: Harvard University
-  speaker-website:
-  speaker-photo-location:
-  talk-date: "2024-12-03"
-  talk-date-time: "Tuesday, December 3, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-12-03 13:00"
-  end-date-time: "2024-12-03 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abtract to come"
-  slides-link: https://iaifi.org/
-  youtube-link: ""
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
-  
-- type: "fall-2024"
-  speaker-name: Mike Toomey
-  speaker-title: Postdoctoral Student
   speaker-affiliation: MIT
-  speaker-website:
+  speaker-website: "https://rikabgambhir.com"
   speaker-photo-location:
-  talk-date: "2024-11-26"
-  talk-date-time: "Tuesday, November 26, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-11-26 13:00"
-  end-date-time: "2024-11-26 14:00"
+  talk-date: "2024-09-25"
+  talk-date-time: "Tuesday, September 24, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-09-24 13:00"
+  end-date-time: "2024-09-24 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abtract to come"
-  slides-link: https://iaifi.org/
+  talk-title: "Moments Of Clarity in Machine Learning for Jet Physics"
+  talk-abstract: "Machine learning models have shown incredible promise for science, especially for physics at the Large Hadron Collider (LHC), through their ability to extract information from huge amounts of data. However, as physicists, we often desire to have precise control of the information input and output of a model, both to improve interpretability and to guarantee properties of interest in our problems. In this talk, I go over three different examples from my work in jet physics at the LHC where targeted and goal-motivated model design and loss function choice can be used to control the extracted information in machine learning models. In particular, I discuss how task-engineered network architectures and losses can be used to extract provably prior-independent and unbiased resolutions for calibrations at the LHC, how they can be used to construct a new class of robust observables for jets, and how they can be used to streamline latent spaces using elementary functions for interpretability."
+  slides-link: https://docs.google.com/presentation/d/1mFzyzI8nA-OxcpQdcEhSPLh3aq9-zm8f9F72sh2RS4E/edit?usp=sharing
   youtube-link: ""
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
-  
-- type: "fall-2024"
-  speaker-name: Neill Warrington
-  speaker-title: Postdoctoral Student
-  speaker-affiliation: MIT
-  speaker-website:
-  speaker-photo-location:
-  talk-date: "2024-11-19"
-  talk-date-time: "Tuesday, November 19, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-11-19 13:00"
-  end-date-time: "2024-11-19 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abtract to come"
-  slides-link: https://iaifi.org/
-  youtube-link: ""
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
-  
-- type: "fall-2024"
-  speaker-name: Thomas Helfer
-  speaker-title:
-  speaker-affiliation: Further information to come
-  speaker-website:
-  speaker-photo-location:
-  talk-date: "2024-11-12"
-  talk-date-time: "Tuesday, November 12, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-11-12 13:00"
-  end-date-time: "2024-11-12 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abtract to come"
-  slides-link: https://iaifi.org/
-  youtube-link: ""
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
-  
-- type: "fall-2024"
-  speaker-name: Konstantin Leyde
-  speaker-title:
-  speaker-affiliation: University of Portsmouth
-  speaker-website:
-  speaker-photo-location:
-  talk-date: "2024-10-29"
-  talk-date-time: "Tuesday, October 29, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-10-29 13:00"
-  end-date-time: "2024-10-29 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Gravitational wave populations and cosmology with neural posterior estimation"
-  talk-abstract: "Compact binary coalescences that are observed through gravitational waves (GWs) provide an independent probe to constrain the current expansion rate of the Universe, H0. In addition to the information on the luminosity distance that is directly provided from the GW, redshift information is also needed for the H0 measurement. All GW events observed thus far (with the exception of the binary neutron star merger GW170817) do not have electromagnetic counterparts, and other methods are needed to provide this redshift information. I will summarize a method that uses the (redshifted) source frame mass distribution, also known as the mass spectrum method. Since this approach requires no additional electromagnetic redshift, the mass spectrum method allows to constrain H0 from all observed GW sources so far. In my talk, I will summarize how one can apply neural posterior estimation for fast-and-accurate hierarchical Bayesian inference of gravitational wave populations. We use a normalizing flow to estimate directly the population hyper-parameters from a collection of individual source observations. This approach provides complete freedom in event representation, automatic inclusion of selection effects, and (in contrast to likelihood estimation) without the need for stochastic samplers to obtain posterior samples. Since the number of events may be unknown when the network is trained, we split our analysis into sub-population analyses that we later recombine; this allows for fast sequential analyses as additional events are observed. We demonstrate our method on a toy problem within the mass spectrum method desctibed above, and show that inference takes just a few minutes and scales to 600 events before performance degrades. I will argue that neural posterior estimation therefore represents a promising avenue for population inference with large numbers of GW events."
-  slides-link: https://iaifi.org/
-  youtube-link: ""
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
-  
-- type: "fall-2024"
-  speaker-name: Kayla DeHolton
-  speaker-title:
-  speaker-affiliation: Penn State University
-  speaker-website:
-  speaker-photo-location:
-  talk-date: "2024-10-22"
-  talk-date-time: "Tuesday, October 22, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-10-22 13:00"
-  end-date-time: "2024-10-22 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Graph Neural Networks for GeV neutrinos in IceCube"
-  talk-abstract: "The IceCube Neutrino Observatory, located at the South Pole, is a multi-purpose detector for particle physics and multimessenger astrophysics. It has been collecting data for more than a decade and in recent years, several major discoveries and measurements have utilized neural networks. The convolution neural network frameworks used in these analyses are limited by the irregular geometry of the detector and the sparsity of detected photons in GeV-scale neutrino events. These limitations will become even more difficult to work around with future detectors like the IceCube Upgrade, a low energy extension to be constructed in the 2025-2026 Antarctic season. New efforts with graph neural networks have already shown promising improvements, unlocking new opportunities for future analyses and paving the way for exciting new discoveries."
-  slides-link: https://iaifi.org/
-  youtube-link: ""
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
-  
-- type: "fall-2024"
-  speaker-name: Keiya Hirashima
-  speaker-title:
-  speaker-affiliation: University of Tokyo
-  speaker-website:
-  speaker-photo-location:
-  talk-date: "2024-10-15"
-  talk-date-time: "Tuesday, October 15, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-10-15 13:00"
-  end-date-time: "2024-10-15 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Surrogate Modeling for Supernova Feedback toward Star-by-star Simulations of Milky-Way-sized Galaxies"
-  talk-abstract: "In recent decades, improvements in galaxy simulations have revealed the interdependence of multiscale gas physics, such as star formation and feedback processes. Still, so-called sub-grid models have been widely used due to limited resolution and scalability. Even in zoom-in simulations, the mass resolution is capped at around 1,000 solar masses. To address this, we are developing the ASURA-FDPS code to leverage exascale computing for simulating individual stars and feedback in galaxies. Challenges in scalability arise from localized short-timescale events like supernovae (SNe). To overcome this, we developed a machine-learning-based surrogate model that predicts SNe feedback 100,000 years ahead, reducing the computational cost to 1% of direct resolution. This presentation discusses the fidelity and progress of high-resolution galaxy simulations using this approach."
-  slides-link: "https://drive.google.com/file/d/1nTa2wS4unLtRPouFVgFsM9REwEkOtXJR/view?usp=sharing"
-  youtube-link: ""
-  speaker-thrust: "astrophysics"
+  speaker-thrust: "physics theory"
   speaker-gender: "Man"
-  talk-attendance: 9 in person, 2 virtual
-  
-- type: "fall-2024"
-  speaker-name: Felix Yu
-  speaker-title: Graduate Student
-  speaker-affiliation: Harvard University
-  speaker-website:
-  speaker-photo-location:
-  talk-date: "2024-10-08"
-  talk-date-time: "Tuesday, October 8, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-10-08 13:00"
-  end-date-time: "2024-10-08 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Learning Representations & Super-Resolution of Neutrino Telescope Events"
-  talk-abstract: "Neutrino telescopes detect rare interactions of particles produced in some of the most extreme environments in the Universe. This is accomplished by instrumenting a cubic-kilometer volume of naturally occurring transparent medium with light sensors. Given their substantial size and the high frequency of background interactions, these telescopes amass an enormous quantity of large variance, high-dimensional data. These attributes create substantial challenges for analyzing and reconstructing interactions, particularly when utilizing machine learning (ML) techniques. In this talk, I will present a novel approach that employs transformer-based variational autoencoders to efficiently represent neutrino telescope events by learning compact and descriptive latent representations. I will also talk about some potential applications which can take advantage of these more flexible and efficient representations, including super-resolving neutrino telescope events to enhance reconstruction performance."
-  slides-link: "https://drive.google.com/file/d/1uB_ruIRmqHKa8BQ06vbCJbEfpUVPeyWF/view?usp=sharing"
-  youtube-link: ""
-  speaker-thrust: "physics experiment"
-  speaker-gender: "Man"
-  talk-attendance: 13 in person, 2 virtual
+  talk-attendance: 11 in person, 0 virtual
   
 - type: "fall-2024"
   speaker-name: Kit Fraser-Taliente
@@ -208,23 +37,194 @@
   talk-attendance: 12 in person, 0 virtual
   
 - type: "fall-2024"
-  speaker-name: Rikab Gambhir
+  speaker-name: Felix Yu
   speaker-title: Graduate Student
-  speaker-affiliation: MIT
-  speaker-website: "https://rikabgambhir.com"
+  speaker-affiliation: Harvard University
+  speaker-website: https://scholar.harvard.edu/arguelles/arguelles-9
   speaker-photo-location:
-  talk-date: "2024-09-25"
-  talk-date-time: "Tuesday, September 24, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-09-24 13:00"
-  end-date-time: "2024-09-24 14:00"
+  talk-date: "2024-10-08"
+  talk-date-time: "Tuesday, October 8, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-10-08 13:00"
+  end-date-time: "2024-10-08 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Moments Of Clarity in Machine Learning for Jet Physics"
-  talk-abstract: "Machine learning models have shown incredible promise for science, especially for physics at the Large Hadron Collider (LHC), through their ability to extract information from huge amounts of data. However, as physicists, we often desire to have precise control of the information input and output of a model, both to improve interpretability and to guarantee properties of interest in our problems. In this talk, I go over three different examples from my work in jet physics at the LHC where targeted and goal-motivated model design and loss function choice can be used to control the extracted information in machine learning models. In particular, I discuss how task-engineered network architectures and losses can be used to extract provably prior-independent and unbiased resolutions for calibrations at the LHC, how they can be used to construct a new class of robust observables for jets, and how they can be used to streamline latent spaces using elementary functions for interpretability."
-  slides-link: https://docs.google.com/presentation/d/1mFzyzI8nA-OxcpQdcEhSPLh3aq9-zm8f9F72sh2RS4E/edit?usp=sharing
+  talk-title: "Learning Representations & Super-Resolution of Neutrino Telescope Events"
+  talk-abstract: "Neutrino telescopes detect rare interactions of particles produced in some of the most extreme environments in the Universe. This is accomplished by instrumenting a cubic-kilometer volume of naturally occurring transparent medium with light sensors. Given their substantial size and the high frequency of background interactions, these telescopes amass an enormous quantity of large variance, high-dimensional data. These attributes create substantial challenges for analyzing and reconstructing interactions, particularly when utilizing machine learning (ML) techniques. In this talk, I will present a novel approach that employs transformer-based variational autoencoders to efficiently represent neutrino telescope events by learning compact and descriptive latent representations. I will also talk about some potential applications which can take advantage of these more flexible and efficient representations, including super-resolving neutrino telescope events to enhance reconstruction performance."
+  slides-link: "https://drive.google.com/file/d/1uB_ruIRmqHKa8BQ06vbCJbEfpUVPeyWF/view?usp=sharing"
   youtube-link: ""
-  speaker-thrust: "physics theory"
+  speaker-thrust: "physics experiment"
   speaker-gender: "Man"
-  talk-attendance: 11 in person, 0 virtual
+  talk-attendance: 13 in person, 2 virtual
+  
+- type: "fall-2024"
+  speaker-name: Keiya Hirashima
+  speaker-title:
+  speaker-affiliation: University of Tokyo
+  speaker-website: https://kyafuk.github.io/utokyo-hirashima/index.html
+  speaker-photo-location:
+  talk-date: "2024-10-15"
+  talk-date-time: "Tuesday, October 15, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-10-15 13:00"
+  end-date-time: "2024-10-15 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Surrogate Modeling for Supernova Feedback toward Star-by-star Simulations of Milky-Way-sized Galaxies"
+  talk-abstract: "In recent decades, improvements in galaxy simulations have revealed the interdependence of multiscale gas physics, such as star formation and feedback processes. Still, so-called sub-grid models have been widely used due to limited resolution and scalability. Even in zoom-in simulations, the mass resolution is capped at around 1,000 solar masses. To address this, we are developing the ASURA-FDPS code to leverage exascale computing for simulating individual stars and feedback in galaxies. Challenges in scalability arise from localized short-timescale events like supernovae (SNe). To overcome this, we developed a machine-learning-based surrogate model that predicts SNe feedback 100,000 years ahead, reducing the computational cost to 1% of direct resolution. This presentation discusses the fidelity and progress of high-resolution galaxy simulations using this approach."
+  slides-link: "https://drive.google.com/file/d/1nTa2wS4unLtRPouFVgFsM9REwEkOtXJR/view?usp=sharing"
+  youtube-link: ""
+  speaker-thrust: "astrophysics"
+  speaker-gender: "Man"
+  talk-attendance: 9 in person, 2 virtual
+  
+- type: "fall-2024"
+  speaker-name: Kayla DeHolton
+  speaker-title:
+  speaker-affiliation: Penn State University
+  speaker-website: https://science.psu.edu/physics/people/kld5938
+  speaker-photo-location:
+  talk-date: "2024-10-22"
+  talk-date-time: "Tuesday, October 22, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-10-22 13:00"
+  end-date-time: "2024-10-22 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Graph Neural Networks for GeV neutrinos in IceCube"
+  talk-abstract: "The IceCube Neutrino Observatory, located at the South Pole, is a multi-purpose detector for particle physics and multimessenger astrophysics. It has been collecting data for more than a decade and in recent years, several major discoveries and measurements have utilized neural networks. The convolution neural network frameworks used in these analyses are limited by the irregular geometry of the detector and the sparsity of detected photons in GeV-scale neutrino events. These limitations will become even more difficult to work around with future detectors like the IceCube Upgrade, a low energy extension to be constructed in the 2025-2026 Antarctic season. New efforts with graph neural networks have already shown promising improvements, unlocking new opportunities for future analyses and paving the way for exciting new discoveries."
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Konstantin Leyde
+  speaker-title: Research Fellow
+  speaker-affiliation: University of Portsmouth
+  speaker-website: https://researchportal.port.ac.uk/en/persons/konstantin-leyde
+  speaker-photo-location:
+  talk-date: "2024-10-29"
+  talk-date-time: "Tuesday, October 29, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-10-29 13:00"
+  end-date-time: "2024-10-29 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Gravitational wave populations and cosmology with neural posterior estimation"
+  talk-abstract: "Compact binary coalescences that are observed through gravitational waves (GWs) provide an independent probe to constrain the current expansion rate of the Universe, H0. In addition to the information on the luminosity distance that is directly provided from the GW, redshift information is also needed for the H0 measurement. All GW events observed thus far (with the exception of the binary neutron star merger GW170817) do not have electromagnetic counterparts, and other methods are needed to provide this redshift information. I will summarize a method that uses the (redshifted) source frame mass distribution, also known as the mass spectrum method. Since this approach requires no additional electromagnetic redshift, the mass spectrum method allows to constrain H0 from all observed GW sources so far. In my talk, I will summarize how one can apply neural posterior estimation for fast-and-accurate hierarchical Bayesian inference of gravitational wave populations. We use a normalizing flow to estimate directly the population hyper-parameters from a collection of individual source observations. This approach provides complete freedom in event representation, automatic inclusion of selection effects, and (in contrast to likelihood estimation) without the need for stochastic samplers to obtain posterior samples. Since the number of events may be unknown when the network is trained, we split our analysis into sub-population analyses that we later recombine; this allows for fast sequential analyses as additional events are observed. We demonstrate our method on a toy problem within the mass spectrum method desctibed above, and show that inference takes just a few minutes and scales to 600 events before performance degrades. I will argue that neural posterior estimation therefore represents a promising avenue for population inference with large numbers of GW events."
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Thomas Helfer
+  speaker-title: Research Fellow
+  speaker-affiliation: Institute for Advanced Computational Science at Stony Brook
+  speaker-website: https://thomashelfer.com
+  speaker-photo-location:
+  talk-date: "2024-11-12"
+  talk-date-time: "Tuesday, November 12, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-11-12 13:00"
+  end-date-time: "2024-11-12 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Neill Warrington
+  speaker-title: Postdoc
+  speaker-affiliation: MIT
+  speaker-website: https://physics.mit.edu/faculty/neill-warrington/
+  speaker-photo-location:
+  talk-date: "2024-11-19"
+  talk-date-time: "Tuesday, November 19, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-11-19 13:00"
+  end-date-time: "2024-11-19 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Mike Toomey
+  speaker-title: Postdoctoral Fellow
+  speaker-affiliation: MIT
+  speaker-website: http://www.michael-toomey.com
+  speaker-photo-location:
+  talk-date: "2024-11-26"
+  talk-date-time: "Tuesday, November 26, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-11-26 13:00"
+  end-date-time: "2024-11-26 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Davide Bray
+  speaker-title: Graduate Student
+  speaker-affiliation: Harvard University
+  speaker-website: https://seas.harvard.edu/person/davide-bray
+  speaker-photo-location:
+  talk-date: "2024-12-03"
+  talk-date-time: "Tuesday, December 3, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-12-03 13:00"
+  end-date-time: "2024-12-03 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Nate Woodward
+  speaker-title: Undergraduate Student
+  speaker-affiliation: MIT
+  speaker-website: https://nswood.squarespace.com
+  speaker-photo-location:
+  talk-date: "2024-12-10"
+  talk-date-time: "Tuesday, December 10, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-12-10 13:00"
+  end-date-time: "2024-12-10 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "fall-2024"
+  speaker-name: Aishik Ghosh
+  speaker-title: Postdoc
+  speaker-affiliation: University of California Irvine
+  speaker-website: https://www.physics.uci.edu/node/14155
+  speaker-photo-location:
+  talk-date: "2024-12-17"
+  talk-date-time: "Tuesday, December 17, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-12-17 13:00"
+  end-date-time: "2024-12-17 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abtract to come"
+  slides-link: https://iaifi.org/
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
 
 - type: "spring-2024"
   speaker-name: Alex Malz
