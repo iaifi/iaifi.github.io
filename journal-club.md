@@ -9,101 +9,33 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
 
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
+{% assign now = 'now' | date: '%s' | plus: 0 %}
+{% assign talks = site.data.journal-club %}
 
 ## Upcoming Journal Clubs
 
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.journal-club %}
 {% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date > now %}
-  {% if talk.type == "fall-2024" %}
+  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+  {% unless talk-date > now %}{% continue %}{% endunless %}
 
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-  {% endif %}
-  {% endif %}
+  {% include journal-club_item.html talk=talk %}
+
 {% endfor %}
 
 ## Past Journal Clubs
 
-### Fall 2024 Journal Clubs
+{% for semester in site.data.calendar.semesters %}
 
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.journal-club %}
+### {{semester.name}}
+
 {% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date < now %}
-  {% if talk.type == "fall-2024" %}
-  
-{% if talk.slides-link %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * [Slides]({{talk.slides-link}}) (for IAIFI members only)
-{% else %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * Slides to come
-  {% endif %}
-  {% endif %}
-  {% endif %}
-{% endfor %}
-  
-### Spring 2024 Journal Clubs
+  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+  {% unless talk-date < now and talk.semester == semester.tag %}{% continue %}{% endunless%}
 
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.journal-club %}
-{% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date < now %}
-  {% if talk.type == "spring-2024" %}
+  {% include journal-club_item.html talk=talk is_previous=true %}
 
-{% if talk.slides-link %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * [Slides]({{talk.slides-link}}) (for IAIFI members only)
-{% else %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * Slides to come
-  {% endif %}
-  {% endif %}
-  {% endif %}
 {% endfor %}
 
-### Fall 2023 Journal Clubs
-
-{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-{% assign talks = site.data.journal-club %}
-{% for talk in talks %}
-  {% capture date %}{{talk.talk-date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date < now %}
-  {% if talk.type == "fall-2023" %}
-
-{% if talk.slides-link %}
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
-    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * [Slides]({{talk.slides-link}}) (for IAIFI members only)
-{% else %}
-    * **{{talk.talk-date-time}}, {{talk.talk-location}}**
-    * *{{talk.talk-title}}*
-    * {{talk.talk-abstract}}
-    * Slides not available
-  {% endif %}
-  {% endif %}
-  {% endif %}
 {% endfor %}
 
 ### Spring 2023 Journal Clubs
