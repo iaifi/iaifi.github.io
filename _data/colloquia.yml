@@ -80,22 +80,22 @@
 
 - type: "colloquium"
   semester: "fall-2024"
-  speaker-name: Speaker TBA
-  speaker-title: November
-  speaker-affiliation: 2024
-  speaker-website: "https://iaifi.org/events.html"
-  speaker-photo-location: " "
-  talk-date: "2024-11-09"
-  talk-date-time: "Friday, November 8, 2024, 2:00–3:00 pm"
-  start-date-time: "2024-11-08 14:00"
+  speaker-name: George Barbastathis
+  speaker-title: Professor, MIT
+  speaker-affiliation: Additional Speakers TBA
+  speaker-website: "https://cse.mit.edu/people/george-barbastathis/"
+  speaker-photo-location: "images/small-photo-george-barbastathis.jpg"
+  talk-date: "2024-11-02"
+  talk-date-time: "Friday, November 1, 2024, 2:00–3:00 pm"
+  start-date-time: "2024-11-01 14:00"
   end-date-time: "2024-11-08 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Title TBA."
-  talk-abstract: "Abstract TBA.<br><br><br>"
-  slides-link: "TBD"
-  youtube-link: TBD
-  speaker-thrust: "TBD"
-  speaker-gender: "TBD"
+  talk-title: "IAIFI Fireside Chat on Physics Nobel Prize"
+  talk-abstract: "Given the recent Nobel Prize in Physics, awarded to John Hopfield and Geoffrey Hinton for their development of foundational and physics-inspired machine learning frameworks (the Hopfield network and the Bolzmann machine, respectively), IAIFI is excited to host a discussion explaining the research underlying the award and its widespread impact. The discussion will include historical context and current developments in using physics for AI innovation. Experts at the intersection of physics, neuroscience, and computer science will share their perspectives on the research behind this year’s Nobel Prize in Physics and the next great discoveries to come from similarly interdisciplinary, curiosity-driven research."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
   talk-attendance: 0 in person, 0 virtual
 
 - type: "colloquium"
