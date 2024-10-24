@@ -4,11 +4,11 @@ title: "The Frozen Phase of Heterotic F-theory Duality"
 authors: Paul-Konstantin Oehlmann, Fabian Ruehle, Benjamin Sung
 abstract: 'We study the duality between the Spin(32)/ℤ2 heterotic string without vector structure and F-theory with frozen singularities. We give a complete description in theories with 6d =(1,0) supersymmetry and identify the duals of Spin(32)/ℤ2-instantons on ADE singularities without vector structure in the frozen phase of F-theory using an ansatz introduced by Bhardwaj, Morrison, Tachikawa, and Tomasiello. As a consequence, we obtain a strongly coupled description of orbifold phases of type I string theory without vector structure, substantially expanding the list of known examples of 6d F-theory compactifications with frozen singularities. Supergravity theories can be fused from these instanton theories, in a way that commutes with switching off vector structure, which we use to propose new consistency checks via neutral hypermultiplet counting. Finally, we describe various Higgsings of this duality, and comment on constraints on higher form symmetries.'
 arxiv: "2404.02191"
-journal: 
-doi: 
+journal: "Journal of High Energy Physics, Volume 2024, Article Number 295"
+doi: "http://dx.doi.org/10.1007/JHEP07(2024)295"
 nsf-par:
 code: 
-publication-date: 
+publication-date:  2024-07-31
 bib-tex: |
   @misc{oehlmann2024frozenphaseheteroticftheory,
       title={The Frozen Phase of Heterotic F-theory Duality},
