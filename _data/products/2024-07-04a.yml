@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: A
+title: "Find the haystacks, then look for needles: The rate of strongly lensed transients in galaxy-galaxy strong gravitational lenses"
+authors: "Ana Sainz de Murieta, Thomas E. Collett, Mark R. Magee, Justin D. R. Pierel, Wolfgang J. R. Enzi, Martine Lokken, Alex Gagliano, Dan Ryczanowski"
+abstract: "The time delay between appearances of multiple images of a gravitationally lensed supernova (glSN) is sensitive to the Hubble constant, H0. As well as time delays, a lensed host galaxy is needed to enable precise inference of H0. In this work we investigate the connection between discoverable lensed transients and their host galaxies. We find that LSST will discover 88 glSNe per year, of which 54% will also have a strongly lensed host. The rates can change by approximately 30 percent uncertainty depending primarily on the choice of unlensed SN population and uncertainties in the redshift evolution of the deflector population, but the fraction of glSNe with a lensed host is consistently around a half. LSST will discover 20 glSNe per year in systems that could plausibly have been identified by Euclid as galaxy-galaxy lenses before the discovery of the glSN. Such systems have preferentially longer time delays and therefore are well suited for cosmography. We define a golden sample of glSNe Ia with time delays over 10 days, image separations greater than 0.8 arcseconds, and a multiply imaged host. For this golden sample, we find 91% occur in systems that should already be discoverable as galaxy-galaxy lenses in Euclid. For cosmology with glSNe, monitoring Euclid lenses is a plausible alternative to searching the entire LSST alert stream."
+arxiv: "2407.04080"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 
+bib-tex: |
+  @misc{demurieta2024haystackslookneedlesrate,
+      title={Find the haystacks, then look for needles: The rate of strongly lensed transients in galaxy-galaxy strong gravitational lenses},
+      author={Ana Sainz de Murieta and Thomas E. Collett and Mark R. Magee and Justin D. R. Pierel and Wolfgang J. R. Enzi and Martine Lokken and Alex Gagliano and Dan Ryczanowski},
+      year={2024},
+      eprint={2407.04080},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2407.04080},
+  }

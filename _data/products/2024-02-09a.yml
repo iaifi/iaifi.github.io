@@ -4,11 +4,11 @@ title: "Real-time Dynamics of the Schwinger Model as an Open Quantum System with
 authors: Joshua Lin, Di Luo, Xiaojun Yao, Phiala E. Shanahan
 abstract: 'Ab-initio simulations of multiple heavy quarks propagating in a Quark-Gluon Plasma are computationally difficult to perform due to the large dimension of the space of density matrices. This work develops machine learning algorithms to overcome this difficulty by approximating exact quantum states with neural network parametrisations, specifically Neural Density Operators. As a proof of principle demonstration in a QCD-like theory, the approach is applied to solve the Lindblad master equation in the 1+1d lattice Schwinger Model as an open quantum system. Neural Density Operators enable the study of in-medium dynamics on large lattice volumes, where multiple-string interactions and their effects on string-breaking and recombination phenomena can be studied. Thermal properties of the system at equilibrium can also be probed with these methods by variationally constructing the steady state of the Lindblad master equation. Scaling of this approach with system size is studied, and numerical demonstrations on up to 32 spatial lattice sites and with up to 3 interacting strings are performed.'
 arxiv: "2402.06607"
-journal:
-doi: 
+journal: "Journal of High Energy Physics, Volume 2024, Article Number 211"
+doi: https://doi.org/10.1007/JHEP06%282024%29211
 nsf-par:
-code: 
-publication-date: 
+code:
+publication-date: 2024-06-28
 bib-tex: |
   @article{Lin_2024,
    title={Real-time dynamics of the Schwinger model as an open quantum system with Neural Density Operators},

@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: E
+title: "Double 'acct': a distinct double-peaked supernova matching pulsational pair-instability models"
+authors: "C. R. Angus, S. E. Woosley, R. J. Foley, M. Nicholl, V. A. Villar, K. Taggart, M. Pursiainen, P. Ramsden, S. Srivastav, H. F. Stevance, T. Moore, K. Auchettl, W. B. Hoogendam, N. Khetan, S. K. Yadavalli, G. Dimitriadis, A. Gagliano, M. R. Siebert, A. Aamer, T. de Boer, K. C. Chambers, A. Clocchiatti, D. A. Coulter, M. R. Drout, D. Farias, M. D. Fulton, C. Gall, H. Gao, L. Izzo, D. O. Jones, C.-C. Lin, E. A. Magnier, G. Narayan, E. Ramirez-Ruiz, C. L. Ransome, A. Rest, S. J. Smartt, K. W. Smith"
+abstract: "We present multi-wavelength data of SN2020acct, a double-peaked stripped-envelope supernova (SN) in NGC2981 at ~150 Mpc. The two peaks are temporally distinct, with maxima separated by 58 rest-frame days, and a factor of 20 reduction in flux between. The first is luminous (Mr = -18.00 ± 0.02 mag), blue (g - r = 0.27 ± 0.03 mag), and displays spectroscopic signatures of interaction with hydrogen-free circumstellar material. The second peak is fainter (Mr = -17.29 ± 0.03 mag), and spectroscopically similar to an evolved stripped-envelope SNe, with strong blended forbidden [Ca II] and [O II] features. No other known double-peak SN exhibits a light curve similar to that of SN 2020acct. We find the likelihood of two individual SNe occurring in the same star-forming region within that time to be highly improbable, while an implausibly fine-tuned configuration would be required to produce two SNe from a single binary system. We find that the peculiar properties of SN2020acct match models of pulsational pair instability (PPI), in which the initial peak is produced by collisions of shells of ejected material, shortly followed by a terminal explosion. Pulsations from a star with a 72 M⊙ helium core provide an excellent match to the double-peaked light curve. The local galactic environment has a metallicity of 0.4 Z⊙, a level where massive single stars are not expected retain enough mass to encounter the PPI. However, late binary mergers or a low-metallicity pocket may allow the required core mass. We measure the rate of SN 2020acct-like events to be <3.3×10−8 Mpc−3 yr−1 at z = 0.07, or <0.1% of the total core-collapse SN rate."
+arxiv: "2409.02174"
+journal:
+doi:
+nsf-par:
+code:
+publication-date: 
+bib-tex: |
+  @misc{angus2024doubleacctdistinctdoublepeaked,
+      title={Double "acct": a distinct double-peaked supernova matching pulsational pair-instability models},
+      author={C. R. Angus and S. E. Woosley and R. J. Foley and M. Nicholl and V. A. Villar and K. Taggart and M. Pursiainen and P. Ramsden and S. Srivastav and H. F. Stevance and T. Moore and K. Auchettl and W. B. Hoogendam and N. Khetan and S. K. Yadavalli and G. Dimitriadis and A. Gagliano and M. R. Siebert and A. Aamer and T. de Boer and K. C. Chambers and A. Clocchiatti and D. A. Coulter and M. R. Drout and D. Farias and M. D. Fulton and C. Gall and H. Gao and L. Izzo and D. O. Jones and C. -C. Lin and E. A. Magnier and G. Narayan and E. Ramirez-Ruiz and C. L. Ransome and A. Rest and S. J. Smartt and K. W. Smith},
+      year={2024},
+      eprint={2409.02174},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2409.02174},
+  }

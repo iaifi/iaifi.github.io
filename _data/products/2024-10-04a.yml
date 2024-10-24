@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: T
+title: "Exploring gauge-fixing conditions with gradient-based optimization"
+authors: "William Detmold, Gurtej Kanwar, Yin Lin, Phiala E. Shanahan, Michael L. Wagman"
+abstract: "Lattice gauge fixing is required to compute gauge-variant quantities, for example those used in RI-MOM renormalization schemes or as objects of comparison for model calculations. Recently, gauge-variant quantities have also been found to be more amenable to signal-to-noise optimization using contour deformations. These applications motivate systematic parameterization and exploration of gauge-fixing schemes. This work introduces a differentiable parameterization of gauge fixing which is broad enough to cover Landau gauge, Coulomb gauge, and maximal tree gauges. The adjoint state method allows gradient-based optimization to select gauge-fixing schemes that minimize an arbitrary target loss function."
+arxiv: "2410.03602"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @misc{detmold2024exploringgaugefixingconditionsgradientbased,
+      title={Exploring gauge-fixing conditions with gradient-based optimization},
+      author={William Detmold and Gurtej Kanwar and Yin Lin and Phiala E. Shanahan and Michael L. Wagman},
+      year={2024},
+      eprint={2410.03602},
+      archivePrefix={arXiv},
+      primaryClass={hep-lat},
+      url={https://arxiv.org/abs/2410.03602},
+  }

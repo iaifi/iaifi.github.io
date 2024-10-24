@@ -4,10 +4,10 @@ title: "Metric Flows with Neural Networks"
 authors: James Halverson, Fabian Ruehle
 abstract: "We develop a theory of flows in the space of Riemannian metrics induced by neural network gradient descent. This is motivated in part by recent advances in approximating Calabi-Yau metrics with neural networks and is enabled by recent advances in understanding flows in the space of neural networks. We derive the corresponding metric flow equations, which are governed by a metric neural tangent kernel, a complicated, non-local object that evolves in time. However, many architectures admit an infinite-width limit in which the kernel becomes fixed and the dynamics simplify. Additional assumptions can induce locality in the flow, which allows for the realization of Perelman's formulation of Ricci flow that was used to resolve the 3d Poincaré conjecture. We apply these ideas to numerical Calabi-Yau metrics, including a discussion on the importance of feature learning."
 arxiv: "2310.19870"
-journal: 
-doi: 
-code: 
-publication-date:
+journal: "Machine Learning: Science and Technology, 2024, Volume 5, Number 4"
+doi: https://doi.org/10.1088/2632-2153/ad8533
+code:
+publication-date: 2024-10-23
 bib-tex: |
   @misc{halverson2023metricflowsneuralnetworks,
       title={Metric Flows with Neural Networks},

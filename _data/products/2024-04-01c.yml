@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: A
+title: "Anomaly Detection and Approximate Similarity Searches of Transients in Real-time Data Streams"
+authors: P. D. Aleo, A. W. Engel, G. Narayan, C. R. Angus, K. Malanchev, K. Auchettl, V. F. Baldassare, A. Berres, T. J. L. de Boer, B. M. Boyd, K. C. Chambers, K. W. Davis, N. Esquivel, D. Farias, R. J. Foley, A. Gagliano, C. Gall, H. Gao, S. Gomez, M. Grayling, D. O. Jones, C.-C. Lin, E. A. Magnier, K. S. Mandel, T. Matheson, S. I. Raimundo, V. G. Shah, M. D. Soraisam, K. M. de Soto, S. Vicencio, V. A. Villar, R. J. Wainscoat
+abstract: 'We present LAISS (Lightcurve Anomaly Identification and Similarity Search), an automated pipeline to detect anomalous astrophysical transients in real-time data streams. We deploy our anomaly detection model on the nightly ZTF Alert Stream via the ANTARES broker, identifying a manageable ∼1-5 candidates per night for expert vetting and coordinating follow-up observations. Our method leverages statistical light-curve and contextual host-galaxy features within a random forest classifier, tagging transients of rare classes (spectroscopic anomalies), of uncommon host-galaxy environments (contextual anomalies), and of peculiar or interaction-powered phenomena (behavioral anomalies). Moreover, we demonstrate the power of a low-latency (∼ms) approximate similarity search method to find transient analogs with similar light-curve evolution and host-galaxy environments. We use analogs for data-driven discovery, characterization, (re-)classification, and imputation in retrospective and real-time searches. To date we have identified ∼50 previously known and previously missed rare transients from real-time and retrospective searches, including but not limited to: SLSNe, TDEs, SNe IIn, SNe IIb, SNe Ia-CSM, SNe Ia-91bg-like, SNe Ib, SNe Ic, SNe Ic-BL, and M31 novae. Lastly, we report the discovery of 325 total transients, all observed between 2018-2021 and absent from public catalogs (∼1% of all ZTF Astronomical Transient reports to the Transient Name Server through 2021). These methods enable a systematic approach to finding the "needle in the haystack" in large-volume data streams. Because of its integration with the ANTARES broker, LAISS is built to detect exciting transients in Rubin data.'
+arxiv: "2404.01235"
+journal:
+doi: 
+nsf-par:
+code:
+publication-date: 
+bib-tex: |
+  @misc{aleo2024anomalydetectionapproximatesimilarity,
+      title={Anomaly Detection and Approximate Similarity Searches of Transients in Real-time Data Streams},
+      author={P. D. Aleo and A. W. Engel and G. Narayan and C. R. Angus and K. Malanchev and K. Auchettl and V. F. Baldassare and A. Berres and T. J. L. de Boer and B. M. Boyd and K. C. Chambers and K. W. Davis and N. Esquivel and D. Farias and R. J. Foley and A. Gagliano and C. Gall and H. Gao and S. Gomez and M. Grayling and D. O. Jones and C. -C. Lin and E. A. Magnier and K. S. Mandel and T. Matheson and S. I. Raimundo and V. G. Shah and M. D. Soraisam and K. M. de Soto and S. Vicencio and V. A. Villar and R. J. Wainscoat},
+      year={2024},
+      eprint={2404.01235},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2404.01235},
+  }

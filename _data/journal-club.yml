@@ -87,11 +87,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Graph Neural Networks for GeV neutrinos in IceCube"
   talk-abstract: "The IceCube Neutrino Observatory, located at the South Pole, is a multi-purpose detector for particle physics and multimessenger astrophysics. It has been collecting data for more than a decade and in recent years, several major discoveries and measurements have utilized neural networks. The convolution neural network frameworks used in these analyses are limited by the irregular geometry of the detector and the sparsity of detected photons in GeV-scale neutrino events. These limitations will become even more difficult to work around with future detectors like the IceCube Upgrade, a low energy extension to be constructed in the 2025-2026 Antarctic season. New efforts with graph neural networks have already shown promising improvements, unlocking new opportunities for future analyses and paving the way for exciting new discoveries."
-  slides-link: https://iaifi.org/
+  slides-link: "https://drive.google.com/file/d/1Dv5NCgzM17PWjpIJuT23i6cuD7cMXNaU/view?usp=drive_link"
   youtube-link: ""
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
+  speaker-thrust: "physics experiment"
+  speaker-gender: "woman"
+  talk-attendance: 10 in person, 0 virtual
   
 - type: "fall-2024"
   speaker-name: Konstantin Leyde

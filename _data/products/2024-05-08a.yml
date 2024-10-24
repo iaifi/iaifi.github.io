@@ -4,11 +4,11 @@ title: "Probabilistic Forward Modeling of Galaxy Catalogs with Normalizing Flows
 authors: John Franklin Crenshaw, J. Bryce Kalmbach, Alexander Gagliano, Ziang Yan, Andrew J. Connolly, Alex I. Malz, Samuel J. Schmidt, The LSST Dark Energy Science Collaboration
 abstract: 'Evaluating the accuracy and calibration of the redshift posteriors produced by photometric redshift (photo-z) estimators is vital for enabling precision cosmology and extragalactic astrophysics with modern wide-field photometric surveys. Evaluating photo-z posteriors on a per-galaxy basis is difficult, however, as real galaxies have a true redshift but not a true redshift posterior. We introduce PZFlow, a Python package for the probabilistic forward modeling of galaxy catalogs with normalizing flows. For catalogs simulated with PZFlow, there is a natural notion of "true" redshift posteriors that can be used for photo-z validation. We use PZFlow to simulate a photometric galaxy catalog where each galaxy has a redshift, noisy photometry, shape information, and a true redshift posterior. We also demonstrate the use of an ensemble of normalizing flows for photo-z estimation. We discuss how PZFlow will be used to validate the photo-z estimation pipeline of the Dark Energy Science Collaboration (DESC), and the wider applicability of PZFlow for statistical modeling of any tabular data.'
 arxiv: "2405.04740"
-journal:
-doi: 
+journal: "The Astronomical Journal, 2024, Volume 168, Number 2"
+doi: http://dx.doi.org/10.3847/1538-3881/ad54bf
 nsf-par:
 code: https://github.com/jfcrenshaw/pzflow
-publication-date: 
+publication-date: 2024-07-23
 bib-tex: |
   @misc{crenshaw2024probabilisticforwardmodelinggalaxy,
       title={Probabilistic Forward Modeling of Galaxy Catalogs with Normalizing Flows},
