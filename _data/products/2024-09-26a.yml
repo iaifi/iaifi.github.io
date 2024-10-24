@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: E
+title: "Optimal Quantum Purity Amplification"
+authors: "Zhaoyi Li, Honghao Fu, Takuya Isogawa, Isaac Chuang"
+abstract: "Quantum purity amplification (QPA) offers a novel approach to counteracting the pervasive noise that degrades quantum states. We present the optimal QPA protocol for general quantum systems against global depolarizing noise, which has remained unknown for two decades. We construct and prove the optimality of our protocol, which demonstrates improved fidelity scaling compared to the best-known methods. We explore the operational interpretation of the protocol and provide simple examples of how to compile it into efficient circuits for near-term experiments. Furthermore, we conduct numerical simulations to investigate the effectiveness of our protocol in the quantum simulation of Hamiltonian evolution, demonstrating its ability to enhance fidelity even under circuit-level noise. Our findings suggest that QPA could improve the performance of quantum information processing tasks, particularly in the context of Noisy Intermediate-Scale Quantum (NISQ) devices, where reducing the effect of noise with limited resources is critical."
+arxiv: "2409.18167"
+journal:
+doi:
+nsf-par:
+code: https://github.com/takuyaisogawa/QPA
+publication-date:
+bib-tex: |
+  @misc{li2024optimalquantumpurityamplification,
+      title={Optimal Quantum Purity Amplification},
+      author={Zhaoyi Li and Honghao Fu and Takuya Isogawa and Isaac Chuang},
+      year={2024},
+      eprint={2409.18167},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2409.18167},
+  }

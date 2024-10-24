@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: E
+title: "SN 2021foa: The 'Flip-Flop' Type IIn / Ibn supernova"
+authors: "D. Farias, C. Gall, G. Narayan, S. Rest, V. A. Villar, C. R. Angus, K. Auchettl, K. W. Davis, R. Foley, A. Gagliano, J. Hjorth, L. Izzo, C. D. Kilpatrick, H .M. L. Perkins, E. Ramirez-Ruiz, C. L. Ransome, Sarangi. A., R. Yarza, D. A. Coulter, D. O. Jones, N. Khetan, A. Rest, M. R. Siebert, J. J. Swift, K. Taggart, S. Tinyanont, P. Wrubel, T. J. L. de Boer, K. E. Clever, A. Dhara, H. Gao, C.-C. Lin"
+abstract: "We present a comprehensive analysis of the photometric and spectroscopic evolution of SN~2021foa, unique among the class of transitional supernovae for repeatedly changing its spectroscopic appearance from hydrogen-to-helium-to-hydrogen-dominated (IIn-to-Ibn-to-IIn) within 50 days past peak brightness. The spectra exhibit multiple narrow (≈ 300--600~km~s−1) absorption lines of hydrogen, helium, calcium and iron together with broad helium emission lines with a full-width-at-half-maximum (FWHM) of ∼6000~km~s−1. For a steady, wind-mass loss regime, light curve modeling results in an ejecta mass of ∼8 M⊙ and CSM mass below 1 M⊙, and an ejecta velocity consistent with the FWHM of the broad helium lines. We obtain a mass-loss rate of ≈2 M⊙yr−1. This mass-loss rate is three orders of magnitude larger than derived for normal Type II SNe. We estimate that the bulk of the CSM of SN~2021foa must have been expelled within half a year, about 15 years ago. Our analysis suggests that SN~2021foa had a helium rich ejecta which swept up a dense shell of hydrogen rich CSM shortly after explosion. At about 60 days past peak brightness, the photosphere recedes through the dense ejecta-CSM region, occulting much of the red-shifted emission of the hydrogen and helium lines, which results in observed blue-shift (∼−3000~km~s−1). Strong mass loss activity prior to explosion, such as those seen in SN~2009ip-like objects and SN~2021foa as precursor emission, are the likely origin of a complex, multiple-shell CSM close to the progenitor star."
+arxiv: "2409.01359"
+journal:
+doi:
+nsf-par:
+code:
+publication-date: 
+bib-tex: |
+  @misc{farias2024sn2021foaflipfloptype,
+      title={SN 2021foa: The "Flip-Flop" Type IIn / Ibn supernova},
+      author={D. Farias and C. Gall and G. Narayan and S. Rest and V. A. Villar and C. R. Angus and K. Auchettl and K. W. Davis and R. Foley and A. Gagliano and J. Hjorth and L. Izzo and C. D. Kilpatrick and H . M. L. Perkins and E. Ramirez-Ruiz and C. L. Ransome and Sarangi. A. and R. Yarza and D. A. Coulter and D. O. Jones and N. Khetan and A. Rest and M. R. Siebert and J. J. Swift and K. Taggart and S. Tinyanont and P. Wrubel and T. J. L. de Boer and K. E. Clever and A. Dhara and H. Gao and C. -C. Lin},
+      year={2024},
+      eprint={2409.01359},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2409.01359},
+  }

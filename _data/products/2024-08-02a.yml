@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: A
+title: "AT2023vto: An Exceptionally Luminous Helium Tidal Disruption Event from a Massive Star"
+authors: "Harsh Kumar, Edo Berger, Daichi Hiramatsu, Sebastian Gomez, Peter K. Blanchard, Yvette Cendes, K. Azalee Bostroem, Joseph Farah, Estefania Padilla Gonzalez, Andrew Howell, Curtis McCully, Megan Newsome, Giacomo Terreran"
+abstract: "We present optical/UV observations and the spectroscopic classification of the transient AT2023vto as a tidal disruption event (TDE) at z = 0.4846. The spectrum is dominated by a broad He II λ4686 emission line, with a width of ~ 3.76×104 km/s and a blueshift of ~ 1.05×104 km/s, classifying it as a member of the TDE-He class. The light curve exhibits a long rise and decline timescale, with a large peak absolute magnitude of Mg ~ -23.6, making it the most luminous of the classical optical TDEs (H, H+He, He) discovered to date by about 2 mag (and ~ 4 mag compared to the mean of the population). The light curve exhibits a persistent blue color of g - r ~ -0.4 mag throughout its evolution, similar to other TDEs, but distinct from supernovae. We identify the host galaxy of AT2023vto in archival Pan-STARRS images and find that the transient is located at the galaxy center, and that its inferred central black hole mass is ~ 107 M⊙. Modeling the light curves of AT2023vto, we find that it resulted from the disruption of a ~ 9 M⊙ star by a ~107 M⊙ supermassive black hole. The star mass is about 5 times larger than the highest star masses previously inferred in TDEs, and the black hole mass is at the high end of the distribution. AT2023vto is comparable in luminosity and timescale to some putative TDEs (with a blue featureless continuum), as well as to the mean of the recently identified population of ambiguous nuclear transients (ANTs), although the latter are spectroscopically distinct and tend to have longer timescales. ANTs have been speculated to arise from tidal disruptions of massive stars, perhaps in active galactic nuclei, and AT2023vto may represent a similar case but in a dormant black hole, thereby bridging the TDE and ANT populations. We anticipate that Rubin Observatory / LSST will uncover similar luminous TDEs to z ~ 3."
+arxiv: "2408.01482"
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @misc{kumar2024at2023vtoexceptionallyluminoushelium,
+      title={AT2023vto: An Exceptionally Luminous Helium Tidal Disruption Event from a Massive Star},
+      author={Harsh Kumar and Edo Berger and Daichi Hiramatsu and Sebastian Gomez and Peter K. Blanchard and Yvette Cendes and K. Azalee Bostroem and Joseph Farah and Estefania Padilla Gonzalez and Andrew Howell and Curtis McCully and Megan Newsome and Giacomo Terreran},
+      year={2024},
+      eprint={2408.01482},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2408.01482},
+  }
