@@ -239,7 +239,8 @@
   speaker-gender: ""
   talk-attendance: 0 in person, 0 virtual
 
-- type: "spring-2024"
+- type: "journal-club"
+  semester: "spring-2024"
   speaker-name: Alex Malz
   speaker-title: LINCC Frameworks Project Scientist
   speaker-affiliation: Carnegie Mellon University
@@ -258,7 +259,8 @@
   speaker-gender: "Man"
   talk-attendance: 4 in person, 3 virtual
 
-- type: "spring-2024"
+- type: "journal-club"
+  semester: "spring-2024"
   speaker-name: Helen Qu
   speaker-title: Grad Student
   speaker-affiliation: University of Pennsylvania
@@ -277,7 +279,8 @@
   speaker-gender: "Woman"
   talk-attendance: 5 in person, 3 virtual
 
-- type: "spring-2024"
+- type: "journal-club"
+  semester: "spring-2024"
   speaker-name: Darius Faroughy
   speaker-title: Postdoctoral Associate
   speaker-affiliation: Rutgers University
@@ -295,29 +298,29 @@
   speaker-thrust: "physics theory"
   speaker-gender: "Man"
   talk-attendance: 24 in person, 11 virtual
-
-- type: "spring-2024"
+  
+- type: "journal-club"
+  semester: "spring-2024"
   speaker-name: Jonas Rigo
   speaker-title: Postdoc
-  speaker-affiliation: Forschungszentrum Jülich GmbH
+  speaker-affiliation: "Forschungszentrum Jülich GmbH"
   speaker-website: "https://www.computational-quantum.science/people/jonas/"
-  speaker-photo-location: 
+  speaker-photo-location:
   talk-date: "2024-02-21"
   talk-date-time: "Tuesday, February 27, 2024, 11:00 am–12:00 pm"
   start-date-time: "2024-02-27 11:00"
   end-date-time: "2024-02-27 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
-  talk-title: Is the ground state of Anderson's impurity model a recurrent neural network?
-  talk-abstract: 'When the Anderson impurity model (AIM) is expressed in terms of a Wilson chain it assumes a hierarchical Renormalization group structure that translates to a ground state with features like Friedel oscillations and the Kondo screening cloud [1]. Recurrent neural networks (RNNs) have recently gained traction in the form of Neural Quantum States (NQS) ansätze for quantum many body ground states and they are known to be able to learn such complex patterns [2]. We explore RNNs as an ansatz to capture the AIM’s ground state for a given Wilson chain length and investigate its capability to predict the ground state on longer chains for a converged ground state energy.
-[1] Affleck, Ian, László Borda, and Hubert Saleur. "Friedel oscillations and the Kondo screening cloud." Physical Review B* 77.18 (2008): 180404.
-[2] Hibat-Allah, Mohamed, et al. "Recurrent neural network wave functions." Physical Review Research 2.2 (2020): 023358.'
+  talk-title: "Is the ground state of Anderson's impurity model a recurrent neural network?"
+  talk-abstract: "When the Anderson impurity model (AIM) is expressed in terms of a Wilson chain it assumes a hierarchical Renormalization group structure that translates to a ground state with features like Friedel oscillations and the Kondo screening cloud. Recurrent neural networks (RNNs) have recently gained traction in the form of Neural Quantum States (NQS) ansätze for quantum many body ground states and they are known to be able to learn such complex patterns. We explore RNNs as an ansatz to capture the AIM’s ground state for a given Wilson chain length and investigate its capability to predict the ground state on longer chains for a converged ground state energy."
   slides-link: "https://drive.google.com/file/d/1emRRA1kIbV5L_LxmIyYPNTjeRIWFMr-S/view?usp=drive_link"
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "Man"
   talk-attendance: 7 in person, 4 virtual
 
-- type: "spring-2024"
+- type: "journal-club"
+  semester: "spring-2024"
   speaker-name: Kehang Zhu
   speaker-title: Grad Student
   speaker-affiliation: Harvard
@@ -336,7 +339,8 @@
   speaker-gender: "Man"
   talk-attendance:
 
-- type: "spring-2024"
+- type: "journal-club"
+  semester: "spring-2024"
   speaker-name: Katherine Fraser
   speaker-title: Graduate Student
   speaker-affiliation: Harvard University 
@@ -355,7 +359,8 @@
   speaker-gender: "Woman"
   talk-attendance:
 
-- type: "spring-2024"
+- type: "journal-club"
+  semester: "spring-2024"
   speaker-name: Marisa LaFleur
   speaker-title: Project Manager
   speaker-affiliation: IAIFI
@@ -374,7 +379,8 @@
   speaker-gender: "Woman"
   talk-attendance: 8 in person, virtual
 
-- type: "spring-2024"
+- type: "journal-club"
+  semester: "spring-2024"
   speaker-name: Akshunna Dogra
   speaker-title: Graduate Student
   speaker-affiliation: Imperial College London
@@ -393,7 +399,8 @@
   speaker-gender: "Man"
   talk-attendance: 7 in person, virtual
 
-- type: "spring-2024"
+- type: "journal-club"
+  semester: "spring-2024"
   speaker-name: Radha Mastandrea
   speaker-title: Grad Student
   speaker-affiliation: University of California, Berkeley
@@ -412,7 +419,8 @@
   speaker-gender: "Woman"
   talk-attendance: 4 in person, 5 virtual
 
-- type: "fall-2023"
+- type: "journal-club"
+  semester: "fall-2023"
   speaker-name: Tony Menzo
   speaker-title: Graduate Assistant
   speaker-affiliation: University of Cincinnati
@@ -431,7 +439,8 @@
   speaker-gender: "man"
   talk-attendance: 10 in person 0 virtual
 
-- type: "fall-2023"
+- type: "journal-club"
+  semester: "fall-2023"
   speaker-name: Jeffrey Lazar
   speaker-title: Graduate Student
   speaker-affiliation: Harvard
@@ -450,7 +459,8 @@
   speaker-gender: "man"
   talk-attendance: 5 in person 0 virtual
 
-- type: "fall-2023"
+- type: "journal-club"
+  semester: "fall-2023"
   speaker-name: Manos Theodosis
   speaker-title: Graduate Student
   speaker-affiliation: Harvard
@@ -469,7 +479,8 @@
   speaker-gender: "man"
   talk-attendance: 11 in person 7 virtual
 
-- type: "fall-2023"
+- type: "journal-club"
+  semester: "fall-2023"
   speaker-name: Andy Jin
   speaker-title: Graduate Student
   speaker-affiliation: Harvard University
@@ -488,7 +499,8 @@
   speaker-gender: "man"
   talk-attendance: 8 in person 5 virtual
 
-- type: "fall-2023"
+- type: "journal-club"
+  semester: "fall-2023"
   speaker-name: Ryan Raikman
   speaker-title: Undergraduate, Carnegie Mellon University (currently working with LIGO)
   speaker-affiliation: MIT LIGO
@@ -507,7 +519,8 @@
   speaker-gender: "man"
   talk-attendance: 8 in person 6 virtual
 
-- type: "fall-2023"
+- type: "journal-club"
+  semester: "fall-2023"
   speaker-name: Thorsten Glüsenkamp
   speaker-title: Postdoc
   speaker-affiliation: Uppsala University
@@ -526,7 +539,8 @@
   speaker-gender: "man"
   talk-attendance: 11 in person 5 virtual
 
-- type: "fall-2023"
+- type: "journal-club"
+  semester: "fall-2023"
   speaker-name: Jose Miguel Munoz Arias
   speaker-title: Graduate Student
   speaker-affiliation: MIT
@@ -547,7 +561,8 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-gender: "man"
   talk-attendance: 10 in person 6 virtual
 
-- type: "fall-2023"
+- type: "journal-club"
+  semester: "fall-2023"
   speaker-name: Zeviel Imani
   speaker-title: Graduate Student
   speaker-affiliation: Tufts
@@ -567,7 +582,8 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   talk-attendance: 6 in person 4 virtual
 
 
-- type: "fall-2023"
+- type: "journal-club"
+  semester: "fall-2023"
   speaker-name: Neill Warrington
   speaker-title: Postdoc
   speaker-affiliation: MIT
@@ -584,4 +600,825 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   youtube-link: ""
   speaker-thrust: "physics theory"
   speaker-gender: "Man"
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "spring-2023"
+  speaker-name: "Di Luo"
+  speaker-title: "Postdoctoral Fellow"
+  speaker-affiliation: "IAIFI"
+  speaker-website: "https://iaifi.org/current-fellows.html#di-luo"
+  speaker-photo-location:
+  talk-date: "2023-04-25"
+  talk-date-time: "Tuesday, April 25, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-04-25 11:00"
+  end-date-time: "2023-04-25 12:00"
+  talk-location: "MIT LNS Conference Room (26-528)"
+  talk-title: "Multi-legged Robot Locomotion via Spin Models Duality"
+  talk-abstract: "Contact planning is crucial in locomoting systems. Specifically, appropriate contact planning can enable versatile behaviors (e.g., sidewinding in limbless locomotors) and facilitate speed-dependent gait transitions (e.g., walk-trot-gallop in quadrupedal locomotors). The challenges of contact planning include determining not only the sequence by which contact is made and broken between the locomotor and the environments, but also the sequence of internal shape changes (e.g., body bending and limb shoulder joint oscillation). Most state-of-art contact planning algorithms focused on conventional robots (e.g. biped and quadruped) and conventional tasks (e.g. forward locomotion), and there is a lack of study on general contact planning in multi-legged robots. In this talk, I am going to discuss that using geometric mechanics framework, we can obtain the global optimal contact sequence given the internal shape changes sequence. Therefore, we simplify the contact planning problem to a graph optimization problem to identify the internal shape changes. Taking advantage of the spatio-temporal symmetry in locomotion, we map the graph optimization problem to special cases of spin models, which allows us to obtain the global optima in polynomial time. We apply our approach to develop new forward and sidewinding behaviors in a hexapod and a 12-legged centipede. We verify our predictions using numerical and robophysical models, and obtain novel and effective locomotion behaviors."
+  slides-link: "https://drive.google.com/file/d/1l8uWeXrgZaZ5m44hrbwLUBurWqukAij0/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "spring-2023"
+  speaker-name: "Ziming Liu"
+  speaker-title: "Grad Student"
+  speaker-affiliation: "MIT"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2023-04-25"
+  talk-date-time: "Tuesday, April 25, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-04-25 11:00"
+  end-date-time: "2023-04-25 12:00"
+  talk-location: ""
+  talk-title: "Physics-inspired generative models"
+  talk-abstract: "It might be surprising and delightful to physicists that physics has been playing a huge role in diffusion models. In fact, the evolution of our physical world can be viewed as a generation process. In this journal club, I will first review diffusion models, the more recent PFGM/PFGM++ inspired from electrostatics, and then introduce the GenPhys framework which manages to convert even more physical processes to generative models."
+  slides-link: "https://drive.google.com/file/d/1ya9nXg_oJX9wZYzB9AHtc0jBUVEifk6o/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "spring-2023"
+  speaker-name: "Asem Wardak"
+  speaker-title: "Research Fellow"
+  speaker-affiliation: "Harvard"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2023-04-11"
+  talk-date-time: "Tuesday, April 11, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-04-11 11:00"
+  end-date-time: "2023-04-11 12:00"
+  talk-location: ""
+  talk-title: "Extended Anderson Criticality in Heavy-Tailed Neural Networks"
+  talk-abstract: "This talk focuses on nonlinearly interacting systems with random, heavy-tailed connectivity. We show how heavy-tailed connectivity gives rise to an extended critical regime of spatially multifractal fluctuations between the quiescent and active phases. This phase differs from the edge of chaos in classical networks by the appearance of universal hallmarks of the Anderson transition in condensed matter physics over an extended region in phase space. We then investigate some consequences of the multifractal Anderson regime for performing persistent computations."
+  slides-link: "https://drive.google.com/file/d/1yo-x-axFISmZSKefSFDuZg5UGMIPGkud/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "spring-2023"
+  speaker-name: "Joshua Villarreal"
+  speaker-title: "Grad Student"
+  speaker-affiliation: "MIT"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2023-04-04"
+  talk-date-time: "Tuesday, April 4, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-04-04 11:00"
+  end-date-time: "2023-04-04 12:00"
+  talk-location: ""
+  talk-title: "Surrogate Modeling of Particle Accelerators"
+  talk-abstract: "The design, construction, and fine-tuning of particle accelerators has never been easy. Each is a technical challenge in and of itself, and the need to repeatedly run accurate, high-fidelity simulations of the beam traversing the device can slow development. This is especially true for many modern-day particle accelerators, whose beam dynamics tend to observe more nonlinear effects like those arising from space charge, making their simulation more computationally expensive. Thus, there is demand to develop machine learning and statistical learning models that can reproduce these beam dynamic simulations with orders-of-magnitude improvements in runtime. In this talk, I present an overview of recent efforts to build such accelerator surrogate models, which can be used for the design optimization and real-time commissioning, tuning, and running of the accelerator they aim to replicate. As an example, I also present the status of IsoDAR’s work to build a surrogate model for a Radio-Frequency Quadrupole accelerator, a vital component to IsoDAR’s groundbreaking design. I outline challenges of these and other virtual accelerators, and present future plans to make these surrogate models ubiquitous in future development of accelerator experiments of all kinds."
+  slides-link: "https://drive.google.com/file/d/1rumOzVCo6j8lFo1ZmS9mMmmM1w7bJ5qb/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "spring-2023"
+  speaker-name: "Daniel Murnane"
+  speaker-title: "Postdoc Researcher"
+  speaker-affiliation: "Berkeley Lab"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2023-03-21"
+  talk-date-time: "Tuesday, March 21, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-03-21 11:00"
+  end-date-time: "2023-03-21 12:00"
+  talk-location: ""
+  talk-title: "Multi-Tasking ML for Point Clouds at the LHC"
+  talk-abstract: "The Large Hadron Collider is one of the world's most data-intensive experiments. Every second, millions of collisions are processed, each one resembling a jigsaw puzzle with thousands of pieces. With the upcoming upgrade to the High Luminosity LHC, this problem will only become more complex. To make sense of this data, deep learning techniques are increasingly being used. For example, graph neural networks and transformers have proven effective at handling point cloud tasks such as track reconstruction and jet tagging. In this talk, I will review the point cloud problems in collider physics and recent deep learning solutions investigated by the Exatrkx project - an initiative to implement innovative algorithms for HEP at exascale. These architectures can accurately perform tracking and tagging with low latency, even in the high luminosity regime. Additionally, I will explore how multi-tasking and multi-modal networks can combine several of these different tasks."
+  slides-link: "https://drive.google.com/file/d/1XiSb3X4NWcD5yf13MkAt7BvWMzYWziKc/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "spring-2023"
+  speaker-name: "Manuel Szewc"
+  speaker-title: "Postdoc"
+  speaker-affiliation: "University of Cincinnati"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2023-03-14"
+  talk-date-time: "Tuesday, March 14, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-03-14 11:00"
+  end-date-time: "2023-03-14 12:00"
+  talk-location: ""
+  talk-title: "Modeling Hadronization with Machine Learning"
+  talk-abstract: "A fundamental part of event generation, hadronization is currently simulated with the help of fine-tuned empirical models. In this talk, I'll present MLHAD, a proposed alternative for hadronization where the empirical model is replaced by a surrogate Machine Learning-based model to be ultimately data-trainable. I'll detail the current stage of development and discuss possible ways forward."
+  slides-link: "https://drive.google.com/file/d/1-fdoYOech0muQzE7JHXDavJwI76xtUoe/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "spring-2023"
+  speaker-name: "Max Tegmark"
+  speaker-title: "Professor"
+  speaker-affiliation: "MIT"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2023-02-28"
+  talk-date-time: "Tuesday, February 28, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-02-28 11:00"
+  end-date-time: "2023-02-28 12:00"
+  talk-location: ""
+  talk-title: "Mechanistic interpretability"
+  talk-abstract: "Mechanistic interpretability aims to reverse-engineer trained neural networks to distill out the algorithms they have discovered for performing various tasks. Although such 'artificial neuroscience' is hard and fun, it's easier than conventional neuroscience since you have complete knowledge of what every neuron and synapse is doing."
+  slides-link: "https://drive.google.com/file/d/1gEDzE9zF3dWT6GnOe-m7a0rQ4PH_-fi2/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "spring-2023"
+  speaker-name: "Liping Liu"
+  speaker-title: "Assistant Professor"
+  speaker-affiliation: "Tufts University"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2023-02-14"
+  talk-date-time: "Tuesday, February 14, 2023, 11:00 am–12:00 pm"
+  start-date-time: "2023-02-14 11:00"
+  end-date-time: "2023-02-14 12:00"
+  talk-location: ""
+  talk-title: "Address combinatorial graph problems with learning methods"
+  talk-abstract: "There are plenty of hard combinatorial problems defined on graphs. Recently learning algorithms have been used to speed up the search for approximate solutions to these problems. This talk will start with an introduction to hard problems on graphs and traditional algorithms, then it will give an overview of learning algorithms for solving combinatorial problems on graphs. The second part of the talk will focus on two specific problems, graph matching and subgraph distance calculation, and discuss neural methods for these two problems. Finally, it will conclude with open questions: why and when can neural networks help to solve combinatorial problems?"
+  slides-link: "https://drive.google.com/file/d/1jNBRcVDmMGiZDztMHmZ2Bo67klkrG0sd/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "fall-2022"
+  speaker-name: "Anna Golubeva, IAIFI Fellow and Matt Schwartz"
+  speaker-title: "Professor"
+  speaker-affiliation: "Harvard"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-11-29"
+  talk-date-time: "Tuesday, November 29, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-11-29 11:00"
+  end-date-time: "2022-11-29 12:00"
+  talk-location: ""
+  talk-title: "Should artificial intelligence be interpretable to humans?"
+  talk-abstract: ""
+  slides-link: "https://www.nature.com/articles/s42254-022-00538-z.epdf?sharing_token=3J2X15FrSE4DX0-C4wy1WNRgN0jAjWel9jnR3ZoTv0OFWnX9fRT21Uquw1b6H6Uwdyiv6G2YbqpT_Vajh5RO07uuYzVKSwxqjGcOXKm1_MY4fr_liHzLlaBNHy4GXn2lUCIv0J8bXJTJ1_hqEzfrwjUZfC1BXzy8Su9RPY9xz5Y%3D"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "fall-2022"
+  speaker-name: "Michael Toomey"
+  speaker-title: "PhD Student"
+  speaker-affiliation: "Brown University"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-11-15"
+  talk-date-time: "Tuesday, November 15, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-11-15 11:00"
+  end-date-time: "2022-11-15 12:00"
+  talk-location: ""
+  talk-title: "Deep Learning the Dark Sector"
+  talk-abstract: "One of the most pressing questions in physics today is the microphysical origin of dark matter. While there have been numerous experimental programs aimed at detecting its interactions with the Standard Model, all efforts to date have come up empty. An alternative method to constrain dark matter is purely based on its gravitational interactions. In particular, gravitational lensing can be very sensitive to the distribution and morphology of dark matter substructure which can vary appreciably between different models. However, the complexity of data sets, systematics, and large volumes of data make the dimensionality of this problem difficult to approach from more traditional methods. Thankfully, this is a task ideally suited for machine learning. In this talk we will demonstrate how machine learning will play a critical role in distinguishing between models of dark matter and constraining model parameters in lensing data. We will additionally discuss techniques unique to ML for transferring the knowledge accumulated by models in the controlled setting of simulation to real data sets utilizing unsupervised domain adaptation."
+  slides-link: "https://drive.google.com/file/d/1hzKARxgLJ9QgcfB_X2CmLmFtb7B9qW3D/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "fall-2022"
+  speaker-name: "Ziming Liu"
+  speaker-title: "PhD Student"
+  speaker-affiliation: "MIT"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-11-08"
+  talk-date-time: "Tuesday, November 8, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-11-08 11:00"
+  end-date-time: "2022-11-08 12:00"
+  talk-location: ""
+  talk-title: "Toy Models of Superposition"
+  talk-abstract: "It would be very convenient if the individual neurons of artificial neural networks corresponded to cleanly interpretable features of the input. For example, in an “ideal” ImageNet classifier, each neuron would fire only in the presence of a specific visual feature, such as the color red, a left-facing curve, or a dog snout. But it isn't always the case that features correspond so cleanly to neurons, especially in large language models where it actually seems rare for neurons to correspond to clean features. I will present a recent paper 'Toy Models of Superposition' from Anthropic, aiming to answer these questions: Why is it that neurons sometimes align with features and sometimes don't? Why do some models and tasks have many of these clean neurons, while they're vanishingly rare in others?"
+  slides-link: "https://drive.google.com/file/d/17LPLsDVGrr8ZD0yXJNFiVn-4sIgObGre/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "fall-2022"
+  speaker-name: "Sona Najafi"
+  speaker-title: "Researcher"
+  speaker-affiliation: "IBM"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-10-25"
+  talk-date-time: "Tuesday, October 25, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-10-25 11:00"
+  end-date-time: "2022-10-25 12:00"
+  talk-location: ""
+  talk-title: "Quantum machine learning from algorithms to hardware"
+  talk-abstract: "The rapid progress of technology over the past few decades has led to the emergence of two powerful computational paradigms known as quantum computing and machine learning. While machine learning tries to learn the solutions from data, quantum computing harnesses the quantum laws for more powerful computation compared to classical computers. In this talk, I will discuss three domains of quantum machine learning, each harnessing a particular aspect of quantum computers and targeting specific problems. The first domain scrutinizes the power of quantum computers to work with high-dimensional data and speed-up algebra, but raises the caveat of input/output due to the quantum measurement rules. The second domain circumvents this problem by using a hybrid architecture, performing optimization on a classical computer while evaluating parameterized states on a quantum circuit, chosen based on a particular issue. Finally, the third domain is inspired by brain-like computation and uses a given quantum system's natural interaction and unitary dynamic as a source for learning."
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "fall-2022"
+  speaker-name: "Kim Nicoli"
+  speaker-title: "Grad Student"
+  speaker-affiliation: "Technical University of Berlin"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-10-18"
+  talk-date-time: "Tuesday, October 18, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-10-18 11:00"
+  end-date-time: "2022-10-18 12:00"
+  talk-location: ""
+  talk-title: "Deep Learning approaches in lattice quantum field theory: recent advances and future challenges"
+  talk-abstract: "Normalizing flows are deep generative models that leverage the change of variable formula to map simple base densities to arbitrary complex target distributions. Recent works have shown the potential of such methods in learning normalized Boltzmann densities in many fields ranging from condensed matter physics to molecular science to lattice field theory. Though sampling from a flow-based density comes with many advantages over standard MCMC sampling, it is known that these methods still suffer from several limitations. In my talk, I will start to give an overview on how to deploy deep generative models to learn Boltzmann densities in the context of a phi^4 lattice field theory. Specifically, I’ll focus on how these methods open up the possibility to estimate thermodynamic observables, i.e., physical observables which depend on the partition function and hence are not straightforward to estimate using standard MCMC methods. In the second part of my talk, I will present two ideas that have been proposed to mitigate the well-known problem of mode-collapse which often occurs when normalizing flows are trained to learn a multimodal target density. More specifically I’ll talk about a novel “mode-dropping estimator” and path gradients. In the last part of my talk, I’ll present a new idea which aims at using flow-based methods to mitigate the sign problem."
+  slides-link: "https://drive.google.com/file/d/10Xi0kKV0fyqbdtdZcJi2wSskyB1tyRJs/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "fall-2022"
+  speaker-name: "Adriana Dropulic"
+  speaker-title: "Grad Student"
+  speaker-affiliation: "Princeton"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-10-04"
+  talk-date-time: "Tuesday, October 4, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-10-04 11:00"
+  end-date-time: "2022-10-04 12:00"
+  talk-location: ""
+  talk-title: "Machine Learning the 6th Dimension: Stellar Radial Velocities from 5D Phase-Space Correlations"
+  talk-abstract: "The Gaia satellite will observe the positions and velocities of over a billion Milky Way stars. In the early data releases, most observed stars do not have complete 6D phase-space information. We demonstrate the ability to infer the missing line-of-sight velocities until more spectroscopic observations become available. We utilize a novel neural network architecture that, after being trained on a subset of data with complete phase-space information, takes in a star's 5D astrometry (angular coordinates, proper motions, and parallax) and outputs a predicted line-of-sight velocity with an associated uncertainty. Working with a mock Gaia catalog, we show that the network can successfully recover the distributions and correlations of each velocity component for stars that fall within ~5 kpc of the Sun. We also demonstrate that the network can accurately reconstruct the velocity distribution of a kinematic substructure in the stellar halo that is spatially uniform, even when it comprises a small fraction of the total star count. We apply the neural network to real Gaia data and discuss how the inferred information augments our understanding of the Milky Way's formation history."
+  slides-link: "https://drive.google.com/file/d/1Y8zu457kF-_7RANQThgrqlm7IZzp-bFi/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "fall-2022"
+  speaker-name: "Iris Cong"
+  speaker-title: "Grad Student"
+  speaker-affiliation: "Harvard"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-09-27"
+  talk-date-time: "Tuesday, September 27, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-09-27 11:00"
+  end-date-time: "2022-09-27 12:00"
+  talk-location: ""
+  talk-title: "Quantum Convolutional Neural Networks"
+  talk-abstract: "Convolutional neural networks (CNNs) have recently proven successful for many complex applications ranging from image recognition to precision medicine. In the first part of my talk, motivated by recent advances in realizing quantum information processors, I introduce and analyze a quantum circuit-based algorithm inspired by CNNs. Our quantum convolutional neural network (QCNN) uses only O(log(N)) variational parameters for input sizes of N qubits, allowing for its efficient training and implementation on realistic, near-term quantum devices. To explicitly illustrate its capabilities, I show that QCNN can accurately recognize quantum states associated with a one-dimensional symmetry-protected topological phase, with performance surpassing existing approaches. I further demonstrate that QCNN can be used to devise a quantum error correction (QEC) scheme optimized for a given, unknown error model that substantially outperforms known quantum codes of comparable complexity. The design of such error correction codes is particularly important for near-term experiments, whose error models may be different from those addressed by general-purpose QEC schemes. If time permits, I will also present our latest results on generalizing the QCNN framework to more accurately and efficiently identify two-dimensional topological phases of matter."
+  slides-link: "https://docs.google.com/document/d/1W44NYu7-R8jfxp1DnJ7eW77IYt3fmxPGfPTRWxEbejg/edit?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "fall-2022"
+  speaker-name: "Miles Cranmer"
+  speaker-title: "Grad Student"
+  speaker-affiliation: "Princeton"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-09-20"
+  talk-date-time: "Tuesday, September 20, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-09-20 11:00"
+  end-date-time: "2022-09-20 12:00"
+  talk-location: ""
+  talk-title: "Interpretable Machine Learning for Physics"
+  talk-abstract: "Would Kepler have discovered his laws if machine learning had been around in 1609? Or would he have been satisfied with the accuracy of some black box regression model, leaving Newton without the inspiration to find the law of gravitation? In this talk I will present a review of some industry-oriented machine learning algorithms, and discuss a major issue facing their use in the natural sciences: a lack of interpretability. I will then outline several approaches I have created with collaborators to help address these problems, based largely on a mix of structured deep learning and symbolic methods. This will include an introduction to the PySR software (https://astroautomata.com/PySR), a Python/Julia package for high-performance symbolic regression. I will conclude by demonstrating applications of such techniques and how we may gain new insights from such results."
+  slides-link: "https://drive.google.com/file/d/176ynOd7WzIY2zCWYuFF3WfNGyHi0ptJv/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "fall-2022"
+  speaker-name: "Anindita Maiti"
+  speaker-title: "Grad Student"
+  speaker-affiliation: "Northeastern"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-09-13"
+  talk-date-time: "Tuesday, September 13, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-09-13 11:00"
+  end-date-time: "2022-09-13 12:00"
+  talk-location: ""
+  talk-title: "A Study of Neural Network Field Theories"
+  talk-abstract: "I will present a systematic exploration of field theories arising in Neural Networks, using a dual framework given by Neural Network parameters. The infinite width limit of NN architectures, combined with i.i.d. parameters, lead to Gaussian Processes in Neural Networks by the Central Limit Theorem (CLT), corresponding to generalized free field theories. Small and large violations of the CLT respectively lead to weakly coupled and non-perturbative non-Lagrangian field theories in Neural Networks. Non-Gaussianity, locality (via cluster decomposition), and symmetries can be specified by corresponding field theory terms. We identify scaling laws with parameters and identify 'critical regimes' in parameter space that mimic transitions from trivial to nontrivial theories in physics."
+  slides-link: "https://drive.google.com/file/d/1WsbFwGsV8NBcVMTAs3UBUjZgQ3XLTb4U/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "spring-2022"
+  speaker-name: "Jessie Micallef"
+  speaker-title: "PhD Student"
+  speaker-affiliation: "Michigan State University & Incoming IAIFI Fellow"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-03-10"
+  talk-date-time: "Thursday, March 10, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-03-10 11:00"
+  end-date-time: "2022-03-10 12:00"
+  talk-location: ""
+  talk-title: "Adapting CNNs to Reconstruct Sparse, GeV-Scale IceCube Neutrino Events"
+  talk-abstract: ""
+  slides-link: "https://drive.google.com/file/d/1jDfgHtzJK6tstCXS22_l5mmKhbiZOWJN/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Reconstructing Neutrino Energy using CNNs for GeV Scale IceCube Events](https://pos.sissa.it/395/1053/pdf); [Direction Reconstruction using a CNN for GeV-Scale Neutrinos in IceCube](https://pos.sissa.it/395/1054/pdf)"
+
+- type: "journal-club"
+  semester: "spring-2022"
+  speaker-name: "Denis Boyda"
+  speaker-title: "Postdoctoral Appointee"
+  speaker-affiliation: "Argonne National Laboratory & Incoming IAIFI Fellow"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-03-17"
+  talk-date-time: "Thursday, March 17, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-03-17 11:00"
+  end-date-time: "2022-03-17 12:00"
+  talk-location: ""
+  talk-title: "Overview of some popular Machine Learning frameworks for data parallelism"
+  talk-abstract: ""
+  slides-link: "https://drive.google.com/file/d/14x1xuW2iSsGbEvrrZB-xfc5Np6ID3Wnt/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[PyTorch Distributed: Experiences on Accelerating Data Parallel Training](https://arxiv.org/abs/2006.15704); [Horovod: fast and easy distributed deep learning in TensorFlow](https://arxiv.org/abs/1802.05799); ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)"
+
+- type: "journal-club"
+  semester: "spring-2022"
+  speaker-name: "Yin Lin"
+  speaker-title: "Postdoctoral Researcher"
+  speaker-affiliation: "MIT"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-04-07"
+  talk-date-time: "Thursday, April 7, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-04-07 11:00"
+  end-date-time: "2022-04-07 12:00"
+  talk-location: ""
+  talk-title: "Accelerating Dirac equation solves in lattice QFT with neural-network preconditioners"
+  talk-abstract: ""
+  slides-link: "https://drive.google.com/file/d/1q9udj9V_LTJFY7ATFGU35sjwVzmpXinB/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf); [Iterative Methods for Sparse Linear Systems](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf); [Deep Learning of Preconditioners for Conjugate Gradient Solvers in Urban Water Related Problems](https://arxiv.org/abs/1906.06925); [Learning to Optimize Non-Rigid Tracking](https://arxiv.org/abs/2003.12230)"
+
+- type: "journal-club"
+  semester: "spring-2022"
+  speaker-name: "Anatoly Dymarsky"
+  speaker-title: "Associate Professor"
+  speaker-affiliation: "University of Kentucky"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-04-14"
+  talk-date-time: "Thursday, April 14, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-04-14 11:00"
+  end-date-time: "2022-04-14 12:00"
+  talk-location: ""
+  talk-title: "Tensor network to learn the wave function of data"
+  talk-abstract: "We use tensor network-based architecture to train a network which simultaneously accomplishes two tasks: image classification and image sampling. We argue that simultaneous performance of these tasks means our network has successfully learned the whole 'manifold of data' (using the terminology from the literature) - namely all possible images of a particular kind. We use a black and white version of MNIST, hence our network learns all possible images depicting a particular digit. We access global properties of the 'manifold of data' by calculating its size. Thus, we found there are 2^72 possible images of digit 3. We explain this number is robust and largely independent of the details of training process etc."
+  slides-link: "https://drive.google.com/file/d/1zStOMyUi3aCk9a43zGxXkCEz_phd_Dmc/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Tensor network to learn the wavefunction of data](https://arxiv.org/abs/2111.08014)"
+
+- type: "journal-club"
+  semester: "spring-2022"
+  speaker-name: "Carolina Cuesta"
+  speaker-title: "PhD Student"
+  speaker-affiliation: "Durham University & Incoming IAIFI Fellow"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-04-21"
+  talk-date-time: "Thursday, April 21, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-04-21 11:00"
+  end-date-time: "2022-04-21 12:00"
+  talk-location: ""
+  talk-title: "Equivariant normalizing flows and their application to cosmology"
+  talk-abstract: ""
+  slides-link: "https://docs.google.com/document/d/1bU_ZsQkFuMsx00uCf3U_KeqLMF_NU6nW_qVvsdEoMlQ/edit?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[https://arxiv.org/abs/2202.05282](https://arxiv.org/abs/2202.05282); [https://arxiv.org/abs/2105.09016](https://arxiv.org/abs/2105.09016)"
+
+- type: "journal-club"
+  semester: "spring-2022"
+  speaker-name: "Benjamin Fuks"
+  speaker-title: "Professor"
+  speaker-affiliation: "Sorbonne University"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-04-28"
+  talk-date-time: "Thursday, April 28, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-04-28 11:00"
+  end-date-time: "2022-04-28 12:00"
+  talk-location: ""
+  talk-title: "Precision simulations for new physics"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Precision simulations for new physics (JHEP 12 (2019) 008)](https://arxiv.org/abs/1907.04898); [How precision allows us to design new variables to look for signals (Phys. Rev. D 100, 074010 (2019)](https://arxiv.org/abs/1901.09937); [Trying to do better with boosted decision trees on the basis of tree-level simulations  (JHEP 04 (2022) 015)](https://arxiv.org/abs/2109.11815)"
+
+- type: "journal-club"
+  semester: "spring-2022"
+  speaker-name: "Dylan Hadfield"
+  speaker-title: "Assistant Professor"
+  speaker-affiliation: "MIT"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-05-05"
+  talk-date-time: "Thursday, May 5, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-05-05 11:00"
+  end-date-time: "2022-05-05 12:00"
+  talk-location: ""
+  talk-title: "Overoptimization, Incompleteness, and Goodhart's Law"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[https://arxiv.org/abs/1611.08219](https://arxiv.org/abs/1611.08219); [https://arxiv.org/abs/1705.09990](https://arxiv.org/abs/1705.09990); [https://arxiv.org/abs/2102.03896](https://arxiv.org/abs/2102.03896)"
+
+- type: "journal-club"
+  semester: "spring-2022"
+  speaker-name: "Mark Hamilton"
+  speaker-title: "Graduate Student"
+  speaker-affiliation: "MIT"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-05-12"
+  talk-date-time: "Thursday, May 12, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-05-12 11:00"
+  end-date-time: "2022-05-12 12:00"
+  talk-location: ""
+  talk-title: "Unsupervised Semantic Segmentation by Distilling Feature Correspondences"
+  talk-abstract: ""
+  slides-link: "https://drive.google.com/file/d/1LtKWMFvDBzRG774w12BSQmREqit0gw1-/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Website](https://mhamilton.net/stego.html); [Paper](https://arxiv.org/abs/2203.08414); [Code](https://aka.ms/stego-code)"
+
+- type: "journal-club"
+  semester: "spring-2022"
+  speaker-name: "Manami Kanemura"
+  speaker-title: "Undergraduate Student"
+  speaker-affiliation: "Northeastern University (completed co-op with Bryan Ostdiek)"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2022-05-26"
+  talk-date-time: "Thursday, May 26, 2022, 11:00 am–12:00 pm"
+  start-date-time: "2022-05-26 11:00"
+  end-date-time: "2022-05-26 12:00"
+  talk-location: ""
+  talk-title: "Using Soft-Introspection to improve anomaly detection at LHC"
+  talk-abstract: ""
+  slides-link: "https://drive.google.com/file/d/1A4oijQ-rRR3NhSTka0Mw5nD5yzULb-W-/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253); [Challenges for Unsupervised Anomaly Detection in Particle Physics](https://arxiv.org/abs/2110.06948)"
+
+- type: "journal-club"
+  semester: "fall-2021"
+  speaker-name: "Michael Douglas"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2021-09-23"
+  talk-date-time: "Thursday, September 23, 2021, 11:00 am–12:00 pm"
+  start-date-time: "2021-09-23 11:00"
+  end-date-time: "2021-09-23 12:00"
+  talk-location: ""
+  talk-title: "Solving Combinatorial Problems using AI/ML"
+  talk-abstract: ""
+  slides-link: "https://drive.google.com/file/d/18QpLIp1gwf1Qp8Qhjb4TUJnar-KFGSXC/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "Bright et al 1907.04408](https://arxiv.org/abs/1907.04408); [Heule et al 1905.10192](https://arxiv.org/abs/1905.10192); [Halverson et al 1903.11616](https://arxiv.org/abs/1903.11616); [McAleer et al 1805.07470](https://arxiv.org/abs/1805.07470); [Gukov et al 2010.16263](https://arxiv.org/abs/2010.16263); [General sources on reinforcement learning](https://www.davidsilver.uk/teaching);[The MathCheck SAT+CAS system](https://uwaterloo.ca/mathcheck)"
+
+- type: "journal-club"
+  semester: "fall-2021"
+  speaker-name: "Ziming Liu"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2021-10-07"
+  talk-date-time: "Thursday, October 7, 2021, 11:00 am–12:00 pm"
+  start-date-time: "2021-10-07 11:00"
+  end-date-time: "2021-10-07 12:00"
+  talk-location: ""
+  talk-title: "Dynamics in Modern Deep Learning Models"
+  talk-abstract: ""
+  slides-link: "https://drive.google.com/file/d/1Wirl7WS1Wg1i_b0hVDxv1El1PrbsZ-Zm/view?usp=share_link"
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Transient Chaos in BERT](https://arxiv.org/pdf/2106.03181.pdf); [Memory and attention in deep learning](https://arxiv.org/pdf/2107.01390.pdf); [The Brownian motion in the transformer mode](https://arxiv.org/pdf/2107.05264.pdf)"
+
+- type: "journal-club"
+  semester: "fall-2021"
+  speaker-name: "Ge Yang"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2021-10-21"
+  talk-date-time: "Thursday, October 21, 2021, 11:00 am–12:00 pm"
+  start-date-time: "2021-10-21 11:00"
+  end-date-time: "2021-10-21 12:00"
+  talk-location: ""
+  talk-title: "Learning and Generalization: Revisiting Neural Representations"
+  talk-abstract: "Understanding how deep neural networks learn and generalize has been a central pursuit of intelligence research. This is because we want to build agents that can learn quickly from a small amount of data, that also generalizes to a wider set of scenarios. In this talk, we take a systems approach by identifying key bottleneck components that limits learning and generalization. We will present two key results — overcoming the simplicity bias of neural value approximation via random Fourier features and going beyond the training distribution via invariance through inference."
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+
+- type: "journal-club"
+  semester: "fall-2021"
+  speaker-name: "Eric Michaud"
+  speaker-title: "PhD Student"
+  speaker-affiliation: "MIT"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2021-11-18"
+  talk-date-time: "Thursday, November 18, 2021, 11:00 am–12:00 pm"
+  start-date-time: "2021-11-18 11:00"
+  end-date-time: "2021-11-18 12:00"
+  talk-location: ""
+  talk-title: "Curious Properties of Neural Networks"
+  talk-abstract: "In this informal talk/discussion, I will highlight some facts about neural networks which I find to be particularly fun and surprising. Possible topics could include the Lottery Ticket Hypothesis, Double Descent, and 'grokking'. There will be time for discussion and for attendees to bring up their own favorite surprising facts about deep learning."
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Lottery Ticket Hypothesis](https://arxiv.org/abs/1803.03635); [Double Descent](https://arxiv.org/abs/1912.02292); [Grokking](https://mathai-iclr.github.io/papers/papers/MATHAI_29_paper.pdf)"
+
+- type: "journal-club"
+  semester: "fall-2021"
+  speaker-name: "Murphy Niu"
+  speaker-title: ""
+  speaker-affiliation: "Google Quantum AI"
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2021-12-03"
+  talk-date-time: "Thursday, December 3, 2021, 11:00 am–12:00 pm"
+  start-date-time: "2021-12-03 11:00"
+  end-date-time: "2021-12-03 12:00"
+  talk-location: ""
+  talk-title: "Entangling Quantum Generative Adversarial Networks using Tensorflow Quantum"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Entangling Quantum GANs](https://arxiv.org/pdf/2105.00080.pdf); [Related research](https://arxiv.org/pdf/2003.02989.pdf)"
+
+- type: "journal-club"
+  semester: "spring-2021"
+  speaker-name: "Anindita Maiti"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2021-02-17"
+  talk-date-time: "Wednesday, February 17"
+  start-date-time: "2021-02-17"
+  end-date-time: "2021-02-17"
+  talk-location: ""
+  talk-title: "Neural Networks and Quantum Field Theory"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Neural Networks and Quantum Field Theory](https://arxiv.org/abs/2008.08601)"
+
+- type: "journal-club"
+  semester: "spring-2021"
+  speaker-name: "Jacob Zavatone-Veth"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2021-03-02"
+  talk-date-time: "Tuesday, March 2"
+  start-date-time: "2021-03-02"
+  end-date-time: "2021-03-02"
+  talk-location: ""
+  talk-title: "Non-Gaussian Processes and Neural Networks at Finite Widths"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Non-Gaussian Processes and Neural Networks at Finite Widths](https://arxiv.org/abs/1910.00019)"
+
+- type: "journal-club"
+  semester: "spring-2021"
+  speaker-name: "Di Luo"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2021-04-06"
+  talk-date-time: "Tuesday, April 6"
+  start-date-time: "2021-04-06"
+  end-date-time: "2021-04-06"
+  talk-location: ""
+  talk-title: "Simulating Quantum Many-Body Physics with Neural Network Representation"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Simulating Quantum Many-Body Physics](https://arxiv.org/abs/1807.10770); [Related research 1](https://arxiv.org/pdf/1912.11052.pdf); [Related research 2](https://arxiv.org/abs/2012.05232)"
+
+- type: "journal-club"
+  semester: "spring-2021"
+  speaker-name: "Anna Golubeva"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2021-04-27"
+  talk-date-time: "Tuesday, April 27"
+  start-date-time: "2021-04-27"
+  end-date-time: "2021-04-27"
+  talk-location: ""
+  talk-title: "Are Wider Nets Better Given the Same Number of Parameters?"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Are Wider Nets Better Given the Same Number of Parameters?](https://arxiv.org/abs/2010.14495)"
+
+- type: "journal-club"
+  semester: "spring-2021"
+  speaker-name: "Siddharth Mishra-Sharma"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2021-05-11"
+  talk-date-time: "Tuesday, May 11"
+  start-date-time: "2021-05-11"
+  end-date-time: "2021-05-11"
+  talk-location: ""
+  talk-title: "Simulation-Based Inference Focusing on Astrophysical Applications"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Simulation-Based Inference](https://arxiv.org/abs/1911.01429); [Astrophysical Applications](https://arxiv.org/abs/1909.02005)"
+
+- type: "journal-club"
+  semester: "spring-2021"
+  speaker-name: "Bhairav Mehta"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2020-10-20"
+  talk-date-time: "Tuesday, October 20"
+  start-date-time: "2020-10-20"
+  end-date-time: "2020-10-20"
+  talk-location: ""
+  talk-title: "Learning Invariances"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Learning Invariances](https://arxiv.org/abs/2009.00329)"
+
+- type: "journal-club"
+  semester: "spring-2021"
+  speaker-name: "Andrew Tan"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2020-11-04"
+  talk-date-time: "Wednesday, November 4"
+  start-date-time: "2020-11-04"
+  end-date-time: "2020-11-04"
+  talk-location: ""
+  talk-title: "Estimating Mutual Information"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Estimating Mutual Information](https://arxiv.org/abs/1905.06922)"
+
+- type: "journal-club"
+  semester: "spring-2021"
+  speaker-name: "Ziming Liu"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2020-11-18"
+  talk-date-time: "Wednesday, November 18"
+  start-date-time: "2020-11-18"
+  end-date-time: "2020-11-18"
+  talk-location: ""
+  talk-title: "Scaling Laws of Learning"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:
+  resources: "[Scaling Laws of Learning 1](https://arxiv.org/abs/2010.14701); [Scaling Laws of Learning 2](https://arxiv.org/abs/2004.10802); [Scaling Laws of Learning 3](https://arxiv.org/abs/2001.08361)"
+
+- type: "journal-club"
+  semester: "spring-2021"
+  speaker-name: "Dan Roberts"
+  speaker-title: ""
+  speaker-affiliation: ""
+  speaker-website: ""
+  speaker-photo-location:
+  talk-date: "2020-12-02"
+  talk-date-time: "Wednesday, December 2"
+  start-date-time: "2020-12-02"
+  end-date-time: "2020-12-02"
+  talk-location: ""
+  talk-title: "Effective Theory of Deep Learning"
+  talk-abstract: ""
+  slides-link: ""
+  youtube-link: ""
+  speaker-thrust: ""
+  speaker-gender: ""
   talk-attendance:
