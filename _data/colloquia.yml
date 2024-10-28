@@ -73,10 +73,10 @@
   talk-title: "From Victorian trains to chatbots, via high-dimensional geometry"
   talk-abstract: "Is language all you need to interact with AI, or is there room for other interfaces? Our talk will explore how we might help people work with AI effectively, safely, and enjoyably. Taking inspiration from the role of transparency in Victorian railways, we dive into the internal geometry of deep neural networks. The goal is a new kind of AI instrumentation: a dashboard for large language models. We argue that if toasters and coffeemakers have displays that tell you their internal state, we should expect nothing less from a machine learning model with a trillion parameters."
   slides-link: "TBD"
-  youtube-link: TBD
+  youtube-link: "https://www.youtube.com/live/A3BpKPW1rYU?feature=shared"
   speaker-thrust: "TBD"
-  speaker-gender: "TBD"
-  talk-attendance: 0 in person, 0 virtual
+  speaker-gender: "Woman and Man"
+  talk-attendance: 27 in person, 22 virtual
 
 - type: "colloquium"
   semester: "fall-2024"
@@ -113,6 +113,7 @@
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Expediting Astronomical Discovery with Large Language Models: Progress, Challenges, and Future Directions"
   talk-abstract: "The expansive, interdisciplinary nature of astronomy, combined with its open-access culture, makes it an ideal testing ground for exploring how Large Language Models (LLMs) can accelerate scientific discovery. In this talk, we present our recent advances in applying LLMs to real-world astronomical challenges. Through self-play reinforcement learning, we demonstrate how LLM agents can conduct end-to-end research tasks in galaxy spectra fitting, encompassing data analysis, strategy refinement, and outlier detection—effectively mimicking human intuition and deep domain knowledge. Our agent, named Mephisto, successfully rediscovered and analyzed the Little Red Dots, an intriguing new class of galaxies recently identified by the James Webb Space Telescope. While autonomous research agents like Mephisto could theoretically help analyze all observed sources, the cost of closed-source solutions remains prohibitive for large-scale applications involving billions of objects. To address this limitation, our team at AstroMLab is developing lightweight, open-source specialized models and evaluating them against carefully curated astronomical benchmarks. Our research shows that specialized 8B-parameter LLMs can match GPT-4's performance on specific tasks when properly pretrained and fine-tuned. Despite ongoing challenges, we see immense potential in scaling up automated astronomical inference, which could transform how astronomical research is conducted and accelerate our understanding of the Universe."
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/N21iMTVmaG5mNTA2NmUyM2FqZWxhMzBkdGggYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw"
   slides-link: "TBD"
   youtube-link: TBD
   speaker-thrust: "TBD"
