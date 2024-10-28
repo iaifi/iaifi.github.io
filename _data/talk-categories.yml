@@ -21,3 +21,15 @@ external-event:
 workshop:
   name: "Workshop"
   zoom:
+
+social:
+  name: "IAIFI Social Event"
+  zoom:
+
+industry-lunch:
+  name: "Industry Lunch"
+  zoom:
+
+other:
+  name: "Other Internal Events"
+  zoom:
