@@ -29,7 +29,9 @@ event_types:
   - colloquia
   - journal-club
   - seminars
-  - social-events
+  - internal-events
+  - thematic-discussions
+  - external-events
 
 semesters:
   - name:  "Fall 2024"

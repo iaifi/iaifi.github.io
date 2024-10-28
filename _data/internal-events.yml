@@ -2,12 +2,12 @@
   event-name: "IAIFI Pizza and Game Night"
   event-committee: "Community Building and Inclusion"
   event-post-date: "2024-10-28"
-  event-date: "2024-11-01"
-  event-date-time: "November 1, 2024"
+  talk-date: "2024-11-01"
+  talk-date-time: "November 1, 2024"
   start-date-time: "2024-11-01 17:00"
   end-date-time: "2024-11-01 19:00"
-  event-location: "IAIFI Penthouse *26-648)"
-  event-zoom:
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
   event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/NzlkaW83dXNtbTZobTg1OTA2YW9zbmdsbmxfMjAyNDExMDVUMjIwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
   
@@ -15,12 +15,12 @@
   event-name: "Industry Lunch with Bryan Ostdiek (Microsoft)"
   event-committee: "Industry Partnership"
   event-post-date: "2024-10-28"
-  event-date: "2024-11-08"
-  event-date-time: "November 8, 2024"
+  talk-date: "2024-11-08"
+  talk-date-time: "November 8, 2024"
   start-date-time: "2024-11-08 12:30"
   end-date-time: "2024-11-08 13:30"
-  event-location: "IAIFI Penthouse (26-648)"
-  event-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
   event-details: Bryan, a former Harvard postdoc (and IAIFI Junior Investigator) who is now a Senior Data Scientist at Microsoft, will discuss his career trajectory and experience in industry. Lunch and snacks will be provided. [RSVP](https://app.smartsheet.com/b/form/05d6cbfd9c6446de810be501e1998baf)
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNDExMDhUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
   
@@ -28,11 +28,11 @@
   event-name: "IAIFI Fall 2024 Social"
   event-committee: "Community Building and Inclusion"
   event-post-date: "2024-10-28"
-  event-date: "2024-11-15"
-  event-date-time: "November 15, 2024"
+  talk-date: "2024-11-15"
+  talk-date-time: "November 15, 2024"
   start-date-time: "2024-11-15 17:00"
   end-date-time: "2024-11-15 19:00"
-  event-location: "TBD"
-  event-zoom:
+  talk-location: "TBD"
+  talk-zoom:
   event-details: Details to come
   calendar-link:

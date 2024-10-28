@@ -13,8 +13,8 @@ aside:
 ### Upcoming External Events
 
 {% for talk in talks %}
-  {% assign event-date = talk.event-date | date: '%s' | plus: 0 %}
-  {% unless event-date > now %}{% continue %}{% endunless %}
+  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+  {% unless talk-date > now %}{% continue %}{% endunless %}
 
   {% if talk.type == "external-event" %}
   {% include related-event_item.html talk=talk %}
@@ -24,8 +24,8 @@ aside:
 ### Upcoming Workshops
 
 {% for talk in talks %}
-  {% assign event-date = talk.event-date | date: '%s' | plus: 0 %}
-  {% unless event-date >= now %}{% continue %}{% endunless %}
+  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+  {% unless talk-date >= now %}{% continue %}{% endunless %}
 
   {% if talk.type == "workshop" %}
   {% include related-event_item.html talk=talk %}
@@ -35,8 +35,8 @@ aside:
 ### Past Workshops
 
 {% for talk in talks %}
-  {% assign event-date = talk.event-date | date: '%s' | plus: 0 %}
-  {% unless event-date < now %}{% continue %}{% endunless %}
+  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+  {% unless talk-date < now %}{% continue %}{% endunless %}
 
   {% if talk.type == "workshop" %}
   {% include related-event_item.html talk=talk %}

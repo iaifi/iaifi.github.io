@@ -3,12 +3,12 @@
   event-organizer: "MIT"
   event-website: "https://sdscon.mit.edu/"
   event-post-date: "2022-04-01"
-  event-date: "2022-04-01"
-  event-date-time: "April 1, 2022"
+  talk-date: "2022-04-01"
+  talk-date-time: "April 1, 2022"
   start-date-time: "2022-04-01 9:00"
   end-date-time: "2022-04-01 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details:
   calendar-link:
   
@@ -17,12 +17,12 @@
   event-organizer: "Aspen Center for Physics Summer"
   event-website: "https://aspenphys.org/physicists/summer/program/currentworkshops.html"
   event-post-date: "2022-05-01"
-  event-date: "2022-05-28"
-  event-date-time: "May 28–June 18, 2022"
+  talk-date: "2022-05-28"
+  talk-date-time: "May 28–June 18, 2022"
   start-date-time: "2022-05-28 9:00"
   end-date-time: "2022-06-18 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details: "IAIFI involvement: Dan Roberts (Co-Organizer)"
   calendar-link:
   
@@ -31,12 +31,12 @@
   event-organizer: "Aspen Center for Physics"
   event-website: "https://www.aspenphys.org/physicists/summer/program/currentworkshops.html"
   event-post-date: "2022-05-01"
-  event-date: "2022-05-29"
-  event-date-time: "May 29–June 19, 2022"
+  talk-date: "2022-05-29"
+  talk-date-time: "May 29–June 19, 2022"
   start-date-time: "2022-05-29 9:00"
   end-date-time: "2022-06-27 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details: "IAIFI involvement: Jesse Thaler (co-organizer)"
   calendar-link:
   
@@ -45,12 +45,12 @@
   event-organizer: "Mainz Institute for Theoretical Physics"
   event-website: "https://indico.mitp.uni-mainz.de/event/254/"
   event-post-date: "2022-05-01"
-  event-date: "2022-06-13"
-  event-date-time: "June 13–July 8, 2022"
+  talk-date: "2022-06-13"
+  talk-date-time: "June 13–July 8, 2022"
   start-date-time: "2022-06-13 9:00"
   end-date-time: "2022-07-08 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details: "IAIFI involvement: Jim Halverson (co-organizer)"
   calendar-link:
 
@@ -59,12 +59,12 @@
   event-organizer: "Galileo Galilei Institute"
   event-website: "https://www.ggi.infn.it/showevent.pl?id=414"
   event-post-date: "2022-07-01"
-  event-date: "2022-08-22"
-  event-date-time: "August 22–September 30, 2022"
+  talk-date: "2022-08-22"
+  talk-date-time: "August 22–September 30, 2022"
   start-date-time: "2022-08-22 9:00"
   end-date-time: "2022-09-30 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details: "IAIFI involvement: Jesse Thaler (Co-Organizer)"
   calendar-link:
 
@@ -73,12 +73,12 @@
   event-organizer: "FastML"
   event-website: "https://indico.cern.ch/event/1156222/"
   event-post-date: "2022-10-01"
-  event-date: "2022-10-03"
-  event-date-time: "October 3–6, 2022"
+  talk-date: "2022-10-03"
+  talk-date-time: "October 3–6, 2022"
   start-date-time: "2022-10-03 9:00"
   end-date-time: "2022-10-06 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details: "IAIFI involvement: Phil Harris (Scientific Committee)"
   calendar-link:
   
@@ -87,12 +87,12 @@
   event-organizer: "ML4Jets"
   event-website: "https://indico.cern.ch/event/1159913/"
   event-post-date: "2022-10-01"
-  event-date: "2022-11-01"
-  event-date-time: "November 1–4, 2022"
+  talk-date: "2022-11-01"
+  talk-date-time: "November 1–4, 2022"
   start-date-time: "2022-11-01 9:00"
   end-date-time: "2022-11-04 17:00"
-  event-location: Rutgers University
-  event-zoom:
+  talk-location: Rutgers University
+  talk-zoom:
   event-details: "IAIFI involvement: Jesse Thaler (International Advisory Committee)"
   calendar-link:
 
@@ -101,12 +101,12 @@
   event-organizer: "NeurIPS 2022"
   event-website: "https://ml4physicalsciences.github.io/2022/"
   event-post-date: "2022-10-01"
-  event-date: "2022-12-03"
-  event-date-time: "December 3, 2022"
+  talk-date: "2022-12-03"
+  talk-date-time: "December 3, 2022"
   start-date-time: "2022-12-03 9:00"
   end-date-time: "2022-12-03 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details: "IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer)"
   calendar-link:
   
@@ -115,12 +115,12 @@
   event-organizer: "Oak Ridge National Laboratory"
   event-website: "https://aires.ornl.gov"
   event-post-date: "2023-04-01"
-  event-date: "2023-04-18"
-  event-date-time: "April 18–20, 2023"
+  talk-date: "2023-04-18"
+  talk-date-time: "April 18–20, 2023"
   start-date-time: "2023-04-18 9:00"
   end-date-time: "2023-04-20 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details:
   calendar-link:
   
@@ -129,12 +129,12 @@
   event-organizer: "CMU"
   event-website: "https://sites.google.com/view/rainscmu"
   event-post-date: "2023-05-01"
-  event-date: "2023-05-08"
-  event-date-time: "May 8, 2023"
+  talk-date: "2023-05-08"
+  talk-date-time: "May 8, 2023"
   start-date-time: "2023-05-08 9:00"
   end-date-time: "2023-05-08 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details:
   calendar-link:
 
@@ -143,12 +143,12 @@
   event-organizer: "Pollica Physics Center"
   event-website: "https://agenda.infn.it/event/33851/"
   event-post-date: "2023-05-01"
-  event-date: "2023-05-29"
-  event-date-time: "May 29–June 2, 2023"
+  talk-date: "2023-05-29"
+  talk-date-time: "May 29–June 2, 2023"
   start-date-time: "2023-05-29 9:00"
   end-date-time: "2023-06-02 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details: "IAIFI involvement: Harold Erbin, Daniel Hackett, Anindita Maiti (Co-Organizers)"
   calendar-link:
   
@@ -157,12 +157,12 @@
   event-organizer: "DARPA"
   event-website: "https://www.darpa.mil/news-events/2023-02-24"
   event-post-date: "2023-06-01"
-  event-date: "2023-06-13"
-  event-date-time: "June 13–16, 2023 and July 31–August 2, 2023"
+  talk-date: "2023-06-13"
+  talk-date-time: "June 13–16, 2023 and July 31–August 2, 2023"
   start-date-time: "2023-06-13 9:00"
   end-date-time: "2023-08-02 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details:
   calendar-link:
     
@@ -171,12 +171,12 @@
   event-organizer: "Princeton"
   event-website: "https://mlschool.princeton.edu"
   event-post-date: "2023-06-01"
-  event-date: "2023-06-26"
-  event-date-time: "June 26–30, 2023"
+  talk-date: "2023-06-26"
+  talk-date-time: "June 26–30, 2023"
   start-date-time: "2023-06-26 9:00"
   end-date-time: "2023-06-30 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details:
   calendar-link:
   
@@ -185,12 +185,12 @@
   event-organizer: "Institute for Mathematical and Statistical Innovation"
   event-website: "https://datascience.uchicago.edu/events/ai-science-summer-school-2023/"
   event-post-date: "2023-06-01"
-  event-date: "2023-07-17"
-  event-date-time: "July 17–21, 2023"
+  talk-date: "2023-07-17"
+  talk-date-time: "July 17–21, 2023"
   start-date-time: "2023-07-17 9:00"
   end-date-time: "2023-07-21 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details:
   calendar-link:
   
@@ -199,12 +199,12 @@
   event-organizer: "MIT Physics"
   event-website: "https://indico.mit.edu/event/759/registrations/157/"
   event-post-date: "2023-07-01"
-  event-date: "2023-07-21"
-  event-date-time: "July 21, 2023"
+  talk-date: "2023-07-21"
+  talk-date-time: "July 21, 2023"
   start-date-time: "2023-07-21 9:00"
   end-date-time: "2023-07-21 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details:
   calendar-link:
 
@@ -213,12 +213,12 @@
   event-organizer: "MODE (for Machine-learning Optimized Design of Experiments)"
   event-website: "https://indico.cern.ch/event/1242538/"
   event-post-date: "2023-07-01"
-  event-date: "2023-07-24"
-  event-date-time: "July 24–26, 2023"
+  talk-date: "2023-07-24"
+  talk-date-time: "July 24–26, 2023"
   start-date-time: "2023-07-24 9:00"
   end-date-time: "2023-07-26 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details:
   calendar-link:
 
@@ -227,12 +227,12 @@
   event-organizer: "ML4Jets"
   event-website: "https://indico.cern.ch/event/1253794/"
   event-post-date: "2023-10-01"
-  event-date: "2023-11-06"
-  event-date-time: "November 6–10, 2023"
+  talk-date: "2023-11-06"
+  talk-date-time: "November 6–10, 2023"
   start-date-time: "2023-11-06 9:00"
   end-date-time: "2023-11-10 17:00"
-  event-location:
-  event-zoom:
+  talk-location:
+  talk-zoom:
   event-details:
   calendar-link:
   
@@ -241,12 +241,12 @@
   event-organizer: "AI4EIC"
   event-website: "https://indico.bnl.gov/event/19560/overview"
   event-post-date: "2023-10-01"
-  event-date: "2023-11-28"
-  event-date-time: "November 28–December 1, 2023"
+  talk-date: "2023-11-28"
+  talk-date-time: "November 28–December 1, 2023"
   start-date-time: "2023-11-28 9:00"
   end-date-time: "2023-12-01 17:00"
-  event-location: "Catholic University of America, Washington, D.C."
-  event-zoom:
+  talk-location: "Catholic University of America, Washington, D.C."
+  talk-zoom:
   event-details: "IAIFI involvement: Mike Williams (Co-Organizer)"
   calendar-link:
 
@@ -255,12 +255,12 @@
   event-organizer: "ICML 2024"
   event-website: "https://gram-workshop.github.io/index.html"
   event-post-date: "2024-06-01"
-  event-date: "2024-07-21"
-  event-date-time: "July 21–27, 2024"
+  talk-date: "2024-07-21"
+  talk-date-time: "July 21–27, 2024"
   start-date-time: "2024-07-21 9:00"
   end-date-time: "2024-07-27 17:00"
-  event-location: "Vienna, Austria"
-  event-zoom:
+  talk-location: "Vienna, Austria"
+  talk-zoom:
   event-details:
   calendar-link:
   
@@ -269,12 +269,12 @@
   event-organizer: AstroAI
   event-website: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2024-10-25"
-  event-date: "2024-10-29"
-  event-date-time: "Monday, October 28, 2024, 12:00–1:00 pm"
+  talk-date: "2024-10-29"
+  talk-date-time: "Monday, October 28, 2024, 12:00–1:00 pm"
   start-date-time: "2024-10-28 12:00"
   end-date-time: "2024-10-28 13:00"
-  event-location: "Wolbach First Floor - Video Wall, Center for Astrophysics, 60 Garden Street"
-  event-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  talk-location: "Wolbach First Floor - Video Wall, Center for Astrophysics, 60 Garden Street"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
   event-details: "David Vartanyan: Avenues into, and Prospects for, ML Applications in Supernovae; and Congyue Deng: 'The reality of the universe is geometrical.' – E. A. Burtt. The Metaphysical Foundations of Modern Physical Science. Lunch will be provided."
   calendar-link:
 
@@ -283,12 +283,12 @@
   event-organizer: CSAIL
   event-website: https://calendar.csail.mit.edu/seminar_series/12238
   event-post-date: "2024-10-25"
-  event-date: "2024-10-29"
-  event-date-time: "Monday, October 28, 2024, 4:00–5:00 pm"
+  talk-date: "2024-10-29"
+  talk-date-time: "Monday, October 28, 2024, 4:00–5:00 pm"
   start-date-time: "2024-10-28 16:00"
   end-date-time: "2024-10-28 17:00"
-  event-location: "Hewlett Room (MIT 32-G882)"
-  event-zoom: https://mit.zoom.us/j/99073735900?pwd=6gXkuUklIdNFWd5xQa325LubNlYcB4.1
+  talk-location: "Hewlett Room (MIT 32-G882)"
+  talk-zoom: https://mit.zoom.us/j/99073735900?pwd=6gXkuUklIdNFWd5xQa325LubNlYcB4.1
   event-details: "Hannes Stärk and Bowen Jing, Generative Models for Biomolecular Prediction, Dynamics, and Design: We lay out the three avenues in which we think generative models are especially valuable for modeling biomolecules. 1) Hard prediction tasks can be better addressed with generative models that can suggest and rank multiple solutions (e.g. docking). 2) The dynamics and conformations of biomolecules can be captured with generative models (e.g. protein conformational ensembles and MD trajectories). 3) Designing new biomolecules can be accelerated, informed by samples or likelihoods from generative models (e.g. protein binder or regulatory DNA design). Refreshments (tea and pastry) will be served."
   calendar-link:
 
@@ -297,11 +297,11 @@
   event-organizer: "NeurIPS 2024"
   event-website: "https://ml4physicalsciences.github.io/2024/"
   event-post-date: "2024-10-01"
-  event-date: "2024-12-15"
-  event-date-time: "Sunday, December 15, 2024"
+  talk-date: "2024-12-15"
+  talk-date-time: "Sunday, December 15, 2024"
   start-date-time: "2024-12-15 9:00"
   end-date-time: "2024-12-15 17:00"
-  event-location: "Vancouver Convention Center in Vancouver, BC, Canada"
-  event-zoom:
+  talk-location: "Vancouver Convention Center in Vancouver, BC, Canada"
+  talk-zoom:
   event-details: "IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer); IAIFI-sponsored"
   calendar-link:
