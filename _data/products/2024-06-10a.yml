@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: F
+title: "An Elliptic Kernel Unsupervised Autoencoder-Graph Convolutional Network Ensemble Model for Hyperspectral Unmixing"
+authors: Estefania Alfaro-Mejia, Carlos J Delgado, Vidya Manian
+abstract: "Spectral Unmixing is an important technique in remote sensing used to analyze hyperspectral images to identify endmembers and estimate abundance maps. Over the past few decades, performance of techniques for endmember extraction and fractional abundance map estimation have significantly improved. This article presents an ensemble model workflow called Autoencoder Graph Ensemble Model (AEGEM) designed to extract endmembers and fractional abundance maps. An elliptical kernel is applied to measure spectral distances, generating the adjacency matrix within the elliptical neighborhood. This information is used to construct an elliptical graph, with centroids as senders and remaining pixels within the geometry as receivers. The next step involves stacking abundance maps, senders, and receivers as inputs to a Graph Convolutional Network, which processes this input to refine abundance maps. Finally, an ensemble decision-making process determines the best abundance maps based on root mean square error metric. The proposed AEGEM is assessed with benchmark datasets such as Samson, Jasper, and Urban, outperforming results obtained by baseline algorithms. For the Samson dataset, AEGEM excels in three abundance maps: water, tree and soil yielding values of 0.081, 0.158, and 0.182, respectively. For the Jasper dataset, results are improved for the tree and water endmembers with values of 0.035 and 0.060 in that order, as well as for the mean average of the spectral angle distance metric 0.109. For the Urban dataset, AEGEM outperforms previous results for the abundance maps of roof and asphalt, achieving values of 0.135 and 0.240, respectively. Additionally, for the endmembers of grass and roof, AEGEM achieves values of 0.063 and 0.094."
+arxiv: "2406.06742"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @misc{alfaromejia2024elliptickernelunsupervisedautoencodergraph,
+      title={An Elliptic Kernel Unsupervised Autoencoder-Graph Convolutional Network Ensemble Model for Hyperspectral Unmixing},
+      author={Estefania Alfaro-Mejia and Carlos J Delgado and Vidya Manian},
+      year={2024},
+      eprint={2406.06742},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.06742},
+  }
