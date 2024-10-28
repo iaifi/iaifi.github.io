@@ -15,10 +15,10 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
 ## Upcoming Journal Clubs
 
 {% for talk in talks %}
-  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
-  {% unless talk-date > now %}{% continue %}{% endunless %}
+{% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+{% unless talk-date > now %}{% continue %}{% endunless %}
 
-  {% include journal-club_item.html talk=talk %}
+{% include journal-club_item.html talk=talk %}
 
 {% endfor %}
 
@@ -29,10 +29,10 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
 ### {{semester.name}}
 
 {% for talk in talks %}
-  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
-  {% unless talk-date < now and talk.semester == semester.tag %}{% continue %}{% endunless%}
+{% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+{% unless talk-date < now and talk.semester == semester.tag %}{% continue %}{% endunless%}
 
-  {% include journal-club_item.html talk=talk is_previous=true %}
+{% include journal-club_item.html talk=talk is_previous=true %}
 
 {% endfor %}
 
