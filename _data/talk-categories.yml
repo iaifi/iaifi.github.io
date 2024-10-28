@@ -13,3 +13,11 @@ journal-club:
 industry-lunch:
   name: "Industry Lunch"
   zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
+  
+external-event:
+  name: "External Event"
+  zoom:
+  
+workshop:
+  name: "Workshop"
+  zoom:
