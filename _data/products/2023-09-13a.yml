@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: A
+title: "Keck Infrared Transient Survey I: Survey Description and Data Release 1"
+authors: S. Tinyanont, R. J. Foley, K. Taggart, K. W. Davis, N. LeBaron, J. E. Andrews, M. J. Bustamante-Rosell, Y. Camacho-Neves, R. Chornock, D. A. Coulter, L. Galbany, S. W. Jha, C. D. Kilpatrick, L. A. Kwok, C. Larison, J. R. Pierel, M. R. Siebert, G. Aldering, K. Auchettl, J. S. Bloom, S. Dhawan, A. V. Filippenko, K. D. French, A. Gagliano, M. Grayling, W. V. Jacobson-Galán, D. O. Jones, X. Le Saux, P. Macias, K. S. Mandel, C. McCully, E. Padilla Gonzalez, A. Rest, C. Rojas-Bravo, M. F. Skrutskie, S. Thorp, Q. Wang, S. M. Ward
+abstract: "We present the Keck Infrared Transient Survey (KITS), a NASA Key Strategic Mission Support program to obtain near-infrared (NIR) spectra of astrophysical transients of all types, and its first data release, consisting of 105 NIR spectra of 50 transients. Such a data set is essential as we enter a new era of IR astronomy with the James Webb Space Telescope (JWST) and the upcoming Nancy Grace Roman Space Telescope (Roman). NIR spectral templates will be essential to search JWST images for stellar explosions of the first stars and to plan an effective Roma} SN Ia cosmology survey, both key science objectives for mission success. Between 2022 February and 2023 July, we systematically obtained 274 NIR spectra of 146 astronomical transients, representing a significant increase in the number of available NIR spectra in the literature. The first data release includes data from the 2022A semester. We systematically observed three samples: a flux-limited sample that includes all transients <17 mag in a red optical band (usually ZTF r or ATLAS o bands); a volume-limited sample including all transients within redshift z<0.01 (D≈50 Mpc); and an SN Ia sample targeting objects at phases and light-curve parameters that had scant existing NIR data in the literature. The flux-limited sample is 39% complete (60% excluding SNe Ia), while the volume-limited sample is 54% complete and is 79% complete to z=0.005. All completeness numbers will rise with the inclusion of data from other telescopes in future data releases. Transient classes observed include common Type Ia and core-collapse supernovae, tidal disruption events (TDEs), luminous red novae, and the newly categorized hydrogen-free/helium-poor interacting Type Icn supernovae. We describe our observing procedures and data reduction using Pypeit, which requires minimal human interaction to ensure reproducibility."
+arxiv: "2309.07102"
+journal: "Publications of the Astronomical Society of the Pacific, Volume 136, Number 1, 2024"
+doi: https://doi.org/10.1088/1538-3873/ad1b39
+nsf-par:
+code:
+publication-date: 2024-01-23
+bib-tex: |
+  @misc{tinyanont2023keckinfraredtransientsurvey,
+      title={Keck Infrared Transient Survey I: Survey Description and Data Release 1},
+      author={S. Tinyanont and R. J. Foley and K. Taggart and K. W. Davis and N. LeBaron and J. E. Andrews and M. J. Bustamante-Rosell and Y. Camacho-Neves and R. Chornock and D. A. Coulter and L. Galbany and S. W. Jha and C. D. Kilpatrick and L. A. Kwok and C. Larison and J. R. Pierel and M. R. Siebert and G. Aldering and K. Auchettl and J. S. Bloom and S. Dhawan and A. V. Filippenko and K. D. French and A. Gagliano and M. Grayling and W. V. Jacobson-Galán and D. O. Jones and X. Le Saux and P. Macias and K. S. Mandel and C. McCully and E. Padilla Gonzalez and A. Rest and C. Rojas-Bravo and M. F. Skrutskie and S. Thorp and Q. Wang and S. M. Ward},
+      year={2023},
+      eprint={2309.07102},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.SR},
+      url={https://arxiv.org/abs/2309.07102},
+  }

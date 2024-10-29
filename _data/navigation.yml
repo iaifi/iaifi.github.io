@@ -31,6 +31,10 @@ header:
         url: /journal-club.html
       - title: Thematic Discussions
         url: /lightning-talks.html
+      - title: Industry Lunches
+        url: /industry-lunches.html
+      - title: Social Events
+        url: /social-events.html
       - title: Generative AI Symposium
         url: /generative-ai-workshop.html
       - title: Related External

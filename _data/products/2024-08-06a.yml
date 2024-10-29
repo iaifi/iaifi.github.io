@@ -1,0 +1,13 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-08-06
+title: "Hyperspectral Multilevel GCN and CNN Feature Fusion for Change Detection"
+authors: "Chhaya Katiyar, Vidya Manian"
+abstract: "Hyperspectral Image Change Detection (HSI-CD) focuses on identifying differences in multi-temporal HSIs. Graph Convolutional Networks (GCN) have demonstrated greater promise than convolutional neural networks (CNNs) in remote sensing, particularly for processing HSIs. This is due to GCN's ability to handle non-Euclidean graph-structured information, as opposed to the fixed kernel operations of CNN based on Euclidean structures. Specifically, GCN operates predominantly on superpixel-based nodes. This paper proposes a method, named Hyperspectral Multilevel GCN and CNN Feature Fusion for Change Detection (HMGCF-CD), that integrates superpixel-level GCN with pixel-level CNN for feature extraction and efficient change detection in HSIs. The proposed method utilizes the strengths of both CNN and GCN; the CNN branch focuses on feature learning in small-scale, regular regions, while the GCN branch handles large-scale, irregular regions. This approach generates complementary spectral-spatial features at both pixel and superpixel levels. To bridge the structural incompatibility between the Euclidean-data-oriented CNN and the non-Euclideandata-oriented GCN, HMGCF introduces a graph encoder and decoder. These elements help in propagating features between image pixels and graph nodes, allowing CNN and GCN to function within an integrated end-to-end framework. HMGCF integrates graph encoding into the network, edge weights, and node representations from training data. This innovation improves node feature learning and adapts the graph more effectively to HSI content. Fusion of features from different branches within the HMGCF enables precise changes in HSI. Experiments carried out on four datasets demonstrate that the proposed HMGCF method outperforms existing methods, marking a significant advancement in HSI-CD techniques."
+arxiv: "2410.17704"
+journal: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024"
+doi: "https://doi.org/10.1109/JSTARS.2024.3479920"
+nsf-par:
+code:
+publication-date: 2024-10-14
+bib-tex: 

@@ -1,0 +1,8 @@
+{% assign talk = include.talk %}
+{% assign is_previous = include.is_previous %}
+
+* **{{talk.event-name}}**
+    * **{{talk.start-date-time | date: "%A, %B %e, %Y"}}, {{talk.start-date-time | date: "%l:%M%P"}}–{{talk.end-date-time | date: "%l:%M%P" | strip}}**
+{% if talk.event-committee %}    * Organized by the {{talk.event-committee}} Committee{% endif %}
+{% if talk.event-details %}    * {{talk.event-details}}{% endif %}
+    * Event location details available to IAIFI members only. Email [iaifi@mit.edu](mailto:iaifi@mit.edu) with questions.

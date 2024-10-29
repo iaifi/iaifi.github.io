@@ -1,0 +1,7 @@
+{% assign talk = include.talk %}
+{% assign is_previous = include.is_previous %}
+
+* **<a href="{{talk.event-website}}">{{talk.event-name}}</a>, {{talk.event-organizer}}**
+    * **{{talk.talk-date-time}}**
+{% if talk.talk-location %}    * *{{talk.talk-location}}* {% if talk.talk-zoom %}; <a href="{{talk.event-zoom}}">Zoom link</a>{% endif %}{% endif %}
+{% if talk.event-details %}    * {{talk.event-details}}{% endif %}

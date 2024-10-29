@@ -4,11 +4,11 @@ title: "PAPERCLIP: Associating Astronomical Observations and Natural Language wi
 authors: Siddharth Mishra-Sharma, Yiding Song, Jesse Thaler
 abstract: 'We present PAPERCLIP (Proposal Abstracts Provide an Effective Representation for Contrastive Language-Image Pre-training), a method which associates astronomical observations imaged by telescopes with natural language using a neural network model. The model is fine-tuned from a pre-trained Contrastive Language-Image Pre-training (CLIP) model using successful observing proposal abstracts and corresponding downstream observations, with the abstracts optionally summarized via guided generation using large language models (LLMs). Using observations from the Hubble Space Telescope (HST) as an example, we show that the fine-tuned model embodies a meaningful joint representation between observations and natural language through tests targeting image retrieval (i.e., finding the most relevant observations using natural language queries) and description retrieval (i.e., querying for astrophysical object classes and use cases most relevant to a given observation). Our study demonstrates the potential for using generalist foundation models rather than task-specific models for interacting with astronomical data by leveraging text as an interface.'
 arxiv: "2403.08851"
-journal:
-doi: 
+journal: "COLM 2024"
+doi: https://openreview.net/forum?id=8TdcXwfNRB
 nsf-par:
 code: https://www.github.com/smsharma/PAPERCLIP-Hubble
-publication-date: 
+publication-date: 2024-07-10
 bib-tex: |
   @misc{mishrasharma2024paperclipassociatingastronomicalobservations,
       title={PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models},

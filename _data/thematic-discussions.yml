@@ -12,7 +12,7 @@
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "Representation/Manifold Learning: Learned Representations"
   talk-abstract: "Many of the recent successes in AI rely on the manifold hypothesis: that most high-dimensional data lie on a lower-dimensional manifold. From transfer to contrastive learning to foundation modeling, significant effort has been devoted to methods to efficiently find and map input data to this latent space. In this Thematic Discussion Session, we'll hear from three distinguished speakers on extracting meaningful latent representations from data from the physical sciences: Aizhan Akhmetzhanova (Self-Supervised Learning for Data Compression and Inference in Cosmology), Nate Woodward, (Product Manifold Machine Learning for Physics) and David Baek, (GenEFT: Physics-Inspired Theory of Representation Learning). After three 10-minute lightning talks, we'll have a 30 minute open discussion/Q&A session to explore the major challenges and opportunities in this field. We encourage attendees to come with questions and insights from their own work!"
-  slides-link:
+  slides-link: "https://drive.google.com/file/d/19W23UleerdETmbqC4ZrR7es-hSIISSD3/view?usp=drive_link"
   youtube-link: 
   speaker-thrust:
   speaker-gender:
@@ -21,7 +21,7 @@
   
 - type: "thematic-discussion"
   semester: "fall-2024"
-  speaker-names-affiliations: "Rahul Kulkarni, UMass Boston"
+  speaker-names-affiliations: "Rahul Kulkarni, UMass Boston and others"
   speaker-title:
   speaker-affiliation:
   speaker-website:
@@ -32,7 +32,8 @@
   end-date-time: "2024-11-15 17:00"
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "IAIFI-UMass Boston Workshop: Partnership for research and training in QUantum, Artificial intelligence, Non-equilibrium physics Theory and Applications (QUANTA)"
-  talk-abstract: "Details to come"
+  talk-abstract: "In 2024, IAIFI launched a research partnership with UMass Boston. The partnership is focused on developing physics-informed reinforcement learning approaches to solve problems in quantum science and technology; in particular, developing novel approaches for entropy-regularized RL to advance current research in quantum systems and applying entropy-regularized RL tools to solve optimization problems in quantum science and technology. The event will kick off with presentations from UMass Boston researchers on this topic. We invite IAIFI researchers with research relevant to this project to sign up to give lightning talks as well (~10 minutes each). [Sign up to give a lightning talk](https://app.smartsheet.com/b/form/21c4df3869f04eb6877d97ff113121a9)."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNDExMTVUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   slides-link:
   youtube-link:
   speaker-thrust:

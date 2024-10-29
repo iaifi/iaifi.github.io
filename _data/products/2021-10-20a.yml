@@ -1,0 +1,27 @@
+type: paper
+iaifi-thrust: E
+title: "Convolutional Neural Networks for Shower Energy Prediction in Liquid Argon Time Projection Chambers"
+authors: "Kiara Carloni, Nicholas W. Kamp, Austin Schneider, Janet M. Conrad"
+abstract: "When electrons with energies of O(100) MeV pass through a liquid argon time projection chamber (LArTPC), they deposit energy in the form of electromagnetic showers. Methods to reconstruct the energy of these showers in LArTPCs often rely on the combination of a clustering algorithm and a linear calibration between the shower energy and charge contained in the cluster. This reconstruction process could be improved through the use of a convolutional neural network (CNN). Here we discuss the performance of various CNN-based models on simulated LArTPC images, and then compare the best performing models to a typical linear calibration algorithm. We show that the CNN method is able to address inefficiencies caused by unresponsive wires in LArTPCs and reconstruct a larger fraction of imperfect events to within 5% accuracy compared with the linear algorithm."
+arxiv: "2110.10766"
+journal: "Journal of Instrumentation, 2022, Volume 17"
+doi: https://doi.org/10.1088/1748-0221/17/02/P02022
+nsf-par:
+code: 
+publication-date: 2022-02-11
+bib-tex: |
+  @article{Carloni_2022,
+   title={Convolutional neural networks for shower energy prediction in liquid argon time projection chambers},
+   volume={17},
+   ISSN={1748-0221},
+   url={http://dx.doi.org/10.1088/1748-0221/17/02/P02022},
+   DOI={10.1088/1748-0221/17/02/p02022},
+   number={02},
+   journal={Journal of Instrumentation},
+   publisher={IOP Publishing},
+   author={Carloni, K. and Kamp, N.W. and Schneider, A. and Conrad, J.M.},
+   year={2022},
+   month=feb, pages={P02022}
+  }
+
+
