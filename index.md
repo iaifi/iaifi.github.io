@@ -127,6 +127,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
   
+  ***IAIFI Director Jesse Thaler featured in Physics Today***. Read about his discussion with other leaders in industry, government, and academia regarding the potential impact of AI on phsyics, and of physics on AI, in ["Physics, AI, and the future of discovery"](https://pubs.aip.org/physicstoday/article/77/11/30/3318195/Physics-AI-and-the-future-of-discoveryLeaders-from). *November 1, 2024*
+  {:.info}
+  
   ***IAIFI Junior Investigator Ziming Liu and Senior Investigator Max Tegmark featured in Quanta Magazine***. Read about their work on KANs in ["Novel Architecture Makes Neural Networks More Understandable"](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/). *September 11, 2024*
   {:.info}
   

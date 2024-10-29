@@ -35,4 +35,121 @@
   talk-location: "TBD"
   talk-zoom:
   event-details: Details to come
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGU0M29mZGtnaGlpcWhxaHU1ZTkwYmJkYXUgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  
+- type: "industry-lunch"
+  event-name: "Industry Lunch with Steven Eulig (Merck Electronics)"
+  event-committee: "Industry Partnership"
+  event-post-date: "2024-10-28"
+  talk-date: "2024-12-06"
+  talk-date-time: "December 6, 2024"
+  start-date-time: "2024-12-06 12:30"
+  end-date-time: "2024-12-06 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: Details to come
   calendar-link:
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2024-10-29"
+  talk-date: "2024-10-29"
+  talk-date-time: "October 29, 2024, 2:00–3:00pm"
+  start-date-time: "2024-10-29 14:00"
+  end-date-time: "2024-10-29 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDEwMjlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2024-10-29"
+  talk-date: "2024-11-05"
+  talk-date-time: "November 5, 2024, 2:00–3:00pm"
+  start-date-time: "2024-11-05 14:00"
+  end-date-time: "2024-11-05 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDExMDVUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2024-10-29"
+  talk-date: "2024-11-12"
+  talk-date-time: "November 12, 2024, 2:00–3:00pm"
+  start-date-time: "2024-11-12 14:00"
+  end-date-time: "2024-11-12 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDExMTJUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2024-10-29"
+  talk-date: "2024-11-19"
+  talk-date-time: "November 19, 2024, 2:00–3:00pm"
+  start-date-time: "2024-11-19 14:00"
+  end-date-time: "2024-11-19 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDExMTlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2024-10-29"
+  talk-date: "2024-11-26"
+  talk-date-time: "November 26, 2024, 2:00–3:00pm"
+  start-date-time: "2024-11-26 14:00"
+  end-date-time: "2024-11-26 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDExMjZUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2024-10-29"
+  talk-date: "2024-12-03"
+  talk-date-time: "December 3, 2024, 2:00–3:00pm"
+  start-date-time: "2024-12-03 14:00"
+  end-date-time: "2024-12-03 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDEyMDNUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2024-10-29"
+  talk-date: "2024-12-10"
+  talk-date-time: "December 10, 2024, 2:00–3:00pm"
+  start-date-time: "2024-12-10 14:00"
+  end-date-time: "2024-12-10 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDEyMTBUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2024-10-29"
+  talk-date: "2024-12-17"
+  talk-date-time: "December 17, 2024, 2:00–3:00pm"
+  start-date-time: "2024-12-17 14:00"
+  end-date-time: "2024-12-17 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDEyMTdUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh
