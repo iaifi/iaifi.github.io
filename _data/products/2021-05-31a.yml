@@ -10,7 +10,7 @@ nsf-par: 10323044
 code: 
 publication-date: 2021-11-09
 bib-tex: |
-  @article{Liu_2021,
+  @article{Liu_2021_Detection,
    title={Machine-learning nonconservative dynamics for new-physics detection},
    volume={104},
    ISSN={2470-0053},

@@ -10,7 +10,7 @@ nsf-par: 10505410
 code: https://github.com/melsophos/pysft-nn
 publication-date: 2024-04-03
 bib-tex: |
-  @article{Erbin_2024,
+  @article{Erbin-Firat_2024,
    title={Characterizing 4-string contact interaction using machine learning},
    volume={2024},
    ISSN={1029-8479},

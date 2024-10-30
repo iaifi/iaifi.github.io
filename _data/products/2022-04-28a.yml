@@ -10,7 +10,7 @@ nsf-par: 10391681
 code: 
 publication-date: 2022-11-14
 bib-tex: |
-  @article{Valogiannis_2022,
+  @article{Valogiannis_2022_WST,
    title={Going beyond the galaxy power spectrum: An analysis of BOSS data with wavelet scattering transforms},
    volume={106},
    ISSN={2470-0029},
