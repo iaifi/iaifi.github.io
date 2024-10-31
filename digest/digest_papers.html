@@ -1,0 +1,15 @@
+<!-- Papers -->
+## New [IAIFI Papers](https://iaifi.org/papers)
+
+{% assign digest_past_in_seconds = digest_date_in_seconds | minus: week_duration_in_seconds %}
+
+{% assign products = site.data.products | sort | reverse %}
+{% for product in products %}
+{% assign paper = product %}
+{% assign paper-date = paper.arxiv-date | date: '%s' | plus: 0 %}
+{% unless paper-date < digest_date_in_seconds and paper-date >= digest_past_in_seconds%}{% continue %}{% endunless %}
+{% if paper.type == "paper" %}
+***[{{paper.title}}](https://arxiv.org/abs/{{paper.arxiv}})*** <br>
+{{paper.authors}} <br>
+{% endif %}
+{% endfor %}

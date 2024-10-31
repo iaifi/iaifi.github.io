@@ -1,0 +1,14 @@
+<!-- Job Opportunities -->
+## New [Job Opportunities](https://iaifi.org/job-board.html)
+
+{% assign digest_past_in_seconds = digest_date_in_seconds | minus: week_duration_in_seconds %}
+ 
+{% assign jobs = site.data.jobs | sort | reverse %}
+{% for job in jobs %}
+  {% assign deadline-date = job.expire | date: '%s' | plus: 0 %}
+  {% assign job-date = job.post-date | date: '%s' | plus: 0 %}
+  {% unless job-date < digest_date_in_seconds and job-date >= digest_past_in_seconds %}{% continue %}{% endunless %}
+***{{job.title}}*** <br>
+*{{job.employer}}* <br>
+{%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
+{% endfor %}
