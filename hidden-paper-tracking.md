@@ -96,10 +96,19 @@ aside:
 {% assign arxiv_count = 0 %}
 {% assign code_count = 0 %}
 
+<!-- make list of names to use -->
+{% assign name1 = person.name | split: "," %}
+{% assign name2 = person.professional-name | split: "," %}
+{% assign name_list = person.professional_names | concat: name1 | concat: name2 %}
+
 <!-- Count number of papers with various properties -->
 {% for product in products %}
 {% assign paper = product %}
-{% if paper.authors contains person.name or paper.authors contains person.professional-name %}
+{% assign is_this_author = false %}
+{% for name in name_list %}
+  {% if paper.authors contains name %}{% assign is_this_author = true %}{% endif %}
+{% endfor %}
+{% if is_this_author %}
   {% assign paper_count = paper_count | plus: 1 %}
   {% if paper.doi %}{% assign doi_count = doi_count | plus: 1 %}{% endif %}
   {% if paper.alt-url %}{% assign alt_url_count = alt_url_count | plus: 1 %}{% endif %}
@@ -110,14 +119,20 @@ aside:
 
 <!-- Display table -->
 
-| Name | Alt. Name | Total Papers | With DOI | With Alt URL | On ArXiv | With Code |
-| ---- | --------- | ------------ | -------- | ------------ | -------- | --------- |
-| {{person.name}} | {{person.professional-name}} | {{paper_count}} | {{doi_count}} | {{alt_url_count}} | {{arxiv_count}} | {{code_count}} |
+| Name | Total Papers | With DOI | With Alt URL | On ArXiv | With Code |
+| ---- | ------------ | -------- | ------------ | -------- | --------- |
+| {{person.name}} | {{paper_count}} | {{doi_count}} | {{alt_url_count}} | {{arxiv_count}} | {{code_count}} |
+
+A.k.a.:  {{name_list  | join: ", "}}
 
 <!-- Display the papers -->
 {% for product in products %}
 {% assign paper = product %}
-{% if paper.authors contains person.name or paper.authors contains person.professional-name %}
+{% assign is_this_author = false %}
+{% for name in name_list %}
+  {% if paper.authors contains name %}{% assign is_this_author = true %}{% endif %}
+{% endfor %}
+{% if is_this_author %}
  * [{{paper_count}}] **{{paper.title}}** <br>
 {{paper.authors}} <br>
 {%if paper.doi %} [{{paper.journal}}]({{paper.doi}}) {% elsif paper.alt-url %} [{{paper.journal}}]({{paper.alt-url}}) {% endif %}[ {% if paper.arxiv %} [arXiv:{{paper.arxiv}}](https://arxiv.org/abs/{{paper.arxiv}}) {% endif %} {% if paper.code %} | [code]({{paper.code}}) {% endif %} ]
