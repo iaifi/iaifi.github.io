@@ -1,0 +1,97 @@
+<!-- Defining times -->
+<!-- TODO:  Check if "now is ever used -->
+{% assign now = 'now' | date: '%s' | plus: 0 %}
+{% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
+{% assign week_duration_in_seconds = 7 | times: 60 | times: 60 | times: 24 %}
+{% assign digest_start_in_seconds = digest_date | date: "%s" | plus: 0 %}
+{% assign digest_end_in_seconds = digest_start_in_seconds | plus: week_duration_in_seconds %}
+{% assign digest_next_in_seconds = digest_end_in_seconds | plus: week_duration_in_seconds %}
+{% assign digest_past_in_seconds = digest_start_in_seconds | minus: week_duration_in_seconds %}
+
+
+<!-- Getting all events and sorting them by time -->
+{% assign event_list = '' | split: '' %}
+{% for event_type in site.data.calendar.event_types %}
+{% assign event_list = event_list | concat: site.data[event_type] %}
+{% endfor %}
+{% assign event_list = event_list| sort: "start-date-time" %}
+
+
+<!-- Creating calendar grid -->
+<div class="grid-container">
+<div class="grid grid--p-1">
+      {% for column in site.data.calendar.columns %}
+        <div class="cell cell--{{column.column_width}}" align="center">
+          <b>{{column.name}}</b>
+        </div>
+      {% endfor %}
+  </div>
+</div>
+<hr>
+{% assign day_counter = 0 %}
+{% for i in (1..2) %}
+<div class="grid-container">
+  <div class="grid grid--p-1">
+      {% for column in site.data.calendar.columns %}
+        <div class="cell cell--{{column.column_width}}">
+          {% assign day_counter_in_seconds = day_counter | times: 60 | times: 60 | times: 24 %}
+          {% assign this_day_start_in_seconds = digest_start_in_seconds | plus: day_counter_in_seconds %}
+          {% assign day_duration_in_seconds = column.day_span | times: 60 | times: 60 | times: 24 %}
+          {% assign this_day_end_in_seconds = this_day_start_in_seconds | plus: day_duration_in_seconds %}
+          
+          {% for event in event_list %}
+            {% assign start_date_time_in_seconds = event.start-date-time | date: "%s" | times: 1 %}
+            {% assign end_date_time_in_seconds = event.end-date-time | date: "%s" | times: 1 %}
+          
+            {% if this_day_start_in_seconds <= start_date_time_in_seconds and start_date_time_in_seconds < this_day_end_in_seconds %}
+                <a class="button button--secondary button--rounded button--sm" href="{{event.calendar-link}}">
+                  <i>{{start_date_time_in_seconds | date: "%a, %b %e, %Y"}}</i><br>
+                  <i>{{start_date_time_in_seconds | date: "%l:%M%P"}} - {{end_date_time_in_seconds | date: "%l:%M%P"}}</i><br>
+                  <i>{{event.talk-location}}</i><br><br>
+                  
+                  {% if event.speaker-name %}{{event.speaker-name}}{% endif %}
+                  {% if event.event-name %}{{event.event-name}}{% endif %}
+                </a>
+            {% endif %}
+          
+          {% endfor %}
+
+          {% assign day_counter = day_counter | plus: column.day_span %}
+        </div>
+      {% endfor %}
+  </div>
+</div>
+<hr>
+{% endfor %}
+
+
+<!-- This week -->
+## Events This Week
+
+If you have any accessibility needs, please reach out to [iaifi-accessibility@mit.edu](mailto:iaifi-accessibility@mit.edu).
+
+{% for talk in event_list %}
+ {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+ {% unless talk-date >= digest_start_in_seconds and talk-date < digest_end_in_seconds %}{% continue %}{% endunless %}
+ {% include_relative digest_event_item.html talk=talk is_this_week=true%}
+{% endfor %}
+
+
+<!-- Next week -->
+## Upcoming Events
+
+{% for talk in event_list %}
+ {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+ {% unless talk-date >= digest_end_in_seconds and talk-date < digest_next_in_seconds%}{% continue %}{% endunless %}
+ {% include_relative digest_event_item.html talk=talk is_next_week=true%}
+{% endfor %}
+
+
+<!-- Future Events -->
+## In Case You Missed It
+
+{% for talk in event_list %}
+ {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
+ {% unless talk-date < digest_start_in_seconds and talk-date >= digest_past_in_seconds%}{% continue %}{% endunless %}
+ {% include_relative digest_event_item.html talk=talk is_last_week=true %}
+{% endfor %}

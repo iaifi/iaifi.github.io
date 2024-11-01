@@ -72,19 +72,19 @@
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "From Victorian trains to chatbots, via high-dimensional geometry"
   talk-abstract: "Is language all you need to interact with AI, or is there room for other interfaces? Our talk will explore how we might help people work with AI effectively, safely, and enjoyably. Taking inspiration from the role of transparency in Victorian railways, we dive into the internal geometry of deep neural networks. The goal is a new kind of AI instrumentation: a dashboard for large language models. We argue that if toasters and coffeemakers have displays that tell you their internal state, we should expect nothing less from a machine learning model with a trillion parameters."
-  slides-link: "TBD"
+  slides-link: "talks/2024_10_25_IAIFI_Colloquium_Viegas.pdf"
   youtube-link: "https://www.youtube.com/live/A3BpKPW1rYU?feature=shared"
-  speaker-thrust: "TBD"
+  speaker-thrust: "foundational AI"
   speaker-gender: "Woman and Man"
   talk-attendance: 27 in person, 22 virtual
 
 - type: "colloquium"
   semester: "fall-2024"
   speaker-name: IAIFI Fireside Chat on the 2024 Nobel Prize in Physics
-  speaker-title: George Barbastathis, Professor, MIT; Di Luo, Assistant Professor, UCLA
-  speaker-affiliation: Additional Speakers TBA
-  speaker-website: "https://cse.mit.edu/people/george-barbastathis/"
-  speaker-photo-location: "images/small-photo-george-barbastathis.jpg"
+  speaker-title: George Barbastathis, Professor, MIT; Di Luo, Assistant Professor, UCLA; Alex Atanasov, Postdoc, Harvard; Hidenori Tanaka, Group Leader
+  speaker-affiliation: CBS-NTT Program in Physics of Intelligence, Harvard University
+  speaker-website:
+  speaker-photo-location:
   talk-date: "2024-11-02"
   talk-date-time: "Friday, November 1, 2024, 2:00–3:00 pm"
   start-date-time: "2024-11-01 14:00"
