@@ -81,10 +81,10 @@
 - type: "colloquium"
   semester: "fall-2024"
   speaker-name: IAIFI Fireside Chat on the 2024 Nobel Prize in Physics
-  speaker-title: George Barbastathis, Professor, MIT; Di Luo, Assistant Professor, UCLA
-  speaker-affiliation: Additional Speakers TBA
-  speaker-website: "https://cse.mit.edu/people/george-barbastathis/"
-  speaker-photo-location: "images/small-photo-george-barbastathis.jpg"
+  speaker-title: George Barbastathis, Professor, MIT; Di Luo, Assistant Professor, UCLA; Alex Atanasov, Postdoc, Harvard; Hidenori Tanaka, Group Leader
+  speaker-affiliation: CBS-NTT Program in Physics of Intelligence, Harvard University
+  speaker-website:
+  speaker-photo-location:
   talk-date: "2024-11-02"
   talk-date-time: "Friday, November 1, 2024, 2:00–3:00 pm"
   start-date-time: "2024-11-01 14:00"
