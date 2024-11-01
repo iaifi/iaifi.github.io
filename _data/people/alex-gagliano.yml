@@ -12,4 +12,7 @@ website: http://alexandergagliano.github.io
 
 e-mail: gaglian2@mit.edu
 
-professional-name: A. T. Gagliano
+professional_names:
+  - A. Gagliano
+  - A. T. Gagliano
+  - Alexander T. Gagliano
