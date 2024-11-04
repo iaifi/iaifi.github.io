@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Lightning Talks
+title: Thematic Discussion Sessions
 aside:
   toc: true
 ---
