@@ -93,11 +93,11 @@
   talk-title: "IAIFI Fireside Chat on Physics Nobel Prize"
   talk-abstract: "Given the recent Nobel Prize in Physics, awarded to John Hopfield and Geoffrey Hinton for their development of foundational and physics-inspired machine learning frameworks (the Hopfield network and the Bolzmann machine, respectively), IAIFI is excited to host a discussion explaining the research underlying the award and its widespread impact. The discussion will include historical context and current developments in using physics for AI innovation. Experts at the intersection of physics, neuroscience, and computer science will share their perspectives on the research behind this year’s Nobel Prize in Physics and the next great discoveries to come from similarly interdisciplinary, curiosity-driven research."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2RiZjZqYnRsYWt0YjNlMTlndnIxcWwxNTkgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
-  slides-link: ""
-  youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
+  slides-link: "talks/2024_11_01_IAIFI_Panel_2024NobelPrize.pdf"
+  youtube-link: "https://www.youtube.com/live/QkT73q1QjS0?feature=shared"
+  speaker-thrust: "Foundational AI, Theoretical Physics"
+  speaker-gender: "Man"
+  talk-attendance: 27 in person, 50 virtual
 
 - type: "colloquium"
   semester: "fall-2024"
