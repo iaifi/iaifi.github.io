@@ -131,8 +131,8 @@
   start-date-time: "2024-11-12 13:00"
   end-date-time: "2024-11-12 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abstract to come"
+  talk-title: "Super-Resolution without High-Resolution Labels for Black Hole Simulations"
+  talk-abstract: "Generating high-resolution simulations is key for advancing our understanding of one of the universe's most violent events: Black Hole mergers. However, generating Black Hole simulations is limited by prohibitive computational costs and scalability issues, reducing the simulation's fidelity and resolution achievable within reasonable time frames and resources. In this work, we introduce a novel method that circumvents these limitations by applying a super-resolution technique {\it without directly needing high-resolution labels}, leveraging the Hamiltonian and momentum constraints—fundamental equations in general relativity that govern the dynamics of spacetime. We demonstrate that our method achieves a reduction in constraint violation by one to two orders of magnitude and generalizes effectively to out-of-distribution simulations."
   slides-link: https://iaifi.org/
   youtube-link:
   speaker-thrust: ""
