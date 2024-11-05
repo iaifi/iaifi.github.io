@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2024-11-01
+title: "Not So Flat Metrics"
+authors: "Cristofero S. Fraser-Taliente, Thomas R. Harvey, Manki Kim"
+abstract: "In order to be in control of the α′ derivative expansion, geometric string compactifications are understood in the context of a large volume approximation. In this letter, we consider the reduction of these higher derivative terms, and propose an improved estimate on the large volume approximation using numerical Calabi-Yau metrics obtained via machine learning methods. Further to this, we consider the α′3 corrections to numerical Calabi-Yau metrics in the context of IIB string theory. This correction represents one of several important contributions for realistic string compactifications -- alongside, for example, the backreaction of fluxes and local sources -- all of which have important consequences for string phenomenology. As a simple application of the corrected metric, we compute the change to the spectrum of the scalar Laplacian."
+arxiv: "2411.00962"
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @misc{frasertaliente2024flatmetrics,
+      title={Not So Flat Metrics},
+      author={Cristofero S. Fraser-Taliente and Thomas R. Harvey and Manki Kim},
+      year={2024},
+      eprint={2411.00962},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2411.00962},
+  }

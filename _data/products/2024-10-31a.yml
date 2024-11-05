@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-10-31
+title: "Linearized Wasserstein Barycenters: Synthesis, Analysis, Representational Capacity, and Applications"
+authors: "Matthew Werenski, Brendan Mallery, Shuchin Aeron, James M. Murphy"
+abstract: "We propose the \textit{linear barycentric coding model (LBCM)} that utilizes the linear optimal transport (LOT) metric for analysis and synthesis of probability measures. We provide a closed-form solution to the variational problem characterizing the probability measures in the LBCM and establish equivalence of the LBCM to the set of Wasserstein-2 barycenters in the special case of compatible measures. Computational methods for synthesizing and analyzing measures in the LBCM are developed with finite sample guarantees. One of our main theoretical contributions is to identify an LBCM, expressed in terms of a simple family, which is sufficient to express all probability measures on the interval [0,1]. We show that a natural analogous construction of an LBCM in ℝ2 fails, and we leave it as an open problem to identify the proper extension in more than one dimension. We conclude by demonstrating the utility of LBCM for covariance estimation and data imputation."
+arxiv: "2410.23602"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/MattWerenski/LBCM"
+publication-date:
+bib-tex: |
+  @misc{werenski2024linearizedwassersteinbarycenterssynthesis,
+      title={Linearized Wasserstein Barycenters: Synthesis, Analysis, Representational Capacity, and Applications},
+      author={Matthew Werenski and Brendan Mallery and Shuchin Aeron and James M. Murphy},
+      year={2024},
+      eprint={2410.23602},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2410.23602},
+  }
