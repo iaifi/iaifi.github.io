@@ -19,7 +19,15 @@ The goal of the IAIFI is to advance knowledge of fundamental interactions from t
 
 ## Highlights
 
-*Updated October 16, 2024*
+*Updated November 12, 2024*
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvHpf3080nSATOrUHmqQF-kASPOANjIqvOOHQMI9CERIBpMOMnGztJEkOjE3YOxSvs4-Lhh-RiVgee/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+[View and download slide](https://docs.google.com/presentation/d/10Qszevq11vkz9eCr3awbffv4MZVYKL-b_E5m3N0wY-s/edit?usp=sharing)
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
