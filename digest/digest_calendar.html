@@ -42,18 +42,20 @@
           {% for event in event_list %}
             {% assign start_date_time_in_seconds = event.start-date-time | date: "%s" | times: 1 %}
             {% assign end_date_time_in_seconds = event.end-date-time | date: "%s" | times: 1 %}
+            {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
           
             {% if this_day_start_in_seconds <= start_date_time_in_seconds and start_date_time_in_seconds < this_day_end_in_seconds %}
-                <a class="button button--secondary button--rounded button--sm" href="{{event.calendar-link}}">
-                  <i>{{start_date_time_in_seconds | date: "%a, %b %e, %Y"}}</i><br>
-                  <i>{{start_date_time_in_seconds | date: "%l:%M%P"}} - {{end_date_time_in_seconds | date: "%l:%M%P"}}</i><br>
+                <a class="button {{site.data.talk-categories[event.type].button_type}} button--rounded button--sm" href="#{{this_anchor}}">
+                  <i>{{start_date_time_in_seconds | date: "%b %e, %Y"}}</i><br>
+                  <i>{{start_date_time_in_seconds | date: "%l:%M%P" | strip}}-{{end_date_time_in_seconds | date: "%l:%M%P" | strip}}</i><br>
                   <i>{{event.talk-location}}</i><br><br>
-                  
+
+                  {% if event.type %}{{site.data.talk-categories[event.type].name}}{% endif %}
                   {% if event.speaker-name %}{{event.speaker-name}}{% endif %}
                   {% if event.event-name %}{{event.event-name}}{% endif %}
                 </a>
+                <br><br>
             {% endif %}
-          
           {% endfor %}
 
           {% assign day_counter = day_counter | plus: column.day_span %}
@@ -71,9 +73,10 @@
 If you have any accessibility needs, please reach out to [iaifi-accessibility@mit.edu](mailto:iaifi-accessibility@mit.edu).
 
 {% for talk in event_list %}
+ {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
  {% unless talk-date >= digest_start_in_seconds and talk-date < digest_end_in_seconds %}{% continue %}{% endunless %}
- {% include_relative digest_event_item.html talk=talk is_this_week=true%}
+ {% include_relative digest_event_item.html talk=talk is_this_week=true anchor=this_anchor %}
 {% endfor %}
 
 
@@ -81,9 +84,10 @@ If you have any accessibility needs, please reach out to [iaifi-accessibility@mi
 ## Upcoming Events
 
 {% for talk in event_list %}
+{% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
  {% unless talk-date >= digest_end_in_seconds and talk-date < digest_next_in_seconds%}{% continue %}{% endunless %}
- {% include_relative digest_event_item.html talk=talk is_next_week=true%}
+ {% include_relative digest_event_item.html talk=talk is_next_week=true anchor=this_anchor %}
 {% endfor %}
 
 
@@ -91,7 +95,8 @@ If you have any accessibility needs, please reach out to [iaifi-accessibility@mi
 ## In Case You Missed It
 
 {% for talk in event_list %}
+{% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
  {% unless talk-date < digest_start_in_seconds and talk-date >= digest_past_in_seconds%}{% continue %}{% endunless %}
- {% include_relative digest_event_item.html talk=talk is_last_week=true %}
+ {% include_relative digest_event_item.html talk=talk is_last_week=true anchor=this_anchor %}
 {% endfor %}

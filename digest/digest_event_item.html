@@ -14,11 +14,11 @@
 
 <!-- Event information -->
 {% if is_this_week %}
-### This {{talk.start-date-time | date: "%A"}} at {{talk.start-date-time | date: "%l:%M%P"}}:  {{site.data.talk-categories[talk.type].name}}
+### This {{talk.start-date-time | date: "%A"}} at {{talk.start-date-time | date: "%l:%M%P"}}:  {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
 {% elsif is_next_week %}
-### Next {{talk.start-date-time | date: "%A"}}:  {{site.data.talk-categories[talk.type].name}}
+### Next {{talk.start-date-time | date: "%A"}}:  {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
 {% elsif is_last_week %}
-### {{site.data.talk-categories[talk.type].name}}
+### {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
 {% endif %}
 
 <!-- I am removing {{talk.speaker-title}}, since this came up when talking to some junior people.-->
