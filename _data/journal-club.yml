@@ -181,26 +181,6 @@
   
 - type: "journal-club"
   semester: "fall-2024"
-  speaker-name: Davide Bray
-  speaker-title: Graduate Student
-  speaker-affiliation: Harvard University
-  speaker-website: https://seas.harvard.edu/person/davide-bray
-  speaker-photo-location:
-  talk-date: "2024-12-03"
-  talk-date-time: "Tuesday, December 3, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-12-03 13:00"
-  end-date-time: "2024-12-03 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abstract to come"
-  slides-link: https://iaifi.org/
-  youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
-  
-- type: "journal-club"
-  semester: "fall-2024"
   speaker-name: Nate Woodward
   speaker-title: Undergraduate Student
   speaker-affiliation: MIT
