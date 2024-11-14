@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2024-06-13
+title: "QCD constraints on isospin-dense matter and the nuclear equation of state"
+authors: "Ryan Abbott, William Detmold, Marc Illa, Assumpta Parreño, Robert J. Perry, Fernando Romero-López, Phiala E. Shanahan, Michael L. Wagman"
+abstract: "Understanding the behavior of dense hadronic matter is a central goal in nuclear physics as it governs the nature and dynamics of astrophysical objects such as supernovae and neutron stars. Because of the non-perturbative nature of quantum chromodynamics (QCD), little is known rigorously about hadronic matter in these extreme conditions. Here, lattice QCD calculations are used to compute thermodynamic quantities and the equation of state of QCD over a wide range of isospin chemical potentials. Agreement is seen with chiral perturbation theory predictions when the chemical potential is small. Comparison to perturbative QCD calculations at large chemical potential allows for an estimate of the gap in the superconducting phase, and this quantity is seen to agree with perturbative determinations. Since the partition function for an isospin chemical potential, μI, bounds the partition function for a baryon chemical potential μB=3μI/2, these calculations also provide rigorous non-perturbative QCD bounds on the symmetric nuclear matter equation of state over a wide range of baryon densities for the first time."
+arxiv: "2406.09273"
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @misc{abbott2024qcdconstraintsisospindensematter,
+      title={QCD constraints on isospin-dense matter and the nuclear equation of state},
+      author={Ryan Abbott and William Detmold and Marc Illa and Assumpta Parreño and Robert J. Perry and Fernando Romero-López and Phiala E. Shanahan and Michael L. Wagman},
+      year={2024},
+      eprint={2406.09273},
+      archivePrefix={arXiv},
+      primaryClass={hep-lat},
+      url={https://arxiv.org/abs/2406.09273},
+  }
