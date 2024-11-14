@@ -4,11 +4,11 @@ title: "Biological error correction codes generate fault-tolerant neural network
 authors: Alexander Zlokapa, Andrew K. Tan, John M. Martyn, Max Tegmark, Isaac L. Chuang
 abstract: "It has been an open question in deep learning if fault-tolerant computation is possible: can arbitrarily reliable computation be achieved using only unreliable neurons? In the mammalian cortex, analog error correction codes known as grid codes have been observed to protect states against neural spiking noise, but their role in information processing is unclear. Here, we use these biological codes to show that a universal fault-tolerant neural network can be achieved if the faultiness of each neuron lies below a sharp threshold, which we find coincides in order of magnitude with noise observed in biological neurons. The discovery of a sharp phase transition from faulty to fault-tolerant neural computation opens a path towards understanding noisy analog systems in artificial intelligence and neuroscience."
 arxiv: "2202.12887"
-journal: 
-doi: 
+journal: "Physical Review E, 2024, Volume 110, Issue 5"
+doi: https://doi.org/10.1103/PhysRevE.110.054303
 nsf-par:
 code: 
-publication-date: 
+publication-date: 2024-11-05
 bib-tex: |
   @misc{zlokapa2024faulttolerantneuralnetworksbiological,
       title={Fault-Tolerant Neural Networks from Biological Error Correction Codes},
