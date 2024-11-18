@@ -21,8 +21,9 @@
   end-date-time: "2024-11-08 13:30"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
-  event-details: Bryan, a former Harvard postdoc (and IAIFI Junior Investigator) who is now a Senior Data Scientist at Microsoft, will discuss his career trajectory and experience in industry. Lunch and snacks will be provided. [RSVP](https://app.smartsheet.com/b/form/05d6cbfd9c6446de810be501e1998baf)
+  event-details: Bryan, a former Harvard postdoc (and IAIFI Junior Investigator) who is now a Senior Data Scientist at Microsoft, will discuss his career trajectory and experience in industry. Lunch and snacks will be provided.
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNDExMDhUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
+  attendance: 13 in person, 3 virtual
   
 - type: "social"
   event-name: "IAIFI Fall 2024 Social"
@@ -32,10 +33,11 @@
   talk-date-time: "November 15, 2024"
   start-date-time: "2024-11-15 17:00"
   end-date-time: "2024-11-15 19:00"
-  talk-location: "TBD"
+  talk-location: "Shy Bird - Kendall Square"
   talk-zoom:
   event-details: Details to come
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGU0M29mZGtnaGlpcWhxaHU1ZTkwYmJkYXUgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  attendance: 40 in person
   
 - type: "industry-lunch"
   event-name: "Industry Lunch with Steven Eulig (Merck Electronics)"
