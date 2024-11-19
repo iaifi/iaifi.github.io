@@ -6,7 +6,7 @@ abstract: "When electrons with energies of O(100) MeV pass through a liquid argo
 arxiv: "2110.10766"
 journal: "Journal of Instrumentation, 2022, Volume 17"
 doi: https://doi.org/10.1088/1748-0221/17/02/P02022
-nsf-par:
+nsf-par: 10317516
 code: 
 publication-date: 2022-02-11
 bib-tex: |

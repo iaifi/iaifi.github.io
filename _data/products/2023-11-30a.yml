@@ -6,7 +6,7 @@ abstract: "To maximize the discovery potential of high-energy colliders, experim
 arxiv: "2312.00119"
 journal: "Physical Review D, Volume 110, Issue 5, 1 September 2024"
 doi: https://doi.org/10.1103/PhysRevD.110.055012
-nsf-par:
+nsf-par: 10555695
 code: https://github.com/ r- wynne/FORCE
 publication-date: 2024-09-09
 bib-tex: |

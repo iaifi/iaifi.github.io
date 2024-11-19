@@ -6,7 +6,7 @@ abstract: 'Many machine learning applications involve learning a latent represen
 arxiv: "2403.08854"
 journal: "Physical Review D, Volume 110, Issue 7, 1 October 2024"
 doi: https://doi.org/10.1103/PhysRevD.110.074020
-nsf-par:
+nsf-par: 10555707
 code: https://github.com/rikab/MomentAnalysis
 publication-date: 2024-10-15
 bib-tex: |

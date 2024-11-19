@@ -6,7 +6,7 @@ abstract: 'Probabilistic machine learning utilizes controllable sources of rando
 arxiv: "2403.04731"
 journal: Nature Communications, 2024, Volume 15, Article number 7760
 doi: http://dx.doi.org/10.1038/s41467-024-51509-0
-nsf-par:
+nsf-par: 10555705
 code: 
 publication-date: 2024-09-05
 bib-tex: |

@@ -6,7 +6,7 @@ abstract: "Signal detection is one of the main challenges of data science. As it
 arxiv: "2310.07499"
 journal: "Journal of Statistical Mechanics: Theory and Experiment, Volume 2024"
 doi: "https://doi.org/10.1088/1742-5468/ad5c5c"
-nsf-par:
+nsf-par: 10555691
 code:
 publication-date: 2024-08-02
 bib-tex: |

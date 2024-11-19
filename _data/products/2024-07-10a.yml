@@ -6,7 +6,7 @@ abstract: "We present the most comprehensive catalog to date of Type I Superlumi
 arxiv: "2407.07946"
 journal: "Monthly Notices of the Royal Astronomical Society, 2024"
 doi: https://doi.org/10.1093/mnras/stae2270
-nsf-par:
+nsf-par: 10555732
 code: https://github.com/gmzsebastian/SLSNe
 publication-date: 2024-10-03
 bib-tex: |

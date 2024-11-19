@@ -6,7 +6,7 @@ abstract: 'Ab-initio simulations of multiple heavy quarks propagating in a Quark
 arxiv: "2402.06607"
 journal: "Journal of High Energy Physics, Volume 2024, Article Number 211"
 doi: https://doi.org/10.1007/JHEP06%282024%29211
-nsf-par:
+nsf-par: 10555698
 code:
 publication-date: 2024-06-28
 bib-tex: |

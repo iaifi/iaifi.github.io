@@ -6,7 +6,7 @@ abstract: 'Evaluating the accuracy and calibration of the redshift posteriors pr
 arxiv: "2405.04740"
 journal: "The Astronomical Journal, 2024, Volume 168, Number 2"
 doi: http://dx.doi.org/10.3847/1538-3881/ad54bf
-nsf-par:
+nsf-par: 10555727
 code: https://github.com/jfcrenshaw/pzflow
 publication-date: 2024-07-23
 bib-tex: |
