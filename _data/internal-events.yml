@@ -10,6 +10,8 @@
   talk-zoom:
   event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/NzlkaW83dXNtbTZobTg1OTA2YW9zbmdsbmxfMjAyNDExMDVUMjIwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
+  rsvp-link:
+  more-info-link:
   
 - type: "industry-lunch"
   event-name: "Industry Lunch with Bryan Ostdiek (Microsoft)"
@@ -24,6 +26,8 @@
   event-details: Bryan, a former Harvard postdoc (and IAIFI Junior Investigator) who is now a Senior Data Scientist at Microsoft, will discuss his career trajectory and experience in industry. Lunch and snacks will be provided.
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNDExMDhUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
   attendance: 13 in person, 3 virtual
+  rsvp-link: https://app.smartsheet.com/b/form/05d6cbfd9c6446de810be501e1998baf
+  more-info-link:
   
 - type: "social"
   event-name: "IAIFI Fall 2024 Social"
@@ -38,6 +42,8 @@
   event-details: Details to come
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGU0M29mZGtnaGlpcWhxaHU1ZTkwYmJkYXUgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   attendance: 40 in person
+  rsvp-link:
+  more-info-link: https://www.shybird.com
   
 - type: "industry-lunch"
   event-name: "Industry Lunch with Steven Eulig (Merck Electronics)"
@@ -51,7 +57,9 @@
   talk-zoom:
   event-details: Details to come
   calendar-link:
-
+  rsvp-link:
+  more-info-link:
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building and Inclusion"
@@ -64,7 +72,9 @@
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDEwMjlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
-
+  rsvp-link:
+  more-info-link:
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building and Inclusion"
@@ -77,7 +87,9 @@
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDExMDVUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
-
+  rsvp-link:
+  more-info-link:
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building and Inclusion"
@@ -90,7 +102,9 @@
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDExMTJUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
-
+  rsvp-link:
+  more-info-link:
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building and Inclusion"
@@ -103,7 +117,9 @@
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDExMTlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
-
+  rsvp-link:
+  more-info-link:
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building and Inclusion"
@@ -116,7 +132,9 @@
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDExMjZUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
-
+  rsvp-link:
+  more-info-link:
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building and Inclusion"
@@ -129,7 +147,41 @@
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDEyMDNUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
-
+  rsvp-link:
+  more-info-link:
+  
+  - type: "industry-lunch"
+  event-name: "Industry Lunch with Shankar Krishnan (Product Management Leader, AWS)"
+  event-committee: "Industry Partnership"
+  event-post-date: "2024-11-19"
+  talk-date: "2024-12-06"
+  talk-date-time: "December 6, 2024"
+  start-date-time: "2024-12-06 12:30"
+  end-date-time: "2024-12-06 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: Details to come
+  calendar-link:
+  rsvp-link:
+  more-info-link:
+  rsvp-link:
+  more-info-link:
+  
+  - type: "social"
+  event-name: "IAIFI Holiday Game and Crafts Night"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2024-11-19"
+  talk-date: "2024-12-06"
+  talk-date-time: "December 6, 2024"
+  start-date-time: "2024-12-06 17:00"
+  end-date-time: "2024-12-06 19:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "There will be pizza, salad, and snacks provided, as well as holiday-themed crafts. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzlkaW83dXNtbTZobTg1OTA2YW9zbmdsbmxfMjAyNDEyMDNUMjIwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building and Inclusion"
@@ -142,7 +194,9 @@
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDEyMTBUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com&scp=ALL
-
+  rsvp-link:
+  more-info-link:
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building and Inclusion"
@@ -155,3 +209,5 @@
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNDEyMTdUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh
+  rsvp-link:
+  more-info-link:

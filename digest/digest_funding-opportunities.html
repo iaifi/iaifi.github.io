@@ -1,0 +1,20 @@
+<!-- Funding Opportunities -->
+{% assign now = 'now' | date: '%s' | plus: 0 %}
+{% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
+{% assign week_duration_in_seconds = 7 | times: 60 | times: 60 | times: 24 %}
+{% assign digest_start_in_seconds = digest_date | date: "%s" | plus: 0 %}
+{% assign digest_end_in_seconds = digest_start_in_seconds | plus: week_duration_in_seconds %}
+{% assign digest_next_in_seconds = digest_end_in_seconds | plus: week_duration_in_seconds %}
+{% assign digest_past_in_seconds = digest_start_in_seconds | minus: week_duration_in_seconds %}
+
+## New [Funding Opportunities](https://iaifi.org/funding-opportunities.html)
+ 
+{% assign opportunities = site.data.funding | sort | reverse %}
+{% for opportunity in opportunities %}
+  {% assign deadline-date = opportunity.deadline | date: '%s' | plus: 0 %}
+  {% assign opportunity-date = opportunity.post-date | date: '%s' | plus: 0 %}
+  {% unless opportunity-date >= digest_past_in_seconds and opportunity-date < digest_start_in_seconds %}{% continue %}{% endunless %}
+***{{opportunity.title}}*** <br>
+*{{opportunity.funder}}* <br>
+{%if opportunity.deadline %} Deadline: {{opportunity.deadline}} | {% endif %} [More Details]({{opportunity.link}}) <br>
+{% endfor %}
