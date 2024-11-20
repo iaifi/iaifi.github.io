@@ -1,13 +1,20 @@
 <!-- Papers -->
-## New [IAIFI Papers](https://iaifi.org/papers)
 
-{% assign digest_past_in_seconds = digest_date_in_seconds | minus: week_duration_in_seconds %}
+{% assign now = 'now' | date: '%s' | plus: 0 %}
+{% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
+{% assign week_duration_in_seconds = 7 | times: 60 | times: 60 | times: 24 %}
+{% assign digest_start_in_seconds = digest_date | date: "%s" | plus: 0 %}
+{% assign digest_end_in_seconds = digest_start_in_seconds | plus: week_duration_in_seconds %}
+{% assign digest_next_in_seconds = digest_end_in_seconds | plus: week_duration_in_seconds %}
+{% assign digest_past_in_seconds = digest_start_in_seconds | minus: week_duration_in_seconds %}
+
+## New [IAIFI Papers](https://iaifi.org/papers)
 
 {% assign products = site.data.products | sort | reverse %}
 {% for product in products %}
 {% assign paper = product %}
 {% assign paper-date = paper.arxiv-date | date: '%s' | plus: 0 %}
-{% unless paper-date < digest_date_in_seconds and paper-date >= digest_past_in_seconds%}{% continue %}{% endunless %}
+{% unless paper-date < digest_start_in_seconds and paper-date >= digest_past_in_seconds%}{% continue %}{% endunless %}
 {% if paper.type == "paper" %}
 ***[{{paper.title}}](https://arxiv.org/abs/{{paper.arxiv}})*** <br>
 {{paper.authors}} <br>
