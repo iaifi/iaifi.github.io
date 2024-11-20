@@ -26,6 +26,8 @@ aside:
   {% unless talk-date < now %}{% continue %}{% endunless %}
 
   {% if talk.type == "social" %}
+  {% unless talk.event-name == "Weekly Coffee Hour" %}
   {% include internal-event_item.html talk=talk %}
+  {% endunless %}
   {% endif %}
 {% endfor %}
