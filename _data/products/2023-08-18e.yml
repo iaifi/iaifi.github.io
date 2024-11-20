@@ -6,7 +6,7 @@ abstract: 'An important element of the S-matrix bootstrap program is the relatio
 arxiv: "2308.09451"
 journal: "Journal of High Energy Physics, Volume 2024, Article 200"
 doi: https://doi.org/10.1007/JHEP05(2024)200
-nsf-par:
+nsf-par: 10555690
 code: https://github.com/aureliendersy/S-Matrix-Bootstrap
 publication-date: 2024-05-16
 bib-tex: |

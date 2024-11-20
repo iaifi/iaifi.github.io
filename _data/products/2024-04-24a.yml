@@ -7,7 +7,7 @@ abstract: "X-space schemes are gauge-invariant, regulator-independent renormaliz
 arxiv: "2404.16191"
 journal: "Journal of High Energy Physics, Volume 2024, article number 188"
 doi: https://doi.org/10.1007/JHEP07(2024)188
-nsf-par:
+nsf-par: 10555724
 code:
 publication-date: 2024-07-22
 bib-tex: |

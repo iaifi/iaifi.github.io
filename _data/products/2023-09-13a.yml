@@ -6,7 +6,7 @@ abstract: "We present the Keck Infrared Transient Survey (KITS), a NASA Key Stra
 arxiv: "2309.07102"
 journal: "Publications of the Astronomical Society of the Pacific, Volume 136, Number 1, 2024"
 doi: https://doi.org/10.1088/1538-3873/ad1b39
-nsf-par:
+nsf-par: 10542373
 code:
 publication-date: 2024-01-23
 bib-tex: |

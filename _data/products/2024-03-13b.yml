@@ -6,7 +6,7 @@ abstract: 'We present PAPERCLIP (Proposal Abstracts Provide an Effective Represe
 arxiv: "2403.08851"
 journal: "COLM 2024"
 doi: https://openreview.net/forum?id=8TdcXwfNRB
-nsf-par:
+nsf-par: 10555738
 code: https://www.github.com/smsharma/PAPERCLIP-Hubble
 publication-date: 2024-07-10
 bib-tex: |

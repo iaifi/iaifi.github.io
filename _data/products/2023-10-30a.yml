@@ -6,6 +6,7 @@ abstract: "We develop a theory of flows in the space of Riemannian metrics induc
 arxiv: "2310.19870"
 journal: "Machine Learning: Science and Technology, 2024, Volume 5, Number 4"
 doi: https://doi.org/10.1088/2632-2153/ad8533
+nsf-par: 10555692
 code:
 publication-date: 2024-10-23
 bib-tex: |

@@ -6,7 +6,7 @@ abstract: 'The mass assembly history (MAH) of dark matter halos plays a crucial 
 arxiv: "2308.05145"
 journal: "Monthly Notices of the Royal Astronomical Society, 2024, Volume 533, Issue 3"
 doi: https://doi.org/10.1093/mnras/stae2001
-nsf-par:
+nsf-par: 10555689
 code: https://github.com/trivnguyen/florah
 publication-date: 2024-08-23
 bib-tex: |

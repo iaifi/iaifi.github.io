@@ -6,8 +6,8 @@ abstract: "It has been an open question in deep learning if fault-tolerant compu
 arxiv: "2202.12887"
 journal: "Physical Review E, 2024, Volume 110, Issue 5"
 doi: https://doi.org/10.1103/PhysRevE.110.054303
-nsf-par:
-code: 
+nsf-par: 10555682
+code:
 publication-date: 2024-11-05
 bib-tex: |
   @misc{zlokapa2024faulttolerantneuralnetworksbiological,

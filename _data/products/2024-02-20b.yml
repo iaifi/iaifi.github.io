@@ -6,7 +6,7 @@ abstract: 'We present an efficient approach to set informative physically motiva
 arxiv: "2402.13310"
 journal: "Physical Review D, 2024, Volume 110, Issue 6"
 doi: "http://dx.doi.org/10.1103/PhysRevD.110.063538"
-nsf-par:
+nsf-par: 10555699
 code: https:// github.com/smsharma/eft-hod
 publication-date: 2024-09-18
 bib-tex: |

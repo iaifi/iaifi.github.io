@@ -6,7 +6,7 @@ abstract: "Optical metasurfaces composed of precisely engineered nanostructures 
 arxiv: "2307.08106"
 journal: "IEEE International Conference on Computational Photography (ICCP), 2023"
 doi: https://doi.org/10.1109/ICCP56744.2023.10233735
-nsf-par:
+nsf-par: 10524760
 code: https://deanhazineh.github.io/publications/Multi Image Synthesis/MIS Home.html
 publication-date: 2024-09-04
 bib-tex: |

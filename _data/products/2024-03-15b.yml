@@ -6,7 +6,7 @@ abstract: 'Galaxies are biased tracers of the underlying cosmic web, which is do
 arxiv: "2403.10648"
 journal: "The Astrophysical Journal, 2024, Volume 970, Number 2"
 doi: http://dx.doi.org/10.3847/1538-4357/ad5957
-nsf-par:
+nsf-par: 10555713
 code: https://github.com/victoriaono/variational-diffusion-cdm
 publication-date: 2024-07-30
 bib-tex: |

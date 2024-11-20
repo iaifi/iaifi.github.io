@@ -6,7 +6,7 @@ abstract: "Infrared and collinear (IRC) safety has long been used a proxy for ro
 arxiv: "2311.07652"
 journal: "Physical Review D, 2024, Volume 110, Issue 1"
 doi: https://doi.org/10.1103/PhysRevD.110.014029
-nsf-par:
+nsf-par: 10532075
 code: 
 publication-date: 2024-07-01
 bib-tex: |
