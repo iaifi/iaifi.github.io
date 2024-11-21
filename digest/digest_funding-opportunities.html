@@ -19,7 +19,7 @@
   {% assign opportunity-date = opportunity.post-date | date: '%s' | plus: 0 %}
   {% unless opportunity-date >= digest_past_in_seconds and opportunity-date < digest_start_in_seconds %}{% continue %}{% endunless %}
 {% assign new_opportunities = true %}
-    ***{{opportunity.title}}*** <br>
+***{{opportunity.title}}*** <br>
 *{{opportunity.funder}}* <br>
 {%if opportunity.deadline %} Deadline: {{opportunity.deadline}} | {% endif %} [More Details]({{opportunity.link}}) <br>
 {% endfor %}
