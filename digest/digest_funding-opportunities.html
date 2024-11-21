@@ -10,11 +10,18 @@
 ## New [Funding Opportunities](https://iaifi.org/funding-opportunities.html)
  
 {% assign opportunities = site.data.funding | sort | reverse %}
+{% assign new_opportunities = false %}
+
+
+
 {% for opportunity in opportunities %}
   {% assign deadline-date = opportunity.deadline | date: '%s' | plus: 0 %}
   {% assign opportunity-date = opportunity.post-date | date: '%s' | plus: 0 %}
   {% unless opportunity-date >= digest_past_in_seconds and opportunity-date < digest_start_in_seconds %}{% continue %}{% endunless %}
-***{{opportunity.title}}*** <br>
+{% assign new_opportunities = true %}
+    ***{{opportunity.title}}*** <br>
 *{{opportunity.funder}}* <br>
 {%if opportunity.deadline %} Deadline: {{opportunity.deadline}} | {% endif %} [More Details]({{opportunity.link}}) <br>
 {% endfor %}
+
+{% unless new_opportunities %}*No new funding opportunities this week.*{% endunless %}
