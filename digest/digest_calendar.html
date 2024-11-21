@@ -92,11 +92,12 @@ If you have any accessibility needs, please reach out to [iaifi-accessibility@mi
 {% endfor %}
 
 
-<!-- Future Events -->
+<!-- Past Events -->
 ## In Case You Missed It
 
 {% for talk in event_list %}
 {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
+ {% if site.data.talk-categories[talk.type].hide_on_past %}{% continue %}{% endif %}
  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
  {% unless talk-date < digest_start_in_seconds and talk-date >= digest_past_in_seconds%}{% continue %}{% endunless %}
  {% include_relative digest_event_item.html talk=talk is_last_week=true anchor=this_anchor %}

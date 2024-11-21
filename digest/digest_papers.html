@@ -11,12 +11,19 @@
 ## New [IAIFI Papers](https://iaifi.org/papers)
 
 {% assign products = site.data.products | sort | reverse %}
+{% assign new_papers = false %}
+
+
 {% for product in products %}
 {% assign paper = product %}
 {% assign paper-date = paper.arxiv-date | date: '%s' | plus: 0 %}
 {% unless paper-date < digest_start_in_seconds and paper-date >= digest_past_in_seconds%}{% continue %}{% endunless %}
 {% if paper.type == "paper" %}
+{% assign new_papers = true %}
 ***[{{paper.title}}](https://arxiv.org/abs/{{paper.arxiv}})*** <br>
 {{paper.authors}} <br>
 {% endif %}
 {% endfor %}
+
+
+{% unless new_papers %}*No new IAIFI papers this week.*{% endunless %}

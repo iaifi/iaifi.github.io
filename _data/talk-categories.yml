@@ -32,6 +32,7 @@ social:
   name: "IAIFI Social Event"
   zoom:
   button_type: button--secondary
+  hide_on_past: true
 
 other:
   name: "Other Internal Events"
