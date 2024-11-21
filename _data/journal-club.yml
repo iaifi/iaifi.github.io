@@ -153,11 +153,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Opportunities for QFT and optimization methods in superconducting quantum devices"
   talk-abstract: "I will present recent work applying methods form quantum field theory and numerical optimization to superconducting quantum devices. I will argue that tools more typically used in particle physics - Feynman diagrams, path integrals, and quantum field theory - are useful for making better qubits."
-  slides-link: https://iaifi.org/
+  slides-link: "https://drive.google.com/file/d/1HFvKXF1vSnmYWSg4lTG4_AQQuT8ZlUJa/view?usp=drive_link"
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
+  speaker-thrust: "physics theory"
+  speaker-gender: "Man"
+  talk-attendance: 6 in person, 1 virtual
   
 - type: "journal-club"
   semester: "fall-2024"
@@ -173,6 +173,26 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Title to come"
   talk-abstract: "Abstract to come"
+  slides-link: https://iaifi.org/
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "journal-club"
+  semester: "fall-2024"
+  speaker-name: Ibrahim Elsharkawy
+  speaker-title: Physics PhD Candidate
+  speaker-affiliation: UIUC
+  speaker-website: https://www.linkedin.com/in/ibrahim-elsharkawy-0693ab177/
+  speaker-photo-location:
+  talk-date: "2024-12-03"
+  talk-date-time: "Tuesday, December 3, 2024, 1:00 pm–2:00 pm"
+  start-date-time: "2024-12-03 13:00"
+  end-date-time: "2024-12-03 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Uncertainty Quantification from Scaling Laws in Deep Neural Networks"
+  talk-abstract: "Deep Learning algorithms, such as Neural Networks, have revolutionized function approximation tasks. However, it is not clear how to quantify neural-network-induced uncertainty on predictions as a function of network architecture, training algorithm, and initialization. We propose, in conjugation with infinite-width networks, to exploit scaling laws - an apparently ubiquitous phenomenon in deep learning where test loss follows a power with some task-dependent scaling exponent. We find a potential and exciting “invariant” in Neural Network Ensemble statistics in both infinite-width and finite-width networks which may be directly useful for Uncertainty Quantification."
   slides-link: https://iaifi.org/
   youtube-link:
   speaker-thrust: ""
