@@ -171,8 +171,8 @@
   start-date-time: "2024-11-26 13:00"
   end-date-time: "2024-11-26 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abstract to come"
+  talk-title: "Learning Theory-Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy"
+  talk-abstract: "Cosmological models are often formulated in the language of particle physics, using quantities like the axion decay constant, but tested against data using physical quantities such as energy density ratios, with uniform priors assumed on these quantities. This standard approach overlooks important theory-driven priors, including constraints from fundamental physics, like particle physics and string theory, which often favor sub-Planckian axion decay constants. In this talk, I will present a novel method for learning theory-informed priors for Bayesian inference using normalizing flows (NF), a flexible generative machine learning technique. NFs allows us to generate priors on model parameters in cases where analytic expressions are unavailable or difficult to compute. I'll demonstrate this technique with an application to early dark energy (EDE), a model that has gained attention in the context of the Hubble tension. First, I’ll validate our NF-based approach using the limited theory-based constraints available for EDE, and then, leveraging the computational efficiency of NFs, I'll showcase how we achieve some of the most stringent constraints on EDE when incorporating large-scale structure likelihoods. This talk will highlight the versatility of NFs in Bayesian inference in cosmology (and beyond) and how NFs and other generative machine learning techniques can help bridge the gap between theoretical models and data analysis."
   slides-link: https://iaifi.org/
   youtube-link:
   speaker-thrust: ""
@@ -210,26 +210,6 @@
   talk-date-time: "Tuesday, December 10, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-12-10 13:00"
   end-date-time: "2024-12-10 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abstract to come"
-  slides-link: https://iaifi.org/
-  youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
-  
-- type: "journal-club"
-  semester: "fall-2024"
-  speaker-name: Aishik Ghosh
-  speaker-title: Postdoc
-  speaker-affiliation: University of California Irvine
-  speaker-website: https://www.physics.uci.edu/node/14155
-  speaker-photo-location:
-  talk-date: "2024-12-17"
-  talk-date-time: "Tuesday, December 17, 2024, 1:00 pm–2:00 pm"
-  start-date-time: "2024-12-17 13:00"
-  end-date-time: "2024-12-17 14:00"
   talk-location: "IAIFI Penthouse"
   talk-title: "Title to come"
   talk-abstract: "Abstract to come"
