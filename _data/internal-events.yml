@@ -46,6 +46,21 @@
   more-info-link: https://www.shybird.com
   
 - type: "industry-lunch"
+  event-name: "Industry Lunch with Shankar Krishnan (Amazon Web Services)"
+  event-committee: "Industry Partnership"
+  event-post-date: "2024-11-24"
+  talk-date: "2024-12-06"
+  talk-date-time: "December 6, 2024"
+  start-date-time: "2025-12-06 12:30"
+  end-date-time: "2025-12-06 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
+  event-details: "Shankar, who has over 15 years of experience in AI and machine learning, is currently leading the development of generative AI products at AWS, with a focus on conversational analytics. During the lunch, he will discuss his career trajectory and experience in industry."
+  calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/NzBqc3NxbGJ1dWhicGRrdDhlcjVwYjF2a3AgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw
+  rsvp-link:
+  more-info-link:
+
+- type: "industry-lunch"
   event-name: "Industry Lunch with Steven Eulig (Merck Electronics)"
   event-committee: "Industry Partnership"
   event-post-date: "2024-10-28"
