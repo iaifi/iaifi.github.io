@@ -173,11 +173,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Learning Theory-Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy"
   talk-abstract: "Cosmological models are often formulated in the language of particle physics, using quantities like the axion decay constant, but tested against data using physical quantities such as energy density ratios, with uniform priors assumed on these quantities. This standard approach overlooks important theory-driven priors, including constraints from fundamental physics, like particle physics and string theory, which often favor sub-Planckian axion decay constants. In this talk, I will present a novel method for learning theory-informed priors for Bayesian inference using normalizing flows (NF), a flexible generative machine learning technique. NFs allows us to generate priors on model parameters in cases where analytic expressions are unavailable or difficult to compute. I'll demonstrate this technique with an application to early dark energy (EDE), a model that has gained attention in the context of the Hubble tension. First, I’ll validate our NF-based approach using the limited theory-based constraints available for EDE, and then, leveraging the computational efficiency of NFs, I'll showcase how we achieve some of the most stringent constraints on EDE when incorporating large-scale structure likelihoods. This talk will highlight the versatility of NFs in Bayesian inference in cosmology (and beyond) and how NFs and other generative machine learning techniques can help bridge the gap between theoretical models and data analysis."
-  slides-link: https://iaifi.org/
+  slides-link: "https://drive.google.com/file/d/14Lf2VIyF_Y6ViaL5G0xADEtaajM596Uo/view?usp=drive_link"
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
+  speaker-thrust: "physics theory"
+  speaker-gender: "man"
+  talk-attendance: 10 in person, 1 virtual
   
 - type: "journal-club"
   semester: "fall-2024"
@@ -192,7 +192,7 @@
   end-date-time: "2024-12-03 14:00"
   talk-location: "IAIFI Penthouse"
   talk-title: "Uncertainty Quantification from Scaling Laws in Deep Neural Networks"
-  talk-abstract: "Deep Learning algorithms, such as Neural Networks, have revolutionized function approximation tasks. However, it is not clear how to quantify neural-network-induced uncertainty on predictions as a function of network architecture, training algorithm, and initialization. We propose, in conjugation with infinite-width networks, to exploit scaling laws - an apparently ubiquitous phenomenon in deep learning where test loss follows a power with some task-dependent scaling exponent. We find a potential and exciting “invariant” in Neural Network Ensemble statistics in both infinite-width and finite-width networks which may be directly useful for Uncertainty Quantification."
+  talk-abstract: "Deep Learning algorithms, such as Neural Networks, have revolutionized function approximation tasks. However, it is not clear how to quantify neural-network-induced uncertainty on predictions as a function of network architecture, training algorithm, and initialization. We propose, in conjugation with infinite-width networks, to exploit scaling laws - an apparently ubiquitous phenomenon in deep learning where the test loss of a Neural Network  (with a task-dependent scaling exponent) follows a power law with training set size. We find a potential and exciting “invariant” in Neural Network Ensemble statistics in both infinite-width and finite-width networks which may be directly useful for Uncertainty Quantification."
   slides-link: https://iaifi.org/
   youtube-link:
   speaker-thrust: ""
