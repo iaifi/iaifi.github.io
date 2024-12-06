@@ -193,11 +193,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Uncertainty Quantification from Scaling Laws in Deep Neural Networks"
   talk-abstract: "Deep Learning algorithms, such as Neural Networks, have revolutionized function approximation tasks. However, it is not clear how to quantify neural-network-induced uncertainty on predictions as a function of network architecture, training algorithm, and initialization. We propose, in conjugation with infinite-width networks, to exploit scaling laws - an apparently ubiquitous phenomenon in deep learning where the test loss of a Neural Network  (with a task-dependent scaling exponent) follows a power law with training set size. We find a potential and exciting “invariant” in Neural Network Ensemble statistics in both infinite-width and finite-width networks which may be directly useful for Uncertainty Quantification."
-  slides-link: https://iaifi.org/
+  slides-link: "https://drive.google.com/file/d/1NG4c6uPkyuFojfW4kRz1w-TYmVN1JqXk/view?usp=drive_link"
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
+  speaker-thrust: "foundational ai"
+  speaker-gender: "man"
+  talk-attendance: 6 in person, 1 virtual
   
 - type: "journal-club"
   semester: "fall-2024"
