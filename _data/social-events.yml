@@ -1,3 +1,12 @@
+- type: "game-night"
+  event-date: "2024-12-6"
+  event-time: 05:00 pm ET
+  event-date-time: "December 6, 2024, 5:00–6:00 pm"
+  event-location: "IAIFI Penthouse"
+  event-description: "IAIFI hosted a special Holiday edition of our monthly Pizza & Game Night. There was be pizza, salad, and snacks provided, as well as holiday-themed crafts – including DIY snowmen and more."
+  attendance: 7 in person
+  event-rsvp: No RSVP required
+
 - type: "coffee-hour"
   event-date: "2024-06-11"
   event-time: 01:00 pm ET
