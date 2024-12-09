@@ -211,8 +211,8 @@
   start-date-time: "2024-12-10 13:00"
   end-date-time: "2024-12-10 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
-  talk-abstract: "Abstract to come"
+  talk-title: "Product Manifold Machine Learning for Physics"
+  talk-abstract: "Particle jets exhibit tree-like structures through stochastic showering and hadronization. The hierarchical nature of these structures aligns naturally with hyperbolic space, a non-Euclidean geometry that captures hierarchy intrinsically. To leverage the benefits of non-Euclidean geometries we develop jet analysis in product manifold spaces, Cartesian products of constant curvature Riemannian manifolds. We consider particle and jet representations as configurable parameters and compare the performance of neural network and transformer models across several possible particle-level and jet-level representations. We find product manifold representations generally perform equal or better to fully Euclidean models of similar model parameters. These findings reinforce the view of geometric representation as a key parameter in maximizing both performance and efficiency."
   slides-link: https://iaifi.org/
   youtube-link:
   speaker-thrust: ""
