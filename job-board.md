@@ -80,6 +80,27 @@ IAIFI does not have a dedicated PhD program, but PhD students at any of the part
 {% endif %}
 {% endfor %}
 
+## Other Opportunities
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% assign jobs = site.data.jobs | sort | reverse %}
+{% for job in jobs %}
+  {% capture date %}{{job.expire | date: '%s' | plus: 0 }}{% endcapture %}
+  {% if date > now %}
+{% assign iaifi-other = job %}
+{% if job.type == "iaifi-other" %}
+#### {{job.title}}
+*{{job.employer}}* <br>
+{%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
+<div style = "position:relative; top:-1em;" >
+<details>
+<summary>Details</summary>
+<em>{{job.details}}</em>
+</details>
+</div>
+{% endif %}
+{% endif %}
+{% endfor %}
+
 # Academic Opportunities
 
 ## Faculty Opportunities
