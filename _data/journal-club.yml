@@ -213,11 +213,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Product Manifold Machine Learning for Physics"
   talk-abstract: "Physical data are representations of the fundamental laws governing the Universe, hiding complex compositional structures often well captured by hierarchical graphs. Hyperbolic spaces are endowed with a non-Euclidean geometry that naturally embeds those structures. To leverage the benefits of non-Euclidean geometries in representing natural data we develop machine learning on product manifold  spaces, Cartesian products of constant curvature Riemannian manifolds. As a use case we consider the classification of 'jets', sprays of hadrons and other subatomic particles produced by the hadronization of quarks and gluons in collider experiments. We compare the performance of PM-MLP and PM-Transformer models across several possible representations. Our experiments show that product manifold representations generally perform equal or better to fully Euclidean models of similar size, with the most significant gains found for highly hierarchical jets and small models. These results reinforce the view of geometric representation as a key parameter in maximizing both performance and efficiency of machine learning on natural data."
-  slides-link: https://iaifi.org/
+  slides-link: "https://drive.google.com/file/d/1yw0dXs4H_COqeiO-WQg4uSxyQtZmegE0/view?usp=drive_link"
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 0 in person, 0 virtual
+  speaker-thrust: "physics experiment"
+  speaker-gender: "man"
+  talk-attendance: 8 in person, 1 virtual
 
 - type: "journal-club"
   semester: "spring-2024"
