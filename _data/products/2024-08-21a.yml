@@ -6,7 +6,7 @@ abstract: "Motivated by the great success of classical generative models in mach
 arxiv: "2311.12163"
 journal: "Physical Review Research, 2024, Volume 6, Issue 3"
 doi: "https://doi.org/10.1103/PhysRevResearch.6.033198"
-nsf-par:
+nsf-par: "10545201"
 code: 
 publication-date: 2024-08-21
 bib-tex: |
