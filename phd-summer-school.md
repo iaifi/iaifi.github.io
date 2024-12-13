@@ -3,67 +3,62 @@ layout: article
 title: IAIFI Summer School
 ---
 
-***Stay tuned for updates about our 2025 IAIFI Summer School*** [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates.
-{:.info}
-
-<img src="images/phd-summer-school-logo-2024.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
+<img src="images/phd-summer-school-logo-2025.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 
 
-# Summer School 2024
+# Summer School 2025
 
-<img src="images/2023_Summer-School_Group-Photo.jpg" align="right" style="max-width:936px;width:50%" hspace="10" vspace="10"> 
+<img src="images/Summer-School_2024_Group-Photo.jpg" align="right" style="max-width:936px;width:50%" hspace="10" vspace="10"> 
 
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. 
 
-* **August 5–9, 2024**
-* **MIT, Stata Center (32 Vassar Street, Cambridge, MA), Room 155**
+* **August 4–8, 2025**
+* **Harvard, Cambridge, MA**
 
-[Apply](https://app.smartsheet.com/b/form/4d72caf22cd74ce7b771a91ef25dde22){:.button.button--outline-primary.button--pill.button--lg}[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg}[Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
+[Apply](https://app.smartsheet.com/b/form/e8dcb6c8564a45d5a61cb0ecafec2bd4){:.button.button--outline-primary.button--pill.button--lg}[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg}[Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
 
 
 ## About 
-The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The Summer School will include lectures and events that AI + Physics, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice.
+The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The Summer School will include lectures and events that AI + Physics, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice, and a hackathon project provides an opportunity for students to collaborate and apply what they've learned.
 
 ## Apply
 
-**Applications are closed for the 2024 IAIFI Summer School.**
+**[Applications are now open](https://app.smartsheet.com/b/form/e8dcb6c8564a45d5a61cb0ecafec2bd4) for the 2025 IAIFI Summer School. The deadline to apply is February 10, 2025.**
 
 
 ## Accommodations
-Students for the Summer School have the option to reserve dorm rooms (at their own expense) at Boston University. Instructions for this will be provided to students upon acceptance.
+Students for the Summer School have the option to reserve dorm rooms at Harvard University, partially subsidized by IAIFI. Instructions for this will be provided to students upon acceptance.
 
 
 ### Costs
-* There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding. 
+* There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel. 
 * Lunch each day, as well as coffee and snacks at breaks, will be provided during the Summer School, along with at least one dinner during the Summer School. 
 * Students who wish to stay for the [IAIFI Summer Workshop](/summer-workshop.html) will be able to book the same rooms through the weekend and the Workshop if they choose (at their own expense). 
 
 ## Lecturers
 
-<img class="image" src="images/small-photo-melanie-weber.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+Lecturers will be announced as they are confirmed. 
+
+<img class="image" src="images/small-photo-sasha-rakhlin.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+### Topic: Reinforcement Learning
+
+Lecturer: [Sasha Rakhlin](https://www.mit.edu/~rakhlin/), Professor, MIT
+
+### Topic: Robust/Interpretable AI: Scaling Laws
+
+Lecturer: TBA
+
+### Topic: Physics-Motivated Optimization: Simulation Intelligence
+
+Lecturer: TBA
+
 ### Topic: Representation/Manifold Learning
 
-Lecturer: [Melanie Weber](http://melanie-weber.com), Assistant Professor of Applied Mathematics and of Computer Science, Harvard
-
-<img class="image" src="images/small-photo-carolina-cuesta.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
-### Topic: Uncertainty Quantification/Simulation-Based Inference
-
-Lecturer: [Carol Cuesta-Lazaro](https://iaifi.org/current-fellows.html#carolina-cuesta), IAIFI Fellow
-
-<img class="image" src="images/small-photo-cengiz-pehlevan.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
-### Topic: Physics-Motivated Optimization
-
-Lecturer: [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan), Assistant Professor of Applied Mathematics & Kempner Institute Associate Faculty, Harvard
-
-<img class="image" src="images/small-photo-gilles-louppe.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
-### Topic: Generative Models
-
-Lecturer: [Gilles Louppe](https://glouppe.github.io), Professor, University of Liège 
+Lecturer: TBA
 
 ## Tutorial Leads
 
-<img class="image" src="images/small-photo-sokratis-trifinopoulos.jpg" align="right" style="max-width:226px;width:7%" hspace="10" vspace="5"/>
-### Topic: Representation/Manifold Learning
+### Topic: Reinforcement Learning
 
 Tutorial Lead: [Sokratis Trifinopoulos](https://physics.mit.edu/faculty/sokratis-trifinopoulos/) (with [Thomas Harvey](https://inspirehep.net/authors/1851078?ui-citation-summary=true), Incoming IAIFI Fellow)
 
