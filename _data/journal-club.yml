@@ -1,4 +1,25 @@
 - type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Ezequiel Alvarez
+  speaker-title: Professor
+  speaker-affiliation: UNSAM (National University of General San Martín)
+  speaker-website: "https://icas.unsam.edu.ar/personalwebs/personalweb-sequi/"
+  speaker-photo-location:
+  talk-date: "2025-01-31"
+  talk-date-time: "Friday, January 31, 2025, 12:30 pm – 1:30 pm"
+  start-date-time: "2025-01-31 12:30"
+  end-date-time: "2025-01-31 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: "physics theory"
+  speaker-gender: "Man"
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2FzbXJoYWFoNnVwZjFsMjhvbGg0MWViZWkgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+
+- type: "journal-club"
   semester: "fall-2024"
   speaker-name: Rikab Gambhir
   speaker-title: Graduate Student
