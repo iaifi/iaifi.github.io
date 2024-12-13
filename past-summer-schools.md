@@ -3,38 +3,25 @@ layout: article
 title:
 ---
 
+* [Summer School 2024](#summer-school-2024)
 * [Summer School 2023](#summer-school-2023)
 * [Summer School 2022](#summer-school-2022)
 * [FAQ](#faq)
 
 ## Summer School 2024
 
-<img src="images/2023_Summer-School_Group-Photo.jpg" align="right" style="max-width:936px;width:50%" hspace="10" vspace="10"> 
+<img src="images/Summer-School_2024_Group-Photo.jpg" align="right" style="max-width:936px;width:50%" hspace="10" vspace="10"> 
 
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. 
 
 * **August 5–9, 2024**
 * **MIT, Stata Center (32 Vassar Street, Cambridge, MA), Room 155**
 
-[Apply](https://app.smartsheet.com/b/form/4d72caf22cd74ce7b771a91ef25dde22){:.button.button--outline-primary.button--pill.button--lg}[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg}[Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
+[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg}  [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg}
 
 
 ## About 
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The Summer School will include lectures and events that AI + Physics, illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice.
-
-## Apply
-
-**Applications are closed for the 2024 IAIFI Summer School.**
-
-
-## Accommodations
-Students for the Summer School have the option to reserve dorm rooms (at their own expense) at Boston University. Instructions for this will be provided to students upon acceptance.
-
-
-### Costs
-* There is no registration fee for the Summer School. Students for the Summer School are expected to cover the cost of travel and boarding. 
-* Lunch each day, as well as coffee and snacks at breaks, will be provided during the Summer School, along with at least one dinner during the Summer School. 
-* Students who wish to stay for the [IAIFI Summer Workshop](/summer-workshop.html) will be able to book the same rooms through the weekend and the Workshop if they choose (at their own expense). 
 
 ## Lecturers
 
