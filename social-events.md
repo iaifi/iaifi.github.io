@@ -11,8 +11,8 @@ aside:
 ## Upcoming Social Events
 
 {% for talk in talks %}
-  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
-  {% unless talk-date >= now %}{% continue %}{% endunless %}
+  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
+  {% unless start_date_time_in_seconds >= now %}{% continue %}{% endunless %}
 
   {% if talk.type == "social" %}
   {% include internal-event_item.html talk=talk %}
@@ -22,8 +22,8 @@ aside:
 ## Past Social Events
 
 {% for talk in talks %}
-  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
-  {% unless talk-date < now %}{% continue %}{% endunless %}
+  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
+  {% unless start_date_time_in_seconds < now %}{% continue %}{% endunless %}
 
   {% if talk.type == "social" %}
   {% unless talk.event-name == "Weekly Coffee Hour" %}

@@ -11,8 +11,8 @@ aside:
 ## Upcoming Industry Lunches
 
 {% for talk in talks %}
-  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
-  {% unless talk-date >= now %}{% continue %}{% endunless %}
+  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
+  {% unless start_date_time_in_seconds >= now %}{% continue %}{% endunless %}
 
   {% if talk.type == "industry-lunch" %}
   {% include internal-event_item.html talk=talk %}
@@ -22,8 +22,8 @@ aside:
 ## Past Industry Lunches
 
 {% for talk in talks %}
-  {% assign talk-date = talk.talk-date | date: '%s' | plus: 0 %}
-  {% unless talk-date < now %}{% continue %}{% endunless %}
+  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
+  {% unless start_date_time_in_seconds < now %}{% continue %}{% endunless %}
 
   {% if talk.type == "industry-lunch" %}
   {% include internal-event_item.html talk=talk %}
