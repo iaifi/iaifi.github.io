@@ -6,10 +6,8 @@ title: IAIFI Fellows
 
 ## Call for Applications for 2025-2028 IAIFI Fellows
 
-<!---
-**Applications are now closed for the fourth round of the IAIFI Fellowship search. [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to stay up to date on future postings.**
+**Applications are now closed for the fifth round of the IAIFI Fellowship search. [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to stay up to date on future postings.**
 {:.info}
---->
 
 [Apply to be an IAIFI Fellow](https://academicjobsonline.org/ajo/jobs/27839){:.button.button--outline-primary.button--pill.button--lg} 
 
