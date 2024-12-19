@@ -3,6 +3,7 @@
 {% assign is_this_week = include.is_this_week %}
 {% assign is_next_week = include.is_next_week %}
 {% assign is_last_week = include.is_last_week %}
+{% assign is_future = include.is_future %}
 
 <!-- Determining zoom link-->
 {% assign zoom_link = %}
@@ -17,6 +18,8 @@
 ### This {{talk.start-date-time | date: "%A"}} at {{talk.start-date-time | date: "%l:%M%P"}}:  {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
 {% elsif is_next_week %}
 ### Next {{talk.start-date-time | date: "%A"}}:  {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
+{% elsif is_future %}
+### {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
 {% elsif is_last_week %}
 ### {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
 {% endif %}
@@ -32,7 +35,7 @@
 {%- if talk.talk-title %}
   * **{{talk.talk-title}}**
 {%- endif -%}
-{%- if is_this_week or is_next_week %}
+{%- if is_this_week or is_next_week or is_future %}
   * **{{talk.start-date-time | date: "%A, %B %e, %Y"}}**, **{{talk.start-date-time | date: "%l:%M%P" | strip}}–{{talk.end-date-time | date: "%l:%M%P" | strip}}**, **{{talk.talk-location}}**
 {%- endif -%}
 {%- if talk.talk-abstract and (is_this_week or is_next_week) %}
@@ -42,7 +45,7 @@
   * {{talk.event-details}}
 {%- endif -%}
 <br>
-{%- if is_this_week or is_next_week %}
+{%- if is_this_week or is_next_week or is_future %}
   {% if talk.rsvp-link %}[RSVP/Sign Up]({{talk.rsvp-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if zoom_link %}[Join on Zoom]({{zoom_link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} [Add to Calendar]({{talk.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% if talk.more-info-link %}[More Details]({{talk.more-info-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
 {%- endif -%}
 {%- if is_last_week and (talk.slides-link or youtube-link) %}
