@@ -305,3 +305,16 @@
   talk-zoom:
   event-details: "IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer); IAIFI-sponsored"
   calendar-link:
+  
+- type: "workshop"
+  event-name: "Frontiers in NeuroAI - Kempner Institute Symposium"
+  event-organizer: "Kemptner Institute"
+  event-website: "https://kempnerinstitute.harvard.edu/frontiers-in-neuroai/"
+  event-post-date: "2024-12-23"
+  talk-date-time: "June 5-6, 2025"
+  start-date-time: "2025-06-05 9:00"
+  end-date-time: "2025-06-06 17:00"
+  talk-location: "Allston, MA (with option for virtual attendance)"
+  talk-zoom:
+  event-details: "Frontiers in NeuroAI is a two-day symposium, open to the public, exploring key topics in the rapidly-advancing field of NeuroAI, including:<br><br>- How natural and artificial systems learn, and how these processes are similar or different across systems.<br>- The implications of rapid progress in machine learning on understanding neural processes, the nature of intelligence, and human cognitive abilities.<br>- Innovations that are pushing forward the reasoning and generative capabilities of AI systems.<br><br>The symposium will feature presentations from cutting-edge experts from neuroscience and AI as they discuss advances in learning across both fields."
+  calendar-link:

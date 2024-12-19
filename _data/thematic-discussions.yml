@@ -16,8 +16,8 @@
   youtube-link:
   speaker-thrust:
   speaker-gender:
-  talk-attendance-in-person:
-  talk-attendance-virtual:
+  talk-attendance-in-person: 1
+  talk-attendance-virtual: 4
   
 - type: "thematic-discussion"
   semester: "fall-2024"
