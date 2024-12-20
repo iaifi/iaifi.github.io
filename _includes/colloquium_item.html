@@ -9,4 +9,4 @@
     * **{{talk.start-date-time | date: "%A, %B %e, %Y"}}, {{talk.start-date-time | date: "%l:%M%P"}}–{{talk.end-date-time | date: "%l:%M%P" | strip}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
 {% if talk.talk-abstract %}    * {{talk.talk-abstract}}{% endif %}
-{% if is_previous %}    * {% if talk.youtube-link and talk.slides-link %}<a href="{{talk.youtube-link}}">YouTube Recording</a> &#124; <a href="{{talk.slides-link}}">Talk Slides</a>{% elsif talk.youtube-link %}<a href="{{talk.youtube-link}}">YouTube Recording</a>{% elsif talk.slides-link %}<a href="{{talk.slides-link}}">Talk Slides</a>{% else %}Slides and recording not available.{% endif %}{% endif %}
+{% if is_previous %}    * {% if talk.youtube-link and talk.slides-link %}<a href="{{talk.youtube-link}}">YouTube Recording</a> &#124; <a href="https://iaifi.org/{{talk.slides-link}}">Talk Slides</a>{% elsif talk.youtube-link %}<a href="{{talk.youtube-link}}">YouTube Recording</a>{% elsif talk.slides-link %}<a href="{{talk.slides-link}}">Talk Slides</a>{% else %}Slides and recording not available.{% endif %}{% endif %}
