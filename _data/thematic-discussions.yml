@@ -1,26 +1,5 @@
 - type: "thematic-discussion"
   semester: "fall-2024"
-  speaker-names-affiliations: "Led by IAIFI Computing Committee"
-  speaker-title: "iaifi-compute@mit.edu"
-  speaker-affiliation:
-  speaker-website:
-  speaker-photo-location:
-  talk-date: "2024-12-17"
-  talk-date-time: "Tuesday, December 17, 2024, 11:00am–12:00 pm"
-  start-date-time: "2024-12-17 11:00"
-  end-date-time: "2024-12-17 12:00"
-  talk-location: "IAIFI Penthouse, 26-648"
-  talk-title: "IAIFI NAIRR Info/Brainstorming Session"
-  talk-abstract: "As previously shared, the IAIFI Computing Committee would like to explore whether there is an opportunity to put together an IAIFI group proposal for the [National AI Research Resource (NAIRR) pilot](https://nairrpilot.org). To that end, the Computing Committee will be holding an informational and brainstorming session to discuss what resources are available and come up with possible ideas for a proposal. Please attend if you are interested in exploring additional options for computing resources beyond the IAIFI resources."
-  slides-link:
-  youtube-link:
-  speaker-thrust:
-  speaker-gender:
-  talk-attendance-in-person: 1
-  talk-attendance-virtual: 4
-  
-- type: "thematic-discussion"
-  semester: "fall-2024"
   speaker-names-affiliations: "Led by Alex Gagliano and Sam Bright-Thonney (IAIFI Fellows)"
   speaker-title: "Postdoctoral Fellows"
   speaker-affiliation: IAIFI

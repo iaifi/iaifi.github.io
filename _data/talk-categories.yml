@@ -34,7 +34,7 @@ social:
   button_type: button--secondary
   hide_on_past: true
 
-other:
+internal-other:
   name: "Other Internal Events"
   zoom:
   button_type: button--outline-primary
