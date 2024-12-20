@@ -87,32 +87,58 @@ Click on the calendar items to see event details.
 
 If you have any accessibility needs, please reach out to [iaifi-accessibility@mit.edu](mailto:iaifi-accessibility@mit.edu).
 
+{% assign events_this_week = '' %}
 {% for talk in event_list %}
  {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
  {% unless start_date_time_in_seconds >= digest_start_in_seconds and start_date_time_in_seconds < digest_end_in_seconds %}{% continue %}{% endunless %}
+  {% assign events_this_week = 'true' %} <!-- Mark that there is at least one event -->
  {% include_relative digest_event_item.html talk=talk is_this_week=true anchor=this_anchor %}
 {% endfor %}
 
+{% if events_this_week == '' %} *No events this week.* {% endif %}
 
 <!-- Next week -->
 ## Upcoming Events
 
+{% assign events_next_week = '' %}
 {% for talk in event_list %}
 {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
  {% unless start_date_time_in_seconds >= digest_end_in_seconds and start_date_time_in_seconds < digest_next_in_seconds%}{% continue %}{% endunless %}
+ {% assign events_next_week = 'true' %} <!-- Mark that there is at least one event -->
  {% include_relative digest_event_item.html talk=talk is_next_week=true anchor=this_anchor %}
 {% endfor %}
 
+{% if events_next_week == '' %} *No events next week.* {% endif %}
+
+<!-- Events in the future we want to advertise -->
+## Future Events
+Save the date for these events (and check to see if you need to register)!
+
+{% assign events_future = '' %}
+{% for talk in event_list %}
+{% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
+ {% assign post_date_time_in_seconds = talk.event-post-date | date: '%s' | plus: 0 %}
+ {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
+ {% unless post_date_time_in_seconds < digest_start_in_seconds and post_date_time_in_seconds > digest_past_in_seconds and start_date_time_in_seconds > digest_next_in_seconds%}{% continue %}{% endunless %}
+  {% assign events_future = 'true' %} <!-- Mark that there is at least one event -->
+ {% include_relative digest_event_item.html talk=talk is_future=true anchor=this_anchor %}
+{% endfor %}
+
+{% if events_future == '' %} *No future events to share this week.* {% endif %}
 
 <!-- Past Events -->
 ## In Case You Missed It
 
+{% assign events_last_week = '' %}
 {% for talk in event_list %}
 {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
  {% if site.data.talk-categories[talk.type].hide_on_past %}{% continue %}{% endif %}
  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
  {% unless start_date_time_in_seconds < digest_start_in_seconds and start_date_time_in_seconds >= digest_past_in_seconds%}{% continue %}{% endunless %}
+  {% assign events_last_week = 'true' %} <!-- Mark that there is at least one event -->
  {% include_relative digest_event_item.html talk=talk is_last_week=true anchor=this_anchor %}
 {% endfor %}
+
+{% if events_last_week == '' %} *No past events to share.* {% endif %}
