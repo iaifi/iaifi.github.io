@@ -16,7 +16,6 @@
   ***{{job.title}}*** <br>
   *{{job.employer}}* <br>
   {%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
-  {{lookback_time_in_seconds}} : {{post_date_in_seconds}} : {{digest_start_in_seconds}}
 {% endfor %}
   
 {% unless new_jobs %}*No new job opportunities this week.*{% endunless %}
