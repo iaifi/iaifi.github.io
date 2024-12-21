@@ -1,40 +1,48 @@
 colloquium:
   name: "Colloquium"
+  category: "internal"
   zoom: https://mit.zoom.us/j/91200832411
   button_type: button--outline-primary
 
 thematic-discussion:
   name: "Thematic Discussion"
+  category: "internal"
   zoom: https://mit.zoom.us/j/92183041364?pwd=N3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09
   button_type: button--outline-primary
 
 journal-club:
   name: "Journal Club"
+  category: "internal"
   zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
   button_type: button--outline-primary
 
 industry-lunch:
   name: "Industry Lunch"
+  category: "internal"
   zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
   button_type: button--outline-primary
 
 external-event:
   name: "External Event"
+  category: "external"
   zoom:
   button_type: button--secondary
 
 workshop:
   name: "Workshop"
+  category: "external"
   zoom:
   button_type: button--outline-primary
 
 social:
   name: "IAIFI Social Event"
+  category: "internal"
   zoom:
   button_type: button--secondary
   hide_on_past: true
 
 internal-other:
   name: "Other Internal Events"
+  category: "internal"
   zoom:
   button_type: button--outline-primary

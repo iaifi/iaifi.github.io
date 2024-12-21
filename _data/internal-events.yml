@@ -1,4 +1,17 @@
 - type: "internal-other"
+  event-name: "IAIFI Summer School"
+  event-committee: "Summer School and Workshop"
+  event-post-date: "2024-12-20"
+  start-date-time: "2025-08-04 9:00"
+  end-date-time: "2025-08-08 17:00"
+  talk-location: "Harvard SEAS"
+  talk-zoom:
+  event-details: "The Summer School will include lectures and events that illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice, and a hackathon project provides an opportunity for students to collaborate and apply what they’ve learned. Registration deadline is February 7, 2025."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mm5vYjlhcGl0Zm1uOWw2dHR0M203bWtwcXMgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com
+  rsvp-link:
+  more-info-link: https://iaifi.org/phd-summer-school
+
+- type: "internal-other"
   semester: "fall-2024"
   speaker-names-affiliations: "Led by IAIFI Computing Committee"
   speaker-title: "iaifi-compute@mit.edu"
