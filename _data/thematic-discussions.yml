@@ -13,7 +13,7 @@
   talk-title: "Representation/Manifold Learning: Learned Representations"
   talk-abstract: "Many of the recent successes in AI rely on the manifold hypothesis: that most high-dimensional data lie on a lower-dimensional manifold. From transfer to contrastive learning to foundation modeling, significant effort has been devoted to methods to efficiently find and map input data to this latent space. In this Thematic Discussion Session, we'll hear from three distinguished speakers on extracting meaningful latent representations from data from the physical sciences: Aizhan Akhmetzhanova (Self-Supervised Learning for Data Compression and Inference in Cosmology), Nate Woodward, (Product Manifold Machine Learning for Physics) and David Baek, (GenEFT: Physics-Inspired Theory of Representation Learning). After three 10-minute lightning talks, we'll have a 30 minute open discussion/Q&A session to explore the major challenges and opportunities in this field. We encourage attendees to come with questions and insights from their own work!"
   slides-link: "https://drive.google.com/file/d/19W23UleerdETmbqC4ZrR7es-hSIISSD3/view?usp=drive_link"
-  youtube-link: 
+  youtube-link: "https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?tab=t.0#heading=h.cirb3w1z8vfc"
   speaker-thrust:
   speaker-gender:
   talk-attendance-in-person: 30
@@ -35,7 +35,7 @@
   talk-abstract: "In 2024, IAIFI launched a research partnership with UMass Boston. The partnership is focused on developing physics-informed reinforcement learning approaches to solve problems in quantum science and technology; in particular, developing novel approaches for entropy-regularized RL to advance current research in quantum systems and applying entropy-regularized RL tools to solve optimization problems in quantum science and technology. The event will kick off with presentations from UMass Boston researchers on this topic. We invite IAIFI researchers with research relevant to this project to sign up to give lightning talks as well (~10 minutes each). [Sign up to give a lightning talk](https://app.smartsheet.com/b/form/21c4df3869f04eb6877d97ff113121a9)."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNDExMTVUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   slides-link: https://drive.google.com/drive/folders/1MRQv9sVMxVn-jpITGA977JRd5g3ejta6?usp=drive_link
-  youtube-link:
+  youtube-link: "https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?tab=t.0#heading=h.cirb3w1z8vfc"
   speaker-thrust:
   speaker-gender:
   talk-attendance-in-person: 40
@@ -56,7 +56,7 @@
   talk-title: "IAIFI Mini-Symposium"
   talk-abstract: The Mini Symposium will include one hour of 2-minute overview talks by IAIFI Senior Investigators and Fellows, presenting their research interests broadly. Presenters will include Jesse Thaler, Gaia Grosso, Jessie Micallef, Lina Necib, Marin Soljacic, Nikhil Mukund, Phil Harris, Shuchin Aeron, Thomas Harvey, Jim Halverson, and Tess Smidt.
   slides-link: "https://docs.google.com/presentation/d/1KAW-7DUtCA46XedrgtaROgKDQxKfLX1g5z1BpJOy4G0/edit?usp=sharing"
-  youtube-link:
+  youtube-link: "https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?tab=t.0#heading=h.cirb3w1z8vfc"
   speaker-thrust:
   speaker-gender:
   talk-attendance-in-person: 30
@@ -77,7 +77,7 @@
   talk-title: "State of the IAIFI"
   talk-abstract:
   slides-link: "https://docs.google.com/presentation/d/1jGn7-tNCWoJYLzbT1Yvs4HsprM-p0b665lSXL4AR03g/edit?usp=share_link"
-  youtube-link:
+  youtube-link: "https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?tab=t.0#heading=h.cirb3w1z8vfc"
   speaker-thrust: ""
   speaker-gender: "man"
   talk-attendance-in-person: 20
