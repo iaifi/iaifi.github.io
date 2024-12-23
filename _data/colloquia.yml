@@ -186,10 +186,10 @@
   
 - type: "colloquium"
   semester: "fall-2024"
-  speaker-name: Fernanda Viégas
-  speaker-title: Professor of Computer Science
-  speaker-affiliation: Harvard University; and [Martin Wattenberg](https://www.bewitched.com/about.html), Professor of Computer Science, Harvard University
-  speaker-website: "http://www.fernandaviegas.com/"
+  speaker-name: "[Fernanda Viégas](http://www.fernandaviegas.com/), Professor of Computer Science, Harvard University; and [Martin Wattenberg](https://www.bewitched.com/about.html), Professor of Computer Science"
+  speaker-title:
+  speaker-affiliation: "Harvard University"
+  speaker-website:
   speaker-photo-location: "images/small-photo-fernanda-martin.jpg"
   talk-date: "2024-10-25"
   talk-date-time: "Friday, October 25, 2024, 2:00–3:00 pm"
@@ -206,9 +206,9 @@
 
 - type: "colloquium"
   semester: "fall-2024"
-  speaker-name: IAIFI Fireside Chat on the 2024 Nobel Prize in Physics
-  speaker-title: George Barbastathis, Professor, MIT; Di Luo, Assistant Professor, UCLA; Alex Atanasov, Postdoc, Harvard; Hidenori Tanaka, Group Leader
-  speaker-affiliation: CBS-NTT Program in Physics of Intelligence, Harvard University
+  speaker-name: "George Barbastathis, Professor, MIT; Di Luo, Assistant Professor, UCLA; Alex Atanasov, Postdoc, Harvard; Hidenori Tanaka, Group Leader, CBS-NTT Program in Physics of Intelligence"
+  speaker-title:
+  speaker-affiliation: Harvard University
   speaker-website:
   speaker-photo-location:
   talk-date: "2024-11-01"
@@ -216,7 +216,7 @@
   start-date-time: "2024-11-01 14:00"
   end-date-time: "2024-11-01 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "IAIFI Fireside Chat on Physics Nobel Prize"
+  talk-title: "IAIFI Fireside Chat on 2024 Physics Nobel Prize"
   talk-abstract: "Given the recent Nobel Prize in Physics, awarded to John Hopfield and Geoffrey Hinton for their development of foundational and physics-inspired machine learning frameworks (the Hopfield network and the Bolzmann machine, respectively), IAIFI is excited to host a discussion explaining the research underlying the award and its widespread impact. The discussion will include historical context and current developments in using physics for AI innovation. Experts at the intersection of physics, neuroscience, and computer science will share their perspectives on the research behind this year’s Nobel Prize in Physics and the next great discoveries to come from similarly interdisciplinary, curiosity-driven research."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2RiZjZqYnRsYWt0YjNlMTlndnIxcWwxNTkgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link: "talks/2024_11_01_IAIFI_Panel_2024NobelPrize.pdf"
