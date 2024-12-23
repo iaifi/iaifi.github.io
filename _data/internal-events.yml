@@ -10,6 +10,21 @@
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mm5vYjlhcGl0Zm1uOWw2dHR0M203bWtwcXMgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com
   rsvp-link:
   more-info-link: https://iaifi.org/phd-summer-school
+  
+- type: "internal-other"
+  event-name: "IAIFI Deep Working Session"
+  event-committee: "IAIFI Community Building and Inclusion"
+  event-post-date: "2025-01-27"
+  start-date-time: "2025-02-07 14:00"
+  end-date-time: "2025-02-07 17:00"
+  talk-location: "IAIFI Penthouse (MIT 26-648) and LNS Conference Room (MIT 26-528)"
+  talk-zoom:
+  event-details: "This is an opportunity for IAIFI members to meet for an informal focused working session. The Penthouse will be set up for collaboration and conversation, while the Conference Room will be reserved for individual work. Refreshments and snacks will be provided."
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWFmN2ppbzJvNHIyc3I2b2JyaHM0N291MmIgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
 
 - type: "internal-other"
   event-name: "IAIFI NAIRR Info/Brainstorming Session"
