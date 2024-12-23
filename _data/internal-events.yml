@@ -11,6 +11,21 @@
   rsvp-link:
   more-info-link: https://iaifi.org/phd-summer-school
   
+- type: "social"
+  event-name: "IAIFI Pizza and Game Night"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2025-01-26"
+  start-date-time: "2025-02-07 17:00"
+  end-date-time: "2025-02-07 19:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/NzlkaW83dXNtbTZobTg1OTA2YW9zbmdsbmxfMjAyNTAyMDRUMjIwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
 - type: "internal-other"
   event-name: "IAIFI Deep Working Session"
   event-committee: "IAIFI Community Building and Inclusion"
