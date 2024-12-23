@@ -1,23 +1,30 @@
 - type: "internal-other"
-  semester: "fall-2024"
-  speaker-names-affiliations: "Led by IAIFI Computing Committee"
-  speaker-title: "iaifi-compute@mit.edu"
-  speaker-affiliation:
-  speaker-website:
-  speaker-photo-location:
-  talk-date: "2024-12-17"
-  talk-date-time: "Tuesday, December 17, 2024, 11:00am–12:00 pm"
+  event-name: "IAIFI Summer School"
+  event-committee: "Summer School and Workshop"
+  event-post-date: "2024-01-10"
+  start-date-time: "2025-08-04 9:00"
+  end-date-time: "2025-08-08 17:00"
+  talk-location: "Harvard SEAS"
+  talk-zoom:
+  event-details: "The Summer School will include lectures and events that illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice, and a hackathon project provides an opportunity for students to collaborate and apply what they’ve learned. Registration deadline is February 7, 2025."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mm5vYjlhcGl0Zm1uOWw2dHR0M203bWtwcXMgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com
+  rsvp-link:
+  more-info-link: https://iaifi.org/phd-summer-school
+
+- type: "internal-other"
+  event-name: "IAIFI NAIRR Info/Brainstorming Session"
+  event-committee: "IAIFI Computing Committee (iaifi-compute@mit.edu)"
+  event-post-date: "2024-12-15"
   start-date-time: "2024-12-17 11:00"
   end-date-time: "2024-12-17 12:00"
   talk-location: "IAIFI Penthouse, 26-648"
-  talk-title: "IAIFI NAIRR Info/Brainstorming Session"
-  talk-abstract: "As previously shared, the IAIFI Computing Committee would like to explore whether there is an opportunity to put together an IAIFI group proposal for the [National AI Research Resource (NAIRR) pilot](https://nairrpilot.org). To that end, the Computing Committee will be holding an informational and brainstorming session to discuss what resources are available and come up with possible ideas for a proposal. Please attend if you are interested in exploring additional options for computing resources beyond the IAIFI resources."
-  slides-link:
-  youtube-link:
-  speaker-thrust:
-  speaker-gender:
-  talk-attendance-in-person: 1
-  talk-attendance-virtual: 4
+  talk-zoom:
+  event-details: "The IAIFI Computing Committee would like to explore whether there is an opportunity to put together an IAIFI group proposal for the [National AI Research Resource (NAIRR) pilot](https://nairrpilot.org). To that end, the Computing Committee held an informational and brainstorming session to discuss what resources are available and come up with possible ideas for a proposal. Please contact the [IAIFI Computing Committee](mailto:iaifi-compute@mit.edu) if you are interested in exploring additional options for computing resources beyond the IAIFI resources."
+  calendar-link:
+  rsvp-link:
+  more-info-link:
+  attendance-in-person: 1
+  attendance-virtual: 4
 
 - type: "social"
   event-name: "IAIFI Pizza and Game Night"
