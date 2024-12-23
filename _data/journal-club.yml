@@ -16,6 +16,237 @@
   speaker-gender: "Man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2FzbXJoYWFoNnVwZjFsMjhvbGg0MWViZWkgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-02-11 12:30"
+  end-date-time: "2025-02-11 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMTFUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-02-18 12:30"
+  end-date-time: "2025-02-18 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMThUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-02-25 12:30"
+  end-date-time: "2025-02-25 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMjVUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-03-04 12:30"
+  end-date-time: "2025-03-04 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMDRUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-03-11 12:30"
+  end-date-time: "2025-03-11 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMTFUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-03-18 12:30"
+  end-date-time: "2025-03-18 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMThUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-04-01 12:30"
+  end-date-time: "2025-04-01 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MDFUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-04-08 12:30"
+  end-date-time: "2025-04-08 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MDhUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-04-15 12:30"
+  end-date-time: "2025-04-15 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MTVUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-04-22 12:30"
+  end-date-time: "2025-04-22 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MjJUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-04-29 12:30"
+  end-date-time: "2025-04-29 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MjlUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-05-06 12:30"
+  end-date-time: "2025-05-06 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA1MDZUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+ 
+  #Fall 2024 below this line
 
 - type: "journal-club"
   semester: "fall-2024"
