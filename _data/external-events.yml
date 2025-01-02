@@ -1,4 +1,61 @@
 - type: "workshop"
+  event-name: "Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics"
+  event-organizer: "MIAPbP (Munich Institute for Astro-, Particle- and Biophysics)"
+  more-info-link: "https://www.munich-iapbp.de/activities/activities-2025/machine-learning"
+  talk-date: "2025-01-27"
+  talk-date-time: "August 25-September 19, 2025"
+  event-post-date: "2025-01-05"
+  start-date-time: "2025-08-25 9:00"
+  end-date-time: "2025-09-19 17:00"
+  talk-location: "Munich, Germany"
+  talk-zoom:
+  event-details: "We are happy to announce that we are hosting a workshop on the topic of 'Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics' from August 25 - September 19 at the Munich Institute for Astro-, Particle- and Biophysics (MIAPbP) in Munich, Germany. Applications for the workshop are open until January 19th 2025. If you are interested in large-scale foundation models for science, physics-inspired methods in artificial intelligence, we will love to see you there. We hope to discuss over the course of four weeks, what the interplay is between these ideas for scientific applications."
+  calendar-link:
+
+- type: "workshop"
+  event-name: "Frontiers in NeuroAI - Kempner Institute Symposium"
+  event-organizer: "Kempner Institute"
+  more-info-link: "https://kempnerinstitute.harvard.edu/frontiers-in-neuroai/"
+  talk-date: "2025-01-27"
+  talk-date-time: "June 5-6, 2025"
+  event-post-date: "2025-01-05"
+  start-date-time: "2025-06-05 9:00"
+  end-date-time: "2025-06-06 17:00"
+  talk-location: "Allston, MA (with option for virtual attendance)"
+  talk-zoom:
+  event-details: "Frontiers in NeuroAI is a two-day symposium, open to the public, exploring key topics in the rapidly-advancing field of NeuroAI, including: How natural and artificial systems learn, and how these processes are similar or different across systems; The implications of rapid progress in machine learning on understanding neural processes, the nature of intelligence, and human cognitive abilities; and Innovations that are pushing forward the reasoning and generative capabilities of AI systems. The symposium will feature presentations from cutting-edge experts from neuroscience and AI as they discuss advances in learning across both fields."
+  calendar-link:
+
+
+- type: "external-event"
+  event-name: "Gaia Hackathon"
+  event-organizer: "IAIFI Senior Investigator Lina Necib"
+  more-info-link: "https://gaiadr3hack.mit.edu/"
+  event-post-date: "2025-01-05"
+  talk-date: "2025-01-27"
+  talk-date-time: "January 27-30, 2025"
+  start-date-time: "2025-01-27 9:00"
+  end-date-time: "2025-01-30 17:00"
+  talk-location:
+  talk-zoom:
+  event-details: "Gaia is a space telescope that measures the positions and velocities of stars in the Milky Way. The Gaia data is the largest stellar catalog to date, with the velocities and positions of 1.8 billion stars in the Milky Way! No prior knowledge of the data set is required. People at different levels will be accessing the data in the same room, and collaborating on new and exciting projects. If you have ideas on what to use the new data release for, great! Come in for snacks and the company. If not, we have some fun projects for you, and a day full of tutorials. Lunch and snacks will be provided, so be sure to register."
+  calendar-link:
+
+- type: "workshop"
+  event-name: "Workshop on Basic Computing Services in the Physics Department"
+  event-organizer: "Basic Computing Services for the Physics Department (subMIT)"
+  more-info-link: "https://indico.mit.edu/event/1276/"
+  event-post-date: "2025-01-05"
+  talk-date: "2025-01-30"
+  talk-date-time: "January 30, 2025"
+  start-date-time: "2025-01-30 9:00"
+  end-date-time: "2025-01-30 17:00"
+  talk-location: Kolker Room (MIT 26-414)
+  talk-zoom: "https://mit.zoom.us/j/96743699673?pwd=b3h2Q3c3cVQwYW12blhMUG5SWXZCZz09"
+  event-details: "The Basic Computing Services (subMIT) provides computing resources and support for members of the Physics Department. This workshop will include tutorials, instructional sessions, an overview of the subMIT resources, and user talks showcasing ways in which members of the department have used submit to support their computational workflows.  This is a great opportunity for students, faculty, and staff to learn more about how these computing services can enhance their productivity and streamline their work.  It is also a good opportunity to provide feedback as to how subMIT can be extended/adapted to better suit the needs of the Department.  Open to ALL members of the Physics Department (whether or not current subMIT users)."
+  calendar-link:
+
+- type: "workshop"
   event-name: "Statistics and Data Science Conference"
   event-organizer: "MIT"
   more-info-link: "https://sdscon.mit.edu/"
@@ -302,16 +359,4 @@
   talk-location: "Vancouver Convention Center in Vancouver, BC, Canada"
   talk-zoom:
   event-details: "IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer); IAIFI-sponsored"
-  calendar-link:
-  
-- type: "workshop"
-  event-name: "Frontiers in NeuroAI - Kempner Institute Symposium"
-  event-organizer: "Kempner Institute"
-  more-info-link: "https://kempnerinstitute.harvard.edu/frontiers-in-neuroai/"
-  event-post-date: "2025-01-03"
-  start-date-time: "2025-06-05 9:00"
-  end-date-time: "2025-06-06 17:00"
-  talk-location: "Allston, MA (with option for virtual attendance)"
-  talk-zoom:
-  event-details: "Frontiers in NeuroAI is a two-day symposium, open to the public, exploring key topics in the rapidly-advancing field of NeuroAI, including: How natural and artificial systems learn, and how these processes are similar or different across systems; The implications of rapid progress in machine learning on understanding neural processes, the nature of intelligence, and human cognitive abilities; and Innovations that are pushing forward the reasoning and generative capabilities of AI systems. The symposium will feature presentations from cutting-edge experts from neuroscience and AI as they discuss advances in learning across both fields."
   calendar-link:
