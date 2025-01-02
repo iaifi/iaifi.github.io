@@ -7,7 +7,7 @@
   end-date-time: "2025-09-19 17:00"
   talk-location: "Munich, Germany"
   talk-zoom:
-  event-details: "We are happy to announce that we are hosting a workshop on the topic of 'Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics' from August 25 - September 19 at the Munich Institute for Astro-, Particle- and Biophysics (MIAPbP) in Munich, Germany. Applications for the workshop are open until January 19th 2025. If you are interested in large-scale foundation models for science, physics-inspired methods in artificial intelligence, we will love to see you there. We hope to discuss over the course of four weeks, what the interplay is between these ideas for scientific applications."
+  event-details: "MIAPbP will be hosting a workshop on the topic of 'Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics' from August 25 - September 19 at the Munich Institute for Astro-, Particle- and Biophysics (MIAPbP) in Munich, Germany. Applications for the workshop are open until January 19th 2025. If you are interested in large-scale foundation models for science, physics-inspired methods in artificial intelligence, this workshop may be a great fit for you. The MIAPbP team hopes to discuss over the course of four weeks, what the interplay is between these ideas for scientific applications."
   calendar-link:
 
 - type: "workshop"
@@ -24,7 +24,6 @@
   event-details: "Frontiers in NeuroAI is a two-day symposium, open to the public, exploring key topics in the rapidly-advancing field of NeuroAI, including: How natural and artificial systems learn, and how these processes are similar or different across systems; The implications of rapid progress in machine learning on understanding neural processes, the nature of intelligence, and human cognitive abilities; and Innovations that are pushing forward the reasoning and generative capabilities of AI systems. The symposium will feature presentations from cutting-edge experts from neuroscience and AI as they discuss advances in learning across both fields."
   calendar-link:
 
-
 - type: "external-event"
   event-name: "Gaia Hackathon"
   event-organizer: "IAIFI Senior Investigator Lina Necib"
@@ -34,7 +33,7 @@
   talk-date-time: "January 27-30, 2025"
   start-date-time: "2025-01-27 9:00"
   end-date-time: "2025-01-30 17:00"
-  talk-location:
+  talk-location: "MIT"
   talk-zoom:
   event-details: "Gaia is a space telescope that measures the positions and velocities of stars in the Milky Way. The Gaia data is the largest stellar catalog to date, with the velocities and positions of 1.8 billion stars in the Milky Way! No prior knowledge of the data set is required. People at different levels will be accessing the data in the same room, and collaborating on new and exciting projects. If you have ideas on what to use the new data release for, great! Come in for snacks and the company. If not, we have some fun projects for you, and a day full of tutorials. Lunch and snacks will be provided, so be sure to register."
   calendar-link:
@@ -62,7 +61,7 @@
   talk-date-time: "April 1, 2022"
   start-date-time: "2022-04-01 9:00"
   end-date-time: "2022-04-01 17:00"
-  talk-location:
+  talk-location: MIT
   talk-zoom:
   event-details:
   calendar-link:
@@ -76,7 +75,7 @@
   talk-date-time: "May 28–June 18, 2022"
   start-date-time: "2022-05-28 9:00"
   end-date-time: "2022-06-18 17:00"
-  talk-location:
+  talk-location: Aspen Center for Physics
   talk-zoom:
   event-details: "IAIFI involvement: Dan Roberts (Co-Organizer)"
   calendar-link:
@@ -90,7 +89,7 @@
   talk-date-time: "May 29–June 19, 2022"
   start-date-time: "2022-05-29 9:00"
   end-date-time: "2022-06-27 17:00"
-  talk-location:
+  talk-location: Aspen Center for Physics
   talk-zoom:
   event-details: "IAIFI involvement: Jesse Thaler (co-organizer)"
   calendar-link:
@@ -104,7 +103,7 @@
   talk-date-time: "June 13–July 8, 2022"
   start-date-time: "2022-06-13 9:00"
   end-date-time: "2022-07-08 17:00"
-  talk-location:
+  talk-location: Mainz Institute for Theoretical Physics, Johannes Gutenberg University
   talk-zoom:
   event-details: "IAIFI involvement: Jim Halverson (co-organizer)"
   calendar-link:
@@ -118,7 +117,7 @@
   talk-date-time: "August 22–September 30, 2022"
   start-date-time: "2022-08-22 9:00"
   end-date-time: "2022-09-30 17:00"
-  talk-location:
+  talk-location: Galileo Galilei Institute
   talk-zoom:
   event-details: "IAIFI involvement: Jesse Thaler (Co-Organizer)"
   calendar-link:
@@ -132,7 +131,7 @@
   talk-date-time: "October 3–6, 2022"
   start-date-time: "2022-10-03 9:00"
   end-date-time: "2022-10-06 17:00"
-  talk-location:
+  talk-location: Southern Methodist University
   talk-zoom:
   event-details: "IAIFI involvement: Phil Harris (Scientific Committee)"
   calendar-link:
@@ -160,7 +159,7 @@
   talk-date-time: "December 3, 2022"
   start-date-time: "2022-12-03 9:00"
   end-date-time: "2022-12-03 17:00"
-  talk-location:
+  talk-location: New Orleans, LA
   talk-zoom:
   event-details: "IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer)"
   calendar-link:
@@ -174,7 +173,7 @@
   talk-date-time: "April 18–20, 2023"
   start-date-time: "2023-04-18 9:00"
   end-date-time: "2023-04-20 17:00"
-  talk-location:
+  talk-location: Oak Ridge National Laboratory
   talk-zoom:
   event-details:
   calendar-link:
@@ -188,7 +187,7 @@
   talk-date-time: "May 8, 2023"
   start-date-time: "2023-05-08 9:00"
   end-date-time: "2023-05-08 17:00"
-  talk-location:
+  talk-location: Carnegie Mellon University
   talk-zoom:
   event-details:
   calendar-link:
@@ -202,7 +201,7 @@
   talk-date-time: "May 29–June 2, 2023"
   start-date-time: "2023-05-29 9:00"
   end-date-time: "2023-06-02 17:00"
-  talk-location:
+  talk-location: Pollica Physics Center"
   talk-zoom:
   event-details: "IAIFI involvement: Harold Erbin, Daniel Hackett, Anindita Maiti (Co-Organizers)"
   calendar-link:
@@ -216,7 +215,7 @@
   talk-date-time: "June 13–16, 2023 and July 31–August 2, 2023"
   start-date-time: "2023-06-13 9:00"
   end-date-time: "2023-08-02 17:00"
-  talk-location:
+  talk-location: Boston, MA
   talk-zoom:
   event-details:
   calendar-link:
@@ -230,7 +229,7 @@
   talk-date-time: "June 26–30, 2023"
   start-date-time: "2023-06-26 9:00"
   end-date-time: "2023-06-30 17:00"
-  talk-location:
+  talk-location: Princeton University
   talk-zoom:
   event-details:
   calendar-link:
@@ -244,7 +243,7 @@
   talk-date-time: "July 17–21, 2023"
   start-date-time: "2023-07-17 9:00"
   end-date-time: "2023-07-21 17:00"
-  talk-location:
+  talk-location: University of Chicago
   talk-zoom:
   event-details:
   calendar-link:
@@ -258,7 +257,7 @@
   talk-date-time: "July 21, 2023"
   start-date-time: "2023-07-21 9:00"
   end-date-time: "2023-07-21 17:00"
-  talk-location:
+  talk-location: MIT
   talk-zoom:
   event-details:
   calendar-link:
@@ -272,7 +271,7 @@
   talk-date-time: "July 24–26, 2023"
   start-date-time: "2023-07-24 9:00"
   end-date-time: "2023-07-26 17:00"
-  talk-location:
+  talk-location: Princeton University
   talk-zoom:
   event-details:
   calendar-link:
@@ -286,7 +285,7 @@
   talk-date-time: "November 6–10, 2023"
   start-date-time: "2023-11-06 9:00"
   end-date-time: "2023-11-10 17:00"
-  talk-location:
+  talk-location: DESY
   talk-zoom:
   event-details:
   calendar-link:

@@ -1,7 +1,11 @@
 {% assign talk = include.talk %}
 {% assign is_previous = include.is_previous %}
+{% assign start_date = talk.start-date-time | date: "%A, %B %e, %Y" %}
+{% assign end_date = talk.end-date-time | date: "%A, %B %e, %Y" %}
+{% assign start_time = talk.start-date-time | date: "%l:%M%P" %}
+{% assign end_time = talk.end-date-time | date: "%l:%M%P" %}
 
 * **<a href="{{talk.event-website}}">{{talk.event-name}}</a>, {{talk.event-organizer}}**
-    * **{{talk.start-date-time | date: "%A, %B %e, %Y"}}, {{talk.start-date-time | date: "%l:%M%P"}}–{{talk.end-date-time | date: "%l:%M%P" | strip}}**
-{% if talk.talk-location %}    * *{{talk.talk-location}}* {% if talk.talk-zoom %}; <a href="{{talk.event-zoom}}">Zoom link</a>{% endif %}{% endif %}
-{% if talk.event-details %}    * {{talk.event-details}}{% endif %}
+    {% if start_date == end_date %} * **{{ start_date }}, {{ start_time }}–{{ end_time }}** {% else %} * **{{ start_date }} – {{ end_date }}** {% endif %}
+{% if talk.talk-location %}  * *{{talk.talk-location}}* {% if talk.talk-zoom %}; <a href="{{talk.event-zoom}}">Zoom link</a>{% endif %}{% endif %}
+{% if talk.event-details %}  * {{talk.event-details}}{% endif %}

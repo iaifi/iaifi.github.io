@@ -1,7 +1,7 @@
 - type: "internal-other"
   event-name: "IAIFI Summer School"
   event-committee: "Summer School and Workshop"
-  event-post-date: "2024-01-10"
+  event-post-date: "2025-01-05"
   start-date-time: "2025-08-04 9:00"
   end-date-time: "2025-08-08 17:00"
   talk-location: "Harvard SEAS"
@@ -29,7 +29,7 @@
 - type: "internal-other"
   event-name: "IAIFI Deep Working Session"
   event-committee: "IAIFI Community Building and Inclusion"
-  event-post-date: "2025-01-27"
+  event-post-date: "2025-01-26"
   start-date-time: "2025-02-07 14:00"
   end-date-time: "2025-02-07 17:00"
   talk-location: "IAIFI Penthouse (MIT 26-648) and LNS Conference Room (MIT 26-528)"
@@ -40,6 +40,32 @@
   more-info-link:
   attendance-in-person:
   attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2025-01-14"
+  start-date-time: "2025-01-14 14:00"
+  end-date-time: "2024-01-14 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTAxMTRUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building and Inclusion"
+  event-post-date: "2025-01-05"
+  start-date-time: "2025-01-07 14:00"
+  end-date-time: "2024-01-07 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTAxMDdUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
+  rsvp-link:
+  more-info-link:
 
 - type: "internal-other"
   event-name: "IAIFI NAIRR Info/Brainstorming Session"
