@@ -2,6 +2,6 @@
 {% assign is_previous = include.is_previous %}
 
 * **<a href="{{talk.event-website}}">{{talk.event-name}}</a>, {{talk.event-organizer}}**
-    * **{{talk.talk-date-time}}**
+    * **{{talk.start-date-time | date: "%A, %B %e, %Y"}}, {{talk.start-date-time | date: "%l:%M%P"}}–{{talk.end-date-time | date: "%l:%M%P" | strip}}**
 {% if talk.talk-location %}    * *{{talk.talk-location}}* {% if talk.talk-zoom %}; <a href="{{talk.event-zoom}}">Zoom link</a>{% endif %}{% endif %}
 {% if talk.event-details %}    * {{talk.event-details}}{% endif %}

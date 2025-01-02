@@ -95,7 +95,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Our [IAIFI Colloquium series](events.html) will continue in February 2025.*** Recordings of our previous [colloquium talks](events.html) are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue on February 14 with IAIFI Fellow Sam Bright-Thonney.*** Recordings of our previous [colloquium talks](events.html) are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>

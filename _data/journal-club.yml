@@ -5,8 +5,6 @@
   speaker-affiliation: UNSAM (National University of General San Martín)
   speaker-website: "https://icas.unsam.edu.ar/personalwebs/personalweb-sequi/"
   speaker-photo-location:
-  talk-date: "2025-01-31"
-  talk-date-time: "Friday, January 31, 2025, 12:30 pm – 1:30 pm"
   start-date-time: "2025-01-31 12:30"
   end-date-time: "2025-01-31 13:30"
   talk-location: "IAIFI Penthouse"
@@ -18,6 +16,237 @@
   speaker-gender: "Man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2FzbXJoYWFoNnVwZjFsMjhvbGg0MWViZWkgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-02-11 12:30"
+  end-date-time: "2025-02-11 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMTFUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-02-18 12:30"
+  end-date-time: "2025-02-18 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMThUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-02-25 12:30"
+  end-date-time: "2025-02-25 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMjVUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-03-04 12:30"
+  end-date-time: "2025-03-04 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMDRUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-03-11 12:30"
+  end-date-time: "2025-03-11 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMTFUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-03-18 12:30"
+  end-date-time: "2025-03-18 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMThUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-04-01 12:30"
+  end-date-time: "2025-04-01 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MDFUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-04-08 12:30"
+  end-date-time: "2025-04-08 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MDhUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-04-15 12:30"
+  end-date-time: "2025-04-15 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MTVUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-04-22 12:30"
+  end-date-time: "2025-04-22 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MjJUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-04-29 12:30"
+  end-date-time: "2025-04-29 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MjlUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-05-06 12:30"
+  end-date-time: "2025-05-06 13:30"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA1MDZUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+ 
+  #Fall 2024 below this line
 
 - type: "journal-club"
   semester: "fall-2024"
@@ -26,7 +255,6 @@
   speaker-affiliation: MIT
   speaker-website: "https://rikabgambhir.com"
   speaker-photo-location:
-  talk-date: "2024-09-25"
   talk-date-time: "Tuesday, September 24, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-09-24 13:00"
   end-date-time: "2024-09-24 14:00"
@@ -46,7 +274,6 @@
   speaker-affiliation: University of Oxford
   speaker-website: "https://www.physics.ox.ac.uk/our-people/fraser-talientec"
   speaker-photo-location:
-  talk-date: "2024-10-02"
   talk-date-time: "Tuesday, October 1, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-10-01 13:00"
   end-date-time: "2024-10-01 14:00"
@@ -66,7 +293,6 @@
   speaker-affiliation: Harvard University
   speaker-website: https://scholar.harvard.edu/arguelles/arguelles-9
   speaker-photo-location:
-  talk-date: "2024-10-08"
   talk-date-time: "Tuesday, October 8, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-10-08 13:00"
   end-date-time: "2024-10-08 14:00"
@@ -86,7 +312,6 @@
   speaker-affiliation: University of Tokyo
   speaker-website: https://kyafuk.github.io/utokyo-hirashima/index.html
   speaker-photo-location:
-  talk-date: "2024-10-15"
   talk-date-time: "Tuesday, October 15, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-10-15 13:00"
   end-date-time: "2024-10-15 14:00"
@@ -106,7 +331,6 @@
   speaker-affiliation: Penn State University
   speaker-website: https://science.psu.edu/physics/people/kld5938
   speaker-photo-location:
-  talk-date: "2024-10-22"
   talk-date-time: "Tuesday, October 22, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-10-22 13:00"
   end-date-time: "2024-10-22 14:00"
@@ -126,7 +350,6 @@
   speaker-affiliation: University of Portsmouth
   speaker-website: https://researchportal.port.ac.uk/en/persons/konstantin-leyde
   speaker-photo-location:
-  talk-date: "2024-10-29"
   talk-date-time: "Tuesday, October 29, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-10-29 13:00"
   end-date-time: "2024-10-29 14:00"
@@ -147,7 +370,6 @@
   speaker-affiliation: Institute for Advanced Computational Science at Stony Brook
   speaker-website: https://thomashelfer.com
   speaker-photo-location:
-  talk-date: "2024-11-12"
   talk-date-time: "Tuesday, November 12, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-11-12 13:00"
   end-date-time: "2024-11-12 14:00"
@@ -167,7 +389,6 @@
   speaker-affiliation: MIT
   speaker-website: https://physics.mit.edu/faculty/neill-warrington/
   speaker-photo-location:
-  talk-date: "2024-11-19"
   talk-date-time: "Tuesday, November 19, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-11-19 13:00"
   end-date-time: "2024-11-19 14:00"
@@ -187,7 +408,6 @@
   speaker-affiliation: MIT
   speaker-website: http://www.michael-toomey.com
   speaker-photo-location:
-  talk-date: "2024-11-26"
   talk-date-time: "Tuesday, November 26, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-11-26 13:00"
   end-date-time: "2024-11-26 14:00"
@@ -207,7 +427,6 @@
   speaker-affiliation: UIUC
   speaker-website: https://www.linkedin.com/in/ibrahim-elsharkawy-0693ab177/
   speaker-photo-location:
-  talk-date: "2024-12-03"
   talk-date-time: "Tuesday, December 3, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-12-03 13:00"
   end-date-time: "2024-12-03 14:00"
@@ -227,7 +446,6 @@
   speaker-affiliation: MIT
   speaker-website: https://nswood.squarespace.com
   speaker-photo-location:
-  talk-date: "2024-12-10"
   talk-date-time: "Tuesday, December 10, 2024, 1:00 pm–2:00 pm"
   start-date-time: "2024-12-10 13:00"
   end-date-time: "2024-12-10 14:00"
@@ -247,7 +465,6 @@
   speaker-affiliation: Carnegie Mellon University
   speaker-website: "https://lsstdiscoveryalliance.org/programs/lincc-frameworks/team/alex-malz/"
   speaker-photo-location: 
-  talk-date: "2024-01-16"
   talk-date-time: "Tuesday, January 16, 2024, 11:00 am–12:00 pm"
   start-date-time: "2024-01-16 11:00"
   end-date-time: "2024-01-16 12:00"
@@ -267,7 +484,6 @@
   speaker-affiliation: University of Pennsylvania
   speaker-website: "https://helenqu.com"
   speaker-photo-location: 
-  talk-date: "2024-02-06"
   talk-date-time: "Tuesday, February 6, 2024, 11:00 am–12:00 pm"
   start-date-time: "2024-02-06 11:00"
   end-date-time: "2024-02-06 12:00"
@@ -287,7 +503,6 @@
   speaker-affiliation: Rutgers University
   speaker-website: "http://cgisvr.physics.rutgers.edu/cgi-bin/physdb/genpip.pl?FaroughyD"
   speaker-photo-location: 
-  talk-date: "2024-02-20"
   talk-date-time: "Tuesday, February 20, 2024, 11:00 am–12:00 pm"
   start-date-time: "2024-02-20 11:00"
   end-date-time: "2024-02-20 12:00"
@@ -307,7 +522,6 @@
   speaker-affiliation: "Forschungszentrum Jülich GmbH"
   speaker-website: "https://www.computational-quantum.science/people/jonas/"
   speaker-photo-location:
-  talk-date: "2024-02-21"
   talk-date-time: "Tuesday, February 27, 2024, 11:00 am–12:00 pm"
   start-date-time: "2024-02-27 11:00"
   end-date-time: "2024-02-27 12:00"
@@ -326,9 +540,7 @@
   speaker-title: Grad Student
   speaker-affiliation: Harvard
   speaker-website: "https://scholar.harvard.edu/kehang/home"
-  speaker-photo-location: 
-  talk-date: "2024-03-12"
-  talk-date-time: "March 12, 2024, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2024-03-12 11:00"
   end-date-time: "2024-03-12 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -346,9 +558,7 @@
   speaker-title: Graduate Student
   speaker-affiliation: Harvard University 
   speaker-website: "https://projects.iq.harvard.edu/kfraser/home"
-  speaker-photo-location: 
-  talk-date: "2024-03-19"
-  talk-date-time: "Tuesday, March 19, 2024, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2024-03-19 11:00"
   end-date-time: "2024-03-19 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -366,9 +576,7 @@
   speaker-title: Project Manager
   speaker-affiliation: IAIFI
   speaker-website: https://www.linkedin.com/in/marisalafleur/
-  speaker-photo-location: 
-  talk-date: "2024-04-02"
-  talk-date-time: "Tuesday, April 2, 2024, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2024-04-02 11:00"
   end-date-time: "2024-04-02 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -386,9 +594,7 @@
   speaker-title: Graduate Student
   speaker-affiliation: Imperial College London
   speaker-website: "https://scholar.google.com/citations?user=TL86PJMAAAAJ&hl=en"
-  speaker-photo-location: 
-  talk-date: "2024-04-23"
-  talk-date-time: "Tuesday, April 23, 2024, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2024-04-23 11:00"
   end-date-time: "2024-04-23 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -407,8 +613,6 @@
   speaker-affiliation: University of California, Berkeley
   speaker-website: https://scholar.google.com/citations?user=uTi-1LsAAAAJ&hl=en
   speaker-photo-location:
-  talk-date: "2024-04-30"
-  talk-date-time: "Tuesday, April 30, 2024, 11:00 am–12:00 pm"
   start-date-time: "2024-04-30 11:00"
   end-date-time: "2024-04-30 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -426,9 +630,7 @@
   speaker-title: Graduate Assistant
   speaker-affiliation: University of Cincinnati
   speaker-website: "https://inspirehep.net/authors/2049582"
-  speaker-photo-location: 
-  talk-date: "2023-09-19"
-  talk-date-time: "Tuesday, September 19, 2023, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2023-09-19 11:00"
   end-date-time: "2023-09-19 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -446,9 +648,7 @@
   speaker-title: Graduate Student
   speaker-affiliation: Harvard
   speaker-website: "https://lppc.physics.harvard.edu/people/jeffrey-lazar"
-  speaker-photo-location: 
-  talk-date: "2023-09-26"
-  talk-date-time: "Tuesday, September 26, 2023, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2023-09-26 11:00"
   end-date-time: "2023-09-26 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -466,9 +666,7 @@
   speaker-title: Graduate Student
   speaker-affiliation: Harvard
   speaker-website: "https://manosth.github.io"
-  speaker-photo-location: 
-  talk-date: "2023-10-03"
-  talk-date-time: "Tuesday, October 3, 2023, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2023-10-03 11:00"
   end-date-time: "2023-10-03 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -486,9 +684,7 @@
   speaker-title: Graduate Student
   speaker-affiliation: Harvard University
   speaker-website: "https://lppc.physics.harvard.edu/people/miaochen-andy-jin"
-  speaker-photo-location: 
-  talk-date: "2023-10-17"
-  talk-date-time: "Tuesday, October 17, 2023, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2023-10-17 11:00"
   end-date-time: "2023-10-17 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -506,9 +702,7 @@
   speaker-title: Undergraduate, Carnegie Mellon University (currently working with LIGO)
   speaker-affiliation: MIT LIGO
   speaker-website: "https://www.linkedin.com/in/ryan-raikman"
-  speaker-photo-location: 
-  talk-date: "2023-10-24"
-  talk-date-time: "Tuesday, October 24, 2023, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2023-10-24 11:00"
   end-date-time: "2023-10-24 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -526,9 +720,7 @@
   speaker-title: Postdoc
   speaker-affiliation: Uppsala University
   speaker-website: "https://www.uu.se/kontakt-och-organisation/personal?query=N22-2651"
-  speaker-photo-location: 
-  talk-date: "2023-10-31"
-  talk-date-time: "Tuesday, October 31, 2023, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2023-10-31 11:00"
   end-date-time: "2023-10-31 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -546,9 +738,7 @@
   speaker-title: Graduate Student
   speaker-affiliation: MIT
   speaker-website: "https://github.com/munozariasjm"
-  speaker-photo-location: 
-  talk-date: "2023-11-07"
-  talk-date-time: "Tuesday, November 7, 2023, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2023-11-07 11:00"
   end-date-time: "2023-11-07 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -568,9 +758,7 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-title: Graduate Student
   speaker-affiliation: Tufts
   speaker-website: "https://sites.tufts.edu/nutufts/people/"
-  speaker-photo-location: 
-  talk-date: "2023-11-14"
-  talk-date-time: "Tuesday, November 14, 2023, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2023-11-14 11:00"
   end-date-time: "2023-11-14 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -589,9 +777,7 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-title: Postdoc
   speaker-affiliation: MIT
   speaker-website: "https://scholar.google.com/citations?user=G6Wyw4QAAAAJ&hl=en"
-  speaker-photo-location: 
-  talk-date: "2023-11-28"
-  talk-date-time: "Tuesday, November 28, 2023, 11:00 am–12:00 pm"
+  speaker-photo-location:
   start-date-time: "2023-11-28 11:00"
   end-date-time: "2023-11-28 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -610,8 +796,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "IAIFI"
   speaker-website: "https://iaifi.org/current-fellows.html#di-luo"
   speaker-photo-location:
-  talk-date: "2023-04-25"
-  talk-date-time: "Tuesday, April 25, 2023, 11:00 am–12:00 pm"
   start-date-time: "2023-04-25 11:00"
   end-date-time: "2023-04-25 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -630,8 +814,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2023-04-25"
-  talk-date-time: "Tuesday, April 25, 2023, 11:00 am–12:00 pm"
   start-date-time: "2023-04-25 11:00"
   end-date-time: "2023-04-25 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -650,8 +832,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Harvard"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2023-04-11"
-  talk-date-time: "Tuesday, April 11, 2023, 11:00 am–12:00 pm"
   start-date-time: "2023-04-11 11:00"
   end-date-time: "2023-04-11 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -670,8 +850,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2023-04-04"
-  talk-date-time: "Tuesday, April 4, 2023, 11:00 am–12:00 pm"
   start-date-time: "2023-04-04 11:00"
   end-date-time: "2023-04-04 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -690,8 +868,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Berkeley Lab"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2023-03-21"
-  talk-date-time: "Tuesday, March 21, 2023, 11:00 am–12:00 pm"
   start-date-time: "2023-03-21 11:00"
   end-date-time: "2023-03-21 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -710,8 +886,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "University of Cincinnati"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2023-03-14"
-  talk-date-time: "Tuesday, March 14, 2023, 11:00 am–12:00 pm"
   start-date-time: "2023-03-14 11:00"
   end-date-time: "2023-03-14 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -730,8 +904,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2023-02-28"
-  talk-date-time: "Tuesday, February 28, 2023, 11:00 am–12:00 pm"
   start-date-time: "2023-02-28 11:00"
   end-date-time: "2023-02-28 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -750,8 +922,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Tufts University"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2023-02-14"
-  talk-date-time: "Tuesday, February 14, 2023, 11:00 am–12:00 pm"
   start-date-time: "2023-02-14 11:00"
   end-date-time: "2023-02-14 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -770,8 +940,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Harvard"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-11-29"
-  talk-date-time: "Tuesday, November 29, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-11-29 11:00"
   end-date-time: "2022-11-29 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -790,8 +958,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Brown University"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-11-15"
-  talk-date-time: "Tuesday, November 15, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-11-15 11:00"
   end-date-time: "2022-11-15 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -810,8 +976,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-11-08"
-  talk-date-time: "Tuesday, November 8, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-11-08 11:00"
   end-date-time: "2022-11-08 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -830,8 +994,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "IBM"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-10-25"
-  talk-date-time: "Tuesday, October 25, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-10-25 11:00"
   end-date-time: "2022-10-25 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -850,8 +1012,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Technical University of Berlin"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-10-18"
-  talk-date-time: "Tuesday, October 18, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-10-18 11:00"
   end-date-time: "2022-10-18 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -870,8 +1030,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Princeton"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-10-04"
-  talk-date-time: "Tuesday, October 4, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-10-04 11:00"
   end-date-time: "2022-10-04 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -890,8 +1048,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Harvard"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-09-27"
-  talk-date-time: "Tuesday, September 27, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-09-27 11:00"
   end-date-time: "2022-09-27 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -910,8 +1066,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Princeton"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-09-20"
-  talk-date-time: "Tuesday, September 20, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-09-20 11:00"
   end-date-time: "2022-09-20 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -930,8 +1084,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Northeastern"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-09-13"
-  talk-date-time: "Tuesday, September 13, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-09-13 11:00"
   end-date-time: "2022-09-13 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -950,8 +1102,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Michigan State University & Incoming IAIFI Fellow"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-03-10"
-  talk-date-time: "Thursday, March 10, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-03-10 11:00"
   end-date-time: "2022-03-10 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -970,8 +1120,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Argonne National Laboratory & Incoming IAIFI Fellow"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-03-17"
-  talk-date-time: "Thursday, March 17, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-03-17 11:00"
   end-date-time: "2022-03-17 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -990,8 +1138,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-04-07"
-  talk-date-time: "Thursday, April 7, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-04-07 11:00"
   end-date-time: "2022-04-07 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1010,8 +1156,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "University of Kentucky"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-04-14"
-  talk-date-time: "Thursday, April 14, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-04-14 11:00"
   end-date-time: "2022-04-14 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1030,8 +1174,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Durham University & Incoming IAIFI Fellow"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-04-21"
-  talk-date-time: "Thursday, April 21, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-04-21 11:00"
   end-date-time: "2022-04-21 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1050,8 +1192,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Sorbonne University"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-04-28"
-  talk-date-time: "Thursday, April 28, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-04-28 11:00"
   end-date-time: "2022-04-28 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1070,8 +1210,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-05-05"
-  talk-date-time: "Thursday, May 5, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-05-05 11:00"
   end-date-time: "2022-05-05 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1090,8 +1228,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-05-12"
-  talk-date-time: "Thursday, May 12, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-05-12 11:00"
   end-date-time: "2022-05-12 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1110,8 +1246,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Northeastern University (completed co-op with Bryan Ostdiek)"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2022-05-26"
-  talk-date-time: "Thursday, May 26, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-05-26 11:00"
   end-date-time: "2022-05-26 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1130,8 +1264,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Harvard CMSA"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2021-09-23"
-  talk-date-time: "Thursday, September 23, 2021, 11:00 am–12:00 pm"
   start-date-time: "2021-09-23 11:00"
   end-date-time: "2021-09-23 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1150,8 +1282,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2021-10-07"
-  talk-date-time: "Thursday, October 7, 2021, 11:00 am–12:00 pm"
   start-date-time: "2021-10-07 11:00"
   end-date-time: "2021-10-07 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1170,8 +1300,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "IAIFI"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2021-10-21"
-  talk-date-time: "Thursday, October 21, 2021, 11:00 am–12:00 pm"
   start-date-time: "2021-10-21 11:00"
   end-date-time: "2021-10-21 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1190,8 +1318,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2021-11-18"
-  talk-date-time: "Thursday, November 18, 2021, 11:00 am–12:00 pm"
   start-date-time: "2021-11-18 11:00"
   end-date-time: "2021-11-18 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1210,8 +1336,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Google Quantum AI"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2021-12-03"
-  talk-date-time: "Thursday, December 3, 2021, 11:00 am–12:00 pm"
   start-date-time: "2021-12-03 11:00"
   end-date-time: "2021-12-03 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1230,8 +1354,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Northeastern"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2021-02-17"
-  talk-date-time: "Wednesday, February 17"
   start-date-time: "2021-02-17"
   end-date-time: "2021-02-17"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1250,8 +1372,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "Harvard"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2021-03-02"
-  talk-date-time: "Tuesday, March 2"
   start-date-time: "2021-03-02"
   end-date-time: "2021-03-02"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1270,8 +1390,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "IAIFI"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2021-04-06"
-  talk-date-time: "Tuesday, April 6"
   start-date-time: "2021-04-06"
   end-date-time: "2021-04-06"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1290,8 +1408,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "IAIFI"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2021-04-27"
-  talk-date-time: "Tuesday, April 27"
   start-date-time: "2021-04-27"
   end-date-time: "2021-04-27"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1310,8 +1426,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "IAIFI"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2021-05-11"
-  talk-date-time: "Tuesday, May 11"
   start-date-time: "2021-05-11"
   end-date-time: "2021-05-11"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1330,8 +1444,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2020-10-20"
-  talk-date-time: "Tuesday, October 20"
   start-date-time: "2020-10-20"
   end-date-time: "2020-10-20"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1350,8 +1462,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2020-11-04"
-  talk-date-time: "Wednesday, November 4"
   start-date-time: "2020-11-04"
   end-date-time: "2020-11-04"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1370,8 +1480,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2020-11-18"
-  talk-date-time: "Wednesday, November 18"
   start-date-time: "2020-11-18"
   end-date-time: "2020-11-18"
   talk-location: "MIT LNS Conference Room (26-528)"
@@ -1390,8 +1498,6 @@ We illustrate the adaptability and effectiveness of our approach with top quark 
   speaker-affiliation: "MIT"
   speaker-website:
   speaker-photo-location:
-  talk-date: "2020-12-02"
-  talk-date-time: "Wednesday, December 2"
   start-date-time: "2020-12-02"
   end-date-time: "2020-12-02"
   talk-location: "MIT LNS Conference Room (26-528)"

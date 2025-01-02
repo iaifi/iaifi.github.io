@@ -5,8 +5,6 @@
   speaker-affiliation: "IAIFI"
   speaker-website: "https://inspirehep.net/authors/1706736"
   speaker-photo-location: "images/small-photo-samuel-bright-thonney.jpg"
-  talk-date: "2025-02-14"
-  talk-date-time: "Friday, February 14, 2025, 2:00–3:00 pm"
   start-date-time: "2025-02-14 14:00"
   end-date-time: "2025-02-14 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -26,8 +24,6 @@
   speaker-affiliation: "UC Irvine"
   speaker-website: "https://sites.uci.edu/daniel/"
   speaker-photo-location: "images/small-photo-daniel-whiteson.jpg"
-  talk-date: "2025-02-28"
-  talk-date-time: "Friday, February 28, 2026, 2:00–3:00 pm"
   start-date-time: "2025-02-28 14:00"
   end-date-time: "2025-02-28 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -47,8 +43,6 @@
   speaker-affiliation: "IAIFI"
   speaker-website: "https://inspirehep.net/authors/2192158"
   speaker-photo-location: "images/small-photo-akshunna-dogra.jpg"
-  talk-date: "2025-03-14"
-  talk-date-time: "Friday, March 14, 2025, 2:00–3:00 pm"
   start-date-time: "2025-03-14 14:00"
   end-date-time: "2025-03-14 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -68,8 +62,6 @@
   speaker-affiliation: "Affiliation TBA"
   speaker-website: ""
   speaker-photo-location: ""
-  talk-date: "2025-04-11"
-  talk-date-time: "Friday, April 11, 2025, 2:00–3:00 pm"
   start-date-time: "2025-04-11 14:00"
   end-date-time: "2025-04-11 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -89,8 +81,6 @@
   speaker-affiliation: "University of Washington"
   speaker-website: "https://faculty.washington.edu/kutz/"
   speaker-photo-location: "images/small-photo-nathan-kutz.jpg"
-  talk-date: "2025-04-25"
-  talk-date-time: "Friday, April 25, 2025, 2:00–3:00 pm"
   start-date-time: "2025-04-25 14:00"
   end-date-time: "2025-04-25 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -110,8 +100,6 @@
   speaker-affiliation: "University of Calofornia Berkeley"
   speaker-website: "https://astro.berkeley.edu/people/josh-bloom/"
   speaker-photo-location: "images/small-photo-joshua-bloom.jpg"
-  talk-date: "2025-05-09"
-  talk-date-time: "Friday, May 9, 2025, 2:00–3:00 pm"
   start-date-time: "2025-05-09 14:00"
   end-date-time: "2025-05-09 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -131,8 +119,6 @@
   speaker-affiliation: Meta
   speaker-website: "https://www.linkedin.com/in/fran%C3%A7ois-charton-214187120/?locale=en_US"
   speaker-photo-location: "images/small-photo-francois-charton.jpg"
-  talk-date: "2024-09-13"
-  talk-date-time: "Friday, September 13, 2024, 2:00–3:00 pm"
   start-date-time: "2024-09-13 14:00"
   end-date-time: "2024-09-13 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -151,8 +137,6 @@
   speaker-affiliation: Caltech
   speaker-website: "http://users.cms.caltech.edu/~klbouman/"
   speaker-photo-location: "images/small-photo-katie-bouman.jpg"
-  talk-date: "2024-09-16"
-  talk-date-time: "Monday, September 16, 2024, 4:00–5:00 pm"
   start-date-time: "2024-09-16 16:00"
   end-date-time: "2024-09-16 17:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -171,8 +155,6 @@
   speaker-affiliation: IAIFI
   speaker-website: "https://inspirehep.net/authors/1851078?ui-citation-summary=true"
   speaker-photo-location: "images/small-photo-thomas-harvey.jpg"
-  talk-date: "2024-10-11"
-  talk-date-time: "Friday, October 11, 2024, 2:00–3:00 pm"
   start-date-time: "2024-10-11 14:00"
   end-date-time: "2024-10-11 15:00"
   talk-location: "MIT Cosman Room (6C-442)"
@@ -191,8 +173,6 @@
   speaker-affiliation: "Harvard University"
   speaker-website:
   speaker-photo-location: "images/small-photo-fernanda-martin.jpg"
-  talk-date: "2024-10-25"
-  talk-date-time: "Friday, October 25, 2024, 2:00–3:00 pm"
   start-date-time: "2024-10-25 14:00"
   end-date-time: "2024-10-25 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -211,8 +191,6 @@
   speaker-affiliation: Harvard University
   speaker-website:
   speaker-photo-location:
-  talk-date: "2024-11-01"
-  talk-date-time: "Friday, November 1, 2024, 2:00–3:00 pm"
   start-date-time: "2024-11-01 14:00"
   end-date-time: "2024-11-01 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -232,8 +210,6 @@
   speaker-affiliation: Ohio State University
   speaker-website: "https://www.asc.ohio-state.edu/ting.74/"
   speaker-photo-location: "images/small-photo-yuan-sen-ting.jpg"
-  talk-date: "2024-11-22"
-  talk-date-time: "Friday, November 22, 2024, 2:00–3:00 pm"
   start-date-time: "2024-11-22 14:00"
   end-date-time: "2024-11-22 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -253,8 +229,6 @@
   speaker-affiliation: University of Montreal
   speaker-website: "https://mila.quebec/en/person/laurence-perreault-levasseur/"
   speaker-photo-location: "images/small-photo-laurence-levasseur.jpg"
-  talk-date: "2024-02-09"
-  talk-date-time: "Friday, February 9, 2024, 2:00–3:00 pm"
   start-date-time: "2024-02-09 14:00"
   end-date-time: "2024-02-09 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -273,8 +247,6 @@
   speaker-affiliation: Johns Hopkins University
   speaker-website: "https://www.ams.jhu.edu/villar/"
   speaker-photo-location: "images/small-photo-soledad-villar.jpg"
-  talk-date: "2024-03-22"
-  talk-date-time: "Friday, March 22, 2024, 2:00–3:00 pm"
   start-date-time: "2024-03-22 14:00"
   end-date-time: "2024-03-22 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -293,8 +265,6 @@
   speaker-affiliation: Fermi National Accelerator Laboratory
   speaker-website: "https://inspirehep.net/authors/1244433"
   speaker-photo-location: "images/small-photo-jennifer-ngadiuba.jpg"
-  talk-date: "2024-04-12"
-  talk-date-time: "Friday, April 12, 2024, 2:00–3:00 pm"
   start-date-time: "2024-04-12 14:00"
   end-date-time: "2024-04-12 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -313,8 +283,6 @@
   speaker-affiliation: NTT Research, Harvard University
   speaker-website: "https://sites.google.com/view/htanaka/home"
   speaker-photo-location: "images/small-photo-hidenori-tanaka.jpg"
-  talk-date: "2023-09-15"
-  talk-date-time: "Friday, September 15, 2023, 2:00–3:00 pm"
   start-date-time: "2023-09-15 14:00"
   end-date-time: "2023-09-15 15:00"
   talk-location: "MIT Cosman Room (6c-442)"
@@ -333,8 +301,6 @@
   speaker-affiliation: CNRS
   speaker-website: "https://flanusse.net"
   speaker-photo-location: "images/small-photo-francois-lanusse.jpg"
-  talk-date: "2023-10-13"
-  talk-date-time: "Friday, October 13, 2023, 2:00–3:00 pm"
   start-date-time: "2023-10-13 14:00"
   end-date-time: "2023-10-13 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -353,8 +319,6 @@
   speaker-affiliation: Stanford University
   speaker-website: "https://sitp.stanford.edu/people/xiaoliang-qi"
   speaker-photo-location: "images/small-photo-xiaoliang-qi.jpg"
-  talk-date: "2023-12-08"
-  talk-date-time: "Friday, December 8, 2023, 2:00–3:00 pm"
   start-date-time: "2023-12-08 14:00"
   end-date-time: "2023-12-08 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -373,8 +337,6 @@
   speaker-affiliation: UC Berkeley
   speaker-website: "https://physics.berkeley.edu/people/faculty/uros-seljak"
   speaker-photo-location: "images/small-photo-uros-seljak.jpg"
-  talk-date: "2023-04-21"
-  talk-date-time: "Friday, April 21, 2023, 2:00–3:00 pm"
   start-date-time: "2023-04-21 14:00"
   end-date-time: "2023-04-21 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -393,8 +355,6 @@
   speaker-affiliation: UIUC
   speaker-website: "https://physics.illinois.edu/people/directory/profile/yfkahn"
   speaker-photo-location: "images/small-photo-yonatan-kahn.jpg"
-  talk-date: "2023-03-10"
-  talk-date-time: "Friday, March 10, 2023, 2:00–3:00 pm"
   start-date-time: "2023-03-10 14:00"
   end-date-time: "2023-03-10 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -413,8 +373,6 @@
   speaker-affiliation: Princeton University
   speaker-website: "https://boris-hanin.github.io"
   speaker-photo-location: "images/small-photo-boris-hanin.jpg"
-  talk-date: "2023-02-10"
-  talk-date-time: "Friday, February 10, 2023, 2:00–3:00 pm"
   start-date-time: "2023-02-10 14:00"
   end-date-time: "2023-02-10 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -433,8 +391,6 @@
   speaker-affiliation: Caltech & Director of ML, NVIDIA
   speaker-website: "http://tensorlab.cms.caltech.edu/users/anima/"
   speaker-photo-location: "images/small-photo-anima-anandkumar.jpg"
-  talk-date: "2022-11-1"
-  talk-date-time: "Tuesday, November 1, 2022, 11:00 am–12:00 pm"
   start-date-time: "2022-11-01 11:00"
   end-date-time: "2022-11-01 12:00"
   talk-location: "MIT Star Conference room"
@@ -453,8 +409,6 @@
   speaker-affiliation: Georgia Tech
   speaker-website: "https://physics.gatech.edu/user/daniel-goldman"
   speaker-photo-location: "images/small-photo-daniel-goldman.jpg"
-  talk-date: "2022-10-14"
-  talk-date-time: "Friday, October 14, 2022, 2:00 pm–3:00 pm"
   start-date-time: "2022-10-14 14:00"
   end-date-time: "2022-10-14 15:00"
   talk-location: "MIT Kolker room (26-414)"
@@ -473,8 +427,6 @@
   speaker-affiliation: Cambridge University
   speaker-website: "https://www.ch.cam.ac.uk/person/ljc37"
   speaker-photo-location: "images/small-photo-lucy-colwell.jpg"
-  talk-date: "2022-09-16"
-  talk-date-time: "Friday, September 16, 2022, 2:00 pm–3:00 pm"
   start-date-time: "2022-09-16 14:00"
   end-date-time: "2022-09-16 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -493,8 +445,6 @@
   speaker-affiliation: New York University; Visiting Scientist at Meta AI
   speaker-website: "https://www.cs.wisc.edu/staff/cranmer-kyle/"
   speaker-photo-location: "images/small-photo-kyle-cranmer.jpg"
-  talk-date: "2022-02-18"
-  talk-date-time: "Friday, February 18, 2022, 2:00 pm–3:00 pm"
   start-date-time: "2022-02-18 14:00"
   end-date-time: "2022-02-18 15:00"
   talk-location: "Virtual"
@@ -513,8 +463,6 @@
   speaker-affiliation: Computational Quantum Science Laboratory, École Polytechnique
   speaker-website: "https://people.epfl.ch/giuseppe.carleo?lang=en"
   speaker-photo-location: "images/small-photo-giuseppe-carleo.jpg"
-  talk-date: "2022-03-04"
-  talk-date-time: "Friday, March 4, 2022, 2:00 pm–3:00 pm"
   start-date-time: "2022-03-04 14:00"
   end-date-time: "2022-03-04 15:00"
   talk-location: "Virtual"
@@ -533,8 +481,6 @@
   speaker-affiliation: Meta
   speaker-website: "http://yann.lecun.com/"
   speaker-photo-location: "images/small-photo-yann-lecun.jpg"
-  talk-date: "2022-04-01"
-  talk-date-time: "Friday, April 1, 2022, 2:00 pm–3:00 pm"
   start-date-time: "2022-04-01 14:00"
   end-date-time: "2022-04-01 15:00"
   talk-location: "Virtual"
@@ -553,8 +499,6 @@
   speaker-affiliation: University College London; Professor of Cosmoparticle Physics at the Oskar Klein Centre, Stockholm
   speaker-website: "https://www.ucl.ac.uk/cosmoparticle/hiranya-peiris"
   speaker-photo-location: "images/small-photo-hiranya-peiris.jpg"
-  talk-date: "2022-04-15"
-  talk-date-time: "Friday, April 15, 2022, 2:00 pm–3:00 pm"
   start-date-time: "2022-04-15 14:00"
   end-date-time: "2022-04-15 15:00"
   talk-location: "Virtual"
@@ -573,8 +517,6 @@
   speaker-affiliation: EECS, University of California, Berkeley
   speaker-website: "https://www2.eecs.berkeley.edu/Faculty/Homepages/waller.html"
   speaker-photo-location: "images/small-photo-laura-waller.jpg"
-  talk-date: "2022-04-29"
-  talk-date-time: "Friday, April 29, 2022, 2:00 pm–3:00 pm"
   start-date-time: "2022-04-29 14:00"
   end-date-time: "2022-04-29 15:00"
   talk-location: "Virtual"
@@ -593,8 +535,6 @@
   speaker-affiliation: Stanford University
   speaker-website: "https://ganguli-gang.stanford.edu/surya.html"
   speaker-photo-location: "images/small-photo-surya-ganguli.jpg"
-  talk-date: "2021-09-17"
-  talk-date-time: "Friday, September 17, 2021, 2:00 pm–3:00 pm"
   start-date-time: "2021-09-17 14:00"
   end-date-time: "2021-09-17 15:00"
   talk-location: "Virtual"
@@ -613,8 +553,6 @@
   speaker-affiliation: Lagrange Institute
   speaker-website: "http://ilp.upmc.fr/wandelt.php"
   speaker-photo-location: "images/small-photo-ben-wandelt.jpg"
-  talk-date: "2021-10-01"
-  talk-date-time: "Friday, October 1, 2021, 2:00 pm–3:00 pm"
   start-date-time: "2021-10-01 14:00"
   end-date-time: "2021-10-01 15:00"
   talk-location: "Virtual"
@@ -633,8 +571,6 @@
   speaker-affiliation: UC San Diego
   speaker-website: "https://roseyu.com"
   speaker-photo-location: "images/small-photo-rose-yu.jpg"
-  talk-date: "2021-10-15"
-  talk-date-time: "Friday, October 15, 2021, 2:00 pm–3:00 pm"
   start-date-time: "2021-10-15 14:00"
   end-date-time: "2021-10-15 15:00"
   talk-location: "Virtual"
@@ -653,8 +589,6 @@
   speaker-affiliation: Ludwig-Maximilians Universität
   speaker-website: "https://krippendorflab.github.io"
   speaker-photo-location: "images/small-photo-sven-krippendorf.jpg"
-  talk-date: "2021-10-29"
-  talk-date-time: "Friday, October 29, 2021, 2:00 pm–3:00 pm"
   start-date-time: "2021-10-29 14:00"
   end-date-time: "2021-10-29 15:00"
   talk-location: "Virtual"
@@ -673,8 +607,6 @@
   speaker-affiliation: Google Research
   speaker-website: "https://yasamanb.github.io"
   speaker-photo-location: "images/small-photo-yasaman-bahri.jpg"
-  talk-date: "2021-11-12"
-  talk-date-time: "Friday, November 12, 2021, 2:00 pm–3:00 pm"
   start-date-time: "2021-11-12 14:00"
   end-date-time: "2021-11-12 15:00"
   talk-location: "Virtual"
@@ -693,8 +625,6 @@
   speaker-affiliation: SLAC National Accelerator Laboratory
   speaker-website: "https://www.codingkazu.com"
   speaker-photo-location: "images/photo-kazuhiro-terao.jpg"
-  talk-date: "2021-12-10"
-  talk-date-time: "Friday, December 10, 2021, 2:00 pm–3:00 pm"
   start-date-time: "2021-12-10 14:00"
   end-date-time: "2021-12-10 15:00"
   talk-location: "Virtual"
@@ -713,8 +643,6 @@
   speaker-affiliation: MIT
   speaker-website: https://physics.mit.edu/faculty/phiala-shanahan/
   speaker-photo-location: "images/small-photo-phiala-shanahan.jpg"
-  talk-date: "2021-02-04"
-  talk-date-time: "Thursday, February 4, 2021, 11:00 am–12:00 pm"
   start-date-time: "2021-02-04 11:00"
   end-date-time: "2021-02-04 12:00"
   talk-location: "Virtual"
@@ -733,8 +661,6 @@
   speaker-affiliation: MIT
   speaker-website: https://people.csail.mit.edu/pulkitag/
   speaker-photo-location: "images/small-photo-pulkit-agrawal.jpg"
-  talk-date: "2021-02-18"
-  talk-date-time: "Thursday, February 18, 2021, 12:30 pm–1:30 pm (Note special time!)"
   start-date-time: "2021-02-18 12:30"
   end-date-time: "2021-02-18 13:30"
   talk-location: "Virtual"
@@ -753,8 +679,6 @@
   speaker-affiliation: MIT
   speaker-website: https://physics.mit.edu/faculty/max-tegmark/
   speaker-photo-location: "images/small-photo-max-tegmark.jpg"
-  talk-date: "2021-03-04"
-  talk-date-time: "Thursday, March 4, 2021, 11:00 am–12:00 pm"
   start-date-time: "2021-03-04 11:00"
   end-date-time: "2021-03-04 12:00"
   talk-location: "Virtual"
@@ -773,8 +697,6 @@
   speaker-affiliation: MIT
   speaker-website: https://physics.mit.edu/faculty/philip-harris/
   speaker-photo-location: "images/small-photo-philip-harris.jpg"
-  talk-date: "2021-03-18"
-  talk-date-time: "Thursday, March 18, 2021, 11:00 am–12:00 pm"
   start-date-time: "2021-03-18 11:00"
   end-date-time: "2021-03-18 12:00"
   talk-location: "Virtual"
@@ -793,8 +715,6 @@
   speaker-affiliation: Harvard
   speaker-website: https://astronomy.fas.harvard.edu/people/douglas-finkbeiner
   speaker-photo-location: "images/small-photo-doug-finkbeiner.jpg"
-  talk-date: "2021-04-01"
-  talk-date-time: "Thursday, April 1, 2021, 11:00 am–12:00 pm"
   start-date-time: "2021-04-01 11:00"
   end-date-time: "2021-04-01 12:00"
   talk-location: "Virtual"
@@ -813,8 +733,6 @@
   speaker-affiliation: Harvard
   speaker-website: https://seas.harvard.edu/person/demba-ba
   speaker-photo-location: "images/small-photo-demba-ba.jpg"
-  talk-date: "2021-04-15"
-  talk-date-time: "Thursday, April 15, 2021, 11:00 am–12:00 pm"
   start-date-time: "2021-04-15 11:00"
   end-date-time: "2021-04-15 12:00"
   talk-location: "Virtual"
@@ -833,8 +751,6 @@
   speaker-affiliation: Northeastern
   speaker-website: http://www.jhhalverson.com
   speaker-photo-location: "images/small-photo-jim-halverson.jpg"
-  talk-date: "2021-04-29"
-  talk-date-time: "Thursday, April 29, 2021, 11:00 am–12:00 pm"
   start-date-time: "2021-04-29 11:00"
   end-date-time: "2021-04-29 12:00"
   talk-location: "Virtual"
