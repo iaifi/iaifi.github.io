@@ -7,7 +7,7 @@
   end-date-time: "2025-09-19 17:00"
   talk-location: "Munich, Germany"
   talk-zoom:
-  event-details: "We are happy to announce that we are hosting a workshop on the topic of 'Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics' from August 25 - September 19 at the Munich Institute for Astro-, Particle- and Biophysics (MIAPbP) in Munich, Germany. Applications for the workshop are open until January 19th 2025. If you are interested in large-scale foundation models for science, physics-inspired methods in artificial intelligence, we will love to see you there. We hope to discuss over the course of four weeks, what the interplay is between these ideas for scientific applications."
+  event-details: "MIAPbP will be hosting a workshop on the topic of 'Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics' from August 25 - September 19 at the Munich Institute for Astro-, Particle- and Biophysics (MIAPbP) in Munich, Germany. Applications for the workshop are open until January 19th 2025. If you are interested in large-scale foundation models for science, physics-inspired methods in artificial intelligence, this workshop may be a great fit for you. The MIAPbP team hopes to discuss over the course of four weeks, what the interplay is between these ideas for scientific applications."
   calendar-link:
 
 - type: "workshop"
@@ -34,7 +34,7 @@
   talk-date-time: "January 27-30, 2025"
   start-date-time: "2025-01-27 9:00"
   end-date-time: "2025-01-30 17:00"
-  talk-location:
+  talk-location: "MIT"
   talk-zoom:
   event-details: "Gaia is a space telescope that measures the positions and velocities of stars in the Milky Way. The Gaia data is the largest stellar catalog to date, with the velocities and positions of 1.8 billion stars in the Milky Way! No prior knowledge of the data set is required. People at different levels will be accessing the data in the same room, and collaborating on new and exciting projects. If you have ideas on what to use the new data release for, great! Come in for snacks and the company. If not, we have some fun projects for you, and a day full of tutorials. Lunch and snacks will be provided, so be sure to register."
   calendar-link:
