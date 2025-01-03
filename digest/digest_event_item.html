@@ -46,6 +46,9 @@
 {%- if is_this_week or is_next_week or is_upcoming or is_future %}
 {% if start_date == end_date %} * **{{ start_date }}, {{ start_time }} – {{ end_time }},** {% else %} * **{{ start_date }} – {{ end_date }},** {% endif %} **{{talk.talk-location}}**
 {%- endif -%}
+{%- if talk.event-organizer %}
+  * Organized by {{talk.event-organizer}}
+{%- endif -%}
 {%- if talk.talk-abstract and (is_this_week or is_next_week) %}
   * Abstract:  *{{talk.talk-abstract}}*
 {%- endif -%}
