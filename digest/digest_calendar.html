@@ -111,7 +111,22 @@ If you have any accessibility needs, please reach out to [iaifi-accessibility@mi
 {% if events_next_week == '' %} *No events next week.* {% endif %}
 
 <!-- Events in the future we want to advertise -->
-## Future Events
+## Important Upcoming IAIFI Events
+Save the date and RSVP/register for these important IAIFI events coming up!
+
+{% assign events_upcoming = '' %}
+{% for talk in event_list %}
+{% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
+ {% assign post_date_time_in_seconds = talk.event-post-date | date: '%s' | plus: 0 %}
+ {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
+ {% unless post_date_time_in_seconds < digest_start_in_seconds and start_date_time_in_seconds > digest_next_in_seconds and site.data.talk-categories[talk.type].category=='internal' and talk.priority=='high' %}{% continue %}{% endunless %}
+  {% assign events_upcoming = 'true' %} <!-- Mark that there is at least one event -->
+ {% include_relative digest_event_item.html talk=talk is_upcoming=true anchor=this_anchor %}
+{% endfor %}
+
+{% if events_upcoming == '' %} *No future events to share this week.* {% endif %}
+
+## Other Future Events
 Save the date for these events (and check to see if you need to register)!
 
 {% assign events_future = '' %}
@@ -119,7 +134,7 @@ Save the date for these events (and check to see if you need to register)!
 {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
  {% assign post_date_time_in_seconds = talk.event-post-date | date: '%s' | plus: 0 %}
  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
- {% unless post_date_time_in_seconds < digest_start_in_seconds and post_date_time_in_seconds > digest_past_in_seconds and start_date_time_in_seconds > digest_next_in_seconds%}{% continue %}{% endunless %}
+ {% unless post_date_time_in_seconds < digest_start_in_seconds and post_date_time_in_seconds > digest_past_in_seconds and start_date_time_in_seconds > digest_next_in_seconds and site.data.talk-categories[talk.type].category=='external'%}{% continue %}{% endunless %}
   {% assign events_future = 'true' %} <!-- Mark that there is at least one event -->
  {% include_relative digest_event_item.html talk=talk is_future=true anchor=this_anchor %}
 {% endfor %}

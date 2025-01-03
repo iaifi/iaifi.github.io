@@ -28,9 +28,15 @@ external-event:
   zoom:
   button_type: button--secondary
 
-workshop:
-  name: "Workshop"
+external-workshop:
+  name: "External Workshop"
   category: "external"
+  zoom:
+  button_type: button--outline-primary
+  
+internal-workshop:
+  name: "IAIFI Workshop"
+  category: "internal"
   zoom:
   button_type: button--outline-primary
 

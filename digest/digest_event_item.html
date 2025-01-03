@@ -3,6 +3,7 @@
 {% assign is_this_week = include.is_this_week %}
 {% assign is_next_week = include.is_next_week %}
 {% assign is_last_week = include.is_last_week %}
+{% assign is_upcoming = include.is_upcoming %}
 {% assign is_future = include.is_future %}
 {% assign start_date = talk.start-date-time | date: "%A, %B %e, %Y" %}
 {% assign end_date = talk.end-date-time | date: "%A, %B %e, %Y" %}
@@ -22,6 +23,8 @@
 ### This {{talk.start-date-time | date: "%A"}} at {{talk.start-date-time | date: "%l:%M%P"}}:  {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
 {% elsif is_next_week %}
 ### Next {{talk.start-date-time | date: "%A"}}:  {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
+{% elsif is_upcoming %}
+### {{talk.event-name}}  {#{{include.anchor}}}
 {% elsif is_future %}
 ### {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
 {% elsif is_last_week %}
@@ -29,7 +32,7 @@
 {% endif %}
 
 <!-- I am removing {{talk.speaker-title}}, since this came up when talking to some junior people.-->
-
+{%- if is_this_week or is_next_week or is_future %}
 {%- if talk.speaker-name %}
   * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a> ({{talk.speaker-affiliation}})**
 {%- endif -%}
@@ -39,8 +42,12 @@
 {%- if talk.talk-title %}
   * **{{talk.talk-title}}**
 {%- endif -%}
-{%- if is_this_week or is_next_week or is_future %}
+{%- endif -%}
+{%- if is_this_week or is_next_week or is_upcoming or is_future %}
 {% if start_date == end_date %} * **{{ start_date }}, {{ start_time }} – {{ end_time }},** {% else %} * **{{ start_date }} – {{ end_date }},** {% endif %} **{{talk.talk-location}}**
+{%- endif -%}
+{%- if talk.event-organizer %}
+  * Organized by {{talk.event-organizer}}
 {%- endif -%}
 {%- if talk.talk-abstract and (is_this_week or is_next_week) %}
   * Abstract:  *{{talk.talk-abstract}}*
@@ -49,8 +56,8 @@
   * {{talk.event-details}}
 {%- endif -%}
 <br>
-{%- if is_this_week or is_next_week or is_future %}
-  {% if talk.rsvp-link %}[RSVP/Sign Up]({{talk.rsvp-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if zoom_link %}[Join on Zoom]({{zoom_link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} [Add to Calendar]({{talk.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% if talk.more-info-link %}[More Details]({{talk.more-info-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
+{%- if is_this_week or is_next_week or is_upcoming or is_future %}
+  {% if talk.rsvp-link %}[RSVP/Sign Up]({{talk.rsvp-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if zoom_link %}[Join on Zoom]({{zoom_link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if talk.calendar-link %} [Add to Calendar]({{talk.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %} {% if talk.more-info-link %}[More Details]({{talk.more-info-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
 {%- endif -%}
 {%- if is_last_week and (talk.slides-link or youtube-link) %}
   {% if talk.slides-link %}[Talk Slides]({{talk.slides-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if talk.youtube-link %}[YouTube Recording]({{talk.youtube-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %}

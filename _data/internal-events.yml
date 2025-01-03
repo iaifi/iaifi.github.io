@@ -1,3 +1,17 @@
+- type: "internal-workshop"
+  event-name: "IAIFI Summer Workshop"
+  event-committee: "Summer School and Workshop"
+  event-post-date: "2025-02-01"
+  start-date-time: "2025-08-11 9:00"
+  end-date-time: "2025-08-15 17:00"
+  talk-location: "Harvard"
+  talk-zoom:
+  event-details: "The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmpqYW9zYmJqOWhmdGdqdm5naHFpZ3FtaGIgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link: https://iaifi.org/summer-workshop
+  priority: high
+  
 - type: "internal-other"
   event-name: "IAIFI Summer School"
   event-committee: "Summer School and Workshop"
@@ -7,9 +21,10 @@
   talk-location: "Harvard SEAS"
   talk-zoom:
   event-details: "The Summer School will include lectures and events that illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice, and a hackathon project provides an opportunity for students to collaborate and apply what they’ve learned. Registration deadline is February 7, 2025."
-  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mm5vYjlhcGl0Zm1uOWw2dHR0M203bWtwcXMgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mm5vYjlhcGl0Zm1uOWw2dHR0M203bWtwcXMgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://iaifi.org/phd-summer-school
+  priority: high
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
