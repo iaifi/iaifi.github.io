@@ -5,7 +5,7 @@
 {% assign start_time = talk.start-date-time | date: "%l:%M%P" %}
 {% assign end_time = talk.end-date-time | date: "%l:%M%P" %}
 
-* **<a href="{{talk.event-website}}">{{talk.event-name}}</a>, {{talk.event-organizer}}**
+* **<a href="{{talk.more-info-link}}">{{talk.event-name}}</a>, {{talk.event-organizer}}**
     {% if start_date == end_date %} * **{{ start_date }}, {{ start_time }}–{{ end_time }}** {% else %} * **{{ start_date }} – {{ end_date }}** {% endif %}
 {% if talk.talk-location %}  * *{{talk.talk-location}}* {% if talk.talk-zoom %}; <a href="{{talk.event-zoom}}">Zoom link</a>{% endif %}{% endif %}
 {% if talk.event-details %}  * {{talk.event-details}}{% endif %}

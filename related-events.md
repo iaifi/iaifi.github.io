@@ -27,7 +27,7 @@ aside:
   {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
   {% unless start_date_time_in_seconds >= now %}{% continue %}{% endunless %}
 
-  {% if talk.type == "workshop" %}
+  {% if talk.type == "external-workshop" %}
   {% include related-event_item.html talk=talk %}
   {% endif %}
 {% endfor %}
@@ -38,7 +38,7 @@ aside:
   {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
   {% unless start_date_time_in_seconds < now %}{% continue %}{% endunless %}
 
-  {% if talk.type == "workshop" %}
+  {% if talk.type == "external-workshop" %}
   {% include related-event_item.html talk=talk %}
   {% endif %}
 {% endfor %}
