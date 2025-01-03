@@ -11,6 +11,7 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 {% assign talks = site.data.thematic-discussions %}
 
 ## Upcoming Discussions
+{% assign talks = site.data.thematic-discussions | sort: "start-date-time" %}
 
 {% for talk in talks %}
   {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
@@ -21,6 +22,7 @@ Unless otherwise noted, lightning talks will be held in person (MIT Kolker Room,
 {% endfor %}
 
 ## Past Discussions
+{% assign talks = site.data.thematic-discussions | sort: "start-date-time" | reverse %}
 
 {% for semester in site.data.calendar.semesters %}
 

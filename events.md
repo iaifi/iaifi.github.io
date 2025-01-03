@@ -10,9 +10,9 @@ Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/ia
 You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
 
 {% assign now = 'now' | date: '%s' | plus: 0 %}
-{% assign talks = site.data.colloquia %}
 
 ## Upcoming Colloquia 
+{% assign talks = site.data.colloquia | sort: "start-date-time" %}
 
 {% for talk in talks %}
   {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
@@ -23,6 +23,7 @@ You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com
 {% endfor %}
 
 ## Past Colloquia 
+{% assign talks = site.data.colloquia | sort: "start-date-time" | reverse %}
 
 {% for semester in site.data.calendar.semesters %}
 

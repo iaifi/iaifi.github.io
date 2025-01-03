@@ -6,9 +6,9 @@ aside:
 ---
 
 {% assign now = 'now' | date: '%s' | plus: 0 %}
-{% assign talks = site.data.internal-events %}
 
 ## Upcoming Industry Lunches
+{% assign talks = site.data.internal-events | sort: "start-date-time" %}
 
 {% for talk in talks %}
   {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
@@ -20,6 +20,7 @@ aside:
 {% endfor %}
 
 ## Past Industry Lunches
+{% assign talks = site.data.internal-events | sort: "start-date-time" | reverse %}
 
 {% for talk in talks %}
   {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}

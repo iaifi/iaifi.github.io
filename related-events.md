@@ -6,11 +6,11 @@ aside:
 ---
 
 {% assign now = 'now' | date: '%s' | plus: 0 %}
-{% assign talks = site.data.external-events %}
 
 ## Related Events
 
 ### Upcoming External Events
+{% assign talks = site.data.external-events | sort: "start-date-time" %}
 
 {% for talk in talks %}
   {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
@@ -22,6 +22,7 @@ aside:
 {% endfor %}
 
 ### Upcoming Workshops
+{% assign talks = site.data.external-events | sort: "start-date-time" %}
 
 {% for talk in talks %}
   {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
@@ -33,6 +34,7 @@ aside:
 {% endfor %}
 
 ### Past Workshops
+{% assign talks = site.data.external-events | sort: "start-date-time" | reverse %}
 
 {% for talk in talks %}
   {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
