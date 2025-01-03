@@ -1,3 +1,17 @@
+- type: "internal-workshop"
+  event-name: "IAIFI Summer Workshop"
+  event-committee: "Summer School and Workshop"
+  event-post-date: "2025-02-01"
+  start-date-time: "2025-08-11 9:00"
+  end-date-time: "2025-08-15 17:00"
+  talk-location: "Harvard"
+  talk-zoom:
+  event-details: "The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmpqYW9zYmJqOWhmdGdqdm5naHFpZ3FtaGIgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com
+  rsvp-link:
+  more-info-link: https://iaifi.org/summer-workshop
+  priority: high
+  
 - type: "internal-other"
   event-name: "IAIFI Summer School"
   event-committee: "Summer School and Workshop"
@@ -10,6 +24,7 @@
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mm5vYjlhcGl0Zm1uOWw2dHR0M203bWtwcXMgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com
   rsvp-link:
   more-info-link: https://iaifi.org/phd-summer-school
+  priority: high
   
 - type: "social"
   event-name: "Weekly Coffee Hour"

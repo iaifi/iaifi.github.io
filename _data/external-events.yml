@@ -1,4 +1,4 @@
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics"
   event-organizer: "MIAPbP (Munich Institute for Astro-, Particle- and Biophysics)"
   more-info-link: "https://www.munich-iapbp.de/activities/activities-2025/machine-learning"
@@ -10,7 +10,7 @@
   event-details: "MIAPbP will be hosting a workshop on the topic of 'Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics' from August 25 - September 19 at the Munich Institute for Astro-, Particle- and Biophysics (MIAPbP) in Munich, Germany. Applications for the workshop are open until January 19th 2025. If you are interested in large-scale foundation models for science, physics-inspired methods in artificial intelligence, this workshop may be a great fit for you. The MIAPbP team hopes to discuss over the course of four weeks, what the interplay is between these ideas for scientific applications."
   calendar-link:
 
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Frontiers in NeuroAI - Kempner Institute Symposium"
   event-organizer: "Kempner Institute"
   more-info-link: "https://kempnerinstitute.harvard.edu/frontiers-in-neuroai/"
@@ -34,7 +34,7 @@
   event-details: "Gaia is a space telescope that measures the positions and velocities of stars in the Milky Way. The Gaia data is the largest stellar catalog to date, with the velocities and positions of 1.8 billion stars in the Milky Way! No prior knowledge of the data set is required. People at different levels will be accessing the data in the same room, and collaborating on new and exciting projects. If you have ideas on what to use the new data release for, great! Come in for snacks and the company. If not, we have some fun projects for you, and a day full of tutorials. Lunch and snacks will be provided, so be sure to register."
   calendar-link:
 
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Workshop on Basic Computing Services in the Physics Department"
   event-organizer: "Basic Computing Services for the Physics Department (subMIT)"
   more-info-link: "https://indico.mit.edu/event/1276/"
@@ -46,7 +46,7 @@
   event-details: "The Basic Computing Services (subMIT) provides computing resources and support for members of the Physics Department. This workshop will include tutorials, instructional sessions, an overview of the subMIT resources, and user talks showcasing ways in which members of the department have used submit to support their computational workflows.  This is a great opportunity for students, faculty, and staff to learn more about how these computing services can enhance their productivity and streamline their work.  It is also a good opportunity to provide feedback as to how subMIT can be extended/adapted to better suit the needs of the Department.  Open to ALL members of the Physics Department (whether or not current subMIT users)."
   calendar-link:
 
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Statistics and Data Science Conference"
   event-organizer: "MIT"
   more-info-link: "https://sdscon.mit.edu/"
@@ -58,7 +58,7 @@
   event-details:
   calendar-link:
   
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Theoretical Physics for Deep Learning Workshop"
   event-organizer: "Aspen Center for Physics Summer"
   more-info-link: "https://aspenphys.org/physicists/summer/program/currentworkshops.html"
@@ -70,7 +70,7 @@
   event-details: "IAIFI involvement: Dan Roberts (Co-Organizer)"
   calendar-link:
   
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Interplay of Fundamental Physics and Machine Learning"
   event-organizer: "Aspen Center for Physics"
   more-info-link: "https://www.aspenphys.org/physicists/summer/program/currentworkshops.html"
@@ -82,7 +82,7 @@
   event-details: "IAIFI involvement: Jesse Thaler (co-organizer)"
   calendar-link:
   
-- type: "workshop"
+- type: "external-workshop"
   event-name: "A Deep-Learning Era of Particle Theory"
   event-organizer: "Mainz Institute for Theoretical Physics"
   more-info-link: "https://indico.mitp.uni-mainz.de/event/254/"
@@ -94,7 +94,7 @@
   event-details: "IAIFI involvement: Jim Halverson (co-organizer)"
   calendar-link:
 
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Machine Learning at GGI"
   event-organizer: "Galileo Galilei Institute"
   more-info-link: "https://www.ggi.infn.it/showevent.pl?id=414"
@@ -106,7 +106,7 @@
   event-details: "IAIFI involvement: Jesse Thaler (Co-Organizer)"
   calendar-link:
 
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Fast Machine Learning for Science Workshop"
   event-organizer: "FastML"
   more-info-link: "https://indico.cern.ch/event/1156222/"
@@ -118,7 +118,7 @@
   event-details: "IAIFI involvement: Phil Harris (Scientific Committee)"
   calendar-link:
   
-- type: "workshop"
+- type: "external-workshop"
   event-name: "ML4Jets 2022"
   event-organizer: "ML4Jets"
   more-info-link: "https://indico.cern.ch/event/1159913/"
@@ -130,7 +130,7 @@
   event-details: "IAIFI involvement: Jesse Thaler (International Advisory Committee)"
   calendar-link:
 
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Machine Learning and the Physical Sciences Workshop"
   event-organizer: "NeurIPS 2022"
   more-info-link: "https://ml4physicalsciences.github.io/2022/"
@@ -142,7 +142,7 @@
   event-details: "IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer)"
   calendar-link:
   
-- type: "workshop"
+- type: "external-workshop"
   event-name: "AI for Robust Engineering & Science Workshop (AIRES4)"
   event-organizer: "Oak Ridge National Laboratory"
   more-info-link: "https://aires.ornl.gov"
@@ -154,7 +154,7 @@
   event-details:
   calendar-link:
   
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Responsible AI in the Natural Sciences Mini-Workshop"
   event-organizer: "CMU"
   more-info-link: "https://sites.google.com/view/rainscmu"
@@ -166,7 +166,7 @@
   event-details:
   calendar-link:
 
-- type: "workshop"
+- type: "external-workshop"
   event-name: "At the interface of Physics, Mathematics and Artificial Intelligence Workshop"
   event-organizer: "Pollica Physics Center"
   more-info-link: "https://agenda.infn.it/event/33851/"
@@ -178,7 +178,7 @@
   event-details: "IAIFI involvement: Harold Erbin, Daniel Hackett, Anindita Maiti (Co-Organizers)"
   calendar-link:
   
-- type: "workshop"
+- type: "external-workshop"
   event-name: "AI Forward Workshop"
   event-organizer: "DARPA"
   more-info-link: "https://www.darpa.mil/news-events/2023-02-24"
@@ -190,7 +190,7 @@
   event-details:
   calendar-link:
     
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Machine Learning Theory Summer School"
   event-organizer: "Princeton"
   more-info-link: "https://mlschool.princeton.edu"
@@ -202,7 +202,7 @@
   event-details:
   calendar-link:
   
-- type: "workshop"
+- type: "external-workshop"
   event-name: "AI+Science Summer School"
   event-organizer: "Institute for Mathematical and Statistical Innovation"
   more-info-link: "https://datascience.uchicago.edu/events/ai-science-summer-school-2023/"
@@ -214,7 +214,7 @@
   event-details:
   calendar-link:
   
-- type: "workshop"
+- type: "external-workshop"
   event-name: "The impact of chatGPT and other large language models on physics research and education Workshop"
   event-organizer: "MIT Physics"
   more-info-link: "https://indico.mit.edu/event/759/registrations/157/"
@@ -226,7 +226,7 @@
   event-details:
   calendar-link:
 
-- type: "workshop"
+- type: "external-workshop"
   event-name: "MODE Workshop on Differentiable Programming for Experiment Design"
   event-organizer: "MODE (for Machine-learning Optimized Design of Experiments)"
   more-info-link: "https://indico.cern.ch/event/1242538/"
@@ -238,7 +238,7 @@
   event-details:
   calendar-link:
 
-- type: "workshop"
+- type: "external-workshop"
   event-name: "ML4Jets2023"
   event-organizer: "ML4Jets"
   more-info-link: "https://indico.cern.ch/event/1253794/"
@@ -250,7 +250,7 @@
   event-details:
   calendar-link:
   
-- type: "workshop"
+- type: "external-workshop"
   event-name: "AI4EIC 2023 Annual Workshop"
   event-organizer: "AI4EIC"
   more-info-link: "https://indico.bnl.gov/event/19560/overview"
@@ -262,7 +262,7 @@
   event-details: "IAIFI involvement: Mike Williams (Co-Organizer)"
   calendar-link:
 
-- type: "workshop"
+- type: "external-workshop"
   event-name: "GRaM: Geometry-grounded Representation Learning and Generative Modeling Workshop"
   event-organizer: "ICML 2024"
   more-info-link: "https://gram-workshop.github.io/index.html"
@@ -298,7 +298,7 @@
   event-details: "Hannes Stärk and Bowen Jing, Generative Models for Biomolecular Prediction, Dynamics, and Design: We lay out the three avenues in which we think generative models are especially valuable for modeling biomolecules. 1) Hard prediction tasks can be better addressed with generative models that can suggest and rank multiple solutions (e.g. docking). 2) The dynamics and conformations of biomolecules can be captured with generative models (e.g. protein conformational ensembles and MD trajectories). 3) Designing new biomolecules can be accelerated, informed by samples or likelihoods from generative models (e.g. protein binder or regulatory DNA design). Refreshments (tea and pastry) will be served."
   calendar-link:
 
-- type: "workshop"
+- type: "external-workshop"
   event-name: "Machine Learning and the Physical Sciences Workshop"
   event-organizer: "NeurIPS 2024"
   more-info-link: "https://ml4physicalsciences.github.io/2024/"
