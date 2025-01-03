@@ -10,9 +10,9 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
 [Sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
 {% assign now = 'now' | date: '%s' | plus: 0 %}
-{% assign talks = site.data.journal-club %}
 
 ## Upcoming Journal Clubs
+{% assign talks = site.data.journal-club | sort: "start-date-time" %}
 
 {% for talk in talks %}
 {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
@@ -23,6 +23,7 @@ The IAIFI Journal Club is open to IAIFI members and affiliates.
 {% endfor %}
 
 ## Past Journal Clubs
+{% assign talks = site.data.journal-club | sort: "start-date-time" | reverse %}
 
 {% for semester in site.data.calendar.semesters %}
 
