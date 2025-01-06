@@ -47,9 +47,10 @@ Lecturers will be announced as they are confirmed.
 
 Lecturer: [Sasha Rakhlin](https://www.mit.edu/~rakhlin/), Professor, MIT
 
+<img class="image" src="images/small-photo-aleksandra-ciprijanovic.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Robust/Interpretable AI: Scaling Laws
 
-Lecturer: TBA
+Lecturer: [Aleksandra Ćiprajanović](https://aleksandraciprijanovic.wordpress.com), Wilson Fellow Associate Scientist, Fermilab
 
 ### Topic: Physics-Motivated Optimization: Simulation Intelligence
 
