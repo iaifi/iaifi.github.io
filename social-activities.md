@@ -15,7 +15,7 @@ IAIFI members are encouraged to submit ideas for community building events/activ
 
 * Each event/activity must have an Event Point Person, who must be a member of IAIFI. The Event Point Person will be in charge of coordinating the logistics, including communicating with participants about activity details and facilitating reimbursement.
 * All events/activities must be advertised to all of IAIFI, but could be targeted to a subset if desired (e.g. an outing for first-year grad students in IAIFI). Events/activities will be advertised in the IAIFI Weekly Digest and Slack. 
-* The budget is around 10 USD per participant, with a maximum of 250 USD total per event. 
+* The budget is up to 10 USD per participant, with a maximum of 250 USD total per event. 
 * A minimum of 5 IAIFI members must attend the event/activity in order for it to be reimbursed.
 * These funds can not be used to reimburse sales tax or alcohol.
 * Reimbursement forms must be submitted within 30 days after the event/activity. 
