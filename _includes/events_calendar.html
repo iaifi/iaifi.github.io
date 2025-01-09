@@ -1,0 +1,86 @@
+<!-- Defining times -->
+{% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
+{% assign week_duration_in_seconds = 7 | times: 60 | times: 60 | times: 24 %}
+{% assign now = 'now' | date: '%s' | plus: 0 %}
+{% assign end_of_week = now | plus: week_duration_in_seconds %}
+
+<!-- Getting all events and sorting them by time -->
+{% assign event_list = '' | split: '' %}
+{% for event_type in site.data.calendar.event_types %}
+{% assign event_list = event_list | concat: site.data[event_type] %}
+{% endfor %}
+{% assign event_list = event_list| sort: "start-date-time" %}
+
+<!-- Filter events happening in the next week
+{% assign filtered_events = '' | split: '' %}
+{% for event in event_list %}
+  {% assign start_date_time_in_seconds = event.start-date-time | date: "%s" | times: 1 %}
+  {% if start_date_time_in_seconds >= now and start_date_time_in_seconds < end_of_week %}
+    {% assign filtered_events = filtered_events | push: event %}
+  {% endif %}
+{% endfor %}
+-->
+
+
+<!-- Calendar -->
+## Upcoming Events
+
+Click on the calendar items to see event details.
+
+<!-- Creating calendar grid -->
+<div class="grid-container">
+<div class="grid grid--p-1">
+      {% for column in site.data.calendar.columns %}
+        <div class="cell cell--{{column.column_width}}" align="center">
+        </div>
+      {% endfor %}
+  </div>
+</div>
+<hr>
+{% assign day_counter = 0 %}
+{% for i in (1..2) %}
+<div class="grid-container">
+  <div class="grid grid--p-1">
+      {% for column in site.data.calendar.columns %}
+        <div class="cell cell--{{column.column_width}}" align="center">
+          {% assign day_counter_in_seconds = day_counter | times: 60 | times: 60 | times: 24 %}
+          {% assign this_day_start_in_seconds = now | plus: day_counter_in_seconds %}
+          {% assign day_duration_in_seconds = column.day_span | times: 60 | times: 60 | times: 24 %}
+          {% assign this_day_end_in_seconds = this_day_start_in_seconds | plus: day_duration_in_seconds | minus: 1 %}
+        
+          <b>
+          {% if column.name == "Monday" %}{{this_day_start_in_seconds | date: "%b %e"}}
+          {% elsif column.name == "Sat/Sun" %}{{this_day_start_in_seconds | date: "%b %e"}}-{{this_day_end_in_seconds | date: "%b %e"}}
+          {% else %}{{this_day_start_in_seconds | date: "%b %e"}}
+          {% endif %}
+          </b><br><br>
+
+          
+          {% for event in event_list %}
+            {% assign start_date_time_in_seconds = event.start-date-time | date: "%s" | times: 1 %}
+            {% assign end_date_time_in_seconds = event.end-date-time | date: "%s" | times: 1 %}
+          
+            {% if start_date_time_in_seconds >= this_day_start_in_seconds and start_date_time_in_seconds <= this_day_end_in_seconds %}
+                <a class="button {{site.data.talk-categories[event.type].button_type}} button--rounded button--sm" href="{{ site.data.talk-categories[event.type].webpage }}">
+                  <!--<i>{{start_date_time_in_seconds | date: "%b %e, %Y"}}</i><br>-->
+                  <i>{{start_date_time_in_seconds | date: "%l:%M%P" | strip}}-{{end_date_time_in_seconds | date: "%l:%M%P" | strip}}</i><br>
+                  <i>{{event.talk-location}}</i><br><br>
+
+                  {% if event.type %}{{site.data.talk-categories[event.type].name}}{% endif %}
+                  {% if event.speaker-name %}{{event.speaker-name}}{% endif %}
+                  {% if event.event-name %}{{event.event-name}}{% endif %}
+                </a>
+                <br><br>
+          {% endif %}
+          {% endfor %}
+
+          {% assign day_counter = day_counter | plus: column.day_span %}
+        </div>
+      {% endfor %}
+  </div>
+</div>
+<hr>
+{% endfor %}
+
+
+[View full IAIFI Events Calendar](https://iaifi.org/events-calendar.html){:.button.button--outline-primary.button--pill.button--sm}

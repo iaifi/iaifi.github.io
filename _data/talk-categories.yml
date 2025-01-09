@@ -3,42 +3,49 @@ colloquium:
   category: "internal"
   zoom: https://mit.zoom.us/j/91200832411
   button_type: button--outline-primary
+  webpage: "https://iaifi.org/events"
 
 thematic-discussion:
   name: "Thematic Discussion"
   category: "internal"
   zoom: https://mit.zoom.us/j/92183041364?pwd=N3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09
   button_type: button--outline-primary
+  webpage: "https://iaifi.org/lightning-talks"
 
 journal-club:
   name: "Journal Club"
   category: "internal"
   zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
   button_type: button--outline-primary
+  webpage: "https://iaifi.org/journal-club"
 
 industry-lunch:
   name: "Industry Lunch"
   category: "internal"
   zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
   button_type: button--outline-primary
+  webpage: "https://iaifi.org/industry-lunches"
 
 external-event:
   name: "External Event"
   category: "external"
   zoom:
   button_type: button--secondary
+  webpage: "https://iaifi.org/related-events.html#upcoming-external-events"
 
 external-workshop:
   name: "External Workshop"
   category: "external"
   zoom:
   button_type: button--outline-primary
+  webpage: "https://iaifi.org/related-events.html#upcoming-workshops"
   
 internal-workshop:
   name: "IAIFI Workshop"
   category: "internal"
   zoom:
   button_type: button--outline-primary
+  webpage:
 
 social:
   name: "IAIFI Social Event"
@@ -46,9 +53,11 @@ social:
   zoom:
   button_type: button--secondary
   hide_on_past: true
+  webpage: "https://iaifi.org/social-events.html"
 
 internal-other:
   name: "Other Internal Events"
   category: "internal"
   zoom:
   button_type: button--outline-primary
+  webpage: 
