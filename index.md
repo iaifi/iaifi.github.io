@@ -107,6 +107,12 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 <br>
 
+<style>
+.card_header h4 {
+  white-space: nowrap; 
+}
+</style>
+
 <div class="grid-container">
   <div class="grid grid--p-2">
     <div class="cell cell--4">
