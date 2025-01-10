@@ -26,7 +26,7 @@ article_header:
 <style>
 .responsive-wrap {
   float: right; 
-  margin: 40px 0 10px 15px; 
+  margin: 25px 10px 10px 15px; 
   max-width: 560px; /* 
 }
 
@@ -35,15 +35,27 @@ article_header:
   height: auto; 
 }
 
+.button-container {
+  text-align: center; 
+  margin-top: 10px; =
+}
+
 @media screen and (max-width: 768px) {
   .responsive-wrap {
     float: none; 
-    margin: 0 auto; 
+    margin: 20px auto; 
   }
 }
 </style>
+
 <div class="responsive-wrap">
 <iframe width="450" height="253" src="https://www.youtube.com/embed/odeUSHMmLGs?si=TYYaafoOJx0wefPJ?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="button-container">
+  <a href="/join.html" class="button button--outline-primary button--pill button--lg">Join</a>
+  <a href="/partnerships.html" class="button button--outline-primary button--pill button--lg">Partner</a>
+  <a href="http://mailman.mit.edu/mailman/listinfo/iaifi-news" class="button button--outline-primary button--pill button--lg">Follow</a>
+  <a href="/member-resources.html" class="button button--outline-primary button--pill button--lg">For Members</a>
+</div>
 </div>
 
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. The IAIFI is a collaboration of [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts. IAIFI's primary goals are to pioneer interdisciplinary AI+Physics **research**; empower the next generation of \AI+Physics **talent**; and build a dynamic AI+Physics **community**.
@@ -107,6 +119,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 </div>
 
 
+
 <!---
 ### IAIFI Jobs
 
@@ -121,6 +134,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
 ***Our [IAIFI Colloquium series](events.html) will continue on February 14 with IAIFI Fellow Sam Bright-Thonney.*** Recordings of our previous [colloquium talks](events.html) are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+{:.success}
+
+***Applications are now open for our [2025 IAIFI Summer School](phd-summer-school.html).*** The Summer School will be held at Harvard, **August 4–8, 2025** and will include lectures, hands-on tutorials, and a hackathon for early career AI+Physics researchers.
 {:.success}
 
 <style>
