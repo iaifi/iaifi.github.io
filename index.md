@@ -30,6 +30,7 @@ article_header:
   align-items: center; 
   margin: 30px 0; 
   width: 100%; 
+  flex-wrap: wrap; 
 }
 
 .button-container a {
@@ -37,6 +38,19 @@ article_header:
   margin: 0 10px; 
   text-align: center; 
   padding: 15px;
+  min-width: 150px;
+}
+
+@media screen and (max-width: 768px) {
+  .button-container {
+    flex-direction: column; /* Stack the buttons vertically on smaller screens */
+    align-items: stretch; /* Make the buttons full width in stacked mode */
+  }
+
+  .button-container a {
+    width: 100%; /* Ensure each button takes up full width when stacked */
+    margin: 10px 0; /* Add margin between stacked buttons */
+  }
 }
 
 .button-container a:hover {

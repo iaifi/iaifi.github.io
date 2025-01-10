@@ -36,13 +36,14 @@ aside:
 <p>By combining state-of-the-art research with early career talent and a growing AI + physics community in the Boston area and beyond, the IAIFI is enabling researchers to  develop AI technologies to tackle some of the most challenging problems in physics, and transfer these technologies to the broader AI community. Since trustworthy AI is as important for physics discovery as it is for other applications of AI in society, IAIFI researchers are applying physics principles to develop more robust AI tools and to illuminate existing AI technologies. To cultivate human intelligence, the IAIFI promotes training, education, and public engagement at the intersection of physics and AI. In these ways, the IAIFI is fusing deep learning with deep thinking to gain a deeper understanding of our universe and AI.</p>
 
 *The IAIFI is anchored in the [Laboratory for Nuclear Science](https://web.mit.edu/lns/) at MIT.*
-
+<!---
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/odeUSHMmLGs?si=PHfQdsynNWSagOJT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+--->
 
 ## Research
 
@@ -52,7 +53,7 @@ aside:
       <center>
         <div class="card">
           <div class="card_image">
-          <img class="image" src="images/research-button.png"/>
+          <img class="image" src="images/research-button-2025.png"/>
           </div>
             <div class="card_content">
             <font color="salmon">Pioneering interdisciplinary</font>
