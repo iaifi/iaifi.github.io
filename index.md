@@ -14,39 +14,82 @@ article_header:
 
 <center>
 
-<img src="images/All-Logos-Horizontal.png" align="center" style="max-width:1280px;width:50%"> <br>
+<img src="images/All-Logos-NSF-Horizontal.png" align="center" style="max-width:1280px;width:60%">
 
-<br>
-
+<!---
 <span style="font-size: 24px;">
 <font color="peru">Deep Learning (AI)</font> + <font color="rebeccapurple">Deep Thinking (Physics)</font> = <font color="teal">Deeper Understanding</font>
 </span>
+--->
 </center>
 
 <style>
+.button-container {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  margin: 30px 0; 
+  width: 100%; 
+}
+
+.button-container a {
+  flex: 1; 
+  margin: 0 10px; 
+  text-align: center; 
+  padding: 15px;
+}
+
+.button-container a:hover {
+
+}
+</style>
+
+<div class="button-container">
+  <a href="/join.html" class="button button--outline-primary button--pill button--lg">Join</a>
+  <a href="/partnerships.html" class="button button--outline-primary button--pill button--lg">Partner</a>
+  <a href="http://mailman.mit.edu/mailman/listinfo/iaifi-news" class="button button--outline-primary button--pill button--lg">Follow</a>
+  <a href="/member-resources.html" class="button button--outline-primary button--pill button--lg">For Members</a>
+</div>
+
+<style>
+/* Wrapper for responsive video */
 .responsive-wrap {
-  float: right; 
-  margin: 40px 0 10px 15px; 
-  max-width: 560px; /* 
+  float: right; /* Keeps the video floated to the right */
+  margin: 30px 0 10px 15px; /* Spacing for the video */
+  width: 100%; /* Makes the wrapper responsive */
+  max-width: 440px; /* Maximum width for larger screens */
+  position: relative;
+  box-sizing: border-box;
 }
 
 .responsive-wrap iframe {
-  max-width: 100%; 
-  height: auto; 
+  width: 100%; /* Ensures the iframe takes up the full width of the wrapper */
+  height: auto; /* Automatically adjusts height to maintain aspect ratio */
+  aspect-ratio: 16 / 9; /* Enforces the 16:9 aspect ratio */
+  border: 0; /* Removes iframe border */
 }
 
 @media screen and (max-width: 768px) {
   .responsive-wrap {
-    float: none; 
-    margin: 0 auto; 
+    float: none; /* Removes float on smaller screens */
+    margin: 20px auto; /* Centers the video container */
   }
 }
 </style>
+
+
 <div class="responsive-wrap">
-<iframe width="450" height="253" src="https://www.youtube.com/embed/odeUSHMmLGs?si=TYYaafoOJx0wefPJ?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe 
+    src="https://www.youtube.com/embed/odeUSHMmLGs?si=TYYaafoOJx0wefPJ?cc_load_policy=1" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
 </div>
 
-The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. The IAIFI is a collaboration of [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts. IAIFI's primary goals are to pioneer interdisciplinary AI+Physics **research**; empower the next generation of \AI+Physics **talent**; and build a dynamic AI+Physics **community**.
+The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. A collaboration of [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts, IAIFI's primary goals are to pioneer interdisciplinary AI+Physics **research**; empower the next generation of \AI+Physics **talent**; and build a dynamic AI+Physics **community**.
 
 <br>
 
