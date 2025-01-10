@@ -26,18 +26,13 @@ article_header:
 <style>
 .responsive-wrap {
   float: right; 
-  margin: 25px 0 10px 15px; 
+  margin: 40px 0 10px 15px; 
   max-width: 560px; /* 
 }
 
 .responsive-wrap iframe {
   max-width: 100%; 
   height: auto; 
-}
-
-.button-container {
-  text-align: center; 
-  margin-top: 10px; =
 }
 
 @media screen and (max-width: 768px) {
@@ -47,15 +42,8 @@ article_header:
   }
 }
 </style>
-
 <div class="responsive-wrap">
 <iframe width="450" height="253" src="https://www.youtube.com/embed/odeUSHMmLGs?si=TYYaafoOJx0wefPJ?cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<div class="button-container">
-  <a href="/join.html" class="button button--outline-primary button--pill button--lg">Join</a>
-  <a href="/partnerships.html" class="button button--outline-primary button--pill button--lg">Partner</a>
-  <a href="http://mailman.mit.edu/mailman/listinfo/iaifi-news" class="button button--outline-primary button--pill button--lg">Follow</a>
-  <a href="/member-resources.html" class="button button--outline-primary button--pill button--lg">For Members</a>
-</div>
 </div>
 
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. The IAIFI is a collaboration of [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts. IAIFI's primary goals are to pioneer interdisciplinary AI+Physics **research**; empower the next generation of \AI+Physics **talent**; and build a dynamic AI+Physics **community**.
