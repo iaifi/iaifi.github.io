@@ -26,7 +26,7 @@ article_header:
 <style>
 .responsive-wrap {
   float: right; 
-  margin: 25px 10px 10px 15px; 
+  margin: 25px 0 10px 15px; 
   max-width: 560px; /* 
 }
 
@@ -43,7 +43,7 @@ article_header:
 @media screen and (max-width: 768px) {
   .responsive-wrap {
     float: none; 
-    margin: 20px auto; 
+    margin: 0 auto; 
   }
 }
 </style>
