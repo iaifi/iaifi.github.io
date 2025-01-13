@@ -44,6 +44,7 @@ IAIFI does not have dedicated faculty opportunities, but there are often open fa
 
 If your situation does not fall into any of the above categories, please contact [IAIFI Management](mailto:iaifi@mit.edu).
 
+
 ## Postdocs/Students
 
 ### Apply to be a Friend of IAIFI
@@ -83,7 +84,6 @@ IAIFI investigators often have opportunities for undergraduate students to get i
 <li>Learn more about [becoming a UROP](https://urop.mit.edu/)</li>
 </ul>
 </ul>
-
 
 <!---
 <img class="image" src="images/tufts_logo.png" align="right" style="max-width:300px;width:10%" hspace="10" vspace="10"/>
