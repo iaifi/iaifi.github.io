@@ -109,11 +109,7 @@ header:
         url: /industry-partners.html
         
   - title: Join
-    subtitles:
-      - title: Join
-        url: /join.html
+    url: /join.html
 
   - title: For Members
-    subtitles:
-      - title: Resources
-        url: /member-resources.html
+    url: /member-resources.html
