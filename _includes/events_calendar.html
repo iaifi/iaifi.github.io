@@ -1,8 +1,14 @@
 <!-- Defining times -->
 {% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
 {% assign week_duration_in_seconds = 7 | times: 60 | times: 60 | times: 24 %}
+
 {% assign now = 'now' | date: '%s' | plus: 0 %}
-{% assign end_of_week = now | plus: week_duration_in_seconds %}
+{% assign day_number = 'now' | date: '%u' | minus: 1 %}
+{% assign day_number_in_seconds = day_number | times: 60 | times: 60 | times: 24 %}
+{% assign monday_before_now = now | minus: day_number_in_seconds %}
+
+{% assign start_of_week = monday_before_now %}
+{% assign end_of_week = monday_before_now | plus: week_duration_in_seconds %}
 
 <!-- Getting all events and sorting them by time -->
 {% assign event_list = '' | split: '' %}
@@ -44,7 +50,7 @@ Click on the calendar items to see event details.
       {% for column in site.data.calendar.columns %}
         <div class="cell cell--{{column.column_width}}" align="center">
           {% assign day_counter_in_seconds = day_counter | times: 60 | times: 60 | times: 24 %}
-          {% assign this_day_start_in_seconds = now | plus: day_counter_in_seconds %}
+          {% assign this_day_start_in_seconds = start_of_week | plus: day_counter_in_seconds %}
           {% assign day_duration_in_seconds = column.day_span | times: 60 | times: 60 | times: 24 %}
           {% assign this_day_end_in_seconds = this_day_start_in_seconds | plus: day_duration_in_seconds | minus: 1 %}
         
@@ -55,6 +61,7 @@ Click on the calendar items to see event details.
           {% endif %}
           </b><br><br>
 
+          {% if this_day_start_in_seconds == now %}<b><i>Today</i></b>{% endif %}
           
           {% for event in event_list %}
             {% assign start_date_time_in_seconds = event.start-date-time | date: "%s" | times: 1 %}
