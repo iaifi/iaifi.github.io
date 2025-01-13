@@ -6,106 +6,24 @@ article_header:
     src: /images/iaifi-pressimage-horizontalcrop-smaller.jpg
 ---
 
+
 <center>
 <div style="max-width: 650px;">
 <h2>The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</h2>
 </div>
 </center>
 
-<center>
+<center style="margin-bottom: 20px;">
 
-<img src="images/All-Logos-NSF-Horizontal.png" align="center" style="max-width:1280px;width:60%">
+<img src="images/All-Logos-NSF-Horizontal.png" align="center" style="max-width:1280px;width:60%"/>
+</center>
 
-<!---
+<center style="margin-bottom: 20px;">
 <span style="font-size: 24px;">
 <font color="peru">Deep Learning (AI)</font> + <font color="rebeccapurple">Deep Thinking (Physics)</font> = <font color="teal">Deeper Understanding</font>
 </span>
---->
+
 </center>
-
-<style>
-.button-container {
-  display: flex; 
-  justify-content: space-between; 
-  align-items: center; 
-  margin: 30px 0; 
-  width: 100%; 
-  flex-wrap: wrap; 
-}
-
-.button-container a {
-  flex: 1; 
-  margin: 0 10px; 
-  text-align: center; 
-  padding: 15px;
-  min-width: 150px;
-}
-
-@media screen and (max-width: 768px) {
-  .button-container {
-    flex-direction: column; /* Stack the buttons vertically on smaller screens */
-    align-items: stretch; /* Make the buttons full width in stacked mode */
-  }
-
-  .button-container a {
-    width: 100%; /* Ensure each button takes up full width when stacked */
-    margin: 10px 0; /* Add margin between stacked buttons */
-  }
-}
-
-.button-container a:hover {
-
-}
-</style>
-
-<div class="button-container">
-  <a href="/join.html" class="button button--outline-primary button--pill button--lg">Join</a>
-  <a href="/partnerships.html" class="button button--outline-primary button--pill button--lg">Partner</a>
-  <a href="http://mailman.mit.edu/mailman/listinfo/iaifi-news" class="button button--outline-primary button--pill button--lg">Follow</a>
-  <a href="/member-resources.html" class="button button--outline-primary button--pill button--lg">For Members</a>
-</div>
-
-<style>
-/* Wrapper for responsive video */
-.responsive-wrap {
-  float: right; /* Keeps the video floated to the right */
-  margin: 30px 0 10px 15px; /* Spacing for the video */
-  width: 100%; /* Makes the wrapper responsive */
-  max-width: 440px; /* Maximum width for larger screens */
-  position: relative;
-  box-sizing: border-box;
-}
-
-.responsive-wrap iframe {
-  width: 100%; /* Ensures the iframe takes up the full width of the wrapper */
-  height: auto; /* Automatically adjusts height to maintain aspect ratio */
-  aspect-ratio: 16 / 9; /* Enforces the 16:9 aspect ratio */
-  border: 0; /* Removes iframe border */
-}
-
-@media screen and (max-width: 768px) {
-  .responsive-wrap {
-    float: none; /* Removes float on smaller screens */
-    margin: 20px auto; /* Centers the video container */
-  }
-}
-</style>
-
-
-<div class="responsive-wrap">
-  <iframe 
-    src="https://www.youtube.com/embed/odeUSHMmLGs?si=TYYaafoOJx0wefPJ?cc_load_policy=1" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
-</div>
-
-The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. A collaboration of [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts, IAIFI's primary goals are to pioneer interdisciplinary AI+Physics **research**; empower the next generation of \AI+Physics **talent**; and build a dynamic AI+Physics **community**.
-
-<br>
 
 <style>
 .card_header h4 {
@@ -169,7 +87,88 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
   </div>
 </div>
 
+<style>
+/* Wrapper for responsive video */
+.responsive-wrap {
+  float: right; /* Keeps the video floated to the right */
+  margin: 30px 0 10px 15px; /* Spacing for the video */
+  width: 100%; /* Makes the wrapper responsive */
+  max-width: 440px; /* Maximum width for larger screens */
+  position: relative;
+  box-sizing: border-box;
+}
 
+.responsive-wrap iframe {
+  width: 100%; /* Ensures the iframe takes up the full width of the wrapper */
+  height: auto; /* Automatically adjusts height to maintain aspect ratio */
+  aspect-ratio: 16 / 9; /* Enforces the 16:9 aspect ratio */
+  border: 0; /* Removes iframe border */
+}
+
+@media screen and (max-width: 768px) {
+  .responsive-wrap {
+    float: none; /* Removes float on smaller screens */
+    margin: 20px auto; /* Centers the video container */
+  }
+}
+</style>
+
+
+<div class="responsive-wrap">
+  <iframe 
+    src="https://www.youtube.com/embed/odeUSHMmLGs?si=TYYaafoOJx0wefPJ?cc_load_policy=1" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural NSF AI research institutes. IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. A collaboration of [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts, IAIFI's primary goals are to pioneer interdisciplinary AI+Physics **research**; empower the next generation of \AI+Physics **talent**; and build a dynamic AI+Physics **community**.
+
+
+<style>
+.button-container {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  margin: 30px 0; 
+  width: 100%; 
+  flex-wrap: wrap; 
+}
+
+.button-container a {
+  flex: 1; 
+  margin: 0 10px; 
+  text-align: center; 
+  padding: 15px;
+  min-width: 150px;
+}
+
+@media screen and (max-width: 768px) {
+  .button-container {
+    flex-direction: column; /* Stack the buttons vertically on smaller screens */
+    align-items: stretch; /* Make the buttons full width in stacked mode */
+  }
+
+  .button-container a {
+    width: 100%; /* Ensure each button takes up full width when stacked */
+    margin: 10px 0; /* Add margin between stacked buttons */
+  }
+}
+
+.button-container a:hover {
+
+}
+</style>
+
+<div class="button-container">
+  <a href="/join.html" class="button button--outline-primary button--pill button--lg">Join</a>
+  <a href="/partnerships.html" class="button button--outline-primary button--pill button--lg">Partner</a>
+  <a href="http://mailman.mit.edu/mailman/listinfo/iaifi-news" class="button button--outline-primary button--pill button--lg">Follow</a>
+  <a href="/member-resources.html" class="button button--outline-primary button--pill button--lg">For Members</a>
+</div>
 
 <!---
 ### IAIFI Jobs
