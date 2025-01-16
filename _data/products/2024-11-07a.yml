@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2024-11-07
+title: "Conversations and Deliberations: Non-Standard Cosmological Epochs and Expansion Histories"
+authors: "Brian Batell, Keith R. Dienes, Brooks Thomas, Scott Watson, Rouzbeh Allahverdi, Mustafa Amin, Kimberly K. Boddy, M. Sten Delos, Adrienne L. Erickcek, Akshay Ghalsasi, John T. Giblin Jr., James Halverson, Fei Huang, Andrew J. Long, Lauren Pearce, Barmak Shams Es Haghi, Jessie Shelton, Gary Shiu, Kuver Sinha, Tristan L. Smith"
+abstract: "This document summarizes the discussions which took place during the PITT-PACC Workshop entitled 'Non-Standard Cosmological Epochs and Expansion Histories,' held in Pittsburgh, Pennsylvania, Sept. 5-7, 2024. Much like the non-standard cosmological epochs that were the subject of these discussions, the format of this workshop was also non-standard. Rather than consisting of a series of talks from participants, with each person presenting their own work, this workshop was instead organized around free-form discussion blocks, with each centered on a different overall theme and guided by a different set of Discussion Leaders. This document is not intended to serve as a comprehensive review of these topics, but rather as an informal record of the discussions that took place during the workshop, in the hope that the content and free-flowing spirit of these discussions may inspire new ideas and research directions."
+arxiv: "2411.04780"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{batell2024conversationsdeliberationsnonstandardcosmological,
+      title={Conversations and Deliberations: Non-Standard Cosmological Epochs and Expansion Histories},
+      author={Brian Batell and Keith R. Dienes and Brooks Thomas and Scott Watson and Rouzbeh Allahverdi and Mustafa Amin and Kimberly K. Boddy and M. Sten Delos and Adrienne L. Erickcek and Akshay Ghalsasi and John T. Giblin Jr. and James Halverson and Fei Huang and Andrew J. Long and Lauren Pearce and Barmak Shams Es Haghi and Jessie Shelton and Gary Shiu and Kuver Sinha and Tristan L. Smith},
+      year={2024},
+      eprint={2411.04780},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2411.04780}
+  }

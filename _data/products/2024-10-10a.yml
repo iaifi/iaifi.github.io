@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-10-10
+title: "The Geometry of Concepts: Sparse Autoencoder Feature Structure"
+authors: "Yuxiao Li, Eric J. Michaud, David D. Baek, Joshua Engels, Xiaoqing Sun, Max Tegmark"
+abstract: "Sparse autoencoders have recently produced dictionaries of high-dimensional vectors corresponding to the universe of concepts represented by large language models. We find that this concept universe has interesting structure at three levels: 1) The 'atomic' small-scale structure contains 'crystals' whose faces are parallelograms or trapezoids, generalizing well-known examples such as (man-woman-king-queen). We find that the quality of such parallelograms and associated function vectors improves greatly when projecting out global distractor directions such as word length, which is efficiently done with linear discriminant analysis. 2) The 'brain' intermediate-scale structure has significant spatial modularity; for example, math and code features form a 'lobe' akin to functional lobes seen in neural fMRI images. We quantify the spatial locality of these lobes with multiple metrics and find that clusters of co-occurring features, at coarse enough scale, also cluster together spatially far more than one would expect if feature geometry were random. 3) The 'galaxy' scale large-scale structure of the feature point cloud is not isotropic, but instead has a power law of eigenvalues with steepest slope in middle layers. We also quantify how the clustering entropy depends on the layer."
+arxiv: "2410.19750"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{li2024geometryconceptssparseautoencoder,
+      title={The Geometry of Concepts: Sparse Autoencoder Feature Structure},
+      author={Yuxiao Li and Eric J. Michaud and David D. Baek and Joshua Engels and Xiaoqing Sun and Max Tegmark},
+      year={2024},
+      eprint={2410.19750},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.NC},
+      url={https://arxiv.org/abs/2410.19750},
+  }

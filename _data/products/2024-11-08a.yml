@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2024-11-08
+title: "A Twist on Heterotic Little String Duality"
+authors: "Hamza Ahmed, Paul-Konstantin Oehlmann, Fabian Ruehle"
+abstract: "In this work, we significantly expand the web of T-dualities among heterotic NS5-brane theories with eight supercharges. This is achieved by introducing twists involving outer automorphisms of discrete gauge/flavor factors and tensor multiplet permutations along the compactification circle. We assemble field theory data that we propose as invariants across T-dual theories, comprised of twisted Coulomb branch dimensions, higher group structures and flavor symmetry ranks. Using this data, we establish a detailed field theory correspondence between singularities of the compactification space, the number five-branes in the theory, and the flavor symmetry factors. The twisted theories are realized via M-theory compactifications on non-compact genus-one fibered Calabi-Yau threefolds without section. This approach allows us to prove duality of twisted and (un-)twisted theories by leveraging M/F-theory duality and identifying inequivalent torus fibrations in the same geometry. We construct several new 5D theories, including a novel type of CHL-like twisted theory where the two M9 branes are identified. Using their field theory invariants, we also construct their dual theories."
+arxiv: "2411.05313"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ahmed2024twistheteroticlittlestring,
+      title={A Twist on Heterotic Little String Duality},
+      author={Hamza Ahmed and Paul-Konstantin Oehlmann and Fabian Ruehle},
+      year={2024},
+      eprint={2411.05313},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2411.05313},
+  }

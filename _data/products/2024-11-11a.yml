@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2024-11-11
+title: "Type IIn Supernovae. I. Uniform Light Curve Characterization and a Bimodality in the Radiated Energy Distribution"
+authors: "Daichi Hiramatsu, Edo Berger, Sebastian Gomez, Peter K. Blanchard, Harsh Kumar, Wasundara Athukoralalage"
+abstract: "We present the largest uniform study to date of Type IIn supernovae (SNe IIn), focusing in this first paper on the multi-band optical light curves of 487 SNe IIn. The sample, constructed from multiple surveys, extends to z≈0.8, with the majority of events at z≲0.3. We construct uniform multi-band and bolometric light curves using Gaussian process regression, and determine key observed properties in the rest-frame (e.g., peak luminosity, timescales, radiated energy). We find that SNe IIn span broad ranges in peak luminosity (∼1042−1044 erg s−1) and timescales (∼20−300 days above 50% of peak luminosity), but the sample divides into two clear groups in the luminosity-timescale phase-space around the median peak luminosity (≈1043 erg s−1): faint-fast and luminous-slow groups. This leads to a strong bimodality in the radiated energy distribution, with peaks at ∼1049 and ∼2×1050 erg, with the latter events having a characteristic timescale of ∼100 days, and the former appearing to bifurcate into two branches with timescales of ∼40 and ∼70 days. Therefore, SNe IIn exhibit at least two dominant groupings, and perhaps three, which are likely reflective of different progenitor and/or circumstellar medium formation pathways. We do not find any obvious transition in SN IIn properties at the arbitrary cut-off of ≈−20 mag used for the designation 'Type II Superluminous Supernovae', and we argue that this classification should be abandoned. The absence of SNe IIn with timescales of ≲14 days defines the region occupied by fast transients with evidence for interaction with hydrogen-poor circumstellar medium."
+arxiv: "2411.07287"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{hiramatsu2024typeiinsupernovaei,
+      title={Type IIn Supernovae. I. Uniform Light Curve Characterization and a Bimodality in the Radiated Energy Distribution},
+      author={Daichi Hiramatsu and Edo Berger and Sebastian Gomez and Peter K. Blanchard and Harsh Kumar and Wasundara Athukoralalage},
+      year={2024},
+      eprint={2411.07287},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2411.07287},
+  }

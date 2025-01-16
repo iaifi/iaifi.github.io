@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2024-12-01
+title: "Probing primordial non-Gaussianity by reconstructing the initial conditions"
+authors: "Xinyi Chen, Nikhil Padmanabhan, Daniel J. Eisenstein"
+abstract: "We propose to constrain the primordial (local-type) non-Gaussianity signal by first reconstructing the initial density field to remove the late time non-Gaussianities introduced by gravitational evolution. Our reconstruction algorithm combines perturbation theory on large scales with a convolutional neural network on small scales. We reconstruct the squared potential (that sources the non-Gaussian signal) out to k=0.2 h/Mpc to an accuracy of 99.8%. We cross-correlate this squared potential field with the reconstructed density field and verify that this computationally inexpensive estimator has the same information content as the full matter bispectrum. As a proof of concept, our approach can yield up to a factor of three improvement in the fNL constraints, although it does not yet include the complications of galaxy bias or imperfections in the reconstruction. These potential improvements make it a promising alternative to current approaches to constraining primordial non-Gaussianity."
+arxiv: "2412.00968"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{chen2024probingprimordialnongaussianityreconstructing,
+      title={Probing primordial non-Gaussianity by reconstructing the initial conditions},
+      author={Xinyi Chen and Nikhil Padmanabhan and Daniel J. Eisenstein},
+      year={2024},
+      eprint={2412.00968},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2412.00968},
+  }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2024-11-04
+title: "Small-scale Hamiltonian optimization of interpolating operators for Lagrangian lattice quantum field theory"
+authors: "Artur Avkhadiev, Lena Funcke, Karl Jansen, Stefan Kühn, Phiala E. Shanahan"
+abstract: "Lattice quantum field theory calculations may potentially combine the advantages of Hamiltonian formulations with the scalability and control of conventional Lagrangian frameworks. However, such hybrid approaches need to consider (1) the differences in renormalized coupling values between the two formulations, and (2) finite-volume and discretization effects when the Hamiltonian component of the calculation is characterized by a smaller volume or coarser lattice spacing than the Lagrangian component. This work investigates the role of both factors in the application of Hamiltonian-optimized interpolating operator constructions for the conventional Lagrangian framework. The numerical investigation is realized for the pseudoscalar meson in the Schwinger model, using tensor-network and Monte-Carlo calculations. It is demonstrated that tensor-network-optimized constructions are robust to both (1) and (2). In particular, accurate optimized constructions for the pseudoscalar meson can be obtained from calculations with a smaller number of Hamiltonian lattice sites, even when the meson mass itself receives significant finite-volume corrections. To the extent that these results generalize to theories with more complicated spectra, the method holds promise for near-term applications in large-scale calculations of lattice quantum field theory."
+arxiv: "2411.02185"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{avkhadiev2024smallscalehamiltonianoptimizationinterpolating,
+      title={Small-scale Hamiltonian optimization of interpolating operators for Lagrangian lattice quantum field theory},
+      author={Artur Avkhadiev and Lena Funcke and Karl Jansen and Stefan Kühn and Phiala E. Shanahan},
+      year={2024},
+      eprint={2411.02185},
+      archivePrefix={arXiv},
+      primaryClass={hep-lat},
+      url={https://arxiv.org/abs/2411.02185},
+  }
