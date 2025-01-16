@@ -25,17 +25,18 @@ See below for instructions on [reporting violations](#reporting-process-for-viol
 
 ### Reporting Process for Violations to the Code of Conduct
 
-Reports of Code of Conduct violations should be made to the IAIFI management and board directly, or to any member of the Early Career and Equity Committee (ECEC). The emails and positions of ECEC members are listed below. ECEC members do not provide counseling or support services; their role in this context is to direct complainants to available resources, including providing a private reporting channel to the IAIFI management and board. You may also submit fully anonymous reports via the general [IAIFI suggestion/feedback form](https://docs.google.com/forms/d/1HcWQ5qw4jDWTao00PG8wQAutmih2WIqj2FUyzPOLksc/edit); however, note that IAIFI management and board may be limited in their ability to investigate complaints that do not contain personal identifying information.
+Reports of Code of Conduct violations should be made to the IAIFI management and board directly, or to any member of the Early Career and Equity Committee (ECEC). The ECEC members are listed on the [Committees page](/committees.html#early-career-and-equity). 
 
-Information provided to individual members of the ECEC will be shared with an ECEC faculty or staff member (typically the chair), and depending on circumstances may be shared with the full committee, although complainants may request that their identity not be shared. The ECEC faculty or staff member will be responsible for reporting the complaint to the IAIFI management and board.
-
-When a Code of Conduct violation is reported to the IAIFI management and board, they will work to address it in conjunction with the human resources administration(s) of the relevant institution(s). Consequences for Code of Conduct violations may include a verbal or written warning, removal from IAIFI events, loss of IAIFI membership privileges, reporting to the relevant university offices, or other remedies as appropriate.
+Please note the following important considerations: 
+* ECEC members do not provide counseling or support services; their role in this context is to direct complainants to available resources, including providing a private reporting channel to the IAIFI management and board. 
+* Members of the ECEC are mandatory reporters, and therefore will be required to report allegations of sexual misconduct and sexual harassment to MIT's Institute Discrimination and Harassment Response Office (IDHR). 
+* If you prefer to remain anonymous, you may submit fully anonymous reports via the general [IAIFI suggestion/feedback form](https://docs.google.com/forms/d/1HcWQ5qw4jDWTao00PG8wQAutmih2WIqj2FUyzPOLksc/edit); however, note that IAIFI management and board may be limited in their ability to investigate complaints that do not contain personal identifying information.
+* Information provided to individual members of the ECEC will be shared with an ECEC faculty or staff member (typically the chair), and depending on circumstances may be shared with the full committee, although complainants may request that their identity not be shared. The ECEC faculty or staff member will be responsible for reporting the complaint to the IAIFI management and board.
+* When a Code of Conduct violation is reported to the IAIFI management and board, they will work to address it in conjunction with the human resources administration(s) of the relevant institution(s). Consequences for Code of Conduct violations may include a verbal or written warning, removal from IAIFI events, loss of IAIFI membership privileges, reporting to the relevant university offices, or other remedies as appropriate.
+* Anyone is free to report violations of institutional policies to the appropriate institution, but we cannot guarantee that institutions will forward information about a complaint to the IAIFI. If there has been a violation of the IAIFI Code of Conduct or other IAIFI policies and you want the IAIFI to respond, you should report it through one or more of the channels described above. 
+* Any complaints of harassment or discrimination reported via IAIFI, regardless of the home institution of the involved members, will be investigated by MIT.
 
 For information on reporting violations of MIT’s Non-Discrimination Policy and Policy Prohibiting Discriminatory Harassment, and the resolution of such complaints, please click [here](#reporting-process-for-violations-of-non-discrimination-and-prohibition-against-discriminatory-harassment-policies"><a name="reporting-process-non-discrimination).
-
-Note that anyone is free to report any violations of institutional policies to the appropriate institution, but we cannot guarantee that institutions will forward information about a complaint to the IAIFI. If there has been a violation of the IAIFI Code of Conduct or other IAIFI policies and you want the IAIFI to respond, you should report it through one or more of the channels described above. 
-
-
 ### Supplementary List of Definitions and Resources
 The Code of Conduct uses several phrases that may need further explanation, so we provide some guidance here. These definitions may not be applicable to contexts outside the IAIFI: they are provided to clarify the intended meaning of the IAIFI Code of Conduct.
 
