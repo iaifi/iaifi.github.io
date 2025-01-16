@@ -4,18 +4,22 @@ title: "Moment Unfolding"
 authors: Krish Desai, Benjamin Nachman, Jesse Thaler
 abstract: "Deconvolving ('unfolding') detector distortions is a critical step in the comparison of cross section measurements with theoretical predictions in particle and nuclear physics. However, most existing approaches require histogram binning while many theoretical predictions are at the level of statistical moments. We develop a new approach to directly unfold distribution moments as a function of another observable without having to first discretize the data. Our Moment Unfolding technique uses machine learning and is inspired by Generative Adversarial Networks (GANs). We demonstrate the performance of this approach using jet substructure measurements in collider physics. With this illustrative example, we find that our Moment Unfolding protocol is more precise than bin-based approaches and is as or more precise than completely unbinned methods."
 arxiv: "2407.11284"
-journal:
-doi: 
+journal: "Physical Review D, Vol. 110, Iss. 11, 2024"
+doi: "https://doi.org/10.1103/PhysRevD.110.116013"
 nsf-par:
-code: https://github.com/HEP-GAN/MomentUnfolding
-publication-date: 
+code: "https://github.com/HEP-GAN/MomentUnfolding"
+publication-date: 2024-12-13
 bib-tex: |
-  @misc{desai2024momentunfolding,
-      title={Moment Unfolding},
-      author={Krish Desai and Benjamin Nachman and Jesse Thaler},
-      year={2024},
-      eprint={2407.11284},
-      archivePrefix={arXiv},
-      primaryClass={hep-ph},
-      url={https://arxiv.org/abs/2407.11284},
+  @article{Desai_2024,
+   title={Moment extraction using an unfolding protocol without binning},
+   volume={110},
+   ISSN={2470-0029},
+   url={http://dx.doi.org/10.1103/PhysRevD.110.116013},
+   DOI={10.1103/physrevd.110.116013},
+   number={11},
+   journal={Physical Review D},
+   publisher={American Physical Society (APS)},
+   author={Desai, Krish and Nachman, Benjamin and Thaler, Jesse},
+   year={2024},
+   month=dec }
   }
