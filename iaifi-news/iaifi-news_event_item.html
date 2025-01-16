@@ -1,0 +1,43 @@
+<!-- Defining times -->
+{% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
+{% assign news_start_in_seconds = iaifi-news_date | date: "%s" | plus: 0 %}
+
+<!-- Getting all events and sorting them by time -->
+{% assign event_list = '' | split: '' %}
+{% for event_type in site.data.calendar.event_types %}
+{% assign event_list = event_list | concat: site.data[event_type] %}
+{% endfor %}
+{% assign event_list = event_list| sort: "start-date-time" %}
+
+<!-- Getting basic event info -->
+{% assign talk = include.talk %}
+{% assign is_this_week = include.is_this_week %}
+{% assign start_date = talk.start-date-time | date: "%A, %B %e, %Y" %}
+{% assign end_date = talk.end-date-time | date: "%A, %B %e, %Y" %}
+{% assign start_time = talk.start-date-time | date: "%l:%M%P" %}
+{% assign end_time = talk.end-date-time | date: "%l:%M%P" %}
+
+<!-- Determining zoom link-->
+{% assign zoom_link = %}
+{% if talk.talk-zoom %}
+  {% assign zoom_link = talk.talk-zoom %}
+{% elsif site.data.talk-categories[talk.type].zoom %}
+  {% assign zoom_link = site.data.talk-categories[talk.type].zoom %}
+{% endif %}
+
+<!-- Event information -->
+{% if is_this_week and talk.type=="colloquium"%}
+### IAIFI Colloquium: {{talk.speaker-name}}
+**{{talk.start-date-time | date: "%A"}} at {{talk.start-date-time | date: "%l:%M%P"}}, {{talk.talk-location}}
+  * <a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a> ({{talk.speaker-affiliation}})
+  * *{{talk.talk-title}}*
+{%- if talk.talk-abstract %}
+  * Abstract:  *{{talk.talk-abstract}}*
+{%- endif -%}
+{%- if talk.event-details %}
+  * {{talk.event-details}}
+{%- endif -%}
+<br>
+
+{% if zoom_link %}[Join on Zoom]({{zoom_link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if talk.calendar-link %} [Add to Calendar]({{talk.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
+{%- endif -%}
