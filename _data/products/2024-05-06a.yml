@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2024-05-06
+title: "Bounds and Dualities of Type II Little String Theories"
+authors: "Florent Baume, Paul-Konstantin Oehlmann, Fabian Ruehle"
+abstract: "We explore the symmetry structure of Type II Little String Theories and their T-dualities. We construct these theories both from the bottom-up perspective starting with seed Superconformal Field Theories, and from the top-down using F-/M-theory. By exploiting anomaly inflow and unitarity of the LST worldsheet theory, we derive strong conditions on the possible 6D bulk theories and their flavor algebras. These constraints continue to apply if gravity is coupled to the theory. We also study the higher form symmetry structure of these theories and show how they get exchanged under T-duality. Finally, we comment on seemingly consistent bottom-up Little String Theories that cannot be constructed from the top-down approach."
+arxiv: "2405.03877"
+journal: "Journal of High Energy Physics, Volume 2024, article number 149, 2024"
+doi: "https://doi.org/10.1007/JHEP11(2024)149"
+nsf-par:
+code:
+publication-date: 2024-11-26
+bib-tex: |
+  @article{baume2024boundsdualitiestypeii,
+      title={Bounds and Dualities of Type II Little String Theories},
+      author={Florent Baume and Paul-Konstantin Oehlmann and Fabian Ruehle},
+      year={2024},
+      eprint={2405.03877},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2405.03877},
+  }
