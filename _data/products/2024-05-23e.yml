@@ -4,18 +4,23 @@ title: "How Do Transformers 'Do' Physics? Investigating the Simple Harmonic Osci
 authors: Subhash Kantamneni, Ziming Liu, Max Tegmark
 abstract: How do transformers model physics? Do transformers model systems with interpretable analytical solutions, or do they create 'alien physics' that are difficult for humans to decipher? We take a step in demystifying this larger puzzle by investigating the simple harmonic oscillator (SHO), ẍ+2γẋ+ω<sup>2</sup><sub>0</sub>x=0, one of the most fundamental systems in physics. Our goal is to identify the methods transformers use to model the SHO, and to do so we hypothesize and evaluate possible methods by analyzing the encoding of these methods' intermediates. We develop four criteria for the use of a method within the simple testbed of linear regression, where our method is y=wx and our intermediate is w - (1) Can the intermediate be predicted from hidden states? (2) Is the intermediate's encoding quality correlated with model performance? (3) Can the majority of variance in hidden states be explained by the intermediate? (4) Can we intervene on hidden states to produce predictable outcomes? Armed with these two correlational (1,2), weak causal (3) and strong causal (4) criteria, we determine that transformers use known numerical methods to model trajectories of the simple harmonic oscillator, specifically the matrix exponential method. Our analysis framework can conveniently extend to high-dimensional linear systems and nonlinear systems, which we hope will help reveal the 'world model' hidden in transformers.
 arxiv: "2405.17209"
-journal:
-doi:
+journal: "Entropy, Volume 26, Issue 11, 2024"
+doi: "https://www.mdpi.com/1099-4300/26/11/997"
 nsf-par:
-code:
-publication-date:
+code: "https://github.com/subhashk01/transformer-physics"
+publication-date: 2024-11-19
 bib-tex: |
-  @misc{kantamneni2024transformersdophysicsinvestigating,
-      title={How Do Transformers "Do" Physics? Investigating the Simple Harmonic Oscillator},
-      author={Subhash Kantamneni and Ziming Liu and Max Tegmark},
-      year={2024},
-      eprint={2405.17209},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2405.17209},
+  @Article{e26110997,
+    AUTHOR = {Kantamneni, Subhash and Liu, Ziming and Tegmark, Max},
+    TITLE = {How Do Transformers Model Physics? Investigating the Simple Harmonic Oscillator},
+    JOURNAL = {Entropy},
+    VOLUME = {26},
+    YEAR = {2024},
+    NUMBER = {11},
+    ARTICLE-NUMBER = {997},
+    URL = {https://www.mdpi.com/1099-4300/26/11/997},
+    PubMedID = {39593941},
+    ISSN = {1099-4300},
+    ABSTRACT = {How do transformers model physics? Do transformers model systems with interpretable analytical solutions or do they create an ‚Äúalien physics‚Äù that is difficult for humans to decipher? We have taken a step towards demystifying this larger puzzle by investigating the simple harmonic oscillator (SHO), x¬®+2Œ≥xÀô+œâ02x=0, one of the most fundamental systems in physics. Our goal was to identify the methods transformers use to model the SHO, and to do so we hypothesized and evaluated possible methods by analyzing the encoding of these methods‚Äô intermediates. We developed four criteria for the use of a method within the simple test bed of linear regression, where our method was y=wx and our intermediate was w: (1) Can the intermediate be predicted from hidden states? (2) Is the intermediate‚Äôs encoding quality correlated with the model performance? (3) Can the majority of variance in hidden states be explained by the intermediate? (4) Can we intervene on hidden states to produce predictable outcomes? Armed with these two correlational (1,2), weak causal (3), and strong causal (4) criteria, we determined that transformers use known numerical methods to model the trajectories of the simple harmonic oscillator, specifically, the matrix exponential method. Our analysis framework can conveniently extend to high-dimensional linear systems and nonlinear systems, which we hope will help reveal the ‚Äúworld model‚Äù hidden in transformers.},
+    DOI = {10.3390/e26110997}
   }

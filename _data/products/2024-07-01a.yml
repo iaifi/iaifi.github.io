@@ -4,13 +4,13 @@ title: "Anomaly-aware summary statistic from data batches"
 authors: Gaia Grosso
 abstract: "Signal-agnostic data exploration based on machine learning could unveil very subtle statistical deviations of collider data from the expected Standard Model of particle physics. The beneficial impact of a large training sample on machine learning solutions motivates the exploration of increasingly large and inclusive samples of acquired data with resource efficient computational methods. In this work we consider the New Physics Learning Machine (NPLM), a multivariate goodness-of-fit test built on the Neyman-Pearson maximum-likelihood-ratio construction, and we address the problem of testing large size samples under computational and storage resource constraints. We propose to perform parallel NPLM routines over batches of the data, and to combine them by locally aggregating over the data-to-reference density ratios learnt by each batch. The resulting data hypothesis defining the likelihood-ratio test is thus shared over the batches, and complies with the assumption that the expected rate of new physical processes is time invariant. We show that this method outperforms the simple sum of the independent tests run over the batches, and can recover, or even surpass, the sensitivity of the single test run over the full data. Beside the significant advantage for the offline application of NPLM to large size samples, the proposed approach offers new prospects toward the use of NPLM to construct anomaly-aware summary statistics in quasi-online data streaming scenarios."
 arxiv: "2407.01249"
-journal:
-doi: 
+journal: "Journal of High Energy Physics, Volume 2024, article number 93, 2024"
+doi: "https://doi.org/10.1007/JHEP12(2024)093"
 nsf-par:
-code: 
-publication-date: 
+code:
+publication-date: 2024-12-12
 bib-tex: |
-  @misc{grosso2024anomalyawaresummarystatisticdata,
+  @article{grosso2024anomalyawaresummarystatisticdata,
       title={Anomaly-aware summary statistic from data batches},
       author={Gaia Grosso},
       year={2024},
