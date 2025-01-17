@@ -10,12 +10,15 @@ nsf-par:
 code:
 publication-date: 2024-12-12
 bib-tex: |
-  @article{grosso2024anomalyawaresummarystatisticdata,
-      title={Anomaly-aware summary statistic from data batches},
-      author={Gaia Grosso},
-      year={2024},
-      eprint={2407.01249},
-      archivePrefix={arXiv},
-      primaryClass={hep-ex},
-      url={https://arxiv.org/abs/2407.01249},
+  @article{JHEP12(2024)093,
+  title = {Anomaly-aware summary statistic from data batches},
+  author = {Gaia Grosso},
+  journal = {Journal of High Energy Physics},
+  volume = {2024},
+  article number = {93},
+  year = {2024},
+  month = {Dec},
+  publisher = {Springer Nature Link},
+  doi = {10.1007/JHEP12(2024)093},
+  url = {https://doi.org/10.1007/JHEP12(2024)093}
   }

@@ -11,12 +11,15 @@ nsf-par:
 code:
 publication-date: 2024-11-26
 bib-tex: |
-  @article{baume2024boundsdualitiestypeii,
-      title={Bounds and Dualities of Type II Little String Theories},
-      author={Florent Baume and Paul-Konstantin Oehlmann and Fabian Ruehle},
-      year={2024},
-      eprint={2405.03877},
-      archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2405.03877},
+  @article{JHEP11(2024)149,
+  title = {Bounds and dualities of Type II Little String Theories},
+  author = {Baume, Florent and Oehlmann, Paul-Konstantin and Ruehle, Fabian},
+  journal = {Journal of High Energy Physics},
+  volume = {2024},
+  article number = {149},
+  year = {2024},
+  month = {Nov},
+  publisher = {Springer Nature Link},
+  doi = {10.1007/JHEP11(2024)149},
+  url = {https://doi.org/10.1007/JHEP11(2024)149}
   }

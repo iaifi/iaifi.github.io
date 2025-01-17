@@ -10,12 +10,13 @@ nsf-par:
 code: "https://physdreamer.github.io/"
 publication-date: 2024-10-20
 bib-tex: |
-  @article{zhang2024physdreamerphysicsbasedinteraction3d,
-      title={PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation},
-      author={Tianyuan Zhang and Hong-Xing Yu and Rundi Wu and Brandon Y. Feng and Changxi Zheng and Noah Snavely and Jiajun Wu and William T. Freeman},
-      year={2024},
-      eprint={2404.13026},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2404.13026},
+  @article{978-3-031-72627-9_22,
+  title = {PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation},
+  author = {Tianyuan Zhang and Hong-Xing Yu and Rundi Wu and Brandon Y. Feng and Changxi Zheng and Noah Snavely and Jiajun Wu and William T. Freeman},
+  journal = {Springer Nature Link},
+  year = {2024},
+  month = {Oct},
+  publisher = {Springer Nature Link},
+  doi = {10.1007/978-3-031-72627-9_22},
+  url = {https://doi.org/10.1007/978-3-031-72627-9_22}
   }
