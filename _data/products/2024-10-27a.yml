@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-10-27
+title: "A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing"
+authors: "Julia Balla, Siddharth Mishra-Sharma, Carolina Cuesta-Lazaro, Tommi Jaakkola, Tess Smidt"
+abstract: "Efficiently processing structured point cloud data while preserving multiscale information is a key challenge across domains, from graphics to atomistic modeling. Using a curated dataset of simulated galaxy positions and properties, represented as point clouds, we benchmark the ability of graph neural networks to simultaneously capture local clustering environments and long-range correlations. Given the homogeneous and isotropic nature of the Universe, the data exhibits a high degree of symmetry. We therefore focus on evaluating the performance of Euclidean symmetry-preserving (E(3)-equivariant) graph neural networks, showing that they can outperform non-equivariant counterparts and domain-specific information extraction techniques in downstream performance as well as simulation-efficiency. However, we find that current architectures fail to capture information from long-range correlations as effectively as domain-specific baselines, motivating future work on architectures better suited for extracting long-range information."
+arxiv: "2410.20516"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/smsharma/eqnn-jax"
+publication-date:
+bib-tex: |
+  @article{balla2024cosmicscalebenchmarksymmetrypreservingdata,
+      title={A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing},
+      author={Julia Balla and Siddharth Mishra-Sharma and Carolina Cuesta-Lazaro and Tommi Jaakkola and Tess Smidt},
+      year={2024},
+      eprint={2410.20516},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.20516},
+  }

@@ -4,18 +4,23 @@ title: "Seeing Double: Calibrating Two Jets at Once"
 authors: Rikab Gambhir, Benjamin Nachman
 abstract: 'Jet energy calibration is an important aspect of many measurements and searches at the LHC. Currently, these calibrations are performed on a per-jet basis, i.e. agnostic to the properties of other jets in the same event. In this work, we propose taking advantage of the correlations induced by momentum conservation between jets in order to improve their jet energy calibration. By fitting the pT asymmetry of dijet events in simulation, while remaining agnostic to the pT spectra themselves, we are able to obtain correlation-improved maximum likelihood estimates. This approach is demonstrated with simulated jets from the CMS Detector, yielding a 3-5% relative improvement in the jet energy resolution, corresponding to a quadrature improvement of approximately 35\%.'
 arxiv: "2402.14067"
-journal:
-doi:
-nsf-par: 
-code: https://github.com/rikab/SeeingDouble
-publication-date: 
+journal: "Physical Review D, Volume 110, Issue 7, 2024"
+doi: "https://doi.org/10.1103/PhysRevD.110.076015"
+nsf-par:
+code: "https://github.com/rikab/SeeingDouble"
+publication-date: 2024-10-15
 bib-tex: |
-  @misc{gambhir2024seeingdoublecalibratingjets,
-      title={Seeing Double: Calibrating Two Jets at Once},
-      author={Rikab Gambhir and Benjamin Nachman},
-      year={2024},
-      eprint={2402.14067},
-      archivePrefix={arXiv},
-      primaryClass={hep-ph},
-      url={https://arxiv.org/abs/2402.14067},
+  @article{PhysRevD.110.076015,
+  title = {Calibrating two jets at once},
+  author = {Gambhir, Rikab and Nachman, Benjamin},
+  journal = {Phys. Rev. D},
+  volume = {110},
+  issue = {7},
+  pages = {076015},
+  numpages = {14},
+  year = {2024},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.110.076015},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.110.076015}
   }

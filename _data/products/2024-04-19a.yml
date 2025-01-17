@@ -4,18 +4,19 @@ title: "PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generat
 authors: Tianyuan Zhang, Hong-Xing Yu, Rundi Wu, Brandon Y. Feng, Changxi Zheng, Noah Snavely, Jiajun Wu, William T. Freeman
 abstract: "Realistic object interactions are crucial for creating immersive virtual experiences, yet synthesizing realistic 3D object dynamics in response to novel interactions remains a significant challenge. Unlike unconditional or text-conditioned dynamics generation, action-conditioned dynamics requires perceiving the physical material properties of objects and grounding the 3D motion prediction on these properties, such as object stiffness. However, estimating physical material properties is an open problem due to the lack of material ground-truth data, as measuring these properties for real objects is highly difficult. We present PhysDreamer, a physics-based approach that endows static 3D objects with interactive dynamics by leveraging the object dynamics priors learned by video generation models. By distilling these priors, PhysDreamer enables the synthesis of realistic object responses to novel interactions, such as external forces or agent manipulations. We demonstrate our approach on diverse examples of elastic objects and evaluate the realism of the synthesized interactions through a user study. PhysDreamer takes a step towards more engaging and realistic virtual experiences by enabling static 3D objects to dynamically respond to interactive stimuli in a physically plausible manner."
 arxiv: "2404.13026"
-journal:
-doi:
+journal: "Springer Nature Link, 2024"
+doi: "https://doi.org/10.1007/978-3-031-72627-9_22"
 nsf-par:
-code: https://physdreamer.github.io/
-publication-date:
+code: "https://physdreamer.github.io/"
+publication-date: 2024-10-20
 bib-tex: |
-  @misc{zhang2024physdreamerphysicsbasedinteraction3d,
-      title={PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation},
-      author={Tianyuan Zhang and Hong-Xing Yu and Rundi Wu and Brandon Y. Feng and Changxi Zheng and Noah Snavely and Jiajun Wu and William T. Freeman},
-      year={2024},
-      eprint={2404.13026},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2404.13026},
+  @article{978-3-031-72627-9_22,
+  title = {PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation},
+  author = {Tianyuan Zhang and Hong-Xing Yu and Rundi Wu and Brandon Y. Feng and Changxi Zheng and Noah Snavely and Jiajun Wu and William T. Freeman},
+  journal = {Springer Nature Link},
+  year = {2024},
+  month = {Oct},
+  publisher = {Springer Nature Link},
+  doi = {10.1007/978-3-031-72627-9_22},
+  url = {https://doi.org/10.1007/978-3-031-72627-9_22}
   }

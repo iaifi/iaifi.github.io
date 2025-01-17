@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2024-12-02
+title: "The Millennium and Astrid galaxies in effective field theory: comparison with galaxy-halo connection models at the field level"
+authors: "Mikhail M. Ivanov, Carolina Cuesta-Lazaro, Andrej Obuljen, Michael W. Toomey, Yueying Ni, Sownak Bose, Boryana Hadzhiyska, César Hernández-Aguayo, Lars Hernquist, Rahul Kannan, Volker Springel"
+abstract: "Cosmological analyses of redshift space clustering data are primarily based on using luminous ``red'' galaxies (LRGs) and ``blue'' emission line galaxies (ELGs) to trace underlying dark matter. Using the large high-fidelity high-resolution MillenniumTNG (MTNG) and Astrid simulations, we study these galaxies with the effective field theory (EFT)-based field level forward model. We confirm that both red and blue galaxies can be accurately modeled with EFT at the field level and their parameters match those of the phenomenological halo-based models. Specifically, we consider the state of the art Halo Occupation Distribution (HOD) and High Mass Quenched (HMQ) models for the red and blue galaxies, respectively. Our results explicitly confirm the validity of the halo-based models on large scales beyond the two-point statistics. In addition, we validate the field-level HOD/HMQ-based priors for EFT full-shape analysis. We find that the local bias parameters of the ELGs are in tension with the predictions of the LRG-like HOD models and present a simple analytic argument explaining this phenomenology. We also confirm that ELGs exhibit weaker non-linear redshift-space distortions (``fingers-of-God''), suggesting that a significant fraction of their data should be perturbative. We find that the response of EFT parameters to galaxy selection is sensitive to assumptions about baryonic feedback, suggesting that a detailed understanding of feedback processes is necessary for robust predictions of EFT parameters. Finally, using neural density estimation based on paired HOD-EFT parameter samples, we obtain optimal HOD models that reproduce the clustering of Astrid and MTNG galaxies."
+arxiv: "2412.01888"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ivanov2024millenniumastridgalaxieseffective,
+      title={The Millennium and Astrid galaxies in effective field theory: comparison with galaxy-halo connection models at the field level},
+      author={Mikhail M. Ivanov and Carolina Cuesta-Lazaro and Andrej Obuljen and Michael W. Toomey and Yueying Ni and Sownak Bose and Boryana Hadzhiyska and César Hernández-Aguayo and Lars Hernquist and Rahul Kannan and Volker Springel},
+      year={2024},
+      eprint={2412.01888},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2412.01888},
+  }

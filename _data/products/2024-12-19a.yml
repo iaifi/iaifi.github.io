@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2024-12-19
+title: "Constraints and Sensitivities for Dipole-Portal Heavy Neutral Leptons from ND280 and its Upgrade"
+authors: "Ming-Shau Liu, Nicholas Kamp, Carlos A. Argüelles"
+abstract: "We report new constraints and sensitivities to heavy neutral leptons (HNLs) with transition magnetic moments, also known as dipole-portal HNLs. This is accomplished using data from the T2K ND280 near detector in addition to the projected three-year dataset of the upgraded ND280 detector. Dipole-portal HNLs have been extensively studied in the literature and offer a potential explanation for the 4.8σ MiniBooNE anomaly. To perform our analysis, we simulate HNL decays to e+e− pairs in the gaseous time projection chambers of the ND280 detector and its upgrade. Recasting an ND280 search for mass-mixed HNLs, we find that ND280 data places world-leading constraints on dipole-portal HNLs in the 390-743 MeV mass range, disfavoring the region of parameter space favored by the MiniBooNE anomaly. The addition of three years of ND280 upgrade data will be able to disfavor the MiniBooNE solution at the 5σ confidence level and extend the world-leading constraints to dipole-portal HNLs in the 148-860 MeV mass range. Our analysis suggests that ND280 data excludes dipole-portal HNLs as a solution to the MiniBooNE excess, motivating a dedicated search within the T2K collaboration and potentially highlighting the need for alternative explanations for the MiniBooNE anomaly."
+arxiv: "2412.15051"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{liu2024constraintssensitivitiesdipoleportalheavy,
+      title={Constraints and Sensitivities for Dipole-Portal Heavy Neutral Leptons from ND280 and its Upgrade},
+      author={Ming-Shau Liu and Nicholas Kamp and Carlos A. Argüelles},
+      year={2024},
+      eprint={2412.15051},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2412.15051},
+  }
