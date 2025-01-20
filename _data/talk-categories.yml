@@ -37,7 +37,7 @@ external-workshop:
   name: "External Workshop"
   category: "external"
   zoom:
-  button_type: button--outline-primary
+  button_type: button--secondary
   webpage: "https://iaifi.org/related-events.html#upcoming-workshops"
   
 internal-workshop:
