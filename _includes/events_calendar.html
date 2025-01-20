@@ -2,11 +2,13 @@
 {% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
 {% assign week_duration_in_seconds = 7 | times: 60 | times: 60 | times: 24 %}
 
-{% assign now = 'now' | date: '%s' | plus: 0 %}
+{% capture now_as_iso_8601 %}{{ "now" | date: '%F' }}{% endcapture %}
+{% assign now_in_seconds = now_as_iso_8601 | date: '%s' | plus: 0 %}
+
 {% assign day_number = 'now' | date: '%u' | minus: 1 %}
 {% assign day_number_in_seconds = day_number | times: 60 | times: 60 | times: 24 %}
-{% assign monday_before_now = now | minus: day_number_in_seconds %}
 
+{% assign monday_before_now = now_in_seconds | minus: day_number_in_seconds %}
 {% assign start_of_week = monday_before_now %}
 {% assign end_of_week = monday_before_now | plus: week_duration_in_seconds %}
 
@@ -38,6 +40,7 @@ Click on the calendar items to see event details.
 <div class="grid grid--p-1">
       {% for column in site.data.calendar.columns %}
         <div class="cell cell--{{column.column_width}}" align="center">
+          <b><i>{{column.name}}</i></b>
         </div>
       {% endfor %}
   </div>
@@ -53,15 +56,15 @@ Click on the calendar items to see event details.
           {% assign this_day_start_in_seconds = start_of_week | plus: day_counter_in_seconds %}
           {% assign day_duration_in_seconds = column.day_span | times: 60 | times: 60 | times: 24 %}
           {% assign this_day_end_in_seconds = this_day_start_in_seconds | plus: day_duration_in_seconds | minus: 1 %}
-        
+          
           <b>
           {% if column.name == "Monday" %}{{this_day_start_in_seconds | date: "%b %e"}}
-          {% elsif column.name == "Sat/Sun" %}{{this_day_start_in_seconds | date: "%b %e"}}-{{this_day_end_in_seconds | date: "%b %e"}}
+          {% elsif column.name == "Sat/Sun" %}{{this_day_start_in_seconds | date: "%b %e"}}/{{this_day_end_in_seconds | date: "%b %e"}}
           {% else %}{{this_day_start_in_seconds | date: "%b %e"}}
           {% endif %}
           </b><br><br>
 
-          {% if this_day_start_in_seconds == now %}<b><i>Today</i></b>{% endif %}
+          {% if this_day_start_in_seconds == now_in_seconds %}<code class="language-plaintext info highlighter-rouge">Today</code><br><br>{% endif %}
           
           {% for event in event_list %}
             {% assign start_date_time_in_seconds = event.start-date-time | date: "%s" | times: 1 %}

@@ -44,7 +44,7 @@ Click on the calendar items to see event details.
           
           <b>
           {% if column.name == "Monday" %}{{this_day_start_in_seconds | date: "%b %e"}}
-          {% elsif column.name == "Sat/Sun" %}{{this_day_start_in_seconds | date: "%b %e"}}-{{this_day_end_in_seconds | date: "%b %e"}}
+          {% elsif column.name == "Sat/Sun" %}{{this_day_start_in_seconds | date: "%b %e"}}/{{this_day_end_in_seconds | date: "%b %e"}}
           {% else %}{{this_day_start_in_seconds | date: "%b %e"}}
           {% endif %}
           </b><br><br>
