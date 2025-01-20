@@ -58,13 +58,15 @@ aside:
     </div>
 
     <div class="cell cell--8">
-      IAIFI researchers are producing state-of-the-art results through interdisciplinary projects across <a href="/physics-theory-research.html">theoretical physics</a>, <a href="/physics-experiment-research.html">experimental physics</a>, and <a href="/ai-research.html">foundational AI</a>. 
+      IAIFI researchers are producing state-of-the-art results through interdisciplinary projects across <b><a href="/ai-research.html">foundational AI</a></b>, <b><a href="/physics-theory-research.html">theoretical physics</a></b>, <b><a href="/physics-experiment-research.html">experimental physics</a></b>, and <b><a href="/astrophysics-research.html">astrophysics</a></b>. The projects in these domains are also categorized by cross-cutting themes, which help to utilize a common language and identify opportunities for collaboration: <b>Representation/Manifold Learning</b>; <b>Generative Models</b>; <b>Uncertainty Quantification/Robust AI</b>; <b>Physics-Motivated Optimization</b>; and <b>Reinforcement Learning</b>.
       <ul>
-      <li><a href="/research.html">Research Overview and Highlights</a></li>
-      <li><a href="/papers.html">Papers from IAIFI researchers</a></li>
-      <li><a href="https://github.com/iaifi">Code from IAIFI products</a></li>
-      <li><a href="/people.html">Current Researchers</a></li>
-      <li><a href="/lightning-talks.html">IAIFI lightning talks</a></li>
+      <li><a href="/research.html">Overview:</a> Includes monthly research highlights</li>
+      <li><a href="/ai-research.html">Foundational AI:</a> Overview of projects primarily impacting the Foundational AI domain</li>
+      <li><a href="/physics-theory-research.html">Theoretical Physics:</a> Overview of projects primarily impacting the Theoretical Physics domain</li>
+      <li><a href="/physics-experiment-research.html">Experimental Physics:</a> Overview of projects primarily impacting the Experimental Physics domain</li>
+      <li><a href="/astrophysics-research.html">Astrophysics:</a> Overview of projects primarily impacting the Astrophysics domain</li>
+      <li><a href="/papers.html">Papers and Code:</a> Links to papers by IAIFI researchers, including code where applicable</li>
+      <li><a href="/lightning-talks.html">IAIFI Thematic Discussions:</a> IAIFI member-led discussions organized by cross-cutting theme to facilitate collaboration</li>
     </ul>
     </div>
 
@@ -92,17 +94,17 @@ aside:
     </div>
 
     <div class="cell cell--8">
-      IAIFI is recruiting and training a talented, promising, and diverse group of students and postdocs, making them experts in AI + Physics.
+      IAIFI is recruiting and training a <b>talented, promising, and diverse group of students and postdocs</b>, making them experts in AI + Physics.
       <ul>
-      <li><a href="/fellows.html">IAIFI Fellowship Program</a></li>
-      <li><a href="/current-fellows.html">Current IAIFI Fellows</a></li>
-      <li><a href="/phd-summer-school.html">IAIFI Summer School</a></li>
-      <li><a href="/ecec.html">Early Career, Equity, and Ethics</a></li>
-      <li><a href="/journal-club.html">Journal Club</a></li>
-      <li><a href="/education.html">Education</a></li>
-      <li><a href="/career-support.html">Career Support</a></li>
-      <li><a href="/job-board.html">Job Board</a></li>
-      <li><a href="/funding-opportunities.html">Funding Opportunities</a></li>
+      <li><a href="/fellows.html">IAIFI Fellowship Program:</a> Details about the IAIFI Fellowship and opportunities to apply</li>
+      <li><a href="/current-fellows.html">IAIFI Fellows:</a> Details about current and past IAIFI Fellows</li>
+      <li><a href="/phd-summer-school.html">IAIFI Summer School:</a> Details about our annual Summer School for early career researchers at the intersection of AI and Physics</li>
+      <li><a href="/ecec.html">Early Career, Equity, and Ethics:</a> Details about our approaches to these important topics for the IAIFI community and beyond.</li>
+      <li><a href="/journal-club.html">Journal Club:</a> Weekly talks given by early career researchers for early career researchers</li>
+      <li><a href="/education.html">Education: Includes details of courses and other university-level education efforts</a></li>
+      <li><a href="/career-support.html">Career Support:</a> Advice, resources, and events to help support early career researchers interested in AI+Physics</li>
+      <li><a href="/job-board.html">Job Board:</a> Jobs of relevance to the AI+Physics community</li>
+      <li><a href="/funding-opportunities.html">Funding Opportunities:</a> Grant, fellowship, and other funding opportunities of relevance to the AI+Physics community</li>
     </ul>
     </div>
 
@@ -131,18 +133,16 @@ aside:
 
     <div class="cell cell--8">
     IAIFI is making Cambridge and the surrounding Boston area a 
-nexus point for collaborative efforts aimed at advancing both physics and AI.
+<b>nexus point for collaborative efforts</b> aimed at advancing both physics and AI.
       <ul>
-      <li><a href="/outreach.html">Public Engagement</a></li>
-      <li><a href="/partnerships.html">Physics/AI Network</a></li>
-      <li><a href="/summer-workshop">IAIFI Summer Workshop</a></li>
-      <li><a href="/events.html">IAIFI Colloquia</a></li>
-      <li><a href="/seminars.html">IAIFI Seminars</a></li>
-      <li><a href="/lightning-talks.html">Lightning Talks</a></li>
-      <li><a href="/hackathon.html">Hackathons</a></li>
-      <li><a href="/generative-ai-workshop.html">Generative AI Symposium</a></li>
-      <li><a href="/industry-partners.html">Industry Partners</a></li>
-      <li><a href="/committees.html">Committees</a></li>
+      <li><a href="/outreach.html">Public Engagement:</a> Information about activities and events targeted toward K-12 students and the general public</li>
+      <li><a href="/partnerships.html">Physics/AI Network:</a> Information about activities and events aiming to bring together the global AI+Physics community</li>
+      <li><a href="/summer-workshop">IAIFI Summer Workshop:</a> Details about our annual Summer Workshop for researchers of all career stages working at the intersection of Physics and AI</li>
+      <li><a href="/events.html">IAIFI Colloquia:</a> Twice-per-month talks from global experts in AI+Physics</li>
+      <li><a href="/seminars.html">IAIFI Seminars:</a> No longer active, monthly talks from Boston-area experts in AI+Physics</li>
+      <li><a href="/hackathon.html">Hackathons:</a> Occasional events for early career researchers to work together on problems in AI+Physics---sometimes in more specific domains</li>
+      <li><a href="/industry-partners.html">Industry Partners:</a> Details of our partnerships with various companies in and beyond the Boston area supporting our interdisciplinary efforts</li>
+      <li><a href="/committees.html">Committees:</a> Information about various committees that IAIFI members are invited to participate in to help advance IAIFI's strategic goals</li>
     </ul>
     </div>
 
@@ -152,6 +152,8 @@ nexus point for collaborative efforts aimed at advancing both physics and AI.
 ##  Press Coverage 
 
   * IAIFI Launch (August 26, 2020):  [NSF](https://www.nsf.gov/news/special_reports/announcements/082620.jsp), [NSF blog](https://beta.nsf.gov/science-matters/new-nsf-ai-research-institutes-push-forward-frontiers-artificial-intelligence), [MIT](https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826), [Harvard](https://www.news.harvard.edu/gazette/story/2020/08/harvard-a-partner-in-20-million-ai-institute/), [Northeastern](https://news.northeastern.edu/2020/08/26/why-you-need-a-computer-to-understand-strings-and-knots/)
+  
+  For press inquiries, email [iaifi@mit.edu](mailto:iaifi@mit.edu)
 
 
 ## Graphics
@@ -177,6 +179,6 @@ nexus point for collaborative efforts aimed at advancing both physics and AI.
 ##  Contact
 
   * Email [IAIFI Management](mailto:iaifi@mit.edu)
-  * Follow [@iaifi_news on Twitter/X](https://twitter.com/iaifi_news)
+  * Follow [@iaifi_news on X](https://twitter.com/iaifi_news)
   * Connect with [IAIFI on LinkedIn](https://www.linkedin.com/company/iaifi/)
   * [GRID page](https://grid.ac/institutes/grid.510603.1)
