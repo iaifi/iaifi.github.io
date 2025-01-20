@@ -65,13 +65,17 @@ header:
         url: /physics-experiment-research.html
       - title: Astrophysics
         url: /astrophysics-research.html
-      - title: Papers
+      - title: Papers and Code
         url: /papers.html
+      - title: Thematic Discussions
+        url: /lightning-talks.html
 
   - title: Talent
     subtitles:
       - title: IAIFI Fellowship
         url: /fellows.html
+      - title: IAIFI Fellows
+        url: /current-fellows.html
       - title: Summer School
         url: /phd-summer-school.html
       - title: Early Career, Equity, Ethics
@@ -99,12 +103,8 @@ header:
         url: /events.html
       - title: Seminars
         url: /seminars.html
-      - title: Lightning Talks
-        url: /lightning-talks.html
       - title: Hackathons
         url: /hackathon.html
-      - title: Generative AI Symposium
-        url: /generative-ai-workshop.html
       - title: Industry Partners
         url: /industry-partners.html
         
