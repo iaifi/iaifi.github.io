@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/JacobHA/RLC-SoftQBounding
 publication-date: 
 bib-tex: |
-  @misc{adamczyk2024boostingsoftqlearningbounding,
+  @article{adamczyk2024boostingsoftqlearningbounding,
       title={Boosting Soft Q-Learning by Bounding},
       author={Jacob Adamczyk and Volodymyr Makarenko and Stas Tiomkin and Rahul V. Kulkarni},
       year={2024},

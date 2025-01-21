@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{luo2024simulatingmoirequantummatter,
+  @article{luo2024simulatingmoirequantummatter,
       title={Simulating moir\'e quantum matter with neural network},
       author={Di Luo and David D. Dai and Liang Fu},
       year={2024},

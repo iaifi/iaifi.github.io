@@ -10,7 +10,7 @@ nsf-par: 10555707
 code: https://github.com/rikab/MomentAnalysis
 publication-date: 2024-10-15
 bib-tex: |
-  @misc{gambhir2024momentsclaritystreamlininglatent,
+  @article{gambhir2024momentsclaritystreamlininglatent,
       title={Moments of Clarity: Streamlining Latent Spaces in Machine Learning using Moment Pooling},
       author={Rikab Gambhir and Athis Osathapan and Jesse Thaler},
       year={2024},

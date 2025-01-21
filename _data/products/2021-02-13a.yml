@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date: 
 bib-tex: |
-  @misc{theodosis2022convergencegroupsparseautoencoders,
+  @article{theodosis2022convergencegroupsparseautoencoders,
       title={On the convergence of group-sparse autoencoders},
       author={Emmanouil Theodosis and Bahareh Tolooshams and Pranay Tankala and Abiy Tasissa and Demba Ba},
       year={2022},

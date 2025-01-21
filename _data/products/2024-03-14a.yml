@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/jlazar17/NuTel_SNe_BSM/
 publication-date: 
 bib-tex: |
-  @misc{lazar2024supernovaetimeprofilesprobe,
+  @article{lazar2024supernovaetimeprofilesprobe,
       title={Supernovae Time Profiles as a Probe of New Physics at Neutrino Telescopes},
       author={Jeff Lazar and Ying-Ying Li and Carlos A. Arguelles and Vedran Brdar},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{luo2023artificialintelligenceartificialmaterials,
+  @article{luo2023artificialintelligenceartificialmaterials,
       title={Artificial intelligence for artificial materials: moir\'e atom},
       author={Di Luo and Aidan P. Reddy and Trithep Devakul and Liang Fu},
       year={2023},

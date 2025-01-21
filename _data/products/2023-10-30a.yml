@@ -10,7 +10,7 @@ nsf-par: 10555692
 code:
 publication-date: 2024-10-23
 bib-tex: |
-  @misc{halverson2023metricflowsneuralnetworks,
+  @article{halverson2023metricflowsneuralnetworks,
       title={Metric Flows with Neural Networks},
       author={James Halverson and Fabian Ruehle},
       year={2023},

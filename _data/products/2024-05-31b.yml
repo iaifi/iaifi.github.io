@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{xie2024exploratorypreferenceoptimizationharnessing,
+  @article{xie2024exploratorypreferenceoptimizationharnessing,
       title={Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF},
       author={Tengyang Xie and Dylan J. Foster and Akshay Krishnamurthy and Corby Rosset and Ahmed Awadallah and Alexander Rakhlin},
       year={2024},

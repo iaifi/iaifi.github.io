@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date:
 bib-tex: |
-  @misc{kantamneni2024optpdediscoveringnovelintegrable,
+  @article{kantamneni2024optpdediscoveringnovelintegrable,
       title={OptPDE: Discovering Novel Integrable Systems via AI-Human Collaboration},
       author={Subhash Kantamneni and Ziming Liu and Max Tegmark},
       year={2024},

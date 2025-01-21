@@ -10,7 +10,7 @@ nsf-par: 10555727
 code: https://github.com/jfcrenshaw/pzflow
 publication-date: 2024-07-23
 bib-tex: |
-  @misc{crenshaw2024probabilisticforwardmodelinggalaxy,
+  @article{crenshaw2024probabilisticforwardmodelinggalaxy,
       title={Probabilistic Forward Modeling of Galaxy Catalogs with Normalizing Flows},
       author={John Franklin Crenshaw and J. Bryce Kalmbach and Alexander Gagliano and Ziang Yan and Andrew J. Connolly and Alex I. Malz and Samuel J. Schmidt and The LSST Dark Energy Science Collaboration},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: "https://github.com/VTDA-Group/superphot-plus"
 publication-date: 2024-10-10
 bib-tex: |
-  @article{de Soto_2024,
+  @article{deSoto_2024,
     doi = {10.3847/1538-4357/ad6a4f},
     url = {https://dx.doi.org/10.3847/1538-4357/ad6a4f},
     year = {2024},

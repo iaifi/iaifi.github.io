@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date:
 bib-tex: |
-  @misc{jones2024blastwebapplicationcharacterizing,
+  @article{jones2024blastwebapplicationcharacterizing,
       title={Blast: a Web Application for Characterizing the Host Galaxies of Astrophysical Transients},
       author={D. O. Jones and P. McGill and T. A. Manning and A. Gagliano and B. Wang and D. A. Coulter and R. J. Foley and G. Narayan and V. A. Villar and L. Braff and A. W. Engel and D. Farias and Z. Lai and K. Loertscher and J. Kutcka and S. Thorp and J. Vazquez},
       year={2024},

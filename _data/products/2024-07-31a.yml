@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{halverson2024tasilecturesphysicsmachine,
+  @article{halverson2024tasilecturesphysicsmachine,
       title={TASI Lectures on Physics for Machine Learning},
       author={Jim Halverson},
       year={2024},

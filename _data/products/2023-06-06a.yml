@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{sun2023quantumcomputationsimulationusing,
+  @article{sun2023quantumcomputationsimulationusing,
       title={Quantum Computation and Simulation using Fermion-Pair Registers},
       author={Xiangkai Sun and Di Luo and Soonwon Choi},
       year={2023},

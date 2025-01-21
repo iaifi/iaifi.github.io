@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date:
 bib-tex: |
-  @misc{dugan2024occamllmfastexactlanguage,
+  @article{dugan2024occamllmfastexactlanguage,
       title={OccamLLM: Fast and Exact Language Model Arithmetic in a Single Step},
       author={Owen Dugan and Donato Manuel Jimenez Beneto and Charlotte Loh and Zhuo Chen and Rumen Dangovski and Marin Soljačić},
       year={2024},

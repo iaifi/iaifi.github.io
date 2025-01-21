@@ -10,7 +10,7 @@ nsf-par:
 code: "https://github.com/felixyu7/nt_mlreco"
 publication-date:
 bib-tex: |
-  @misc{yu2024enhancingeventsneutrinotelescopes,
+  @article{yu2024enhancingeventsneutrinotelescopes,
       title={Enhancing Events in Neutrino Telescopes through Deep Learning-Driven Super-Resolution},
       author={Felix J. Yu and Nicholas Kamp and Carlos A. Argüelles},
       year={2024},

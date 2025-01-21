@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{lazar2024newpathwaysneutrinophysics,
+  @article{lazar2024newpathwaysneutrinophysics,
       title={New Pathways in Neutrino Physics via Quantum-Encoded Data Analysis},
       author={Jeffrey Lazar and Santiago Giner Olavarrieta and Giancarlo Gatti and Carlos A. Argüelles and Mikel Sanz},
       year={2024},

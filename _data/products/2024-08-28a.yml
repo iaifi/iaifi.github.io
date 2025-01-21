@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date:
 bib-tex: |
-  @misc{ziyin2024removesymmetriescontrolmodel,
+  @article{ziyin2024removesymmetriescontrolmodel,
       title={Remove Symmetries to Control Model Expressivity},
       author={Liu Ziyin and Yizhou Xu and Isaac Chuang},
       year={2024},

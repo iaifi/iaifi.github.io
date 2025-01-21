@@ -10,7 +10,7 @@ nsf-par:
 code: https://github. com/trivnguyen/nehod_torch
 publication-date: 
 bib-tex: |
-  @misc{nguyen2024dreamsmadeemulatingsatellite,
+  @article{nguyen2024dreamsmadeemulatingsatellite,
       title={How DREAMS are made: Emulating Satellite Galaxy and Subhalo Populations with Diffusion Models and Point Clouds},
       author={Tri Nguyen and Francisco Villaescusa-Navarro and Siddharth Mishra-Sharma and Carolina Cuesta-Lazaro and Paul Torrey and Arya Farahi and Alex M. Garcia and Jonah C. Rose and Stephanie O'Neil and Mark Vogelsberger and Xuejian Shen and Cian Roche and Daniel Anglés-Alcázar and Nitya Kallivayalil and Julian B. Muñoz and Francis-Yan Cyr-Racine and Sandip Roy and Lina Necib and Kassidy E. Kollmann},
       year={2024},

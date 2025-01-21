@@ -11,7 +11,7 @@ nsf-par:
 code: "https://github.com/heidelberg-hepml/lorentz-gatr"
 publication-date:
 bib-tex: |
-  @misc{brehmer2024lorentzequivarianttransformerlhc,
+  @article{brehmer2024lorentzequivarianttransformerlhc,
       title={A Lorentz-Equivariant Transformer for All of the LHC},
       author={Johann Brehmer and Víctor Bresó and Pim de Haan and Tilman Plehn and Huilin Qu and Jonas Spinner and Jesse Thaler},
       year={2024},

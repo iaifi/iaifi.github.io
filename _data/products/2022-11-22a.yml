@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/nmudur/diffusion-models-astrophysical-fields-mlps
 publication-date:
 bib-tex: |
-  @misc{mudur2022denoisingdiffusionprobabilisticmodels,
+  @article{mudur2022denoisingdiffusionprobabilisticmodels,
       title={Can denoising diffusion probabilistic models generate realistic astrophysical fields?},
       author={Nayantara Mudur and Douglas P. Finkbeiner},
       year={2022},

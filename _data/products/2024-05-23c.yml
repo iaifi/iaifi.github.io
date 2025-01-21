@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/JoshEngels/MultiDimensionalFeatures
 publication-date: 
 bib-tex: |
-  @misc{engels2024languagemodelfeatureslinear,
+  @article{engels2024languagemodelfeatureslinear,
       title={Not All Language Model Features Are Linear},
       author={Joshua Engels and Eric J. Michaud and Isaac Liao and Wes Gurnee and Max Tegmark},
       year={2024},

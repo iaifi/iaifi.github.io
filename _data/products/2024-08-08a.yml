@@ -10,7 +10,7 @@ nsf-par:
 code: "https://github.com/aureliendersy/spinorhelicity"
 publication-date:
 bib-tex: |
-  @misc{cheung2024learningsimplicityscatteringamplitudes,
+  @article{cheung2024learningsimplicityscatteringamplitudes,
       title={Learning the Simplicity of Scattering Amplitudes},
       author={Clifford Cheung and Aurélien Dersy and Matthew D. Schwartz},
       year={2024},

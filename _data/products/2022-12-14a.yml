@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{chen2022simulating21dlatticequantum,
+  @article{chen2022simulating21dlatticequantum,
       title={Simulating 2+1D Lattice Quantum Electrodynamics at Finite Density with Neural Flow Wavefunctions},
       author={Zhuo Chen and Di Luo and Kaiwen Hu and Bryan K. Clark},
       year={2022},

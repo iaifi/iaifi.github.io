@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/mhamilton723/DenseAV
 publication-date:
 bib-tex: |
-  @misc{hamilton2024separatingchirpchatselfsupervised,
+  @article{hamilton2024separatingchirpchatselfsupervised,
       title={Separating the "Chirp" from the "Chat": Self-supervised Visual Grounding of Sound and Language},
       author={Mark Hamilton and Andrew Zisserman and John R. Hershey and William T. Freeman},
       year={2024},

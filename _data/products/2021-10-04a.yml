@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{mishrasharma2022inferringdarkmattersubstructure,
+  @article{mishrasharma2022inferringdarkmattersubstructure,
       title={Inferring dark matter substructure with astrometric lensing beyond the power spectrum},
       author={Siddharth Mishra-Sharma},
       year={2022},

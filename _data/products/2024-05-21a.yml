@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{craigie2024unsupervisedsearchescosmologicalparity,
+  @article{craigie2024unsupervisedsearchescosmologicalparity,
       title={Unsupervised Searches for Cosmological Parity Violation: Improving Detection Power with the Neural Field Scattering Transform},
       author={Matthew Craigie and Peter L. Taylor and Yuan-Sen Ting and Carolina Cuesta-Lazaro and Rossana Ruggeri and Tamara M. Davis},
       year={2024},

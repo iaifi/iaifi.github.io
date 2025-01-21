@@ -11,7 +11,7 @@ nsf-par:
 code: "https://github.com/edwarddramirez/gce-gp"
 publication-date:
 bib-tex: |
-  @misc{ramirez2024inferringmorphologygalacticcenter,
+  @article{ramirez2024inferringmorphologygalacticcenter,
       title={Inferring the Morphology of the Galactic Center Excess with Gaussian Processes},
       author={Edward D. Ramirez and Yitian Sun and Matthew R. Buckley and Siddharth Mishra-Sharma and Tracy R. Slatyer},
       year={2024},

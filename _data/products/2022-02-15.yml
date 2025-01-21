@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{jejjala2022identifyingequivalentcalabiyautopologies,
+  @article{jejjala2022identifyingequivalentcalabiyautopologies,
       title={Identifying equivalent Calabi--Yau topologies: A discrete challenge from math and physics for machine learning},
       author={Vishnu Jejjala and Washington Taylor and Andrew Turner},
       year={2022},

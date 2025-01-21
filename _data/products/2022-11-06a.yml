@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{luo2022gaugeequivariantneuralnetworks,
+  @article{luo2022gaugeequivariantneuralnetworks,
       title={Gauge Equivariant Neural Networks for 2+1D U(1) Gauge Theory Simulations in Hamiltonian Formulation},
       author={Di Luo and Shunyue Yuan and James Stokes and Bryan K. Clark},
       year={2022},

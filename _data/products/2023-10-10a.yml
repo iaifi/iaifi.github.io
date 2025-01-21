@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/ saprmarks/geometry-of-truth.
 publication-date: 
 bib-tex: |
-  @misc{marks2024geometrytruthemergentlinear,
+  @article{marks2024geometrytruthemergentlinear,
       title={The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets},
       author={Samuel Marks and Max Tegmark},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/andrew-saydjari/apMADGICS.jl
 publication-date:
 bib-tex: |
-  @misc{saydjari2024improvingradialvelocitiesmarginalizing,
+  @article{saydjari2024improvingradialvelocitiesmarginalizing,
       title={Improving Radial Velocities by Marginalizing over Stars and Sky: Achieving 30 m/s RV Precision for APOGEE in the Plate Era},
       author={Andrew K. Saydjari and Douglas P. Finkbeiner and Adam J. Wheeler and Jon A. Holtzman and John C. Wilson and Andrew R. Casey and Sophia Sánchez-Maes and Joel R. Brownstein and David W. Hogg and Michael R. Blanton},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/andrejobuljen/Hi-Fi_mocks
 publication-date:
 bib-tex: |
-  @misc{ivanov2024fullshapeanalysissimulationbasedpriors,
+  @article{ivanov2024fullshapeanalysissimulationbasedpriors,
       title={Full-shape analysis with simulation-based priors: cosmological parameters and the structure growth anomaly},
       author={Mikhail M. Ivanov and Andrej Obuljen and Carolina Cuesta-Lazaro and Michael W. Toomey},
       year={2024},

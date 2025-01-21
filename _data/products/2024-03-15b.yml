@@ -10,7 +10,7 @@ nsf-par: 10555713
 code: https://github.com/victoriaono/variational-diffusion-cdm
 publication-date: 2024-07-30
 bib-tex: |
-  @misc{ono2024debiasingdiffusionprobabilisticreconstruction,
+  @article{ono2024debiasingdiffusionprobabilisticreconstruction,
       title={Debiasing with Diffusion: Probabilistic reconstruction of Dark Matter fields from galaxies with CAMELS},
       author={Victoria Ono and Core Francisco Park and Nayantara Mudur and Yueying Ni and Carolina Cuesta-Lazaro and Francisco Villaescusa-Navarro},
       year={2024},

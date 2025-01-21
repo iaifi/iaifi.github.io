@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{demirtas2023neuralnetworkfieldtheories,
+  @article{demirtas2023neuralnetworkfieldtheories,
       title={Neural Network Field Theories: Non-Gaussianity, Actions, and Locality},
       author={Mehmet Demirtas and James Halverson and Anindita Maiti and Matthew D. Schwartz and Keegan Stoner},
       year={2023},

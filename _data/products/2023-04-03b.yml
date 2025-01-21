@@ -10,7 +10,7 @@ nsf-par:
 code: https://gmargo11.github.io/dribblebot
 publication-date: 
 bib-tex: |
-  @misc{ji2023dribblebotdynamicleggedmanipulation,
+  @article{ji2023dribblebotdynamicleggedmanipulation,
       title={DribbleBot: Dynamic Legged Manipulation in the Wild},
       author={Yandong Ji and Gabriel B. Margolis and Pulkit Agrawal},
       year={2023},

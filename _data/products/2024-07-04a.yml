@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{demurieta2024haystackslookneedlesrate,
+  @article{demurieta2024haystackslookneedlesrate,
       title={Find the haystacks, then look for needles: The rate of strongly lensed transients in galaxy-galaxy strong gravitational lenses},
       author={Ana Sainz de Murieta and Thomas E. Collett and Mark R. Magee and Justin D. R. Pierel and Wolfgang J. R. Enzi and Martine Lokken and Alex Gagliano and Dan Ryczanowski},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: https://gmargo11.github.io/walk-these-ways/
 publication-date: 
 bib-tex: |
-  @misc{margolis2022walkwaystuningrobot,
+  @article{margolis2022walkwaystuningrobot,
       title={Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior},
       author={Gabriel B Margolis and Pulkit Agrawal},
       year={2022},

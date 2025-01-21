@@ -10,7 +10,7 @@ nsf-par: 10505452
 code: 
 publication-date: 2023-07-26
 bib-tex: |
-  @misc{sharma2023materialisticselectingsimilarmaterials,
+  @article{sharma2023materialisticselectingsimilarmaterials,
       title={Materialistic: Selecting Similar Materials in Images},
       author={Prafull Sharma and Julien Philip and Michaël Gharbi and William T. Freeman and Fredo Durand and Valentin Deschaintre},
       year={2023},

@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 2023-09-01
 bib-tex: |
-  @misc{liao2023learningoptimizequasinewtonmethods,
+  @article{liao2023learningoptimizequasinewtonmethods,
       title={Learning to Optimize Quasi-Newton Methods},
       author={Isaac Liao and Rumen R. Dangovski and Jakob N. Foerster and Marin Soljačić},
       year={2023},

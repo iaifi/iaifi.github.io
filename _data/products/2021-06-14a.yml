@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{brandt2021automaticinterpretation3dplots,
+  @article{brandt2021automaticinterpretation3dplots,
       title={Toward Automatic Interpretation of 3D Plots},
       author={Laura E. Brandt and William T. Freeman},
       year={2021},

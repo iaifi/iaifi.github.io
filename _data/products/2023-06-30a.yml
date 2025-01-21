@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/fjzzq2002/pizza.
 publication-date: 
 bib-tex: |
-  @misc{zhong2023clockpizzastoriesmechanistic,
+  @article{zhong2023clockpizzastoriesmechanistic,
       title={The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks},
       author={Ziqian Zhong and Ziming Liu and Max Tegmark and Jacob Andreas},
       year={2023},

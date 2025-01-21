@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{liao2023generatinginterpretablenetworksusing,
+  @article{liao2023generatinginterpretablenetworksusing,
       title={Generating Interpretable Networks using Hypernetworks},
       author={Isaac Liao and Ziming Liu and Max Tegmark},
       year={2023},

@@ -15,7 +15,7 @@ bib-tex: |
   author = {Gaia Grosso},
   journal = {Journal of High Energy Physics},
   volume = {2024},
-  article number = {93},
+  number = {93},
   year = {2024},
   month = {Dec},
   publisher = {Springer Nature Link},

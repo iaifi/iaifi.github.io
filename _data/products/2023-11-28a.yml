@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/smsharma/point-cloud-galaxy-diffusion
 publication-date: 
 bib-tex: |
-  @misc{cuestalazaro2023pointcloudapproachgenerative,
+  @article{cuestalazaro2023pointcloudapproachgenerative,
       title={A point cloud approach to generative modeling for galaxy surveys at the field level},
       author={Carolina Cuesta-Lazaro and Siddharth Mishra-Sharma},
       year={2023},

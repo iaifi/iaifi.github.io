@@ -16,7 +16,7 @@ bib-tex: |
   author = {Baume, Florent and Oehlmann, Paul-Konstantin and Ruehle, Fabian},
   journal = {Journal of High Energy Physics},
   volume = {2024},
-  article number = {149},
+  number = {149},
   year = {2024},
   month = {Nov},
   publisher = {Springer Nature Link},

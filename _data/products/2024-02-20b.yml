@@ -10,7 +10,7 @@ nsf-par: 10555699
 code: https:// github.com/smsharma/eft-hod
 publication-date: 2024-09-18
 bib-tex: |
-  @misc{ivanov2024fullshapeanalysissimulationbasedpriors-cosmo,
+  @article{ivanov2024fullshapeanalysissimulationbasedpriors-cosmo,
       title={Full-shape analysis with simulation-based priors: constraints on single field inflation from BOSS},
       author={Mikhail M. Ivanov and Carolina Cuesta-Lazaro and Siddharth Mishra-Sharma and Andrej Obuljen and Michael W. Toomey},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{shih2023machinae20fullskymodelagnostic,
+  @article{shih2023machinae20fullskymodelagnostic,
       title={Via Machinae 2.0: Full-Sky, Model-Agnostic Search for Stellar Streams in Gaia DR2},
       author={David Shih and Matthew R. Buckley and Lina Necib},
       year={2023},

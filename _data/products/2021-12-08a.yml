@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{halverson2021buildingquantumfieldtheories,
+  @article{halverson2021buildingquantumfieldtheories,
       title={Building Quantum Field Theories Out of Neurons},
       author={James Halverson},
       year={2021},

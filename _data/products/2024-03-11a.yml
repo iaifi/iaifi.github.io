@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{andriot2024classicalsittersolutionsparametric,
+  @article{andriot2024classicalsittersolutionsparametric,
       title={On classical de Sitter solutions and parametric control},
       author={David Andriot and Fabian Ruehle},
       year={2024},

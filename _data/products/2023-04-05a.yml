@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{liu2023genphysphysicalprocessesgenerative,
+  @article{liu2023genphysphysicalprocessesgenerative,
       title={GenPhys: From Physical Processes to Generative Models},
       author={Ziming Liu and Di Luo and Yilun Xu and Tommi Jaakkola and Max Tegmark},
       year={2023},

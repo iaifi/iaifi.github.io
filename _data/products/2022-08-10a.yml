@@ -10,7 +10,7 @@ nsf-par: 10488633
 code: 
 publication-date: 2023-07-12
 bib-tex: |
-  @article{Park_2023,
+  @article{Park_2023_embedding,
    title={Neural embedding: learning the embedding of the manifold of physics data},
    volume={2023},
    ISSN={1029-8479},

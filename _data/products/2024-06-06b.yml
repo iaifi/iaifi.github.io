@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date:
 bib-tex: |
-  @misc{ibarra2024heterotickahlergravitydistance,
+  @article{ibarra2024heterotickahlergravitydistance,
       title={A Heterotic K\"ahler Gravity and the Distance Conjecture},
       author={Javier José Murgas Ibarra and Paul-Konstantin Oehlmann and Fabian Ruehle and Eirik Eik Svanes},
       year={2024},

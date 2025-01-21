@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{kitouni2023nuclrnuclearcolearnedrepresentations,
+  @article{kitouni2023nuclrnuclearcolearnedrepresentations,
       title={NuCLR: Nuclear Co-Learned Representations},
       author={Ouail Kitouni and Niklas Nolte and Sokratis Trifinopoulos and Subhash Kantamneni and Mike Williams},
       year={2023},

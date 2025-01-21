@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/trevormccrt/noise_emergence
 publication-date:
 bib-tex: |
-  @misc{mccourt2023noisydynamicalsystemsevolve,
+  @article{mccourt2023noisydynamicalsystemsevolve,
       title={Noisy dynamical systems evolve error correcting codes and modularity},
       author={Trevor McCourt and Ila R. Fiete and Isaac L. Chuang},
       year={2023},

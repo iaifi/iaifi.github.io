@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{schulte2023developmenttopologicaltriggerlhcb,
+  @article{schulte2023developmenttopologicaltriggerlhcb,
       title={Development of the Topological Trigger for LHCb Run 3},
       author={Nicole Schulte and Blaise Raheem Delaney and Niklas Nolte and Gregory Max Ciezarek and Johannes Albrecht and Mike Williams},
       year={2023},

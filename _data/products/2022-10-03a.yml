@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/KindXiaoming/Omnigrok
 publication-date: 
 bib-tex: |
-  @misc{liu2023omnigrokgrokkingalgorithmicdata,
+  @article{liu2023omnigrokgrokkingalgorithmicdata,
       title={Omnigrok: Grokking Beyond Algorithmic Data},
       author={Ziming Liu and Eric J. Michaud and Max Tegmark},
       year={2023},

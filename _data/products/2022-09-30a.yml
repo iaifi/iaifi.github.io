@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/niklasnolte/MonotOneNorm
 publication-date: 
 bib-tex: |
-  @misc{kitouni2022findingneemogeometricfitting,
+  @article{kitouni2022findingneemogeometricfitting,
       title={Finding NEEMo: Geometric Fitting using Neural Estimation of the Energy Mover's Distance},
       author={Ouail Kitouni and Niklas Nolte and Mike Williams},
       year={2022},

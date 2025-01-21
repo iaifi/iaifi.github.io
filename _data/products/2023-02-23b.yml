@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{dugan2023qflowgenerativemodelingdifferential,
+  @article{dugan2023qflowgenerativemodelingdifferential,
       title={Q-Flow: Generative Modeling for Differential Equations of Open Quantum Dynamics with Normalizing Flows},
       author={Owen Dugan and Peter Y. Lu and Rumen Dangovski and Di Luo and Marin Soljačić},
       year={2023},

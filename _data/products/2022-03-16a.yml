@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date:
 bib-tex: |
-  @misc{hamilton2022unsupervisedsemanticsegmentationdistilling,
+  @article{hamilton2022unsupervisedsemanticsegmentationdistilling,
       title={Unsupervised Semantic Segmentation by Distilling Feature Correspondences},
       author={Mark Hamilton and Zhoutong Zhang and Bharath Hariharan and Noah Snavely and William T. Freeman},
       year={2022},

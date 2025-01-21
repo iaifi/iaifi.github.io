@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{lasby2024dynamicsparsetrainingstructured,
+  @article{lasby2024dynamicsparsetrainingstructured,
       title={Dynamic Sparse Training with Structured Sparsity},
       author={Mike Lasby and Anna Golubeva and Utku Evci and Mihai Nica and Yani Ioannou},
       year={2024},

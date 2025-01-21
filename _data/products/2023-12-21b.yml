@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{delaney2023applicationslipschitzneuralnetworks,
+  @article{delaney2023applicationslipschitzneuralnetworks,
       title={Applications of Lipschitz neural networks to the Run 3 LHCb trigger system},
       author={Blaise Delaney and Nicole Schulte and Gregory Ciezarek and Niklas Nolte and Mike Williams and Johannes Albrecht},
       year={2023},

@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{margolis2022rapidlocomotionreinforcementlearning,
+  @article{margolis2022rapidlocomotionreinforcementlearning,
       title={Rapid Locomotion via Reinforcement Learning},
       author={Gabriel B Margolis and Ge Yang and Kartik Paigwar and Tao Chen and Pulkit Agrawal},
       year={2022},

@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{tsang2024substructuredetectionrealisticstrong,
+  @article{tsang2024substructuredetectionrealisticstrong,
       title={Substructure Detection in Realistic Strong Lensing Systems with Machine Learning},
       author={Arthur Tsang and Atınç Çağan Şengül and Cora Dvorkin},
       year={2024},

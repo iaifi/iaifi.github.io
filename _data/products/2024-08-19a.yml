@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/KindXiaoming/pykan
 publication-date:
 bib-tex: |
-  @misc{liu2024kan20kolmogorovarnoldnetworks,
+  @article{liu2024kan20kolmogorovarnoldnetworks,
       title={KAN 2.0: Kolmogorov-Arnold Networks Meet Science},
       author={Ziming Liu and Pingchuan Ma and Yixuan Wang and Wojciech Matusik and Max Tegmark},
       year={2024},

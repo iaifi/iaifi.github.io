@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{sandoval2024multicategoryjetimageclassification,
+  @article{sandoval2024multicategoryjetimageclassification,
       title={A multicategory jet image classification framework using deep neural network},
       author={Jairo Orozco Sandoval and Vidya Manian and Sudhir Malik},
       year={2024},

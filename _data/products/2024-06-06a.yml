@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{horodynski2024stochasticlogicbiasedcoupled,
+  @article{horodynski2024stochasticlogicbiasedcoupled,
       title={Stochastic logic in biased coupled photonic probabilistic bits},
       author={Michael Horodynski and Charles Roques-Carmes and Yannick Salamin and Seou Choi and Jamison Sloan and Di Luo and Marin Soljačić},
       year={2024},

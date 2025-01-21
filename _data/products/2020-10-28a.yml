@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date: 2021-04-21
 bib-tex: |
-  @misc{gukov2020learningunknot,
+  @article{gukov2020learningunknot,
       title={Learning to Unknot},
       author={Sergei Gukov and James Halverson and Fabian Ruehle and Piotr Sułkowski},
       year={2020},

@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date:
 bib-tex: |
-  @misc{albergo2021introductionnormalizingflowslattice,
+  @article{albergo2021introductionnormalizingflowslattice,
       title={Introduction to Normalizing Flows for Lattice Field Theory},
       author={Michael S. Albergo and Denis Boyda and Daniel C. Hackett and Gurtej Kanwar and Kyle Cranmer and Sébastien Racanière and Danilo Jimenez Rezende and Phiala E. Shanahan},
       year={2021},

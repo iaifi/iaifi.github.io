@@ -10,7 +10,7 @@ nsf-par: 10280772
 code: https://xiangfu.co/tia
 publication-date: 2021-06-30
 bib-tex: |
-  @misc{fu2021learningtaskinformedabstractions,
+  @article{fu2021learningtaskinformedabstractions,
       title={Learning Task Informed Abstractions},
       author={Xiang Fu and Ge Yang and Pulkit Agrawal and Tommi Jaakkola},
       year={2021},

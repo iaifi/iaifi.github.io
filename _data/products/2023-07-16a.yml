@@ -10,7 +10,7 @@ nsf-par: 10524760
 code: https://deanhazineh.github.io/publications/Multi Image Synthesis/MIS Home.html
 publication-date: 2024-09-04
 bib-tex: |
-  @misc{hazineh2023polarizationmultiimagesynthesisbirefringent,
+  @article{hazineh2023polarizationmultiimagesynthesisbirefringent,
       title={Polarization Multi-Image Synthesis with Birefringent Metasurfaces},
       author={Dean Hazineh and Soon Wei Daniel Lim and Qi Guo and Federico Capasso and Todd Zickler},
       year={2023},

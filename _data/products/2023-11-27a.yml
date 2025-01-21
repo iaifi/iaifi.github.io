@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/atomicarchitects/symphony
 publication-date: 
 bib-tex: |
-  @misc{daigavane2024symphonysymmetryequivariantpointcenteredspherical,
+  @article{daigavane2024symphonysymmetryequivariantpointcenteredspherical,
       title={Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for 3D Molecule Generation},
       author={Ameya Daigavane and Song Kim and Mario Geiger and Tess Smidt},
       year={2024},

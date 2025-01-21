@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date:
 bib-tex: |
-  @misc{park2024automaticenvironmentshapingfrontier,
+  @article{park2024automaticenvironmentshapingfrontier,
       title={Automatic Environment Shaping is the Next Frontier in RL},
       author={Younghyo Park and Gabriel B. Margolis and Pulkit Agrawal},
       year={2024},

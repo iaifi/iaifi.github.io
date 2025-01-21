@@ -10,7 +10,7 @@ nsf-par:
 code: https://gmargo11.github.io/active-sensing-loco
 publication-date: 
 bib-tex: |
-  @misc{margolis2023learningphysicalpropertiesactive,
+  @article{margolis2023learningphysicalpropertiesactive,
       title={Learning to See Physical Properties with Active Sensing Motor Policies},
       author={Gabriel B. Margolis and Xiang Fu and Yandong Ji and Pulkit Agrawal},
       year={2023},

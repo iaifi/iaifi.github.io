@@ -10,7 +10,7 @@ nsf-par: 10505428
 code: 
 publication-date: 2023-09-18
 bib-tex: |
-  @misc{zhang2023deeplearningsymbolicregression,
+  @article{zhang2023deeplearningsymbolicregression,
       title={Deep Learning and Symbolic Regression for Discovering Parametric Equations},
       author={Michael Zhang and Samuel Kim and Peter Y. Lu and Marin Soljačić},
       year={2023},

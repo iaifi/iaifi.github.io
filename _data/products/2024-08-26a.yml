@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/cgiovanetti/LINX
 publication-date:
 bib-tex: |
-  @misc{giovanetti2024linxfastdifferentiableextensible,
+  @article{giovanetti2024linxfastdifferentiableextensible,
       title={LINX: A Fast, Differentiable, and Extensible Big Bang Nucleosynthesis Package},
       author={Cara Giovanetti and Mariangela Lisanti and Hongwan Liu and Siddharth Mishra-Sharma and Joshua T. Ruderman},
       year={2024},

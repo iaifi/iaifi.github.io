@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{liu2023grokkingcompressionnonlinearcomplexity,
+  @article{liu2023grokkingcompressionnonlinearcomplexity,
       title={Grokking as Compression: A Nonlinear Complexity Perspective},
       author={Ziming Liu and Ziqian Zhong and Max Tegmark},
       year={2023},

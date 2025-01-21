@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{mudur2023cosmologicalfieldemulationparameter,
+  @article{mudur2023cosmologicalfieldemulationparameter,
       title={Cosmological Field Emulation and Parameter Inference with Diffusion Models},
       author={Nayantara Mudur and Carolina Cuesta-Lazaro and Douglas P. Finkbeiner},
       year={2023},
