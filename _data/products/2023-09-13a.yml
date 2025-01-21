@@ -10,7 +10,7 @@ nsf-par: 10542373
 code:
 publication-date: 2024-01-23
 bib-tex: |
-  @misc{tinyanont2023keckinfraredtransientsurvey,
+  @article{tinyanont2023keckinfraredtransientsurvey,
       title={Keck Infrared Transient Survey I: Survey Description and Data Release 1},
       author={S. Tinyanont and R. J. Foley and K. Taggart and K. W. Davis and N. LeBaron and J. E. Andrews and M. J. Bustamante-Rosell and Y. Camacho-Neves and R. Chornock and D. A. Coulter and L. Galbany and S. W. Jha and C. D. Kilpatrick and L. A. Kwok and C. Larison and J. R. Pierel and M. R. Siebert and G. Aldering and K. Auchettl and J. S. Bloom and S. Dhawan and A. V. Filippenko and K. D. French and A. Gagliano and M. Grayling and W. V. Jacobson-Galán and D. O. Jones and X. Le Saux and P. Macias and K. S. Mandel and C. McCully and E. Padilla Gonzalez and A. Rest and C. Rojas-Bravo and M. F. Skrutskie and S. Thorp and Q. Wang and S. M. Ward},
       year={2023},

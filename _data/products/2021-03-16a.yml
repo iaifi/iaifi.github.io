@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date: 
 bib-tex: |
-  @misc{bartlett2021deeplearningstatisticalviewpoint,
+  @article{bartlett2021deeplearningstatisticalviewpoint,
       title={Deep learning: a statistical viewpoint},
       author={Peter L. Bartlett and Andrea Montanari and Alexander Rakhlin},
       year={2021},

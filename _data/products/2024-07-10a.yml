@@ -10,7 +10,7 @@ nsf-par: 10555732
 code: https://github.com/gmzsebastian/SLSNe
 publication-date: 2024-10-03
 bib-tex: |
-  @misc{gomez2024typeisuperluminoussupernova,
+  @article{gomez2024typeisuperluminoussupernova,
       title={The Type I Superluminous Supernova Catalog I: Light Curve Properties, Models, and Catalog Description},
       author={Sebastian Gomez and Matt Nicholl and Edo Berger and Peter K. Blanchard and V. Ashley Villar and Sofia Rest and Griffin Hosseinzadeh and Aysha Aamer and Yukta Ajay and Wasundara Athukoralalage and David C. Coulter and Tarraneh Eftekhari and Achille Fiore and Noah Franz and Ori Fox and Alexander Gagliano and Daichi Hiramatsu and D. Andrew Howell and Brian Hsu and Mitchell Karmen and Matthew R. Siebert and Réka Könyves-Tóth and Harsh Kumar and Curtis McCully and Craig Pellegrino and Justin Pierel and Armin Rest and Qinan Wang},
       year={2024},

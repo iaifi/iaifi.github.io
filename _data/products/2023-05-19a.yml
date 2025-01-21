@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{liu2023seeingbelievingbraininspiredmodular,
+  @article{liu2023seeingbelievingbraininspiredmodular,
       title={Seeing is Believing: Brain-Inspired Modular Training for Mechanistic Interpretability},
       author={Ziming Liu and Eric Gan and Max Tegmark},
       year={2023},

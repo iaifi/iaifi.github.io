@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/yidiq7/MLHarmonic-1-form
 publication-date: 
 bib-tex: |
-  @misc{douglas2024harmonic1formsrealloci,
+  @article{douglas2024harmonic1formsrealloci,
       title={Harmonic $1$-forms on real loci of Calabi-Yau manifolds},
       author={Michael R. Douglas and Daniel Platt and Yidi Qi},
       year={2024},

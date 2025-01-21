@@ -11,7 +11,7 @@ nsf-par:
 code: "https://github.com/MattWerenski/LBCM"
 publication-date:
 bib-tex: |
-  @misc{werenski2024linearizedwassersteinbarycenterssynthesis,
+  @article{werenski2024linearizedwassersteinbarycenterssynthesis,
       title={Linearized Wasserstein Barycenters: Synthesis, Analysis, Representational Capacity, and Applications},
       author={Matthew Werenski and Brendan Mallery and Shuchin Aeron and James M. Murphy},
       year={2024},

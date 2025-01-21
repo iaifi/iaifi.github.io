@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date:
 bib-tex: |
-  @misc{sponsler2024resonantneutrinoflavorconversion,
+  @article{sponsler2024resonantneutrinoflavorconversion,
       title={Resonant Neutrino Flavor Conversion in the Atmosphere},
       author={Connor Sponsler and Matheus Hostert and Ivan Martinez-Soler and Carlos A. Argüelles},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: https://yilundu.github.io/ndf/
 publication-date: 2022-05-27
 bib-tex: |
-  @misc{simeonov2021neuraldescriptorfieldsse3equivariant,
+  @article{simeonov2021neuraldescriptorfieldsse3equivariant,
       title={Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation},
       author={Anthony Simeonov and Yilun Du and Andrea Tagliasacchi and Joshua B. Tenenbaum and Alberto Rodriguez and Pulkit Agrawal and Vincent Sitzmann},
       year={2021},

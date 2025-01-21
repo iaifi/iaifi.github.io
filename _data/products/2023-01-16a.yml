@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 2023-12-22
 bib-tex: |
-  @misc{mukund2023demonstrationneuralsensingcontrol,
+  @article{mukund2023demonstrationneuralsensingcontrol,
       title={First demonstration of neural sensing and control in a kilometer-scale gravitational wave observatory},
       author={Nikhil Mukund and James Lough and Aparna Bisht and Holger Wittel and Séverin Landry Nadji and Christoph Affeldt and Fabio Bergamin and Marc Brinkmann and Volker Kringel and Harald Lück and Michael Weinert and Karsten Danzmann},
       year={2023},

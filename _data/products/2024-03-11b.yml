@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{harris2024resimulationbasedselfsupervisedlearningpretraining,
+  @article{harris2024resimulationbasedselfsupervisedlearningpretraining,
       title={Re-Simulation-based Self-Supervised Learning for Pre-Training Foundation Models},
       author={Philip Harris and Michael Kagan and Jeffrey Krupa and Benedikt Maier and Nathaniel Woodward},
       year={2024},

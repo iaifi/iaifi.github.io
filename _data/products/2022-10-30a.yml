@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{maloney2022solvablemodelneuralscaling,
+  @article{maloney2022solvablemodelneuralscaling,
       title={A Solvable Model of Neural Scaling Laws},
       author={Alexander Maloney and Daniel A. Roberts and James Sully},
       year={2022},

@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{xie2024equivariantsymmetrybreakingsets,
+  @article{xie2024equivariantsymmetrybreakingsets,
       title={Equivariant Symmetry Breaking Sets},
       author={YuQing Xie and Tess Smidt},
       year={2024},

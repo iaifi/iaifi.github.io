@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/cfpark00/vdm4cdm
 publication-date: 
 bib-tex: |
-  @misc{park2023probabilisticreconstructiondarkmatter,
+  @article{park2023probabilisticreconstructiondarkmatter,
       title={Probabilistic reconstruction of Dark Matter fields from biased tracers using diffusion models},
       author={Core Francisco Park and Victoria Ono and Nayantara Mudur and Yueying Ni and Carolina Cuesta-Lazaro},
       year={2023},

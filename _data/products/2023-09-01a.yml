@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{detmold2023signaltonoiseimprovementneuralnetwork,
+  @article{detmold2023signaltonoiseimprovementneuralnetwork,
       title={Signal-to-noise improvement through neural network contour deformations for 3D $SU(2)$ lattice gauge theory},
       author={William Detmold and Gurtej Kanwar and Yin Lin and Phiala E. Shanahan and Michael L. Wagman},
       year={2023},

@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date:
 bib-tex: |
-  @misc{alfaromejia2024elliptickernelunsupervisedautoencodergraph,
+  @article{alfaromejia2024elliptickernelunsupervisedautoencodergraph,
       title={An Elliptic Kernel Unsupervised Autoencoder-Graph Convolutional Network Ensemble Model for Hyperspectral Unmixing},
       author={Estefania Alfaro-Mejia and Carlos J Delgado and Vidya Manian},
       year={2024},

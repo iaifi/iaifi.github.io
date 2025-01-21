@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/NNSSA/Rec21
 publication-date:
 bib-tex: |
-  @misc{sabti2024generativemodelingapproachreconstructing,
+  @article{sabti2024generativemodelingapproachreconstructing,
       title={A Generative Modeling Approach to Reconstructing 21-cm Tomographic Data},
       author={Nashwan Sabti and Ram Reddy and Julian B. Muñoz and Siddharth Mishra-Sharma and Taewook Youn},
       year={2024},

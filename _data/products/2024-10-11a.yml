@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/JacobHA/RL4Dosing
 publication-date:
 bib-tex: |
-  @misc{kratz2024reinforcementlearningcontrolnonmarkovian,
+  @article{kratz2024reinforcementlearningcontrolnonmarkovian,
       title={Reinforcement Learning for Control of Non-Markovian Cellular Population Dynamics},
       author={Josiah C. Kratz and Jacob Adamczyk},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{luo2023pairingbasedgraphneuralnetwork,
+  @article{luo2023pairingbasedgraphneuralnetwork,
       title={Pairing-based graph neural network for simulating quantum materials},
       author={Di Luo and David D. Dai and Liang Fu},
       year={2023},

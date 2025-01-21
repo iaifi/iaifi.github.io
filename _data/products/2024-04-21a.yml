@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{pandya2024learninggalaxyintrinsicalignment,
+  @article{pandya2024learninggalaxyintrinsicalignment,
       title={Learning Galaxy Intrinsic Alignment Correlations},
       author={Sneh Pandya and Yuanyuan Yang and Nicholas Van Alfen and Jonathan Blazek and Robin Walters},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/felixyu7/om2vec
 publication-date:
 bib-tex: |
-  @misc{yu2024learningefficientrepresentationsneutrino,
+  @article{yu2024learningefficientrepresentationsneutrino,
       title={Learning Efficient Representations of Neutrino Telescope Events},
       author={Felix J. Yu and Nicholas Kamp and Carlos A. Argüelles},
       year={2024},

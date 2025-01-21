@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{rackers2022crackingquantumscalinglimit,
+  @article{rackers2022crackingquantumscalinglimit,
       title={Cracking the Quantum Scaling Limit with Machine Learned Electron Densities},
       author={Joshua A. Rackers and Lucas Tecot and Mario Geiger and Tess E. Smidt},
       year={2022},

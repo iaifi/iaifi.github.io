@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date:
 bib-tex: |
-  @misc{giovanetti2024cosmologicalparameterestimationjointlikelihood,
+  @article{giovanetti2024cosmologicalparameterestimationjointlikelihood,
       title={Cosmological Parameter Estimation with a Joint-Likelihood Analysis of the Cosmic Microwave Background and Big Bang Nucleosynthesis},
       author={Cara Giovanetti and Mariangela Lisanti and Hongwan Liu and Siddharth Mishra-Sharma and Joshua T. Ruderman},
       year={2024},

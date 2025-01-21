@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date:
 bib-tex: |
-  @misc{halverson2024conformalfieldsneuralnetworks,
+  @article{halverson2024conformalfieldsneuralnetworks,
       title={Conformal Fields from Neural Networks},
       author={James Halverson and Joydeep Naskar and Jiahua Tian},
       year={2024},

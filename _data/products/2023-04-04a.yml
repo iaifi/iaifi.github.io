@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/antn2023/ANTN
 publication-date: 
 bib-tex: |
-  @misc{chen2024antnbridgingautoregressiveneural,
+  @article{chen2024antnbridgingautoregressiveneural,
       title={ANTN: Bridging Autoregressive Neural Networks and Tensor Networks for Quantum Many-Body Simulation},
       author={Zhuo Chen and Laker Newhouse and Eddie Chen and Di Luo and Marin Soljačić},
       year={2024},

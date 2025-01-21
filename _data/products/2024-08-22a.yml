@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/mletizia/multiple-testing-nplm
 publication-date:
 bib-tex: |
-  @misc{grosso2024multipletestingsignalagnosticsearches,
+  @article{grosso2024multipletestingsignalagnosticsearches,
       title={Multiple testing for signal-agnostic searches of new physics with machine learning},
       author={Gaia Grosso and Marco Letizia},
       year={2024},

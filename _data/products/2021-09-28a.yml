@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{liu2021physicsaugmentedlearningnewparadigm,
+  @article{liu2021physicsaugmentedlearningnewparadigm,
       title={Physics-Augmented Learning: A New Paradigm Beyond Physics-Informed Learning},
       author={Ziming Liu and Yunyue Chen and Yuanqi Du and Max Tegmark},
       year={2021},

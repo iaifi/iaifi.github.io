@@ -10,7 +10,7 @@ nsf-par:
 code: https://tif-twirl-13.github.io/learning-compliance
 publication-date: 
 bib-tex: |
-  @misc{portela2024learningforcecontrollegged,
+  @article{portela2024learningforcecontrollegged,
       title={Learning Force Control for Legged Manipulation},
       author={Tifanny Portela and Gabriel B. Margolis and Yandong Ji and Pulkit Agrawal},
       year={2024},

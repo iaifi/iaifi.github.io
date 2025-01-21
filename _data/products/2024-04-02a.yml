@@ -10,7 +10,7 @@ nsf-par: 10555721
 code: 
 publication-date:  2024-07-31
 bib-tex: |
-  @misc{oehlmann2024frozenphaseheteroticftheory,
+  @article{oehlmann2024frozenphaseheteroticftheory,
       title={The Frozen Phase of Heterotic F-theory Duality},
       author={Paul-Konstantin Oehlmann and Fabian Ruehle and Benjamin Sung},
       year={2024},

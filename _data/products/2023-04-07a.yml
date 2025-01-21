@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{yunus2023correlationfunctiondistributionson,
+  @article{yunus2023correlationfunctiondistributionson,
       title={Correlation function distributions for O(N) lattice field theories in the disordered phase},
       author={Cagin Yunus and William Detmold},
       year={2023},

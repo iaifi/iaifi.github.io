@@ -10,7 +10,7 @@ nsf-par: 10555690
 code: https://github.com/aureliendersy/S-Matrix-Bootstrap
 publication-date: 2024-05-16
 bib-tex: |
-  @misc{dersy2023reconstructingsmatrixphasesmachine,
+  @article{dersy2023reconstructingsmatrixphasesmachine,
       title={Reconstructing $S$-matrix Phases with Machine Learning},
       author={Aurélien Dersy and Matthew D. Schwartz and Alexander Zhiboedov},
       year={2023},

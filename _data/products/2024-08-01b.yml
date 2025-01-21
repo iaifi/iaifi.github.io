@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date:
 bib-tex: |
-  @misc{ruehle2024attractorsgeodesicsgeometrymoduli,
+  @article{ruehle2024attractorsgeodesicsgeometrymoduli,
       title={Attractors, Geodesics, and the Geometry of Moduli Spaces},
       author={Fabian Ruehle and Benjamin Sung},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{wang2024discoveringsymmetrybreakingphysical,
+  @article{wang2024discoveringsymmetrybreakingphysical,
       title={Discovering Symmetry Breaking in Physical Systems with Relaxed Group Convolution},
       author={Rui Wang and Elyssa Hofgard and Han Gao and Robin Walters and Tess E. Smidt},
       year={2024},

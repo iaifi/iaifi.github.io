@@ -10,7 +10,7 @@ nsf-par:
 code: https://tianweiy.github.io/dmd2/
 publication-date:
 bib-tex: |
-  @misc{yin2024improveddistributionmatchingdistillation,
+  @article{yin2024improveddistributionmatchingdistillation,
       title={Improved Distribution Matching Distillation for Fast Image Synthesis},
       author={Tianwei Yin and Michaël Gharbi and Taesung Park and Richard Zhang and Eli Shechtman and Fredo Durand and William T. Freeman},
       year={2024},

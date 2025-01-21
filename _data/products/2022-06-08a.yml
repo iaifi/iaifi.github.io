@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 2024-02-15
 bib-tex: |
-  @misc{dersy2022simplifyingpolylogarithmsmachinelearning,
+  @article{dersy2022simplifyingpolylogarithmsmachinelearning,
       title={Simplifying Polylogarithms with Machine Learning},
       author={Aurélien Dersy and Matthew D. Schwartz and Xiaoyuan Zhang},
       year={2022},

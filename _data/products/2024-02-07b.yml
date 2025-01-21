@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{song2024resourcemodelneuralscaling,
+  @article{song2024resourcemodelneuralscaling,
       title={A Resource Model For Neural Scaling Law},
       author={Jinyeop Song and Ziming Liu and Max Tegmark and Jeff Gore},
       year={2024},

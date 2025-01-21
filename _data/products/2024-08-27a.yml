@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/ADelau/low_budget_sbi_with_bnn
 publication-date:
 bib-tex: |
-  @misc{delaunoy2024lowbudgetsimulationbasedinferencebayesian,
+  @article{delaunoy2024lowbudgetsimulationbasedinferencebayesian,
       title={Low-Budget Simulation-Based Inference with Bayesian Neural Networks},
       author={Arnaud Delaunoy and Maxence de la Brassinne Bonardeaux and Siddharth Mishra-Sharma and Gilles Louppe},
       year={2024},

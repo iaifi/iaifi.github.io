@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date: 
 bib-tex: |
-  @misc{roberts2021aihardphysicssimple,
+  @article{roberts2021aihardphysicssimple,
       title={Why is AI hard and Physics simple?},
       author={Daniel A. Roberts},
       year={2021},

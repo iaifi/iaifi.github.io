@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/ejmichaud/quantization-model
 publication-date: 
 bib-tex: |
-  @misc{michaud2024quantizationmodelneuralscaling,
+  @article{michaud2024quantizationmodelneuralscaling,
       title={The Quantization Model of Neural Scaling},
       author={Eric J. Michaud and Ziming Liu and Uzay Girit and Max Tegmark},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/carlguo866/circle-survival
 publication-date: 
 bib-tex: |
-  @misc{ding2024survivalfittestrepresentationcase,
+  @article{ding2024survivalfittestrepresentationcase,
       title={Survival of the Fittest Representation: A Case Study with Modular Addition},
       author={Xiaoman Delores Ding and Zifan Carl Guo and Eric J. Michaud and Ziming Liu and Max Tegmark},
       year={2024},

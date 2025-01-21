@@ -10,7 +10,7 @@ nsf-par: 10504108
 code: 
 publication-date: 2024-01-24
 bib-tex: |
-  @misc{hsu2023extensivetextithubblespacetelescope,
+  @article{hsu2023extensivetextithubblespacetelescope,
       title={An Extensive $\textit{Hubble Space Telescope}$ Study of the Offset and Host Light Distributions of Type I Superluminous Supernovae},
       author={Brian Hsu and Peter K. Blanchard and Edo Berger and Sebastian Gomez},
       year={2023},

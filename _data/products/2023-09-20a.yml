@@ -10,7 +10,7 @@ nsf-par: 10505513
 code: https://github.com/ML4GW/gwak
 publication-date: 2024-01-25
 bib-tex: |
-  @misc{raikman2023gwakgravitationalwaveanomalousknowledge,
+  @article{raikman2023gwakgravitationalwaveanomalousknowledge,
       title={GWAK: Gravitational-Wave Anomalous Knowledge with Recurrent Autoencoders},
       author={Ryan Raikman and Eric A. Moreno and Ekaterina Govorkova and Ethan J Marx and Alec Gunny and William Benoit and Deep Chatterjee and Rafia Omer and Muhammed Saleem and Dylan S Rankin and Michael W Coughlin and Philip C Harris and Erik Katsavounidis},
       year={2023},

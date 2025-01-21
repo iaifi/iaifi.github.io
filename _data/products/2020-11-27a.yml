@@ -10,7 +10,7 @@ nsf-par: 10488616
 code:
 publication-date: 2021-10-17
 bib-tex: |
-  @misc{verbin2021fieldjunctionsextractingboundary,
+  @article{verbin2021fieldjunctionsextractingboundary,
       title={Field of Junctions: Extracting Boundary Structure at Low SNR},
       author={Dor Verbin and Todd Zickler},
       year={2021},

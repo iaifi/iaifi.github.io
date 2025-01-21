@@ -10,7 +10,7 @@ nsf-par:
 code: https://feature-splatting.github.io
 publication-date: 
 bib-tex: |
-  @misc{qiu2024featuresplattinglanguagedrivenphysicsbased,
+  @article{qiu2024featuresplattinglanguagedrivenphysicsbased,
       title={Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing},
       author={Ri-Zhao Qiu and Ge Yang and Weijia Zeng and Xiaolong Wang},
       year={2024},

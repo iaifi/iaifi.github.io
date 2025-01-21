@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/adropulic/StreamGen
 publication-date:
 bib-tex: |
-  @misc{dropulic2024streamgenconnectingpopulationsstreams,
+  @article{dropulic2024streamgenconnectingpopulationsstreams,
       title={StreamGen: Connecting Populations of Streams and Shells to Their Host Galaxies},
       author={Adriana Dropulic and Nora Shipp and Stacy Kim and Zeineb Mezghanni and Lina Necib and Mariangela Lisanti},
       year={2024},

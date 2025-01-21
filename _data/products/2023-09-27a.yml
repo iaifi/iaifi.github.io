@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{brightthonney2023chainedquantilemorphingnormalizing,
+  @article{brightthonney2023chainedquantilemorphingnormalizing,
       title={Chained Quantile Morphing with Normalizing Flows},
       author={Samuel Bright-Thonney and Philip Harris and Patrick McCormack and Simon Rothman},
       year={2023},

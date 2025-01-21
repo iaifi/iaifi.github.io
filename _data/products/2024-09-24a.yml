@@ -10,7 +10,7 @@ nsf-par:
 code: https://aka.ms/faces-in-things
 publication-date:
 bib-tex: |
-  @misc{hamilton2024seeingfacesthingsmodel,
+  @article{hamilton2024seeingfacesthingsmodel,
       title={Seeing Faces in Things: A Model and Dataset for Pareidolia},
       author={Mark Hamilton and Simon Stent and Vasha DuTell and Anne Harrington and Jennifer Corbett and Ruth Rosenholtz and William T. Freeman},
       year={2024},

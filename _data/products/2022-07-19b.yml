@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{galloway2022boundinggeneralizationerrorinput,
+  @article{galloway2022boundinggeneralizationerrorinput,
       title={Bounding generalization error with input compression: An empirical study with infinite-width networks},
       author={Angus Galloway and Anna Golubeva and Mahmoud Salem and Mihai Nica and Yani Ioannou and Graham W. Taylor},
       year={2022},

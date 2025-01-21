@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/wesg52/world-models
 publication-date: 
 bib-tex: |
-  @misc{gurnee2024languagemodelsrepresentspace,
+  @article{gurnee2024languagemodelsrepresentspace,
       title={Language Models Represent Space and Time},
       author={Wes Gurnee and Max Tegmark},
       year={2024},

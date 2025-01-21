@@ -11,7 +11,7 @@ nsf-par:
 code:
 publication-date:
 bib-tex: |
-  @misc{constantin2024fermionmassesmixingstringinspired,
+  @article{constantin2024fermionmassesmixingstringinspired,
       title={Fermion Masses and Mixing in String-Inspired Models},
       author={Andrei Constantin and Cristofero S. Fraser-Taliente and Thomas R. Harvey and Lucas T. Y. Leung and Andre Lukas},
       year={2024},

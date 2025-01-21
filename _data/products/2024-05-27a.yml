@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/samuelperezdi/nuclr-icml
 publication-date: 
 bib-tex: |
-  @misc{kitouni2024neuronsneutronscasestudy,
+  @article{kitouni2024neuronsneutronscasestudy,
       title={From Neurons to Neutrons: A Case Study in Interpretability},
       author={Ouail Kitouni and Niklas Nolte and Víctor Samuel Pérez-Díaz and Sokratis Trifinopoulos and Mike Williams},
       year={2024},

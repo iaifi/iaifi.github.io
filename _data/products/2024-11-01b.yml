@@ -11,7 +11,7 @@ nsf-par:
 code: 
 publication-date:
 bib-tex: |
-  @misc{frasertaliente2024flatmetrics,
+  @article{frasertaliente2024flatmetrics,
       title={Not So Flat Metrics},
       author={Cristofero S. Fraser-Taliente and Thomas R. Harvey and Manki Kim},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 2022-04-27
 bib-tex: |
-  @misc{lin2022mixturemodelautoencodersdeep,
+  @article{lin2022mixturemodelautoencodersdeep,
       title={Mixture Model Auto-Encoders: Deep Clustering through Dictionary Learning},
       author={Alexander Lin and Andrew H. Song and Demba Ba},
       year={2022},

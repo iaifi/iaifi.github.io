@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 2024-08-21
 bib-tex: |
-  @misc{cesarotti2024fieldguideeventshapeobservables,
+  @article{cesarotti2024fieldguideeventshapeobservables,
       title={A Field Guide to Event-Shape Observables Using Optimal Transport},
       author={Cari Cesarotti and Matt LeBlanc},
       year={2024},

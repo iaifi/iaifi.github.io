@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date: 
 bib-tex: |
-  @misc{kur2021minimalerrorempiricalrisk,
+  @article{kur2021minimalerrorempiricalrisk,
       title={On the Minimal Error of Empirical Risk Minimization},
       author={Gil Kur and Alexander Rakhlin},
       year={2021},

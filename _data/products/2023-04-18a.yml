@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/ruehlef/ribbon
 publication-date: 
 bib-tex: |
-  @misc{gukov2023searchingribbonsmachinelearning,
+  @article{gukov2023searchingribbonsmachinelearning,
       title={Searching for ribbons with machine learning},
       author={Sergei Gukov and James Halverson and Ciprian Manolescu and Fabian Ruehle},
       year={2023},

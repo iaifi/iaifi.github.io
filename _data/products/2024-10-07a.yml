@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/rikab/SPECTER
 publication-date:
 bib-tex: |
-  @misc{gambhir2024specterefficientevaluationspectral,
+  @article{gambhir2024specterefficientevaluationspectral,
       title={SPECTER: Efficient Evaluation of the Spectral EMD},
       author={Rikab Gambhir and Andrew J. Larkoski and Jesse Thaler},
       year={2024},

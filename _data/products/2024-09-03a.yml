@@ -10,7 +10,7 @@ nsf-par:
 code:
 publication-date: 
 bib-tex: |
-  @misc{angus2024doubleacctdistinctdoublepeaked,
+  @article{angus2024doubleacctdistinctdoublepeaked,
       title={Double "acct": a distinct double-peaked supernova matching pulsational pair-instability models},
       author={C. R. Angus and S. E. Woosley and R. J. Foley and M. Nicholl and V. A. Villar and K. Taggart and M. Pursiainen and P. Ramsden and S. Srivastav and H. F. Stevance and T. Moore and K. Auchettl and W. B. Hoogendam and N. Khetan and S. K. Yadavalli and G. Dimitriadis and A. Gagliano and M. R. Siebert and A. Aamer and T. de Boer and K. C. Chambers and A. Clocchiatti and D. A. Coulter and M. R. Drout and D. Farias and M. D. Fulton and C. Gall and H. Gao and L. Izzo and D. O. Jones and C. -C. Lin and E. A. Magnier and G. Narayan and E. Ramirez-Ruiz and C. L. Ransome and A. Rest and S. J. Smartt and K. W. Smith},
       year={2024},

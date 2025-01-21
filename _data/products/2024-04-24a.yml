@@ -11,7 +11,7 @@ nsf-par: 10555724
 code:
 publication-date: 2024-07-22
 bib-tex: |
-  @misc{lin2024positionspacerenormalizationschemesfourquark,
+  @article{lin2024positionspacerenormalizationschemesfourquark,
       title={Position-space renormalization schemes for four-quark operators in HQET},
       author={Joshua Lin and William Detmold and Stefan Meinel},
       year={2024},

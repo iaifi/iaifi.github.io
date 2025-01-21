@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{han2024multistableshapeshadingemerges,
+  @article{han2024multistableshapeshadingemerges,
       title={Multistable Shape from Shading Emerges from Patch Diffusion},
       author={Xinran Nicole Han and Todd Zickler and Ko Nishino},
       year={2024},

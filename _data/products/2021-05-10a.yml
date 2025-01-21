@@ -11,7 +11,7 @@ nsf-par: 10251785
 code:
 publication-date: 
 bib-tex: |
-  @misc{andreassen2021scaffoldingsimulationsdeeplearning,
+  @article{andreassen2021scaffoldingsimulationsdeeplearning,
       title={Scaffolding Simulations with Deep Learning for High-dimensional Deconvolution},
       author={Anders Andreassen and Patrick T. Komiske and Eric M. Metodiev and Benjamin Nachman and Adi Suresh and Jesse Thaler},
       year={2021},

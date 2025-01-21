@@ -10,7 +10,7 @@ nsf-par: 10555682
 code:
 publication-date: 2024-11-05
 bib-tex: |
-  @misc{zlokapa2024faulttolerantneuralnetworksbiological,
+  @article{zlokapa2024faulttolerantneuralnetworksbiological,
       title={Fault-Tolerant Neural Networks from Biological Error Correction Codes},
       author={Alexander Zlokapa and Andrew K. Tan and John M. Martyn and Ila R. Fiete and Max Tegmark and Isaac L. Chuang},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{bravo2022quantumreservoircomputingusing,
+  @article{bravo2022quantumreservoircomputingusing,
       title={Quantum reservoir computing using arrays of Rydberg atoms},
       author={Rodrigo Araiza Bravo and Khadijeh Najafi and Xun Gao and Susanne F. Yelin},
       year={2022},

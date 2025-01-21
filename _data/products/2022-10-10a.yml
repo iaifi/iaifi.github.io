@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{loh2022importancecalibrationsemisupervisedlearning,
+  @article{loh2022importancecalibrationsemisupervisedlearning,
       title={On the Importance of Calibration in Semi-supervised Learning},
       author={Charlotte Loh and Rumen Dangovski and Shivchander Sudalairaj and Seungwook Han and Ligong Han and Leonid Karlinsky and Marin Soljacic and Akash Srivastava},
       year={2022},

@@ -10,7 +10,7 @@ nsf-par:
 code: https://github.com/takuyaisogawa/QPA
 publication-date:
 bib-tex: |
-  @misc{li2024optimalquantumpurityamplification,
+  @article{li2024optimalquantumpurityamplification,
       title={Optimal Quantum Purity Amplification},
       author={Zhaoyi Li and Honghao Fu and Takuya Isogawa and Isaac Chuang},
       year={2024},

@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{detmold2023constraintpionlesseftusing,
+  @article{detmold2023constraintpionlesseftusing,
       title={Constraint of pionless EFT using two-nucleon spectra from lattice QCD},
       author={William Detmold and Fernando Romero-López and Phiala E. Shanahan},
       year={2023},

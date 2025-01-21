@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date:
 bib-tex: |
-  @misc{kumar2024at2023vtoexceptionallyluminoushelium,
+  @article{kumar2024at2023vtoexceptionallyluminoushelium,
       title={AT2023vto: An Exceptionally Luminous Helium Tidal Disruption Event from a Massive Star},
       author={Harsh Kumar and Edo Berger and Daichi Hiramatsu and Sebastian Gomez and Peter K. Blanchard and Yvette Cendes and K. Azalee Bostroem and Joseph Farah and Estefania Padilla Gonzalez and Andrew Howell and Curtis McCully and Megan Newsome and Giacomo Terreran},
       year={2024},

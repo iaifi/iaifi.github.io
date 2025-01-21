@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{yoneda2022invariancelatentalignment,
+  @article{yoneda2022invariancelatentalignment,
       title={Invariance Through Latent Alignment},
       author={Takuma Yoneda and Ge Yang and Matthew R. Walter and Bradly Stadie},
       year={2022},

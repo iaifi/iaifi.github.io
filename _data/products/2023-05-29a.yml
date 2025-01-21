@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{theodosis2023learninglineargroupsneural,
+  @article{theodosis2023learninglineargroupsneural,
       title={Learning Linear Groups in Neural Networks},
       author={Emmanouil Theodosis and Karim Helwani and Demba Ba},
       year={2023},

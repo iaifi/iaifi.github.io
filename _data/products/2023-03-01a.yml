@@ -10,7 +10,7 @@ nsf-par: 10505411
 code: 
 publication-date: 2024-01-30
 bib-tex: |
-  @misc{demirtas2024computationalmirrorsymmetry,
+  @article{demirtas2024computationalmirrorsymmetry,
       title={Computational Mirror Symmetry},
       author={Mehmet Demirtas and Manki Kim and Liam McAllister and Jakob Moritz and Andres Rios-Tascon},
       year={2024},

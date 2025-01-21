@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{2ptcollaboration2024parametermaskedmockdatachallenge,
+  @article{2ptcollaboration2024parametermaskedmockdatachallenge,
       title={A Parameter-Masked Mock Data Challenge for Beyond-Two-Point Galaxy Clustering Statistics},
       author={2pt Collaboration and Elisabeth Krause and Yosuke Kobayashi and Andrés N. Salcedo and Mikhail M. Ivanov and Tom Abel and Kazuyuki Akitsu and Raul E. Angulo and Giovanni Cabass and Sofia Contarini and Carolina Cuesta-Lazaro and ChangHoon Hahn and Nico Hamaus and Donghui Jeong and Chirag Modi and Nhat-Minh Nguyen and Takahiro Nishimichi and Enrique Paillas and Marcos Pellejero Ibañez and Oliver H. E. Philcox and Alice Pisani and Fabian Schmidt and Satoshi Tanaka and Giovanni Verza and Sihan Yuan and Matteo Zennaro},
       year={2024},

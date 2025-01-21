@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @misc{liu2022understandinggrokkingeffectivetheory,
+  @article{liu2022understandinggrokkingeffectivetheory,
       title={Towards Understanding Grokking: An Effective Theory of Representation Learning},
       author={Ziming Liu and Ouail Kitouni and Niklas Nolte and Eric J. Michaud and Max Tegmark and Mike Williams},
       year={2022},

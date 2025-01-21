@@ -10,7 +10,7 @@ nsf-par:
 code: 
 publication-date: 2024-08-07
 bib-tex: |
-  @misc{ahmed2023tdualityflavorsymmetrieslittle,
+  @article{ahmed2023tdualityflavorsymmetrieslittle,
       title={T-Duality and Flavor Symmetries in Little String Theories},
       author={Hamza Ahmed and Paul-Konstantin Oehlmann and Fabian Ruehle},
       year={2023},
