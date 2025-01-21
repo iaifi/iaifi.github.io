@@ -10,16 +10,19 @@ nsf-par: 10505457
 code: 
 publication-date: 2023-04-21
 bib-tex: |
-  @article{Buhmann_2023,
-   title={EPiC-GAN: Equivariant point cloud generation for particle jets},
-   volume={15},
-   ISSN={2542-4653},
-   url={http://dx.doi.org/10.21468/SciPostPhys.15.4.130},
-   DOI={10.21468/scipostphys.15.4.130},
-   number={4},
-   journal={SciPost Physics},
-   publisher={Stichting SciPost},
-   author={Buhmann, Erik and Kasieczka, Gregor and Thaler, Jesse},
-   year={2023},
-   month=oct
+  @article{PhysRevD.107.076019,
+   title = {Nonperturbative strong coupling at timelike momenta},
+   author = {Horak, Jan and Pawlowski, Jan M. and Turnwald, Jonas and Urban, Julian M. and Wink, Nicolas and Zafeiropoulos, Savvas},
+   journal = {Phys. Rev. D},
+   volume = {107},
+   issue = {7},
+   pages = {076019},
+   numpages = {13},
+   year = {2023},
+   month = {Apr},
+   publisher = {American Physical Society},
+   eprint={2301.08128},
+   archivePrefix={arXiv},
+   doi = {10.1103/PhysRevD.107.076019},
+   url = {https://link.aps.org/doi/10.1103/PhysRevD.107.076019}
   }

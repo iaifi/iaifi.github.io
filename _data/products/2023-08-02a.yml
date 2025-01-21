@@ -16,7 +16,7 @@ bib-tex: |
    ISSN={1432-0746},
    url={http://dx.doi.org/10.1051/0004-6361/202347628},
    DOI={10.1051/0004-6361/202347628},
-   journal={Astronomy &amp; Astrophysics},
+   journal={Astronomy \& Astrophysics},
    publisher={EDP Sciences},
    author={Edenhofer, Gordian and Zucker, Catherine and Frank, Philipp and Saydjari, Andrew K. and Speagle, Joshua S. and Finkbeiner, Douglas and Enßlin, Torsten A.},
    year={2024},

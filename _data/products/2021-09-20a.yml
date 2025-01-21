@@ -10,7 +10,7 @@ nsf-par: 10343309
 code: 
 publication-date: 2022-05-06
 bib-tex: |
-  @article{Liu_2022,
+  @article{Liu_2022_symmetries,
    title={Machine Learning Hidden Symmetries},
    volume={128},
    ISSN={1079-7114},
