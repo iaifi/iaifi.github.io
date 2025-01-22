@@ -220,6 +220,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
   
+   ***IAIFI Fellow Jessie Micallef featured by the MIT School of Science***. Read about her work in ["New perspectives on oId questions: AI meets particle physics"](https://science.mit.edu/new-perspectives-on-old-questions-ai-meets-particle-physics/). *December 19, 2024*
+  {:.info}
+ 
   ***IAIFI Director Jesse Thaler featured in Physics Today***. Read about his discussion with other leaders in industry, government, and academia regarding the potential impact of AI on phsyics, and of physics on AI, in ["Physics, AI, and the future of discovery"](https://pubs.aip.org/physicstoday/article/77/11/30/3318195/Physics-AI-and-the-future-of-discoveryLeaders-from). *November 1, 2024*
   {:.info}
   
