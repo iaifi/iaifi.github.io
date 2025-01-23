@@ -1,6 +1,5 @@
 <!-- Defining times -->
-{% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
-{% assign news_start_in_seconds = iaifi-news_date | date: "%s" | plus: 0 %}
+{% assign current_date = "now" | date: "%s" | plus: 0 %}
 
 <!-- Getting all events and sorting them by time -->
 {% assign event_list = '' | split: '' %}
@@ -9,35 +8,42 @@
 {% endfor %}
 {% assign event_list = event_list| sort: "start-date-time" %}
 
+{% for event in event_list %}
 <!-- Getting basic event info -->
-{% assign talk = include.talk %}
-{% assign is_this_week = include.is_this_week %}
-{% assign start_date = talk.start-date-time | date: "%A, %B %e, %Y" %}
-{% assign end_date = talk.end-date-time | date: "%A, %B %e, %Y" %}
-{% assign start_time = talk.start-date-time | date: "%l:%M%P" %}
-{% assign end_time = talk.end-date-time | date: "%l:%M%P" %}
+{% assign start_date = event.start-date-time | date: "%s" | plus: 0 %}
 
 <!-- Determining zoom link-->
 {% assign zoom_link = %}
-{% if talk.talk-zoom %}
-  {% assign zoom_link = talk.talk-zoom %}
-{% elsif site.data.talk-categories[talk.type].zoom %}
-  {% assign zoom_link = site.data.talk-categories[talk.type].zoom %}
+{% if event.talk-zoom %}
+  {% assign zoom_link = event.talk-zoom %}
+{% elsif site.data.talk-categories[event.type].zoom %}
+  {% assign zoom_link = site.data.talk-categories[event.type].zoom %}
 {% endif %}
 
 <!-- Event information -->
-{% if is_this_week and talk.type=="colloquium"%}
-### IAIFI Colloquium: {{talk.speaker-name}}
-**{{talk.start-date-time | date: "%A"}} at {{talk.start-date-time | date: "%l:%M%P"}}, {{talk.talk-location}}
-  * <a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a> ({{talk.speaker-affiliation}})
-  * *{{talk.talk-title}}*
-{%- if talk.talk-abstract %}
-  * Abstract:  *{{talk.talk-abstract}}*
-{%- endif -%}
-{%- if talk.event-details %}
-  * {{talk.event-details}}
-{%- endif -%}
-<br>
+{% if event.type=="colloquium" %}
+  {% if start_date<current_date %}
+      {% continue %}
+  {% endif %}
+## IAIFI Colloquium: {{event.speaker-name}}
+Join us this {{event.start-date-time | date: "%A"}} for our next IAIFI Colloquium (in person or on Zoom)!
 
-{% if zoom_link %}[Join on Zoom]({{zoom_link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if talk.calendar-link %} [Add to Calendar]({{talk.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
-{%- endif -%}
+{% assign photo_size = 20 %}
+<img class="image" src="https://iaifi.org/{{event.speaker-photo-location}}" align="left" style="max-width:226px;width:{{photo_size}}%" hspace="30" vspace="10"/>
+  * **{{event.start-date-time | date: "%A, %B %e, %Y"}}, {{event.start-date-time | date: "%l:%M%P"}}–{{event.end-date-time | date: "%l:%M%P" | strip}}**
+  * <a href="{{event.speaker-website}}">{{event.speaker-name}}</a> ({{event.speaker-affiliation}})
+  * *{{event.talk-title}}*
+  {%- if event.talk-abstract %}
+  * {{event.talk-abstract}}
+  {%- endif %}
+  {%- if event.event-details %}
+  * {{event.event-details}}
+  {%- endif %}
+  * Location: {{event.talk-location}} {%- if zoom_link %} or [join on Zoom]({{zoom_link}}){%- endif -%}
+<br/>
+
+ {% if event.calendar-link %} [Add to Calendar]({{event.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
+  {% break %}
+  {%- endif -%}
+{% endfor %}
+    

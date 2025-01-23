@@ -12,7 +12,7 @@ publication-date:
 bib-tex: |
   @article{tsang2024substructuredetectionrealisticstrong,
       title={Substructure Detection in Realistic Strong Lensing Systems with Machine Learning},
-      author={Arthur Tsang and Atınç Çağan Şengül and Cora Dvorkin},
+      author={Arthur Tsang and Atınç Cağan Şengül and Cora Dvorkin},
       year={2024},
       eprint={2401.16624},
       archivePrefix={arXiv},
