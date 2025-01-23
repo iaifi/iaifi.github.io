@@ -226,6 +226,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
   ***IAIFI Director Jesse Thaler featured in Physics Today***. Read about his discussion with other leaders in industry, government, and academia regarding the potential impact of AI on phsyics, and of physics on AI, in ["Physics, AI, and the future of discovery"](https://pubs.aip.org/physicstoday/article/77/11/30/3318195/Physics-AI-and-the-future-of-discoveryLeaders-from). *November 1, 2024*
   {:.info}
   
+  ***IAIFI Fellow Carol Cuesta-Lazaro was selected to give a talk at the 2024 Rising Stars in Physics Workshop at Columbia University***. Read about the workshop on [Columbia University's website](https://www.physics.columbia.edu/content/2024-rising-stars-physics-workshop). *September 24-26, 2024*
+  {:.info}
+  
   ***IAIFI Junior Investigator Ziming Liu and Senior Investigator Max Tegmark featured in Quanta Magazine***. Read about their work on KANs in ["Novel Architecture Makes Neural Networks More Understandable"](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/). *September 11, 2024*
   {:.info}
   
