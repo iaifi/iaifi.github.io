@@ -26,18 +26,23 @@
       {% continue %}
   {% endif %}
 ## IAIFI Colloquium: {{event.speaker-name}}
-**{{event.start-date-time | date: "%A"}} at {{event.start-date-time | date: "%l:%M%P"}}, {{event.talk-location}}**
+Join us this {{event.start-date-time | date: "%A"}} for our next IAIFI Colloquium (in person or on Zoom)!
+
+{% assign photo_size = 20 %}
+<img class="image" src="https://iaifi.org/{{event.speaker-photo-location}}" align="left" style="max-width:226px;width:{{photo_size}}%" hspace="30" vspace="10"/>
+  * **{{event.start-date-time | date: "%A, %B %e, %Y"}}, {{event.start-date-time | date: "%l:%M%P"}}–{{event.end-date-time | date: "%l:%M%P" | strip}}**
   * <a href="{{event.speaker-website}}">{{event.speaker-name}}</a> ({{event.speaker-affiliation}})
   * *{{event.talk-title}}*
   {%- if event.talk-abstract %}
-  * Abstract:  *{{event.talk-abstract}}*
-  {%- endif -%}
+  * {{event.talk-abstract}}
+  {%- endif %}
   {%- if event.event-details %}
   * {{event.event-details}}
-  {%- endif -%}
-  <br>
-    
-  {% if zoom_link %}[Join on Zoom]({{zoom_link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if event.calendar-link %} [Add to Calendar]({{event.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
+  {%- endif %}
+  * Location: {{event.talk-location}} {%- if zoom_link %} or [join on Zoom]({{zoom_link}}){%- endif -%}
+<br/>
+
+ {% if event.calendar-link %} [Add to Calendar]({{event.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
   {% break %}
   {%- endif -%}
 {% endfor %}
