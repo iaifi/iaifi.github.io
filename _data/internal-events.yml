@@ -26,6 +26,19 @@
   more-info-link: https://iaifi.org/phd-summer-school
   priority: high
   
+- type: "industry-lunch"
+  event-name: "Industry Lunch with Chris Murphy (Klaviyo)"
+  event-committee: "Industry Partnership"
+  event-post-date: "2025-01-26"
+  start-date-time: "2025-03-07 12:30"
+  end-date-time: "2025-03-07 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
+  event-details: Details to come
+  calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTAzMDdUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
+  rsvp-link:
+  more-info-link:
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building and Inclusion"
@@ -238,9 +251,9 @@
   start-date-time: "2025-02-07 12:30"
   end-date-time: "2025-02-07 13:30"
   talk-location: "IAIFI Penthouse (26-648)"
-  talk-zoom:
+  talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
   event-details: Details to come
-  calendar-link:
+  calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNDEyMDZUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
   rsvp-link:
   more-info-link:
   
