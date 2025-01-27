@@ -91,9 +91,7 @@ If you have any accessibility needs, please reach out to [iaifi-accessibility@mi
  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
  {% unless start_date_time_in_seconds >= digest_start_in_seconds and start_date_time_in_seconds < digest_end_in_seconds %}{% continue %}{% endunless %}
   {% assign events_this_week = 'true' %} <!-- Mark that there is at least one event -->
- {% unless talk.type=="external-event" or talk.type=="external-workshop" %}
  {% include_relative digest_event_item.html talk=talk is_this_week=true anchor=this_anchor %}
- {% endunless %}
 {% endfor %}
 
 {% if events_this_week == '' %} *No events this week.* {% endif %}

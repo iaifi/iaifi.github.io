@@ -21,6 +21,18 @@
   talk-zoom:
   event-details: "Frontiers in NeuroAI is a two-day symposium, open to the public, exploring key topics in the rapidly-advancing field of NeuroAI, including: How natural and artificial systems learn, and how these processes are similar or different across systems; The implications of rapid progress in machine learning on understanding neural processes, the nature of intelligence, and human cognitive abilities; and Innovations that are pushing forward the reasoning and generative capabilities of AI systems. The symposium will feature presentations from cutting-edge experts from neuroscience and AI as they discuss advances in learning across both fields."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-01-26"
+  start-date-time: "2025-01-27 12:30"
+  end-date-time: "2025-01-27 13:30"
+  talk-location: "Phillips Auditorium, Center for Astrophysics, 60 Garden Street"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT0
+  event-details: "The speaker will be Core Francisco Park, who will talk about: Understanding fundamental abilities of AI with synthetic experiments.<br><br>Abstract: Generative AI has shown impressive capabilities in both vision and language domains. However, despite the quickly growing practicality of AI models, our understanding of their fundamental abilities are limited. In this talk, I will present two of our group's recent works studying AI's ability to 1) compositionally generalize and 2) learn new tasks at inference time. We demonstrate two phenomena: 'Hidden Emergence', where models robustly acquire a capability without actively using them and 'In-Context Learning of Representations', where models restructure their internal representations depending on the task given solely at test time. I will conclude by talking about the new frontier of 'reasoning' abilities of large language models, with interesting examples."
+  calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/M2szMHBwZ2h1ZXQxcGE3OGo4OTZmazNncHMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw
 
 - type: "external-event"
   event-name: "Gaia Hackathon (4 days)"
