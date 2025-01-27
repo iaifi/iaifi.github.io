@@ -101,9 +101,9 @@
   end-date-time: "2025-02-07 17:00"
   talk-location: "IAIFI Penthouse (MIT 26-648) and LNS Conference Room (MIT 26-528)"
   talk-zoom:
-  event-details: "This is an opportunity for IAIFI members to meet for an informal focused working session. The Penthouse space will be set up for collaboration and conversation, while the Conference Room will be reserved for individual work. Refreshments and snacks will be provided."
+  event-details: "This is an opportunity for IAIFI members to meet up for an informal, focused working session. The Penthouse space will be set up for collaboration and conversation, while the Conference Room will be reserved for individual work. Refreshments and snacks will be provided!"
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWFmN2ppbzJvNHIyc3I2b2JyaHM0N291MmIgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw"
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/dd54cfecafc1489c8297a3a2cde46f5b
   more-info-link:
   attendance-in-person:
   attendance-virtual:
@@ -198,7 +198,7 @@
   talk-zoom:
   event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/NzlkaW83dXNtbTZobTg1OTA2YW9zbmdsbmxfMjAyNDExMDVUMjIwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/dd54cfecafc1489c8297a3a2cde46f5b
   more-info-link:
   
 - type: "industry-lunch"
@@ -245,16 +245,16 @@
 
 
 - type: "industry-lunch"
-  event-name: "Industry Lunch with Steven Eulig (Merck Electronics)"
+  event-name: "Industry Lunch with Steven Eulig (EMD Electronics and Harvard University)"
   event-committee: "Industry Partnership"
   event-post-date: "2024-10-28"
   start-date-time: "2025-02-07 12:30"
   end-date-time: "2025-02-07 13:30"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
-  event-details: Details to come
+  event-details: "During the lunch, Steven will discuss his career trajectory and experience in industry. Steven finished a masters in physics about 8 years ago and had various career stations since then, mainly revolving around strategy consulting and data science. Today, Steven has two roles: he is a part-time physics researcher at Harvard University and as his full job, he is the “Head of Digital Solutions” in a company called EMD Electronics. The company is in the business of selling materials and equipment for the electronics industry (predominantly chemistry for chipmakers) and his Digital Solutions organization deploys data science in our production plants, supply chains, R&D, and commercial teams. They are a team of 35+ talented scientists and engineers that work very closely with the frontline business. The work stretches many things such as data engineering, data science, MLOps, or project management."
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNDEyMDZUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/dd54cfecafc1489c8297a3a2cde46f5b
   more-info-link:
   
 - type: "social"
