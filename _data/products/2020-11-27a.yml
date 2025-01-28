@@ -7,15 +7,19 @@ arxiv: 2011.13866
 journal: IEEE/CVF International Conference on Computer Vision, 2021
 doi: https://doi.org/10.1109/ICCV48922.2021.00679
 nsf-par: 10488616
-code:
+code: http://vision.seas.harvard.edu/foj/
 publication-date: 2021-10-17
 bib-tex: |
-  @article{verbin2021fieldjunctionsextractingboundary,
-      title={Field of Junctions: Extracting Boundary Structure at Low SNR},
-      author={Dor Verbin and Todd Zickler},
-      year={2021},
-      eprint={2011.13866},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2011.13866},
+  @INPROCEEDINGS{9710496,
+   author={Verbin, Dor and Zickler, Todd},
+   booktitle={2021 IEEE/CVF International Conference on Computer Vision (ICCV)},
+   title={Field of Junctions: Extracting Boundary Structure at Low SNR},
+   year={2021},
+   volume={},
+   number={},
+   pages={6849-6858},
+   keywords={Computer vision;Smoothing methods;Shape;Detectors;Junctions;Optimization;Signal to noise ratio;Segmentation;grouping and shape;Computational photography;Emergency Reviewer;Low-level and physics-based vision},
+   doi={10.1109/ICCV48922.2021.00679}}
+   eprint={2011.13866},
+   archivePrefix={arXiv},
   }

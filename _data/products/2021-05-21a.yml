@@ -20,5 +20,7 @@ bib-tex: |
    publisher={Institute of Electrical and Electronics Engineers (IEEE)},
    author={Lin, Alexander and Song, Andrew H. and Bilgic, Berkin and Ba, Demba},
    year={2022},
-   pages={3818–3831}
+   pages={3818–3831},
+   eprint={2105.10439},
+   archivePrefix={arXiv},
   }

@@ -21,6 +21,8 @@ bib-tex: |
    publisher={American Astronomical Society},
    author={Collin, Gabriel H. and Rodd, Nicholas L. and Erjavec, Tyler and Perez, Kerstin},
    year={2022},
-   month=jun, pages={29}
+   month=jun, pages={29},
+   eprint={2104.04529},
+   archivePrefix={arXiv},
   }
 

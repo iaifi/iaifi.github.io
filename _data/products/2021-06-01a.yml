@@ -7,7 +7,7 @@ arxiv: 2106.00694
 journal: 
 doi: 
 nsf-par:
-code: 
+code: https://github.com/keeganstoner/nn-symmetry.
 publication-date: 
 bib-tex: |
   @article{maiti2021symmetryviadualityinvariantneuralnetwork,

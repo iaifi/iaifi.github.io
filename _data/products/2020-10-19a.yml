@@ -21,6 +21,8 @@ bib-tex: |
    publisher={Springer Science and Business Media LLC},
    author={Kitouni, Ouail and Nachman, Benjamin and Weisser, Constantin and Williams, Mike},
    year={2021},
-   month=apr
+   month=apr,
+   eprint={2010.09745},
+   archivePrefix={arXiv},
   }
 

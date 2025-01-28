@@ -10,12 +10,19 @@ nsf-par:
 code:
 publication-date: 2021-04-21
 bib-tex: |
-  @article{gukov2020learningunknot,
-      title={Learning to Unknot},
-      author={Sergei Gukov and James Halverson and Fabian Ruehle and Piotr Sułkowski},
-      year={2020},
+  @article{Gukov_2021,
+      doi = {10.1088/2632-2153/abe91f},
+      url = {https://dx.doi.org/10.1088/2632-2153/abe91f},
+      year = {2021},
+      month = {apr},
+      publisher = {IOP Publishing},
+      volume = {2},
+      number = {2},
+      pages = {025035},
+      author = {Gukov, Sergei and Halverson, James and Ruehle, Fabian and Sułkowski, Piotr},
+      title = {Learning to unknot},
+      journal = {Machine Learning: Science and Technology},
       eprint={2010.16263},
       archivePrefix={arXiv},
       primaryClass={math.GT},
-      url={https://arxiv.org/abs/2010.16263},
   }

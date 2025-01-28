@@ -7,7 +7,7 @@ arxiv: "2105.09923"
 journal: Physical Review D, Volume 104, Article 076027
 doi: https://doi.org/10.1103/PhysRevD.104.076027
 nsf-par: 10404276
-code: 
+code: https:// github.com/wpmccormack/OmniFoldBSM
 publication-date: 2021-10-27
 bib-tex: |
   @article{Komiske_2021,
@@ -21,6 +21,8 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Komiske, Patrick and McCormack, W. Patrick and Nachman, Benjamin},
    year={2021},
-   month=oct
+   month=oct,
+   eprint={2105.09923},
+   archivePrefix={arXiv},
   }
 

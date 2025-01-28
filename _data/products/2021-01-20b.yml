@@ -21,5 +21,7 @@ bib-tex: |
    publisher={IOP Publishing},
    author={Kasieczka, Gregor and Nachman, Benjamin and Shih, David and Amram, Oz and Andreassen, Anders and Benkendorfer, Kees and Bortolato, Blaz and Brooijmans, Gustaaf and Canelli, Florencia and Collins, Jack H and Dai, Biwei and De Freitas, Felipe F and Dillon, Barry M and Dinu, Ioan-Mihail and Dong, Zhongtian and Donini, Julien and Duarte, Javier and Faroughy, D A and Gonski, Julia and Harris, Philip and Kahn, Alan and Kamenik, Jernej F and Khosa, Charanjit K and Komiske, Patrick and Le Pottier, Luc and Martín-Ramiro, Pablo and Matevc, Andrej and Metodiev, Eric and Mikuni, Vinicius and Murphy, Christopher W and Ochoa, Inês and Park, Sang Eon and Pierini, Maurizio and Rankin, Dylan and Sanz, Veronica and Sarda, Nilai and Seljak, Urŏ and Smolkovic, Aleks and Stein, George and Suarez, Cristina Mantilla and Szewc, Manuel and Thaler, Jesse and Tsan, Steven and Udrescu, Silviu-Marian and Vaslin, Louis and Vlimant, Jean-Roch and Williams, Daniel and Yunus, Mikaeel},
    year={2021},
-   month=dec, pages={124201}
+   month=dec, pages={124201},
+   eprint={2101.08320},
+   archivePrefix={arXiv},
   }

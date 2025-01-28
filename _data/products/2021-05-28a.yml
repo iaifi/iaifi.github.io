@@ -21,6 +21,8 @@ bib-tex: |
    publisher={Stichting SciPost},
    author={Aarrestad, Thea and van Beekveld, Melissa and Bona, Marcella and Boveia, Antonio and Caron, Sascha and Davies, Joe and de Simone, Andrea and Doglioni, Caterina and Duarte, Javier and Farbin, Amir and Gupta, Honey and Hendriks, Luc and Heinrich, Lukas A. and Howarth, James and Jawahar, Pratik and Jueid, Adil and Lastow, Jessica and Leinweber, Adam and Mamuzic, Judita and Merényi, Erzsébet and Morandini, Alessandro and Moskvitina, Polina and Nellist, Clara and Ngadiuba, Jennifer and Ostdiek, Bryan and Pierini, Maurizio and Ravina, Baptiste and Ruiz de Austri, Roberto and Sekmen, Sezen and Touranakou, Mary and Vaškeviciute, Marija and Vilalta, Ricardo and Vlimant, Jean-Roch and Verheyen, Rob and White, Martin and Wulff, Eric and Wallin, Erik and Wozniak, Kinga A. and Zhang, Zhongyi},
    year={2022},
-   month=jan
+   month=jan,
+   eprint={2105.14027},
+   archivePrefix={arXiv},
   }
 
