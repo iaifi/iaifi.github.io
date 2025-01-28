@@ -21,6 +21,8 @@ bib-tex: |
    publisher={Springer Science and Business Media LLC},
    author={Fraser, Katherine and Homiller, Samuel and Mishra, Rashmish K. and Ostdiek, Bryan and Schwartz, Matthew D.},
    year={2022},
+   eprint={2110.06948},
+   archivePrefix={arXiv},
    month=mar
   }
 

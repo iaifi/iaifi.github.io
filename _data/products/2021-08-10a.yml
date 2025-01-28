@@ -7,5 +7,17 @@ arxiv:
 journal: The Astrophysical Journal Supplement Series, Volume 255
 doi: https://iopscience.iop.org/article/10.3847/1538-4365/ac0893/meta
 nsf-par: 10404262
-code: 
+code: https://github.com/villrv/vraenn
 publication-date: 2021-08-10
+bib-tex: |
+  @article{Villar_live-anomaly-detection,
+   title={A Deep-learning Approach for Live Anomaly Detection of Extragalactic Transients},
+   volume={255},
+   url={https://iopscience.iop.org/article/10.3847/1538-4365/ac0893/meta},
+   journal={The Astrophysical Journal Supplement Series},
+   author={Villar, Ashley and Cranmer, Miles and Berger, Edo and Contardo, Gabriella and Ho, Shirley and Hosseinzadeh, Griffin and Yao-Yu Lin, Joshua},
+   year={2021},
+   month=aug,
+   eprint={2106.10326},
+   archivePrefix={arXiv},
+  }

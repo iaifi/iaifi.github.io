@@ -7,7 +7,7 @@ arxiv: "2112.05722"
 journal: Physical. Rev. D, 2022, 105:096031
 doi: https://doi.org/10.1103/PhysRevD.105.096031
 nsf-par: 10343308
-code: 
+code: https://github.com/hep-lbdl/symmetrydiscovery
 publication-date: 2022-05-26
 bib-tex: |
   @article{Desai_2022,
@@ -21,6 +21,8 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Desai, Krish and Nachman, Benjamin and Thaler, Jesse},
    year={2022},
+   eprint={2112.05722},
+   archivePrefix={arXiv},
    month=may
   }
 

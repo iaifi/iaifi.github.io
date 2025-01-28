@@ -20,6 +20,8 @@ bib-tex: |
    journal={Journal of High Energy Physics},
    publisher={Springer Science and Business Media LLC},
    author={Demirtas, Mehmet and Gendler, Naomi and Long, Cody and McAllister, Liam and Moritz, Jakob},
+   eprint={2112.04503},
+   archivePrefix={arXiv},
    year={2023},
    month=jun
   }

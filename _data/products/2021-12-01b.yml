@@ -21,6 +21,8 @@ bib-tex: |
    publisher={IOP Publishing},
    author={Luo, Di and Halverson, James},
    year={2023},
+   eprint={2112.00723},
+   archivePrefix={arXiv},
    month=jun, pages={025038}
   }
 

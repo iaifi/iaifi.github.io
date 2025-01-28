@@ -4,18 +4,22 @@ title: "Strictification and gluing of Lagrangian distributions on derived scheme
 authors: Dennis Borisov, Ludmil Katzarkov, Artan Sheshmani, Shing-Tung Yau
 abstract: "A strictification result is proved for isotropic distributions on derived schemes equipped with negatively shifted homotopically closed 2-forms. It is shown that any derived scheme over ℂ equipped with a −2-shifted symplectic structure, and having a Hausdorff space of classical points, admits a globally defined Lagrangian distribution as a dg ℂ∞-manifold."
 arxiv: "1908.00651"
-journal: Science Direct Journals, 2024, Volume 438
+journal: Advances in Mathematics, 2024, Volume 438
 doi: http://dx.doi.org/10.1016/j.aim.2023.109477
 nsf-par:
 code: 
 publication-date: 2024-01-10
 bib-tex: |
-  @article{borisov2022strictificationgluinglagrangiandistributions,
-      title={Strictification and gluing of Lagrangian distributions on derived schemes with shifted symplectic forms},
-      author={Dennis Borisov and Ludmil Katzarkov and Artan Sheshmani and Shing-Tung Yau},
-      year={2022},
-      eprint={1908.00651},
-      archivePrefix={arXiv},
-      primaryClass={math.AG},
-      url={https://arxiv.org/abs/1908.00651},
+  @article{BORISOV2024109477,
+   title = {Strictification and gluing of Lagrangian distributions on derived schemes with shifted symplectic forms},
+   journal = {Advances in Mathematics},
+   volume = {438},
+   pages = {109477},
+   year = {2024},
+   issn = {0001-8708},
+   doi = {https://doi.org/10.1016/j.aim.2023.109477},
+   url = {https://www.sciencedirect.com/science/article/pii/S0001870823006205},
+   author = {Dennis Borisov and Ludmil Katzarkov and Artan Sheshmani and Shing-Tung Yau},
+   eprint={1908.00651},
+   archivePrefix={arXiv},
   }

@@ -21,5 +21,7 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Rogers, Keir K. and Dvorkin, Cora and Peiris, Hiranya V.},
    year={2022},
+   eprint={2111.10386},
+   archivePrefix={arXiv},
    month=apr
   }

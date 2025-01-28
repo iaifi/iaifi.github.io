@@ -21,5 +21,7 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Liu, Ziming and Tegmark, Max},
    year={2022},
+   eprint={2109.09721},
+   archivePrefix={arXiv},
    month=may
   }

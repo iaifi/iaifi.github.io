@@ -21,5 +21,7 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Bradshaw, Layne and Chang, Spencer and Ostdiek, Bryan},
    year={2022},
+   eprint={2203.01343},
+   archivePrefix={arXiv},
    month=aug
   }

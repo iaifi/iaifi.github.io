@@ -21,6 +21,8 @@ bib-tex: |
    publisher={IOP Publishing},
    author={Kitouni, Ouail and Nolte, Niklas and Williams, Mike},
    year={2023},
+   eprint={2112.00038},
+   archivePrefix={arXiv},
    month=aug, pages={035020}
   }
 

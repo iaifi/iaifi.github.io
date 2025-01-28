@@ -21,6 +21,8 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Levy, Ryan and Luo, Di and Clark, Bryan K.},
    year={2024},
+   eprint={2110.02965},
+   archivePrefix={arXiv},
    month=jan
   }
 

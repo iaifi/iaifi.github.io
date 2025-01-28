@@ -7,7 +7,7 @@ arxiv: 2202.05255
 journal: American Chemical Society Publications
 doi: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c03307
 nsf-par: 10405282
-code: 
+code: https://github.com/andrewma8/topogivity
 publication-date: 2023-01-20
 bib-tex: |
   @article{Ma_2023,
@@ -21,5 +21,7 @@ bib-tex: |
    publisher={American Chemical Society (ACS)},
    author={Ma, Andrew and Zhang, Yang and Christensen, Thomas and Po, Hoi Chun and Jing, Li and Fu, Liang and Soljačić, Marin},
    year={2023},
+   eprint={2202.05255},
+   archivePrefix={arXiv},
    month=jan, pages={772–778}
   }

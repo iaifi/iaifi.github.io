@@ -7,7 +7,7 @@ arxiv: "2112.05763"
 journal: Monthly Notices of the Royal Astronomical Society, 2022, Volume 516, Issue 4, Pages 5737–5761
 doi: https://doi.org/10.1093/mnras/stac1677
 nsf-par:
-code: 
+code: https://github.com/FloorBroekgaarden/Double-Compact-Object-Mergers
 publication-date: 2022-07-04
 bib-tex: |
   @article{Broekgaarden_2022,
@@ -20,6 +20,8 @@ bib-tex: |
    journal={Monthly Notices of the Royal Astronomical Society},
    publisher={Oxford University Press (OUP)},
    author={Broekgaarden, Floor S and Berger, Edo and Stevenson, Simon and Justham, Stephen and Mandel, Ilya and Chruślińska, Martyna and van Son, Lieke A C and Wagg, Tom and Vigna-Gómez, Alejandro and de Mink, Selma E and Chattopadhyay, Debatri and Neijssel, Coenraad J},
+   eprint={2112.05763},
+   archivePrefix={arXiv},
    year={2022},
    month=jul, pages={5737–5761}
   }

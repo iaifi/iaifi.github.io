@@ -7,7 +7,7 @@ arxiv: "2110.01620"
 journal: 
 doi: 
 nsf-par:
-code: 
+code: https://github.com/smsharma/ neural-global-astrometry
 publication-date: 
 bib-tex: |
   @article{mishrasharma2022inferringdarkmattersubstructure,

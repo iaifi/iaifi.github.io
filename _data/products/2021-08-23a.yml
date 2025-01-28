@@ -21,6 +21,8 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Kanwar, Gurtej and Wagman, Michael L.},
    year={2021},
+   eprint={2103.02602},
+   archivePrefix={arXiv},
    month=jul
   }
 

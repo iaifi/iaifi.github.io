@@ -7,7 +7,7 @@ arxiv: "2112.00749"
 journal: Monthly Notices of the Royal Astronomical Society, 2022, Volume 515, Issue 3, Pages 4391–4401
 doi: https://doi.org/10.1093/mnras/stac1967
 nsf-par: 10376788
-code: 
+code: https://github.com/acagansengul/interlopers_with_lenstronomy
 publication-date: 2022-07-23
 bib-tex: |
   @article{Seng_l_2022,
@@ -21,6 +21,8 @@ bib-tex: |
    publisher={Oxford University Press (OUP)},
    author={Sengül, Atinç Cagan and Dvorkin, Cora and Ostdiek, Bryan and Tsang, Arthur},
    year={2022},
+   eprint={2112.00749},
+   archivePrefix={arXiv},
    month=jul, pages={4391–4401}
   }
 

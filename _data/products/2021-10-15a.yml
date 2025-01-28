@@ -7,7 +7,7 @@ arxiv: "2110.08406"
 journal: Nature Communications, 2022, Volume 13, Article 4223
 doi: https://doi.org/10.1038/s41467-022-31915-y
 nsf-par: 10376790
-code: 
+code: https://github.com/clott3/SIB-CL.
 publication-date: 2022-07-21
 bib-tex: |
   @article{Loh_2022,
@@ -21,6 +21,8 @@ bib-tex: |
    publisher={Springer Science and Business Media LLC},
    author={Loh, Charlotte and Christensen, Thomas and Dangovski, Rumen and Kim, Samuel and Soljačić, Marin},
    year={2022},
+   eprint={2110.08406},
+   archivePrefix={arXiv},
    month=jul
   }
 

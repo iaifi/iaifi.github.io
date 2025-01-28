@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Albergo, Michael S. and Boyda, Denis and Cranmer, Kyle and Hackett, Daniel C. and Kanwar, Gurtej and Racanière, Sébastien and Rezende, Danilo J. and Romero-López, Fernando and Shanahan, Phiala E. and Urban, Julian M.},
+   eprint={2202.11712},
+   archivePrefix={arXiv},
    year={2022},
    month=jul
   }

@@ -7,7 +7,7 @@ arxiv: 2108.02221
 journal: "Machine Learning: Science and Technology, 2021, Volume 3, Number 1"
 doi: https://doi.org/10.1088/2632-2153/ac37f7
 nsf-par: 10308629
-code: 
+code: https://github.com/robin-schneider/ cicy-fourfolds
 publication-date: 2021-11-25
 bib-tex: |
   @article{Erbin_2021,
@@ -21,6 +21,8 @@ bib-tex: |
    publisher={IOP Publishing},
    author={Erbin, Harold and Finotello, Riccardo and Schneider, Robin and Tamaazousti, Mohamed},
    year={2021},
+   eprint={2108.02221},
+   archivePrefix={arXiv},
    month=nov, pages={015006}
   }
 
