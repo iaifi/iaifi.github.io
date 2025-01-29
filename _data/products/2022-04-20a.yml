@@ -20,6 +20,8 @@ bib-tex: |
    journal={The Astrophysical Journal},
    publisher={American Astronomical Society},
    author={Hsu, Brian and Hosseinzadeh, Griffin and Villar, V. Ashley and Berger, Edo},
+   eprint={2204.09809},
+   archivePrefix={arXiv},
    year={2022},
    month=sep, pages={13}
   }

@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Yunus, Cagin and Detmold, William},
+   eprint={2205.01001},
+   archivePrefix={arXiv},
    year={2022},
    month=nov
   }

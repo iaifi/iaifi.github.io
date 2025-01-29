@@ -7,7 +7,7 @@ arxiv: "2205.05084"
 journal: Physical Review D, Volume 106, Article 036011
 doi: https://doi.org/10.1103/PhysRevD.106.036011
 nsf-par: 10376755
-code: 
+code: https://github.com/hep-lbdl/calibrationpriors
 publication-date: 2022-08-15
 bib-tex: |
   @article{Gambhir_2022,
@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Gambhir, Rikab and Nachman, Benjamin and Thaler, Jesse},
+   eprint={2205.05084},
+   archivePrefix={arXiv},
    year={2022},
    month=aug
   }

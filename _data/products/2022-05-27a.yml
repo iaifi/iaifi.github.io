@@ -3,9 +3,24 @@ iaifi-thrust: F
 title: "Stable Object Reorientation using Contact Plane Registration"
 authors: Richard Li, Carlos Esteves, Ameesh Makadia, Pulkit Agrawal
 abstract: "We present a system for accurately predicting stable orientations for diverse rigid objects. We propose to overcome the critical issue of modelling multimodality in the space of rotations by using a conditional generative model to accurately classify contact surfaces. Our system is capable of operating from noisy and partially-observed pointcloud observations captured by real world depth cameras. Our method substantially outperforms the current state-of-the-art systems on a simulated stacking task requiring highly accurate rotations, and demonstrates strong sim2real zero-shot transfer results across a variety of unseen objects on a real world reorientation task."
-arxiv: 
-journal: International Conference on Robotics and Automation 2022
-doi: https://richardrl.github.io/stable-reorientation/resources/ICRA_2022__Stable_Object_Reorientation_using_Contact_Plane_Registration.pdf
+arxiv: 2208.08962
+journal: International Conference on Robotics and Automation, 2022
+doi: https://doi.org/10.1109/ICRA46639.2022.9811655
 nsf-par:
-code: 
+code: https://richardrl.github.io/stable-reorientation/
 publication-date: 2022-05-27
+bib-tex: |
+  @INPROCEEDINGS{9811655,
+   author={Li, Richard and Esteves, Carlos and Makadia, Ameesh and Agrawal, Pulkit},
+   booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+   title={Stable Object Reorientation using Contact Plane Registration},
+   year={2022},
+   volume={},
+   number={},
+   pages={6379-6385},
+   keywords={Automation;Stacking;Robot vision systems;Cameras;Noise measurement;Task analysis},
+   eprint={2208.08962},
+   archivePrefix={arXiv},
+   doi={10.1109/ICRA46639.2022.9811655},
+  }
+

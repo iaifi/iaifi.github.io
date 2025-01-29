@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Komiske, Patrick T. and Kryhin, Serhii and Thaler, Jesse},
+   eprint={2205.04459},
+   archivePrefix={arXiv},
    year={2022},
    month=nov
   }

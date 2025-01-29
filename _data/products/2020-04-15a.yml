@@ -4,7 +4,7 @@ title: "AI Feynman: a Physics-Inspired Method for Symbolic Regression"
 authors: Silviu-Marian Udrescu, Max Tegmark
 abstract: "A core challenge for both physics and artificial intellicence (AI) is symbolic regression: finding a symbolic expression that matches data from an unknown function. Although this problem is likely to be NP-hard in principle, functions of practical interest often exhibit symmetries, separability, compositionality and other simplifying properties. In this spirit, we develop a recursive multidimensional symbolic regression algorithm that combines neural network fitting with a suite of physics-inspired techniques. We apply it to 100 equations from the Feynman Lectures on Physics, and it discovers all of them, while previous publicly available software cracks only 71; for a more difficult test set, we improve the state of the art success rate from 15% to 90%."
 arxiv: 1905.11481
-journal: Sciences Advances, 2020, 6:easy2631
+journal: Sciences Advances, 2020
 doi: 10.1126/sciadv.aay2631
 nsf-par:
 code: https://github.com/SJ001/AI-Feynman
