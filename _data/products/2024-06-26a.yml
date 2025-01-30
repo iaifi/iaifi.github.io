@@ -8,14 +8,15 @@ journal: "Reinforcement Learning Journal, Volume 5, 2024, pp. 2373–2399"
 doi: https://rlj.cs.umass.edu/2024/papers/Paper345.html
 nsf-par:
 code: https://github.com/JacobHA/RLC-SoftQBounding
-publication-date: 
+publication-date: 2024-08-09
 bib-tex: |
-  @article{adamczyk2024boostingsoftqlearningbounding,
-      title={Boosting Soft Q-Learning by Bounding},
-      author={Jacob Adamczyk and Volodymyr Makarenko and Stas Tiomkin and Rahul V. Kulkarni},
-      year={2024},
-      eprint={2406.18033},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2406.18033},
+  @article{adamczyk2024boosting,
+   title={Boosting Soft Q-Learning by Bounding},
+   author={Adamczyk, Jacob and Makarenko, Volodymyr and Tiomkin, Stas and Kulkarni, Rahul V},
+   journal={Reinforcement Learning Journal},
+   volume={5},
+   pages={2373--2399},
+   year={2024},
+   eprint={2406.18033},
+   archivePrefix={arXiv},
   }

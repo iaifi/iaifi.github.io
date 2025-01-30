@@ -10,12 +10,12 @@ nsf-par: 10555738
 code: https://www.github.com/smsharma/PAPERCLIP-Hubble
 publication-date: 2024-07-10
 bib-tex: |
-  @article{mishrasharma2024paperclipassociatingastronomicalobservations,
-      title={PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models},
-      author={Siddharth Mishra-Sharma and Yiding Song and Jesse Thaler},
-      year={2024},
-      eprint={2403.08851},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.IM},
-      url={https://arxiv.org/abs/2403.08851},
+  @inproceedings{mishra-sharma2024paperclip,
+   title={{PAPERCLIP}: Associating Astronomical Observations and Natural Language with Multi-Modal Models},
+   author={Siddharth Mishra-Sharma and YIDING SONG and Jesse Thaler},
+   booktitle={First Conference on Language Modeling},
+   year={2024},
+   url={https://openreview.net/forum?id=8TdcXwfNRB},
+   eprint={2403.08851},
+   archivePrefix={arXiv},
   }

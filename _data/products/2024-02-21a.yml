@@ -22,5 +22,7 @@ bib-tex: |
   month = {Oct},
   publisher = {American Physical Society},
   doi = {10.1103/PhysRevD.110.076015},
-  url = {https://link.aps.org/doi/10.1103/PhysRevD.110.076015}
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.110.076015},
+  eprint={2402.14067},
+  archivePrefix={arXiv},
   }

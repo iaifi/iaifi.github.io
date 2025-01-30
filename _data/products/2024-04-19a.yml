@@ -18,5 +18,7 @@ bib-tex: |
   month = {Oct},
   publisher = {Springer Nature Link},
   doi = {10.1007/978-3-031-72627-9_22},
-  url = {https://doi.org/10.1007/978-3-031-72627-9_22}
+  url = {https://doi.org/10.1007/978-3-031-72627-9_22},
+  eprint={2404.13026},
+  archivePrefix={arXiv},
   }

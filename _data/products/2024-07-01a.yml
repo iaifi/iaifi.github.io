@@ -20,5 +20,7 @@ bib-tex: |
   month = {Dec},
   publisher = {Springer Nature Link},
   doi = {10.1007/JHEP12(2024)093},
-  url = {https://doi.org/10.1007/JHEP12(2024)093}
+  url = {https://doi.org/10.1007/JHEP12(2024)093},
+  eprint={2407.01249},
+  archivePrefix={arXiv},
   }

@@ -8,7 +8,7 @@ journal:
 doi:
 nsf-par:
 code: 
-publication-date: 2024-08-21
+publication-date: 
 bib-tex: |
   @article{cesarotti2024fieldguideeventshapeobservables,
       title={A Field Guide to Event-Shape Observables Using Optimal Transport},

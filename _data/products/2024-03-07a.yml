@@ -11,11 +11,16 @@ code:
 publication-date: 2024-09-05
 bib-tex: |
   @article{choi2024photonicprobabilisticmachinelearning,
-      title={Photonic probabilistic machine learning using quantum vacuum noise},
-      author={Seou Choi and Yannick Salamin and Charles Roques-Carmes and Rumen Dangovski and Di Luo and Zhuo Chen and Michael Horodynski and Jamison Sloan and Shiekh Zia Uddin and Marin Soljacic},
-      year={2024},
-      eprint={2403.04731},
-      archivePrefix={arXiv},
-      primaryClass={physics.optics},
-      url={https://arxiv.org/abs/2403.04731},
+   doi = {10.1038/s41467-024-51509-0},
+   url = {http://dx.doi.org/10.1038/s41467-024-51509-0},
+   year = {2024},
+   month = {sep},
+   publisher = {Springer},
+   volume = {15},
+   number = {7760},
+   author = {Choi, Seou and Salamin, Yannick and Roques-Carmes, Charles and Dangovski, Rumen and Luo, Di and Chen, Zhuo and Horodynski, Michael and Sloan, Jamison and Uddin, Shiekh Zia and Soljacic, Marin},
+   title = {Photonic probabilistic machine learning using quantum vacuum noise},
+   journal = {Nature Communications},
+   eprint={2403.04731},
+   archivePrefix={arXiv},
   }

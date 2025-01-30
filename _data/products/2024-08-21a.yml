@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review Research},
    publisher={American Physical Society (APS)},
    author={Sone, Akira and Tanji, Akira and Yamamoto, Naoki},
+   eprint={2311.12163},
+   archivePrefix={arXiv},
    year={2024},
    month=aug
   }

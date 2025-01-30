@@ -11,11 +11,16 @@ code:
 publication-date: 2024-08-07
 bib-tex: |
   @article{ahmed2023tdualityflavorsymmetrieslittle,
-      title={T-Duality and Flavor Symmetries in Little String Theories},
-      author={Hamza Ahmed and Paul-Konstantin Oehlmann and Fabian Ruehle},
-      year={2023},
-      eprint={2311.02168},
-      archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2311.02168},
+   doi = {10.1007/JHEP08(2024)061},
+   url = {http://dx.doi.org/10.1007/JHEP08(2024)061},
+   year = {2024},
+   month = {aug},
+   publisher = {Springer},
+   volume = {2024},
+   number = {61},
+   author = {Ahmed, Hamza  and Oehlmann, Paul-Konstantin and Ruehle, Fabian},
+   title = {T-Duality and Flavor Symmetries in Little String Theories},
+   journal = {Journal of High Energy Physics},
+   eprint = {2311.02168},
+   archivePrefix = {arXiv},
   }

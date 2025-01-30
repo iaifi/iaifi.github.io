@@ -10,7 +10,7 @@ nsf-par:
 code: "https://github.com/ejmichaud/neural-verification"
 publication-date: 2024-12-02
 bib-tex: |
-  @Article{e26121046,
+  @article{e26121046,
     AUTHOR = {Michaud, Eric J. and Liao, Isaac and Lad, Vedang and Liu, Ziming and Mudide, Anish and Loughridge, Chloe and Guo, Zifan Carl and Kheirkhah, Tara Rezaei and Vukeliƒá, Mateja and Tegmark, Max},
     TITLE = {Opening the AI Black Box: Distilling Machine-Learned Algorithms into Code},
     JOURNAL = {Entropy},
@@ -22,5 +22,7 @@ bib-tex: |
     PubMedID = {39766675},
     ISSN = {1099-4300},
     ABSTRACT = {Can we turn AI black boxes into code? Although this mission sounds extremely challenging, we show that it is not entirely impossible by presenting a proof-of-concept method, MIPS, that can synthesize programs based on the automated mechanistic interpretability of neural networks trained to perform the desired task, auto-distilling the learned algorithm into Python code. We test MIPS on a benchmark of 62 algorithmic tasks that can be learned by an RNN and find it highly complementary to GPT-4: MIPS solves 32 of them, including 13 that are not solved by GPT-4 (which also solves 30). MIPS uses an integer autoencoder to convert the RNN into a finite state machine, then applies Boolean or integer symbolic regression to capture the learned algorithm. As opposed to large language models, this program synthesis technique makes no use of (and is therefore not limited by) human training data such as algorithms and code from GitHub. We discuss opportunities and challenges for scaling up this approach to make machine-learned models more interpretable and trustworthy.},
-    DOI = {10.3390/e26121046}
+    DOI = {10.3390/e26121046},
+    eprint={2402.05110},
+    archivePrefix={arXiv},
   }

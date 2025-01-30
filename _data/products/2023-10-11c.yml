@@ -20,6 +20,8 @@ bib-tex: |
    journal={Journal of Statistical Mechanics: Theory and Experiment},
    publisher={IOP Publishing},
    author={Erbin, Harold and Finotello, Riccardo and Wahabou Kpera, Bio and Lahoche, Vincent and Ousmane Samary, Dine},
+   eprint={2310.07499},
+   archivePrefix={arXiv},
    year={2024},
    month=aug, pages={083203}
   }
