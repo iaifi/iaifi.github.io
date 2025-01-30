@@ -21,5 +21,7 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Boehnlein, Amber and Diefenthaler, Markus and Sato, Nobuo and Schram, Malachi and Ziegler, Veronique and Fanelli, Cristiano and Hjorth-Jensen, Morten and Horn, Tanja and Kuchera, Michelle P. and Lee, Dean and Nazarewicz, Witold and Ostroumov, Peter and Orginos, Kostas and Poon, Alan and Wang, Xin-Nian and Scheinker, Alexander and Smith, Michael S. and Pang, Long-Gang},
    year={2022},
+   eprint={2112.02309},
+   archivePrefix={arXiv},
    month=sep
   }

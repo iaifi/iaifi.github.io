@@ -21,6 +21,8 @@ bib-tex: |
    publisher={IOP Publishing},
    author={Carloni, K. and Kamp, N.W. and Schneider, A. and Conrad, J.M.},
    year={2022},
+   eprint={2110.10766},
+   archivePrefix={arXiv},
    month=feb, pages={P02022}
   }
 

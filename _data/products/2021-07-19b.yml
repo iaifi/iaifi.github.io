@@ -7,5 +7,17 @@ arxiv:
 journal: ACM Transactions on Graphics, Volume 4, Article 182
 doi: https://dl.acm.org/doi/10.1145/3450626.3459671
 nsf-par: 10404280
-code: 
+code: https://github.com/taichi-dev/quantaichi
 publication-date: 2021-07-19
+bib-tex: |
+  @article{huquantaichi,
+   title={QuanTaichi: A Compiler for Quantized Simulations},
+   author={Yuanming Hu and Jiafeng Liu and Xuanda Yang and Mingkuan Xu and Ye Kuang and Weiwei Xu and Qiang Dai and William Freeman and Fredo Durand},
+   journal={ACM Transactions on Graphics},
+   year={2021},
+   volume={40},
+   number={4},
+   month=jul,
+   url={https://dl.acm.org/doi/10.1145/3450626.3459671},
+   primaryClass={cs.LG},
+  }

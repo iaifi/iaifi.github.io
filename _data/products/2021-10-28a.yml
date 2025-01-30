@@ -4,18 +4,19 @@ title: "Equivariant Contrastive Learning"
 authors: Rumen Dangovski, Li Jing, Charlotte Loh, Seungwook Han, Akash Srivastava, Brian Cheung, Pulkit Agrawal, Marin Soljačić
 abstract: "In state-of-the-art self-supervised learning (SSL) pre-training produces semantically good representations by encouraging them to be invariant under meaningful transformations prescribed from human knowledge. In fact, the property of invariance is a trivial instance of a broader class called equivariance, which can be intuitively understood as the property that representations transform according to the way the inputs transform. Here, we show that rather than using only invariance, pre-training that encourages non-trivial equivariance to some transformations, while maintaining invariance to other transformations, can be used to improve the semantic quality of representations. Specifically, we extend popular SSL methods to a more general framework which we name Equivariant Self-Supervised Learning (E-SSL). In E-SSL, a simple additional pre-training objective encourages equivariance by predicting the transformations applied to the input. We demonstrate E-SSL's effectiveness empirically on several popular computer vision benchmarks. Furthermore, we demonstrate usefulness of E-SSL for applications beyond computer vision; in particular, we show its utility on regression problems in photonics science. We will release our code."
 arxiv: "2111.00899"
-journal: 
-doi: 
+journal: International Conference on Learned Representations, 2022
+doi: https://openreview.net/pdf?id=gKLAAfiytI
 nsf-par:
-code: 
-publication-date: 
+code: https://github.com/rdangovs/essl
+publication-date: 2022-03-15
 bib-tex: |
-  @article{dangovski2022equivariantcontrastivelearning,
-      title={Equivariant Contrastive Learning},
-      author={Rumen Dangovski and Li Jing and Charlotte Loh and Seungwook Han and Akash Srivastava and Brian Cheung and Pulkit Agrawal and Marin Soljačić},
-      year={2022},
-      eprint={2111.00899},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2111.00899},
+  @inproceedings{dangovski2022equivariantcontrastivelearning,
+   title={Equivariant Contrastive Learning},
+   author={Rumen Dangovski and Li Jing and Charlotte Loh and Seungwook Han and Akash Srivastava and Brian Cheung and Pulkit Agrawal and Marin Soljačić},
+   year={2022},
+   journal={International Conference on Learned Representations},
+   eprint={2111.00899},
+   archivePrefix={arXiv},
+   primaryClass={cs.CV},
+   url={https://arxiv.org/abs/2111.00899},
   }

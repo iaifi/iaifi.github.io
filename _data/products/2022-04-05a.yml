@@ -7,7 +7,7 @@ arxiv: "2204.02489"
 journal: Entropy, 2022, 24(6)
 doi: https://doi.org/10.3390/e24060771
 nsf-par: 10343307
-code:
+code: https://github.com/andrewktan/pareto_dib
 publication-date: 2022-05-30
 bib-tex: |
   @article{Tan_2022,
@@ -21,5 +21,7 @@ bib-tex: |
    publisher={MDPI AG},
    author={Tan, Andrew K. and Tegmark, Max and Chuang, Isaac L.},
    year={2022},
+   eprint={2204.02489},
+   archivePrefix={arXiv},
    month=may, pages={771}
   }

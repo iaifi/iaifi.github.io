@@ -18,6 +18,8 @@ bib-tex: |
    publisher={MIT Press - Journals},
    author={Schwartz, Matthew D.},
    year={2021},
-   month=mar
+   month=mar,
+   eprint={2103.12226},
+   archivePrefix={arXiv},
   }
 

@@ -20,6 +20,8 @@ bib-tex: |
    journal={Nature},
    publisher={Springer Science and Business Media LLC},
    author={Yang, Yi and Roques-Carmes, Charles and Kooi, Steven E. and Tang, Haoning and Beroz, Justin and Mazur, Eric and Kaminer, Ido and Joannopoulos, John D. and Soljačić, Marin},
+   eprint={2110.03550},
+   archivePrefix={arXiv},
    year={2023},
    month=jan, pages={42–47}
   }

@@ -7,15 +7,15 @@ arxiv: "2112.08526"
 journal: 
 doi: 
 nsf-par:
-code: 
+code: https://invariance-through-latent-alignment.github.io
 publication-date: 
 bib-tex: |
   @article{yoneda2022invariancelatentalignment,
-      title={Invariance Through Latent Alignment},
-      author={Takuma Yoneda and Ge Yang and Matthew R. Walter and Bradly Stadie},
-      year={2022},
-      eprint={2112.08526},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2112.08526},
+   title={Invariance Through Latent Alignment},
+   author={Takuma Yoneda and Ge Yang and Matthew R. Walter and Bradly Stadie},
+   year={2022},
+   eprint={2112.08526},
+   archivePrefix={arXiv},
+   primaryClass={cs.LG},
+   url={https://arxiv.org/abs/2112.08526},
   }

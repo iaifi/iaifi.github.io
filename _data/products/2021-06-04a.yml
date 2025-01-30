@@ -7,7 +7,7 @@ arxiv: 2106.02634
 journal: 
 doi: 
 nsf-par:
-code: 
+code: vsitzmann.github.io/lfns/
 publication-date: 
 bib-tex: |
   @article{sitzmann2022lightfieldnetworksneural,

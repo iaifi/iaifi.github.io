@@ -21,6 +21,8 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Liu, Ziming and Wang, Bohan and Meng, Qi and Chen, Wei and Tegmark, Max and Liu, Tie-Yan},
    year={2021},
-   month=nov
+   month=nov,
+   eprint={2106.00026},
+   archivePrefix={arXiv},
   }
 

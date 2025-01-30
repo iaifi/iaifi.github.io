@@ -8,15 +8,16 @@ journal: Workshop paper at ICLR 2021 SimDL Workshop
 doi:
 alt-url:  https://simdl.github.io/files/12.pdf
 nsf-par: 10251785
-code:
-publication-date: 
+code: https://github.com/hep-lbdl/OmniFold
+publication-date: 2021-05-07
 bib-tex: |
-  @article{andreassen2021scaffoldingsimulationsdeeplearning,
-      title={Scaffolding Simulations with Deep Learning for High-dimensional Deconvolution},
-      author={Anders Andreassen and Patrick T. Komiske and Eric M. Metodiev and Benjamin Nachman and Adi Suresh and Jesse Thaler},
-      year={2021},
-      eprint={2105.04448},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML},
-      url={https://arxiv.org/abs/2105.04448},
+  @inproceedings{andreassen2021scaffoldingsimulationsdeeplearning,
+   title={Scaffolding Simulations with Deep Learning for High-dimensional Deconvolution},
+   author={Anders Andreassen and Patrick T. Komiske and Eric M. Metodiev and Benjamin Nachman and Adi Suresh and Jesse Thaler},
+   journal={International Conference on Learning Representations},
+   year={2021},
+   eprint={2105.04448},
+   archivePrefix={arXiv},
+   primaryClass={stat.ML},
+   url={https://arxiv.org/abs/2105.04448},
   }

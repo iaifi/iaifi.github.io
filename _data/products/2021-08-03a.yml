@@ -7,7 +7,7 @@ arxiv: 2108.01403
 journal: Machine Learning Science and Technology, 2022, Volume 3, Number 1, Article 015027
 doi: https://doi.org/10.1088/2632-2153/ac4f69
 nsf-par: 10323041
-code: 
+code: https://github.com/melsophos/nnqft
 publication-date: 2022-02-21
 bib-tex: |
   @article{Erbin_2022,
@@ -21,6 +21,8 @@ bib-tex: |
    publisher={IOP Publishing},
    author={Erbin, H and Lahoche, V and Ousmane Samary, D},
    year={2022},
+   eprint={2108.01403},
+   archivePrefix={arXiv},
    month=feb, pages={015027}
   }
 

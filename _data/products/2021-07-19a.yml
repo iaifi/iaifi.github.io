@@ -21,6 +21,8 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Nachman, Benjamin and Thaler, Jesse},
    year={2022},
-   month=apr
+   month=apr,
+   eprint={2107.08979},
+   archivePrefix={arXiv},
   }
 

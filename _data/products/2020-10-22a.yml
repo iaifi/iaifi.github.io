@@ -21,6 +21,8 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Faucett, Taylor and Thaler, Jesse and Whiteson, Daniel},
    year={2021},
-   month=feb
+   month=feb,
+   eprint={2010.11998},
+   archivePrefix={arXiv},
   }
 

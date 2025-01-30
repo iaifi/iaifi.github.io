@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Valogiannis, Georgios and Dvorkin, Cora},
+   eprint={2204.13717},
+   archivePrefix={arXiv},
    year={2022},
    month=nov
   }

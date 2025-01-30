@@ -7,7 +7,7 @@ arxiv: "2206.11909"
 journal: The Astrophysical Journal Supplement Series, 2023, Vol 264, Number 2
 doi: https://doi.org/10.3847/1538-4365/aca594
 nsf-par: 10404308
-code: 
+code: https://zenodo.org/records/6677609
 publication-date: 2023-01-18
 bib-tex: |
   @article{Saydjari_2023,
@@ -20,6 +20,8 @@ bib-tex: |
    journal={The Astrophysical Journal Supplement Series},
    publisher={American Astronomical Society},
    author={Saydjari, Andrew K. and Schlafly, Edward F. and Lang, Dustin and Meisner, Aaron M. and Green, Gregory M. and Zucker, Catherine and Zelko, Ioana and Speagle, Joshua S. and Daylan, Tansu and Lee, Albert and Valdes, Francisco and Schlegel, David and Finkbeiner, Douglas P.},
+   eprint={2206.11909},
+   archivePrefix={arXiv},
    year={2023},
    month=jan, pages={28}
   }

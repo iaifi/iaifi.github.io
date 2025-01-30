@@ -20,5 +20,7 @@ bib-tex: |
    journal={Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences},
    publisher={The Royal Society},
    author={Funcke, L. and Hartung, T. and Jansen, K. and Kühn, S. and Schneider, M. and Stornati, P. and Wang, X.},
+   eprint={2110.03809},
+   archivePrefix={arXiv},
    year={2021},
    month=dec }

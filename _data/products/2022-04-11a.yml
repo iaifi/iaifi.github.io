@@ -7,7 +7,7 @@ arxiv: "2204.05435"
 journal: The Astrophysical Journal, Volume 946, Number 2
 doi: https://doi.org/10.3847/1538-4357/acbe3b
 nsf-par: 10505459
-code: 
+code: https://github.com/cfpark00/ LazyWaveletTransform
 publication-date: 2022-04-05
 bib-tex: |
   @article{Park_2023,
@@ -20,6 +20,8 @@ bib-tex: |
    journal={The Astrophysical Journal},
    publisher={American Astronomical Society},
    author={Park, Core Francisco and Allys, Erwan and Villaescusa-Navarro, Francisco and Finkbeiner, Douglas},
+   eprint={2204.05435},
+   archivePrefix={arXiv},
    year={2023},
    month=apr, pages={107}
   }

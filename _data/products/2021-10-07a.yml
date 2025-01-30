@@ -21,6 +21,8 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Golubeva, Anna and Melko, Roger G.},
    year={2022},
+   eprint={2110.03676},
+   archivePrefix={arXiv},
    month=mar
   }
 

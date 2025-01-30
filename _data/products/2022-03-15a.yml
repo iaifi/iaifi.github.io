@@ -20,6 +20,8 @@ bib-tex: |
    journal={Machine Learning: Science and Technology},
    publisher={IOP Publishing},
    author={Sheshmani, Artan and You, Yi-Zhuang and Fu, Wenbo and Azizi, Ahmadreza},
+   eprint={2203.07975},
+   archivePrefix={arXiv},
    year={2023},
    month=feb, pages={015012}
   }

@@ -20,6 +20,8 @@ bib-tex: |
    journal={The Astrophysical Journal},
    publisher={American Astronomical Society},
    author={Gomez, Sebastian and Berger, Edo and Nicholl, Matt and Blanchard, Peter K. and Hosseinzadeh, Griffin},
+   eprint={2204.08486},
+   archivePrefix={arXiv},
    year={2022},
    month=dec, pages={107}
   }

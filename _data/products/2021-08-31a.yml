@@ -22,6 +22,8 @@ bib-tex: |
    author={D’Alonzo, Samantha and Tegmark, Max},
    editor={Castiello, Ciro},
    year={2022},
+   eprint={2109.00024},
+   archivePrefix={arXiv},
    month=aug, pages={e0271947}
   }
 

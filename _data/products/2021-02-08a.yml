@@ -21,5 +21,7 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Detmold, W. and Shanahan, P. E.},
    year={2021},
-   month=apr
+   month=apr,
+   eprint={2102.04329},
+   archivePrefix={arXiv},
   }

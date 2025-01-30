@@ -21,5 +21,7 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Liu, Ziming and Madhavan, Varun and Tegmark, Max},
    year={2022},
+   eprint={2203.12610},
+   archivePrefix={arXiv},
    month=oct
   }

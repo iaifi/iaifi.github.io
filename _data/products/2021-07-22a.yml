@@ -7,7 +7,7 @@ arxiv: "2107.10879"
 journal: Communications Physics, 2022, Vol 5, Article 206
 doi: https://doi.org/10.1038/s42005-022-00987-z
 nsf-par: 10376792
-code: 
+code: https://github.com/ peterparity/symder
 publication-date: 2022-08-12
 bib-tex: |
   @article{Lu_2022,
@@ -21,6 +21,8 @@ bib-tex: |
    publisher={Springer Science and Business Media LLC},
    author={Lu, Peter Y. and Ariño Bernad, Joan and Soljačić, Marin},
    year={2022},
-   month=aug
+   month=aug,
+   eprint={2107.10879},
+   archivePrefix={arXiv},
   }
 

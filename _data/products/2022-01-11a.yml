@@ -7,7 +7,7 @@ arxiv: "2201.03726"
 journal: 
 doi: 
 nsf-par:
-code: 
+code: https://github.com/JoshRackers/equivariant_electron_density
 publication-date: 
 bib-tex: |
   @article{rackers2022crackingquantumscalinglimit,

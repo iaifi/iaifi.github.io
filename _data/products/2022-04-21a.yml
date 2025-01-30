@@ -7,8 +7,8 @@ arxiv: "2204.10298"
 journal: 
 doi: 
 nsf-par:
-code: 
-publication-date: 
+code: https://github.com/voidism/DiffCSE
+publication-date:
 bib-tex: |
   @article{chuang2022diffcsedifferencebasedcontrastivelearning,
       title={DiffCSE: Difference-based Contrastive Learning for Sentence Embeddings},

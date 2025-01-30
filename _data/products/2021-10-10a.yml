@@ -7,15 +7,17 @@ arxiv: "2110.04683"
 journal: ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022, pp. 3368-3372
 doi: https://doi.org/10.1109/ICASSP43922.2022.9747848
 nsf-par:
-code: 
+code:  https://github.com/al5250/mixmate
 publication-date: 2022-04-27
 bib-tex: |
-  @article{lin2022mixturemodelautoencodersdeep,
-      title={Mixture Model Auto-Encoders: Deep Clustering through Dictionary Learning},
-      author={Alexander Lin and Andrew H. Song and Demba Ba},
-      year={2022},
-      eprint={2110.04683},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2110.04683},
+  @inproceedings{lin2022mixturemodelautoencodersdeep,
+   title={Mixture Model Auto-Encoders: Deep Clustering through Dictionary Learning},
+   author={Alexander Lin and Andrew H. Song and Demba Ba},
+   year={2022},
+   journal={IEEE International Conference on Acoustics, Speech and Signal Processing},
+   eprint={2110.04683},
+   archivePrefix={arXiv},
+   primaryClass={cs.LG},
+   url={https://doi.org/10.1109/ICASSP43922.2022.9747848},
+   DOI={10.1109/ICASSP43922.2022.9747848},
   }

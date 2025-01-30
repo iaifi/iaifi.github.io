@@ -21,5 +21,7 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Valogiannis, Georgios and Dvorkin, Cora},
    year={2022},
+   eprint={2108.07821},
+   archivePrefix={arXiv},
    month=may
   }

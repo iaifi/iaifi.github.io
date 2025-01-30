@@ -7,7 +7,7 @@ arxiv: "2109.13243"
 journal: "Journal of Instrumentation, 2022, Volume 17"
 doi: "https://doi.org/10.1088/1748-0221/17/01/P01024"
 nsf-par:
-code: 
+code: https://github.com/ramonpeter/UnbinnedMeasurements
 publication-date: 2022-01-19
 bib-tex: |
   @article{Arratia_2022,
@@ -20,6 +20,8 @@ bib-tex: |
    journal={Journal of Instrumentation},
    publisher={IOP Publishing},
    author={Arratia, Miguel and Butter, Anja and Campanelli, Mario and Croft, Vincent and Gillberg, Dag and Ghosh, Aishik and Lohwasser, Kristin and Malaescu, Bogdan and Mikuni, Vinicius and Nachman, Benjamin and Rojo, Juan and Thaler, Jesse and Winterhalder, Ramon},
+   eprint={2109.13243},
+   archivePrefix={arXiv},
    year={2022},
    month=jan, pages={P01024}
   }

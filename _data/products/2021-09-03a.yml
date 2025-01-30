@@ -21,5 +21,7 @@ bib-tex: |
    publisher={Stichting SciPost},
    author={Ostdiek, Bryan},
    year={2022},
+   eprint={2109.01695},
+   archivePrefix={arXiv},
    month=jan
   }

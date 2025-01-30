@@ -7,8 +7,8 @@ arxiv: "2108.12430"
 journal: 
 doi: 
 nsf-par:
-code: 
-publication-date: 
+code: http://github.com/fastmachinelearning/gw-iaas
+publication-date:
 bib-tex: |
   @article{gunny2021hardwareacceleratedinferencerealtimegravitationalwave,
       title={Hardware-accelerated Inference for Real-Time Gravitational-Wave Astronomy},

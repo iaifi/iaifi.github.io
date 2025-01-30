@@ -22,5 +22,7 @@ bib-tex: |
    publisher={Institute of Electrical and Electronics Engineers (IEEE)},
    author={Guglielmo, Giuseppe Di and Fahim, Farah and Herwig, Christian and Valentin, Manuel Blanco and Duarte, Javier and Gingu, Cristian and Harris, Philip and Hirschauer, James and Kwok, Martin and Loncar, Vladimir and Luo, Yingyi and Miranda, Llovizna and Ngadiuba, Jennifer and Noonan, Daniel and Ogrenci-Memik, Seda and Pierini, Maurizio and Summers, Sioni and Tran, Nhan},
    year={2021},
-   month=aug, pages={2179–2186}
+   month=aug, pages={2179–2186},
+   eprint={2105.01683},
+   archivePrefix={arXiv},
   }

@@ -10,12 +10,13 @@ nsf-par: 10488619
 code: 
 publication-date: 2022-06-24
 bib-tex: |
-  @article{verbin2021refnerfstructuredviewdependentappearance,
+  @inproceedings{verbin2021refnerfstructuredviewdependentappearance,
       title={Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields},
       author={Dor Verbin and Peter Hedman and Ben Mildenhall and Todd Zickler and Jonathan T. Barron and Pratul P. Srinivasan},
       year={2021},
+      journal={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
       eprint={2112.03907},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2112.03907},
+      url={https://doi.org/10.1109/CVPR52688.2022.00541},
   }
