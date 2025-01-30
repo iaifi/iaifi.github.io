@@ -9,3 +9,10 @@ doi: https://crisp.seas.harvard.edu/files/papers/TheodosisBa_SilhouetteLearning_
 nsf-par:
 code: 
 publication-date: 
+bib-tex: |
+  @article{theodosis-group-sparse-autoencoders,
+      title={Learning Silhouettes with Group Sparse Autoencoders},
+      author={Emmanouil Theodosis and Demba Ba},
+      year={2023},
+      url={https://crisp.seas.harvard.edu/files/papers/TheodosisBa_SilhouetteLearning_ICASSP23.pdf},
+  }

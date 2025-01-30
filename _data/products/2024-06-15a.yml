@@ -21,5 +21,7 @@ bib-tex: |
   month = {Oct},
   publisher = {Springer Nature Link},
   doi = {10.1140/epjc/s10052-024-13423-z},
-  url = {https://doi.org/10.1140/epjc/s10052-024-13423-z}
+  url = {https://doi.org/10.1140/epjc/s10052-024-13423-z},
+  eprint={2406.10583},
+  archivePrefix={arXiv},
   }

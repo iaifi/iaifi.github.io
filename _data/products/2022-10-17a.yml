@@ -20,6 +20,8 @@ bib-tex: |
    journal={Journal of High Energy Physics},
    publisher={Springer Science and Business Media LLC},
    author={Lukas, Andre and Ruehle, Fabian},
+   eprint={2210.09369},
+   archivePrefix={arXiv},
    year={2023},
    month=feb
   }

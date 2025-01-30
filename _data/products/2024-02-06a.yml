@@ -19,6 +19,8 @@ bib-tex: |
    journal={The Open Journal of Astrophysics},
    publisher={Maynooth University},
    author={Ho, Matthew and Bartlett, Deaglan J. and Chartier, Nicolas and Cuesta-Lazaro, Carolina and Ding, Simon and Lapel, Axel and Lemos, Pablo and Lovell, Christopher C. and Makinen, T. Lucas and Modi, Chirag and Pandya, Viraj and Pandey, Shivam and Perez, Lucia A. and Wandelt, Benjamin and Bryan, Greg L.},
+   eprint={2402.05137},
+   archivePrefix={arXiv},
    year={2024},
    month=jul
   }

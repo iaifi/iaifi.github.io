@@ -11,11 +11,16 @@ code: https://github.com/aureliendersy/S-Matrix-Bootstrap
 publication-date: 2024-05-16
 bib-tex: |
   @article{dersy2023reconstructingsmatrixphasesmachine,
-      title={Reconstructing $S$-matrix Phases with Machine Learning},
-      author={Aurélien Dersy and Matthew D. Schwartz and Alexander Zhiboedov},
-      year={2023},
-      eprint={2308.09451},
-      archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2308.09451},
+   doi = {10.1007/JHEP05(2024)200},
+   url = {https://doi.org/10.1007/JHEP05(2024)200},
+   year = {2024},
+   month = {may},
+   publisher = {Springer},
+   volume = {2024},
+   number = {200},
+   author = {Dersy, Aurélien and Schwartz, Matthew D. and Zhiboedov, Alexander},
+   title = {Reconstructing S-matrix Phases with Machine Learning},
+   journal = {Journal of High Energy Physics},
+   eprint={2308.09451},
+   archivePrefix={arXiv},
   }

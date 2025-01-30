@@ -7,7 +7,7 @@ arxiv: "2208.13796"
 journal: Monthly Notices of the Royal Astronomical Society, 2022, Volume 517, Issue 3
 doi: https://doi.org/10.1093/mnras/stac3014
 nsf-par: 10391620
-code: 
+code: https://github.com/gemyxzhang/neural-subhalo-slope
 publication-date: 2022-10-20
 bib-tex: |
   @article{Zhang_2022,
@@ -20,6 +20,8 @@ bib-tex: |
    journal={Monthly Notices of the Royal Astronomical Society},
    publisher={Oxford University Press (OUP)},
    author={Zhang, Gemma and Mishra-Sharma, Siddharth and Dvorkin, Cora},
+   eprint={2208.13796},
+   archivePrefix={arXiv},
    year={2022},
    month=oct, pages={4317–4326}
   }

@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Onyisi, Peter and Shen, Delon and Thaler, Jesse},
+   eprint={2212.10659},
+   archivePrefix={arXiv},
    year={2023},
    month=jul
   }

@@ -7,7 +7,7 @@ arxiv: "2207.06425"
 journal: Physical Review D, Volume 107, Article 063541
 doi: https://doi.org/10.1103/PhysRevD.107.063541
 nsf-par:
-code: 
+code: https://github.com/hongwanliu/DarkHistory
 publication-date: 2023-03-27
 bib-tex: |
   @article{Sun_2023,
@@ -21,6 +21,8 @@ bib-tex: |
    publisher={American Physical Society (APS)},
    author={Sun, Yitian and Slatyer, Tracy R.},
    year={2023},
+   eprint={2207.06425},
+   archivePrefix={arXiv},
    month=mar
   }
 

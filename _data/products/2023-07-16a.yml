@@ -10,12 +10,16 @@ nsf-par: 10524760
 code: https://deanhazineh.github.io/publications/Multi Image Synthesis/MIS Home.html
 publication-date: 2024-09-04
 bib-tex: |
-  @article{hazineh2023polarizationmultiimagesynthesisbirefringent,
-      title={Polarization Multi-Image Synthesis with Birefringent Metasurfaces},
-      author={Dean Hazineh and Soon Wei Daniel Lim and Qi Guo and Federico Capasso and Todd Zickler},
-      year={2023},
-      eprint={2307.08106},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2307.08106},
+  @INPROCEEDINGS{10233735,
+   author={Hazineh, Dean and Lim, Soon Wei Daniel and Guo, Qi and Capasso, Federico and Zickler, Todd},
+   booktitle={2023 IEEE International Conference on Computational Photography (ICCP)},
+   title={Polarization Multi-Image Synthesis with Birefringent Metasurfaces},
+   year={2023},
+   volume={},
+   number={},
+   pages={1-12},
+   keywords={Optical filters;Integrated optics;Optical polarization;Filtering;Optical device fabrication;Optical variables measurement;Spatial filters;Metasurface;Image processing;Polarization-Encoded Point-Spread Functions;Optical Filtering},
+   doi={10.1109/ICCP56744.2023.10233735},
+   eprint={2307.08106},
+   archivePrefix={arXiv},
   }

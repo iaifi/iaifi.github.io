@@ -11,11 +11,16 @@ code:
 publication-date: 2024-01-30
 bib-tex: |
   @article{demirtas2024computationalmirrorsymmetry,
-      title={Computational Mirror Symmetry},
-      author={Mehmet Demirtas and Manki Kim and Liam McAllister and Jakob Moritz and Andres Rios-Tascon},
-      year={2024},
-      eprint={2303.00757},
-      archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2303.00757},
+   doi = {10.1007/JHEP01(2024)184},
+   url = {http://dx.doi.org/10.1007/JHEP01(2024)184},
+   year = {2024},
+   month = {jan},
+   publisher = {Springer},
+   volume = {2024},
+   number = {184},
+   author = {Demirtas, Mehmet and Kim, Manki and McAllister, Liam and Moritz, Jakob and Rios-Tascon, Andres},
+   title = {Computational Mirror Symmetry},
+   journal = {Journal of High Energy Physics},
+   eprint={2303.00757},
+   archivePrefix={arXiv},
   }

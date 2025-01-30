@@ -11,11 +11,16 @@ code:
 publication-date:  2024-07-31
 bib-tex: |
   @article{oehlmann2024frozenphaseheteroticftheory,
-      title={The Frozen Phase of Heterotic F-theory Duality},
-      author={Paul-Konstantin Oehlmann and Fabian Ruehle and Benjamin Sung},
-      year={2024},
+      doi = {10.1007/JHEP07(2024)295},
+      url = {https://dx.doi.org/10.1007/JHEP07(2024)295},
+      year = {2024},
+      month = {jul},
+      publisher = {Springer},
+      volume = {2024},
+      number = {295},
+      author = {Oehlmann, Paul-Konstantin and Ruehle, Fabian and Sung, Benjamin},
+      title = {The Frozen Phase of Heterotic F-theory Duality},
+      journal = {Journal of High Energy Physics},
       eprint={2404.02191},
       archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2404.02191},
   }

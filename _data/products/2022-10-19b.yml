@@ -20,6 +20,8 @@ bib-tex: |
    journal={The Astrophysical Journal},
    publisher={American Astronomical Society},
    author={Gomez, Sebastian and Villar, V. Ashley and Berger, Edo and Gezari, Suvi and van Velzen, Sjoert and Nicholl, Matt and Blanchard, Peter K. and Alexander, Kate. D.},
+   eprint={2210.10810},
+   archivePrefix={arXiv},
    year={2023},
    month=jun, pages={113}
   }

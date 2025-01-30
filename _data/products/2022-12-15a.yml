@@ -20,6 +20,8 @@ bib-tex: |
    journal={Journal of Cosmology and Astroparticle Physics},
    publisher={IOP Publishing},
    author={Wu, Xiaohan and Muñoz, Julian B. and Eisenstein, Daniel J.},
+   eprint={2212.08095},
+   archivePrefix={arXiv},
    year={2023},
    month=may, pages={040}
   }

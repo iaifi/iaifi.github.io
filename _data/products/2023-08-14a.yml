@@ -10,12 +10,18 @@ nsf-par: 10504108
 code: 
 publication-date: 2024-01-24
 bib-tex: |
-  @article{hsu2023extensivetextithubblespacetelescope,
-      title={An Extensive $\textit{Hubble Space Telescope}$ Study of the Offset and Host Light Distributions of Type I Superluminous Supernovae},
-      author={Brian Hsu and Peter K. Blanchard and Edo Berger and Sebastian Gomez},
-      year={2023},
-      eprint={2308.07271},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.HE},
-      url={https://arxiv.org/abs/2308.07271},
+  @article{Hsu_2024,
+   doi = {10.3847/1538-4357/ad12be},
+   url = {https://dx.doi.org/10.3847/1538-4357/ad12be},
+   year = {2024},
+   month = {jan},
+   publisher = {The American Astronomical Society},
+   volume = {961},
+   number = {2},
+   pages = {169},
+   author = {Hsu, Brian and Blanchard, Peter K. and Berger, Edo and Gomez, Sebastian},
+   title = {An Extensive Hubble Space Telescope Study of the Offset and Host Light Distributions of Type I Superluminous Supernovae},
+   journal = {The Astrophysical Journal},
+   eprint={2308.07271},
+   archivePrefix={arXiv},
   }

@@ -20,6 +20,8 @@ bib-tex: |
    journal={Entropy},
    publisher={MDPI AG},
    author={Michaud, Eric J. and Liu, Ziming and Tegmark, Max},
+   eprint={2210.13447},
+   archivePrefix={arXiv},
    year={2023},
    month=jan, pages={175}
   }

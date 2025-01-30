@@ -4,18 +4,23 @@ title: "Deep Learning and Symbolic Regression for Discovering Parametric Equatio
 authors: Michael Zhang, Samuel Kim, Peter Y. Lu, Marin Soljačić
 abstract: "Symbolic regression is a machine learning technique that can learn the governing formulas of data and thus has the potential to transform scientific discovery. However, symbolic regression is still limited in the complexity and dimensionality of the systems that it can analyze. Deep learning on the other hand has transformed machine learning in its ability to analyze extremely complex and high-dimensional datasets. We propose a neural network architecture to extend symbolic regression to parametric systems where some coefficient may vary but the structure of the underlying governing equation remains constant. We demonstrate our method on various analytic expressions, ODEs, and PDEs with varying coefficients and show that it extrapolates well outside of the training domain. The neural network-based architecture can also integrate with other deep learning architectures so that it can analyze high-dimensional data while being trained end-to-end. To this end we integrate our architecture with convolutional neural networks to analyze 1D images of varying spring systems."
 arxiv: "2207.00529"
-journal: IEEE Journals, 2023, PubMed ID 37721885
-doi: https://ieeexplore.ieee.org/document/10253952
+journal: "IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 11, pp. 16775-16787, Nov. 2024"
+doi: 10.1109/TNNLS.2023.32979782
 nsf-par: 10505428
-code: 
+code: https://github.com/samuelkim314/parametric-eql
 publication-date: 2023-09-18
 bib-tex: |
-  @article{zhang2023deeplearningsymbolicregression,
-      title={Deep Learning and Symbolic Regression for Discovering Parametric Equations},
-      author={Michael Zhang and Samuel Kim and Peter Y. Lu and Marin Soljačić},
-      year={2023},
-      eprint={2207.00529},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2207.00529},
+  @ARTICLE{10253952,
+   author={Zhang, Michael and Kim, Samuel and Lu, Peter Y. and Soljačić, Marin},
+   journal={IEEE Transactions on Neural Networks and Learning Systems},
+   title={Deep Learning and Symbolic Regression for Discovering Parametric Equations},
+   year={2024},
+   volume={35},
+   number={11},
+   pages={16775-16787},
+   keywords={Mathematical models;Neural networks;Deep learning;Training;Logic gates;Physics;Partial differential equations;Deep learning;equation discovery;high-dimensional;partial differential equation (PDE)},
+   doi={10.1109/TNNLS.2023.3297978},
+   eprint={2207.00529},
+   archivePrefix={arXiv},
+   url={https://ieeexplore.ieee.org/document/10253952},
   }

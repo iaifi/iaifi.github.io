@@ -20,6 +20,8 @@ bib-tex: |
    journal={Journal of High Energy Physics},
    publisher={Springer Science and Business Media LLC},
    author={Alipour-fard, Samuel and Komiske, Patrick T. and Metodiev, Eric M. and Thaler, Jesse},
+   eprint={2305.00989},
+   archivePrefix={arXiv},
    year={2023},
    month=sep
   }

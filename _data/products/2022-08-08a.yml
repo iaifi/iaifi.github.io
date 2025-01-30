@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Spitz, Daniel and Urban, Julian M. and Pawlowski, Jan M.},
+   eprint={2208.03955},
+   archivePrefix={arXiv},
    year={2023},
    month=feb
   }

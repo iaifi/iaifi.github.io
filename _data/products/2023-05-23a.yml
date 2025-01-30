@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Whittle, Chris and Yang, Ge and Evans, Matthew and Barsotti, Lisa},
+   eprint={2305.13780},
+   archivePrefix={arXiv},
    year={2023},
    month=aug
   }

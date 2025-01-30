@@ -20,6 +20,8 @@ bib-tex: |
    journal={Monthly Notices of the Royal Astronomical Society},
    publisher={Oxford University Press (OUP)},
    author={Ou, Xiaowei and Necib, Lina and Frebel, Anna},
+   eprint={2208.01056},
+   archivePrefix={arXiv},
    year={2023},
    month=mar, pages={2623–2648}
   }

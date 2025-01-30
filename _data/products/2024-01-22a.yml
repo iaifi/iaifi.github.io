@@ -20,6 +20,8 @@ bib-tex: |
    journal={Monthly Notices of the Royal Astronomical Society},
    publisher={Oxford University Press (OUP)},
    author={Pérez-Díaz, Víctor Samuel and Martínez-Galarza, Juan Rafael and Caicedo, Alexander and D’Abrusco, Raffaele},
+   eprint={2401.12203},
+   archivePrefix={arXiv},
    year={2024},
    month=jan, pages={4852–4871}
   }

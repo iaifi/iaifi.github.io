@@ -20,6 +20,8 @@ bib-tex: |
    publisher={EDP Sciences},
    author={Tsoi, Ho Fung and Pol, Adrian Alan and Loncar, Vladimir and Govorkova, Ekaterina and Cranmer, Miles and Dasu, Sridhara and Elmer, Peter and Harris, Philip and Ojalvo, Isobel and Pierini, Maurizio},
    editor={De Vita, R. and Espinal, X. and Laycock, P. and Shadura, O.},
+   eprint={2305.04099},
+   archivePrefix={arXiv},
    year={2024},
    pages={09036}
   }

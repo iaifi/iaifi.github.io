@@ -19,6 +19,8 @@ bib-tex: |
    journal={Physics Letters B},
    publisher={Elsevier BV},
    author={Qiu, Richard and Krastev, Plamen G. and Gill, Kiranjyot and Berger, Edo},
+   eprint={2210.15888},
+   archivePrefix={arXiv},
    year={2023},
    month=may, pages={137850}
   }

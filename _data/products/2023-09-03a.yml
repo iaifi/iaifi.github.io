@@ -20,6 +20,8 @@ bib-tex: |
    journal={Nature Reviews Physics},
    publisher={Springer Science and Business Media LLC},
    author={Cranmer, Kyle and Kanwar, Gurtej and Racanière, Sébastien and Rezende, Danilo J. and Shanahan, Phiala E.},
+   eprint={2309.01156},
+   archivePrefix={arXiv},
    year={2023},
    month=aug, pages={526–535}
   }

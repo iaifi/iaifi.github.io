@@ -11,11 +11,16 @@ code: https://github.com/ML4GW/gwak
 publication-date: 2024-01-25
 bib-tex: |
   @article{raikman2023gwakgravitationalwaveanomalousknowledge,
-      title={GWAK: Gravitational-Wave Anomalous Knowledge with Recurrent Autoencoders},
-      author={Ryan Raikman and Eric A. Moreno and Ekaterina Govorkova and Ethan J Marx and Alec Gunny and William Benoit and Deep Chatterjee and Rafia Omer and Muhammed Saleem and Dylan S Rankin and Michael W Coughlin and Philip C Harris and Erik Katsavounidis},
-      year={2023},
-      eprint={2309.11537},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.IM},
-      url={https://arxiv.org/abs/2309.11537},
+   doi = {10.1007/JHEP01(2024)158},
+   url = {https://doi.org/10.1007/JHEP01(2024)158},
+   year = {2024},
+   month = {jan},
+   publisher = {Springer},
+   volume = {2024},
+   number = {158},
+   author = {Raikman, Ryan  and Moreno, Eric A. and Govorkova, Ekaterina and Marx, Ethan J and Gunny, Alec and Benoit, William and Chatterjee, Deep and Omer, Rafia and Saleem, Muhammed and Rankin, Dylan S and Coughlin, Michael W and Harris, Philip C and Katsavounidis, Erik},
+   title = {GWAK: Gravitational-Wave Anomalous Knowledge with Recurrent Autoencoders},
+   journal = {Journal of High Energy Physics},
+   eprint={2309.11537},
+   archivePrefix={arXiv},
   }

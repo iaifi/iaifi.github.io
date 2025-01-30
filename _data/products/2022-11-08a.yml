@@ -20,6 +20,8 @@ bib-tex: |
    journal={The Astrophysical Journal Letters},
    publisher={American Astronomical Society},
    author={Hiramatsu, Daichi and Berger, Edo and Metzger, Brian D. and Gomez, Sebastian and Bieryla, Allyson and Arcavi, Iair and Howell, D. Andrew and Mckinven, Ryan and Tominaga, Nozomu},
+   eprint={2211.03974},
+   archivePrefix={arXiv},
    year={2023},
    month=apr, pages={L28}
   }

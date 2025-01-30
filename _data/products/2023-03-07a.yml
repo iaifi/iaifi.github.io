@@ -9,3 +9,20 @@ doi: https://doi.org/10.1103/PhysRevD.108.014504
 nsf-par: 10505443
 code: 
 publication-date: 2023-07-13
+bib-tex: |
+  @article{PhysRevD.108.014504,
+   title = {Exploring the $CP$-violating Dashen phase in the Schwinger model with tensor networks},
+   author = {Funcke, Lena and Jansen, Karl and K\"uhn, Stefan},
+   journal = {Phys. Rev. D},
+   volume = {108},
+   issue = {1},
+   pages = {014504},
+   numpages = {8},
+   year = {2023},
+   month = {Jul},
+   publisher = {American Physical Society},
+   doi = {10.1103/PhysRevD.108.014504},
+   url = {https://link.aps.org/doi/10.1103/PhysRevD.108.014504},
+   eprint={2303.03799},
+   archivePrefix={arXiv},
+  }

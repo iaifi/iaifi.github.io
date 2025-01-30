@@ -9,3 +9,19 @@ doi: https://doi.org/10.1103/PhysRevLett.131.041801
 nsf-par:
 code: 
 publication-date: 2023-07-26
+bib-tex: |
+  @article{CMS_boosted-higgs,
+      doi = {10.1103/PhysRevLett.131.041801},
+      url = {https://doi.org/10.1103/PhysRevLett.131.041801},
+      year = {2023},
+      month = {jul},
+      publisher = {APS},
+      volume = {131},
+      number = {041801},
+      author = {CMS Collaboration},
+      title = {Search for boosted Higgs boson decay to a charm quark-antiquark pair in proton-proton collisions at s√ = 13 TeV},
+      journal = {Physical Review Letters},
+      eprint={2211.14181},
+      archivePrefix={arXiv},
+      primaryClass={math.GT},
+  }

@@ -9,3 +9,11 @@ doi: https://openreview.net/pdf?id=XGFy3oFu7h
 nsf-par:
 code: 
 publication-date: 2023-11-28
+bib-tex: |
+  @inproceedings{liu2023growing,
+   title={Growing Brains in Recurrent Neural Networks for Multiple Cognitive Tasks},
+   author={Ziming Liu and Mikail Khona and Ila Fiete and Max Tegmark},
+   booktitle={NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations},
+   year={2023},
+   url={https://openreview.net/forum?id=XGFy3oFu7h},
+  }

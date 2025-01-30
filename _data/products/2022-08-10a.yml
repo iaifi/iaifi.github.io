@@ -20,6 +20,8 @@ bib-tex: |
    journal={Journal of High Energy Physics},
    publisher={Springer Science and Business Media LLC},
    author={Park, Sang Eon and Harris, Philip and Ostdiek, Bryan},
+   eprint={2208.05484},
+   archivePrefix={arXiv},
    year={2023},
    month=jul
   }

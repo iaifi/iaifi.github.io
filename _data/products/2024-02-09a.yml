@@ -20,6 +20,8 @@ bib-tex: |
    journal={Journal of High Energy Physics},
    publisher={Springer Science and Business Media LLC},
    author={Lin, Joshua and Luo, Di and Yao, Xiaojun and Shanahan, Phiala E.},
+   eprint={2402.06607},
+   archivePrefix={arXiv},
    year={2024},
    month=jun
   }
