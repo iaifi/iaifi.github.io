@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-01-13
+title: "Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport"
+authors: "Brendan Mallery, James M. Murphy, Shuchin Aeron"
+abstract: "We consider synthesis and analysis of probability measures using the entropy-regularized Wasserstein-2 cost and its unbiased version, the Sinkhorn divergence. The synthesis problem consists of computing the barycenter, with respect to these costs, of m reference measures given a set of coefficients belonging to the m-dimensional simplex. The analysis problem consists of finding the coefficients for the closest barycenter in the Wasserstein-2 distance to a given measure μ. Under the weakest assumptions on the measures thus far in the literature, we compute the derivative of the entropy-regularized Wasserstein-2 cost. We leverage this to establish a characterization of regularized barycenters as solutions to a fixed-point equation for the average of the entropic maps from the barycenter to the reference measures. This characterization yields a finite-dimensional, convex, quadratic program for solving the analysis problem when μ is a barycenter. It is shown that these coordinates, as well as the value of the barycenter functional, can be estimated from samples with dimension-independent rates of convergence, a hallmark of entropy-regularized optimal transport, and we verify these rates experimentally. We also establish that barycentric coordinates are stable with respect to perturbations in the Wasserstein-2 metric, suggesting a robustness of these coefficients to corruptions. We employ the barycentric coefficients as features for classification of corrupted point cloud data, and show that compared to neural network baselines, our approach is more efficient in small training data regimes."
+arxiv: "2501.07446"
+journal:
+doi:
+nsf-par:
+code: https://github.com/brendanmallery9/Entropic-Barycenters
+publication-date:
+bib-tex: |
+  @article{mallery2025synthesisanalysisdataprobability,
+      title={Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport},
+      author={Brendan Mallery and James M. Murphy and Shuchin Aeron},
+      year={2025},
+      eprint={2501.07446},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2501.07446},
+  }

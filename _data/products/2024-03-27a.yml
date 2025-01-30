@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2024-03-27
+title: "A machine-learning pipeline for real-time detection of gravitational waves from compact binary coalescences"
+authors: "Ethan Marx, William Benoit, Alec Gunny, Rafia Omer, Deep Chatterjee, Ricco C. Venterea, Lauren Wills, Muhammed Saleem, Eric Moreno, Ryan Raikman, Ekaterina Govorkova, Dylan Rankin, Michael W. Coughlin, Philip Harris, Erik Katsavounidis"
+abstract: "The promise of multi-messenger astronomy relies on the rapid detection of gravitational waves at very low latencies (O(1/,s)) in order to maximize the amount of time available for follow-up observations. In recent years, neural-networks have demonstrated robust non-linear modeling capabilities and millisecond-scale inference at a comparatively small computational footprint, making them an attractive family of algorithms in this context. However, integration of these algorithms into the gravitational-wave astrophysics research ecosystem has proven non-trivial. Here, we present the first fully machine learning-based pipeline for the detection of gravitational waves from compact binary coalescences (CBCs) running in low-latency. We demonstrate this pipeline to have a fraction of the latency of traditional matched filtering search pipelines while achieving state-of-the-art sensitivity to higher-mass stellar binary black holes."
+arxiv: "2403.18661"
+journal:
+doi:
+nsf-par:
+code: https://github.com/ml4gw/aframe
+publication-date:
+bib-tex: |
+  @article{marx2024machinelearningpipelinerealtimedetection,
+      title={A machine-learning pipeline for real-time detection of gravitational waves from compact binary coalescences},
+      author={Ethan Marx and William Benoit and Alec Gunny and Rafia Omer and Deep Chatterjee and Ricco C. Venterea and Lauren Wills and Muhammed Saleem and Eric Moreno and Ryan Raikman and Ekaterina Govorkova and Dylan Rankin and Michael W. Coughlin and Philip Harris and Erik Katsavounidis},
+      year={2024},
+      eprint={2403.18661},
+      archivePrefix={arXiv},
+      primaryClass={gr-qc},
+      url={https://arxiv.org/abs/2403.18661},
+  }

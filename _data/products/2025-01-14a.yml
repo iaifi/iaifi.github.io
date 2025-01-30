@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2025-01-14
+title: "Lake- and Surface-Based Detectors for Forward Neutrino Physics"
+authors: "Nicholas W. Kamp, Carlos A. Argüelles, Albrecht Karle, Jennifer Thomas, Tianlu Yuan"
+abstract: "We propose two medium-baseline, kiloton-scale neutrino experiments to study neutrinos from LHC proton-proton collisions: SINE, a surface-based scintillator panel detector observing muon neutrinos from the CMS interaction point, and UNDINE, a water Cherenkov detector submerged in lake Geneva observing all-flavor neutrinos from LHCb. Using a Monte Carlo simulation, we estimate millions of neutrino interactions during the high-luminosity LHC era. We show that these datasets can constrain neutrino cross sections, charm production in pp collisions, and strangeness enhancement as a solution to the cosmic-ray muon puzzle. SINE and UNDINE thus offer a cost-effective medium-baseline complement to the proposed short-baseline forward physics facility."
+arxiv: "2501.08278"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{kamp2025lakesurfacebaseddetectorsforward,
+      title={Lake- and Surface-Based Detectors for Forward Neutrino Physics},
+      author={Nicholas W. Kamp and Carlos A. Argüelles and Albrecht Karle and Jennifer Thomas and Tianlu Yuan},
+      year={2025},
+      eprint={2501.08278},
+      archivePrefix={arXiv},
+      primaryClass={hep-ex},
+      url={https://arxiv.org/abs/2501.08278},
+  }
