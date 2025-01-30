@@ -5,7 +5,16 @@ authors: Charlotte Loh, Rumen Dangovski, Shivchander Sudalairaj, Seungwook Han, 
 abstract: "State-of-the-art (SOTA) semi-supervised learning (SSL) methods have been highly successful in leveraging a mix of labeled and unlabeled data, often via self-training or pseudo-labeling. During pseudo-labeling, the model's predictions on unlabeled data are used for training and may result in confirmation bias where the model reinforces its own mistakes. In this work, we show that SOTA SSL methods often suffer from confirmation bias and demonstrate that this is often a result of using a poorly calibrated classifier for pseudo labeling. We introduce BaM-SSL, an efficient Bayesian Model averaging technique that improves uncertainty quantification in SSL methods with limited computational or memory overhead. We demonstrate that BaM-SSL mitigates confirmation bias in SOTA SSL methods across standard vision benchmarks of CIFAR-10, CIFAR-100, giving up to 16% improvement in test accuracy on the CIFAR-100 with 400 labels benchmark. Furthermore, we also demonstrate their effectiveness in additional realistic and challenging problems, such as class-imbalanced datasets and in photonics science."
 arxiv:
 journal: Transactions on Machine Learning Research 2023, Submission number 1013
-doi: https://openreview.net/attachment?id=PRrKOaDQtQ&name=supplementary_material
+doi: https://openreview.net/forum?id=PRrKOaDQtQ&
 nsf-par: 10505512
 code: https://github.com/clott3/BaM-SSL
 publication-date: 2023-09-05
+bib-tex: |
+  @article{loh2023mitigating,
+   title={Mitigating Confirmation Bias in Semi-supervised Learning via Efficient Bayesian Model Averaging},
+   author={Charlotte Loh and Rumen Dangovski and Shivchander Sudalairaj and Seungwook Han and Ligong Han and Leonid Karlinsky and Marin Soljacic and Akash Srivastava},
+   journal={Transactions on Machine Learning Research},
+   issn={2835-8856},
+   year={2023},
+   url={https://openreview.net/forum?id=PRrKOaDQtQ},
+  }

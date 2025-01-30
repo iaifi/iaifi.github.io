@@ -20,6 +20,8 @@ bib-tex: |
    journal={The Astrophysical Journal},
    publisher={American Astronomical Society},
    author={Mudur, Nayantara and Park, Core Francisco and Finkbeiner, Douglas P.},
+   eprint={2212.04514},
+   archivePrefix={arXiv},
    year={2023},
    month=may, pages={47}
   }

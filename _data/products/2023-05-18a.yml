@@ -20,6 +20,8 @@ bib-tex: |
    journal={The Astrophysical Journal},
    publisher={American Astronomical Society},
    author={Hiramatsu, Daichi and Matsumoto, Tatsuya and Berger, Edo and Ransome, Conor and Villar, V. Ashley and Gomez, Sebastian and Cendes, Yvette and De, Kishalay and Bostroem, K. Azalee and Farah, Joseph and Howell, D. Andrew and McCully, Curtis and Newsome, Megan and Padilla Gonzalez, Estefania and Pellegrino, Craig and Suzuki, Akihiro and Terreran, Giacomo},
+   eprint={2305.11168},
+   archivePrefix={arXiv},
    year={2024},
    month=mar, pages={181}
   }

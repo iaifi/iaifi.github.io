@@ -1,11 +1,28 @@
 type: paper
 iaifi-thrust: A
 title: "Radio excess from stimulated dark matter decay"
-authors: Andrea Caputo,Hongwan Liu, Siddharth Mishra-Sharma,Maxim Pospelov, Joshua T. Ruderman
+authors: Andrea Caputo,Hongwan Liu, Siddharth Mishra-Sharma, Maxim Pospelov, Joshua T. Ruderman
 abstract: "Despite an intense theoretical and experimental effort over the past decade, observations of the extragalactic radio background at multiple frequencies below 10 GHz are not understood in terms of known radio sources and may represent a sign of new physics. In this paper, we identify a new class of dark sector models with feebly interacting particles, where dark photons oscillate into ordinary photons that contribute to the radio background. Our scenario can explain both the magnitude and the spectral index of the radio background, while being consistent with other cosmological and astrophysical constraints. These models predict new relativistic degrees of freedom and spectral distortions of the cosmic microwave background, which could be detected in the next generation of experiments."
-arxiv:
-journal: Physical REview D, 2023, Volume 107, Issue 12
-doi: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123033
+arxiv: 2206.07713
+journal: Physical Review D, 2023, Volume 107, Issue 12, 2023
+doi: https://doi.org/10.1103/PhysRevD.107.123033
 nsf-par:
 code: 
 publication-date: 2023-06-30
+bib-tex: |
+  @article{PhysRevD.107.123033,
+   title = {Radio excess from stimulated dark matter decay},
+   author = {Caputo, Andrea and Liu, Hongwan and Mishra-Sharma, Siddharth and Pospelov, Maxim and Ruderman, Joshua T.},
+   journal = {Phys. Rev. D},
+   volume = {107},
+   issue = {12},
+   pages = {123033},
+   numpages = {21},
+   year = {2023},
+   month = {Jun},
+   publisher = {American Physical Society},
+   doi = {10.1103/PhysRevD.107.123033},
+   url = {https://link.aps.org/doi/10.1103/PhysRevD.107.123033},
+   eprint={2206.07713},
+   archivePrefix={arXiv},
+  }

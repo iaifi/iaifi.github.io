@@ -7,7 +7,7 @@ arxiv: "2208.12825"
 journal: Physical Review D, 202, Volume 107, Issue 4
 doi: https://doi.org/10.1103/PhysRevD.107.043015
 nsf-par: 10405283
-code: 
+code: https://github.com/trivnguyen/dsph_gnn
 publication-date: 2023-02-10
 bib-tex: |
   @article{Nguyen_2023,
@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Nguyen, Tri and Mishra-Sharma, Siddharth and Williams, Reuel and Necib, Lina},
+   eprint={2208.12825},
+   archivePrefix={arXiv},
    year={2023},
    month=feb
   }

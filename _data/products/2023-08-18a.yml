@@ -20,6 +20,8 @@ bib-tex: |
    journal={Monthly Notices of the Royal Astronomical Society},
    publisher={Oxford University Press (OUP)},
    author={Akhmetzhanova, Aizhan and Mishra-Sharma, Siddharth and Dvorkin, Cora},
+   eprint={2308.09751},
+   archivePrefix={arXiv},
    year={2023},
    month=nov, pages={7459–7481}
   }

@@ -7,7 +7,7 @@ arxiv: "2208.14995"
 journal: Nature Communications
 doi: https://doi.org/10.1038/s41467-023-40325-7
 nsf-par: 10472296
-code: 
+code: https://github.com/peterparity/conservation-laws-manifold-learning
 publication-date: 2023-07-07
 bib-tex: |
   @article{Lu_2023,
@@ -20,6 +20,8 @@ bib-tex: |
    journal={Nature Communications},
    publisher={Springer Science and Business Media LLC},
    author={Lu, Peter Y. and Dangovski, Rumen and Soljačić, Marin},
+   eprint={2208.14995},
+   archivePrefix={arXiv},
    year={2023},
    month=aug
   }

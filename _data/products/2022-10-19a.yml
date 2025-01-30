@@ -20,6 +20,8 @@ bib-tex: |
    journal={The Astrophysical Journal},
    publisher={American Astronomical Society},
    author={Gomez, Sebastian and Berger, Edo and Blanchard, Peter K. and Hosseinzadeh, Griffin and Nicholl, Matt and Hiramatsu, Daichi and Villar, V. Ashley and Yin, Yao},
+   eprint={2210.10811},
+   archivePrefix={arXiv},
    year={2023},
    month=jun, pages={114}
   }

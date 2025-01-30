@@ -20,6 +20,8 @@ bib-tex: |
    journal={Monthly Notices of the Royal Astronomical Society},
    publisher={Oxford University Press (OUP)},
    author={Zhang, Gemma and Şengül, Atınç Cağan and Dvorkin, Cora},
+   eprint={2308.09739},
+   archivePrefix={arXiv},
    year={2023},
    month=nov, pages={4183–4192}
   }

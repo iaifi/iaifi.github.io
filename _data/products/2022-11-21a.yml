@@ -20,6 +20,8 @@ bib-tex: |
    journal={Science Robotics},
    publisher={American Association for the Advancement of Science (AAAS)},
    author={Chen, Tao and Tippur, Megha and Wu, Siyang and Kumar, Vikash and Adelson, Edward and Agrawal, Pulkit},
+   eprint={2211.11744},
+   archivePrefix={arXiv},
    year={2023},
    month=nov
   }

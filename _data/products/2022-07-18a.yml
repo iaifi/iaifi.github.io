@@ -4,7 +4,7 @@ title: "Gauge-equivariant flow models for sampling in lattice field theories wit
 authors: Ryan Abbott, Michael S. Albergo, Denis Boyda, Kyle Cranmer, Daniel C. Hackett, Gurtej Kanwar, Sébastien Racanière, Danilo J. Rezende, Fernando Romero-López, Phiala E. Shanahan, Betsy Tian, Julian M. Urban
 abstract: "This work presents gauge-equivariant architectures for flow-based sampling in fermionic lattice field theories using pseudofermions as stochastic estimators for the fermionic determinant. This is the default approach in state-of-the-art lattice field theory calculations, making this development critical to the practical application of flow models to theories such as QCD. Methods by which flow-based sampling approaches can be improved via standard techniques such as even/odd preconditioning and the Hasenbusch factorization are also outlined. Numerical demonstrations in two-dimensional U(1) and SU(3) gauge theories with Nf=2 flavors of fermions are provided."
 arxiv: "2207.08945"
-journal: Physical REview D, 2022, Volume 106, Issue 7
+journal: Physical Review D, 2022, Volume 106, Issue 7
 doi: https://doi.org/10.1103/PhysRevD.106.074506
 nsf-par:
 code: 
@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Abbott, Ryan and Albergo, Michael S. and Boyda, Denis and Cranmer, Kyle and Hackett, Daniel C. and Kanwar, Gurtej and Racanière, Sébastien and Rezende, Danilo J. and Romero-López, Fernando and Shanahan, Phiala E. and Tian, Betsy and Urban, Julian M.},
+   eprint={2207.08945},
+   archivePrefix={arXiv},
    year={2022},
    month=oct
   }

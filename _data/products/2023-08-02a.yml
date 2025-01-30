@@ -19,6 +19,8 @@ bib-tex: |
    journal={Astronomy \& Astrophysics},
    publisher={EDP Sciences},
    author={Edenhofer, Gordian and Zucker, Catherine and Frank, Philipp and Saydjari, Andrew K. and Speagle, Joshua S. and Finkbeiner, Douglas and Enßlin, Torsten A.},
+   eprint={2308.01295},
+   archivePrefix={arXiv},
    year={2024},
    month=may, pages={A82}
   }

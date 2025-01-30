@@ -7,7 +7,7 @@ arxiv: "2207.12511"
 journal: Monthly Notices of the Royal Astronomical Society, 2023, Volume 520, Issue 4
 doi: https://doi.org/10.1093/mnras/stad528
 nsf-par: 10404286
-code: 
+code: https://github.com/cshallue/recon-cnn
 publication-date: 2023-02-20
 bib-tex: |
   @article{Shallue_2023,
@@ -20,6 +20,8 @@ bib-tex: |
    journal={Monthly Notices of the Royal Astronomical Society},
    publisher={Oxford University Press (OUP)},
    author={Shallue, Christopher J and Eisenstein, Daniel J},
+   eprint={2207.12511},
+   archivePrefix={arXiv},
    year={2023},
    month=feb, pages={6256–6267}
   }

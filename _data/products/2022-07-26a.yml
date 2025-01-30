@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Bariuan, Luis Gabriel C. and Slatyer, Tracy R.},
+   eprint={2207.13097},
+   archivePrefix={arXiv},
    year={2023},
    month=may
   }

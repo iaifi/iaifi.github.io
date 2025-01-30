@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review D},
    publisher={American Physical Society (APS)},
    author={Pawlowski, Jan M. and Schneider, Coralie S. and Turnwald, Jonas and Urban, Julian M. and Wink, Nicolas},
+   eprint={2212.01113},
+   archivePrefix={arXiv},
    year={2023},
    month=oct
   }

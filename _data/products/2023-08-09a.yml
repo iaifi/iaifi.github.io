@@ -20,6 +20,8 @@ bib-tex: |
    journal={Monthly Notices of the Royal Astronomical Society},
    publisher={Oxford University Press (OUP)},
    author={Nguyen, Tri and Modi, Chirag and Yung, L Y Aaron and Somerville, Rachel S},
+   eprint={2308.05145},
+   archivePrefix={arXiv},
    year={2024},
    month=aug, pages={3144–3163}
   }

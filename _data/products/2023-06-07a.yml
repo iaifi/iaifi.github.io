@@ -20,6 +20,8 @@ bib-tex: |
    journal={The Astrophysical Journal Letters},
    publisher={American Astronomical Society},
    author={Kilpatrick, Charles D. and Foley, Ryan J. and Jacobson-Galán, Wynn V. and Piro, Anthony L. and Smartt, Stephen J. and Drout, Maria R. and Gagliano, Alexander and Gall, Christa and Hjorth, Jens and Jones, David O. and Mandel, Kaisey S. and Margutti, Raffaella and Ramirez-Ruiz, Enrico and Ransome, Conor L. and Villar, V. Ashley and Coulter, David A. and Gao, Hua and Matthews, David Jacob and Taggart, Kirsty and Zenati, Yossef},
+   eprint={2306.04722},
+   archivePrefix={arXiv},
    year={2023},
    month=jul, pages={L23}
   }

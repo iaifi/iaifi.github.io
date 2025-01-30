@@ -20,6 +20,8 @@ bib-tex: |
    journal={Physical Review Letters},
    publisher={American Physical Society (APS)},
    author={Martyn, John M. and Najafi, Khadijeh and Luo, Di},
+   eprint={2212.00782},
+   archivePrefix={arXiv},
    year={2023},
    month=aug
   }

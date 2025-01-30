@@ -20,6 +20,8 @@ bib-tex: |
    journal={SciPost Physics},
    publisher={Stichting SciPost},
    author={Buhmann, Erik and Kasieczka, Gregor and Thaler, Jesse},
+   eprint={2301.08128},
+   archivePrefix={arXiv},
    year={2023},
    month=oct
   }

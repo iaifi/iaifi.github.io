@@ -20,6 +20,8 @@ bib-tex: |
    journal={Journal of High Energy Physics},
    publisher={Springer Science and Business Media LLC},
    author={Ba, Demba and Dogra, Akshunna S. and Gambhir, Rikab and Tasissa, Abiy and Thaler, Jesse},
+   eprint={2302.12266},
+   archivePrefix={arXiv},
    year={2023},
    month=jun
   }

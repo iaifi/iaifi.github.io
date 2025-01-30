@@ -20,6 +20,8 @@ bib-tex: |
    journal={The Astrophysical Journal Letters},
    publisher={American Astronomical Society},
    author={Hiramatsu, Daichi and Tsuna, Daichi and Berger, Edo and Itagaki, Koichi and Goldberg, Jared A. and Gomez, Sebastian and Kishalay De and Hosseinzadeh, Griffin and Bostroem, K. Azalee and Brown, Peter J. and Arcavi, Iair and Bieryla, Allyson and Blanchard, Peter K. and Esquerdo, Gilbert A. and Farah, Joseph and Howell, D. Andrew and Matsumoto, Tatsuya and McCully, Curtis and Newsome, Megan and Gonzalez, Estefania Padilla and Pellegrino, Craig and Rhee, Jaehyon and Terreran, Giacomo and Vinkó, József and Wheeler, J. Craig},
+   eprint={2307.03165},
+   archivePrefix={arXiv},
    year={2023},
    month=sep, pages={L8}
   }
