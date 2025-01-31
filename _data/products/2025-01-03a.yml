@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-01-03
+title: "Learning Fricke signs from Maass form Coefficients"
+authors: "Joanna Bieri, Giorgi Butbaia, Edgar Costa, Alyson Deines, Kyu-Hwan Lee, David Lowry-Duda, Thomas Oliver, Yidi Qi, Tamara Veenstra"
+abstract: "In this paper, we conduct a data-scientific investigation of Maass forms. We find that averaging the Fourier coefficients of Maass forms with the same Fricke sign reveals patterns analogous to the recently discovered 'murmuration' phenomenon, and that these patterns become more pronounced when parity is incorporated as an additional feature. Approximately 43% of the forms in our dataset have an unknown Fricke sign. For the remaining forms, we employ Linear Discriminant Analysis (LDA) to machine learn their Fricke sign, achieving 96% (resp. 94%) accuracy for forms with even (resp. odd) parity. We apply the trained LDA model to forms with unknown Fricke signs to make predictions. The average values based on the predicted Fricke signs are computed and compared to those for forms with known signs to verify the reasonableness of the predictions. Additionally, a subset of these predictions is evaluated against heuristic guesses provided by Hejhal's algorithm, showing a match approximately 95% of the time. We also use neural networks to obtain results comparable to those from the LDA model."
+arxiv: "2501.02105"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{bieri2025learningfrickesignsmaass,
+      title={Learning Fricke signs from Maass form Coefficients},
+      author={Joanna Bieri and Giorgi Butbaia and Edgar Costa and Alyson Deines and Kyu-Hwan Lee and David Lowry-Duda and Thomas Oliver and Yidi Qi and Tamara Veenstra},
+      year={2025},
+      eprint={2501.02105},
+      archivePrefix={arXiv},
+      primaryClass={math.NT},
+      url={https://arxiv.org/abs/2501.02105},
+  }

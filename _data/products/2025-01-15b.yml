@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-01-15
+title: "Average-Reward Reinforcement Learning with Entropy Regularization"
+authors: "Jacob Adamczyk, Volodymyr Makarenko, Stas Tiomkin, Rahul V. Kulkarni"
+abstract: "The average-reward formulation of reinforcement learning (RL) has drawn increased interest in recent years due to its ability to solve temporally-extended problems without discounting. Independently, RL algorithms have benefited from entropy-regularization: an approach used to make the optimal policy stochastic, thereby more robust to noise. Despite the distinct benefits of the two approaches, the combination of entropy regularization with an average-reward objective is not well-studied in the literature and there has been limited development of algorithms for this setting. To address this gap in the field, we develop algorithms for solving entropy-regularized average-reward RL problems with function approximation. We experimentally validate our method, comparing it with existing algorithms on standard benchmarks for RL."
+arxiv: "2501.09080"
+journal:
+doi:
+nsf-par:
+code: https://anonymous.4open.science/r/u-chi-learning-521B/README.md
+publication-date:
+bib-tex: |
+  @article{adamczyk2025averagerewardreinforcementlearningentropy,
+      title={Average-Reward Reinforcement Learning with Entropy Regularization},
+      author={Jacob Adamczyk and Volodymyr Makarenko and Stas Tiomkin and Rahul V. Kulkarni},
+      year={2025},
+      eprint={2501.09080},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2501.09080},
+  }

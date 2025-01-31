@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2025-01-28
+title: "QCD Theory meets Information Theory"
+authors: "Benoît Assi, Stefan Höche, Kyle Lee, Jesse Thaler"
+abstract: "We present a novel technique to incorporate precision calculations from quantum chromodynamics into fully differential particle-level Monte-Carlo simulations. By minimizing an information-theoretic quantity subject to constraints, we achieve consistency with the theory input and its estimated systematic uncertainties. Our method can be applied to arbitrary observables known from precision calculations, including multiple observables simultaneously. It generates strictly positive weights, thus offering a clear path to statistically powerful and theoretically precise computations for current and future collider experiments. As a proof of concept, we apply our technique to event-shape observables at electron-positron colliders, leveraging existing precision calculations of thrust. Our analysis highlights the importance of logarithmic moments of event shapes, which have not been previously studied in the collider physics literature."
+arxiv: "2501.17219"
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @article{assi2025qcdtheorymeetsinformation,
+      title={QCD Theory meets Information Theory},
+      author={Benoît Assi and Stefan Höche and Kyle Lee and Jesse Thaler},
+      year={2025},
+      eprint={2501.17219},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2501.17219},
+  }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-01-15
+title: "Inferring Transition Dynamics from Value Functions"
+authors: "Jacob Adamczyk"
+abstract: "In reinforcement learning, the value function is typically trained to solve the Bellman equation, which connects the current value to future values. This temporal dependency hints that the value function may contain implicit information about the environment's transition dynamics. By rearranging the Bellman equation, we show that a converged value function encodes a model of the underlying dynamics of the environment. We build on this insight to propose a simple method for inferring dynamics models directly from the value function, potentially mitigating the need for explicit model learning. Furthermore, we explore the challenges of next-state identifiability, discussing conditions under which the inferred dynamics model is well-defined. Our work provides a theoretical foundation for leveraging value functions in dynamics modeling and opens a new avenue for bridging model-free and model-based reinforcement learning."
+arxiv: "2501.09081"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{adamczyk2025inferringtransitiondynamicsvalue,
+      title={Inferring Transition Dynamics from Value Functions},
+      author={Jacob Adamczyk},
+      year={2025},
+      eprint={2501.09081},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2501.09081},
+  }

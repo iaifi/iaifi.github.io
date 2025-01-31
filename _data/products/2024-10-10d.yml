@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2024-10-10
+title: "Dirac Traces and the Tutte Polynomial"
+authors: "Joshua Lin"
+abstract: "Perturbative calculations involving fermion loops in quantum field theories require tracing over Dirac matrices. A simple way to regulate the divergences that generically appear in these calculations is dimensional regularisation, which has the consequence of replacing 4-dimensional Dirac matrices with d-dimensional counterparts for arbitrary complex values of d. In this work, a connection between traces of d-dimensional Dirac matrices and computations of the Tutte polynomial of associated graphs is proven. The time complexity of computing Dirac traces is analysed by this connection, and improvements to algorithms for computing Dirac traces are proposed."
+arxiv: "2410.08161"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{lin2024diractracestuttepolynomial,
+      title={Dirac Traces and the Tutte Polynomial},
+      author={Joshua Lin},
+      year={2024},
+      eprint={2410.08161},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2410.08161},
+  }
