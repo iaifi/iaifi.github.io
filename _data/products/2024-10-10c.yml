@@ -5,18 +5,19 @@ title: "Efficient Dictionary Learning with Switch Sparse Autoencoders"
 authors: "Anish Mudide, Joshua Engels, Eric J. Michaud, Max Tegmark, Christian Schroeder de Witt"
 abstract: "Sparse autoencoders (SAEs) are a recent technique for decomposing neural network activations into human-interpretable features. However, in order for SAEs to identify all features represented in frontier models, it will be necessary to scale them up to very high width, posing a computational challenge. In this work, we introduce Switch Sparse Autoencoders, a novel SAE architecture aimed at reducing the compute cost of training SAEs. Inspired by sparse mixture of experts models, Switch SAEs route activation vectors between smaller 'expert' SAEs, enabling SAEs to efficiently scale to many more features. We present experiments comparing Switch SAEs with other SAE architectures, and find that Switch SAEs deliver a substantial Pareto improvement in the reconstruction vs. sparsity frontier for a given fixed training compute budget. We also study the geometry of features across experts, analyze features duplicated across experts, and verify that Switch SAE features are as interpretable as features found by other SAE architectures."
 arxiv: "2410.08201"
-journal:
-doi:
+journal: "ICLR, 2025"
+doi: "https://openreview.net/forum?id=k2ZVAzVeMP"
 nsf-par:
 code: https://github.com/amudide/switch_sae
-publication-date:
+publication-date: 2024-01-22
 bib-tex: |
-  @article{mudide2024efficientdictionarylearningswitch,
-      title={Efficient Dictionary Learning with Switch Sparse Autoencoders},
-      author={Anish Mudide and Joshua Engels and Eric J. Michaud and Max Tegmark and Christian Schroeder de Witt},
-      year={2024},
-      eprint={2410.08201},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.08201},
+  @inproceedings{
+  anonymous2025efficient,
+  title={Efficient Dictionary Learning with Switch Sparse Autoencoders},
+  author={Anonymous},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025},
+  url={https://openreview.net/forum?id=k2ZVAzVeMP},
+  eprint={2410.08201},
+  archivePrefix={arXiv},
   }

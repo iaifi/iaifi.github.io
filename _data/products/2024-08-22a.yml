@@ -4,18 +4,22 @@ title: "Multiple testing for signal-agnostic searches of new physics with machin
 authors: "Gaia Grosso, Marco Letizia"
 abstract: "In this work, we address the question of how to enhance signal-agnostic searches by leveraging multiple testing strategies. Specifically, we consider hypothesis tests relying on machine learning, where model selection can introduce a bias towards specific families of new physics signals. We show that it is beneficial to combine different tests, characterised by distinct choices of hyperparameters, and that performances comparable to the best available test are generally achieved while providing a more uniform response to various types of anomalies. Focusing on the New Physics Learning Machine, a methodology to perform a signal-agnostic likelihood-ratio test, we explore a number of approaches to multiple testing, such as combining p-values and aggregating test statistics."
 arxiv: "2408.12296"
-journal:
-doi:
+journal: "The European Physical Journal, Volume 85, article number 4, 2025"
+doi: "https://doi.org/10.1140/epjc/s10052-024-13722-5"
 nsf-par:
 code: https://github.com/mletizia/multiple-testing-nplm
-publication-date:
+publication-date: 2025-01-04
 bib-tex: |
   @article{grosso2024multipletestingsignalagnosticsearches,
-      title={Multiple testing for signal-agnostic searches of new physics with machine learning},
-      author={Gaia Grosso and Marco Letizia},
-      year={2024},
-      eprint={2408.12296},
-      archivePrefix={arXiv},
-      primaryClass={hep-ph},
-      url={https://arxiv.org/abs/2408.12296},
+  author={Gaia Grosso and Marco Letizia},
+  title={Multiple testing for signal-agnostic searches of new physics with machine learning},
+  journal={The European Physical Journal},
+  volume={85},
+  year={2025},
+  number={4},
+  doi={10.1140/epjc/s10052-024-13722-5}
+  url={https://doi.org/10.1140/epjc/s10052-024-13722-5}
+  eprint={2408.12296},
+  archivePrefix={arXiv},
   }
+
