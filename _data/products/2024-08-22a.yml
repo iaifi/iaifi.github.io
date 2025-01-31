@@ -17,8 +17,8 @@ bib-tex: |
   volume={85},
   year={2025},
   number={4},
-  doi={10.1140/epjc/s10052-024-13722-5}
-  url={https://doi.org/10.1140/epjc/s10052-024-13722-5}
+  doi={10.1140/epjc/s10052-024-13722-5},
+  url={https://doi.org/10.1140/epjc/s10052-024-13722-5},
   eprint={2408.12296},
   archivePrefix={arXiv},
   }

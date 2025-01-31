@@ -11,15 +11,15 @@ code: https://github.com/rikab/SPECTER
 publication-date: 2024-12-30
 bib-tex: |
   @article{gambhir2024specterefficientevaluationspectral,
-  author={Rikab Gambhir and Andrew J. Larkoski and Jesse Thaler},
-  title={SPECTER: Efficient Evaluation of the Spectral EMD},
-  journal={Journal of High Energy Physics},
-  volume={2024},
-  year={2025},
-  number={219},
-  doi={10.1007/JHEP12(2024)219}
-  url={https://doi.org/10.1007/JHEP12(2024)219}
-  eprint={2410.05379},
-  archivePrefix={arXiv},
+   author={Rikab Gambhir and Andrew J. Larkoski and Jesse Thaler},
+   title={SPECTER: Efficient Evaluation of the Spectral EMD},
+   journal={Journal of High Energy Physics},
+   volume={2024},
+   year={2025},
+   number={219},
+   doi={10.1007/JHEP12(2024)219},
+   url={https://doi.org/10.1007/JHEP12(2024)219},
+   eprint={2410.05379},
+   archivePrefix={arXiv},
   }
 

@@ -15,7 +15,7 @@ bib-tex: |
   author={Jonas Spinner and Victor Breso Pla and Pim De Haan and Tilman Plehn and Jesse Thaler and Johann Brehmer},
   booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
   year={2024},
-  url={https://openreview.net/forum?id=X34GKv8sYT}
+  url={https://openreview.net/forum?id=X34GKv8sYT},
   eprint={2405.14806},
   archivePrefix={arXiv},
   }
