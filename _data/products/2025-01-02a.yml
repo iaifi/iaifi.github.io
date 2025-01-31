@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-01-02
+title: "Bootstrapped Reward Shaping"
+authors: "Jacob Adamczyk, Volodymyr Makarenko, Stas Tiomkin, Rahul V. Kulkarni"
+abstract: "In reinforcement learning, especially in sparse-reward domains, many environment steps are required to observe reward information. In order to increase the frequency of such observations, 'potential-based reward shaping' (PBRS) has been proposed as a method of providing a more dense reward signal while leaving the optimal policy invariant. However, the required 'potential function' must be carefully designed with task-dependent knowledge to not deter training performance. In this work, we propose a 'bootstrapped' method of reward shaping, termed BSRS, in which the agent's current estimate of the state-value function acts as the potential function for PBRS. We provide convergence proofs for the tabular setting, give insights into training dynamics for deep RL, and show that the proposed method improves training speed in the Atari suite."
+arxiv: "2501.00989"
+journal:
+doi:
+nsf-par:
+code: https://github.com/JacobHA/ShapedRL
+publication-date:
+bib-tex: |
+  @article{adamczyk2025bootstrappedrewardshaping,
+      title={Bootstrapped Reward Shaping},
+      author={Jacob Adamczyk and Volodymyr Makarenko and Stas Tiomkin and Rahul V. Kulkarni},
+      year={2025},
+      eprint={2501.00989},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2501.00989},
+  }
