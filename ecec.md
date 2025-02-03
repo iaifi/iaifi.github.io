@@ -1,13 +1,13 @@
 ---
 layout: article
-title: Early Career, Equity, and Ethics
+title: Early Career and Ethics
 aside:
   toc: true
 ---
 
-## Early Career and Equity Committee
+## Early Career and Evaluation Committee
 
-The Early Career & Equity Committee (ECEC) serves as an advisory body to IAIFI Management on aspects related to early career researchers and DEI, as well as to oversee the well-being and working environment of all IAIFI members. Their goal is to create an equitable, inclusive, welcoming, and enjoyable place of work, where people of all backgrounds and career stages can feel supported to do their best work and advance forward in their careers in an environment free from discrimination and injustice.
+The Early Career & Evaluation Committee (ECEC) serves as an advisory body to IAIFI Management on aspects related to early career researchers, as well as to oversee the well-being and working environment of all IAIFI members. Their goal is to create a welcoming, and enjoyable place of work, where people of all backgrounds and career stages can feel supported to do their best work and advance forward in their careers in an environment free from discrimination and injustice.
 
 * [View the IAIFI Code of Conduct](/code-of-conduct.html), developed by the ECEC
 * [View the ECEC expectations](https://docs.google.com/document/d/1wmjxpPnLZgVaDj4W_JUr7mtnSFZ9tlfv29GqlE2E1Rg/edit?usp=share_link)

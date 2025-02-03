@@ -5,7 +5,7 @@ title: Advisors
 
 # External Advisory Board
 
-IAIFI's External Advisory Board (EAB) provides project oversight and advice to help ensure that the goals and objectives of the IAIFI are met and also offers guidance toward realizing and honing its vision. The EAB represents a balance of representation in several categories: research interests/expertise, expertise in areas contributing to IAIFI’s strategic goals, and diversity. The inaugural EAB includes experts in AI (both industry and academia), Physics Experiment, Physics Theory, and Astrophysics. It also includes experts with experience in Education and Workforce Development, Outreach, DEI, institute management, and industry.
+IAIFI's External Advisory Board (EAB) provides project oversight and advice to help ensure that the goals and objectives of the IAIFI are met and also offers guidance toward realizing and honing its vision. The EAB represents a balance of representation in categories contributing to IAIFI’s strategic goals. The EAB includes experts in AI (both industry and academia), Physics Experiment, Physics Theory, and Astrophysics. It also includes experts with experience in Education and Workforce Development, Outreach, institute management, and industry.
 
 ## Current Advisors
 

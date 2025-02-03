@@ -32,7 +32,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Past Public Engagement Committee: Carlos Argüelles-Delgado, Brent Nelson, Harold Erbin, Tri Nguyen
 * Primary Contact: [Email Lina Necib (Chair)](mailto:lnecib@mit.edu)
 
-# Community Building and Inclusion
+# Community Building
 * Status: Accepting additional members
 * Brainstorms and plans community building events (such as coffee hours, social events, meet-ups, etc.)
 * Time Commitment: One-hour meeting per month and time spent helping with event setup occasionally
@@ -40,7 +40,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Past Community Building Committee: Matt Schwartz, Mike Williams, Mehmet Demirtas, Niklas Nolte, Fabian Ruehle, Ouail Kitouni
 * Primary Contact: [Email Tracy Slatyer (Chair)](mailto:tslatyer@mit.edu)
 
-# Early Career and Equity 
+# Early Career and Evaluation
 * Status: Will rotate membership in January 2025
 * [View the ECEC expectations](https://docs.google.com/document/d/1wmjxpPnLZgVaDj4W_JUr7mtnSFZ9tlfv29GqlE2E1Rg/edit?usp=sharing)
 * Time Commitment: One-hour meeting per month and occasional email discussion
