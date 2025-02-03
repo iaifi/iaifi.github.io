@@ -39,10 +39,10 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
+  speaker-name: Liu Ziyin
+  speaker-title: Postdoctoral Fellow
+  speaker-affiliation: Research Laboratory of Electronics (MIT) and NTT Research
+  speaker-website: "https://www.mit.edu/~ziyinl/index.html"
   speaker-photo-location:
   start-date-time: "2025-02-25 13:00"
   end-date-time: "2025-02-25 14:00"
@@ -51,8 +51,8 @@
   talk-abstract: "Abstract to come."
   slides-link: ""
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Foundational AI"
+  speaker-gender: "Man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMjVUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
@@ -77,10 +77,10 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
+  speaker-name: Claudio Battiloro
+  speaker-title: Postdoctoral Fellow
+  speaker-affiliation: Harvard T.H. Chan School of Public Health
+  speaker-website: "https://cbattiloro.com/"
   speaker-photo-location:
   start-date-time: "2025-03-11 13:00"
   end-date-time: "2025-03-11 14:00"
@@ -89,8 +89,8 @@
   talk-abstract: "Abstract to come."
   slides-link: ""
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Foundational AI"
+  speaker-gender: "Man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMTFUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
@@ -135,10 +135,10 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
+  speaker-name: Andrew Maris
+  speaker-title: PhD Candidate
+  speaker-affiliation: MIT Plasma Science and Fusion Center
+  speaker-website: "https://andrewmaris.com/"
   speaker-photo-location:
   start-date-time: "2025-04-08 13:00"
   end-date-time: "2025-04-08 14:00"
@@ -147,8 +147,8 @@
   talk-abstract: "Abstract to come."
   slides-link: ""
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "physics experiment"
+  speaker-gender: "man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MDhUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
@@ -211,10 +211,10 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
+  speaker-name: Sokratis Trifinopoulos
+  speaker-title: Postdoctoral Researcher
+  speaker-affiliation: MIT, IAIFI
+  speaker-website: "https://strifinopoulos.github.io"
   speaker-photo-location:
   start-date-time: "2025-05-06 13:00"
   end-date-time: "2025-05-06 14:00"
@@ -223,8 +223,8 @@
   talk-abstract: "Abstract to come."
   slides-link: ""
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "physics theory"
+  speaker-gender: "man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA1MDZUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
  
