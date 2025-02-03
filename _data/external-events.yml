@@ -22,6 +22,30 @@
   event-details: "Frontiers in NeuroAI is a two-day symposium, open to the public, exploring key topics in the rapidly-advancing field of NeuroAI, including: How natural and artificial systems learn, and how these processes are similar or different across systems; The implications of rapid progress in machine learning on understanding neural processes, the nature of intelligence, and human cognitive abilities; and Innovations that are pushing forward the reasoning and generative capabilities of AI systems. The symposium will feature presentations from cutting-edge experts from neuroscience and AI as they discuss advances in learning across both fields."
   calendar-link:
   
+- type: "external-workshop"
+  event-name: "Physics for AI Workshop"
+  event-organizer: "Andrei Constantin"
+  more-info-link: "https://physics4ai.web.ox.ac.uk/#collapse5142771"
+  event-post-date: "2025-02-02"
+  start-date-time: "2025-03-19 9:00"
+  end-date-time: "2025-03-21 17:00"
+  talk-location: "University of Oxford"
+  talk-zoom:
+  event-details: "This three-day workshop will be held in Oxford from 19 to 21 March, focusing on the interplay between Machine Learning (ML) and Quantum Field Theory (QFT)."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "Colloquium with Peter Stone (University of Texas at Austin)"
+  event-organizer: "MIT Department of Physics"
+  more-info-link: "https://physics.mit.edu/events/david-and-edith-harris-physics-colloquium-series/"
+  event-post-date: "2025-02-02"
+  start-date-time: "2025-02-13 16:00"
+  end-date-time: "2025-02-13 17:00"
+  talk-location: "MIT 10-250"
+  talk-zoom:
+  event-details: "Peter Stone is the founder and director of the Learning Agents Research Group (LARG) within the Artificial Intelligence Laboratory in the Department of Computer Science at The University of Texas at Austin, as well as associate department chair and Director of Texas Robotics. He was a co-founder of Cogitai, Inc. and is now Chief Scientist of Sony AI."
+  calendar-link:
+  
 - type: "external-event"
   event-name: "AstroAI lunch seminar"
   event-organizer: "AstroAI"
