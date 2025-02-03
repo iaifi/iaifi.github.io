@@ -49,9 +49,9 @@
 {%- endif -%}
 {%- if talk.talk-abstract and (is_this_week or is_next_week) %}
   * Abstract:  *{{talk.talk-abstract}}*
+{%- endif -%}
 {%- if talk.event-details %}
   * {{talk.event-details}}
-{%- endif -%}
 {%- endif -%}
 <br>
 {%- if is_this_week or is_next_week or is_upcoming or is_future %}
