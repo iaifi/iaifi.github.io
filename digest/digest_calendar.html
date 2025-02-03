@@ -147,7 +147,7 @@ Save the date for these events (and check to see if you need to register)!
 {% assign events_last_week = '' %}
 {% for talk in event_list %}
 {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
- {% if site.data.talk-categories[talk.type].hide_on_past %}{% continue %}{% endif %}
+ {% if site.data.talk-categories[talk.type].hide_on_past or site.data.talk-categories[talk.type].category=="external" -%}{% continue %}{% endif %}
  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
  {% unless start_date_time_in_seconds < digest_start_in_seconds and start_date_time_in_seconds >= digest_past_in_seconds%}{% continue %}{% endunless %}
   {% assign events_last_week = 'true' %} <!-- Mark that there is at least one event -->

@@ -32,7 +32,6 @@
 {% endif %}
 
 <!-- I am removing {{talk.speaker-title}}, since this came up when talking to some junior people.-->
-{%- if is_this_week or is_next_week or is_future %}
 {%- if talk.speaker-name %}
   * **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a> ({{talk.speaker-affiliation}})**
 {%- endif -%}
@@ -42,7 +41,6 @@
 {%- if talk.talk-title %}
   * **{{talk.talk-title}}**
 {%- endif -%}
-{%- endif -%}
 {%- if is_this_week or is_next_week or is_upcoming or is_future %}
 {% if start_date == end_date %} * **{{ start_date }}, {{ start_time }} – {{ end_time }},** {% else %} * **{{ start_date }} – {{ end_date }},** {% endif %} **{{talk.talk-location}}**
 {%- endif -%}
@@ -51,9 +49,9 @@
 {%- endif -%}
 {%- if talk.talk-abstract and (is_this_week or is_next_week) %}
   * Abstract:  *{{talk.talk-abstract}}*
-{%- endif -%}
 {%- if talk.event-details %}
   * {{talk.event-details}}
+{%- endif -%}
 {%- endif -%}
 <br>
 {%- if is_this_week or is_next_week or is_upcoming or is_future %}
