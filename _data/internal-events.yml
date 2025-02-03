@@ -26,10 +26,122 @@
   more-info-link: https://iaifi.org/phd-summer-school
   priority: high
   
+- type: "social"
+  event-name: "IAIFI Pizza and Game Night"
+  event-committee: "Community Building"
+  event-post-date: "2025-03-23"
+  start-date-time: "2025-04-04 17:00"
+  end-date-time: "2025-04-04 19:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWxhcGM3OHE3ZnZkZWFwZDlhMG5tajdkdGVfMjAyNTA0MDRUMjEwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-03-30"
+  start-date-time: "2025-04-01 14:00"
+  end-date-time: "2025-04-01 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTA0MDFUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-03-23"
+  start-date-time: "2025-03-25 14:00"
+  end-date-time: "2025-03-25 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTAzMjVUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Discussion Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-03-09"
+  start-date-time: "2025-03-21 15:00"
+  end-date-time: "2025-03-21 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After the Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for networking and further discussion of the discussion's content."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAzMjFUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-03-16"
+  start-date-time: "2025-03-18 14:00"
+  end-date-time: "2025-03-18 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTAzMThUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Event Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-03-02"
+  start-date-time: "2025-03-14 15:00"
+  end-date-time: "2025-03-14 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After the Friday event, refreshments will be provided at the IAIFI Penthouse for networking and further discussion of the talk's content."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAyMjhUMjAwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-03-09"
+  start-date-time: "2025-03-11 14:00"
+  end-date-time: "2025-03-11 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTAzMTFUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "IAIFI Pizza and Game Night"
+  event-committee: "Community Building"
+  event-post-date: "2025-02-23"
+  start-date-time: "2025-03-07 17:00"
+  end-date-time: "2025-03-07 19:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWxhcGM3OHE3ZnZkZWFwZDlhMG5tajdkdGVfMjAyNTAzMDdUMjIwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
 - type: "industry-lunch"
   event-name: "Industry Lunch with Chris Murphy (Klaviyo)"
   event-committee: "Industry Partnership"
-  event-post-date: "2025-01-26"
+  event-post-date: "2025-02-23"
   start-date-time: "2025-03-07 12:30"
   end-date-time: "2025-03-07 13:30"
   talk-location: "IAIFI Penthouse (26-648)"
@@ -41,7 +153,35 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
+  event-post-date: "2025-03-02"
+  start-date-time: "2025-03-04 14:00"
+  end-date-time: "2025-03-04 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTAzMDRUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+
+- type: "social"
+  event-name: "Post-Colloquium Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-02-16"
+  start-date-time: "2025-02-28 15:00"
+  end-date-time: "2025-02-28 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After Daniel Whiteson's colloquium, refreshments will be provided at the IAIFI Penthouse for networking and further discussion of the talk's content."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAyMjhUMjAwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
   event-post-date: "2025-02-23"
   start-date-time: "2025-02-25 14:00"
   end-date-time: "2025-02-25 15:00"
@@ -53,8 +193,23 @@
   more-info-link:
   
 - type: "social"
+  event-name: "Post-Discussion Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-02-09"
+  start-date-time: "2025-02-21 15:00"
+  end-date-time: "2025-02-21 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After the Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for networking and further discussion of the discussion's content."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAyMjFUMjAwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2025-02-16"
   start-date-time: "2025-02-18 14:00"
   end-date-time: "2025-02-18 15:00"
@@ -67,7 +222,7 @@
   
 - type: "social"
   event-name: "Post-Colloquium Social"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2025-02-09"
   start-date-time: "2025-02-14 15:00"
   end-date-time: "2025-02-14 16:00"
@@ -82,7 +237,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2025-02-09"
   start-date-time: "2025-02-11 14:00"
   end-date-time: "2025-02-11 15:00"
@@ -95,7 +250,7 @@
   
 - type: "social"
   event-name: "IAIFI Pizza and Game Night"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2025-01-26"
   start-date-time: "2025-02-07 17:00"
   end-date-time: "2025-02-07 19:00"
@@ -103,20 +258,20 @@
   talk-zoom:
   event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/NzlkaW83dXNtbTZobTg1OTA2YW9zbmdsbmxfMjAyNTAyMDRUMjIwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/dd54cfecafc1489c8297a3a2cde46f5b
   more-info-link:
   attendance-in-person:
   attendance-virtual:
   
 - type: "social"
   event-name: "IAIFI Deep Working Session"
-  event-committee: "IAIFI Community Building and Inclusion"
+  event-committee: "IAIFI Community Building"
   event-post-date: "2025-01-26"
   start-date-time: "2025-02-07 14:00"
   end-date-time: "2025-02-07 17:00"
   talk-location: "IAIFI Penthouse (MIT 26-648) and LNS Conference Room (MIT 26-528)"
   talk-zoom:
-  event-details: "This is an opportunity for IAIFI members to meet up for an informal, focused working session. The Penthouse space will be set up for collaboration and conversation, while the Conference Room will be reserved for quiet work. Feel free to stop by for a short time, or stay for the whole block. Refreshments and snacks will be provided!"
+  event-details: "This is an opportunity for IAIFI members to meet up for an informal, focused working session. The Penthouse space will be set up for collaboration and conversation, while the Conference Room will be reserved for quiet work. Feel free to stop by for a short time, or stay for the whole session. Refreshments and snacks will be provided!"
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWFmN2ppbzJvNHIyc3I2b2JyaHM0N291MmIgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw"
   rsvp-link: https://app.smartsheet.com/b/form/dd54cfecafc1489c8297a3a2cde46f5b
   more-info-link:
@@ -125,7 +280,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2025-02-02"
   start-date-time: "2025-02-04 14:00"
   end-date-time: "2025-02-04 15:00"
@@ -138,7 +293,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2025-01-26"
   start-date-time: "2025-01-28 14:00"
   end-date-time: "2025-01-28 15:00"
@@ -151,7 +306,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2025-01-19"
   start-date-time: "2025-01-21 14:00"
   end-date-time: "2025-01-21 15:00"
@@ -164,7 +319,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2025-01-12"
   start-date-time: "2025-01-14 14:00"
   end-date-time: "2025-01-14 15:00"
@@ -177,7 +332,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2025-01-05"
   start-date-time: "2025-01-07 14:00"
   end-date-time: "2025-01-07 15:00"
@@ -205,7 +360,7 @@
 
 - type: "social"
   event-name: "IAIFI Pizza and Game Night"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-10-28"
   start-date-time: "2024-11-01 17:00"
   end-date-time: "2024-11-01 19:00"
@@ -232,7 +387,7 @@
   
 - type: "social"
   event-name: "IAIFI Fall 2024 Social"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-10-28"
   start-date-time: "2024-11-15 17:00"
   end-date-time: "2024-11-15 19:00"
@@ -274,7 +429,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-10-29"
   start-date-time: "2024-10-29 14:00"
   end-date-time: "2024-10-29 15:00"
@@ -287,7 +442,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-10-29"
   start-date-time: "2024-11-05 14:00"
   end-date-time: "2024-11-05 15:00"
@@ -300,7 +455,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-10-29"
   start-date-time: "2024-11-12 14:00"
   end-date-time: "2024-11-12 15:00"
@@ -313,7 +468,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-10-29"
   start-date-time: "2024-11-19 14:00"
   end-date-time: "2024-11-19 15:00"
@@ -326,7 +481,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-10-29"
   start-date-time: "2024-11-26 14:00"
   end-date-time: "2024-11-26 15:00"
@@ -339,7 +494,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-10-29"
   start-date-time: "2024-12-03 14:00"
   end-date-time: "2024-12-03 15:00"
@@ -367,7 +522,7 @@
   
   - type: "social"
   event-name: "IAIFI Holiday Game and Crafts Night"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-11-19"
   start-date-time: "2024-12-06 17:00"
   end-date-time: "2024-12-06 19:00"
@@ -381,7 +536,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-10-29"
   start-date-time: "2024-12-10 14:00"
   end-date-time: "2024-12-10 15:00"
@@ -394,7 +549,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-10-29"
   start-date-time: "2024-12-17 14:00"
   end-date-time: "2024-12-17 15:00"
@@ -407,7 +562,7 @@
   
   - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building and Inclusion"
+  event-committee: "Community Building"
   event-post-date: "2024-10-29"
   start-date-time: "2024-12-17 14:00"
   end-date-time: "2024-12-17 15:00"

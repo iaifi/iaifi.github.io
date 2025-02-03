@@ -94,12 +94,12 @@ aside:
     </div>
 
     <div class="cell cell--8">
-      IAIFI is recruiting and training a <b>talented, promising, and diverse group of students and postdocs</b>, making them experts in AI + Physics.
+      IAIFI is recruiting and training a <b>talented, promising, and interdisciplinary group of students and postdocs</b>, making them experts in AI + Physics.
       <ul>
       <li><a href="/fellows.html">IAIFI Fellowship Program:</a> Details about the IAIFI Fellowship and opportunities to apply</li>
       <li><a href="/current-fellows.html">IAIFI Fellows:</a> Details about current and past IAIFI Fellows</li>
       <li><a href="/phd-summer-school.html">IAIFI Summer School:</a> Details about our annual Summer School for early career researchers at the intersection of AI and Physics</li>
-      <li><a href="/ecec.html">Early Career, Equity, and Ethics:</a> Details about our approaches to these important topics for the IAIFI community and beyond.</li>
+      <li><a href="/ecec.html">Early Career and Ethics:</a> Details about our approaches to these important topics for the IAIFI community and beyond.</li>
       <li><a href="/journal-club.html">Journal Club:</a> Weekly talks given by early career researchers for early career researchers</li>
       <li><a href="/education.html">Education: Includes details of courses and other university-level education efforts</a></li>
       <li><a href="/career-support.html">Career Support:</a> Advice, resources, and events to help support early career researchers interested in AI+Physics</li>
