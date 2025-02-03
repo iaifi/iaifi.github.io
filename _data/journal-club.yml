@@ -10,32 +10,13 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "The Bayesian tack for the Information Frontier at the LHC"
   talk-abstract: "Given the balance between upcoming and available luminosity at the LHC, extracting more information from the data than is currently being extracted has become a pivotal challenge in High Energy Physics. Although Machine Learning (ML) tools are widely adopted to address this challenge, many of these tools rely heavily on learning patterns from simulations. Simulations align well with the data in terms of individual distributions, but—as expected—their performance can be improved when it comes to reproducing correlations. Since Neural Networks are the perfect machines to capture correlations, they may erroneously learn artificial patterns as genuine and subsequently seek them out in real data. The Bayesian approach proposes an alternative set of ML algorithms that primarily leverage recent advancements from the field of Statistical Machine Learning. In this talk, we will explore how Bayesian ML tools and techniques offer a novel and promising avenue for extracting information from data. In this approach, there is a trade-off between simulations and modeling, emphasizing probabilistic modeling within a Bayesian ML framework. We will present the principles and methodologies of this Bayesian craft, highlighting how to unfold a physical system as a probabilistic model to inject relevant prior information in each corresponding latent variable, thereby improving the performance of the model. We will instantiate all the above on the expected advancements in processes such as pp > hh > bbbb, where Bayesian techniques demonstrate significant potential for enhanced results."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1aDm9VM8v05HdoLIJzbGchHTZkK7G1sf2/view?usp=drive_link"
   rsvp-link: https://app.smartsheet.com/b/form/320f663992f140adae5a6f36739ebe47
   youtube-link:
   speaker-thrust: "physics theory"
   speaker-gender: "Man"
-  talk-attendance:  in person, virtual
+  talk-attendance:  14 in person, 5 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2FzbXJoYWFoNnVwZjFsMjhvbGg0MWViZWkgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
-  
-- type: "journal-club"
-  semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
-  speaker-photo-location:
-  start-date-time: "2025-02-11 13:00"
-  end-date-time: "2025-02-11 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
-  slides-link: ""
-  youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance:  in person, virtual
-  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMTFUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 - type: "journal-club"
   semester: "spring-2025"

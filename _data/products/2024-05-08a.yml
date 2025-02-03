@@ -1,27 +1,28 @@
 type: paper
 iaifi-thrust: A
-title: "Probabilistic Forward Modeling of Galaxy Catalogs with Normalizing Flows"
-authors: John Franklin Crenshaw, J. Bryce Kalmbach, Alexander Gagliano, Ziang Yan, Andrew J. Connolly, Alex I. Malz, Samuel J. Schmidt, The LSST Dark Energy Science Collaboration
-abstract: 'Evaluating the accuracy and calibration of the redshift posteriors produced by photometric redshift (photo-z) estimators is vital for enabling precision cosmology and extragalactic astrophysics with modern wide-field photometric surveys. Evaluating photo-z posteriors on a per-galaxy basis is difficult, however, as real galaxies have a true redshift but not a true redshift posterior. We introduce PZFlow, a Python package for the probabilistic forward modeling of galaxy catalogs with normalizing flows. For catalogs simulated with PZFlow, there is a natural notion of "true" redshift posteriors that can be used for photo-z validation. We use PZFlow to simulate a photometric galaxy catalog where each galaxy has a redshift, noisy photometry, shape information, and a true redshift posterior. We also demonstrate the use of an ensemble of normalizing flows for photo-z estimation. We discuss how PZFlow will be used to validate the photo-z estimation pipeline of the Dark Energy Science Collaboration (DESC), and the wider applicability of PZFlow for statistical modeling of any tabular data.'
-arxiv: "2405.04740"
-journal: "The Astronomical Journal, 2024, Volume 168, Number 2"
-doi: http://dx.doi.org/10.3847/1538-3881/ad54bf
-nsf-par: 10555727
-code: https://github.com/jfcrenshaw/pzflow
-publication-date: 2024-07-23
+title: "Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo"
+authors: Nayantara Mudur, Carolina Cuesta-Lazaro, Douglas P. Finkbeiner
+abstract: "Diffusion generative models have excelled at diverse image generation and reconstruction tasks across fields. A less explored avenue is their application to discriminative tasks involving regression or classification problems. The cornerstone of modern cosmology is the ability to generate predictions for observed astrophysical fields from theory and constrain physical models from observations using these predictions. This work uses a single diffusion generative model to address these interlinked objectives -- as a surrogate model or emulator for cold dark matter density fields conditional on input cosmological parameters, and as a parameter inference model that solves the inverse problem of constraining the cosmological parameters of an input field. The model is able to emulate fields with summary statistics consistent with those of the simulated target distribution. We then leverage the approximate likelihood of the diffusion generative model to derive tight constraints on cosmology by using the Hamiltonian Monte Carlo method to sample the posterior on cosmological parameters for a given test image. Finally, we demonstrate that this parameter inference approach is more robust to the addition of noise than baseline parameter inference networks."
+arxiv: "2405.05255"
+journal: "The Astrophysical Journal, Volume 978, Number 1, 2024"
+doi: "https://doi.org/10.3847/1538-4357/ad8bc3"
+nsf-par:
+code: "https://github.com/nmudur/diffusion-hmc"
+publication-date: 2024-12-24
 bib-tex: |
-  @article{crenshaw2024probabilisticforwardmodelinggalaxy,
-   doi = {10.3847/1538-3881/ad54bf},
-   url = {https://dx.doi.org/10.3847/1538-3881/ad54bf},
-   year = {2024},
-   month = {jul},
-   publisher = {The American Astronomical Society},
-   volume = {168},
-   number = {2},
-   pages = {80},
-   author = {Crenshaw, John Franklin and Kalmbach, J. Bryce and Gagliano, Alexander and Yan, Ziang and Connolly, Andrew J. and Malz, Alex I. and Schmidt, Samuel J. and The LSST Dark Energy Science Collaboration},
-   title = {Probabilistic Forward Modeling of Galaxy Catalogs with Normalizing Flows},
-   journal = {The Astronomical Journal},
-   eprint={2405.04740},
-   archivePrefix={arXiv},
+  @article{Mudur_2025,
+    doi = {10.3847/1538-4357/ad8bc3},
+    url = {https://dx.doi.org/10.3847/1538-4357/ad8bc3},
+    year = {2024},
+    month = {dec},
+    publisher = {The American Astronomical Society},
+    volume = {978},
+    number = {1},
+    pages = {64},
+    author = {Mudur, Nayantara and Cuesta-Lazaro, Carolina and Finkbeiner, Douglas P.},
+    title = {Diffusion-HMC: Parameter Inference with Diffusion-model-driven Hamiltonian Monte Carlo},
+    journal = {The Astrophysical Journal},
+    eprint={2405.05255},
+    archivePrefix={arXiv},
+    abstract = {Diffusion generative models have excelled at diverse image generation and reconstruction tasks across fields. A less explored avenue is their application to discriminative tasks involving regression or classification problems. The cornerstone of modern cosmology is the ability to generate predictions for observed astrophysical fields from theory and constrain physical models from observations using these predictions. This work uses a single diffusion generative model to address these interlinked objectives‚Äîas a surrogate model or emulator for cold dark matter density fields conditional on input cosmological parameters, and as a parameter inference model that solves the inverse problem of constraining the cosmological parameters of an input field. The model is able to emulate fields with summary statistics consistent with those of the simulated target distribution. We then leverage the approximate likelihood of the diffusion generative model to derive tight constraints on cosmology by using the Hamiltonian Monte Carlo method to sample the posterior on cosmological parameters for a given test image. Finally, we demonstrate that this parameter inference approach is more robust to small perturbations of noise to the field than baseline parameter inference networks.}
   }

@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: E
+title: "Measurement of atmospheric neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in IceCube DeepCore"
+authors: "IceCube Collaboration"
+abstract: "The DeepCore sub-detector of the IceCube Neutrino Observatory provides access to neutrinos with energies above approximately 5 GeV. Data taken between 2012-2021 (3,387 days) are utilized for an atmospheric νμ disappearance analysis that studied 150,257 neutrino-candidate events with reconstructed energies between 5-100 GeV. An advanced reconstruction based on a convolutional neural network is applied, providing increased signal efficiency and background suppression, resulting in a measurement with both significantly increased statistics compared to previous DeepCore oscillation results and high neutrino purity. For the normal neutrino mass ordering, the atmospheric neutrino oscillation parameters and their 1σ errors are measured to be Δm232 = 2.40+0.05−0.04×10−3 eV2 and sin2θ23=0.54+0.04−0.03. The results are the most precise to date using atmospheric neutrinos, and are compatible with measurements from other neutrino detectors including long-baseline accelerator experiments."
+arxiv: "2405.02163"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 
+bib-tex: |
+  @article{icecubecollaboration2024measurementatmosphericneutrinooscillation,
+      title={Measurement of atmospheric neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in IceCube DeepCore},
+      author={IceCube Collaboration},
+      year={2024},
+      eprint={2405.02163},
+      archivePrefix={arXiv},
+      primaryClass={hep-ex},
+      url={https://arxiv.org/abs/2405.02163},
+  }

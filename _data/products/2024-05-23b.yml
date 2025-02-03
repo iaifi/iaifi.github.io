@@ -4,18 +4,18 @@ title: "Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physi
 authors: Jonas Spinner, Victor Bresó, Pim de Haan, Tilman Plehn, Jesse Thaler, Johann Brehmer
 abstract: "Extracting scientific understanding from particle-physics experiments requires solving diverse learning problems with high precision and good data efficiency. We propose the Lorentz Geometric Algebra Transformer (L-GATr), a new multi-purpose architecture for high-energy physics. L-GATr represents high-energy data in a geometric algebra over four-dimensional space-time and is equivariant under Lorentz transformations, the symmetry group of relativistic kinematics. At the same time, the architecture is a Transformer, which makes it versatile and scalable to large systems. L-GATr is first demonstrated on regression and classification tasks from particle physics. We then construct the first Lorentz-equivariant generative model: a continuous normalizing flow based on an L-GATr network, trained with Riemannian flow matching. Across our experiments, L-GATr is on par with or outperforms strong domain-specific baselines."
 arxiv: "2405.14806"
-journal:
-doi: 
+journal: "NeurIPS 2024"
+doi: "https://openreview.net/forum?id=X34GKv8sYT"
 nsf-par:
 code: https://github.com/heidelberg-hepml/lorentz-gatr
-publication-date: 
+publication-date: 2024-09-25
 bib-tex: |
-  @article{spinner2024lorentzequivariantgeometricalgebratransformers,
-      title={Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics},
-      author={Jonas Spinner and Victor Bresó and Pim de Haan and Tilman Plehn and Jesse Thaler and Johann Brehmer},
-      year={2024},
-      eprint={2405.14806},
-      archivePrefix={arXiv},
-      primaryClass={physics.data-an},
-      url={https://arxiv.org/abs/2405.14806},
+  @inproceedings{spinner2024lorentzequivariant,
+  title={Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics},
+  author={Jonas Spinner and Victor Breso Pla and Pim De Haan and Tilman Plehn and Jesse Thaler and Johann Brehmer},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+  year={2024},
+  url={https://openreview.net/forum?id=X34GKv8sYT},
+  eprint={2405.14806},
+  archivePrefix={arXiv},
   }
