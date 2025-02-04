@@ -14,7 +14,7 @@ bib-tex: |
       title={Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields},
       author={Dor Verbin and Peter Hedman and Ben Mildenhall and Todd Zickler and Jonathan T. Barron and Pratul P. Srinivasan},
       year={2021},
-      journal={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+      booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
       eprint={2112.03907},
       archivePrefix={arXiv},
       primaryClass={cs.CV},

@@ -13,7 +13,7 @@ bib-tex: |
   @inproceedings{mishrasharma2022stronglensingsourcereconstruction,
       title={Strong Lensing Source Reconstruction Using Continuous Neural Fields},
       author={Siddharth Mishra-Sharma and Ge Yang},
-      journal={Proceedings of the 39th International Conference on Machine Learning},
+      booktitle={Proceedings of the 39th International Conference on Machine Learning},
       year={2022},
       eprint={2206.14820},
       archivePrefix={arXiv},

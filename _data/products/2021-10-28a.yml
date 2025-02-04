@@ -14,7 +14,7 @@ bib-tex: |
    title={Equivariant Contrastive Learning},
    author={Rumen Dangovski and Li Jing and Charlotte Loh and Seungwook Han and Akash Srivastava and Brian Cheung and Pulkit Agrawal and Marin Soljačić},
    year={2022},
-   journal={International Conference on Learned Representations},
+   booktitle={International Conference on Learned Representations},
    eprint={2111.00899},
    archivePrefix={arXiv},
    primaryClass={cs.CV},

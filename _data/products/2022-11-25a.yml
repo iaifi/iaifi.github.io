@@ -19,7 +19,7 @@ bib-tex: |
       volume = {131},
       number = {041801},
       author = {CMS Collaboration},
-      title = {Search for boosted Higgs boson decay to a charm quark-antiquark pair in proton-proton collisions at s√ = 13 TeV},
+      title = {Search for boosted Higgs boson decay to a charm quark-antiquark pair in proton-proton collisions at s$\surd$ = 13 TeV},
       journal = {Physical Review Letters},
       eprint={2211.14181},
       archivePrefix={arXiv},

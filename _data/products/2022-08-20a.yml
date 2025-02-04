@@ -13,7 +13,7 @@ bib-tex: |
   @inproceedings{abbott2022samplingqcdfieldconfigurations,
    title={Sampling QCD field configurations with gauge-equivariant flow models},
    author={Ryan Abbott and Michael S. Albergo and Aleksandar Botev and Denis Boyda and Kyle Cranmer and Daniel C. Hackett and Gurtej Kanwar and Alexander G. D. G. Matthews and Sébastien Racanière and Ali Razavi and Danilo J. Rezende and Fernando Romero-López and Phiala E. Shanahan and Julian M. Urban},
-   journal={Proceedings of Science},
+   booktitle={Proceedings of Science},
    volume={430},
    year={2022},
    eprint={2208.03832},
