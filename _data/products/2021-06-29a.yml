@@ -13,7 +13,7 @@ bib-tex: |
   @inproceedings{fu2021learningtaskinformedabstractions,
    title={Learning Task Informed Abstractions},
    author={Xiang Fu and Ge Yang and Pulkit Agrawal and Tommi Jaakkola},
-   journal={Proceedings of the 38th International Conference on Machine Learning},
+   booktitle={Proceedings of the 38th International Conference on Machine Learning},
    year={2021},
    eprint={2106.15612},
    archivePrefix={arXiv},

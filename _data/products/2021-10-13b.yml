@@ -11,7 +11,7 @@ code: https://github.com/smsharma/fermi-gce-flows.
 publication-date: 2022-03-23
 bib-tex: |
   @article{Mishra-Sharma_neural-sbi,
-   title={A neural simulation-based inference approach for characterizing the Galactic Center γ-ray excess},
+   title={A neural simulation-based inference approach for characterizing the Galactic Center $\gamma$-ray excess},
    volume={105},
    ISSN={2470-0029},
    url={https://doi.org/10.1103/PhysRevD.105.063017},

@@ -18,5 +18,5 @@ bib-tex: |
       archivePrefix={arXiv},
       primaryClass={cs.LG},
       url={https://openreview.net/forum?id=6at6rB3IZm},
-      journal={Conference on Neural Information Processing Systems}
+      booktitle={Conference on Neural Information Processing Systems}
   }

@@ -13,7 +13,7 @@ bib-tex: |
   @inproceedings{liao2023learningoptimizequasinewtonmethods,
       title={Learning to Optimize Quasi-Newton Methods},
       author={Isaac Liao and Rumen R. Dangovski and Jakob N. Foerster and Marin Soljačić},
-      journal={Transactions on Machine Learning Research},
+      booktitle={Transactions on Machine Learning Research},
       year={2023},
       eprint={2210.06171},
       archivePrefix={arXiv},

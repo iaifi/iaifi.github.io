@@ -14,7 +14,7 @@ bib-tex: |
    title={Mixture Model Auto-Encoders: Deep Clustering through Dictionary Learning},
    author={Alexander Lin and Andrew H. Song and Demba Ba},
    year={2022},
-   journal={IEEE International Conference on Acoustics, Speech and Signal Processing},
+   booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing},
    eprint={2110.04683},
    archivePrefix={arXiv},
    primaryClass={cs.LG},
