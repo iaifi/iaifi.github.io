@@ -236,6 +236,21 @@
   attendance-virtual:
   
 - type: "social"
+  event-name: "Graduate Student Meetup with Colloquium Speakers"
+  event-committee: "Speaker Selection"
+  event-post-date: "2025-02-09"
+  start-date-time: "2025-02-14 11:30"
+  end-date-time: "2025-02-14 12:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "IAIFI graduate students are invited to come to this informal meetup with IAIFI's colloquium speaker Sam Bright-Thonney (IAIFI Fellow), as well as Peter Stone (Professor, University of Texas at Austin), the MIT Physics Department's colloquium speaker for this week. Sandwiches and refreshments will be provided!"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGYwN3Y5Y21vNDE2OTMycWljdWVwYThpMTIgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link: https://app.smartsheet.com/b/form/8ae98978a3f24047aceb28f4fa369f1f
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building"
   event-post-date: "2025-02-09"
