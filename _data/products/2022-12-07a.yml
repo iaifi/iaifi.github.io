@@ -6,7 +6,7 @@ abstract: 'Diffuse interstellar bands (DIBs) are broad absorption features assoc
 arxiv: "2212.03879"
 journal: The Astrophysical Journal, 954 141, 2023
 doi: https://doi.org/10.3847/1538-4357/acd454
-nsf-par:
+nsf-par: 10570071
 code: https://faun.rc.fas.harvard.edu/saydjari/GaiaDIB/
 publication-date: 2023-08-23
 bib-tex: |

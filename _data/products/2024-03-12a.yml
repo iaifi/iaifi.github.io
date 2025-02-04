@@ -6,7 +6,7 @@ abstract: 'Photometric classifications of supernova (SN) light curves have becom
 arxiv: "2403.07975"
 journal: "The Astrophysics Journal, Volume 974, Number 2, 2024"
 doi: "https://doi.org/10.3847/1538-4357/ad6a4f"
-nsf-par:
+nsf-par: 10570068
 code: "https://github.com/VTDA-Group/superphot-plus"
 publication-date: 2024-10-10
 bib-tex: |

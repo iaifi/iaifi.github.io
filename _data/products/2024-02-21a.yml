@@ -6,7 +6,7 @@ abstract: 'Jet energy calibration is an important aspect of many measurements an
 arxiv: "2402.14067"
 journal: "Physical Review D, Volume 110, Issue 7, 2024"
 doi: "https://doi.org/10.1103/PhysRevD.110.076015"
-nsf-par:
+nsf-par: 10570067
 code: "https://github.com/rikab/SeeingDouble"
 publication-date: 2024-10-15
 bib-tex: |

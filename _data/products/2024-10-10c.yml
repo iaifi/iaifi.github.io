@@ -7,7 +7,7 @@ abstract: "Sparse autoencoders (SAEs) are a recent technique for decomposing neu
 arxiv: "2410.08201"
 journal: "ICLR, 2025"
 doi: "https://openreview.net/forum?id=k2ZVAzVeMP"
-nsf-par:
+nsf-par: 10570073
 code: https://github.com/amudide/switch_sae
 publication-date: 2024-01-22
 bib-tex: |

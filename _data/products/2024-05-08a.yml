@@ -6,7 +6,7 @@ abstract: "Diffusion generative models have excelled at diverse image generation
 arxiv: "2405.05255"
 journal: "The Astrophysical Journal, Volume 978, Number 1, 2024"
 doi: "https://doi.org/10.3847/1538-4357/ad8bc3"
-nsf-par:
+nsf-par: 10570061
 code: "https://github.com/nmudur/diffusion-hmc"
 publication-date: 2024-12-24
 bib-tex: |

@@ -6,7 +6,7 @@ abstract: 'We present MIPS, a novel method for program synthesis based on automa
 arxiv: "2402.05110"
 journal: "Entropy, Volume 26, Issue 12, 10.3390/e26121046 "
 doi: "https://doi.org/10.3390/e26121046"
-nsf-par:
+nsf-par: 10570063
 code: "https://github.com/ejmichaud/neural-verification"
 publication-date: 2024-12-02
 bib-tex: |

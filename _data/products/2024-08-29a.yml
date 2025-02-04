@@ -6,7 +6,7 @@ abstract: "A common setting in astronomy is the availability of a small number o
 arxiv: "2408.16829"
 journal: "Machine Learning Science and Tehnology, Volume , Number 4, 2024"
 doi: "https://doi.org/10.1088/2632-2153/ad990d"
-nsf-par:
+nsf-par: 10570064
 code: "https://github.com/ThomasHelfer/multimodal-supernovae"
 publication-date: 2024-12-19
 bib-tex: |
