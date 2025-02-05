@@ -6,7 +6,7 @@ abstract: "Recent work has proposed the linear representation hypothesis: that l
 arxiv: "2405.14860"
 journal: "ICLR 2025"
 doi: "https://openreview.net/forum?id=d63a4AM4hb"
-nsf-par:
+nsf-par: 10570075
 code: https://github.com/JoshEngels/MultiDimensionalFeatures
 publication-date: 2025-01-22
 bib-tex: |

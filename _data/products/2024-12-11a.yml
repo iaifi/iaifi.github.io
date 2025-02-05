@@ -7,7 +7,7 @@ abstract: "With the advent of the Vera C. Rubin Observatory, the discovery rate 
 arxiv:
 journal: "The Astrophysical Journal Supplement Series, Voulume 276, Number 1, 2024"
 doi: "https://doi.org/10.3847/1538-4365/ad8a5b"
-nsf-par:
+nsf-par: 10570058
 code:
 publication-date: 2024-12-11
 bib-tex: |

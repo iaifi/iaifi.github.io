@@ -6,7 +6,7 @@ abstract: 'We present LAISS (Lightcurve Anomaly Identification and Similarity Se
 arxiv: "2404.01235"
 journal: "The Astrophysical Journal, Volume 974, Number 2, 2024"
 doi: "https://doi.org/10.3847/1538-4357/ad6869"
-nsf-par:
+nsf-par: 10558736
 code:
 publication-date: 2024-10-10
 bib-tex: |

@@ -6,7 +6,7 @@ abstract: "While the spectroscopic classification scheme for Stripped envelope s
 arxiv: "2405.01672"
 journal: "The Astrophysical Journal, Volume 275, Number 2, 2024"
 doi: "https://doi.org/10.3847/1538-4365/ad7eaa"
-nsf-par:
+nsf-par: 10570065
 code:
 publication-date: 2024-11-29
 bib-tex: |

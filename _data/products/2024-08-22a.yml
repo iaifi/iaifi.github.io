@@ -6,7 +6,7 @@ abstract: "In this work, we address the question of how to enhance signal-agnost
 arxiv: "2408.12296"
 journal: "The European Physical Journal, Volume 85, article number 4, 2025"
 doi: "https://doi.org/10.1140/epjc/s10052-024-13722-5"
-nsf-par:
+nsf-par: 10570069
 code: https://github.com/mletizia/multiple-testing-nplm
 publication-date: 2025-01-04
 bib-tex: |

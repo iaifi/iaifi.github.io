@@ -4,9 +4,9 @@ title: "Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltoni
 authors: Nayantara Mudur, Carolina Cuesta-Lazaro, Douglas P. Finkbeiner
 abstract: "Diffusion generative models have excelled at diverse image generation and reconstruction tasks across fields. A less explored avenue is their application to discriminative tasks involving regression or classification problems. The cornerstone of modern cosmology is the ability to generate predictions for observed astrophysical fields from theory and constrain physical models from observations using these predictions. This work uses a single diffusion generative model to address these interlinked objectives -- as a surrogate model or emulator for cold dark matter density fields conditional on input cosmological parameters, and as a parameter inference model that solves the inverse problem of constraining the cosmological parameters of an input field. The model is able to emulate fields with summary statistics consistent with those of the simulated target distribution. We then leverage the approximate likelihood of the diffusion generative model to derive tight constraints on cosmology by using the Hamiltonian Monte Carlo method to sample the posterior on cosmological parameters for a given test image. Finally, we demonstrate that this parameter inference approach is more robust to the addition of noise than baseline parameter inference networks."
 arxiv: "2405.05255"
-journal: "The Astrophysical Journal, Volume 978, Number 1, 2024"
+journal: "The Astrophysical Journal,  978, 64, 2025"
 doi: "https://doi.org/10.3847/1538-4357/ad8bc3"
-nsf-par:
+nsf-par: 10570061
 code: "https://github.com/nmudur/diffusion-hmc"
 publication-date: 2024-12-24
 bib-tex: |

@@ -6,7 +6,7 @@ abstract: "The Energy Mover's Distance (EMD) has seen use in collider physics as
 arxiv: "2410.05379"
 journal: "Journal of High Energy Physics, Volume 2024, article number 219, 2025"
 doi: "https://doi.org/10.1007/JHEP12(2024)219"
-nsf-par:
+nsf-par: 10570070
 code: https://github.com/rikab/SPECTER
 publication-date: 2024-12-30
 bib-tex: |

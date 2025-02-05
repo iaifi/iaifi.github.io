@@ -6,7 +6,7 @@ abstract: "Hierarchical decays of N matter species to radiation may balance agai
 arxiv: "2408.00835"
 journal: "Physical Review D, Vol. 110, Iss. 7, 2024"
 doi: "https://doi.org/10.1103/PhysRevD.110.075041"
-nsf-par:
+nsf-par: 10570056
 code: "https://github.com/snehjp2/diff-stasis"
 publication-date: 2024-10-30
 bib-tex: |

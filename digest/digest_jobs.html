@@ -2,20 +2,37 @@
 {% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
 {% assign week_duration_in_seconds = 7 | times: 60 | times: 60 | times: 24 %}
 {% assign digest_start_in_seconds = digest_date | date: "%s" | plus: 0 %}
+{% assign digest_end_in_seconds = digest_start_in_seconds | plus: week_duration_in_seconds %}
 {% assign lookback_time_in_seconds = digest_start_in_seconds | minus: week_duration_in_seconds %}
 
-## New [Job Opportunities](https://iaifi.org/job-board.html)
- 
+## [Job Board](https://iaifi.org/job-board.html)
+
 {% assign jobs = site.data.jobs | sort | reverse %}
 {% assign new_jobs = false %}
+{% assign imminent_jobs = false %}
+
+### New Job Opportunities
 
 {% for job in jobs %}
-  {% assign post_date_in_seconds = job.post-date | date: '%s' | plus: 0 %}
+{% assign post_date_in_seconds = job.post-date | date: '%s' | plus: 0 %}
 {% unless post_date_in_seconds < digest_start_in_seconds and post_date_in_seconds >= lookback_time_in_seconds %}{% continue %}{% endunless %}
   {% assign new_jobs = true %}
-  ***{{job.title}}*** <br>
-  *{{job.employer}}* <br>
-  {%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
+***{{job.title}}*** <br>
+*{{job.employer}}* <br>
+{%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
 {% endfor %}
-  
+    
 {% unless new_jobs %}*No new job opportunities this week.*{% endunless %}
+    
+### Imminent Deadlines
+    
+{% for job in jobs %}
+{% assign deadline_date_in_seconds = job.deadline | date: '%s' | plus: 0 %}
+{% unless deadline_date_in_seconds < digest_end_in_seconds and deadline_date_in_seconds >= digest_start_in_seconds %}{% continue %}{% endunless %}
+  {% assign imminent_jobs = true %}
+***{{job.title}}*** <br>
+*{{job.employer}}* <br>
+{%if job.deadline %} Deadline: {{job.deadline}} | {% endif %} [Apply]({{job.link}}) <br>
+{% endfor %}
+        
+{% unless imminent_jobs %}*No job opportunities with deadlines this week.*{% endunless %}
