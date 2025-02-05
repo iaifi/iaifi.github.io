@@ -5,9 +5,9 @@ aside:
   toc: true
 ---
 
-## Early Career and Evaluation Committee
+## Early Career and Ethics Committee
 
-The Early Career & Evaluation Committee (ECEC) serves as an advisory body to IAIFI Management on aspects related to early career researchers, as well as to oversee the well-being and working environment of all IAIFI members. Their goal is to create a welcoming, and enjoyable place of work, where people of all backgrounds and career stages can feel supported to do their best work and advance forward in their careers in an environment free from discrimination and injustice.
+The Early Career & Ethics Committee (ECEC) serves as an advisory body to IAIFI Management on aspects related to early career researchers, as well as to oversee the well-being and working environment of all IAIFI members. Their goal is to create a welcoming, and enjoyable place of work, where people of all backgrounds and career stages can feel supported to do their best work and advance forward in their careers in an environment free from discrimination and injustice.
 
 * [View the IAIFI Code of Conduct](/code-of-conduct.html), developed by the ECEC
 * [View the ECEC expectations](https://docs.google.com/document/d/1wmjxpPnLZgVaDj4W_JUr7mtnSFZ9tlfv29GqlE2E1Rg/edit?usp=share_link)
@@ -15,31 +15,9 @@ The Early Career & Evaluation Committee (ECEC) serves as an advisory body to IAI
 * 2022 ECEC: Tracy Slatyer (Chair), Edo Berger, Sean Benevedes, Mehmet Demirtas, Anindita Maiti, Rashmish Mishra, Siddharth Mishra-Sharma
 * 2023 ECEC: Edo Berger (Chair), Tess Smidt, Sean Benevedes, Carolina Cuesta-Lazaro, Mehmet Demirtas, Zeviel Imani, Jessie Micallef, Rashmish Mishra
 * 2024 ECEC: Lisa Barsotti (Chair), Tess Smidt, Carolina Cuesta-Lazaro, Jessie Micallef, Elyssa Hofgard, Zeviel Imani, Leo Yang, Marisa LaFleur
+* 2025 ECEC: Lisa Barsotti (Chair), Carolina Cuesta-Lazaro, Zeviel Imani, Yiding Song, Jamie Sullivan, Leo Yang, Marisa LaFleur, Thomas Bradford
 * The ECEC will rotate membership in January 2025. [Email Lisa Barsotti](mailto:lisabar@mit.edu) if you'd like to learn more. 
 * [Learn more about all IAIFI Committees](/committees.html)
-
-<style>
-.google-slides-container{
-    position: relative;
-    width: 100%;
-    padding-top: 60%;
-    overflow: hidden;
-}
-</style>
-
-<style>
-.google-slides-container iframe{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-
-<div class="google-slides-container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTd3-Nlnx5nltXYEPlVbo7UVZntELKmuzxo4l3Eliy8Qg1PubB9fgTj4C7OE8I16WPU23sRPhyWoXpk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="512" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
 
 ## Ethics
 
