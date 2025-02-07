@@ -441,6 +441,7 @@
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNDEyMDZUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
   rsvp-link: https://app.smartsheet.com/b/form/dd54cfecafc1489c8297a3a2cde46f5b
   more-info-link:
+  attendance: 8 in person, 2 online
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
