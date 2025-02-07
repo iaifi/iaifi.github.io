@@ -20,10 +20,10 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
+  speaker-name: Nathan Suri
+  speaker-title: PhD Researcher
+  speaker-affiliation: Yale University
+  speaker-website: https://wlab.yale.edu/people/whos-who-lab/whos-who-lab-nathan-suri
   speaker-photo-location:
   start-date-time: "2025-02-18 13:00"
   end-date-time: "2025-02-18 14:00"
@@ -32,8 +32,8 @@
   talk-abstract: "Abstract to come."
   slides-link: ""
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Physics Experiment"
+  speaker-gender: "Man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMThUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
