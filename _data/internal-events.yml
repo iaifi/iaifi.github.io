@@ -138,6 +138,21 @@
   attendance-in-person:
   attendance-virtual:
   
+- type: "social"
+  event-name: "IAIFI Co-working Session"
+  event-committee: "Community Building"
+  event-post-date: "2025-02-23"
+  start-date-time: "2025-03-07 14:00"
+  end-date-time: "2025-03-07 17:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "This is an opportunity for IAIFI members to meet up for an informal co-working session. The Penthouse space will be set up for collaboration and conversation. Feel free to stop by for a short time, or stay for the whole session. Refreshments and snacks will be provided!"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWZjZDVqbDRlczZhOTc5azJxa2czYmtmMDggcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
 - type: "industry-lunch"
   event-name: "Industry Lunch with Chris Murphy (Klaviyo)"
   event-committee: "Industry Partnership"
