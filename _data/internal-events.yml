@@ -15,7 +15,7 @@
 - type: "internal-other"
   event-name: "IAIFI Summer School"
   event-committee: "Summer School and Workshop"
-  event-post-date: "2025-01-05"
+  event-post-date: "2025-07-01"
   start-date-time: "2025-08-04 9:00"
   end-date-time: "2025-08-08 17:00"
   talk-location: "Harvard SEAS"
@@ -75,7 +75,7 @@
   end-date-time: "2025-03-21 16:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
-  event-details: "After the Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for networking and further discussion of the discussion's content."
+  event-details: "After the Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAzMjFUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
@@ -103,7 +103,7 @@
   end-date-time: "2025-03-14 16:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
-  event-details: "After the Friday event, refreshments will be provided at the IAIFI Penthouse for networking and further discussion of the talk's content."
+  event-details: "After the Friday event, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAyMjhUMjAwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
@@ -133,6 +133,21 @@
   talk-zoom:
   event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWxhcGM3OHE3ZnZkZWFwZDlhMG5tajdkdGVfMjAyNTAzMDdUMjIwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Co-working Session"
+  event-committee: "Community Building"
+  event-post-date: "2025-02-23"
+  start-date-time: "2025-03-07 14:00"
+  end-date-time: "2025-03-07 17:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "This is an opportunity for IAIFI members to meet up for an informal co-working session. The Penthouse space will be set up for collaboration and conversation. Feel free to stop by for a short time, or stay for the whole session. Refreshments and snacks will be provided!"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWZjZDVqbDRlczZhOTc5azJxa2czYmtmMDggcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
   attendance-in-person:
@@ -172,7 +187,7 @@
   end-date-time: "2025-02-28 16:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
-  event-details: "After Daniel Whiteson's colloquium, refreshments will be provided at the IAIFI Penthouse for networking and further discussion of the talk's content."
+  event-details: "After Daniel Whiteson's colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAyMjhUMjAwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
@@ -200,7 +215,7 @@
   end-date-time: "2025-02-21 16:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
-  event-details: "After the Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for networking and further discussion of the discussion's content."
+  event-details: "After the Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAyMjFUMjAwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
@@ -228,7 +243,7 @@
   end-date-time: "2025-02-14 16:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
-  event-details: "After Sam Bright-Thonney's colloquium, refreshments will be provided at the IAIFI Penthouse for networking and further discussion of the talk's content."
+  event-details: "After Sam Bright-Thonney's colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAyMTRUMjAwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   rsvp-link:
   more-info-link:
@@ -236,7 +251,7 @@
   attendance-virtual:
   
 - type: "social"
-  event-name: "Graduate Student Meetup with Colloquium Speakers"
+  event-name: "IAIFI Grad Student and Posdoc Networking Hour with Colloquium Speakers"
   event-committee: "Speaker Selection"
   event-post-date: "2025-02-09"
   start-date-time: "2025-02-14 11:30"
@@ -441,6 +456,7 @@
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNDEyMDZUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
   rsvp-link: https://app.smartsheet.com/b/form/dd54cfecafc1489c8297a3a2cde46f5b
   more-info-link:
+  attendance: 8 in person, 2 online
   
 - type: "social"
   event-name: "Weekly Coffee Hour"

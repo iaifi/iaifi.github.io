@@ -46,14 +46,15 @@
   start-date-time: "2025-02-21 14:00"
   end-date-time: "2025-02-21 15:00"
   talk-location: "MIT Kolker Room, 26-414"
-  talk-title: "Talk title to come."
-  talk-abstract: "Abstract to come."
+  talk-title: "IAIFI Computing Resources and Beyond: Overview and Q&A"
+  talk-abstract: "The IAIFI Computing Committee will present a brief overview of computing resources available to the IAIFI community, as well as tips and tricks for using them and/or obtaining access. We'll also discuss opportunities to collaborate on projects to obtain larger scale resources, and answer your questions!"
   slides-link: ""
   youtube-link: ""
   speaker-thrust:
   speaker-gender:
   talk-attendance-in-person:
   talk-attendance-virtual:
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNTAyMjFUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
 
 - type: "thematic-discussion"
   semester: "fall-2024"

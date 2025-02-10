@@ -1,43 +1,46 @@
 categories:
-  - management:
-    name: Management
+
+  - name: Management
     anchor: management
-    type1: management
-    type2:
-    type3:
-  - senior-investigators:
-    name: Senior Investigators
+    blocks:
+      - management
+    alphabetize: false
+
+  - name: Senior Investigators
     anchor: senior-investigators
-    type1: senior-investigators
-    type2:
-    type3:
-  - fellows:
-    name: IAIFI Fellows
+    blocks:
+      - senior-investigators
+    alphabetize: false
+
+  - name: IAIFI Fellows
     anchor: iaifi-fellows
-    type1: iaifi-fellows
-    type2:
-    type3:  
-  - visitors:
-    name: Long-Term Visitors
+    blocks:
+      - iaifi-fellows
+    alphabetize: false
+
+  - name: Long-Term Visitors
     anchor: long-term-visitors
-    type1: long-term-visitors
-    type2:
-    type3:
-  - affiliates:
-    name: IAIFI Affiliates
+    blocks:
+      - long-term-visitors
+    alphabetize: false
+
+  - name: IAIFI Affiliates
     anchor: iaifi-affiliates
-    type1: affiliates
-    type2:
-    type3:
-  - post-docs:
-    name: Post-Docs and Research Scientists
+    blocks:
+      - affiliates
+    alphabetize: false
+
+  - name: Post-Docs and Research Scientists
     anchor: post-docs-and-research-scientists
-    type1: research-scientists
-    type2: postdocs
-    type3: 
-  - students:
-    name: Students and Post-Bacs
+    blocks:
+      - research-scientists
+      - postdocs
+    alphabetize: false
+
+  - name: Students and Post-Bacs
     anchor: students-and-postbacs
-    type1: graduate-students
-    type2: postbac
-    type3: undergrad-students
+    blocks:
+     - graduate-students
+     - postbac
+     - undergrad-students
+    alphabetize: false

@@ -6,7 +6,7 @@ abstract: "Realistic object interactions are crucial for creating immersive virt
 arxiv: "2404.13026"
 journal: "Springer Nature Link, 2024"
 doi: "https://doi.org/10.1007/978-3-031-72627-9_22"
-nsf-par:
+nsf-par: 10570581
 code: "https://physdreamer.github.io/"
 publication-date: 2024-10-20
 bib-tex: |

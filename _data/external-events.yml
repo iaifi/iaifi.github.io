@@ -10,6 +10,18 @@
   event-details: "MIAPbP will be hosting a workshop on the topic of 'Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics' from August 25 - September 19 at the Munich Institute for Astro-, Particle- and Biophysics (MIAPbP) in Munich, Germany. Applications for the workshop are open until January 19th 2025. If you are interested in large-scale foundation models for science, physics-inspired methods in artificial intelligence, this workshop may be a great fit for you. The MIAPbP team hopes to discuss over the course of four weeks, what the interplay is between these ideas for scientific applications."
   calendar-link:
 
+- type: "external-event"
+  event-name: "AstroAI Summer Program - Unveiling the Universe with AI/ML"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/summer/index.html"
+  event-post-date: "2025-02-09"
+  start-date-time: "2025-06-02 9:00"
+  end-date-time: "2025-08-29 17:00"
+  talk-location: "Center for Astrophysics - Harvard & Smithsonian (CfA), 60 Garden St., Cambridge, MA"
+  talk-zoom:
+  event-details: "Join AstroAI for a transformative summer research experience in 2025, where undergraduate and graduate students will collaborate with AstroAI scientists at the exciting intersection of astronomy and artificial intelligence. Students will gain hands-on experience analyzing astronomical data, developing new algorithms, and exploring groundbreaking discoveries in astrophysics. As part of this immersive program, you will work alongside a multidisciplinary team, expand your professional network, and build valuable research and technical skills that will set you apart in today's competitive scientific landscape. Whether you are looking to build a solid foundation for graduate school or further your career in astrophysics, data science, or AI, the summer program at AstroAI is the perfect launchpad for your journey."
+  calendar-link:
+
 - type: "external-workshop"
   event-name: "Frontiers in NeuroAI - Kempner Institute Symposium"
   event-organizer: "Kempner Institute"
@@ -35,7 +47,7 @@
   calendar-link:
   
 - type: "external-event"
-  event-name: "Colloquium with Peter Stone (University of Texas at Austin)"
+  event-name: "MIT Physics Colloquium"
   event-organizer: "MIT Department of Physics"
   more-info-link: "https://physics.mit.edu/events/david-and-edith-harris-physics-colloquium-series/"
   event-post-date: "2025-02-02"
@@ -43,8 +55,32 @@
   end-date-time: "2025-02-13 17:00"
   talk-location: "MIT 10-250"
   talk-zoom:
-  event-details: "Peter Stone is the founder and director of the Learning Agents Research Group (LARG) within the Artificial Intelligence Laboratory in the Department of Computer Science at The University of Texas at Austin, as well as associate department chair and Director of Texas Robotics. He was a co-founder of Cogitai, Inc. and is now Chief Scientist of Sony AI."
+  event-details: "Peter Stone (University of Texas at Austin), Multiagent Reinforcement Learning: Cooperation and Competition <br> Peter Stone is the founder and director of the Learning Agents Research Group (LARG) within the Artificial Intelligence Laboratory in the Department of Computer Science at The University of Texas at Austin, as well as associate department chair and Director of Texas Robotics. He was a co-founder of Cogitai, Inc. and is now Chief Scientist of Sony AI."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "Women in Data Science (WiDS) Cambridge conference"
+  event-organizer: "Women in Data Science (WiDS) Worldwide, in collaboration with MIT, Harvard, and Microsoft New England"
+  more-info-link: "https://www.widscambridge.org/"
+  event-post-date: "2025-02-09"
+  start-date-time: "2025-03-07 08:00"
+  end-date-time: "2025-03-07 16:30"
+  talk-location: "Microsoft New England (NERD Center) in Cambridge, MA"
+  talk-zoom:
+  event-details: "For the ninth year, MIT, Harvard, and Microsoft New England are proud to collaborate with Women in Data Science (WiDS) Worldwide to bring the WiDS regional conference to Cambridge, Massachusetts. This year, WiDS Worldwide will join us on-site, and we will also have a live stream to accommodate a global audience."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-02-09"
+  start-date-time: "2025-02-10 12:30"
+  end-date-time: "2025-02-10 13:30"
+  talk-location: "Phillips Auditorium, Center for Astrophysics, 60 Garden Street"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Nicolò Pinciroli (Polytechnic of Milan, Italy), AI and complex networks in multimodal X-ray astrophysics.<br>Abstract: Astrophysical observations are described by multimodal data such as light curves, spectra, and scientific texts. The extraction of compact representations from these data helps identify meaningful patterns and understand their physical meaning. This talk focuses on three works that use deep learning and complex networks to achieve these goals. The first work shows how autoencoders can compress X-ray spectra into a low-dimensional latent space while preserving physical information. The second work shows that light curves can be aligned with textual summaries using contrastive learning. This alignment generates a shared compact multimodal representation of both modalities. Finally, the third work shows that complex networks can capture patterns in multimodal data, revealing anomalies (such as rare astrophysical sources)."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjUwaTEyNmRrY3FrcmgwbXJ0Mzhscm5udm8gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
   event-name: "AstroAI lunch seminar"
