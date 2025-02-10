@@ -47,7 +47,7 @@
   calendar-link:
   
 - type: "external-event"
-  event-name: "Colloquium with Peter Stone (University of Texas at Austin)"
+  event-name: "MIT Physics Colloquium"
   event-organizer: "MIT Department of Physics"
   more-info-link: "https://physics.mit.edu/events/david-and-edith-harris-physics-colloquium-series/"
   event-post-date: "2025-02-02"
@@ -55,7 +55,7 @@
   end-date-time: "2025-02-13 17:00"
   talk-location: "MIT 10-250"
   talk-zoom:
-  event-details: "Peter Stone is the founder and director of the Learning Agents Research Group (LARG) within the Artificial Intelligence Laboratory in the Department of Computer Science at The University of Texas at Austin, as well as associate department chair and Director of Texas Robotics. He was a co-founder of Cogitai, Inc. and is now Chief Scientist of Sony AI."
+  event-details: "Peter Stone (University of Texas at Austin), Multiagent Reinforcement Learning: Cooperation and Competition <br> Peter Stone is the founder and director of the Learning Agents Research Group (LARG) within the Artificial Intelligence Laboratory in the Department of Computer Science at The University of Texas at Austin, as well as associate department chair and Director of Texas Robotics. He was a co-founder of Cogitai, Inc. and is now Chief Scientist of Sony AI."
   calendar-link:
   
 - type: "external-event"
@@ -79,7 +79,7 @@
   end-date-time: "2025-02-10 13:30"
   talk-location: "Phillips Auditorium, Center for Astrophysics, 60 Garden Street"
   talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
-  event-details: "The speaker will be Nicolò Pinciroli (Polytechnic of Milan, Italy), who will talk about: AI and complex networks in multimodal X-ray astrophysics.<br><br>Abstract: Astrophysical observations are described by multimodal data such as light curves, spectra, and scientific texts. The extraction of compact representations from these data helps identify meaningful patterns and understand their physical meaning. This talk focuses on three works that use deep learning and complex networks to achieve these goals. The first work shows how autoencoders can compress X-ray spectra into a low-dimensional latent space while preserving physical information. The second work shows that light curves can be aligned with textual summaries using contrastive learning. This alignment generates a shared compact multimodal representation of both modalities. Finally, the third work shows that complex networks can capture patterns in multimodal data, revealing anomalies (such as rare astrophysical sources)."
+  event-details: "Nicolò Pinciroli (Polytechnic of Milan, Italy), AI and complex networks in multimodal X-ray astrophysics.<br>Abstract: Astrophysical observations are described by multimodal data such as light curves, spectra, and scientific texts. The extraction of compact representations from these data helps identify meaningful patterns and understand their physical meaning. This talk focuses on three works that use deep learning and complex networks to achieve these goals. The first work shows how autoencoders can compress X-ray spectra into a low-dimensional latent space while preserving physical information. The second work shows that light curves can be aligned with textual summaries using contrastive learning. This alignment generates a shared compact multimodal representation of both modalities. Finally, the third work shows that complex networks can capture patterns in multimodal data, revealing anomalies (such as rare astrophysical sources)."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjUwaTEyNmRrY3FrcmgwbXJ0Mzhscm5udm8gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"

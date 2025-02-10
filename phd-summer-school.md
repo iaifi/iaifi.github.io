@@ -27,7 +27,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ## Apply
 
-**[Applications are now open](https://app.smartsheet.com/b/form/e8dcb6c8564a45d5a61cb0ecafec2bd4) for the 2025 IAIFI Summer School. The deadline to apply is February 7, 2025.**
+**Applications are now closed for the 2025 IAIFI Summer School. [Subscribe to our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates on future opportunities.**
 
 
 ## Accommodations

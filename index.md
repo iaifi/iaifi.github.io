@@ -186,9 +186,6 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***Our [IAIFI Colloquium series](events.html) will continue on February 14 with IAIFI Fellow Sam Bright-Thonney.*** Recordings of our previous [colloquium talks](events.html) are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
-***Applications are now open for our [2025 IAIFI Summer School](phd-summer-school.html).*** The Summer School will be held at Harvard, **August 4–8, 2025** and will include lectures, hands-on tutorials, and a hackathon for early career AI+Physics researchers.
-{:.success}
-
 <style>
 .calendar-container{
     position: relative;
