@@ -61,7 +61,7 @@ Click on the calendar items to see event details.
                   <i>{{start_date_time_in_seconds | date: "%l:%M%P" | strip}}-{{end_date_time_in_seconds | date: "%l:%M%P" | strip}}</i><br>
                   <i>{{event.talk-location}}</i><br><br>
 
-                  {% if event.type %}{{site.data.talk-categories[event.type].name}}{% endif %}
+                  {% if event.type %}{% unless site.data.talk-categories[event.type].hide_category_on_button %}{{site.data.talk-categories[event.type].name}}: {% endunless %}{% endif %}
                   {% if event.speaker-name %}{{event.speaker-name}}{% endif %}
                   {% if event.event-name %}{{event.event-name}}{% endif %}
                 </a>
