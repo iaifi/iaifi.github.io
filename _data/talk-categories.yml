@@ -53,6 +53,7 @@ social:
   zoom:
   button_type: button--secondary
   hide_on_past: true
+  hide_category_on_button: true
   webpage: "https://iaifi.org/social-events.html"
 
 internal-other:
