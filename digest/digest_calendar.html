@@ -16,66 +16,75 @@
 
 
 <!-- Calendar -->
-## IAIFI Events Calendar
+## IAIFI Events Calendar {#events-calendar}
 
-Click on the calendar items to see event details.
 
-<!-- Creating calendar grid -->
-<div class="grid-container">
-<div class="grid grid--p-1">
-      {% for column in site.data.calendar.columns %}
-        <div class="cell cell--{{column.column_width}}" align="center">
-          <b><i>{{column.name}}</i></b>
-        </div>
-      {% endfor %}
-  </div>
+
+<div class="hide_on_desktop" markdown="1">
+  Calendar view is hidden on narrow screens.  [Click here](https://iaifi.org/digest/{{digest_date}}#events-calendar) to view on a web browser.
 </div>
-<hr>
-{% assign day_counter = 0 %}
-{% for i in (1..2) %}
-<div class="grid-container">
-  <div class="grid grid--p-1">
+
+<div class="hide_on_mobile">
+  Click on the calendar items to see event details.<br><br>
+  
+  <!-- Creating calendar grid -->
+  <div class="grid-container">
+    <div class="grid grid--p-1">
       {% for column in site.data.calendar.columns %}
-        <div class="cell cell--{{column.column_width}}" align="center">
-          {% assign day_counter_in_seconds = day_counter | times: 60 | times: 60 | times: 24 %}
-          {% assign this_day_start_in_seconds = digest_start_in_seconds | plus: day_counter_in_seconds %}
-          {% assign day_duration_in_seconds = column.day_span | times: 60 | times: 60 | times: 24 %}
-          {% assign this_day_end_in_seconds = this_day_start_in_seconds | plus: day_duration_in_seconds | minus: 1 %}
-          
-          <b>
+      <div class="cell cell--{{column.column_width}}" align="center">
+        <b><i>{{column.name}}</i></b>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  <hr>
+  {% assign day_counter = 0 %}
+  {% for i in (1..2) %}
+  <div class="grid-container">
+    <div class="grid grid--p-1">
+      {% for column in site.data.calendar.columns %}
+      <div class="cell cell--{{column.column_width}}" align="center">
+        {% assign day_counter_in_seconds = day_counter | times: 60 | times: 60 | times: 24 %}
+        {% assign this_day_start_in_seconds = digest_start_in_seconds | plus: day_counter_in_seconds %}
+        {% assign day_duration_in_seconds = column.day_span | times: 60 | times: 60 | times: 24 %}
+        {% assign this_day_end_in_seconds = this_day_start_in_seconds | plus: day_duration_in_seconds | minus: 1 %}
+        
+        <b>
           {% if column.name == "Monday" %}{{this_day_start_in_seconds | date: "%b %e"}}
           {% elsif column.name == "Sat/Sun" %}{{this_day_start_in_seconds | date: "%b %e"}}/{{this_day_end_in_seconds | date: "%b %e"}}
           {% else %}{{this_day_start_in_seconds | date: "%b %e"}}
           {% endif %}
-          </b><br><br>
-
+        </b><br><br>
+        
+        
+        {% for event in event_list %}
+        {% assign start_date_time_in_seconds = event.start-date-time | date: "%s" | times: 1 %}
+        {% assign end_date_time_in_seconds = event.end-date-time | date: "%s" | times: 1 %}
+        {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
+        
+        {% if this_day_start_in_seconds <= start_date_time_in_seconds and start_date_time_in_seconds < this_day_end_in_seconds %}
+          <a class="button {{site.data.talk-categories[event.type].button_type}} button--rounded button--sm" href="#{{this_anchor}}">
+          <!--<i>{{start_date_time_in_seconds | date: "%b %e, %Y"}}</i><br>-->
+          <i>{{start_date_time_in_seconds | date: "%l:%M%P" | strip}}-{{end_date_time_in_seconds | date: "%l:%M%P" | strip}}</i><br>
+          <i>{{event.talk-location}}</i><br><br>
           
-          {% for event in event_list %}
-            {% assign start_date_time_in_seconds = event.start-date-time | date: "%s" | times: 1 %}
-            {% assign end_date_time_in_seconds = event.end-date-time | date: "%s" | times: 1 %}
-            {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
-          
-            {% if this_day_start_in_seconds <= start_date_time_in_seconds and start_date_time_in_seconds < this_day_end_in_seconds %}
-                <a class="button {{site.data.talk-categories[event.type].button_type}} button--rounded button--sm" href="#{{this_anchor}}">
-                  <!--<i>{{start_date_time_in_seconds | date: "%b %e, %Y"}}</i><br>-->
-                  <i>{{start_date_time_in_seconds | date: "%l:%M%P" | strip}}-{{end_date_time_in_seconds | date: "%l:%M%P" | strip}}</i><br>
-                  <i>{{event.talk-location}}</i><br><br>
-
-                  {% if event.type %}{% unless site.data.talk-categories[event.type].hide_category_on_button %}{{site.data.talk-categories[event.type].name}}: {% endunless %}{% endif %}
-                  {% if event.speaker-name %}{{event.speaker-name}}{% endif %}
-                  {% if event.event-name %}{{event.event-name}}{% endif %}
-                </a>
-                <br><br>
-            {% endif %}
+          {% if event.type %}{% unless site.data.talk-categories[event.type].hide_category_on_button %}{{site.data.talk-categories[event.type].name}}: {% endunless %}{% endif %}
+          {% if event.speaker-name %}{{event.speaker-name}}{% endif %}
+          {% if event.event-name %}{{event.event-name}}{% endif %}
+          </a>
+          <br><br>
+          {% endif %}
           {% endfor %}
-
+          
           {% assign day_counter = day_counter | plus: column.day_span %}
-        </div>
+      </div>
       {% endfor %}
+    </div>
   </div>
+  <hr>
+  {% endfor %}
+  
 </div>
-<hr>
-{% endfor %}
 
 [View full IAIFI Events Calendar](https://iaifi.org/events-calendar.html){:.button.button--outline-primary.button--pill.button--sm}
 

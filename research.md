@@ -96,22 +96,22 @@ By combining revolutionary advances in deep learning from AI with the time-teste
 <div class="grid-container">
   <div class="grid grid--p-2" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     
-    <div class="cell cell--4" style="flex: 0 0 31%; max-width: 31%; box-sizing: border-box;">
-      <center>
-      <a href="/ai-research.html">
-        <div class="card" style="height: auto%; min-height: 150px; padding: 10px; text-align: center; background: #f5f5f5; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); font-size: 12px;">
-              <div class="card_header" style="word-wrap: break-word; overflow-wrap: break-word; text-align: center; max-width: 100%; white-space: normal; padding: 5px;">
-              <h4 style="font-size: 14px; line-height: 1.2; margin: 0;">REPRESENTATION/ MANIFOLD LEARNING</h4>
-              </div>
-              <div class="card_content" style="color: black;">
-              Developing algorithms that categorize and label data and improve the features and knowledge extracted. Often deep physics insight can found in the structure of learned representations. Conversely, inductive biases from physics and understanding of a problem’s underlying manifold structure can inform the structure of AI architectures.
-              </div>
-        </div>
-      </a>
-      </center>
+<div class="cell cell--4" style="flex: 0 0 31%; max-width: 31%; box-sizing: border-box;">
+<center>
+<a href="/ai-research.html">
+<div class="card" style="height: auto%; min-height: 150px; padding: 10px; text-align: center; background: #f5f5f5; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); font-size: 12px;">
+    <div class="card_header" text-align: center; max-width: 100%; white-space: normal; padding: 5px;">
+        <h4 style="font-size: 14px; line-height: 1.2; margin: 0; style="word-wrap: break-word; overflow-wrap: break-word;">REPRESENTATION/ MANIFOLD LEARNING</h4>
     </div>
+    <div class="card_content" style="color: black;">
+        Developing algorithms that categorize and label data and improve the features and knowledge extracted. Often deep physics insight can found in the structure of learned representations. Conversely, inductive biases from physics and understanding of a problem’s underlying manifold structure can inform the structure of AI architectures.
+    </div>
+</div>
+</a>
+</center>
+</div>
 
-  </div>
+</div>
 </div>
 
 
