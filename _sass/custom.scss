@@ -1,0 +1,15 @@
+/* start custom scss snippet */
+
+@media (max-width: 600px) {
+  .hide_on_mobile {
+    display: none;
+  }
+}
+
+@media (min-width: 600px) {
+  .hide_on_desktop {
+    display: none;
+  }
+}
+
+/* end custom scss snippet */
