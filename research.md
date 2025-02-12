@@ -90,7 +90,7 @@ By combining revolutionary advances in deep learning from AI with the time-teste
   </div>
 </div>
 
-
+<!---
 ## [Cross-Cutting Themes](/cross-cutting-research.html)
 
 <div class="grid-container">
@@ -120,7 +120,7 @@ By combining revolutionary advances in deep learning from AI with the time-teste
 [Uncertainty Quantification/Robust AI](/cross-cutting-research.html#uncertainty-quantification/robust-ai){:.button.button--outline-primary.button--pill.button--md}
 [Physics-Motivated Optimization](/cross-cutting-research.html#physics-motivated-optimization){:.button.button--outline-primary.button--pill.button--md}
 [Reinforcement Learning](/cross-cutting-research.html#reinforcement-learning){:.button.button--outline-primary.button--pill.button--md}
-
+--->
 
 ## Highlights
 
