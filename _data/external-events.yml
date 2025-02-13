@@ -21,6 +21,30 @@
   talk-zoom:
   event-details: "Join AstroAI for a transformative summer research experience in 2025, where undergraduate and graduate students will collaborate with AstroAI scientists at the exciting intersection of astronomy and artificial intelligence. Students will gain hands-on experience analyzing astronomical data, developing new algorithms, and exploring groundbreaking discoveries in astrophysics. As part of this immersive program, you will work alongside a multidisciplinary team, expand your professional network, and build valuable research and technical skills that will set you apart in today's competitive scientific landscape. Whether you are looking to build a solid foundation for graduate school or further your career in astrophysics, data science, or AI, the summer program at AstroAI is the perfect launchpad for your journey."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "Advanced Artificial Intelligence for Precision High Energy Physics"
+  event-organizer: "The Università degli Studi di Milano (Italy), Nikhef and Vrije Universiteit Amsterdam (The Netherlands), and the Higgs Centre for Theoretical Physics, Edinburgh University (UK)"
+  more-info-link: "https://aiep.lakecomoschool.org/"
+  event-post-date: "2025-02-16"
+  start-date-time: "2025-07-14 9:00"
+  end-date-time: "2025-07-25 17:00"
+  talk-location: "Lake Como School of Advanced Studies (Como, Italy)"
+  talk-zoom:
+  event-details: "Artificial intelligence techniques are becoming increasingly important in high energy physics (HEP), with a range of applications that goes from analytic computations and symbolic regression to modeling, optimization and pattern recognition. Many of these applications tackle cutting-edge problems in machine learning (ML), and in fact address issues, such as the need to accurate uncertainty estimations, that are often disregarded in the most common ML applications. The goal of this school is to provide hands-on training on cutting edge machine learning methods in HEP by combining extensive advanced courses taught with extended  tutorial sessions. The tutorials will exploit as a playing ground the NNPDF open-source code, which, originally aimed at the determination of parton distribution, makes use of  a variety of current ML, statistical and analysis tools and techniques of wide applicability."
+  calendar-link:
+  
+- type: "external-workshop"
+  event-name: "Accelerating statistical inference and experimental design with machine learning"
+  event-organizer: "The Isaac Newton Institute for Mathematical Sciences"
+  more-info-link: "https://www.newton.ac.uk/event/rclw03/"
+  event-post-date: "2025-02-16"
+  start-date-time: "2025-06-23 9:00"
+  end-date-time: "2025-06-27 17:00"
+  talk-location: "Isaac Newton Institute in Cambridge, UK"
+  talk-zoom:
+  event-details: "This workshop focuses on leveraging modern machine learning to accelerate statistical inference, experimental design, and scientific discovery. It features research talks, tutorials, and a poster session, with ample time reserved for informal discussions. The tutorials cover important background, e.g. on experimental design and diffusion models.<br><br>The overall aim is that, by the end of the workshop, attendees will be well-acquainted with both the foundations and the latest trends and advances in the field."
+  calendar-link:
 
 - type: "external-workshop"
   event-name: "Frontiers in NeuroAI - Kempner Institute Symposium"
