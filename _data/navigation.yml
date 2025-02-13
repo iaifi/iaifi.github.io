@@ -57,14 +57,8 @@ header:
     subtitles:
       - title: Overview
         url: /research.html
-      - title: Foundational AI
-        url: /ai-research.html
-      - title: Physics Theory
-        url: /physics-theory-research.html
-      - title: Physics Experiment
-        url: /physics-experiment-research.html
-      - title: Astrophysics
-        url: /astrophysics-research.html
+      - title: Research by Domain
+        url: /domain-research.html
       - title: Papers and Code
         url: /papers.html
       - title: Thematic Discussions

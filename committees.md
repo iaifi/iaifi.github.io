@@ -42,7 +42,6 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 
 # Early Career and Ethics
 * Status: Will rotate membership in January 2025
-* [View the ECEC expectations](https://docs.google.com/document/d/1wmjxpPnLZgVaDj4W_JUr7mtnSFZ9tlfv29GqlE2E1Rg/edit?usp=sharing)
 * Time Commitment: One-hour meeting per month and occasional email discussion
 * [Learn more about this committee](/ecec.html)
 * Current ECEC: Lisa Barsotti (Chair), Tess Smidt, Carolina Cuesta-Lazaro, Jessie Micallef, Elyssa Hofgard, Zeviel Imani, Leo Yang, Marisa LaFleur

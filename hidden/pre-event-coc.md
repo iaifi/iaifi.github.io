@@ -1,19 +1,31 @@
 ---
 layout: article
+header: false
+footer: false
 title: "Pre-Event CoC"
 show_title: false
 ---
 
 {% assign now = 'now' | date: '%s' | plus: 0 %}
 {% assign event-time = 'now' | date: '%s' | plus: 900 %}
+{% assign before-event = 'now' | date: '%s' | minus: 1800 %}
 
 {% assign talks = site.data.colloquia | sort: "start-date-time" %}
 
+<img src="https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:3600px;width:100%">
+
 {% for talk in talks %}
   {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
-  {% unless start_date_time_in_seconds < event-time %}{% continue %}{% endunless %}
+  {% unless start_date_time_in_seconds < event-time and start_date_time_in_seconds > before-event %}{% continue %}{% endunless %}
 
-  {% include colloquium_item.html talk=talk %}
+## Welcome to the IAIFI Colloquium!
+
+### {{talk.start-date-time  | date: "%A, %B %e, %Y"}}
+We will begin at 2:05 pm ET.
+
+**{{talk.speaker-name}}, {{talk.speaker-affiliation}}**
+
+*{{talk.talk-title}}*
 
 {% endfor %}
 

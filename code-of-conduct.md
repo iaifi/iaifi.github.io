@@ -9,7 +9,7 @@ Regardless of their position or seniority, members of the IAIFI and participants
 
 * Act in an ethical and collaborative manner at all times and abide by the [MIT Physics Community Values](https://physics.mit.edu/about-physics/community-values/)
 * Work with the utmost scientific integrity and respect the confidentiality of information and work presented at internal IAIFI meetings
-* Treat each other with dignity and respect, support and encourage each other's growth, and step in as needed to maintain an environment free of discrimination, harassment, and bullying
+* Treat each other with dignity and respect, support and encourage each other's growth, and step in as needed to maintain an environment free of discrimination, harassment, and bullying.
 
 Furthermore, members of the IAIFI and participants in IAIFI activities may not engage in retaliation against anyone for objecting to a behavior that may violate this code, reporting a violation of this code, or participating in the resolution of such a complaint.
 
