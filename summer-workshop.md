@@ -6,13 +6,13 @@ title:
 <img src="images/summer-workshop-logo_2025.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 
 
-The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI.
+The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. We are also accepting submissions for contributed talks and/or posters.
 
 * **The 2025 Summer Workshop will be held August 11–15, 2025**
 * **Location: Harvard University (Cambridge, MA)**
 * **[Registration is now open](https://buy.stripe.com/fZe9Ci53xfX90eceVb) for the 2025 IAIFI Summer Workshop; Register by July 31, 2025.** 
 
-[Register for the 2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg}
+[Register for the 2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg} [Submit a Talk/Poster](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d){:.button.button--outline-primary.button--pill.button--lg}
 
 Here's what attendees at previous IAIFI Summer Workshops had to say about the experience: 
 
