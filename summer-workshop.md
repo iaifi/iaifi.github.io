@@ -3,21 +3,16 @@ layout: article
 title: 
 ---
 
-***Stay tuned for updates about our 2025 IAIFI Summer Workshop.*** [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates.
-{:.info}
-
 <img src="images/summer-workshop-logo_2025.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 
 
 The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI.
 
 * **The 2025 Summer Workshop will be held August 11–15, 2025**
-* **Location: TBA (Cambridge, MA)**
-* **Registration is not yet open for the Summer Workshop** 
+* **Location: Harvard University (Cambridge, MA)**
+* **[Registration is now open](https://buy.stripe.com/fZe9Ci53xfX90eceVb) for the 2025 IAIFI Summer Workshop; Register by July 31, 2025.** 
 
-**In the meantime, check out the [videos](https://youtube.com/playlist?list=PLBY0ED2StbGZ-XaBaBu4IFgkRNyj54Ba9&feature=shared) and [slides](https://drive.google.com/drive/folders/1oc50D5LE6BvAzHozT98VyLn1KoU1aN9d?usp=sharing) from the [2024 IAIFI Summer Workshop](https://iaifi.org/past-workshops.html#2024-summer-workshop)!**
-{:.info}
-
+[Register for the 2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg}
 
 Here's what attendees at previous IAIFI Summer Workshops had to say about the experience: 
 
