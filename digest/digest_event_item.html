@@ -58,5 +58,5 @@
   {% if talk.rsvp-link %}[RSVP/Sign Up]({{talk.rsvp-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if zoom_link %}[Join on Zoom]({{zoom_link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if talk.calendar-link %} [Add to Calendar]({{talk.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %} {% if talk.more-info-link %}[More Details]({{talk.more-info-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
 {%- endif -%}
 {%- if is_last_week and (talk.slides-link or youtube-link) %}
-  {% if talk.slides-link %}[Talk Slides]({{talk.slides-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if talk.youtube-link %}[YouTube Recording]({{talk.youtube-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %}
+  {% if talk.slides-link %}[Talk Slides](/{{talk.slides-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if talk.youtube-link %}[YouTube Recording]({{talk.youtube-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %}
 {%- endif -%}
