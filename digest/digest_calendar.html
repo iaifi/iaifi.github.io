@@ -16,12 +16,10 @@
 
 
 <!-- Calendar -->
-## IAIFI Events Calendar {#events-calendar}
-
-
+## IAIFI Events Calendar
 
 <div class="hide_on_desktop" markdown="1">
-  Calendar view is hidden on narrow screens.  [Click here](https://iaifi.org/digest/{{digest_date}}#events-calendar) to view on a web browser.
+  Calendar view is hidden on narrow screens.  [Click here](https://iaifi.org/digest/{{digest_date}}#iaifi-events-calendar) to view on a web browser.
 </div>
 
 <div class="hide_on_mobile">
@@ -69,7 +67,7 @@
           <i>{{event.talk-location}}</i><br><br>
           
           {% if event.type %}{% unless site.data.talk-categories[event.type].hide_category_on_button %}{{site.data.talk-categories[event.type].name}}: {% endunless %}{% endif %}
-          {% if event.speaker-name %}{{event.speaker-name}}{% endif %}
+          {% if event.speaker-name %}{{event.speaker-name}}{% elsif event.talk-title %}{{event.talk-title}}{% endif %}
           {% if event.event-name %}{{event.event-name}}{% endif %}
           </a>
           <br><br>
