@@ -69,7 +69,7 @@
           <i>{{event.talk-location}}</i><br><br>
           
           {% if event.type %}{% unless site.data.talk-categories[event.type].hide_category_on_button %}{{site.data.talk-categories[event.type].name}}: {% endunless %}{% endif %}
-          {% if event.speaker-name %}{{event.speaker-name}}{% endif %}
+          {% if event.speaker-name %}{{event.speaker-name}}{% elsif event.talk-title %}{{event.talk-title}}{% endif %}
           {% if event.event-name %}{{event.event-name}}{% endif %}
           </a>
           <br><br>
