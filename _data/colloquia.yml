@@ -11,11 +11,11 @@
   talk-title: "Collide and compress: building robust embedding spaces to simplify new physics searches at the LHC"
   talk-abstract: "Artificial intelligence has revolutionized the way we do physics at the Large Hadron Collider (LHC), and has found its way into nearly every stage of the process of turning raw detector measurements into scientific results. At present, most AI use cases remain highly application-specific, with models trained to isolate a narrow class of signals. The recent emergence of highly capable “foundation models” across multiple domains — coupled with the absence of clear phase space targets for discovering new physics at the LHC — motivates a shift in focus towards large, multipurpose models. In this talk we present recent work towards this end, unified by the idea of constructing physically meaningful embedding spaces for collider data. We highlight a particular application to anomaly detection at the LHC, discuss questions of robustness, and outline directions of ongoing and future work."
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/NDN2ZDBja3Bwa29pNTQzNXVibjlmbnRkY3ZfMjAyNTAyMTRUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn"
-  slides-link: ""
-  youtube-link: ""
+  slides-link: "talks/2025_02_14_IAIFI_Colloquium_Bright-Thonney.pdf"
+  youtube-link: "https://www.youtube.com/live/07fVkzIlx-M?feature=shared&t=540"
   speaker-thrust: "Physics Experiment"
   speaker-gender: "Man"
-  talk-attendance: ""
+  talk-attendance: 18 virtual, 19 in person
 
 - type: "colloquium"
   semester: "spring-2025"
