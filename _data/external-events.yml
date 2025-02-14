@@ -9,6 +9,18 @@
   talk-zoom:
   event-details: "MIAPbP will be hosting a workshop on the topic of 'Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics' from August 25 - September 19 at the Munich Institute for Astro-, Particle- and Biophysics (MIAPbP) in Munich, Germany. Applications for the workshop are open until January 19th 2025. If you are interested in large-scale foundation models for science, physics-inspired methods in artificial intelligence, this workshop may be a great fit for you. The MIAPbP team hopes to discuss over the course of four weeks, what the interplay is between these ideas for scientific applications."
   calendar-link:
+  
+- type: "external-workshop"
+  event-name: "BOOST 2025 -- 17th International Workshop on Boosted Object Phenomenology, Reconstruction, Measurements, and Searches at Colliders"
+  event-organizer: "BOOST 2025 Local Organizing Committee"
+  more-info-link: "https://indico.physics.brown.edu/event/18/"
+  event-post-date: "2025-02-16"
+  start-date-time: "2025-07-28 9:00"
+  end-date-time: "2025-08-01 17:00"
+  talk-location: "Brown University, Providence, Rhode Island"
+  talk-zoom:
+  event-details: "BOOST 2025 is the 17th conference of a series of successful joint theory/experiment workshops that bring together the world's leading experts in theoretical and experimental collider physics to discuss the latest progress and develop new approaches on the reconstruction of and use of jet substructure to study Quantum Chromodynamics (QCD) and search for physics beyond the Standard Model."
+  calendar-link:
 
 - type: "external-event"
   event-name: "AstroAI Summer Program - Unveiling the Universe with AI/ML"
