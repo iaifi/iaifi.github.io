@@ -186,7 +186,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***Registration is now open for the 2025 IAIFI Summer Workshop.*** [Register by July 31, 2025](https://iaifi.org/summer-workshop). 
 {:.success}
 
-***Our [IAIFI Colloquium series](events.html) will continue on February 14 with IAIFI Fellow Sam Bright-Thonney.*** Recordings of our previous [colloquium talks](events.html) are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue on February 28 with Daniel Whiteson, Professor of Physics and Astronomy at UC Irvine.*** Recordings of our previous [colloquium talks](events.html) are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>
