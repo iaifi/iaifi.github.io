@@ -97,10 +97,10 @@
 
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
+  speaker-name: Dennis Noll
+  speaker-title: Postdoctoral Researcher
+  speaker-affiliation: Berkeley Lab
+  speaker-website: https://www.linkedin.com/in/dennis-noll/
   speaker-photo-location:
   start-date-time: "2025-03-18 13:00"
   end-date-time: "2025-03-18 14:00"
@@ -109,8 +109,8 @@
   talk-abstract: "Abstract to come."
   slides-link: ""
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Physics Experiment"
+  speaker-gender: "Man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMThUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
