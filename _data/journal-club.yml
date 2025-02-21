@@ -30,11 +30,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "WOTAN: Weakly-supervised Optimal Transport Attention-based Noise Mitigation"
   talk-abstract: "We improve upon the existing literature on pileup mitigation techniques studied at Large Hadron Collider (LHC) experiments for disentangling proton-proton collisions. Pileup presents a salient problem that, if not checked, hinders the search for new physics and Standard Model precision measurements such as jet energy, jet substructure, missing momentum, and lepton isolation. The primary technique that serves as the foundation for this work is known as Training Optimal Transport using Attention Learning (TOTAL). The TOTAL methodology compares matched samples with and without pileup interactions present to robustly learn an accurate description of pileup as a transport function without any need for assumptions of pileup nature derived from simulations. In this work, we develop an improved version of TOTAL known as Weakly-supervised Optimal Transport Attention-based Noise Mitigation (WOTAN) by reducing the degree of TOTAL’s self-supervision. The reduction in self-supervision allows us to demonstrate the power of optimal transport-based pileup mitigation in being able to use data for particle classification instead of solely simulations. Despite its reduced supervision, our work still outperforms existing conventional pileup mitigation approaches by improving the resolution of key observables relevant for both precision measurements and BSM searches in events with pileup interaction counts up to 200. WOTAN is the first fully data-driven machine learning pileup mitigation strategy capable of operating at LHC experiments."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1gbirX3ZUxb0Qscbw-CvoY0RnXMgVMkmw/view?usp=sharing"
   youtube-link:
   speaker-thrust: "Physics Experiment"
   speaker-gender: "Man"
-  talk-attendance:  in person, virtual
+  talk-attendance: 5 in person, 2 virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMThUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 - type: "journal-club"
@@ -44,8 +44,8 @@
   speaker-affiliation: Research Laboratory of Electronics (MIT) and NTT Research
   speaker-website: "https://www.mit.edu/~ziyinl/index.html"
   speaker-photo-location:
-  start-date-time: "2025-02-25 13:00"
-  end-date-time: "2025-02-25 14:00"
+  start-date-time: "2025-03-04 13:00"
+  end-date-time: "2025-03-04 14:00"
   talk-location: "IAIFI Penthouse"
   talk-title: "Title to come."
   talk-abstract: "Abstract to come."
@@ -55,25 +55,6 @@
   speaker-gender: "Man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMjVUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
-  
-- type: "journal-club"
-  semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
-  speaker-photo-location:
-  start-date-time: "2025-03-04 13:00"
-  end-date-time: "2025-03-04 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
-  slides-link: ""
-  youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance:  in person, virtual
-  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMDRUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 - type: "journal-club"
   semester: "spring-2025"
@@ -97,10 +78,10 @@
 
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
+  speaker-name: Dennis Noll
+  speaker-title: Postdoctoral Researcher
+  speaker-affiliation: Berkeley Lab
+  speaker-website: https://www.linkedin.com/in/dennis-noll/
   speaker-photo-location:
   start-date-time: "2025-03-18 13:00"
   end-date-time: "2025-03-18 14:00"
@@ -109,16 +90,16 @@
   talk-abstract: "Abstract to come."
   slides-link: ""
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Physics Experiment"
+  speaker-gender: "Man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMThUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
+  speaker-name: Career Advice Panel
+  speaker-title: Industry Partnership Committee
+  speaker-affiliation: IAIFI
   speaker-website:
   speaker-photo-location:
   start-date-time: "2025-04-01 13:00"

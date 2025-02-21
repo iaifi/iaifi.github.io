@@ -7,6 +7,8 @@
 {% if talk.talk-abstract %}   * {{talk.talk-abstract}}
 {% endif -%}
 {% if is_previous and talk.slides-link %}    * <a href="{{talk.slides-link}}">Talk Slides</a> (for IAIFI members only)
+{% if is_previous and talk.youtube-link %}    * <a href="{{talk.youtube-link}}">Recording</a> (for IAIFI members only)
+{% endif -%}
 {% endif -%}
 
 
