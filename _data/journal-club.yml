@@ -44,8 +44,8 @@
   speaker-affiliation: Research Laboratory of Electronics (MIT) and NTT Research
   speaker-website: "https://www.mit.edu/~ziyinl/index.html"
   speaker-photo-location:
-  start-date-time: "2025-02-25 13:00"
-  end-date-time: "2025-02-25 14:00"
+  start-date-time: "2025-03-04 13:00"
+  end-date-time: "2025-03-04 14:00"
   talk-location: "IAIFI Penthouse"
   talk-title: "Title to come."
   talk-abstract: "Abstract to come."
@@ -55,25 +55,6 @@
   speaker-gender: "Man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAyMjVUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
-  
-- type: "journal-club"
-  semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
-  speaker-photo-location:
-  start-date-time: "2025-03-04 13:00"
-  end-date-time: "2025-03-04 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
-  slides-link: ""
-  youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance:  in person, virtual
-  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMDRUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 - type: "journal-club"
   semester: "spring-2025"
@@ -116,9 +97,9 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
+  speaker-name: Career Advice Panel
+  speaker-title: Industry Partnership Committee
+  speaker-affiliation: IAIFI
   speaker-website:
   speaker-photo-location:
   start-date-time: "2025-04-01 13:00"

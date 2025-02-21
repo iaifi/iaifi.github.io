@@ -133,7 +133,7 @@
   talk-zoom:
   event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWxhcGM3OHE3ZnZkZWFwZDlhMG5tajdkdGVfMjAyNTAzMDdUMjIwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/3fa7e2c1366f4a5880ed0d3da05b7398
   more-info-link:
   attendance-in-person:
   attendance-virtual:
@@ -148,7 +148,7 @@
   talk-zoom:
   event-details: "This is an opportunity for IAIFI members to meet up for an informal co-working session. The Penthouse space will be set up for collaboration and conversation. Feel free to stop by for a short time, or stay for the whole session. Refreshments and snacks will be provided!"
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWZjZDVqbDRlczZhOTc5azJxa2czYmtmMDggcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/3fa7e2c1366f4a5880ed0d3da05b7398
   more-info-link:
   attendance-in-person:
   attendance-virtual:
@@ -161,9 +161,9 @@
   end-date-time: "2025-03-07 13:30"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
-  event-details: Details to come
+  event-details: "During the lunch, Chris will discuss his career trajectory and experience in industry. This will be an opportunity for you to get tips for pursuing a career in industry and to network with Chris. More details to be provided soon."
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTAzMDdUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/3fa7e2c1366f4a5880ed0d3da05b7398
   more-info-link:
   
 - type: "social"
@@ -190,6 +190,21 @@
   event-details: "After Daniel Whiteson's colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAyMjhUMjAwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Grad Student & Postdoc Meetup with Colloquium Speaker"
+  event-committee: "Speaker Selection Committee"
+  event-post-date: "2025-02-23"
+  start-date-time: "2025-02-28 10:00"
+  end-date-time: "2025-02-28 10:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "IAIFI graduate students and postdocs are invited to attend an informal, catered networking meetup with IAIFI's colloquium speaker Daniel Whiteson (Professor of Physics and Astronomy, UC Irvine). Bagels, pastries, and other refreshments will be provided."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAyMjhUMjAwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link: https://app.smartsheet.com/b/form/2f012f21f9fa4d558b269a2c120464a6
   more-info-link:
   attendance-in-person:
   attendance-virtual:
