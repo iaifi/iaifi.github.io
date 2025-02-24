@@ -10,6 +10,18 @@
   event-details: "MIAPbP will be hosting a workshop on the topic of 'Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics' from August 25 - September 19 at the Munich Institute for Astro-, Particle- and Biophysics (MIAPbP) in Munich, Germany. Applications for the workshop are open until January 19th 2025. If you are interested in large-scale foundation models for science, physics-inspired methods in artificial intelligence, this workshop may be a great fit for you. The MIAPbP team hopes to discuss over the course of four weeks, what the interplay is between these ideas for scientific applications."
   calendar-link:
   
+- type: "external-event"
+  event-name: "Princeton Machine Learning Theory Summer School"
+  event-organizer: "Boris Hanin (Assistant Professor, Princeton ORFE)"
+  more-info-link: "https://mlschool.princeton.edu/"
+  event-post-date: "2025-02-23"
+  start-date-time: "2025-08-12 09:00"
+  end-date-time: "2025-08-21 17:00"
+  talk-location: "Princeton University"
+  talk-zoom:
+  event-details: "This summer school is aimed at PhD students interested in machine learning theory. The primary goal is to showcase, through four main courses, a range of exciting recent developments in the subject. The primary focus this year is on theoretical advances in deep learning. An important secondary goal is to connect young researchers and foster community within theoretical machine learning."
+  calendar-link:
+
 - type: "external-workshop"
   event-name: "BOOST 2025 -- 17th International Workshop on Boosted Object Phenomenology, Reconstruction, Measurements, and Searches at Colliders"
   event-organizer: "BOOST 2025 Local Organizing Committee"
@@ -117,6 +129,42 @@
   talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
   event-details: "Nicolò Pinciroli (Polytechnic of Milan, Italy), AI and complex networks in multimodal X-ray astrophysics.<br>Abstract: Astrophysical observations are described by multimodal data such as light curves, spectra, and scientific texts. The extraction of compact representations from these data helps identify meaningful patterns and understand their physical meaning. This talk focuses on three works that use deep learning and complex networks to achieve these goals. The first work shows how autoencoders can compress X-ray spectra into a low-dimensional latent space while preserving physical information. The second work shows that light curves can be aligned with textual summaries using contrastive learning. This alignment generates a shared compact multimodal representation of both modalities. Finally, the third work shows that complex networks can capture patterns in multimodal data, revealing anomalies (such as rare astrophysical sources)."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjUwaTEyNmRrY3FrcmgwbXJ0Mzhscm5udm8gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: ML Tea Talk
+  event-organizer: CSAIL
+  more-info-link: https://projects.csail.mit.edu/ml-tea/
+  event-post-date: "2025-02-23"
+  start-date-time: "2025-02-24 16:00"
+  end-date-time: "2025-02-24 16:30"
+  talk-location: "Hewlett Room (MIT 32-G882)"
+  talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
+  event-details: "Tejas Jayashankar, Score-of-Mixture Training: One-Step Generative Model Training via Score Estimation of Mixture Distributions<br>Abstract: We propose Score-of-Mixture Training (SMT), a novel framework for training one-step generative models by minimizing a class of divergences called the α-skew Jensen–Shannon divergence. At its core, SMT estimates the score of mixture distributions between real and fake samples across multiple noise levels. Similar to consistency models, our approach supports both training from scratch (SMT) and distillation using a pretrained diffusion model, which we call Score-of-Mixture Distillation (SMD). It is simple to implement, requires minimal hyperparameter tuning, and ensures stable training. Experiments on CIFAR-10 and ImageNet 64×64 show that SMT/SMD are competitive with and can even outperform existing methods. <br>Refreshments (tea and pastry) will be served."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDY5a2ZjbGRuZ2ppN3F0NGVoY2wwaGtobmUgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "Morison Lecture with Zeynep Tufekci - 'What if the Real Threat is Artificial Good-Enough Intelligence?'"
+  event-organizer: "The Program in Science, Technology, and Society"
+  more-info-link: "https://docs.google.com/forms/d/e/1FAIpQLSc0kzzIIW_J4t1Ug8qFPEL-cTeT19JR15bmdsdLGdpLsxpDig/viewform?usp=header"
+  event-post-date: "2025-02-23"
+  start-date-time: "2025-02-24 12:00"
+  end-date-time: "2025-02-24 13:30"
+  talk-location: "The Nexus at Hayden Library, MIT"
+  talk-zoom:
+  event-details: "The Program in Science, Technology, and Society invites you to join us on Monday, February 24th, at 12:00 PM in the Nexus at Hayden Library for this year’s Morison Lecture and Prize, 'What if the Real Threat is Artificial Good-Enough Intelligence?' with Turkish-American Sociologist Zeynep Tufekci. This talk is free to the MIT community and open to the public."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-02-23"
+  start-date-time: "2025-02-24 12:30"
+  end-date-time: "2025-02-24 13:30"
+  talk-location: "Phillips Auditorium, Center for Astrophysics, 60 Garden Street"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Dimitri Zagorulia, Morphological Classification of Jets in Active Galactic Nuclei.<br>Abstract: This work explores the application of machine learning techniques to classifying jetted active galactic nuclei (AGN) based on Very-Long-Baseline Interferometry (VLBI) observations at frequencies 1–90 GHz. Building upon previous work by Fanaroff and Riley, who classified relativistic jets in radio galaxies on kiloparsec scales, we extend this classification to parsec scales, closer to the central supermassive black hole. This approach enables detailed study of jet spatial structures and can help enhance accuracy in global positioning systems. We define four morphological classes: single Gaussian source, double Gaussian source, and sources with single or double-sided jets. Synthetic models of AGN jets were generated to create a training dataset for a convolutional neural network (CNN). The CNN was trained on these synthetic data and subsequently applied to classify 130 thousand AGN jet images from the Astrogeo database. The distribution of images into designated classes, predicted by CNN, qualitatively matches the expected outcome."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M24wMnM5NnU5dXZqZTY3b2EzbHI4cXN0cjkgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
   event-name: "AstroAI lunch seminar"

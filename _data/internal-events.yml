@@ -164,7 +164,7 @@
   event-details: "During the lunch, Chris will discuss his career trajectory and experience in industry. This will be an opportunity for you to get tips for pursuing a career in industry and to network with Chris. More details to be provided soon."
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTAzMDdUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
   rsvp-link: https://app.smartsheet.com/b/form/3fa7e2c1366f4a5880ed0d3da05b7398
-  more-info-link:
+  more-info-link: https://www.linkedin.com/in/chris-w-murphy/
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
@@ -199,7 +199,7 @@
   event-committee: "Speaker Selection Committee"
   event-post-date: "2025-02-23"
   start-date-time: "2025-02-28 10:00"
-  end-date-time: "2025-02-28 10:30"
+  end-date-time: "2025-02-28 11:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
   event-details: "IAIFI graduate students and postdocs are invited to attend an informal, catered networking meetup with IAIFI's colloquium speaker Daniel Whiteson (Professor of Physics and Astronomy, UC Irvine). Bagels, pastries, and other refreshments will be provided."
