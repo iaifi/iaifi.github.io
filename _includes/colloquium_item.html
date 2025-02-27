@@ -5,7 +5,7 @@
 {% if talk.talk-abstract %}{% assign photo_size = 20 %}{% endif %}
 <img class="image" src="{{talk.speaker-photo-location}}" align="right" style="max-width:226px;width:{{photo_size}}%" hspace="10" vspace="10"/>
 
-* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {{talk.speaker-title}}, {{talk.speaker-affiliation}}**
+* **<a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a>, {% if talk.speaker-title %} {{talk.speaker-title}}, {% endif %} {{talk.speaker-affiliation}}**
     * **{{talk.start-date-time | date: "%A, %B %e, %Y"}}, {{talk.start-date-time | date: "%l:%M%P"}}–{{talk.end-date-time | date: "%l:%M%P" | strip}}, {{talk.talk-location}}**
     * *{{talk.talk-title}}*
 {% if talk.talk-abstract %}    * {{talk.talk-abstract}}{% endif %}
