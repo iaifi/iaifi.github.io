@@ -32,7 +32,6 @@ There are various levels of involvement in IAIFI:
 
 ## {{category.name}}
 
-<!-- create empty list -->
 {% assign personnel = '' | split: '' %}
 
 {% for block in category.blocks %}

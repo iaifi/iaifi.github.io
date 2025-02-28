@@ -10,38 +10,49 @@ aside:
 
 ## {{category.name}}
 
-{% if category.type3 %}
-{% assign personnel1 = site.data[category.type1].personnel %}
-{% assign personnel2 = site.data[category.type2].personnel %}
-{% assign personnel3 = site.data[category.type3].personnel %}
-{% assign personnel = personnel1 | concat: personnel2 | concat: personnel3 %}
-{% elsif category.type2 %}
-{% assign personnel1 = site.data[category.type1].personnel %}
-{% assign personnel2 = site.data[category.type2].personnel %}
-{% assign personnel = personnel1 | concat: personnel2 %}
-{% else %}
-{% assign personnel = site.data[category.type1].personnel %}
+{% assign personnel = '' | split: '' %}
+
+{% for block in category.blocks %}
+{% assign personnel = personnel | concat: site.data[block].personnel %}
+{% endfor %}
+
+{% assign members = '' | split: '' %}
+{% for tag in personnel  %}
+{% assign member = site.data.people[tag] %}
+{% assign members = members | push: member %}
+{% endfor %}
+
+{% if category.alphabetize %}
+{% assign members = members | sort: "name" %}
 {% endif %}
 
 <div class="card-columns">
   <!--<div class="row">-->
-  {% for member in personnel  %}
-     {% assign person = site.data.people[member] %}
+  {% for person in members  %}
+
+     <!-- test code for commas -->
+     {% assign name = person.name %}
+     {% if name contains "," %}
+        {% assign name = name | split: "," | reverse | join: " " | strip %}
+     {% endif %}
+     
      <div class="card" style="width: 17rem; height: 23rem; justify-content: center;">
-         <img class="my-card-img-top" src="{{person.photo}}" alt="{{person.name}}" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="{{person.photo}}" alt="{{name}}" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          {% if person.website %}
-         <a href="{{person.website}}">{{person.name}}</a>
+         <a href="{{person.website}}">{{name}}</a>
          {% else %}
-         {{person.name}}
+         {{name}}
          {% endif %}
          </div>
          <div class="card-text" style="text-align: center; min-height: 3rem; line-height: 140%">
          <em> {{person.title}} </em> <br>
          </div>
          <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <small>
          <strong>{{person.institution}}</strong><br>
+         </small>
          </div>
 
          {% if person.e-mail %}
