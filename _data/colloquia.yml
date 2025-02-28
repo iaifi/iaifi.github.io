@@ -31,10 +31,10 @@
   talk-abstract: "Finding the tracks that particles make through detectors is a critical component of identifying new physics and phenomena,  but is very a challenging combinatorial problem. Traditionally, track finding codes assume that tracks must be helical, which simplifies the task  but also restricts power to discover new physics which might produce non-helical tracks, effectively ignoring some potentially striking signatures.  However, recent advances in ML-based tracking allow for new inroads into previously inaccessible territory, such as efficient reconstruction of tracks that do not follow helical trajectories. I will present a demonstration of training a network to reconstruct a particular type of non-helical tracks, quirks, and discuss the potential to generalize ML tracking to a wider class of non-helical tracks, enabling a search for overlooked anomalous tracks.  I’ll end by talking briefly about my experience in science communication."
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/NWxmN3M3dnA2Y204YnIyZnR0cG5rdGJmcGwgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw"
   slides-link: ""
-  youtube-link: ""
+  youtube-link: "https://www.youtube.com/live/PXjdPoTU6VY?feature=shared"
   speaker-thrust: "Physics Experiment"
   speaker-gender: "Man"
-  talk-attendance: ""
+  talk-attendance: 21 in person, 11 virtual
   
 - type: "colloquium"
   semester: "spring-2025"
