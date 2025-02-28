@@ -8,58 +8,37 @@ aside:
 
 ## Table of Contents
 
-{% for category in site.data.categories.categories %}
-<div><details>
-{%- if category.type3 %}
-{%- assign personnel1 = site.data[category.type1].personnel %}
-{%- assign personnel2 = site.data[category.type2].personnel %}
-{%- assign personnel3 = site.data[category.type3].personnel %}
-{%- assign personnel = personnel1 | concat: personnel2 | concat: personnel3 %}
-{%- elsif category.type2 %}
-{%- assign personnel1 = site.data[category.type1].personnel %}
-{%- assign personnel2 = site.data[category.type2].personnel %}
-{%- assign personnel = personnel1 | concat: personnel2 %}
-{%- else %}
-{%- assign personnel = site.data[category.type1].personnel %}
-{%- endif -%}
-<summary><b>{{category.name}}</b></summary>
-<ul>
-{%- for member in personnel -%}
-{%- assign person = site.data.people[member] -%}
-<li><a href="#{{person.name | replace: " ", "-"}}">{{person.name}}</a></li>
-{%- endfor -%}
-</ul><br>
+{% assign all_categories = site.data.categories.categories | concat: site.data.alumni-category.categories %}
 
-</details>
-</div>
+{% for category in all_categories %}
+  <div><details>
+  
+    {% assign personnel = '' | split: '' %}
+
+    {% for block in category.blocks %}
+      {% assign personnel = personnel | concat: site.data[block].personnel %}
+    {% endfor %}
+
+    <!-- Assign members based on the personnel list -->
+    {% assign members = '' | split: '' %}
+    {% for tag in personnel %}
+      {% assign member = site.data.people[tag] %}
+      {% assign members = members | push: member %}
+    {% endfor %}
+
+    <summary><b>{{ category.name }}</b></summary>
+    <ul>
+      {%- for member in members -%}
+        {% assign name = member.name %}
+        {% if name contains "," %}
+          {% assign name = name | split: "," | reverse | join: " " | strip %}
+        {% endif %}
+        <li><a href="#{{ name | replace: " ", "-" }}">{{ name }}</a></li>
+      {%- endfor -%}
+    </ul><br>
+
+  </details></div>
 {% endfor %}
-
-{% for category in site.data.alumni-category.categories %}
-<div><details>
-{%- if category.type3 %}
-{%- assign personnel1 = site.data[category.type1].personnel %}
-{%- assign personnel2 = site.data[category.type2].personnel %}
-{%- assign personnel3 = site.data[category.type3].personnel %}
-{%- assign personnel = personnel1 | concat: personnel2 | concat: personnel3 %}
-{%- elsif category.type2 %}
-{%- assign personnel1 = site.data[category.type1].personnel %}
-{%- assign personnel2 = site.data[category.type2].personnel %}
-{%- assign personnel = personnel1 | concat: personnel2 %}
-{%- else %}
-{%- assign personnel = site.data[category.type1].personnel %}
-{%- endif -%}
-<summary><b>{{category.name}}</b></summary>
-<ul>
-{%- for member in personnel -%}
-{%- assign person = site.data.people[member] -%}
-<li><a href="#{{person.name | replace: " ", "-"}}">{{person.name}}</a></li>
-{%- endfor -%}
-</ul><br>
-
-</details>
-</div>
-{% endfor %}
-
 
 {% assign categories = site.data.categories.categories | concat: site.data.alumni-category.categories %}
 
@@ -69,23 +48,27 @@ aside:
 
 ## {{category.name}} {#{{category.name | replace: " ", "-"}}}
 
-{% if category.type3 %}
-{% assign personnel1 = site.data[category.type1].personnel %}
-{% assign personnel2 = site.data[category.type2].personnel %}
-{% assign personnel3 = site.data[category.type3].personnel %}
-{% assign personnel = personnel1 | concat: personnel2 | concat: personnel3 %}
-{% elsif category.type2 %}
-{% assign personnel1 = site.data[category.type1].personnel %}
-{% assign personnel2 = site.data[category.type2].personnel %}
-{% assign personnel = personnel1 | concat: personnel2 %}
-{% else %}
-{% assign personnel = site.data[category.type1].personnel %}
-{% endif %}
+{% assign personnel = '' | split: '' %}
+
+{% for block in category.blocks %}
+{% assign personnel = personnel | concat: site.data[block].personnel %}
+{% endfor %}
+
+{% assign members = '' | split: '' %}
+{% for tag in personnel  %}
+{% assign member = site.data.people[tag] %}
+{% assign members = members | push: member %}
+{% endfor %}
 
 {% for member in personnel  %}
 {% assign person = site.data.people[member] %}
 
-#### {{person.name}} {#{{person.name | replace: " ", "-"}}}
+{% assign name = person.name %}
+{% if name contains "," %}
+{% assign name = name | split: "," | reverse | join: " " | strip %}
+{% endif %}
+
+#### {{name}} {#{{name | replace: " ", "-"}}}
 
 {% assign products = site.data.products | sort | reverse %}
 
@@ -97,7 +80,7 @@ aside:
 {% assign code_count = 0 %}
 
 <!-- make list of names to use -->
-{% assign name1 = person.name | split: "," %}
+{% assign name1 = name | split: "," %}
 {% assign name2 = person.professional-name | split: "," %}
 {% assign name_list = person.professional_names | concat: name1 | concat: name2 %}
 
@@ -121,7 +104,7 @@ aside:
 
 | Name | Total Papers | With DOI | With Alt URL | On ArXiv | With Code |
 | ---- | ------------ | -------- | ------------ | -------- | --------- |
-| {{person.name}} | {{paper_count}} | {{doi_count}} | {{alt_url_count}} | {{arxiv_count}} | {{code_count}} |
+| {{name}} | {{paper_count}} | {{doi_count}} | {{alt_url_count}} | {{arxiv_count}} | {{code_count}} |
 
 A.k.a.:  {{name_list  | join: ", "}}
 

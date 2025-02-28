@@ -173,10 +173,10 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
+  speaker-name: Michael Winer
+  speaker-title: Scholar
+  speaker-affiliation: Institute for Advanced Study
+  speaker-website: https://www.ias.edu/scholars/michael-winer
   speaker-photo-location:
   start-date-time: "2025-04-29 13:00"
   end-date-time: "2025-04-29 14:00"
@@ -185,8 +185,8 @@
   talk-abstract: "Abstract to come."
   slides-link: ""
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Foundational AI"
+  speaker-gender: "man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MjlUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   

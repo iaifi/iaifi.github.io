@@ -1,32 +1,32 @@
 categories:
-  - former--iaifi-fellows:
-    name: Former IAIFI Fellows
+
+  - name: Former IAIFI Fellows
     anchor: former-iaifi-fellows
-    type1: former-iaifi-fellows
-    type2:
-    type3:
-  - former--iaifi-affiliates:
-    name: Former IAIFI Affiliates
+    blocks:
+      - former-iaifi-fellows
+    alphabetize: false
+    
+  - name: Former Affiliates
     anchor: former-iaifi-affiliates
-    type1: former-iaifi-affiliates
-    type2:
-    type3:
-  - former-junior-investigators:
-    name: Former Junior Investigators
+    blocks:
+      - former-iaifi-affiliates
+    alphabetize: false
+    
+  - name: Former Junior Investigators
     anchor: former-junior-investigators
-    type1: former-junior-investigators
-    type2:
-    type3:
-  - former-visitors:
-    name: Former Visitors
+    blocks:
+      - former-junior-investigators
+    alphabetize: false
+    
+  - name: Former Visitors
     anchor: former-visitors
-    type1: former-visitors
-    type2:
-    type3:
-  - former-msrp:
-    name: Former MSRP Students
-    anchor: former-msrp
-    type1: former-msrp
-    type2: 
-    type3:
+    blocks:
+      - former-visitors
+    alphabetize: false
+    
+  - name: Former Summer Students
+    anchor: former-summer-students
+    blocks:
+      - former-summer-students
+    alphabetize: false
  
