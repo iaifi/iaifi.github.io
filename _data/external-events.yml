@@ -82,6 +82,18 @@
   event-details: "Frontiers in NeuroAI is a two-day symposium, open to the public, exploring key topics in the rapidly-advancing field of NeuroAI, including: How natural and artificial systems learn, and how these processes are similar or different across systems; The implications of rapid progress in machine learning on understanding neural processes, the nature of intelligence, and human cognitive abilities; and Innovations that are pushing forward the reasoning and generative capabilities of AI systems. The symposium will feature presentations from cutting-edge experts from neuroscience and AI as they discuss advances in learning across both fields."
   calendar-link:
   
+- type: "external-event"
+  event-name: "MMLI Symposium 2025 - 'AI Scientists? What Would It Take?'"
+  event-organizer: "The Molecule Maker Lab Institute (MMLI)"
+  more-info-link: "https://forms.office.com/Pages/ResponsePage.aspx?id=b35GRCxGok6CP3gA3lQ04xSbO0UXn6hKpi_X0mvkU_lUOEdFQjI3RFVCQjZVWERLWkRLVjVON0Y1Vi4u"
+  event-post-date: "2025-03-02"
+  start-date-time: "2025-04-15 9:00"
+  end-date-time: "2025-04-16 17:00"
+  talk-location: "National Center for Supercomputing Applications (NCSA), Urbana, IL, or Zoom"
+  talk-zoom:
+  event-details: "The Molecule Maker Lab Institute (MMLI) invites you to our upcoming research symposium, 'AI Scientists? What Would It Take?' This event will bring together researchers, industry leaders, and students to explore the intersection of artificial intelligence and chemistry, discussing what it takes to advance AI-driven scientific discovery."
+  calendar-link:
+  
 - type: "external-workshop"
   event-name: "Physics for AI Workshop"
   event-organizer: "Andrei Constantin, Ard Louis, Andre Lukas, and Shivaji Sondhi"
@@ -93,6 +105,30 @@
   talk-zoom:
   event-details: "This three-day workshop will be held in Oxford from 19 to 21 March, focusing on the interplay between Machine Learning (ML) and Quantum Field Theory (QFT)."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-03-02"
+  start-date-time: "2025-03-03 16:00"
+  end-date-time: "2025-03-03 16:30"
+  talk-location: "MIT Room G882 (Hewlett Room)"
+  talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
+  event-details: "Giannis Daras, Learning Generative Models from Corrupted Data.<br>Abstract: In scientific applications, generative models are used to regularize solutions to inverse problems. The quality of the models depends on the quality of the data on which they are trained. While natural images are abundant, in scientific applications access to high-quality data is scarce, expensive, or even impossible. For example, in MRI the quality of the scan is proportional to the time spent in the scanner and in black-hole imaging, we can only access lossy measurements. Contrary to high-quality data, noisy samples are generally more accessible. If we had a method to transform noisy points into clean ones, e.g., by sampling from the posterior, we could address these challenges. A standard approach would be to use a pre-trained generative model as a prior. But how can we train these priors in the first place without having access to data? We show that one can escape this chicken-egg problem using diffusion-based algorithms that account for the corruption at training time. We present the first algorithm that provably recovers the distribution given only noisy samples of a fixed variance. We extend our algorithm to account for heterogeneous data where each training sample has a different noise level. The underlying mathematical tools can be generalized to linear measurements with the potential of accelerating MRI. Our method has deep connections to the literature on learning supervised models from corrupted data, such as SURE and Noise2X. Our framework opens exciting possibilities for generative modeling in data-constrained scientific applications. We are actively working on applying this to denoise proteins and we present some first results in this direction."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFjYjJkdnNuYWthb242OWxxZWJwcTBwY3QgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-03-02"
+  start-date-time: "2025-03-03 12:30"
+  end-date-time: "2025-03-03 13:30"
+  talk-location: "Phillips Auditorium, Center for Astrophysics, 60 Garden Street"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Eddie Berman (Northeastern), On the Uncertainty Calibration of Equivariant Functions.<br>Abstract: Uncertainty estimation shows pronounced importance in the data-sparse settings where equivariant models tend to excel, including pick-and-place robotics tasks, galaxy morphology classification, and chemical physics. This talk explores the relationship between equivariance, model calibration, and model confidence. In particular, we discuss bounds on calibration error for functions that are arbitrarily expressive except that they are constrained to be equivariant with respect to a group G. Following this, we discuss experiments related to Astrophysics and beyond that explore how these bounds manifest in practice."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWVpODFmNm5vZW50YnZkY3JsdHFuMjRncDcgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
   event-name: "MIT Physics Colloquium"
