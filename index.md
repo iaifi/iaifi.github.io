@@ -186,7 +186,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***Registration is now open for the 2025 IAIFI Summer Workshop.*** [Register by July 31, 2025](https://iaifi.org/summer-workshop). 
 {:.success}
 
-***Our [IAIFI Colloquium series](events.html) will continue on February 28 with Daniel Whiteson, Professor of Physics and Astronomy at UC Irvine.*** Recordings of our previous [colloquium talks](events.html) are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue on March 14 with a Research Panel on the 2024 Nobel Prize in Physics.*** Recordings of our previous [colloquium talks](events.html) are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>
