@@ -96,16 +96,16 @@
   more-info-link:
   
 - type: "social"
-  event-name: "Post-Event Social"
+  event-name: "Spring 2025 IAIFI Social"
   event-committee: "Community Building"
   event-post-date: "2025-03-02"
-  start-date-time: "2025-03-14 15:00"
-  end-date-time: "2025-03-14 16:00"
-  talk-location: "IAIFI Penthouse (26-648)"
+  start-date-time: "2025-03-14 16:30"
+  end-date-time: "2025-03-14 18:30"
+  talk-location: "MIT Schwarzman College of Computing"
   talk-zoom:
-  event-details: "After the Friday event, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAyMjhUMjAwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
-  rsvp-link:
+  event-details: "IAIFI will have its semesterly social on the evening of Friday March 14! Food and beverages will be provided. This will be a great opportunity to network with the IAIFI community."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAzMTRUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link: https://app.smartsheet.com/b/form/0f9551fa24ee4336851a7e88709a25e5
   more-info-link:
   attendance-in-person:
   attendance-virtual:
