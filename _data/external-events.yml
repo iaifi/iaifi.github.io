@@ -58,6 +58,18 @@
   event-details: "Artificial intelligence techniques are becoming increasingly important in high energy physics (HEP), with a range of applications that goes from analytic computations and symbolic regression to modeling, optimization and pattern recognition. Many of these applications tackle cutting-edge problems in machine learning (ML), and in fact address issues, such as the need to accurate uncertainty estimations, that are often disregarded in the most common ML applications. The goal of this school is to provide hands-on training on cutting edge machine learning methods in HEP by combining extensive advanced courses taught with extended  tutorial sessions. The tutorials will exploit as a playing ground the NNPDF open-source code, which, originally aimed at the determination of parton distribution, makes use of  a variety of current ML, statistical and analysis tools and techniques of wide applicability."
   calendar-link:
   
+- type: "external-event"
+  event-name: "Session during EAS Annual Meeting: The changing macrocosm of astroinformatics: big data, artificial intelligence, statistical inference, challenges, and more"
+  event-organizer: "AstroAI"
+  more-info-link: "https://eas.unige.ch/EAS2025/session.jsp?id=S15"
+  event-post-date: "2025-03-02"
+  start-date-time: "2025-06-26 9:00"
+  end-date-time: "2025-06-27 17:00"
+  talk-location: "University College Cork, Ireland"
+  talk-zoom:
+  event-details: "Astronomical advances in data science, computation, machine learning, and statistics are all captured within the growing field of astroinformatics. As astronomical datasets continue to grow in size and complexity, associated challenges continue to emerge, such as infrastructure for storage and access to datasets, evolution of data format through survey lifespans, preserving discovery potential in the era of overwhelming data sizes, and ensuring the continuing development of astronomical knowledge while minimising the environmental impact of computations.<br>In recognition of these challenges we invite abstracts on advances in distributed data processing, effective data access, rapid data analysis, computational infrastructure, accessible toolkits and pipelines for data analysis using automated approaches. We will also explore cutting-edge statistical inference techniques, particularly focusing on simulation-based and deep learning approaches to inference in our 2-day scientific session at the European Week of Astronomy in Cork, Ireland."
+  calendar-link:
+  
 - type: "external-workshop"
   event-name: "Accelerating statistical inference and experimental design with machine learning"
   event-organizer: "The Isaac Newton Institute for Mathematical Sciences"
