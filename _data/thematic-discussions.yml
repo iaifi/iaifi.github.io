@@ -1,15 +1,15 @@
 - type: "thematic-discussion"
   semester: "spring-2025"
-  speaker-names-affiliations: "Thematic Discussion Facilitators TBA"
-  speaker-title: "Speaker Title TBA"
-  speaker-affiliation: Speaker Affiliation TBA
+  speaker-names-affiliations: "Shuchin Aeron (Tufts), Jesse Thaler (MIT), Phil Harris (MIT), Cora Dvorkin (Harvard)"
+  speaker-title:
+  speaker-affiliation:
   speaker-website:
   speaker-photo-location:
-  start-date-time: "2025-04-18 14:00"
-  end-date-time: "2025-04-18 15:00"
+  start-date-time: "2025-03-21 14:00"
+  end-date-time: "2025-03-21 15:00"
   talk-location: "MIT Kolker Room, 26-414"
-  talk-title: "Talk title to come."
-  talk-abstract: "Abstract to come."
+  talk-title: "Open Questions in AI+Physics"
+  talk-abstract: "IAIFI faculty members will briefly share key open questions they see in each of the IAIFI domains (Foundational AI, Theoretical Physics, Experimental Physics, and Astrophysics), with a goal of helping to identify opportunities for IAIFI interdisciplinary collaboration. Opening with brief presentations, there will be time for discussion and for attendees to share their own open questions."
   slides-link: ""
   youtube-link: ""
   speaker-thrust:
@@ -19,15 +19,15 @@
 
 - type: "thematic-discussion"
   semester: "spring-2025"
-  speaker-names-affiliations: "Thematic Discussion Facilitators TBA"
-  speaker-title: "Speaker Title TBA"
-  speaker-affiliation: Speaker Affiliation TBA
+  speaker-names-affiliations: "Ziming Liu, MIT"
+  speaker-title: Graduate Student
+  speaker-affiliation: MIT
   speaker-website:
   speaker-photo-location:
-  start-date-time: "2025-03-21 14:00"
-  end-date-time: "2025-03-21 15:00"
+  start-date-time: "2025-04-18 14:00"
+  end-date-time: "2025-04-18 15:00"
   talk-location: "MIT Kolker Room, 26-414"
-  talk-title: "Talk title to come."
+  talk-title: "Interpretable AI"
   talk-abstract: "Abstract to come."
   slides-link: ""
   youtube-link: ""
