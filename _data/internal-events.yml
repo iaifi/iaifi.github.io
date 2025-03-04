@@ -27,6 +27,103 @@
   priority: high
   
 - type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-04-27"
+  start-date-time: "2025-04-29 14:00"
+  end-date-time: "2025-04-29 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTA0MjlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Colloquium Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-04-13"
+  start-date-time: "2025-04-25 15:00"
+  end-date-time: "2025-04-25 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After today's colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTA0MjVUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-04-20"
+  start-date-time: "2025-04-22 14:00"
+  end-date-time: "2025-04-22 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTA0MjJUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Discussion Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-04-06"
+  start-date-time: "2025-04-18 15:00"
+  end-date-time: "2025-04-18 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After today's Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTA0MThUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-04-13"
+  start-date-time: "2025-04-15 14:00"
+  end-date-time: "2025-04-15 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTA0MTVUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Colloquium Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-03-30"
+  start-date-time: "2025-04-11 15:00"
+  end-date-time: "2025-04-11 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After today's colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTA0MTFUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-04-06"
+  start-date-time: "2025-04-08 14:00"
+  end-date-time: "2025-04-08 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTA0MDhUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
   event-name: "IAIFI Pizza and Game Night"
   event-committee: "Community Building"
   event-post-date: "2025-03-23"
@@ -36,6 +133,21 @@
   talk-zoom:
   event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWxhcGM3OHE3ZnZkZWFwZDlhMG5tajdkdGVfMjAyNTA0MDRUMjEwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Co-working Session"
+  event-committee: "Community Building"
+  event-post-date: "2025-03-23"
+  start-date-time: "2025-04-04 14:00"
+  end-date-time: "2025-04-04 17:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "This is an opportunity for IAIFI members to meet up for an informal co-working session. The Penthouse space will be set up for collaboration and conversation. Feel free to stop by for a short time, or stay for the whole session. Refreshments and snacks will be provided!"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NHBxZnJzcW1mdXRtMnA4bTB2NW9yY2M3czQgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
   attendance-in-person:
