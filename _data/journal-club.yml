@@ -49,7 +49,7 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Symmetry and Hierarchies of Learning in AI Systems"
   talk-abstract: "The dynamics of learning in modern large AI systems is hierarchical, often characterized by abrupt, qualitative shifts akin to phase transitions observed in physical systems. While these phenomena hold promise for uncovering the mechanisms behind neural networks and language models, existing theories remain fragmented, addressing specific cases. In this paper, we posit that parameter symmetry breaking and restoration serve as a unifying mechanism underlying these behaviors. We synthesize prior observations and show how this mechanism explains three distinct hierarchies in neural networks: learning dynamics, model complexity, and representation formation. By connecting these hierarchies, we highlight symmetry -- a cornerstone of theoretical physics -- as a potential fundamental principle in modern AI."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1yD9oanKeCiHYSJP5fajH5y3g8mxwoQDD/view?usp=drive_link"
   youtube-link:
   speaker-thrust: "Foundational AI"
   speaker-gender: "Man"
