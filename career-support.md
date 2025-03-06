@@ -26,6 +26,8 @@ We are currently working to build a database of industry connections and opportu
 
 ## University Resources
 
+Many of the resources below are not limited to students at the listed university. In particular, career fairs and events are often open to a wider community of students in the Boston area, so feel free to utilize resources from other universities when available.
+
 ### MIT
 * [Career Advising and Professional Development Office (CAPD))](https://capd.mit.edu)
    * [Resources and Advice](https://capd.mit.edu/channels/resources-advice/)
@@ -43,12 +45,31 @@ We are currently working to build a database of industry connections and opportu
 * [Interstride](https://interstride.com/harvardfas/): For international students and international opportunities
 * [Big Interview](https://harvard.biginterview.com): Resource for job interview prep
 
+### Northeastern
+* [Employer Engagement and Career Design](https://careers.northeastern.edu)
+   * [Featured Resources](https://careers.northeastern.edu/featured-resources/) 
+   * [The Career Studio](https://careers.northeastern.edu/article/the-career-studio/): One-on-one consultation with a Career Design staff member.
+   * [Events](https://careers.northeastern.edu/events/)
+* [NU Works](https://northeastern-csm.symplicity.com): Internship and employment opportunities
+* [NU Place](https://nuplace.northeastern.edu/services/career-identity-resources/): Career tools and resources by identity
+* [AI Career Tips and Tools](https://careers.northeastern.edu/article/ai-career-tips-and-tools/) 
+* [Job Search Tips](https://careers.northeastern.edu/group/job-search/)
+
+### Tufts
+* [Tufts Career Center](https://careers.tufts.edu/)
+   * [General Resources](https://careers.tufts.edu/resources/)
+   * [Career Advising](https://careers.tufts.edu/channels/see-an-advisor/)
+   * [Resume and Cover Letter Advice](https://careers.tufts.edu/channels/writing-resumes-cover-letters/)
+   * [Events](https://careers.tufts.edu/events/?ctag%5B%5D=home-page-events)
+* [The Herd](https://careers.tufts.edu/resources/the-herd/): Mentoring and networking for Tufts students and alumni
+* [Engineering and Technology Rotational Programs](https://careers.tufts.edu/resources/rotational-programs-engineering-technology/): Positions that allow you to gain insight and experience by rotating through a variety of areas within a company over a two to three-year period
+
 ## Finding jobs/internships
 
 There are countless ways to identify potential jobs and internships. Some ways that IAIFI members and alumni have had success with include:
 * Discussions with their advisor about their career interests. Faculty members then helped point them toward opportunities and connected them with people in their network. 
 * Career Fairs such as the [MIT Analytics Career Fair](https://www.analyticsfair.mit.edu/), which provide opportunities to meet with representatives from companies looking to hire. 
-* Taking advantage of [MIT Career Advising & Professional Development](https://capd.mit.edu/application-materials-for-phds-and-postdocs-examples-and-how-to-guides/?lor=12) resource for faculty, PhD students and postdocs only.
+* Taking advantage of [university career resources](https://iaifi.org/career-support.html#university-resources).
 * Following companies and researchers in industry on Twitter, where they often will post job opportunities.
 * Taking advantage of networking at conferences and staying in touch with connections. 
 
