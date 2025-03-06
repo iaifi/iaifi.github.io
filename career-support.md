@@ -24,6 +24,25 @@ We have developed this resource to support early career researchers working at t
 We are currently working to build a database of industry connections and opportunities as we gather information from more members--please share your experience to help us complete the database! If you have questions about contacting any of the organizations above, please email [iaifi@mit.edu](mailto:iaifi@mit.edu). 
 {:.info}
 
+## University Resources
+
+### MIT
+* [Career Advising and Professional Development Office (CAPD))](https://capd.mit.edu)
+   * [Resources and Advice](https://capd.mit.edu/channels/resources-advice/)
+   * [Events](https://capd.mit.edu/events/?utc_src_link=eventscalnav)
+* [Alumni Advisors Hub](https://alumniadvisors.mit.edu)
+* [Annual Career Fairs](https://capd.mit.edu/annual-career-fairs-at-mit/)
+
+### Harvard
+* [FAS Mignone Center for Career Success](https://careerservices.fas.harvard.edu)
+   * [Crimson Careers:](https://careerservices.fas.harvard.edu/crimson-careers/) Platform for career support
+   * [Firsthand Advisors](https://careerservices.fas.harvard.edu/resources/firsthand/): Connects students with alumni virtually
+   * [Events](https://careerservices.fas.harvard.edu/events/)
+* [SEAS Office of Student Career Development](https://seas.harvard.edu/office-student-career-development)
+   * [Events](https://events.seas.harvard.edu/calendar?event_types%5B%5D=31159499317000&event_types%5B%5D=30342705739718)
+* [Interstride](https://interstride.com/harvardfas/): For international students and international opportunities
+* [Big Interview](https://harvard.biginterview.com): Resource for job interview prep
+
 ## Finding jobs/internships
 
 There are countless ways to identify potential jobs and internships. Some ways that IAIFI members and alumni have had success with include:
