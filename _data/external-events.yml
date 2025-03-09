@@ -81,6 +81,18 @@
   talk-zoom:
   event-details: "This workshop focuses on leveraging modern machine learning to accelerate statistical inference, experimental design, and scientific discovery. It features research talks, tutorials, and a poster session, with ample time reserved for informal discussions. The tutorials cover important background, e.g. on experimental design and diffusion models.<br><br>The overall aim is that, by the end of the workshop, attendees will be well-acquainted with both the foundations and the latest trends and advances in the field."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "Advanced Summer School in Quantum Field Theory and Quantum Gravity"
+  event-organizer: "CERN"
+  more-info-link: "https://indico.in2p3.fr/event/35256/"
+  event-post-date: "2025-03-09"
+  start-date-time: "2025-06-08 9:00"
+  end-date-time: "2025-06-21 17:00"
+  talk-location: "International Center for Interdisciplinary Science and Education, Quy Nhon, Vietnam"
+  talk-zoom:
+  event-details: "This Summer School is aimed at advanced doctoral students and postdoctoral fellows. It is the 2025 edition in a biennial series of Advanced Summer Schools in High Energy Theoretical Physics, which  were traditionally held either in Cargèse or Les Houches. This session will take place at ICISE, the International Center for Interdisciplinary Science and Education in Quy Nhon, Vietnam. The center is surrounded by a lush garden and just a few steps away from a beautiful beach. The School will include introductory and advanced lectures on the following topics: Quantum gravity, string theory, black holes, amplitudes, holography, cosmology, quantum information theory, theoretical condensed matter and artificial intelligence. The schedule will leave ample room for discussions. This School is part of the network of CERN Summer Schools of Excellence and is supported by CERN, ICISE and other funds."
+  calendar-link:
 
 - type: "external-workshop"
   event-name: "Frontiers in NeuroAI - Kempner Institute Symposium"
@@ -106,6 +118,18 @@
   event-details: "The Molecule Maker Lab Institute (MMLI) invites you to our upcoming research symposium, 'AI Scientists? What Would It Take?' This event will bring together researchers, industry leaders, and students to explore the intersection of artificial intelligence and chemistry, discussing what it takes to advance AI-driven scientific discovery."
   calendar-link:
   
+- type: "external-event"
+  event-name: "Boston Symmetry Day"
+  event-organizer: "The Boston Symmetry Group"
+  more-info-link: "https://bostonsymmetry.github.io/"
+  event-post-date: "2025-03-09"
+  start-date-time: "2025-03-31 9:00"
+  end-date-time: "2025-03-31 17:00"
+  talk-location: "Alumni Center at Northeastern University, Boston, MA"
+  talk-zoom:
+  event-details: "Boston Symmetry Day is a meeting of symmetry-minded folks in the Boston area. It is the largest event on symmetry and machine learning in the United States. Registration is free for all who would like to attend, subject to space constraints. Speakers will include Melanie Weber (Harvard), Dian Wang (Northeastern), Kathryn Lindsey (Boston College), Jiahui Fu (Robotics and AI Institute), and Suhas Lohit (Mitsubishi Electric Research Laboratories)."
+  calendar-link:
+  
 - type: "external-workshop"
   event-name: "Physics for AI Workshop"
   event-organizer: "Andrei Constantin, Ard Louis, Andre Lukas, and Shivaji Sondhi"
@@ -129,6 +153,21 @@
   talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
   event-details: "Giannis Daras, Learning Generative Models from Corrupted Data.<br>Abstract: In scientific applications, generative models are used to regularize solutions to inverse problems. The quality of the models depends on the quality of the data on which they are trained. While natural images are abundant, in scientific applications access to high-quality data is scarce, expensive, or even impossible. For example, in MRI the quality of the scan is proportional to the time spent in the scanner and in black-hole imaging, we can only access lossy measurements. Contrary to high-quality data, noisy samples are generally more accessible. If we had a method to transform noisy points into clean ones, e.g., by sampling from the posterior, we could address these challenges. A standard approach would be to use a pre-trained generative model as a prior. But how can we train these priors in the first place without having access to data? We show that one can escape this chicken-egg problem using diffusion-based algorithms that account for the corruption at training time. We present the first algorithm that provably recovers the distribution given only noisy samples of a fixed variance. We extend our algorithm to account for heterogeneous data where each training sample has a different noise level. The underlying mathematical tools can be generalized to linear measurements with the potential of accelerating MRI. Our method has deep connections to the literature on learning supervised models from corrupted data, such as SURE and Noise2X. Our framework opens exciting possibilities for generative modeling in data-constrained scientific applications. We are actively working on applying this to denoise proteins and we present some first results in this direction."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFjYjJkdnNuYWthb242OWxxZWJwcTBwY3QgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-03-09"
+  start-date-time: "2025-03-10 16:00"
+  end-date-time: "2025-03-10 16:30"
+  talk-location: "MIT Room G882 (Hewlett Room)"
+  talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
+  speaker-name: Mark Hamilton
+  speaker-title: PhD Student
+  speaker-affiliation: MIT Computer Science & Artificial Intelligence Laboratory
+  event-details: "ML Tea Talks are informal 30-minute sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker: Mark Hamilton (PhD Student, MIT)<br>Title: Unsupervised Discovery of Interpretable Structure in Complex Systems<br>Abstract: How does the human mind make sense of raw information without being taught how to see or hear? In this talk we will explore how to build algorithms that can uncover interpretable structure from large collections of unsupervised data like images and video. First, I will describe how to classify every pixel of a collection of images without any human annotations (Unsupervised semantic segmentation) by distilling self-supervised vision models. Second, we’ll see how this basic idea leads us to a new unifying theory of representation learning, and I will show how 20 different common machine learning methods such as dimensionality reduction, clustering, contrastive learning, and spectral methods emerge from a single unified equation. Finally, we’ll use this unified theory to create algorithms that can decode natural language just by watching unlabeled videos of people talking, without any knowledge of text. This work is the first step in our broader effort to translate animals using large scale, unsupervised, and interpretable learners, and the talk will conclude with some of our most recent efforts to analyze the complex vocalizations of Atlantic spotted dolphins."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGJmbGpwYnJobWZjcTBjM2M5Z3BuMzY2cDMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
   event-name: "AstroAI lunch seminar"
