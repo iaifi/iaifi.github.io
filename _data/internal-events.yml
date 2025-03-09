@@ -262,7 +262,7 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWxhcGM3OHE3ZnZkZWFwZDlhMG5tajdkdGVfMjAyNTAzMDdUMjIwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link: https://app.smartsheet.com/b/form/3fa7e2c1366f4a5880ed0d3da05b7398
   more-info-link:
-  attendance-in-person:
+  attendance-in-person: 4
   attendance-virtual:
   
 - type: "social"
@@ -277,7 +277,7 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWZjZDVqbDRlczZhOTc5azJxa2czYmtmMDggcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link: https://app.smartsheet.com/b/form/3fa7e2c1366f4a5880ed0d3da05b7398
   more-info-link:
-  attendance-in-person:
+  attendance-in-person: 9
   attendance-virtual:
   
 - type: "industry-lunch"
