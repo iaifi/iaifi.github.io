@@ -143,6 +143,18 @@
   calendar-link:
   
 - type: "external-event"
+  event-name: "Special David and Edith Harris Physics Colloquium with Nobel Laureate Serge Haroche"
+  event-organizer: "MIT Physics"
+  more-info-link: "https://physics.mit.edu/events/david-and-edith-harris-physics-colloquium-series/"
+  event-post-date: "2025-03-09"
+  start-date-time: "2025-03-12 16:00"
+  end-date-time: "2025-03-12 17:00"
+  talk-location: "MIT 10-250"
+  talk-zoom:
+  event-details: "Speaker: Serge Haroche, 2012 Nobel Laureate, Collège de France & Laboratoire Kastler Brossel, Paris<br>Title: The Physics of Rydberg Atoms from Bohr’s model to Quantum Information<br>Abstract: We are celebrating this year the centenary of quantum mechanics, the culmination of discoveries made at the beginning of the last century, among which Bohr’s model of the hydrogen atom played an essential role. This model justified Rydberg’s formula, which empirically described the spectrum of this atom and predicted the existence of highly excited atomic states with remarkable exaggerated properties (huge size of the electron orbits, long life span, intense coupling with microwave fields and very strong interactions between these atoms at quasi-macroscopic distances). The experimental study of these atoms – particularly of the circular Rydberg states of maximum angular momentum described by Bohr – began half a century ago with the development of tunable lasers. Rydberg atoms have played a central role in the development of Cavity Quantum Electrodynamics, in experiments which have tested the principles of quantum mechanics by realizing in the laboratory some of the Gedankenexperiment conceived a hundred years ago by the founders of quantum physics, among which the famous “Schrödinger cat” experiment. More recently, Rydberg atoms have been used in quantum simulation studies where, trapped in optical lattices, they are individually controlled, manipulated and detected by laser light. The physics of Rydberg atoms is thus closely associated with the history of quantum physics from its origins to its most recent developments, with the promise of more exciting advances in the years to come."
+  calendar-link:
+  
+- type: "external-event"
   event-name: "ML Tea Talk"
   event-organizer: "ML Tea"
   more-info-link: "https://projects.csail.mit.edu/ml-tea/"
@@ -163,9 +175,6 @@
   end-date-time: "2025-03-10 16:30"
   talk-location: "MIT Room G882 (Hewlett Room)"
   talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
-  speaker-name: Mark Hamilton
-  speaker-title: PhD Student
-  speaker-affiliation: MIT Computer Science & Artificial Intelligence Laboratory
   event-details: "ML Tea Talks are informal 30-minute sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker: Mark Hamilton (PhD Student, MIT)<br>Title: Unsupervised Discovery of Interpretable Structure in Complex Systems<br>Abstract: How does the human mind make sense of raw information without being taught how to see or hear? In this talk we will explore how to build algorithms that can uncover interpretable structure from large collections of unsupervised data like images and video. First, I will describe how to classify every pixel of a collection of images without any human annotations (Unsupervised semantic segmentation) by distilling self-supervised vision models. Second, we’ll see how this basic idea leads us to a new unifying theory of representation learning, and I will show how 20 different common machine learning methods such as dimensionality reduction, clustering, contrastive learning, and spectral methods emerge from a single unified equation. Finally, we’ll use this unified theory to create algorithms that can decode natural language just by watching unlabeled videos of people talking, without any knowledge of text. This work is the first step in our broader effort to translate animals using large scale, unsupervised, and interpretable learners, and the talk will conclude with some of our most recent efforts to analyze the complex vocalizations of Atlantic spotted dolphins."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGJmbGpwYnJobWZjcTBjM2M5Z3BuMzY2cDMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
