@@ -180,6 +180,20 @@
   more-info-link:
   
 - type: "social"
+  event-name: "Q&A Lunch with Jesse Thaler and Mike Williams"
+  event-post-date: "2025-03-09"
+  start-date-time: "2025-03-21 12:30"
+  end-date-time: "2025-03-21 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "This is an opportunity to have an informal, catered lunch with IAIFI's Director and Deputy Director, and ask any-and-all questions about IAIFI! Sandwiches and refreshments will be provided. Please RSVP if you plan to attend."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTAzMjFUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link: https://app.smartsheet.com/b/form/0025593623034f36be14a148979757f9
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
   event-name: "Post-Discussion Social"
   event-committee: "Community Building"
   event-post-date: "2025-03-09"
@@ -215,7 +229,7 @@
   end-date-time: "2025-03-14 18:30"
   talk-location: "MIT Schwarzman College of Computing (MIT 45-100)"
   talk-zoom:
-  event-details: "IAIFI will have its semesterly social on the evening of Friday March 14! Food and beverages will be provided. This will be a great opportunity to network with the IAIFI community."
+  event-details: "IAIFI will have its semesterly social on the evening of Friday, March 14, 2025! Food and beverages will be provided. This will be a great opportunity to network with the IAIFI community."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAzMTRUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link: https://app.smartsheet.com/b/form/0f9551fa24ee4336851a7e88709a25e5
   more-info-link:
@@ -247,7 +261,7 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWxhcGM3OHE3ZnZkZWFwZDlhMG5tajdkdGVfMjAyNTAzMDdUMjIwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link: https://app.smartsheet.com/b/form/3fa7e2c1366f4a5880ed0d3da05b7398
   more-info-link:
-  attendance-in-person:
+  attendance-in-person: 4
   attendance-virtual:
   
 - type: "social"
@@ -262,7 +276,7 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWZjZDVqbDRlczZhOTc5azJxa2czYmtmMDggcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link: https://app.smartsheet.com/b/form/3fa7e2c1366f4a5880ed0d3da05b7398
   more-info-link:
-  attendance-in-person:
+  attendance-in-person: 9
   attendance-virtual:
   
 - type: "industry-lunch"
@@ -274,9 +288,13 @@
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
   event-details: "During the lunch, Chris will discuss his career trajectory and experience in industry. Chris has a Ph.D. in physics and spent 4 years as a postdoc. Fun fact: Jesse Thaler was one of his instructors at TASI. For a little over 6 years, he has been working in data science and machine learning. These days at Klaviyo he works on implementing generative AI into product features as well as offline evaluations of both gen AI and more traditional ML systems."
+  slides-link: "https://drive.google.com/file/d/1_Wz1UpVEV71VXVCY-gbPSGDSy1QINmVd/view?usp=sharing"
+  youtube-link: "https://docs.google.com/document/d/11iprx3X0BXF5RL48vcUFyEbyzw0J-pISmmMyNriBR_4/edit?usp=drive_link"
   calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTAzMDdUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
   rsvp-link: https://app.smartsheet.com/b/form/3fa7e2c1366f4a5880ed0d3da05b7398
   more-info-link: https://www.linkedin.com/in/chris-w-murphy/
+  attendance-in-person: 11
+  attendance-virtual: 1
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
