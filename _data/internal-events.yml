@@ -26,6 +26,21 @@
   more-info-link: https://iaifi.org/phd-summer-school
   priority: high
   
+- type: "industry-lunch"
+  event-name: "Industry Lunch with Richard Collins (Engine Ventures)"
+  event-committee: "Industry Partnership"
+  event-post-date: "2025-04-20"
+  start-date-time: "2025-05-02 12:30"
+  end-date-time: "2025-05-02 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
+  event-details: "During the lunch, Richard will discuss his career trajectory and experience in industry. More details will be provided closer to the event."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTA1MDJUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link: https://www.linkedin.com/in/richard-collins-196ab3129/
+  attendance-in-person:
+  attendance-virtual:
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building"
@@ -150,6 +165,21 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NHBxZnJzcW1mdXRtMnA4bTB2NW9yY2M3czQgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "industry-lunch"
+  event-name: "Industry Lunch with Nash Sabti and George Nychis (Soroco)"
+  event-committee: "Industry Partnership"
+  event-post-date: "2025-03-23"
+  start-date-time: "2025-04-04 12:30"
+  end-date-time: "2025-04-04 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
+  event-details: "During the lunch, Nash and George will discuss their career trajectories and experience in industry. More details will be provided closer to the event."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTA0MDRUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link: https://www.linkedin.com/in/nnssa/
   attendance-in-person:
   attendance-virtual:
   
