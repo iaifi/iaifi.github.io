@@ -68,11 +68,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "E(n) Equivariant Topological Neural Networks"
   talk-abstract: "In this journal club presentation, we review a paper that examines the limitations of conventional graph neural networks (GNNs) in modeling higher-order interactions and introduces topological deep learning (TDL) as a promising alternative. While GNNs excel at modeling pairwise interactions, they struggle to flexibly accommodate arbitrary multi-way, hierarchical interactions and features. TDL addresses this challenge by operating on combinatorial topological spaces, such as simplicial or cell complexes, instead of traditional graphs. However, little is known about how to leverage geometric features—such as positions and velocities—within TDL frameworks. The paper introduces E(n)-Equivariant Topological Neural Networks (ETNNs), which are E(n)-equivariant message-passing networks operating on combinatorial complexes that unify graphs, hypergraphs, simplicial, path, and cell complexes. ETNNs incorporate geometric node features while respecting rotation, reflection, and translation equivariance, and as TDL models, they are naturally suited for settings with heterogeneous interactions. The authors provide a theoretical analysis demonstrating the improved expressiveness of ETNNs over architectures for geometric graphs, and they derive E(n)-equivariant variants of TDL models directly from their framework. The broad applicability of ETNNs is showcased through two tasks: (i) molecular property prediction on the QM9 benchmark and (ii) land-use regression for hyper-local estimation of air pollution using multi-resolution irregular geospatial data. The results indicate that ETNNs are an effective tool for learning from diverse types of richly structured data, matching or surpassing state-of-the-art equivariant TDL models with a significantly smaller computational burden—thus highlighting the benefits of a principled geometric inductive bias. We will discuss these findings and their implications in today’s session."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/1d08CTe-VuUeUtCE-ywHXE-nAo5GusR1Y/view?usp=sharing"
   youtube-link:
   speaker-thrust: "Foundational AI"
   speaker-gender: "Man"
-  talk-attendance:  in person, virtual
+  talk-attendance: 9 in person, 6 virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMTFUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 
