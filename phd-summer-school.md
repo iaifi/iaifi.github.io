@@ -51,7 +51,7 @@ Lecturer: [Sasha Rakhlin](https://www.mit.edu/~rakhlin/), Professor, MIT
 Lecturer: [Aleksandra Ćiprajanović](https://aleksandraciprijanovic.wordpress.com), Wilson Fellow Associate Scientist, Fermilab
 
 <img class="image" src="images/small-photo-gaia-grosso.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
-### Topic: Physics-Motivated Optimization: Simulation Intelligence
+### Topic: Physics-Motivated Optimization
 
 Lecturer: [Gaia Grosso](https://iaifi.org/current-fellows.html#gaia-grosso), IAIFI Fellow
 
