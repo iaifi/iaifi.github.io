@@ -40,8 +40,6 @@ Students for the Summer School have the option to reserve dorm rooms at Harvard 
 
 ## Lecturers
 
-Lecturers will be announced as they are confirmed. 
-
 <img class="image" src="images/small-photo-sasha-rakhlin.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Reinforcement Learning
 
@@ -52,9 +50,10 @@ Lecturer: [Sasha Rakhlin](https://www.mit.edu/~rakhlin/), Professor, MIT
 
 Lecturer: [Aleksandra Ćiprajanović](https://aleksandraciprijanovic.wordpress.com), Wilson Fellow Associate Scientist, Fermilab
 
-### Topic: Physics-Motivated Optimization: Simulation Intelligence
+<img class="image" src="images/small-photo-gaia-grosso.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+### Topic: Physics-Motivated Optimization
 
-Lecturer: TBA
+Lecturer: [Gaia Grosso](https://iaifi.org/current-fellows.html#gaia-grosso), IAIFI Fellow
 
 <img class="image" src="images/photo-sueyeon-chung.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Representation/Manifold Learning: Geometric Deep Learning
