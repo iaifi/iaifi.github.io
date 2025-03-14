@@ -107,6 +107,18 @@
   calendar-link:
   
 - type: "external-event"
+  event-name: "MIT Ethics of Computing Research Symposium"
+  event-organizer: "The Social and Ethical Responsibilities of Computing (SERC)"
+  more-info-link: "https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/serc-symposium-2025/"
+  event-post-date: "2025-03-16"
+  start-date-time: "2025-05-01 09:00"
+  end-date-time: "2025-05-01 17:00"
+  talk-location: "MIT Schwarzman College of Computing"
+  talk-zoom:
+  event-details: "Join the Social and Ethical Responsibilities of Computing (SERC) for an extraordinary series of 15 thought-provoking TED-style talks exploring the intersection of technology, ethics, and social responsibility in computing. Born from MIT’s Institute-wide commitment to responsible innovation, this groundbreaking event showcases research supported by the SERC seed grant program."
+  calendar-link:
+  
+- type: "external-event"
   event-name: "MMLI Symposium 2025 - 'AI Scientists? What Would It Take?'"
   event-organizer: "The Molecule Maker Lab Institute (MMLI)"
   more-info-link: "https://forms.office.com/Pages/ResponsePage.aspx?id=b35GRCxGok6CP3gA3lQ04xSbO0UXn6hKpi_X0mvkU_lUOEdFQjI3RFVCQjZVWERLWkRLVjVON0Y1Vi4u"
@@ -141,6 +153,30 @@
   talk-zoom:
   event-details: "This three-day workshop will be held in Oxford from 19 to 21 March, focusing on the interplay between Machine Learning (ML) and Quantum Field Theory (QFT)."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-03-16"
+  start-date-time: "2025-03-17 12:00"
+  end-date-time: "2025-03-17 13:00"
+  talk-location: "P-108A (Wolbach space), Center for Astrophysics, 60 Garden Street"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: ChangHoon Hahn (Assistant Professor, University of Arizona)<br>Title: Reconstructing Quasar Spectra and Measuring the Ly$\alpha$ Forest with Spectrum Autoencoders <br>Abstract: Quasar spectra carry the imprint of foreground intergalactic medium (IGM) through absorption systems. In particular, absorption caused by neutral hydrogen gas, the 'Ly$\alpha$ forest,' is a key spectroscopic tracer for cosmological analyses used to measure cosmic expansion and test physics beyond the standard model. Despite their importance, current methods for measuring Ly$\alpha$ absorption require making strong assumptions on the shape of the intrinsic quasar continuum that bias Ly$\alpha$ analyses. In this talk, I will present SpenderQ, a ML-based approach for reconstructing intrinsic quasar spectra and measuring the Ly$\alpha$ forest directly from observations. SpenderQ leverages a spectrum autoencoder to learn a compact and redshift-invariant latent representation of quasar spectra, combined with an iterative procedure to identify and mask absorption regions in the spectra. I will demonstrate that SpenderQ accurately reconstructs the true intrinsic quasar spectra, including the broad Lyβ, Lyα, SiIV, CIV, and CIII emission lines, with percent-level precision. I will also show how SpenderQ provides physically meaningful latent encoding enables key downstream tasks such as classification and anomaly detection. Finally, I will discuss how SpenderQ will be applied to observations to provide unbiased Lyα forest measurements in cosmological, quasar, and IGM studies."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTZjbWFoZDdvcTJ0cmVuYTNibjd0NDRwdTMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-03-16"
+  start-date-time: "2025-03-17 16:00"
+  end-date-time: "2025-03-17 16:45"
+  talk-location: "MIT Room G882 (Hewlett Room)"
+  talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
+  event-details: "ML Tea Talks are informal 30-45-minute sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker: Benjamin Lahner (PhD Student, MIT)<br>Title: Aggregating fMRI datasets for training brain-optimized models of human vision<br>Abstract: Large-scale fMRI datasets are revolutionizing our understanding of the neural processes underlying human perception, driving new breakthroughs in neuroscience and computational modeling. Yet individual fMRI data collection efforts remain constrained by practical limitations in scan time, creating an inherent tradeoff between subjects, stimuli, and stimulus repetitions. This tradeoff often compromises stimuli diversity, data quality, and generalizability of findings such that even the largest fMRI datasets cannot fully leverage the power of high-parameter artificial neural network models and high-dimensional feature spaces. To overcome these challenges, we introduce MOSAIC (Meta-Organized Stimuli And fMRI Imaging data for Computational modeling): a scalable framework for aggregating fMRI responses across multiple subjects and datasets. We preprocessed and registered eight event-related fMRI vision datasets (Natural Scenes Dataset, Natural Object Dataset, BOLD Moments Dataset, BOLD5000, Human Actions Dataset, Deeprecon, Generic Object Decoding, and THINGS) to the fsLR32k cortical surface space with fMRIPrep to obtain 430,007 fMRI-stimulus pairs over 93 subjects and 162,839 unique stimuli. We estimated single-trial beta values with GLMsingle (Prince et al., 2022), obtaining parameter estimates of similar or higher quality than the originally published datasets. Critically, we curated the dataset by eliminating stimuli with perceptual similarity above a defined threshold to prevent test-train leakage. This rigorous pipeline resulted in a well-defined stimulus-response dataset with 144,360 training stimuli, 18,145 test stimuli, and 334 synthetic stimuli well-suited for building and evaluating robust models of human vision. We show preliminary results using MOSAIC to investigate how the internal representations between brain-optimized neural networks differ from task-optimized neural networks and perform a large-scale decoding analysis that highlights the importance of stimulus set diversity. This framework empowers the vision science community to collaboratively generate a scalable, generalizable foundation for studying human vision."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NnJ0NDRkMzA2a2xkbmcyaTR0MWp0bGk3aGkgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
   event-name: "Special David and Edith Harris Physics Colloquium with Nobel Laureate Serge Haroche"
