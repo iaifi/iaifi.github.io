@@ -1,6 +1,6 @@
 type: paper
 iaifi-thrust: F
-arxiv-date: 2025-03-06
+arxiv-date: 2025-03-11
 title: "L<sup>2</sup>M: Mutual Information Scaling Law for Long-Context Language Modeling"
 authors: "Zhuo Chen, Oriol Mayné i Comas, Zhuotao Jin, Di Luo, Marin Soljačić"
 abstract: "We rigorously establish a bipartite mutual information scaling law in natural language that governs long-range dependencies. This scaling law, which we show is distinct from and scales independently of the conventional two-point mutual information, is the key to understanding long-context language modeling. Using this scaling law, we formulate the Long-context Language Modeling (L2M) condition, which relates a model's capacity for effective long context length modeling to the scaling of its latent state size for storing past information. Our results are validated through experiments on both transformers and state space models. This work establishes a theoretical foundation that guides the development of large language models toward longer context lengths."
