@@ -12,4 +12,29 @@
   }
 }
 
+.button--outline-F-color {
+  color: $F-color;
+  border: 1px solid $F-color;
+  @include clickable($F-color, transparent, $text-color-3, $F-color);
+}
+
+.button--outline-T-color {
+  color: $T-color;
+  border: 1px solid $T-color;
+  @include clickable($T-color, transparent, $text-color-3, $T-color);
+}
+
+.button--outline-E-color {
+  color: $E-color;
+  border: 1px solid $E-color;
+  @include clickable($E-color, transparent, $text-color-3, $E-color);
+}
+
+.button--outline-A-color {
+  color: $A-color;
+  border: 1px solid $A-color;
+  @include clickable($A-color, transparent, $text-color-3, $A-color);
+}
+
+
 /* end custom scss snippet */
