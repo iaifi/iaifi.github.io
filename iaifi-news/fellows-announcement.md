@@ -32,6 +32,8 @@ Berthy is completing her PhD in Computing and Mathematical Sciences at Caltech, 
 
 Mathis is currently finishing his PhD in theoretical physics at the University of Amsterdam. Mathis is interested in developing machine learning tools to address foundational challenges in theoretical physics. His work focuses on complex sampling problems, applying generative models to lattice quantum field theory and exploring how physical principles can inform advancements in machine learning.
 
+<br>
+
 We look forward to welcoming our incoming Fellows in Fall 2025!
 
 {% include_relative iaifi-news_footer.html %}
