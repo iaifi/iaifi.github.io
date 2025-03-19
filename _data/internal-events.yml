@@ -191,9 +191,9 @@
   end-date-time: "2025-04-03 16:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
-  event-details: "This will be an informal coffee hour for current IAIFI members to meet with prospective MIT Physics graduate students, who are visiting during the open house. Coffee and snacks provided. All are welcome!"
+  event-details: "This will be an informal coffee hour for current IAIFI members to meet with prospective MIT Physics graduate students, who are visiting during the open house. Coffee and snacks will be provided."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MW9vbWQ5MGgxOHNmbTQ0dmhlNzZmM2lvbXQgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/0195afbac92c7c40900cc5990d9dbb80
   more-info-link:
   
 - type: "social"
@@ -276,7 +276,7 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAzMTRUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link: https://app.smartsheet.com/b/form/0f9551fa24ee4336851a7e88709a25e5
   more-info-link:
-  attendance-in-person:
+  attendance-in-person: 35
   attendance-virtual:
 
 - type: "social"
