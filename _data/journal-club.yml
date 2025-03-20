@@ -192,13 +192,32 @@
   
 - type: "journal-club"
   semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-05-06 13:00"
+  end-date-time: "2025-05-06 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXVtNjIyN2RwZW9iMGZoYzJ0dnAycG92a3YgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2025"
   speaker-name: Sokratis Trifinopoulos
   speaker-title: Postdoctoral Researcher
   speaker-affiliation: MIT, IAIFI
   speaker-website: "https://strifinopoulos.github.io"
   speaker-photo-location:
-  start-date-time: "2025-05-06 13:00"
-  end-date-time: "2025-05-06 14:00"
+  start-date-time: "2025-05-13 13:00"
+  end-date-time: "2025-05-13 14:00"
   talk-location: "IAIFI Penthouse"
   talk-title: "Title to come."
   talk-abstract: "Abstract to come."
