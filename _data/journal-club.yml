@@ -97,21 +97,21 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Career Advice Panel
-  speaker-title: Industry Partnership Committee
+  speaker-name: Denis Boyda (Meta AI, Former IAIFI Fellow), Emmanouil Theodosis (IAIFI Junior Investigator), Steven Eulig (EMD Electronics and Harvard University, IAIFI Junior Investigator)
+  speaker-title: organized Industry Partnership Committee
   speaker-affiliation: IAIFI
   speaker-website:
   speaker-photo-location:
   start-date-time: "2025-04-01 13:00"
   end-date-time: "2025-04-01 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
+  talk-title: "Career Advice Panel"
+  talk-abstract: "Three panelists in the IAIFI community will share about their experiences in academia and industry, and will discuss advice and tips for pursuing career goals. This will be followed by Q&A with attendees. Lunch and refreshments will be provided!"
   slides-link: ""
   youtube-link:
   speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 8 in person, 0 virtual
+  speaker-gender: "Man, Man, Man"
+  talk-attendance: ""
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MDFUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 - type: "journal-club"
