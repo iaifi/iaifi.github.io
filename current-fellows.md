@@ -10,6 +10,32 @@ aside:
 {:.success}
 --->
 
+## 2025–2027/2028 IAIFI and Tayebati Fellows
+
+We are happy to have the opportunity this year to partner with the MIT Schwarzman College of Computing through their inaugural [Tayebati Fellowship](https://computing.mit.edu/tayebati-postdoctoral-fellowship-program/).
+
+### [Congyue Deng](mailto:congyue@stanford.edu) (Tayebati Fellow)
+<img src="images/small-photo-congyue-deng.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Congyue Deng’s research interests include 3D computer vision and geometric deep learning. Her work focuses on designing feature representations for visual understanding that incorporate symmetries and geometric relations. In the short term, she aims to integrate geometric representation learning into generative models to better capture the low-dimensional manifold structure of data distributions, with a particular focus on applications in physical learning. In the long term, she seeks to uncover geometric structures from data to inform the design of inductive biases in neural networks.
+
+**Biographical Sketch**: Congyue Deng is completing her Ph.D. in Computer Science at Stanford University. She received her B.S. in Mathematics from Tsinghua University in 2020 with the top GPA in her class (1/114). In addition to her involvement with IAIFI, she is a Tayebati Postdoctoral Fellow at the MIT Schwarzman College of Computing. She is also a recipient of the CPAL Rising Star Award in 2025.
+
+### [Berthy Feng](mailto:congyue@stanford.edu) (IAIFI/Tayebati Fellow)
+<img src="images/small-photo-berthy-feng.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Berthy Feng works on computational imaging, computer vision, and machine learning. She is primarily interested in developing data-driven and physics-based methods for scientific imaging. During her PhD, she developed a method for solving inverse imaging problems using diffusion models as priors and used this approach to image black holes from Event Horizon Telescope data. She also created physics-based methods for estimating material properties from video and established a way to constrain deep generative models according to physics constraints. Going forward, she would like to further improve this approach to impose hard constraints on generative models. She is also interested in designing interpretable methods for uncertainty quantification in the imaging process. More broadly, she is excited to tackle the most challenging scientific imaging problems (e.g., black-hole video reconstruction, 3D protein imaging, exoplanet imaging) by blending physics-based and data-driven methods.
+
+**Biographical Sketch**: Berthy Feng is completing her PhD in Computing and Mathematical Sciences at Caltech, where she is advised by Prof. Katie Bouman. She received her undergraduate degree in Computer Science at Princeton University. Berthy grew up in the suburbs of Cleveland, Ohio, and enjoys playing guitar, playing tennis, and going for runs in her free time.
+
+### [Matthis Gerdes](mailto:m.gerdes@uva.nl) (IAIFI Fellow)
+<img src="images/small-photo-mathis-gerdes.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Mathis Gerdes is interested in developing machine learning tools to address foundational challenges in theoretical physics. His work focuses on complex sampling problems, applying generative models to lattice quantum field theory and exploring how physical principles can inform advancements in machine learning. He has pioneered methods for learning Ricci-flat metrics on Calabi-Yau manifolds and contributed to simulation-based inference techniques for studying stellar streams, which may provide insights into the distribution of dark matter in the galaxy.
+
+**Biographical Sketch**: Mathis Gerdes is currently finishing his PhD in theoretical physics at the University of Amsterdam. His research spans lattice quantum field theory, Calabi-Yau geometry, and statistical inference leveraging machine learning methods. Previously, he earned an MSc in Theoretical and Mathematical Physics from LMU Munich and an MSc in artificial intelligence from the University of Edinburgh, following undergraduate studies in physics at the University of Göttingen.
+
+
 ## 2024-2027 IAIFI Fellows
 
 ### [Michael Albergo](mailto:michaelsalbergo@gmail.com)
