@@ -10,12 +10,12 @@
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "Open Questions in AI+Physics"
   talk-abstract: "IAIFI faculty members (Jesse Thaler, Phil Harris, Cora Dvorkin, and Shuchin Aeron) will briefly share key open questions they see in each of the IAIFI domains (Foundational AI, Theoretical Physics, Experimental Physics, and Astrophysics), with a goal of helping to identify opportunities for IAIFI interdisciplinary collaboration. Opening with brief presentations, there will be time for discussion and for attendees to share their own open questions."
-  slides-link: ""
-  youtube-link: ""
-  speaker-thrust:
-  speaker-gender:
-  talk-attendance-in-person:
-  talk-attendance-virtual:
+  slides-link: "https://drive.google.com/drive/folders/1MelwIiGOw_340YN4Fh61u4JG5LxQ95Ol?usp=sharing"
+  youtube-link: "https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?tab=t.0#heading=h.t3o7jufrvx0c"
+  speaker-thrust: Physics Theory, Foundational AI, Astrophysics, Physics Experiment
+  speaker-gender: Man, Man, Man, Woman
+  talk-attendance-in-person: 16
+  talk-attendance-virtual: 13
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNTAzMjFUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
 
 - type: "thematic-discussion"
