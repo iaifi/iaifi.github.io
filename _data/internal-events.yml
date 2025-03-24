@@ -233,8 +233,8 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTAzMjFUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link: https://app.smartsheet.com/b/form/0025593623034f36be14a148979757f9
   more-info-link:
-  attendance-in-person:
-  attendance-virtual:
+  attendance-in-person: 10
+  attendance-virtual: 0
   
 - type: "social"
   event-name: "Post-Discussion Social"
