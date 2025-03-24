@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-03-14
+title: "Generative Modeling for Mathematical Discovery"
+authors: "Jordan S. Ellenberg, Cristofero S. Fraser-Taliente, Thomas R. Harvey, Karan Srivastava, Andrew V. Sutherland"
+abstract: "We present a new implementation of the LLM-driven genetic algorithm {funsearch}, whose aim is to generate examples of interest to mathematicians and which has already had some success in problems in extremal combinatorics. Our implementation is designed to be useful in practice for working mathematicians; it does not require expertise in machine learning or access to high-performance computing resources. Applying {funsearch} to a new problem involves modifying a small segment of Python code and selecting a large language model (LLM) from one of many third-party providers. We benchmarked our implementation on three different problems, obtaining metrics that may inform applications of {funsearch} to new problems. Our results demonstrate that {funsearch} successfully learns in a variety of combinatorial and number-theoretic settings, and in some contexts learns principles that generalize beyond the problem originally trained on."
+arxiv: "2503.11061"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/kitft/funsearch"
+publication-date:
+bib-tex: |
+  @misc{ellenberg2025generativemodelingmathematicaldiscovery,
+      title={Generative Modeling for Mathematical Discovery},
+      author={Jordan S. Ellenberg and Cristofero S. Fraser-Taliente and Thomas R. Harvey and Karan Srivastava and Andrew V. Sutherland},
+      year={2025},
+      eprint={2503.11061},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.11061},
+  }

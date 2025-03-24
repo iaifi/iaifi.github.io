@@ -148,7 +148,7 @@
   talk-zoom:
   event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWxhcGM3OHE3ZnZkZWFwZDlhMG5tajdkdGVfMjAyNTA0MDRUMjEwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/0195c89afef073c195523e3d6a2dc041
   more-info-link:
   attendance-in-person:
   attendance-virtual:
@@ -163,7 +163,7 @@
   talk-zoom:
   event-details: "This is an opportunity for IAIFI members to meet up for an informal co-working session. The Penthouse space will be set up for collaboration and conversation. Feel free to stop by for a short time, or stay for the whole session. Refreshments and snacks will be provided!"
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NHBxZnJzcW1mdXRtMnA4bTB2NW9yY2M3czQgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/0195c89afef073c195523e3d6a2dc041
   more-info-link:
   attendance-in-person:
   attendance-virtual:
@@ -176,9 +176,9 @@
   end-date-time: "2025-04-04 13:30"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
-  event-details: "During the lunch, Nash and George will discuss their career trajectories and experience in industry. More details will be provided closer to the event."
+  event-details: "During the lunch, Nash and George will discuss their career trajectories and experience in industry. More details to come."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTA0MDRUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/0195c89afef073c195523e3d6a2dc041
   more-info-link: https://www.linkedin.com/in/nnssa/
   attendance-in-person:
   attendance-virtual:
@@ -191,9 +191,9 @@
   end-date-time: "2025-04-03 16:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
-  event-details: "This will be an informal coffee hour for current IAIFI members to meet with prospective MIT Physics graduate students, who are visiting during the open house. Coffee and snacks provided. All are welcome!"
+  event-details: "This will be an informal coffee hour for current IAIFI members to meet with prospective MIT Physics graduate students, who are visiting during the MIT Physics open house. Coffee and snacks will be provided."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MW9vbWQ5MGgxOHNmbTQ0dmhlNzZmM2lvbXQgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
-  rsvp-link:
+  rsvp-link: 
   more-info-link:
   
 - type: "social"
@@ -233,8 +233,8 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTAzMjFUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link: https://app.smartsheet.com/b/form/0025593623034f36be14a148979757f9
   more-info-link:
-  attendance-in-person:
-  attendance-virtual:
+  attendance-in-person: 10
+  attendance-virtual: 0
   
 - type: "social"
   event-name: "Post-Discussion Social"
@@ -276,7 +276,7 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTAzMTRUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link: https://app.smartsheet.com/b/form/0f9551fa24ee4336851a7e88709a25e5
   more-info-link:
-  attendance-in-person:
+  attendance-in-person: 35
   attendance-virtual:
 
 - type: "social"

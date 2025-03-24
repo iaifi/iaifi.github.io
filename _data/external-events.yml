@@ -33,6 +33,18 @@
   talk-zoom:
   event-details: "BOOST 2025 is the 17th conference of a series of successful joint theory/experiment workshops that bring together the world's leading experts in theoretical and experimental collider physics to discuss the latest progress and develop new approaches on the reconstruction of and use of jet substructure to study Quantum Chromodynamics (QCD) and search for physics beyond the Standard Model."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "CNTR Tech & Policy Summer School"
+  event-organizer: "Brown University Center for Technological Responsibility, Reimagination and Redesign (CNTR)"
+  more-info-link: "https://cntr.brown.edu/summer-school"
+  event-post-date: "2025-03-23"
+  start-date-time: "2025-07-22 9:00"
+  end-date-time: "2025-07-31 17:00"
+  talk-location: "Providence, RI and Washington, DC"
+  talk-zoom:
+  event-details: "Redesign (CNTR) is launching an AI Policy Summer School from Tuesday, July 22nd, through Thursday, July 31st, 2025. This summer school will take place in person in both Providence, RI and Washington, DC. The goals of this summer school are to: (1) Enable graduate students to conduct high-quality policy-informed AI research, (2) Empower students to advocate for new AI policies or changes to existing policy, and (3) Build a pipeline of qualified technologists to fill emerging needs in government."
+  calendar-link:
 
 - type: "external-event"
   event-name: "AstroAI Summer Program - Unveiling the Universe with AI/ML"
@@ -141,6 +153,42 @@
   talk-zoom:
   event-details: "Boston Symmetry Day is a meeting of symmetry-minded folks in the Boston area. It is the largest event on symmetry and machine learning in the United States. Registration is free for all who would like to attend, subject to space constraints. Speakers will include Melanie Weber (Harvard), Dian Wang (Northeastern), Kathryn Lindsey (Boston College), Jiahui Fu (Robotics and AI Institute), and Suhas Lohit (Mitsubishi Electric Research Laboratories)."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "Colloquium on Trustworthy Machine Learning for data-driven discovery"
+  event-organizer: "MIT Kavli Institute"
+  more-info-link: "https://www.space.mit.edu/events/michelle-ntampaka/"
+  event-post-date: "2025-03-23"
+  start-date-time: "2025-04-01 16:00"
+  end-date-time: "2025-04-01 17:00"
+  talk-location: "Marlar lounge & via zoom"
+  talk-zoom:
+  event-details: "Speaker: Michelle Ntampaka, STScI<br>Title: Trustworthy Machine Learning for data-driven discovery<br>Abstract: Modern machine learning techniques have ushered in an era of data-driven astronomy.  Flexible new ML tools enable powerful data analysis strategies that were not feasible even a few years ago. This shift in our scientific approach requires us to ask an important question:  Can we trust the black box?  In this talk, I will highlight opportunities and challenges for creating credible ML to interpret galaxy cluster observations.  I will expand on ML interpretability and domain adaptation as keystones for building models that give trustworthy results.  And I will show examples of how machine learning can be used, not just as a tool for getting “better” results at the expense of understanding but also as a partner that can point us toward physical discovery."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "Talk: Beyond Scaling: Frontiers of Retrieval-Augmented Language Models"
+  event-organizer: "The Kempner Institute"
+  more-info-link: "https://kempnerinstitute.harvard.edu/events/beyond-scaling-frontiers-of-retrieval-augmented-language-models/"
+  event-post-date: "2025-03-23"
+  start-date-time: "2025-03-27 14:30"
+  end-date-time: "2025-03-27 15:30"
+  talk-location: "SEC, Room LL2.224"
+  talk-zoom:
+  event-details: "Speaker: Akari Asai, Ph.D. candidate, Paul G. Allen School of Computer Science & Engineering at the University of Washington<br>Title: Beyond Scaling: Frontiers of Retrieval-Augmented Language Models<br>Abstract: Large Language Models (LMs) have achieved remarkable progress by scaling training data and model sizes. However, they continue to face critical limitations, including hallucinations and outdated knowledge, which hinder their reliability—especially in expert domains such as scientific research and software development. In this talk, I will argue that addressing these challenges requires moving beyond monolithic LMs and toward Augmented LMs—a new AI paradigm that designs, trains, and deploys LMs alongside complementary modules to enhance reliability and efficiency. Focusing on my research on Retrieval-Augmented LMs, one of the most impactful and widely adopted forms of Augmented LMs today, I will begin by presenting systematic analyses of current LM shortcomings and demonstrating how retrieval augmentation offers a more scalable and effective path forward. I will then discuss my work on establishing new foundations for these systems, including novel training approaches and retrieval mechanisms that enable LMs to dynamically adapt to diverse inputs. Finally, I will showcase the real-world impact of such models through OpenScholar, our fully open Retrieval-Augmented LM for assisting scientists in synthesizing literature—now used by over 30,000 researchers and practitioners worldwide. I will conclude by outlining my vision for the future of Augmented LMs, emphasizing advancements in abilities to handle heterogeneous modalities, more efficient and flexible integration with diverse components, and rigorous evaluation through interdisciplinary collaboration."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-03-23"
+  start-date-time: "2025-03-24 12:00"
+  end-date-time: "2025-03-24 13:00"
+  talk-location: "P-108A (Wolbach space), Center for Astrophysics, 60 Garden Street"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Zachary Fried (Graduate Student, MIT)<br>Title: Automating Chemical Intuition for Molecular Identification and Prediction in Astronomical Observations <br>Abstract: When manually identifying molecules in radio astronomical observations, scientists often rely on 'chemical intuition' to evaluate the plausibility of each molecular candidate. This consideration is important, as the detected molecules are frequently chemically related due to shared environmental processes or common precursor compounds. However, this reliance on human intuition poses a challenge for automation, as replicating such reasoning in code is inherently difficult. To address this, we have developed a new framework that leverages machine learning-based embedding methods to analyze the regions of chemical space occupied by molecules detected in specific interstellar sources. This analysis of chemical space is then integrated into an automated line assignment algorithm. Additionally, by training a model to gain a structured understanding of chemical space, we can generate strong candidate molecules to search for in our astronomical data. In this presentation, I will describe our line-assignment algorithm and demonstrate its application to various interstellar sources."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTUzNXJsdjJuaGc5MDkyY2hyZGI5ZnJuMXIgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-workshop"
   event-name: "Physics for AI Workshop"

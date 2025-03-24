@@ -88,30 +88,30 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Machine Learning-Driven Anomaly Detection in Dijet Events with ATLAS"
   talk-abstract: "This talk will explore an anomaly detection search for narrow-width resonances beyond the Standard Model that decay into a pair of jets. Using 139 fb−1 of proton-proton collision data at sqrt(s) = 13 TeV, recorded from 2015 to 2018 with the ATLAS detector at the Large Hadron Collider, we aim to identify new physics without relying on a specific signal model. The analysis employs two machine learning strategies to estimate the background in different signal regions, with weakly supervised classifiers trained to differentiate this background estimate from actual data. We focus on high transverse momentum jets reconstructed as large-radius jets, using their mass and substructure as classifier inputs. After a classifier-based selection, we analyze the invariant mass distribution of the jet pairs for potential local excesses. Our model-independent results indicate no significant local excesses and we inject a representative set of signal models into the data to evaluate the sensitivity of our methods. This contribution discusses the used methods and latest results and highlights the potential of machine learning in enhancing the search for new physics in fundamental particle interactions."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/15_WNKzE0qmyRywOmOMWFqaJCDiwngKdI/view?usp=drive_link"
   youtube-link:
   speaker-thrust: "Physics Experiment"
   speaker-gender: "Man"
-  talk-attendance:  in person, virtual
+  talk-attendance: 8 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTAzMThUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Career Advice Panel
-  speaker-title: Industry Partnership Committee
-  speaker-affiliation: IAIFI
+  speaker-name: Denis Boyda (Meta AI, Former IAIFI Fellow), Emmanouil Theodosis (Grad Student, Harvard), Steven Eulig
+  speaker-title: organized Industry Partnership Committee
+  speaker-affiliation: Research Scientist, EMD Electronics and Harvard University
   speaker-website:
   speaker-photo-location:
   start-date-time: "2025-04-01 13:00"
   end-date-time: "2025-04-01 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
+  talk-title: "Career Advice Panel"
+  talk-abstract: "Three panelists in the IAIFI community will share about their experiences in academia and industry, and will discuss advice and tips for pursuing career goals. This will be followed by Q&A with attendees. Lunch and refreshments will be provided!"
   slides-link: ""
   youtube-link:
   speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance: 8 in person, 0 virtual
+  speaker-gender: "Man, Man, Man"
+  talk-attendance: ""
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MDFUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 - type: "journal-club"
@@ -192,13 +192,32 @@
   
 - type: "journal-club"
   semester: "spring-2025"
+  speaker-name: Speaker TBA
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-05-06 13:00"
+  end-date-time: "2025-05-06 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXVtNjIyN2RwZW9iMGZoYzJ0dnAycG92a3YgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2025"
   speaker-name: Sokratis Trifinopoulos
   speaker-title: Postdoctoral Researcher
   speaker-affiliation: MIT, IAIFI
   speaker-website: "https://strifinopoulos.github.io"
   speaker-photo-location:
-  start-date-time: "2025-05-06 13:00"
-  end-date-time: "2025-05-06 14:00"
+  start-date-time: "2025-05-13 13:00"
+  end-date-time: "2025-05-13 14:00"
   talk-location: "IAIFI Penthouse"
   talk-title: "Title to come."
   talk-abstract: "Abstract to come."
