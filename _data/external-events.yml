@@ -1,4 +1,16 @@
 - type: "external-workshop"
+  event-name: "Northeast Quantum Forum 2025: AI in Quantum"
+  event-organizer: "NEQT Organizing Committee"
+  more-info-link: "https://sites.usnh.edu/neqt/"
+  event-post-date: "2025-03-30"
+  start-date-time: "2025-10-14 9:00"
+  end-date-time: "2025-10-17 17:00"
+  talk-location: "The University of New Hampshire"
+  talk-zoom:
+  event-details: "Northeast or Greater New England area has a strong presence of quantum materials and quantum technology research. Unfortunately, for many years, there is no recurring regional workshops to bring scientists on these fields together. The Northeast Quantum Forum (NEQT) aims to fill this gap and create a collaborative platform for leading experts and motivative students in and out of New England area to exchange of ideas, advancements, and insights in the ever-evolving field of quantum science and quantum materials. We expect that this new platform becomes a hub for exciting physics and fruitful collaborations. The 2025 workshop, taking place on October 14th to 17th, 2025 at the University of New Hampshire, will feature applications of artificial intelligence methods in quantum science broadly defined."
+  calendar-link:
+
+- type: "external-workshop"
   event-name: "Build Big or Build Smart: Examining Scale and Domain Knowledge in Machine Learning for Fundamental Physics"
   event-organizer: "MIAPbP (Munich Institute for Astro-, Particle- and Biophysics)"
   more-info-link: "https://www.munich-iapbp.de/activities/activities-2025/machine-learning"
@@ -143,6 +155,18 @@
   calendar-link:
   
 - type: "external-event"
+  event-name: "Talk: Learning Formal Reasoning"
+  event-organizer: "The Kempner Institute"
+  more-info-link: "https://kempnerinstitute.harvard.edu/events/gabriel-poesia-talk/"
+  event-post-date: "2025-03-30"
+  start-date-time: "2025-04-01 14:30"
+  end-date-time: "2025-04-01 15:30"
+  talk-location: "SEC, Room LL2.224"
+  talk-zoom:
+  event-details: "Speaker: Gabriel Poesia, PhD student, Stanford University <br>Title: Learning Formal Reasoning  <br>Abstract: Formal systems, such as type theories, provide general foundations for representing mathematics and computation, with increasing adoption in the formalization of research-level mathematical results, as well as for implementing and verifying critical real-world software. However, their flexibility comes at a cost: most key problems in these systems, like finding proofs, are computationally undecidable. Nonetheless, humans routinely solve novel mathematical problems, write new programs and prove them correct. Crucially, we leverage our ability to learn, developing increasingly better heuristics and abstractions for our domains of interest. We do so even without specific goals other than making interesting discoveries. In this talk, I’ll present my research addressing fundamental challenges arising in learning formal reasoning. First, I’ll show how reinforcement learning and abstraction learning combined enable an agent to master sections from the Khan Academy algebra curriculum, and even reconstruct the human-designed curriculum using its learned abstractions, despite seeing problems in a random order. Then, I’ll present my work on open-ended learning for theorem proving, where an agent learns from self-generated conjectures, bootstrapping its ability to prove human-written theorems despite only training on proofs it found by itself. Along the way, I’ll present methods for interfacing symbolic and neural systems, with applications to program generation and verification, and discuss standing challenges in developing self-improving reasoning machines."
+  calendar-link:
+  
+- type: "external-event"
   event-name: "Boston Symmetry Day"
   event-organizer: "The Boston Symmetry Group"
   more-info-link: "https://bostonsymmetry.github.io/"
@@ -189,7 +213,7 @@
   talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
   event-details: "Speaker: Zachary Fried (Graduate Student, MIT)<br>Title: Automating Chemical Intuition for Molecular Identification and Prediction in Astronomical Observations <br>Abstract: When manually identifying molecules in radio astronomical observations, scientists often rely on 'chemical intuition' to evaluate the plausibility of each molecular candidate. This consideration is important, as the detected molecules are frequently chemically related due to shared environmental processes or common precursor compounds. However, this reliance on human intuition poses a challenge for automation, as replicating such reasoning in code is inherently difficult. To address this, we have developed a new framework that leverages machine learning-based embedding methods to analyze the regions of chemical space occupied by molecules detected in specific interstellar sources. This analysis of chemical space is then integrated into an automated line assignment algorithm. Additionally, by training a model to gain a structured understanding of chemical space, we can generate strong candidate molecules to search for in our astronomical data. In this presentation, I will describe our line-assignment algorithm and demonstrate its application to various interstellar sources."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTUzNXJsdjJuaGc5MDkyY2hyZGI5ZnJuMXIgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
-  
+
 - type: "external-workshop"
   event-name: "Physics for AI Workshop"
   event-organizer: "Andrei Constantin, Ard Louis, Andre Lukas, and Shivaji Sondhi"
