@@ -237,17 +237,6 @@
   rsvp-link:
   more-info-link:
   
-- type: "internal-other"
-  event-name: "MIT Case Studies in Social and Ethical Responsibilities of Computing (SERC)"
-  more-info-link: "https://mit-serc.pubpub.org/"
-  event-post-date: "2025-03-23"
-  start-date-time: "2025-03-24 9:00"
-  end-date-time: "2025-03-24 17:00"
-  talk-location: "SERC"
-  talk-zoom:
-  event-details: "The MIT Case Studies in Social and Ethical Responsibilities of Computing (SERC) aims to advance new efforts within and beyond MIT’s Stephen A. Schwarzman College of Computing. The specially commissioned and peer-reviewed cases are brief and intended to be effective for undergraduate instruction across a range of classes and fields of study. The series will also be of interest for computing professionals, policy specialists, and general readers. All cases are freely available via open-access publishing, with author retained copyright, through Creative Commons licensing. A companion website, with original homework problems, in-class demonstrations, and active learning projects developed by multidisciplinary SERC teams, is available via MIT’s OpenCourseWare."
-  calendar-link:
-  
 - type: "social"
   event-name: "Q&A Lunch with Jesse Thaler and Mike Williams"
   event-post-date: "2025-03-09"
