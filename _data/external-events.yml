@@ -213,17 +213,6 @@
   talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
   event-details: "Speaker: Zachary Fried (Graduate Student, MIT)<br>Title: Automating Chemical Intuition for Molecular Identification and Prediction in Astronomical Observations <br>Abstract: When manually identifying molecules in radio astronomical observations, scientists often rely on 'chemical intuition' to evaluate the plausibility of each molecular candidate. This consideration is important, as the detected molecules are frequently chemically related due to shared environmental processes or common precursor compounds. However, this reliance on human intuition poses a challenge for automation, as replicating such reasoning in code is inherently difficult. To address this, we have developed a new framework that leverages machine learning-based embedding methods to analyze the regions of chemical space occupied by molecules detected in specific interstellar sources. This analysis of chemical space is then integrated into an automated line assignment algorithm. Additionally, by training a model to gain a structured understanding of chemical space, we can generate strong candidate molecules to search for in our astronomical data. In this presentation, I will describe our line-assignment algorithm and demonstrate its application to various interstellar sources."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTUzNXJsdjJuaGc5MDkyY2hyZGI5ZnJuMXIgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
-  
-- type: "external-event"
-  event-name: "MIT Case Studies in Social and Ethical Responsibilities of Computing (SERC)"
-  more-info-link: "https://mit-serc.pubpub.org/"
-  event-post-date: "2025-03-30"
-  start-date-time: "2025-03-24 9:00"
-  end-date-time: "2025-03-24 17:00"
-  talk-location: "SERC"
-  talk-zoom:
-  event-details: "The MIT Case Studies in Social and Ethical Responsibilities of Computing (SERC) aims to advance new efforts within and beyond MIT’s Stephen A. Schwarzman College of Computing. The specially commissioned and peer-reviewed cases are brief and intended to be effective for undergraduate instruction across a range of classes and fields of study. The series will also be of interest for computing professionals, policy specialists, and general readers. All cases are freely available via open-access publishing, with author retained copyright, through Creative Commons licensing. A companion website, with original homework problems, in-class demonstrations, and active learning projects developed by multidisciplinary SERC teams, is available via MIT’s OpenCourseWare."
-  calendar-link:
 
 - type: "external-workshop"
   event-name: "Physics for AI Workshop"
