@@ -21,7 +21,7 @@ We are happy to have the opportunity this year to partner with the MIT Schwarzma
 
 **Biographical Sketch**: Congyue Deng is completing her Ph.D. in Computer Science at Stanford University. She received her B.S. in Mathematics from Tsinghua University in 2020 with the top GPA in her class (1/114). In addition to her involvement with IAIFI, she is a Tayebati Postdoctoral Fellow at the MIT Schwarzman College of Computing. She is also a recipient of the CPAL Rising Star Award in 2025.
 
-### [Berthy Feng](mailto:congyue@stanford.edu) (IAIFI/Tayebati Fellow)
+### [Berthy Feng](mailto:berthyf96@gmail.com) (IAIFI/Tayebati Fellow)
 <img src="images/small-photo-berthy-feng.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Berthy Feng works on computational imaging, computer vision, and machine learning. She is primarily interested in developing data-driven and physics-based methods for scientific imaging. During her PhD, she developed a method for solving inverse imaging problems using diffusion models as priors and used this approach to image black holes from Event Horizon Telescope data. She also created physics-based methods for estimating material properties from video and established a way to constrain deep generative models according to physics constraints. Going forward, she would like to further improve this approach to impose hard constraints on generative models. She is also interested in designing interpretable methods for uncertainty quantification in the imaging process. More broadly, she is excited to tackle the most challenging scientific imaging problems (e.g., black-hole video reconstruction, 3D protein imaging, exoplanet imaging) by blending physics-based and data-driven methods.
