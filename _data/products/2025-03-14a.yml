@@ -11,7 +11,7 @@ nsf-par:
 code: "https://github.com/kitft/funsearch"
 publication-date:
 bib-tex: |
-  @misc{ellenberg2025generativemodelingmathematicaldiscovery,
+  @article{ellenberg2025generativemodelingmathematicaldiscovery,
       title={Generative Modeling for Mathematical Discovery},
       author={Jordan S. Ellenberg and Cristofero S. Fraser-Taliente and Thomas R. Harvey and Karan Srivastava and Andrew V. Sutherland},
       year={2025},

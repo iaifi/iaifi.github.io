@@ -11,7 +11,7 @@ nsf-par:
 code: 
 publication-date:
 bib-tex: |
-  @misc{bieri2025machinelearningvanishingorder,
+  @article{bieri2025machinelearningvanishingorder,
       title={Machine learning the vanishing order of rational L-functions},
       author={Joanna Bieri and Giorgi Butbaia and Edgar Costa and Alyson Deines and Kyu-Hwan Lee and David Lowry-Duda and Thomas Oliver and Yidi Qi and Tamara Veenstra},
       year={2025},

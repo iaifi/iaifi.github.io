@@ -11,7 +11,7 @@ nsf-par:
 code: "https://github.com/LSquaredM/mutual_info_scaling_law"
 publication-date:
 bib-tex: |
-  @misc{chen2025l2mmutualinformationscaling,
+  @article{chen2025l2mmutualinformationscaling,
       title={L$^2$M: Mutual Information Scaling Law for Long-Context Language Modeling},
       author={Zhuo Chen and Oriol Mayné i Comas and Zhuotao Jin and Di Luo and Marin Soljačić},
       year={2025},
