@@ -135,10 +135,10 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
+  speaker-name: Ahmed Youssef
+  speaker-title: PhD Candidate
+  speaker-affiliation: The University of Cincinnati
+  speaker-website: https://adyoussef.github.io/
   speaker-photo-location:
   start-date-time: "2025-04-15 13:00"
   end-date-time: "2025-04-15 14:00"
@@ -147,8 +147,8 @@
   talk-abstract: "Abstract to come."
   slides-link: ""
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Physics theory"
+  speaker-gender: "Man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MTVUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
