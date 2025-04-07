@@ -107,48 +107,48 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Career Advice Panel"
   talk-abstract: "Three panelists in the IAIFI community will share about their experiences in academia and industry, and will discuss advice and tips for pursuing career goals. This will be followed by Q&A with attendees. Lunch and refreshments will be provided!"
-  slides-link: ""
-  youtube-link:
-  speaker-thrust: ""
+  slides-link: "https://drive.google.com/drive/folders/1SjNDbAfeg1h9ZkGqhytHYH0jhisKjUsx?usp=drive_link"
+  youtube-link: "https://docs.google.com/document/d/1GRRywPdaVIh-Rp1WUXhPsfRp09DazL_PJwAzmrmknuo/edit?usp=sharing"
+  speaker-thrust: "N/A"
   speaker-gender: "Man, Man, Man"
-  talk-attendance: ""
+  talk-attendance: 7 in person, 9 virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MDFUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Andrew Maris
-  speaker-title: PhD Candidate
+  speaker-name: Canceled--Andrew Maris
+  speaker-title: Grad Student
   speaker-affiliation: MIT Plasma Science and Fusion Center
-  speaker-website: "https://andrewmaris.com/"
+  speaker-website: ""
   speaker-photo-location:
   start-date-time: "2025-04-08 13:00"
   end-date-time: "2025-04-08 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
-  slides-link: ""
-  youtube-link:
-  speaker-thrust: "physics experiment"
-  speaker-gender: "man"
-  talk-attendance:  in person, virtual
-  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MDhUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
-  
-- type: "journal-club"
-  semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
-  speaker-photo-location:
-  start-date-time: "2025-04-15 13:00"
-  end-date-time: "2025-04-15 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
+  talk-title: This talk has been canceled.
+  talk-abstract: There will not be a journal club meeeting this week.
   slides-link: ""
   youtube-link:
   speaker-thrust: ""
   speaker-gender: ""
+  talk-attendance:  in person, virtual
+  calendar-link:
+  
+- type: "journal-club"
+  semester: "spring-2025"
+  speaker-name: Ahmed Youssef
+  speaker-title: PhD Candidate
+  speaker-affiliation: The University of Cincinnati
+  speaker-website: https://adyoussef.github.io/
+  speaker-photo-location:
+  start-date-time: "2025-04-15 13:00"
+  end-date-time: "2025-04-15 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "ML for hadronization"
+  talk-abstract: "Abstract to come."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: "Physics theory"
+  speaker-gender: "Man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MTVUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   

@@ -1,0 +1,28 @@
+type: project
+iaifi-thrust: F
+start-year: 2023
+title: "A Brief, Descriptive Title for the Project"
+project-lead: "Jesse Thaler (MIT)"
+iaifi-members: "Senior or Junior Investigators in IAIFI also involved (Affiliation)"
+other-contributors: "Anyone else contributing who is not in IAIFI"
+abstract: "A brief abstract (100 words or less) about the scope of the project"
+papers: "[2503.11061](https://arxiv.org/abs/2503.11061), [2503.11061](https://arxiv.org/abs/2503.11061),"
+industry-partners: "Include any partners in industry who are working on this project with you"
+inductive-bias: "Describe the domain-specific knowledge impacting the advances."
+novel-ai: "Describe the AI innovation being developed."
+project-goals: "Please list up to three goals in bullet form to illustrate what you aim to accomplish"
+project-status: "Some milestones achieved"
+research milestones: "Please list the research-specific milestones that have been reached in the project's development (e.g. product you have developed, key discovery you have made, etc)."
+iaifi-support: "Funding for student/postdoc"
+barriers: "Please list anything (research, personnel, resources, or otherwise) that may have impeded the project."
+project-achievements: "Please list any highlights related to this project (e.g. acceptance to conferences, awards, particularly successful collaborations, etc.)"
+next-steps: "What will you do next?"
+dataset-types: "Public dataset"
+dataset-examples: "CAMELS"
+code-link: "https://github.com/iaifi"
+talks-given: "List the talks you or your group have given in the past year"
+analytic-empirical: 4
+innovation-application: 7
+project-tags: generative models; reinforcement learning
+website-summary: Please write 3-4 sentences to describe your project for the IAIFI website
+figure-caption: This should be a descriptive caption for the image you submitted.

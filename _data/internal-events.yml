@@ -195,8 +195,9 @@
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTA0MDRUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link: https://app.smartsheet.com/b/form/0195c89afef073c195523e3d6a2dc041
   more-info-link: https://www.linkedin.com/in/nnssa/
-  attendance-in-person:
-  attendance-virtual:
+  youtube-link: "https://docs.google.com/document/d/1P8tzwI_lrZTrBtxPT2ajmDxA27xRTCCJnVaYSMXu62g/edit?usp=sharing"
+  attendance-in-person: 10
+  attendance-virtual: 3
   
 - type: "social"
   event-name: "Coffee Hour with Prospective MIT Physics Grad Students"

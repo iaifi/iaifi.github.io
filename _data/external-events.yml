@@ -1,3 +1,15 @@
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-04-07"
+  start-date-time: "2025-04-07 12:00"
+  end-date-time: "2025-04-07 13:00"
+  talk-location: "P-108A (Wolbach space), Center for Astrophysics, 60 Garden Street"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Fiona Redmen (Southampton/CfA)<br>Title: Expedited Spectral Fitting of Black Hole X-Ray Binaries Using Variational Auto-Encoderes <br>Abstract: Black hole X-ray binaries (BHBs) can be studied with spectral fitting to provide physical constraints on accretion in extreme gravitational environments. We employ thousands of spectra collected by NICER, applying machine learning methods to expedite spectral-fitting results. Specifically, we create a probabilistic model, utilizing a variational auto-encoder with a normalizing flow, trained to adopt a physical latent space, building on our earlier work. This neural network produces predictions for spectral-model parameters as well as their uncertainties."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTUzNXJsdjJuaGc5MDkyY2hyZGI5ZnJuMXIgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
 - type: "external-workshop"
   event-name: "Northeast Quantum Forum 2025: AI in Quantum"
   event-organizer: "NEQT Organizing Committee"
@@ -56,6 +68,18 @@
   talk-location: "Providence, RI and Washington, DC"
   talk-zoom:
   event-details: "Redesign (CNTR) is launching an AI Policy Summer School from Tuesday, July 22nd, through Thursday, July 31st, 2025. This summer school will take place in person in both Providence, RI and Washington, DC. The goals of this summer school are to: (1) Enable graduate students to conduct high-quality policy-informed AI research, (2) Empower students to advocate for new AI policies or changes to existing policy, and (3) Build a pipeline of qualified technologists to fill emerging needs in government."
+  calendar-link:
+  
+- type: "external-workshop"
+  event-name: "AstroAI Workshop - Unveiling the Universe with AI/ML"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/workshop"
+  event-post-date: "2025-04-06"
+  start-date-time: "2025-07-28 9:00"
+  end-date-time: "2025-08-01 17:00"
+  talk-location: "Center for Astrophysics - Harvard & Smithsonian (CfA), 60 Garden St., Cambridge, MA 02138"
+  talk-zoom:
+  event-details: "The AstroAI Workshop is designed to foster an environment of learning, collaboration, and innovation. Over the course of five days, participants will engage in a series of lectures and discussions led by experts in the fields of AI/ML and astrophysics, hands on sessions, talks by early career scientists in the field, and networking events. This workshop is an opportunity for early career scientists to deepen their understanding of foundational AI/ML models for astrophysical research, and their potential in unraveling the mysteries of the universe."
   calendar-link:
 
 - type: "external-event"
@@ -154,6 +178,30 @@
   event-details: "The Molecule Maker Lab Institute (MMLI) invites you to our upcoming research symposium, 'AI Scientists? What Would It Take?' This event will bring together researchers, industry leaders, and students to explore the intersection of artificial intelligence and chemistry, discussing what it takes to advance AI-driven scientific discovery."
   calendar-link:
   
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-04-06"
+  start-date-time: "2025-04-07 16:00"
+  end-date-time: "2025-04-07 16:45"
+  talk-location: "MIT Room G882 (Hewlett Room)"
+  talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
+  event-details: "ML Tea Talks are informal 30-45-minute sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker: Kaveh Alimohammadi <br>Title: Activation-Informed Merging of LLMs<br>Abstract: Model merging has emerged as an efficient strategy for combining multiple fine-tuned large language models (LLMs) while avoiding the computational overhead of retraining. However, existing methods often overlook the importance of activation-space information in guiding the merging process. In this talk, I will introduce Activation-Informed Merging (AIM), a novel technique that enhances the robustness and performance of merged models by incorporating activation-space insights. AIM is designed as a complementary framework that can be applied to any merging approach, preserving critical weights from the base model through principles drawn from continual learning and model compression. By utilizing a task-agnostic calibration set, AIM selectively prioritizes essential parameters, leading to significant performance improvements across multiple benchmarks, with up to a 40% increase in effectiveness."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M29nNWEwcmlkMWVrbXFjb21wN2VjaWpwbHYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "Talk: Rethinking Generative Models in the Age of Science"
+  event-organizer: "The Kempner Institute"
+  more-info-link: "https://kempnerinstitute.harvard.edu/events/rethinking-generative-models-in-the-age-of-science/"
+  event-post-date: "2025-04-06"
+  start-date-time: "2025-04-07 14:30"
+  end-date-time: "2025-04-07 15:30"
+  talk-location: "SEC, Room LL2.224"
+  talk-zoom:
+  event-details: "Speaker: Joey Bose (Post-Doctoral Fellow, The University of Oxford)<br>Title: Rethinking Generative Models for Structured Probabilistic Inference in the Age of Science <br>Abstract: Our natural world is governed by seemingly simple laws that often give rise to a rich tapestry of phenomena, such as complex physical, chemical, and biological processes that produce highly structured data. A better understanding of such scientific processes to the extent that they can be simulated at scale using machine learning has the potential to deliver revolutionary impact across several fields—already inaugurated by recent Nobel Prizes in Physics and Chemistry—potentially leading to new scientific breakthroughs. However, unlike data-rich domains such as images, delivering on the currently unfulfilled promise of scientific discovery on real problems requires the development of a new generation of probabilistic and generative modeling methods. In this talk, I outline the key challenges inherent to scientific domains that invite new approaches to build generative models for scientific data types. Specifically, I will present FoldFlow which advances Geometric Generative Modeling of de novo protein design through the use of SE(3) Flow-matching to generate high-quality designable, diverse, and novel protein backbones. Anchored by the design principles in FoldFlow, I will then outline a blueprint for building the next wave of generative models for scientific discovery, by outlining how modern generative models can be used as generative samplers for equilibrium sampling from Boltzmann densities which encapsulates many premier problems in AI4Science applications."
+  calendar-link:
+
 - type: "external-event"
   event-name: "Talk: Learning Formal Reasoning"
   event-organizer: "The Kempner Institute"
