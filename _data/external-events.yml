@@ -1,3 +1,15 @@
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-04-07"
+  start-date-time: "2025-04-07 12:00"
+  end-date-time: "2025-04-07 13:00"
+  talk-location: "P-108A (Wolbach space), Center for Astrophysics, 60 Garden Street"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Fiona Redmen (Southampton/CfA)<br>Title: Expedited Spectral Fitting of Black Hole X-Ray Binaries Using Variational Auto-Encoderes <br>Abstract: Black hole X-ray binaries (BHBs) can be studied with spectral fitting to provide physical constraints on accretion in extreme gravitational environments. We employ thousands of spectra collected by NICER, applying machine learning methods to expedite spectral-fitting results. Specifically, we create a probabilistic model, utilizing a variational auto-encoder with a normalizing flow, trained to adopt a physical latent space, building on our earlier work. This neural network produces predictions for spectral-model parameters as well as their uncertainties."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTUzNXJsdjJuaGc5MDkyY2hyZGI5ZnJuMXIgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
 - type: "external-workshop"
   event-name: "Northeast Quantum Forum 2025: AI in Quantum"
   event-organizer: "NEQT Organizing Committee"

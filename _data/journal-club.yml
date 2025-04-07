@@ -116,22 +116,22 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Andrew Maris
-  speaker-title: PhD Candidate
+  speaker-name: Canceled--Andrew Maris
+  speaker-title: Grad Student
   speaker-affiliation: MIT Plasma Science and Fusion Center
-  speaker-website: "https://andrewmaris.com/"
+  speaker-website: ""
   speaker-photo-location:
   start-date-time: "2025-04-08 13:00"
   end-date-time: "2025-04-08 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Identification of the "density limit" in tokamak fusion reactors using machine learning"
-  talk-abstract: "Abstract to come."
+  talk-title: This talk has been canceled.
+  talk-abstract: There will not be a journal club meeeting this week.
   slides-link: ""
   youtube-link:
-  speaker-thrust: "physics experiment"
-  speaker-gender: "man"
+  speaker-thrust: ""
+  speaker-gender: ""
   talk-attendance:  in person, virtual
-  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MDhUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  calendar-link:
   
 - type: "journal-club"
   semester: "spring-2025"
@@ -143,7 +143,7 @@
   start-date-time: "2025-04-15 13:00"
   end-date-time: "2025-04-15 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
+  talk-title: "ML for hadronization"
   talk-abstract: "Abstract to come."
   slides-link: ""
   youtube-link:
