@@ -116,25 +116,6 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Canceled--Andrew Maris
-  speaker-title: Grad Student
-  speaker-affiliation: MIT Plasma Science and Fusion Center
-  speaker-website: ""
-  speaker-photo-location:
-  start-date-time: "2025-04-08 13:00"
-  end-date-time: "2025-04-08 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: This talk has been canceled.
-  talk-abstract: There will not be a journal club meeeting this week.
-  slides-link: ""
-  youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
-  talk-attendance:  in person, virtual
-  calendar-link:
-  
-- type: "journal-club"
-  semester: "spring-2025"
   speaker-name: Ahmed Youssef
   speaker-title: PhD Candidate
   speaker-affiliation: The University of Cincinnati
