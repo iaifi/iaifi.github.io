@@ -4,18 +4,22 @@ title: "Multistable Shape from Shading Emerges from Patch Diffusion"
 authors: Xinran Nicole Han, Todd Zickler, Ko Nishino
 abstract: 'Models for monocular shape reconstruction of surfaces with diffuse reflection -- shape from shading -- ought to produce distributions of outputs, because there are fundamental mathematical ambiguities of both continuous (e.g., bas-relief) and discrete (e.g., convex/concave) varieties which are also experienced by humans. Yet, the outputs of current models are limited to point estimates or tight distributions around single modes, which prevent them from capturing these effects. We introduce a model that reconstructs a multimodal distribution of shapes from a single shading image, which aligns with the human experience of multistable perception. We train a small denoising diffusion process to generate surface normal fields from 16×16 patches of synthetic images of everyday 3D objects. We deploy this model patch-wise at multiple scales, with guidance from inter-patch shape consistency constraints. Despite its relatively small parameter count and predominantly bottom-up structure, we show that multistable shape explanations emerge from this model for ''ambiguous'' test images that humans experience as being multistable. At the same time, the model produces veridical shape estimates for object-like images that include distinctive occluding contours and appear less ambiguous. This may inspire new architectures for stochastic 3D shape perception that are more efficient and better aligned with human experience.'
 arxiv: "2405.14530"
-journal:
-doi:
+journal: NeurIPS 2024
+doi: https://papers.nips.cc/paper_files/paper/2024/hash/3d4dc72d715bd6415d356293079adf3d-Abstract-Conference.html
 nsf-par:
 code: 
 publication-date: 
 bib-tex: |
-  @article{han2024multistableshapeshadingemerges,
-      title={Multistable Shape from Shading Emerges from Patch Diffusion},
-      author={Xinran Nicole Han and Todd Zickler and Ko Nishino},
-      year={2024},
-      eprint={2405.14530},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2405.14530},
+  @inproceedings{NEURIPS2024_3d4dc72d,
+  author = {Han, Xinran Nicole and Zickler, Todd and Nishino, Ko},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+  pages = {34686--34711},
+  publisher = {Curran Associates, Inc.},
+  title = {Multistable Shape from Shading Emerges from Patch Diffusion},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/3d4dc72d715bd6415d356293079adf3d-Paper-Conference.pdf},
+  volume = {37},
+  year = {2024},
+  eprint={2405.14530},
+  archivePrefix={arXiv}
   }
