@@ -5,18 +5,25 @@ title: "A Hodge Theory for Entanglement Cohomology"
 authors: "Christian Ferko, Eashan Iyer, Kasra Mossayebi, Gregor Sanfey"
 abstract: "We explore and extend the application of homological algebra to describe quantum entanglement, initiated in arXiv:1901.02011, focusing on the Hodge-theoretic structure of entanglement cohomology in finite-dimensional quantum systems. We construct analogues of the Hodge star operator, inner product, codifferential, and Laplacian for entanglement k-forms. We also prove that such k-forms obey versions of the Hodge isomorphism theorem and Hodge decomposition, and that they exhibit Hodge duality. As a corollary, we conclude that the dimensions of the k-th and (n−k)-th cohomologies coincide for entanglement in n-partite pure states, which explains a symmetry property ('Poincare duality') of the associated Poincare polynomials."
 arxiv: "2410.12529"
-journal:
-doi:
+journal: "Physical Review A, 2025, Volume 111, Issue 3"
+doi: "https://doi.org/10.1103/PhysRevA.111.032422"
 nsf-par:
 code:
-publication-date:
+publication-date: 2025-03-21
 bib-tex: |
-  @article{ferko2024hodgetheoryentanglementcohomology,
-      title={A Hodge Theory for Entanglement Cohomology},
-      author={Christian Ferko and Eashan Iyer and Kasra Mossayebi and Gregor Sanfey},
-      year={2024},
-      eprint={2410.12529},
-      archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2410.12529},
+  @article{PhysRevA.111.032422,
+  title = {Hodge theory for entanglement cohomology},
+  author = {Ferko, Christian and Iyer, Eashan and Mossayebi, Kasra and Sanfey, Gregor},
+  journal = {Phys. Rev. A},
+  volume = {111},
+  issue = {3},
+  pages = {032422},
+  numpages = {21},
+  year = {2025},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevA.111.032422},
+  url = {https://link.aps.org/doi/10.1103/PhysRevA.111.032422},
+  eprint={2504.05462},
+  archivePrefix={arXiv},
   }

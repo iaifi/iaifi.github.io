@@ -155,6 +155,18 @@
   calendar-link:
   
 - type: "external-event"
+  event-name: "Third Annual UMB Department of Physics Research Symposium: Quantum Collaborations"
+  event-organizer: "The UMB Department of Physics"
+  more-info-link: "https://www.umb.edu/science-mathematics/academic-departments/physics/"
+  event-post-date: "2025-04-20"
+  start-date-time: "2025-05-02 08:30"
+  end-date-time: "2025-05-02 19:00"
+  talk-location: "UMass Boston, Campus Center Ballroom A (U03-3550)"
+  talk-zoom:
+  event-details: "In celebration of the “International Year of Quantum Science and Technology” the Department of Physics will be hosting our Third Annual Research Symposium with a theme of 'Quantum Collaborations.' This event will include speakers from both academia and the industry, showcasing collaborative efforts by UMB Physics faculty with leaders from academia and industry. This will be a great opportunity to learn more about the history and 'magic' of quantum physics, explore new research advances by UMB faculty and collaborators, and connect with experts shaping the future of the field. The afternoon (2:00-5:00pm) will feature the IAIFI-UMB partnership and will include presentations from IAIFI members."
+  calendar-link:
+  
+- type: "external-event"
   event-name: "MIT Ethics of Computing Research Symposium"
   event-organizer: "The Social and Ethical Responsibilities of Computing (SERC)"
   more-info-link: "https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/serc-symposium-2025/"

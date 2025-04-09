@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-04-07
+title: "Quantum Mechanics and Neural Networks"
+authors: "Christian Ferko, James Halverson"
+abstract: "We demonstrate that any Euclidean-time quantum mechanical theory may be represented as a neural network, ensured by the Kosambi-Karhunen-Loève theorem, mean-square path continuity, and finite two-point functions. The additional constraint of reflection positivity, which is related to unitarity, may be achieved by a number of mechanisms, such as imposing neural network parameter space splitting or the Markov property. Non-differentiability of the networks is related to the appearance of non-trivial commutators. Neural networks acting on Markov processes are no longer Markov, but still reflection positive, which facilitates the definition of deep neural network quantum systems. We illustrate these principles in several examples using numerical implementations, recovering classic quantum mechanical results such as Heisenberg uncertainty, non-trivial commutators, and the spectrum."
+arxiv: "2504.05462"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ferko2025quantummechanicsneuralnetworks,
+      title={Quantum Mechanics and Neural Networks},
+      author={Christian Ferko and James Halverson},
+      year={2025},
+      eprint={2504.05462},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2504.05462},
+  }
