@@ -20,7 +20,7 @@
 
 - type: "thematic-discussion"
   semester: "spring-2025"
-  speaker-names-affiliations: "Ziming Liu, MIT"
+  speaker-names-affiliations: "Led by Ziming Liu (MIT)"
   speaker-title: Graduate Student
   speaker-affiliation: MIT
   speaker-website:
@@ -29,7 +29,7 @@
   end-date-time: "2025-04-18 15:00"
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "Interpretable AI"
-  talk-abstract: "Organized by Ziming Liu (Grad Student, MIT). Details to come."
+  talk-abstract: "As AI systems become increasingly central to scientific discovery, interpretability is emerging as a critical concern—both in the natural sciences (e.g., physics) and within machine learning itself (e.g., natural language processing). But what exactly do we mean by interpretable machines? In this session, we will begin with a series of lightning talks:<br>1. Matthew Schwartz (Harvard): Transformers for Symbolic Formulas (interpretable outputs for physics)<br>2. Naomi Saphra (Harvard): Mechanistic Interpretability (interpretable internals for NLP)<br>3. A third speaker (TBA)<br> A guided discussion will follow, centered on key questions:<br>1. What are your (least) favourite tools or examples of interpretability in action?<br>2. Is interpretability positively or negatively correlated with performance?<br>3. What will doing science be like in 5 years? And in 50 years?"
   slides-link: ""
   youtube-link: ""
   speaker-thrust:
