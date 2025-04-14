@@ -124,8 +124,8 @@
   start-date-time: "2025-04-15 13:00"
   end-date-time: "2025-04-15 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "ML for hadronization"
-  talk-abstract: "Abstract to come."
+  talk-title: "Learning to Hadronize: Machine Learning at the Frontier of Particle Physics"
+  talk-abstract: "Hadronization—the process by which quarks and gluons combine into observable hadrons—remains one of the most complex and least understood aspects of high-energy physics. Traditionally modeled through phenomenological frameworks, this non-perturbative transition introduces major uncertainties in collider simulations. This talk presents a machine learning perspective on the hadronization problem, highlighting recent advances in MLHad, a generative modeling framework for learning data-driven parton-to-hadron mappings. I will also introduce VISTAS, an interactive visualization tool for exploring the internal structure of simulated events, including parton showers and hadron formation. Together, these tools demonstrate how modern ML can enhance the flexibility and precision of simulations, offering new capabilities at the intersection of theory, data, and computation."
   slides-link: ""
   youtube-link:
   speaker-thrust: "Physics theory"
@@ -135,20 +135,20 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Mentorship Workshop
-  speaker-title: Early Career and Ethics Committee
-  speaker-affiliation: IAIFI
-  speaker-website:
+  speaker-name: Anna Frebel
+  speaker-title: Professor of Physics
+  speaker-affiliation: MIT
+  speaker-website: https://physics.mit.edu/faculty/anna-frebel/
   speaker-photo-location:
   start-date-time: "2025-04-22 13:00"
-  end-date-time: "2025-04-22 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Details to come."
+  end-date-time: "2025-04-22 14:30"
+  talk-location: "IAIFI Penthouse (In-person only)"
+  talk-title: "IAIFI Mentorship Workshop"
+  talk-abstract: "This session focuses on what makes for a good advisor/mentor, and how you can use self-assessment tools (e.g. the 'Happiness Questionnaire') to evaluate your work relationships. Based on that we will discuss how to identify and address issues early on, and how you can build a supportive network ('your village'). Finally, thinking about your own career expectations and being proactive about it is the key to finding and working with a great mentor. There will be interactive activities such as worksheets and table discussions during the session."
   slides-link: ""
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Astrophysics"
+  speaker-gender: "Woman"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MjJUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
