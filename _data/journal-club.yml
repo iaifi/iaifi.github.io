@@ -173,15 +173,15 @@
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Speaker TBA
-  speaker-title: Title TBA
-  speaker-affiliation: Affiliation TBA
-  speaker-website:
+  speaker-name: Shannon Greco
+  speaker-title: Science Education Senior Program Leader
+  speaker-affiliation: Princeton Plasma Physics Laboratory
+  speaker-website: https://www.linkedin.com/in/shannon-swilley-greco-94728180/
   speaker-photo-location:
   start-date-time: "2025-05-06 13:00"
   end-date-time: "2025-05-06 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
+  talk-title: "IAIFI Science Communications Workshop"
   talk-abstract: "Abstract to come."
   slides-link:
   youtube-link:
