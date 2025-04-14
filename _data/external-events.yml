@@ -12,7 +12,7 @@
 
 - type: "external-workshop"
   event-name: "Northeast Quantum Forum 2025: AI in Quantum"
-  event-organizer: "NEQT Organizing Committee"
+  event-organizer: "NEQT Organizing Committee, including Liang Fu (IAIFI Affiliate)"
   more-info-link: "https://sites.usnh.edu/neqt/"
   event-post-date: "2025-03-30"
   start-date-time: "2025-10-14 9:00"
@@ -20,6 +20,7 @@
   talk-location: "The University of New Hampshire"
   talk-zoom:
   event-details: "Northeast or Greater New England area has a strong presence of quantum materials and quantum technology research. Unfortunately, for many years, there is no recurring regional workshops to bring scientists on these fields together. The Northeast Quantum Forum (NEQT) aims to fill this gap and create a collaborative platform for leading experts and motivative students in and out of New England area to exchange of ideas, advancements, and insights in the ever-evolving field of quantum science and quantum materials. We expect that this new platform becomes a hub for exciting physics and fruitful collaborations. The 2025 workshop, taking place on October 14th to 17th, 2025 at the University of New Hampshire, will feature applications of artificial intelligence methods in quantum science broadly defined."
+  registration-deadline: 2025-04-15
   calendar-link:
 
 - type: "external-workshop"
@@ -189,6 +190,30 @@
   talk-zoom:
   event-details: "The Molecule Maker Lab Institute (MMLI) invites you to our upcoming research symposium, 'AI Scientists? What Would It Take?' This event will bring together researchers, industry leaders, and students to explore the intersection of artificial intelligence and chemistry, discussing what it takes to advance AI-driven scientific discovery."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "Colloquium on Astronomy re-envisioned: investigating the physics of galaxy evolution with Machine Learning"
+  event-organizer: "MIT Kavli Institute"
+  more-info-link: "https://www.space.mit.edu/events/john-wu/"
+  event-post-date: "2025-04-13"
+  start-date-time: "2025-04-15 16:00"
+  end-date-time: "2025-04-15 17:00"
+  talk-location: "Marlar lounge & via zoom"
+  talk-zoom:
+  event-details: "Speaker: John Wu, STScI <br>Title: Astronomy re-envisioned: investigating the physics of galaxy evolution with Machine Learning <br>Abstract: Interpretable machine learning (ML) techniques and artificial intelligence (AI) are revolutionizing our ability to study galaxy evolution and large-scale structure. Convolutional neural networks (CNNs) can now reliably predict galaxies’ physical properties, including cold gas content and metallicity, directly from three-color optical images. These models can even reconstruct entire optical spectra from imaging alone. Highly optimized CNNs can also robustly identify nearby dwarf galaxies from wide-area surveys, significantly expanding the sample of known satellite systems at low redshifts. Meanwhile, graph neural networks (GNNs) can encode the large-scale environment from cosmological simulations, and represent its impacts on the galaxy–halo connection. These applications demonstrate how explainable ML models with strong inductive biases can enable new scientific insights in galaxy evolution and cosmology. With upcoming wide-area surveys from the Vera C. Rubin Observatory, Nancy Grace Roman Space Telescope, and Euclid, advanced ML and interpretable AI methods will play an increasingly vital role in extracting physical understanding from cosmic datasets."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-04-13"
+  start-date-time: "2025-04-14 12:00"
+  end-date-time: "2025-04-14 13:00"
+  talk-location: "P-108A (Wolbach space), Center for Astrophysics, 60 Garden Street"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker:  Sogol Sanjaripour (Graduate Student, UC Riverside)<br>Title: Manifold Learning: Selection of Different Galaxy Populations and Scaling Relation Analysis <br>Abstract: The increasing volume of data from large astronomical surveys necessitates advanced analysis techniques to effectively manage high-dimensional datasets. In this talk, I will discuss the application of unsupervised machine learning, specifically the Self-Organizing Map (SOM), to study the spectral energy distribution (SED) space of galaxies. Our goal is to bridge photometry and spectroscopy by training an ML model on photometric data to predict spectroscopic features, reducing the high cost and time demands of spectroscopy.<br>Using data from the CANDELS and KECK MOSDEF surveys at z ~ 1.5 and z ~ 2.2, we trained a SOM on photometric data and mapped spectroscopic data onto it to analyze sample selection biases and galaxy properties. Our findings reveal that MOSDEF AGNs preferentially occupy the more massive regions of the SOM, confirming known selection biases toward high-mass, less dusty galaxies. We also examined metallicity variations across the SOM, showing that more massive galaxies exhibit lower [O III]/Hβ and [O III]/[O II] ratios and higher Hα/Hβ ratios, consistent with the mass-metallicity relation. These results highlight the potential of SOMs in uncovering trends in multidimensional datasets and improving AGN and galaxy population studies."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGhtZGZ2bzZjb2FqOXFhcXVudW5jOTc0MDggZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
   event-name: "ML Tea Talk"
