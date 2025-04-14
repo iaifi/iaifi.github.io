@@ -26,6 +26,25 @@
   more-info-link: https://iaifi.org/phd-summer-school
   priority: high
   
+- type: "internal-other"
+  semester: "spring-2025"
+  speaker-name: Anna Frebel
+  speaker-title: Professor of Physics
+  speaker-affiliation: MIT
+  speaker-website: https://physics.mit.edu/faculty/anna-frebel/
+  speaker-photo-location:
+  start-date-time: "2025-04-22 13:00"
+  end-date-time: "2025-04-22 14:30"
+  talk-location: "IAIFI Penthouse (In-person only)"
+  talk-title: "IAIFI Mentorship Workshop"
+  talk-abstract: "This session focuses on what makes for a good advisor/mentor, and how you can use self-assessment tools (e.g. the 'Happiness Questionnaire') to evaluate your work relationships. Based on that we will discuss how to identify and address issues early on, and how you can build a supportive network ('your village'). Finally, thinking about your own career expectations and being proactive about it is the key to finding and working with a great mentor. There will be interactive activities such as worksheets and table discussions during the session."
+  slides-link: ""
+  youtube-link:
+  speaker-thrust: "Astrophysics"
+  speaker-gender: "Woman"
+  talk-attendance:  in person, virtual
+  calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MjJUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building"

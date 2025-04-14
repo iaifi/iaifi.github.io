@@ -12,7 +12,7 @@
 
 - type: "external-workshop"
   event-name: "Northeast Quantum Forum 2025: AI in Quantum"
-  event-organizer: "NEQT Organizing Committee"
+  event-organizer: "NEQT Organizing Committee, including Liang Fu (IAIFI Affiliate)"
   more-info-link: "https://sites.usnh.edu/neqt/"
   event-post-date: "2025-03-30"
   start-date-time: "2025-10-14 9:00"
@@ -20,6 +20,7 @@
   talk-location: "The University of New Hampshire"
   talk-zoom:
   event-details: "Northeast or Greater New England area has a strong presence of quantum materials and quantum technology research. Unfortunately, for many years, there is no recurring regional workshops to bring scientists on these fields together. The Northeast Quantum Forum (NEQT) aims to fill this gap and create a collaborative platform for leading experts and motivative students in and out of New England area to exchange of ideas, advancements, and insights in the ever-evolving field of quantum science and quantum materials. We expect that this new platform becomes a hub for exciting physics and fruitful collaborations. The 2025 workshop, taking place on October 14th to 17th, 2025 at the University of New Hampshire, will feature applications of artificial intelligence methods in quantum science broadly defined."
+  registration-deadline: 2025-04-15
   calendar-link:
 
 - type: "external-workshop"
@@ -176,18 +177,6 @@
   talk-location: "MIT Schwarzman College of Computing"
   talk-zoom:
   event-details: "Join the Social and Ethical Responsibilities of Computing (SERC) for an extraordinary series of 15 thought-provoking TED-style talks exploring the intersection of technology, ethics, and social responsibility in computing. Born from MIT’s Institute-wide commitment to responsible innovation, this groundbreaking event showcases research supported by the SERC seed grant program."
-  calendar-link:
-
-- type: "external-event"
-  event-name: "Kempner Seminar Series"
-  event-organizer: "The Kempner Institute"
-  more-info-link: "https://kempnerinstitute.harvard.edu/events/tri-dao/"
-  event-post-date: "2025-04-13"
-  start-date-time: "2025-04-18 14:30"
-  end-date-time: "2025-04-18 16:00"
-  talk-location: "SEC, Room LL2.224"
-  talk-zoom:
-  event-details: "Speaker: Tri Dao (Assistant Professor of Computer Science, Princeton University, and Chief Scientist at Together AI)<br>Title: Model Architecture Design for Modern Hardware <br>Abstract: Thanks to test-time compute, inference efficiency now drives progress in AI, demanding a greater emphasis on inference-aware architectures. Transformers are slow and memory-hungry on long sequences, since the time and memory complexity of self-attention are quadratic in sequence length. We describe recent progress on architectures such structured state space models (SSMs) and attention variants to speed up inference. We identify 3 main ingredients for strong sub-quadratic architectures: large state size, expressive state updates, and efficient hardware-aware algorithms. We then discuss how to design attention variants to optimally use the memory and compute subsystems of modern accelerators. Finally we describe to combine these two classes of models to improve the efficiency of LLM inference, distillation, and test-time compute."
   calendar-link:
   
 - type: "external-event"

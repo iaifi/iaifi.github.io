@@ -136,6 +136,7 @@ Save the date and RSVP/register for these important IAIFI events coming up!
 ## Other Future Events
 Save the date for these events (and check to see if you need to register)!
 
+### New Events
 {% assign events_future = '' %}
 {% for talk in event_list %}
 {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
@@ -147,6 +148,19 @@ Save the date for these events (and check to see if you need to register)!
 {% endfor %}
 
 {% if events_future == '' %} *No future events to share this week.* {% endif %}
+
+### Imminent Registration Deadlines
+{% assign events_deadlines = '' %}
+{% for talk in event_list %}
+{% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
+ {% assign registration_date_time_in_seconds = talk.registration-deadline | date: '%s' | plus: 0 %}
+ {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
+ {% unless registration_date_time_in_seconds > digest_start_in_seconds and registration_date_time_in_seconds < digest_next_in_seconds and start_date_time_in_seconds > digest_start_in_seconds and site.data.talk-categories[talk.type].category=='external'%}{% continue %}{% endunless %}
+  {% assign events_deadlines = 'true' %} <!-- Mark that there is at least one event -->
+ {% include_relative digest_event_item.html talk=talk is_future=true anchor=this_anchor %}
+{% endfor %}
+
+{% if events_deadlines == '' %} *No imminent registration deadlines this week.* {% endif %}
 
 <!-- Past Events -->
 ## In Case You Missed It
