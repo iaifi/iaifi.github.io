@@ -7,7 +7,7 @@ show_title: false
 --- 
 
 
-{% include_relative iaifi-news_header.html %}
+{% include_relative iaifi-reminder_header.html %}
 
 ## Announcing 2025 Fellows
 
@@ -36,4 +36,4 @@ Mathis is currently finishing his PhD in theoretical physics at the University o
 
 We look forward to welcoming our incoming Fellows in Fall 2025!
 
-{% include_relative iaifi-news_footer.html %}
+{% include_relative iaifi-reminder_footer.html %}

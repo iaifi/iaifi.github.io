@@ -7,7 +7,7 @@ show_title: false
 --- 
 
 
-{% include_relative iaifi-news_header.html %}
+{% include_relative iaifi-reminder_header.html %}
 
 ## 2025 IAIFI Summer Workshop: Registration Open
 
@@ -24,4 +24,4 @@ We are also [accepting submissions for contributed talks and posters](https://ap
 
 [More Information](https://iaifi.org/summer-workshop.html){:.button.button--outline-primary.button--pill.button--lg} [Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg}  [Submit a Talk or Poster](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d){:.button.button--outline-primary.button--pill.button--lg}
 
-{% include_relative iaifi-news_footer.html %}
+{% include_relative iaifi-reminder_footer.html %}
