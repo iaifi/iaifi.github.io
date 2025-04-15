@@ -1,42 +1,31 @@
-- project-lead: "IAIFI Senior Investigator or Fellow (Affiliation)"
-  title: "A Brief Title for the Work"
-  project-label: "A-1"
-  other-iaifi-leads: "Other IAIFI Senior Investigators and/or Fellows"
-  other-iaifi-members: "Other IAIFI Junior Investigators"
-  other-collaborators: "Collaborators Beyond IAIFI"
-  project-code: "https://github.com/iaifi"
-  analytic-empirical-scale: '2'
-  innovation-application-scale: '5'
-  project-tags: "generative models"
-  project-abstract: >-
-    A project abstract of about 100 words or less goes here to summarize the work. This is more text to make it a little bit longer.
-  figure-caption: "Caption for your figure, which will be displayed out of context."
-  subthrust: "galaxy_formation"
-  project-figure: https://iaifi.org/research-projects/Gagliano_A-3_figure.jpg
-  project-papers: "ArXiv link; Arxiv link"
-  industry-collaborators: "List any industry collaborations (company)"
-  inductive-bias: "Describe the domain-specific knowledge impacting the advances."
-  novel-ai: "Describe the AI innovation being developed."
-  talks-given: "Month 2024: Location, Speaker (Talk type and/or title if applicable)"
+- project-lead: project-lead
+  title: title
+  project-label: label
+  other-iaifi-leads: other-iaifi-leads
+  other-iaifi-members: other-iaifi-members
+  other-collaborators: other-collaborators
+  project-code: project-code
+  analytic-emprical-scale: analytic-empirical-scale
+  innovation-application-scale: innovation-application-scale
+  project-tags: project-tags
+  project-abstract: project-abstract
+  figure-caption: figure-caption
+  sub-domain: sub-domain
+  project-figure: https://iaifi.org/research-projects/Gagliano_A-1_figure.png
+  project-papers: project-papers
+  industry-collaborators: industry-collaborators
+  inductive-bias: inductive-bias
+  novel-ai: novel-ai
+  talks-given: talks-given
   goals: >-
-    • List up to three goals for the project
-    
-    • Here is another goal
-    
-    • And here is the final goal
+   * goals
   barriers: >-
-    • Please list anything (research, personnel, or otherwise) that may have impeded the project;
-    
-    • Here is another thing.
+   * barriers
   project-achievements: >-
-    • Please list any highlights related to this project (e.g. acceptance to conferences, awards, particularly successful collaborations, etc.);
-    
-    • Also list the research-specific milestones that have been reached in the development of the project.
+   * project-achievements
   next-steps: >-
-    • Please indicate what you plan to do next
-    
-    • And then after that
-  iaifi-support: "How has IAIFI supported this project?"
-  project-status: "Ideation/Discussion"
-  dataset-types: "Public data"
-  datasets: "List some datasets here."
+   * next-steps
+  iaifi-support: iaifi-support
+  project-status: project-status
+  dataset-types: dataset-types
+  datasets: datasets

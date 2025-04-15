@@ -3,7 +3,7 @@ layout: article
 title: Research Projects (Hidden Page)
 ---
 
-## Projects
+## Senior Investigator or Fellow Name
 
 {% for project in site.data.research-projects %}
 
