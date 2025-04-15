@@ -124,7 +124,15 @@ By combining revolutionary advances in deep learning from AI with the time-teste
 
 ## Highlights
 
-*Updated March 19, 2025*
+*Updated April 15, 2025*
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj5WkhMaQxfjjrrbO6xgqD2Cex12uvTd0wOL0fG9CnnDNa6oBQkyYmMS957qFSOOOGH5YmlaeOH3gF/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+[View and download slide](https://docs.google.com/presentation/d/1EOuF2HliJ8yQm3XB4dZj_MgXCsCnUQh0N7RuPWuXIe4/edit?usp=sharing)
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
