@@ -7,6 +7,6 @@ show_title: false
 --- 
 
 
-{% include_relative iaifi-news_header.html %}
+{% include_relative iaifi-reminder_header.html %}
 {% include_relative iaifi-news_event_item.html %}
-{% include_relative iaifi-news_footer.html %}
+{% include_relative iaifi-reminder_footer.html %}
