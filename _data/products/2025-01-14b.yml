@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-01-14
+title: "An Updated Detection Pipeline for Precursor Emission in Type II Supernova 2020tlf"
+authors: "Wynn Jacobson-Galán, Sebastian Gonzalez, Shreyas Patel, Luc Dessart, David Jones, Deanne Coppejans, Georgios Dimitriadis, Ryan J. Foley, Charles D. Kilpatrick, David Matthews, Sofia Rest, Giacomo Terreran, Patrick D. Aleo, Katie Auchettl, Peter K. Blanchard, David A. Coulter, Kyle W. Davis, Thomas de Boer, Lindsay DeMarchi, Maria R. Drout, Nicholas Earl, Alexander Gagliano, Christa Gall, Jens Hjorth, Mark E. Huber, Adaeze L. Ibik, Danny Milisavljevic, Yen-Chen Pan, Armin Rest, Ryan Ridden-Harper, Cesar Rojas-Bravo, Matthew R. Siebert, Ken W. Smith, Kirsty Taggart, Samaporn Tinyanont, Qinan Wang, Yossef Zenati"
+abstract: "We present a new photometric pipeline for the detection of pre-supernova (pre-SN) emission in the Young Supernova Experiment (YSE) sky survey. The method described is applied to SN 2020tlf, a type II SN (SN II) with precursor emission in the last ~100 days before first light. We re-analyze the YSE griz-band light curves of SN 2020tlf and provide revised pre-explosion photometry that includes a robust list of confident detection and limiting magnitudes. Compared to the results of Jacobson-Galan et al. 2022a, this new analysis yields fewer total r/i/z-band pre-SN detections at phases > -100 days. Furthermore, we discourage the use of the blackbody modeling of the pre-explosion spectral energy distribution, the pre-SN bolometric light curve and the blackbody model parameters presented in Jacobson-Galan et al. 2022a. Nevertheless, binned photometry of SN 2020tlf confirms a consistent progenitor luminosity of ~1040 erg s−1 before explosion."
+arxiv: "2501.08475"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{jacobsongalán2025updateddetectionpipelineprecursor,
+      title={An Updated Detection Pipeline for Precursor Emission in Type II Supernova 2020tlf},
+      author={Wynn Jacobson-Galán and Sebastian Gonzalez and Shreyas Patel and Luc Dessart and David Jones and Deanne Coppejans and Georgios Dimitriadis and Ryan J. Foley and Charles D. Kilpatrick and David Matthews and Sofia Rest and Giacomo Terreran and Patrick D. Aleo and Katie Auchettl and Peter K. Blanchard and David A. Coulter and Kyle W. Davis and Thomas de Boer and Lindsay DeMarchi and Maria R. Drout and Nicholas Earl and Alexander Gagliano and Christa Gall and Jens Hjorth and Mark E. Huber and Adaeze L. Ibik and Danny Milisavljevic and Yen-Chen Pan and Armin Rest and Ryan Ridden-Harper and Cesar Rojas-Bravo and Matthew R. Siebert and Ken W. Smith and Kirsty Taggart and Samaporn Tinyanont and Qinan Wang and Yossef Zenati},
+      year={2025},
+      eprint={2501.08475},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2501.08475},
+  }

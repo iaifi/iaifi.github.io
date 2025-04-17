@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-03-04
+title: "A Deep, High-Angular Resolution 3D Dust Map of the Southern Galactic Plane"
+authors: "Catherine Zucker, Andrew K. Saydjari, Joshua S. Speagle, Edward F. Schlafly, Gregory M. Green, Robert Benjamin, Joshua Peek, Gordian Edenhofer, Alyssa Goodman, Michael A. Kuhn, Douglas P. Finkbeiner"
+abstract: "We present a deep, high-angular resolution 3D dust map of the southern Galactic plane over 239∘<ℓ<6∘ and |b|<10∘ built on photometry from the DECaPS2 survey, in combination with photometry from VVV, 2MASS, and unWISE and parallaxes from Gaia DR3 where available. To construct the map, we first infer the distance, extinction, and stellar types of over 700 million stars using the brutus stellar inference framework with a set of theoretical MIST stellar models. Our resultant 3D dust map has an angular resolution of 1′, roughly an order of magnitude finer than existing 3D dust maps and comparable to the angular resolution of the Herschel 2D dust emission maps. We detect complexes at the range of distances associated with the Sagittarius-Carina and Scutum-Centaurus arms in the fourth quadrant, as well as more distant structures out to a maximum reliable distance of d≈ 10 kpc from the Sun. The map is sensitive up to a maximum extinction of roughly AV≈12 mag. We publicly release both the stellar catalog and the 3D dust map, the latter of which can easily be queried via the Python package dustmaps. When combined with the existing Bayestar19 3D dust map of the northern sky, the DECaPS 3D dust map fills in the missing piece of the Galactic plane, enabling extinction corrections over the entire disk |b|<10∘. Our map serves as a pathfinder for the future of 3D dust mapping in the era of LSST and Roman, targeting regimes accessible with deep optical and near-infrared photometry but often inaccessible with Gaia."
+arxiv: "2503.02657"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{zucker2025deephighangularresolution3d,
+      title={A Deep, High-Angular Resolution 3D Dust Map of the Southern Galactic Plane},
+      author={Catherine Zucker and Andrew K. Saydjari and Joshua S. Speagle and Edward F. Schlafly and Gregory M. Green and Robert Benjamin and Joshua Peek and Gordian Edenhofer and Alyssa Goodman and Michael A. Kuhn and Douglas P. Finkbeiner},
+      year={2025},
+      eprint={2503.02657},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.GA},
+      url={https://arxiv.org/abs/2503.02657},
+  }

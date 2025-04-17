@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-01-02
+title: "A Near-IR Search for Helium in the Superluminous Supernova SN 2024ahr"
+authors: "Harsh Kumar, Edo Berger, Peter K. Blanchard, Sebastian Gomez, Daichi Hiramatsu, Moira Andrews, K. Azalee Bostroem, Yize Dong, Joseph Farah, Estefania Padilla Gonzalez, D. Andrew Howell, Curtis McCully, Darshana Mehta, Megan Newsome, Aravind P. Ravi, Giacomo Terreran"
+abstract: "We present a detailed study of SN 2024ahr, a hydrogen-poor superluminous supernova (SLSN-I), for which we determine a redshift of z=0.0861. SN 2024ahr has a peak absolute magnitude of Mg≈Mr≈−21 mag, rest-frame rise and decline times (50% of peak) of about 40 and 80 days, respectively, and typical spectroscopic evolution in the optical band. Similarly, modeling of the UV/optical light curves with a magnetar spin-down engine leads to typical parameters: an initial spin period of ≈3.3 ms, a magnetic field strength of ≈6×1013 G, and an ejecta mass of ≈9.5 M⊙. Due to its relatively low redshift we obtained a high signal-to-noise ratio near-IR spectrum about 43 rest-frame days post-peak to search for the presence of helium. We do not detect any significant feature at the location of the He I λ2.058 μm feature, and place a conservative upper limit of ∼0.05 M⊙ on the mass of helium in the outer ejecta. We detect broad features of Mg I λ1.575 μm and a blend of Co II λ2.126 μm and Mg II, λ2.136 μm, which are typical of Type Ic SNe, but with higher velocities. Examining the sample of SLSNe-I with NIR spectroscopy, we find that, unlike SN 2024ahr, these events are generally peculiar. This highlights the need for a large sample of prototypical SLSNe-I with NIR spectroscopy to constrain the fraction of progenitors with helium (Ib-like) and without helium (Ic-like) at the time of the explosion, and hence the evolutionary path(s) leading to the rare outcome of SLSNe-I."
+arxiv: "2501.01485"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{kumar2025nearirsearchheliumsuperluminous,
+      title={A Near-IR Search for Helium in the Superluminous Supernova SN 2024ahr},
+      author={Harsh Kumar and Edo Berger and Peter K. Blanchard and Sebastian Gomez and Daichi Hiramatsu and Moira Andrews and K. Azalee Bostroem and Yize Dong and Joseph Farah and Estefania Padilla Gonzalez and D. Andrew Howell and Curtis McCully and Darshana Mehta and Megan Newsome and Aravind P. Ravi and Giacomo Terreran},
+      year={2025},
+      eprint={2501.01485},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2501.01485},
+  }

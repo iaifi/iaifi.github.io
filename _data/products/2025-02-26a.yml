@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-02-26
+title: "Evidence for an Instability-Induced Binary Merger in the Double-Peaked, Helium-Rich Type IIn Supernova 2023zkd"
+authors: "A. Gagliano, V. A. Villar, T. Matsumoto, D. O. Jones, C. L. Ransome, A. E. Nugent, D. Hiramatsu, K. Auchettl, D. Tsuna, Y. Dong, S. Gomez, P. D. Aleo, C. Angus, T. de Boer, K. A. Bostroem, K. C. Chambers, D. A. Coulter, K. W. Davis, J. R. Fairlamb, J. Farah, D. Farias, R. J. Foley, C. Gall, H. Gao, E. P. Gonzalez, D. A. Howell, M. E. Huber, C. D. Kilpatrick, C.-C. Lin, M. E. MacLeod, E. A. Magnier, C. McCully, P. Minguez, G. Narayan, M. Newsome, K. C. Patra, A. Rest, S. Rest, S. Smartt, K. W. Smith, G. Terreran, R. J. Wainscoat, Q. Wang, S. K. Yadavalli, Y. Zenati (The Young Supernova Experiment)"
+abstract: "We present ultraviolet to infrared observations of the extraordinary Type IIn supernova 2023zkd (SN 2023zkd). Photometrically, it exhibits persistent and luminous precursor emission spanning ∼4 years preceding discovery (Mr≈−15 mag, 1,500~days in the observer frame), followed by a secondary stage of gradual brightening in its final year. Post-discovery, it exhibits two photometric peaks of comparable brightness (Mr≲−18.7 mag and Mr≈−18.4 mag, respectively) separated by 240 days. Spectroscopically, SN 2023zkd exhibits highly asymmetric and multi-component Balmer and He I profiles that we attribute to ejecta interaction with fast-moving (1,000−2,000kms−1) He-rich polar material and slow-moving (∼400kms−1) equatorially-distributed H-rich material. He II features also appear during the second light curve peak and evolve rapidly. Shock-driven models fit to the multi-band photometry suggest that the event is powered by interaction with ∼5−6M⊙ of CSM, with 2−3M⊙ associated with each light curve peak, expelled during mass-loss episodes ∼3−4 and ∼1−2 years prior to explosion. The observed precursor emission, combined with the extreme mass-loss rates required to power each light curve peak, favors either super-Eddington accretion onto a black hole or multiple long-lived eruptions from a massive star to luminosities that have not been previously observed. We consider multiple progenitor scenarios for SN 2023zkd, and find that the brightening optical precursor and inferred explosion properties are most consistent with a massive (MZAMS≥30M⊙) and partially-stripped He star undergoing an instability-induced merger with a black hole companion."
+arxiv: "2502.19469"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{gagliano2025evidenceinstabilityinducedbinarymerger,
+      title={Evidence for an Instability-Induced Binary Merger in the Double-Peaked, Helium-Rich Type IIn Supernova 2023zkd},
+      author={A. Gagliano and V. A. Villar and T. Matsumoto and D. O. Jones and C. L. Ransome and A. E. Nugent and D. Hiramatsu and K. Auchettl and D. Tsuna and Y. Dong and S. Gomez and P. D. Aleo and C. Angus and T. de Boer and K. A. Bostroem and K. C. Chambers and D. A. Coulter and K. W. Davis and J. R. Fairlamb and J. Farah and D. Farias and R. J. Foley and C. Gall and H. Gao and E. P. Gonzalez and D. A. Howell and M. E. Huber and C. D. Kilpatrick and C. -C. Lin and M. E. MacLeod and E. A. Magnier and C. McCully and P. Minguez and G. Narayan and M. Newsome and K. C. Patra and A. Rest and S. Rest and S. Smartt and K. W. Smith and G. Terreran and R. J. Wainscoat and Q. Wang and S. K. Yadavalli and Y. Zenati},
+      year={2025},
+      eprint={2502.19469},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2502.19469},
+  }

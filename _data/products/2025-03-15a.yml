@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-03-15
+title: "Extracting the distribution amplitude of pseudoscalar mesons using the HOPE method"
+authors: "S.-P. Alex Chang, William Detmold, Anthony V. Grebe, Issaku Kanamori, C.-J. David Lin, Robert J. Perry, Yong Zhao"
+abstract: "The pseudoscalar meson light-cone distribution amplitudes (LCDAs) are essential non-perturbative inputs for a range of high-energy exclusive processes in quantum chromodynamics. In this proceedings, progress towards a determination of the low Mellin moments of the pion and kaon LCDAs by the HOPE Collaboration is reported."
+arxiv: "2503.12198"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{chang2025extractingdistributionamplitudepseudoscalar,
+      title={Extracting the distribution amplitude of pseudoscalar mesons using the HOPE method},
+      author={S. -P. Alex Chang and William Detmold and Anthony V. Grebe and Issaku Kanamori and C. -J. David Lin and Robert J. Perry and Yong Zhao},
+      year={2025},
+      eprint={2503.12198},
+      archivePrefix={arXiv},
+      primaryClass={hep-lat},
+      url={https://arxiv.org/abs/2503.12198},
+  }

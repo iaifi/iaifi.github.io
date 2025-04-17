@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-02-15
+title: "Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation"
+authors: "Nolan Fey, Gabriel B. Margolis, Martin Peticco, Pulkit Agrawal"
+abstract: "Achieving athletic loco-manipulation on robots requires moving beyond traditional tracking rewards - which simply guide the robot along a reference trajectory - to task rewards that drive truly dynamic, goal-oriented behaviors. Commands such as 'throw the ball as far as you can' or 'lift the weight as quickly as possible' compel the robot to exhibit the agility and power inherent in athletic performance. However, training solely with task rewards introduces two major challenges: these rewards are prone to exploitation (reward hacking), and the exploration process can lack sufficient direction. To address these issues, we propose a two-stage training pipeline. First, we introduce the Unsupervised Actuator Net (UAN), which leverages real-world data to bridge the sim-to-real gap for complex actuation mechanisms without requiring access to torque sensing. UAN mitigates reward hacking by ensuring that the learned behaviors remain robust and transferable. Second, we use a pre-training and fine-tuning strategy that leverages reference trajectories as initial hints to guide exploration. With these innovations, our robot athlete learns to lift, throw, and drag with remarkable fidelity from simulation to reality."
+arxiv: "2502.10894"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{fey2025bridgingsimtorealgapathletic,
+      title={Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation},
+      author={Nolan Fey and Gabriel B. Margolis and Martin Peticco and Pulkit Agrawal},
+      year={2025},
+      eprint={2502.10894},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2502.10894},
+  }

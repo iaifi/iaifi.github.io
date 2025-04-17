@@ -1,0 +1,24 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2022-10-02
+title: "AI-Assisted Discovery of Quantitative and Formal Models in Social Science"
+authors: "Julia Balla, Sihao Huang, Owen Dugan, Rumen Dangovski, Marin Soljacic"
+abstract: "In social science, formal and quantitative models, such as ones describing economic growth and collective action, are used to formulate mechanistic explanations, provide predictions, and uncover questions about observed phenomena. Here, we demonstrate the use of a machine learning system to aid the discovery of symbolic models that capture nonlinear and dynamical relationships in social science datasets. By extending neuro-symbolic methods to find compact functions and differential equations in noisy and longitudinal data, we show that our system can be used to discover interpretable models from real-world data in economics and sociology. Augmenting existing workflows with symbolic regression can help uncover novel relationships and explore counterfactual models during the scientific process. We propose that this AI-assisted framework can bridge parametric and non-parametric models commonly employed in social science research by systematically exploring the space of nonlinear models and enabling fine-grained control over expressivity and interpretability."
+arxiv: "2210.00563"
+journal: "Humanities and Social Sciences Communications"
+doi: "https://doi.org/10.1057/s41599-025-04405-x"
+nsf-par:
+code: "https://github.com/druidowm/OccamNet_SocialSci"
+publication-date: 2025-01-31
+bib-tex: |
+  @article{Balla2025AIAssistedDiscovery,
+  title={AI-assisted discovery of quantitative and formal models in social science},
+  author={Julia Balla, Sihao Huang, Owen Dugan, Rumen Dangovski & Marin Soljačić},
+  year={2025},
+  volume={12},
+  url={https://doi.org/10.1057/s41599-025-04405-x},
+  journal={Humanities & Social Sciences Communications},
+  eprint={2210.00563},
+  DOI={10.1057/s41599-025-04405-x},
+  archivePrefix={arXiv},
+  }

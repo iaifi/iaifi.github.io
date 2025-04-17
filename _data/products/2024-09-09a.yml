@@ -1,0 +1,24 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2024-09-09
+title: "Auxiliary Field Deformations of (Semi-)Symmetric Space Sigma Models"
+authors: "Daniele Bielli, Christian Ferko, Liam Smith, Gabriele Tartaglino-Mazzucchelli"
+abstract: "We generalize the auxiliary field deformations of the principal chiral model (PCM) introduced in arXiv:2405.05899 and arXiv:2407.16338 to sigma models whose target manifolds are symmetric or semi-symmetric spaces, including a Wess-Zumino term in the latter case. This gives rise to a new infinite family of classically integrable Z2 and Z4 coset models of the form which are of interest in applications of integrability to worldsheet string theory and holography. We demonstrate that every theory in this infinite class admits a zero-curvature representation for its equations of motion by exhibiting a Lax connection."
+arxiv: "2409.05704"
+journal: "Journal of High Energy Physics, Volume 2025, article number 96"
+doi: "https://doi.org/10.1007/JHEP01(2025)096"
+nsf-par:
+code:
+publication-date: 2025-01-21
+bib-tex: |
+  @article{Bielli2025AuxiliaryFieldDeformations,
+  title={Auxiliary field deformations of (semi-)symmetric space sigma models},
+  author={Daniele Bielli, Christian Ferko, Liam Smith, Gabriele Tartaglino-Mazzucchelli},
+  year={2025},
+  volume={2025},
+  url={https://doi.org/10.1007/JHEP01(2025)096},
+  journal={Journal of High Energy Physics},
+  eprint={2409.05704},
+  DOI={10.1007/JHEP01(2025)096},
+  archivePrefix={arXiv},
+  }

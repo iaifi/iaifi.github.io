@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-01-21
+title: "Physics of Skill Learning"
+authors: "Ziming Liu, Yizhou Liu, Eric J. Michaud, Jeff Gore, Max Tegmark"
+abstract: "We aim to understand physics of skill learning, i.e., how skills are learned in neural networks during training. We start by observing the Domino effect, i.e., skills are learned sequentially, and notably, some skills kick off learning right after others complete learning, similar to the sequential fall of domino cards. To understand the Domino effect and relevant behaviors of skill learning, we take physicists' approach of abstraction and simplification. We propose three models with varying complexities -- the Geometry model, the Resource model, and the Domino model, trading between reality and simplicity. The Domino effect can be reproduced in the Geometry model, whose resource interpretation inspires the Resource model, which can be further simplified to the Domino model. These models present different levels of abstraction and simplification; each is useful to study some aspects of skill learning. The Geometry model provides interesting insights into neural scaling laws and optimizers; the Resource model sheds light on the learning dynamics of compositional tasks; the Domino model reveals the benefits of modularity. These models are not only conceptually interesting -- e.g., we show how Chinchilla scaling laws can emerge from the Geometry model, but also are useful in practice by inspiring algorithmic development -- e.g., we show how simple algorithmic changes, motivated by these toy models, can speed up the training of deep learning models."
+arxiv: "2501.12391"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/KindXiaoming/physics_of_skill_learning"
+publication-date:
+bib-tex: |
+  @article{liu2025physicsskilllearning,
+      title={Physics of Skill Learning},
+      author={Ziming Liu and Yizhou Liu and Eric J. Michaud and Jeff Gore and Max Tegmark},
+      year={2025},
+      eprint={2501.12391},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2501.12391},
+  }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-02-02
+title: "Language Models Use Trigonometry to Do Addition"
+authors: "Subhash Kantamneni, Max Tegmark"
+abstract: "Mathematical reasoning is an increasingly important indicator of large language model (LLM) capabilities, yet we lack understanding of how LLMs process even simple mathematical tasks. To address this, we reverse engineer how three mid-sized LLMs compute addition. We first discover that numbers are represented in these LLMs as a generalized helix, which is strongly causally implicated for the tasks of addition and subtraction, and is also causally relevant for integer division, multiplication, and modular arithmetic. We then propose that LLMs compute addition by manipulating this generalized helix using the 'Clock' algorithm: to solve a+b, the helices for a and b are manipulated to produce the a+b answer helix which is then read out to model logits. We model influential MLP outputs, attention head outputs, and even individual neuron preactivations with these helices and verify our understanding with causal interventions. By demonstrating that LLMs represent numbers on a helix and manipulate this helix to perform addition, we present the first representation-level explanation of an LLM's mathematical capability."
+arxiv: "2502.00873"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{kantamneni2025languagemodelsusetrigonometry,
+      title={Language Models Use Trigonometry to Do Addition},
+      author={Subhash Kantamneni and Max Tegmark},
+      year={2025},
+      eprint={2502.00873},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2502.00873},
+  }

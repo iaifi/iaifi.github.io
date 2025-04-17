@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-01-03
+title: "Cosmological constraints from the Minkowski functionals of the BOSS CMASS galaxy sample"
+authors: "Wei Liu, Enrique Paillas, Carolina Cuesta-Lazaro, Georgios Valogiannis, Wenjuan Fang"
+abstract: "For the first time, we develop a simulation-based model for the Minkowski functionals (MFs) of large-scale structure, which allows us to extract the full information available from the MFs (including both the Gaussian and non-Gaussian part), and apply it to the BOSS DR12 CMASS galaxy sample. Our model is based on high-fidelity mock galaxy catalogs constructed from the \textsc{Abacus}\textsc{Summit} simulations using the halo occupation distribution (HOD) framework, which include the redshift-space distortions and Alcock-Paczynski distortions, incorporate survey realism, including survey geometry and veto masks, and account for angular plus radial selection effects. The cosmological and HOD parameter dependence of the MFs is captured with a neural network emulator trained from the galaxy mocks with various cosmological and HOD parameters. To benchmark the constraining power of the MFs, we also train an emulator for the galaxy 2-point correlation function (2PCF) using the same pipeline. Having validated our approach through successful parameter recovery tests on both internal and external mocks, including non-HOD forward models of the halo-galaxy connection, we apply our forward model to analyze the CMASS data in the redshift range 0.45<z<0.58. We find the MFs provide stronger constraints on the cosmological parameters than the 2PCF. The combination of the two gives ωcdm=0.1172+0.0020−0.0023, σ8=0.783±0.026, and ns=0.966+0.019−0.015, which are tighter by a factor of 2.0, 1.9, and 1.6 than the 2PCF alone. The derived constraint fσ8=0.453±0.016 is also improved by a factor of 1.9, compared to the 2PCF, and agrees well with Planck 2018 predictions and other results from a series of studies in the literature."
+arxiv: "2501.01698"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{liu2025cosmologicalconstraintsminkowskifunctionals,
+      title={Cosmological constraints from the Minkowski functionals of the BOSS CMASS galaxy sample},
+      author={Wei Liu and Enrique Paillas and Carolina Cuesta-Lazaro and Georgios Valogiannis and Wenjuan Fang},
+      year={2025},
+      eprint={2501.01698},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2501.01698},
+  }

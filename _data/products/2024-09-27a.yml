@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2024-09-27
+title: "TT-like Flows of Yang-Mills Theories"
+authors: "Christian Ferko, Jue Hou, Tommaso Morone, Gabriele Tartaglino-Mazzucchelli, Roberto Tateo"
+abstract: "We study TT¯-like deformations of d>2 Yang-Mills theories. The standard TT¯ flows lead to multi-trace Lagrangians, and the non-Abelian gauge structures make it challenging to find Lagrangians in a closed form. However, within the geometric approach to TT¯, we obtain the closed-form solution to the metric flow and stress-energy tensor, and show that instanton solutions are undeformed. We also introduce new symmetrised single-trace TT¯-like deformations, whose solutions in d=4 include the non-Abelian Born-Infeld Lagrangian proposed by Tseytlin in 1997."
+arxiv: "2409.18740"
+journal: "Physical Review Letters, 2025, Vol.134, Iss.10"
+doi: "https://doi.org/10.1103/PhysRevLett.134.101603"
+nsf-par:
+code:
+publication-date: 2025-03-14
+bib-tex: |
+  @article{PhysRevLett.134.101603,
+  title = {$T\overline{T}$-like Flows of Yang-Mills Theories},
+  author = {Ferko, Christian and Hou, Jue and Morone, Tommaso and Tartaglino-Mazzucchelli, Gabriele and Tateo, Roberto},
+  journal = {Phys. Rev. Lett.},
+  volume = {134},
+  issue = {10},
+  pages = {101603},
+  numpages = {7},
+  year = {2025},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.134.101603},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.134.101603},
+  eprint={2409.18740},
+  archivePrefix={arXiv},
+  }

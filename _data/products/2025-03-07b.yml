@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-03-27
+title: "The Type I Superluminous Supernova Catalogue II: Spectroscopic Evolution in the Photospheric Phase, Velocity Measurements, and Constraints on Diversity"
+authors: "Aysha Aamer, Matt Nicholl, Sebastian Gomez, Edo Berger, Peter Blanchard, Joseph P. Anderson, Charlotte Angus, Amar Aryan, Chris Ashall, Ting-Wan Chen, Georgios Dimitriadis, Lluis Galbany, Anamaria Gkini, Mariusz Gromadzki, Claudia P. Gutierrez, Daichi Hiramatsu, Griffin Hosseinzadeh, Cosimo Inserra, Amit Kumar, Hanindyo Kuncarayakti, Giorgos Leloudas, Paolo Mazzali, Kyle Medler, Tomás E. Müller-Bravo, Mauricio Ramirez, Aiswarya Sankar.K, Steve Schulze, Avinash Singh, Jesper Sollerman, Shubham Srivastav, Jacco H. Terwel, David R. Young"
+abstract: "Hydrogen-poor superluminous supernovae (SLSNe) are among the most energetic explosions in the universe, reaching luminosities up to 100 times greater than those of normal supernovae. Detailed spectral analysis hold the potential to reveal their progenitors and underlying energy sources. This paper presents the largest compilation of SLSN photospheric spectra to date, encompassing data from ePESSTO+, the FLEET search and all published spectra up to December 2022. The dataset includes a total of 974 spectra of 234 SLSNe. By constructing average phase binned spectra, we find SLSNe initially exhibit high temperatures (10000 to 11000 K), with blue continua and weak lines. A rapid transformation follows, as temperatures drop to 5000 to 6000 K by 40 days post peak, leading to stronger P-Cygni features. These averages also suggest a fraction of SLSNe may contain some He at explosion. Variance within the dataset is slightly reduced when defining the phase of spectra relative to explosion, rather than peak, and normalising to the population's median e-folding time. Principal Component Analysis (PCA) supports this, requiring fewer components to explain the same level of variation when binning data by scaled days from explosion, suggesting a more homogeneous grouping. Using PCA and K-Means clustering, we identify outlying objects with unusual spectroscopic evolution and evidence for energy input from interaction, but find not support for groupings of two or more statistically significant subpopulations. We find Fe II {lambda}5169 lines velocities closely track the radius implied from blackbody fits, indicating formation near the photosphere. We also confirm a correlation between velocity and velocity gradient, which can be explained if all SLSNe are in homologous expansion but with different scale velocities. This behaviour aligns with expectations for an internal powering mechanism."
+arxiv: "2503.21874"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{aamer2025typeisuperluminoussupernova,
+      title={The Type I Superluminous Supernova Catalogue II: Spectroscopic Evolution in the Photospheric Phase, Velocity Measurements, and Constraints on Diversity},
+      author={Aysha Aamer and Matt Nicholl and Sebastian Gomez and Edo Berger and Peter Blanchard and Joseph P. Anderson and Charlotte Angus and Amar Aryan and Chris Ashall and Ting-Wan Chen and Georgios Dimitriadis and Lluis Galbany and Anamaria Gkini and Mariusz Gromadzki and Claudia P. Gutierrez and Daichi Hiramatsu and Griffin Hosseinzadeh and Cosimo Inserra and Amit Kumar and Hanindyo Kuncarayakti and Giorgos Leloudas and Paolo Mazzali and Kyle Medler and Tomás E. Müller-Bravo and Mauricio Ramirez and Aiswarya Sankar. K and Steve Schulze and Avinash Singh and Jesper Sollerman and Shubham Srivastav and Jacco H. Terwel and David R. Young},
+      year={2025},
+      eprint={2503.21874},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2503.21874},
+  }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-01-24
+title: "Theoretical Predictions for the Inner Dark Matter Distribution in the Milky Way Informed by Simulations"
+authors: "Abdelaziz Hussein, Lina Necib, Manoj Kaplinghat, Stacy Y. Kim, Andrew Wetzel, Justin I. Read, Martin P. Rey, Oscar Agertz"
+abstract: "We build a theoretical range for the Milky Way's (MW) inner dark matter (DM) distribution informed by the FIRE-2, Auriga, VINTERGATAN-GM, and TNG50 simulation suites assuming the canonical cold dark matter (CDM) model. The DM density profiles in Auriga, VINTERGATAN-GM, and TNG50 can be approximately modeled using the adiabatic contraction prescription of Gnedin et al. 2004, while FIRE-2 has stronger baryonic feedback, leading to a departure from the adiabatic contraction model. The simulated halos that are adiabatically contracted are close to spherical (axis ratio q∈[0.75−0.9] at 5∘), whereas halos that experience strong baryonic feedback are oblate (q∈[0.5−0.7]). Using the adiabatic contraction and strong baryonic feedback models, along with the observed stellar distribution of the MW, the inner logarithmic density slope for CDM in the MW is predicted to range from −0.5 to −1.3. The J-factor, which determines the DM-annihilation flux, averaged over a solid angle of 5∘ (10∘) is predicted to span the range 0.8-30 (0.6-10) ×1023GeV2/cm5. The D-factor, which determines the flux due to DM decay, is predicted to be in the range 0.6-2 (0.5−1) ×1023GeV/cm2."
+arxiv: "2501.14868"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/abdelazizhussein/MW-Inner-DM-Profile"
+publication-date:
+bib-tex: |
+  @article{hussein2025theoreticalpredictionsinnerdark,
+      title={Theoretical Predictions for the Inner Dark Matter Distribution in the Milky Way Informed by Simulations},
+      author={Abdelaziz Hussein and Lina Necib and Manoj Kaplinghat and Stacy Y. Kim and Andrew Wetzel and Justin I. Read and Martin P. Rey and Oscar Agertz},
+      year={2025},
+      eprint={2501.14868},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2501.14868},
+  }

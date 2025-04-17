@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-02-07
+title: "Parameter Symmetry Breaking and Restoration Determines the Hierarchical Learning in AI Systems"
+authors: "Liu Ziyin, Yizhou Xu, Tomaso Poggio, Isaac Chuang"
+abstract: "The dynamics of learning in modern large AI systems is hierarchical, often characterized by abrupt, qualitative shifts akin to phase transitions observed in physical systems. While these phenomena hold promise for uncovering the mechanisms behind neural networks and language models, existing theories remain fragmented, addressing specific cases. In this paper, we posit that parameter symmetry breaking and restoration serve as a unifying mechanism underlying these behaviors. We synthesize prior observations and show how this mechanism explains three distinct hierarchies in neural networks: learning dynamics, model complexity, and representation formation. By connecting these hierarchies, we highlight symmetry -- a cornerstone of theoretical physics -- as a potential fundamental principle in modern AI."
+arxiv: "2502.05300"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ziyin2025parametersymmetrybreakingrestoration,
+      title={Parameter Symmetry Breaking and Restoration Determines the Hierarchical Learning in AI Systems},
+      author={Liu Ziyin and Yizhou Xu and Tomaso Poggio and Isaac Chuang},
+      year={2025},
+      eprint={2502.05300},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.05300},
+  }

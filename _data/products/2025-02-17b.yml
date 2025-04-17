@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-02-17
+title: "On the Learnability of Knot Invariants: Representation, Predictability, and Neural Similarity"
+authors: "Audrey Lindsay, Fabian Ruehle"
+abstract: "We analyze different aspects of neural network predictions of knot invariants. First, we investigate the impact of different knot representations on the prediction of invariants and find that braid representations work in general the best. Second, we study which knot invariants are easy to learn, with invariants derived from hyperbolic geometry and knot diagrams being very easy to learn, while invariants derived from topological or homological data are harder. Predicting the Arf invariant could not be learned for any representation. Third, we propose a cosine similarity score based on gradient saliency vectors, and a joint misclassification score to uncover similarities in neural networks trained to predict related topological invariants."
+arxiv: "2502.12243"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{lindsay2025learnabilityknotinvariantsrepresentation,
+      title={On the Learnability of Knot Invariants: Representation, Predictability, and Neural Similarity},
+      author={Audrey Lindsay and Fabian Ruehle},
+      year={2025},
+      eprint={2502.12243},
+      archivePrefix={arXiv},
+      primaryClass={math.GT},
+      url={https://arxiv.org/abs/2502.12243},
+  }

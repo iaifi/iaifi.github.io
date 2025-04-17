@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-01-28
+title: "Central densities of dark matter halos in FIRE-2 simulations of low-mass galaxies with cold dark matter and self-interacting dark matter"
+authors: "Maria C. Straight, Michael Boylan-Kolchin, James S. Bullock, Philip F. Hopkins, Xuejian Shen, Lina Necib, Alexandres Lazar, Andrew S. Graus, Jenna Samuel"
+abstract: "We investigate the central density structure of dark matter halos in cold dark matter (CDM) and self-interacting dark matter (SIDM) models using simulations that are part of the Feedback In Realistic Environments (FIRE) project. For simulated halos of dwarf galaxy scale (Mhalo(z=0)≈1010M⊙), we study the central structure in both dissipationless simulations and simulations with full FIRE-2 galaxy formation physics. As has been demonstrated extensively in recent years, both baryonic feedback and self-interactions can convert central cusps into cores, with the former process doing so in a manner that depends sensitively on stellar mass at fixed Mhalo. Whether the two processes (baryonic feedback and self-interactions) are distinguishable, however, remains an open question. Here we demonstrate that, compared to feedback-induced cores, SIDM-induced cores transition more quickly from the central region of constant density to the falling density at larger radial scales. This result holds true even when including identical galaxy formation modeling in SIDM simulations as is used in CDM simulations, since self-interactions dominate over galaxy formation physics in establishing the central structure of SIDM halos in this mass regime. The change in density profile slope as a function of radius therefore holds the potential to discriminate between self-interactions and galaxy formation physics as the driver of core formation in dwarf galaxies."
+arxiv: "2501.16602"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{straight2025centraldensitiesdarkmatter,
+      title={Central densities of dark matter halos in FIRE-2 simulations of low-mass galaxies with cold dark matter and self-interacting dark matter},
+      author={Maria C. Straight and Michael Boylan-Kolchin and James S. Bullock and Philip F. Hopkins and Xuejian Shen and Lina Necib and Alexandres Lazar and Andrew S. Graus and Jenna Samuel},
+      year={2025},
+      eprint={2501.16602},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.GA},
+      url={https://arxiv.org/abs/2501.16602},
+  }

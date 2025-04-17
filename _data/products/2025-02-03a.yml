@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-02-03
+title: "A Poisson Process AutoDecoder for X-ray Sources"
+authors: "Yanke Song, Victoria Ashley Villar, Juan Rafael Martinez-Galarza, Steven Dillmann"
+abstract: "X-ray observing facilities, such as the Chandra X-ray Observatory and the eROSITA, have detected millions of astronomical sources associated with high-energy phenomena. The arrival of photons as a function of time follows a Poisson process and can vary by orders-of-magnitude, presenting obstacles for common tasks such as source classification, physical property derivation, and anomaly detection. Previous work has either failed to directly capture the Poisson nature of the data or only focuses on Poisson rate function reconstruction. In this work, we present Poisson Process AutoDecoder (PPAD). PPAD is a neural field decoder that maps fixed-length latent features to continuous Poisson rate functions across energy band and time via unsupervised learning. PPAD reconstructs the rate function and yields a representation at the same time. We demonstrate the efficacy of PPAD via reconstruction, regression, classification and anomaly detection experiments using the Chandra Source Catalog."
+arxiv: "2502.01627"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{song2025poissonprocessautodecoderxray,
+      title={A Poisson Process AutoDecoder for X-ray Sources},
+      author={Yanke Song and Victoria Ashley Villar and Juan Rafael Martinez-Galarza and Steven Dillmann},
+      year={2025},
+      eprint={2502.01627},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM},
+      url={https://arxiv.org/abs/2502.01627},
+  }
