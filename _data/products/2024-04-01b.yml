@@ -4,18 +4,23 @@ title: "Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Edi
 authors: Ri-Zhao Qiu, Ge Yang, Weijia Zeng, Xiaolong Wang
 abstract: 'Scene representations using 3D Gaussian primitives have produced excellent results in modeling the appearance of static and dynamic 3D scenes. Many graphics applications, however, demand the ability to manipulate both the appearance and the physical properties of objects. We introduce Feature Splatting, an approach that unifies physics-based dynamic scene synthesis with rich semantics from vision language foundation models that are grounded by natural language. Our first contribution is a way to distill high-quality, object-centric vision-language features into 3D Gaussians, that enables semi-automatic scene decomposition using text queries. Our second contribution is a way to synthesize physics-based dynamics from an otherwise static scene using a particle-based simulator, in which material properties are assigned automatically via text queries. We ablate key techniques used in this pipeline, to illustrate the challenge and opportunities in using feature-carrying 3D Gaussians as a unified format for appearance, geometry, material properties and semantics grounded on natural language. Project website: https://feature-splatting.github.io/'
 arxiv: "2404.01223"
-journal:
-doi: 
+journal: "Springer Nature Link, 2024"
+doi: "https://doi.org/10.1007/978-3-031-72940-9_21"
 nsf-par:
-code: https://feature-splatting.github.io
-publication-date: 
+code: "https://feature-splatting.github.io/"
+publication-date: 2024-11-17
 bib-tex: |
-  @article{qiu2024featuresplattinglanguagedrivenphysicsbased,
-      title={Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing},
-      author={Ri-Zhao Qiu and Ge Yang and Weijia Zeng and Xiaolong Wang},
-      year={2024},
-      eprint={2404.01223},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2404.01223},
+  @InProceedings{10.1007/978-3-031-72940-9_21,
+  author={Qiu, Ri-Zhao and Yang, Ge and Zeng, Weijia and Wang, Xiaolong},
+  editor={Leonardis, Ale{\v{s}} and Ricci, Elisa and Roth, Stefan and Russakovsky, Olga and Sattler, Torsten and Varol, G{\""""u}l},
+  title={Language-Driven Physics-Based Scene Synthesis and¬†Editing via¬†Feature Splatting},
+  booktitle={Computer Vision -- ECCV 2024},
+  year={2025},
+  publisher={Springer Nature Switzerland},
+  address={Cham},
+  pages={368--383},
+  abstract={Scene representations using 3D Gaussian primitives have produced excellent results in modeling the appearance of static and dynamic 3D scenes. Many graphics applications, however, demand the ability to manipulate both the appearance and the physical properties of objects. We introduce Feature Splatting, an approach that unifies physics-based dynamic scene synthesis with rich semantics from vision language foundation models that are grounded by natural language. Our first contribution is a way to distill high-quality, object-centric vision-language features into 3D Gaussians, that enables semi-automatic scene decomposition using text queries. Our second contribution is a way to synthesize physics-based dynamics from an otherwise static scene using a particle-based simulator, in which material properties are assigned automatically via text queries. We ablate key techniques used in this pipeline, to illustrate the challenge and opportunities in using feature-carrying 3D Gaussians as a unified format for appearance, geometry, material properties and semantics grounded on natural language.},
+  isbn={978-3-031-72940-9},
+  eprint={2404.01223},
+  archivePrefix={arXiv},
   }

@@ -4,18 +4,25 @@ title: "Full-shape analysis with simulation-based priors: cosmological parameter
 authors: "Mikhail M. Ivanov, Andrej Obuljen, Carolina Cuesta-Lazaro, Michael W. Toomey"
 abstract: "We explore full-shape analysis with simulation-based priors, which is the simplest approach to galaxy clustering data analysis that combines effective field theory (EFT) on large scales and numerical simulations on small scales. The core ingredient of our approach is the prior density of EFT parameters which we extract from a suite of 10500 galaxy simulations based on the halo occupation distribution (HOD) model. We measure the EFT parameters with the field-level forward model, which enables us to cancel cosmic variance. On the theory side, we develop a new efficient approach to calculate field-level transfer functions using time-sliced perturbation theory and the logarithmic fast Fourier transform. We study cosmology dependence of EFT parameters of dark matter halos and HOD galaxies and find that it can be ignored for the purpose of prior generation. We use neural density estimation to model the measured distribution of EFT parameters. Our distribution model is then used as a prior in a reanalysis of the BOSS full-shape galaxy power spectrum data. Assuming the ΛCDM model, we find significant (≈30% and ≈60%) improvements for the matter density fraction and the mass fluctuation amplitude, which are constrained to Ωm=0.315±0.010 and σ8=0.671±0.027. The value of the Hubble constant does not change, H0=68.7±1.1 km/s/Mpc. This reaffirms earlier reports of the structure growth tension from the BOSS data. Finally, we use the measured EFT parameters to constrain galaxy formation physics."
 arxiv: "2409.10609"
-journal:
-doi:
+journal: "Physical Review D, 2025, Vol. 111, Iss. 6"
+doi: "https://doi.org/10.1103/PhysRevD.111.063548"
 nsf-par:
-code: https://github.com/andrejobuljen/Hi-Fi_mocks
-publication-date:
+code: 
+publication-date: 2025-03-28
 bib-tex: |
-  @article{ivanov2024fullshapeanalysissimulationbasedpriors,
-      title={Full-shape analysis with simulation-based priors: cosmological parameters and the structure growth anomaly},
-      author={Mikhail M. Ivanov and Andrej Obuljen and Carolina Cuesta-Lazaro and Michael W. Toomey},
-      year={2024},
-      eprint={2409.10609},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.CO},
-      url={https://arxiv.org/abs/2409.10609},
+  @article{PhysRevD.111.063548,
+  title = {Full-shape analysis with simulation-based priors: Cosmological parameters and the structure growth anomaly},
+  author = {Ivanov, Mikhail M. and Obuljen, Andrej and Cuesta-Lazaro, Carolina and Toomey, Michael W.},
+  journal = {Phys. Rev. D},
+  volume = {111},
+  issue = {6},
+  pages = {063548},
+  numpages = {50},
+  year = {2025},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.111.063548},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.111.063548},
+  eprint={2409.10609},
+  archivePrefix={arXiv},
   }

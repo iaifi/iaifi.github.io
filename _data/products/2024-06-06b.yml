@@ -4,18 +4,20 @@ title: "A Heterotic Kähler Gravity and the Distance Conjecture"
 authors: "Javier José Murgas Ibarra, Paul-Konstantin Oehlmann, Fabian Ruehle, Eirik Eik Svanes"
 abstract: "Deformations of the heterotic superpotential give rise to a topological holomorphic theory with similarities to both Kodaira-Spencer gravity and holomorphic Chern-Simons theory. Although the action is cubic, it is only quadratic in the complex structure deformations (the Beltrami differential). Treated separately, for large fluxes, or alternatively at large distances in the background complex structure moduli space, these fields can be integrated out to obtain a new field theory in the remaining fields, which describe the complexified hermitian and gauge degrees of freedom. We investigate properties of this new holomorphic theory, and in particular connections to the swampland distance conjecture in the context of heterotic string theory. In the process, we define a new type of symplectic cohomology theory, where the background complex structure Beltrami differential plays the role of the symplectic form."
 arxiv: "2406.04393"
-journal:
-doi:
+journal: "Journal of High Energy Physics, Volume 2025, article number 168"
+doi: "https://doi.org/10.1007/JHEP01(2025)168"
 nsf-par:
-code: 
-publication-date:
+code:
+publication-date: 2025-01-29
 bib-tex: |
-  @article{ibarra2024heterotickahlergravitydistance,
-      title={A Heterotic K\"ahler Gravity and the Distance Conjecture},
-      author={Javier José Murgas Ibarra and Paul-Konstantin Oehlmann and Fabian Ruehle and Eirik Eik Svanes},
-      year={2024},
-      eprint={2406.04393},
-      archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2406.04393},
+  @article{Ibarra2025AHeteroticKahler,
+  title={A Heterotic Kähler Gravity and the Distance Conjecture},
+  author={Javier José Murgas Ibarra, Paul-Konstantin Oehlmann, Fabian Ruehle, Eirik Eik Svanes},
+  year={2025},
+  volume={2025},
+  url={https://doi.org/10.1007/JHEP01(2025)168},
+  journal={Journal of High Energy Physics},
+  eprint={2406.04393},
+  DOI={10.1007/JHEP01(2025)168},
+  archivePrefix={arXiv},
   }
