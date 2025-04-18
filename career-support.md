@@ -28,6 +28,8 @@ We are currently working to build a database of industry connections and opportu
 
 Many of the resources below are not limited to students at the listed university. In particular, career fairs and events are often open to a wider community of students in the Boston area, so feel free to utilize resources from other universities when available.
 
+In addition to these resources, the Early Career and Ethics Committee has compiled [mentorship resources](/ecec.html#mentorship-resources).
+
 ### MIT
 * [Career Advising and Professional Development Office (CAPD))](https://capd.mit.edu)
    * [Resources and Advice](https://capd.mit.edu/channels/resources-advice/)
