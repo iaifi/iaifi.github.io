@@ -4,18 +4,22 @@ title: "One-step Diffusion with Distribution Matching Distillation"
 authors: Tianwei Yin, Michaël Gharbi, Richard Zhang, Eli Shechtman, Fredo Durand, William T. Freeman, Taesung Park
 abstract: "Diffusion models generate high-quality images but require dozens of forward passes. We introduce Distribution Matching Distillation (DMD), a procedure to transform a diffusion model into a one-step image generator with minimal impact on image quality. We enforce the one-step image generator match the diffusion model at distribution level, by minimizing an approximate KL divergence whose gradient can be expressed as the difference between 2 score functions, one of the target distribution and the other of the synthetic distribution being produced by our one-step generator. The score functions are parameterized as two diffusion models trained separately on each distribution. Combined with a simple regression loss matching the large-scale structure of the multi-step diffusion outputs, our method outperforms all published few-step diffusion approaches, reaching 2.62 FID on ImageNet 64x64 and 11.49 FID on zero-shot COCO-30k, comparable to Stable Diffusion but orders of magnitude faster. Utilizing FP16 inference, our model generates images at 20 FPS on modern hardware."
 arxiv: "2311.18828"
-journal:
-doi: 
+journal: "IEEE, 2024"
+doi: "https://doi.org/10.1109/CVPR52733.2024.00632"
 nsf-par:
-code: https://tianweiy.github.io/dmd/
-publication-date: 
+code: "https://tianweiy.github.io/dmd/"
+publication-date: 2024-09-16
 bib-tex: |
-  @article{yin2024onestepdiffusiondistributionmatching,
-      title={One-step Diffusion with Distribution Matching Distillation},
-      author={Tianwei Yin and Michaël Gharbi and Richard Zhang and Eli Shechtman and Fredo Durand and William T. Freeman and Taesung Park},
-      year={2024},
-      eprint={2311.18828},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2311.18828},
+  @INPROCEEDINGS{10655942,
+  author={Yin, Tianwei and Gharbi, Michaël and Zhang, Richard and Shechtman, Eli and Durand, Frédo and Freeman, William T. and Park, Taesung},
+  booktitle={2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  title={One-Step Diffusion with Distribution Matching Distillation},
+  year={2024},
+  volume={},
+  number={},
+  pages={6613-6623},
+  keywords={Image quality;Computer vision;Computational modeling;Transforms;Diffusion models;Generators;Hardware;image generation;generative model},
+  doi={10.1109/CVPR52733.2024.00632},
+  eprint={2311.18828},
+  archivePrefix={arXiv},
   }

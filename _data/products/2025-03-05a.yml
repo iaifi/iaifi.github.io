@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-03-05
+title: "Trial by FIRE: Probing the dark matter density profile of dwarf galaxies with GraphNPE"
+authors: "Tri Nguyen, Justin Read, Lina Necib, Siddharth Mishra-Sharma, Claude-André Faucher-Giguère, Andrew Wetzel"
+abstract: "The Dark Matter (DM) distribution in dwarf galaxies provides crucial insights into both structure formation and the particle nature of DM. GraphNPE (Graph Neural Posterior Estimator), first introduced in Nguyen et al. (2023), is a novel simulation-based inference framework that combines graph neural networks and normalizing flows to infer the DM density profile from line-of-sight stellar velocities. Here, we apply GraphNPE to satellite dwarf galaxies in the FIRE-2 Latte simulation suite of Milky Way-mass halos, testing it against both Cold and Self-Interacting DM scenarios. Our method demonstrates superior precision compared to conventional Jeans-based approaches, recovering DM density profiles to within the 95% confidence level even in systems with as few as 30 tracers. Moreover, we present the first evaluation of mass modeling methods in constraining two key parameters from realistic simulations: the peak circular velocity, Vmax, and the peak virial mass, Mpeak200m. Using only line-of-sight velocities, GraphNPE can reliably recover both Vmax and Mpeak200m within our quoted uncertainties, including those experiencing tidal effects (≳ 63% of systems are recovered with our 68% confidence intervals and ≳ 92% within our 95% confidence intervals). The method achieves 10-20% accuracy in Vmax recovery, while Mpeak200m is recovered to 0.1-0.4 dex accuracy. This work establishes GraphNPE as a robust tool for inferring DM density profiles in dwarf galaxies, offering promising avenues for constraining DM models. The framework's potential extends beyond this study, as it can be adapted to non-spherical and disequilibrium models, showcasing the broader utility of simulation-based inference and graph-based learning in astrophysics."
+arxiv: "2503.03812"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{nguyen2025trialfireprobingdark,
+      title={Trial by FIRE: Probing the dark matter density profile of dwarf galaxies with GraphNPE},
+      author={Tri Nguyen and Justin Read and Lina Necib and Siddharth Mishra-Sharma and Claude-André Faucher-Giguère and Andrew Wetzel},
+      year={2025},
+      eprint={2503.03812},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.GA},
+      url={https://arxiv.org/abs/2503.03812},
+  }

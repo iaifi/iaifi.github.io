@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-01-24
+title: "A theoretical approach to density-split clustering"
+authors: "Mathilde Pinon, Arnaud de Mattia, Étienne Burtin, Vanina Ruhlmann-Kleider, Sandrine Codis, Enrique Paillas, Carolina Cuesta-Lazaro"
+abstract: "We present an analytical model for density-split correlation functions, that probe galaxy clustering in different density environments. Specifically, we focus on the cross-correlation between density-split regions and the tracer density field. We show that these correlation functions can be expressed in terms of the two-point probability density function (PDF) of the density field, or equivalently, its bias function. We derive analytical predictions using three levels of approximation for the two-point PDF: a bivariate Gaussian distribution, a bivariate shifted log-normal distribution, and a prediction based on the Large Deviation Theory framework. Under spherical symmetry – where spherical collapse dynamics apply, such as for count-in-cell densities with spherical top-hat smoothing – LDT predicts the density two-point PDF in the large-separation regime relative to the smoothing radius. We validate our model against dark matter N-body simulations in real space, incorporating Poisson shot noise. Our results show that the LDT predictions outperform the log-normal approximation, and agrees with simulations on large scales within the cosmic variance of a typical DESI DR1 sample, despite relying on only one degree of freedom."
+arxiv: "2501.14638"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/mathildepinon/densitysplit"
+publication-date:
+bib-tex: |
+  @article{pinon2025theoreticalapproachdensitysplitclustering,
+      title={A theoretical approach to density-split clustering},
+      author={Mathilde Pinon and Arnaud de Mattia and Étienne Burtin and Vanina Ruhlmann-Kleider and Sandrine Codis and Enrique Paillas and Carolina Cuesta-Lazaro},
+      year={2025},
+      eprint={2501.14638},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2501.14638},
+  }

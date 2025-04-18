@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-03-04
+title: "Deriving Stellar Properties, Distances, and Reddenings using Photometry and Astrometry with BRUTUS"
+authors: "Joshua S. Speagle, Catherine Zucker, Angus Beane, Phillip A. Cargile, Aaron Dotter, Douglas P. Finkbeiner, Gregory M. Green, Benjamin D. Johnson, Edward F. Schlafly, Ana Bonaca, Charlie Conroy, Gwendolyn Eadie, Daniel J. Eisenstein, Alyssa A. Goodman, Jiwon Jesse Han, Harshil M. Kamdar, Rohan Naidu, Hans-Walter Rix, Andrew K. Saydjari, Yuan-Sen Ting, Ioana A. Zelko"
+abstract: "We present brutus, an open source Python package for quickly deriving stellar properties, distances, and reddenings to stars based on grids of stellar models constrained by photometric and astrometric data. We outline the statistical framework for deriving these quantities, its implementation, and various Galactic priors over the 3-D distribution of stars, stellar properties, and dust extinction (including RV variation). We establish a procedure to empirically calibrate MIST v1.2 isochrones by using open clusters to derive corrections to the effective temperatures and radii of the isochrones, which reduces systematic errors on the lower main sequence. We also describe and apply a method to estimate photometric offsets between stellar models and observed data using nearby, low-reddening field stars. We perform a series of tests on mock and real data to examine parameter recovery with MIST under different modeling assumptions, illustrating that brutus is able to recover distances and other stellar properties using optical to near-infrared photometry and astrometry."
+arxiv: "2503.02227"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/joshspeagle/brutus"
+publication-date:
+bib-tex: |
+  @article{speagle2025derivingstellarpropertiesdistances,
+      title={Deriving Stellar Properties, Distances, and Reddenings using Photometry and Astrometry with BRUTUS},
+      author={Joshua S. Speagle and Catherine Zucker and Angus Beane and Phillip A. Cargile and Aaron Dotter and Douglas P. Finkbeiner and Gregory M. Green and Benjamin D. Johnson and Edward F. Schlafly and Ana Bonaca and Charlie Conroy and Gwendolyn Eadie and Daniel J. Eisenstein and Alyssa A. Goodman and Jiwon Jesse Han and Harshil M. Kamdar and Rohan Naidu and Hans-Walter Rix and Andrew K. Saydjari and Yuan-Sen Ting and Ioana A. Zelko},
+      year={2025},
+      eprint={2503.02227},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.SR},
+      url={https://arxiv.org/abs/2503.02227},
+  }

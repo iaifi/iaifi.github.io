@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-01-18
+title: "SymbolNet: neural symbolic regression with adaptive dynamic pruning for compression"
+authors: "Ho Fung Tsoi, Vladimir Loncar, Sridhara Dasu, Philip Harris"
+abstract: "Compact symbolic expressions have been shown to be more efficient than neural network models in terms of resource consumption and inference speed when implemented on custom hardware such as FPGAs, while maintaining comparable accuracy~cite{tsoi2023symbolic}. These capabilities are highly valuable in environments with stringent computational resource constraints, such as high-energy physics experiments at the CERN Large Hadron Collider. However, finding compact expressions for high-dimensional datasets remains challenging due to the inherent limitations of genetic programming, the search algorithm of most symbolic regression methods. Contrary to genetic programming, the neural network approach to symbolic regression offers scalability to high-dimensional inputs and leverages gradient methods for faster equation searching. Common ways of constraining expression complexity often involve multistage pruning with fine-tuning, which can result in significant performance loss. In this work, we propose SymbolNet, a neural network approach to symbolic regression specifically designed as a model compression technique, aimed at enabling low-latency inference for high-dimensional inputs on custom hardware such as FPGAs. This framework allows dynamic pruning of model weights, input features, and mathematical operators in a single training process, where both training loss and expression complexity are optimized simultaneously. We introduce a sparsity regularization term for each pruning type, which can adaptively adjust its strength, leading to convergence at a target sparsity ratio. Unlike most existing symbolic regression methods that struggle with datasets containing more than O(10) inputs, we demonstrate the effectiveness of our model on the LHC jet tagging task (16 inputs), MNIST (784 inputs), and SVHN (3072 inputs)."
+arxiv: "2401.09949"
+journal: "Machine Learning: Science and Technology, 2025, Volume 6, Number 1"
+doi: "https://doi.org/10.1088/2632-2153/adaad8"
+nsf-par:
+code: "https://github.com/hftsoi/SymbolNet"
+publication-date: 2025-01-29
+bib-tex: |
+  @article{Tsoi_2025,
+  doi = {10.1088/2632-2153/adaad8},
+  url = {https://dx.doi.org/10.1088/2632-2153/adaad8},
+  year = {2025},
+  month = {jan},
+  publisher = {IOP Publishing},
+  volume = {6},
+  number = {1},
+  pages = {015021},
+  author = {Tsoi, Ho Fung and Loncar, Vladimir and Dasu, Sridhara and Harris, Philip},
+  title = {SymbolNet: neural symbolic regression with adaptive dynamic pruning for compression},
+  journal = {Machine Learning: Science and Technology},
+  abstract = {Compact symbolic expressions have been shown to be more efficient than neural network (NN) models in terms of resource consumption and inference speed when implemented on custom hardware such as field-programmable gate arrays (FPGAs), while maintaining comparable accuracy (Tsoi et al 2024 EPJ Web Conf. 295 09036). These capabilities are highly valuable in environments with stringent computational resource constraints, such as high-energy physics experiments at the CERN Large Hadron Collider. However, finding compact expressions for high-dimensional datasets remains challenging due to the inherent limitations of genetic programming (GP), the search algorithm of most symbolic regression (SR) methods. Contrary to GP, the NN approach to SR offers scalability to high-dimensional inputs and leverages gradient methods for faster equation searching. Common ways of constraining expression complexity often involve multistage pruning with fine-tuning, which can result in significant performance loss. In this work, we propose , a NN approach to SR specifically designed as a model compression technique, aimed at enabling low-latency inference for high-dimensional inputs on custom hardware such as FPGAs. This framework allows dynamic pruning of model weights, input features, and mathematical operators in a single training process, where both training loss and expression complexity are optimized simultaneously. We introduce a sparsity regularization term for each pruning type, which can adaptively adjust its strength, leading to convergence at a target sparsity ratio. Unlike most existing SR methods that struggle with datasets containing more than  inputs, we demonstrate the effectiveness of our model on the LHC jet tagging task (16 inputs), MNIST (784 inputs), and SVHN (3072 inputs).},
+  eprint={2401.09949},
+  archivePrefix={arXiv},
+  }

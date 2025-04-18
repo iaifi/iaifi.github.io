@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-02-08
+title: "GenEFT: Understanding statics and dynamics of model generalization via physics-inspired effective theory"
+authors: "David D. Baek, Ziming Liu, Max Tegmark"
+abstract: "We present GenEFT: an effective theory framework for shedding light on the statics and dynamics of neural network generalization, and illustrate it with graph learning examples. We first investigate the generalization phase transition as data size increases, comparing experimental results with information-theory-based approximations. We find generalization in a Goldilocks zone where the decoder is neither too weak nor too powerful. We then introduce an effective theory for the dynamics of representation learning, where latent-space representations are modeled as interacting particles (repons), and find that it explains our experimentally observed phase transition between generalization and overfitting as encoder and decoder learning rates are scanned. This highlights the power of physics-inspired effective theories for bridging the gap between theoretical predictions and practice in machine learning."
+arxiv: "2402.05916"
+journal: "Physical Review E, 2025, Vol. 111, Iss. 3"
+doi: "https://doi.org/10.1103/PhysRevE.111.035307"
+nsf-par:
+code:
+publication-date: 2025-03-20
+bib-tex: |
+  @article{PhysRevE.111.035307,
+  title = {GenEFT: Understanding statics and dynamics of model generalization via physics-inspired effective theory},
+  author = {Baek, David D. and Liu, Ziming and Tegmark, Max},
+  journal = {Phys. Rev. E},
+  volume = {111},
+  issue = {3},
+  pages = {035307},
+  numpages = {10},
+  year = {2025},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevE.111.035307},
+  url = {https://link.aps.org/doi/10.1103/PhysRevE.111.035307},
+  eprint={2402.05916},
+  archivePrefix={arXiv},
+  }

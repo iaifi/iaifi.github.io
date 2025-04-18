@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-01-02
+title: "The z≳9 galaxy UV luminosity function from the JWST Advanced Deep Extragalactic Survey: insights into early galaxy evolution and reionization"
+authors: "Lily Whitler, Daniel P. Stark, Michael W. Topping, Brant Robertson, Marcia Rieke, Kevin N. Hainline, Ryan Endsley, Zuyi Chen, William M. Baker, Rachana Bhatawdekar, Andrew J. Bunker, Stefano Carniani, Stéphane Charlot, Jacopo Chevallard, Emma Curtis-Lake, Eiichi Egami, Daniel J. Eisenstein, Jakob M. Helton, Zhiyuan Ji, Benjamin D. Johnson, Pablo G. Pérez-González, Pierluigi Rinaldi, Sandro Tacchella, Christina C. Williams, Christopher N. A. Willmer, Chris Willott, Joris Witstok"
+abstract: "The high-redshift UV luminosity function provides important insights into the evolution of early galaxies. JWST has revealed an unexpectedly large population of bright (MUV≲−20) galaxies at z≳10, implying fundamental changes in the star forming properties of galaxies at increasingly early times. However, constraining the fainter population (MUV≳−18) has been more challenging. In this work, we present the z≳9 UV luminosity function from the JWST Advanced Deep Extragalactic Survey. We calculate the UV luminosity function from several hundred z≳9 galaxy candidates that reach UV luminosities of MUV∼−17 in redshift bins of z∼9−12 (309 candidates) and z∼12−16 (63 candidates). We search for candidates at z∼16−22.5 and find none. We also estimate the z∼14−16 luminosity function from the z≥14 subset of the z∼12−16 sample. Consistent with other measurements, we find an excess of bright galaxies that is in tension with many theoretical models, especially at z≳12. However, we also find high number densities at −18≲MUV≲−17, suggesting that there is a larger population of faint galaxies than expected, as well as bright ones. From our parametric fits for the luminosity function, we find steep faint end slopes of −2.5≲α≲−2.3, suggesting a large population of faint (MUV≳−17) galaxies. Combined, the high normalization and steep faint end slope of the luminosity function could imply that the reionization process is appreciably underway as early as z=10."
+arxiv: "2501.00984"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{whitler2025zgtrsim9galaxy,
+      title={The $z \gtrsim 9$ galaxy UV luminosity function from the JWST Advanced Deep Extragalactic Survey: insights into early galaxy evolution and reionization},
+      author={Lily Whitler and Daniel P. Stark and Michael W. Topping and Brant Robertson and Marcia Rieke and Kevin N. Hainline and Ryan Endsley and Zuyi Chen and William M. Baker and Rachana Bhatawdekar and Andrew J. Bunker and Stefano Carniani and Stéphane Charlot and Jacopo Chevallard and Emma Curtis-Lake and Eiichi Egami and Daniel J. Eisenstein and Jakob M. Helton and Zhiyuan Ji and Benjamin D. Johnson and Pablo G. Pérez-González and Pierluigi Rinaldi and Sandro Tacchella and Christina C. Williams and Christopher N. A. Willmer and Chris Willott and Joris Witstok},
+      year={2025},
+      eprint={2501.00984},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.GA},
+      url={https://arxiv.org/abs/2501.00984},
+  }

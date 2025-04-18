@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2025-02-19
+title: "Isolating Unisolated Upsilons with Anomaly Detection in CMS Open Data"
+authors: "Rikab Gambhir, Radha Mastandrea, Benjamin Nachman, Jesse Thaler"
+abstract: "We present the first study of anti-isolated Upsilon decays to two muons (Υ→μ+μ−) in proton-proton collisions at the Large Hadron Collider. Using a machine learning (ML)-based anomaly detection strategy, we 'rediscover' the Υ in 13 TeV CMS Open Data from 2016, despite overwhelming anti-isolated backgrounds. We elevate the signal significance to 6.4σ using these methods, starting from 1.6σ using the dimuon mass spectrum alone. Moreover, we demonstrate improved sensitivity from using an ML-based estimate of the multi-feature likelihood compared to traditional 'cut-and-count' methods. Our work demonstrates that it is possible and practical to find real signals in experimental collider data using ML-based anomaly detection, and we distill a readily-accessible benchmark dataset from the CMS Open Data to facilitate future anomaly detection developments."
+arxiv: "2502.14036"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/hep-lbdl/dimuonAD"
+publication-date:
+bib-tex: |
+  @article{gambhir2025isolatingunisolatedupsilonsanomaly,
+      title={Isolating Unisolated Upsilons with Anomaly Detection in CMS Open Data},
+      author={Rikab Gambhir and Radha Mastandrea and Benjamin Nachman and Jesse Thaler},
+      year={2025},
+      eprint={2502.14036},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2502.14036},
+  }

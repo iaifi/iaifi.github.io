@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-03-07
+title: "Decoding the Galactic Twirl: The Downfall of Milky Way-mass Galaxies Rotation Curves in the FIRE Simulations"
+authors: "Xiaowei Ou, Lina Necib, Andrew Wetzel, Anna Frebel, Jeremy Bailin, Micah Oeur"
+abstract: "Recent measurements of the Milky Way rotation curve found a sharp decline at around 15-20 kpc from the center of the Galaxy, suggesting that the Galactic dark matter halo is much less massive than predicted by other dynamical tracers. To address this tension, we study the validity of the assumptions made in calculating the Milky Way's rotation curve. To do so, we apply Jeans' equation, the current standard approach of measuring rotation curves, to three cosmological zoom-in simulations of Milky Way-like galaxies from the FIRE-2 Latte suite. Using synthetic Gaia surveys, we replicate the sample selection process and calculation employed in measuring the Milky Way rotation curve. We examine four failure modes of this calculation and find that the measured curves deviate from the true curve by 5-20% rather than below 5%, as estimated by previous works. Interestingly, there is a large galaxy-to-galaxy variance, and different systematics dominate different galaxies. We rederive the Milky Way's dark matter density profile with the rotation curve while incorporating systematics from the simulations. The posterior distribution of the density profiles is consistent with a fiducial NFW profile when assuming a gNFW profile for dark matter. We find that the virial mass, 7.32+1.98−1.53×1011 M⊙, consistent with other probes of the Milky Way's mass. However, we recommend that the field moves away from relying solely on the rotation curve when studying the dark matter profile, and adopts methods that incorporate additional probes and/or do not heavily depend on assumptions described in this study."
+arxiv: "2503.05877"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ou2025decodinggalactictwirldownfall,
+      title={Decoding the Galactic Twirl: The Downfall of Milky Way-mass Galaxies Rotation Curves in the FIRE Simulations},
+      author={Xiaowei Ou and Lina Necib and Andrew Wetzel and Anna Frebel and Jeremy Bailin and Micah Oeur},
+      year={2025},
+      eprint={2503.05877},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.GA},
+      url={https://arxiv.org/abs/2503.05877},
+  }

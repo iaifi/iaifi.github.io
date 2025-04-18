@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2025-02-21
+title: "Anomaly preserving contrastive neural embeddings for end-to-end model-independent searches at the LHC"
+authors: "Kyle Metzger, Lana Xu, Mia Sodini, Thea K. Arrestad, Katya Govorkova, Gaia Grosso, Philip Harris"
+abstract: "Anomaly detection -- identifying deviations from Standard Model predictions -- is a key challenge at the Large Hadron Collider due to the size and complexity of its datasets. This is typically addressed by transforming high-dimensional detector data into lower-dimensional, physically meaningful features. We tackle feature extraction for anomaly detection by learning powerful low-dimensional representations via contrastive neural embeddings. This approach preserves potential anomalies indicative of new physics and enables rare signal extraction using novel machine learning-based statistical methods for signal-independent hypothesis testing. We compare supervised and self-supervised contrastive learning methods, for both MLP- and Transformer-based neural embeddings, trained on the kinematic observables of physics objects in LHC collision events. The learned embeddings serve as input representations for signal-agnostic statistical detection methods in inclusive final states, achieving over ten fold improved detection performance over the original feature representation and up to four fold improvement over using a physics-informed selections of the same dimensionality. We achieve significant improvement in discovery power for both rare new physics signals and rare Standard Model processes across diverse final states, demonstrating its applicability for efficiently searching for diverse signals simultaneously. We show that the optimal representation for background classification does not always maximize sensitivity to new physics signals, revealing an inherent trade-off between background structure preservation and anomaly enhancement. Our findings demonstrate that foundation models for particle physics data hold significant potential for improving neural feature extraction, enabling scientific discovery in inclusive final states at collider experiments."
+arxiv: "2502.15926"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{metzger2025anomalypreservingcontrastiveneural,
+      title={Anomaly preserving contrastive neural embeddings for end-to-end model-independent searches at the LHC},
+      author={Kyle Metzger and Lana Xu and Mia Sodini and Thea K. Arrestad and Katya Govorkova and Gaia Grosso and Philip Harris},
+      year={2025},
+      eprint={2502.15926},
+      archivePrefix={arXiv},
+      primaryClass={hep-ex},
+      url={https://arxiv.org/abs/2502.15926},
+  }

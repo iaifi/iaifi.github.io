@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-02-17
+title: "Interpretable Machine Learning for Kronecker Coefficients"
+authors: "Giorgi Butbaia, Kyu-Hwan Lee, Fabian Ruehle"
+abstract: "We analyze the saliency of neural networks and employ interpretable machine learning models to predict whether the Kronecker coefficients of the symmetric group are zero or not. Our models use triples of partitions as input features, as well as b-loadings derived from the principal component of an embedding that captures the differences between partitions. Across all approaches, we achieve an accuracy of approximately 83% and derive explicit formulas for a decision function in terms of b-loadings. Additionally, we develop transformer-based models for prediction, achieving the highest reported accuracy of over 99%."
+arxiv: "2502.11774"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{butbaia2025interpretablemachinelearningkronecker,
+      title={Interpretable Machine Learning for Kronecker Coefficients},
+      author={Giorgi Butbaia and Kyu-Hwan Lee and Fabian Ruehle},
+      year={2025},
+      eprint={2502.11774},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.11774},
+  }

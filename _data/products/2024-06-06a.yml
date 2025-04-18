@@ -4,18 +4,20 @@ title: "Stochastic logic in biased coupled photonic probabilistic bits"
 authors: Michael Horodynski, Charles Roques-Carmes, Yannick Salamin, Seou Choi, Jamison Sloan, Di Luo, Marin Soljačić
 abstract: "Optical computing often employs tailor-made hardware to implement specific algorithms, trading generality for improved performance in key aspects like speed and power efficiency. An important computing approach that is still missing its corresponding optical hardware is probabilistic computing, used e.g. for solving difficult combinatorial optimization problems. In this study, we propose an experimentally viable photonic approach to solve arbitrary probabilistic computing problems. Our method relies on the insight that coherent Ising machines composed of coupled and biased optical parametric oscillators can emulate stochastic logic. We demonstrate the feasibility of our approach by using numerical simulations equivalent to the full density matrix formulation of coupled optical parametric oscillators."
 arxiv: "2406.04000"
-journal:
-doi: 
+journal: "Communications Physics, 2025, Volume 8, Article Number 31"
+doi: "https://doi.org/10.1038/s42005-025-01953-1"
 nsf-par:
-code: 
-publication-date: 
+code:
+publication-date: 2025-01-20
 bib-tex: |
-  @article{horodynski2024stochasticlogicbiasedcoupled,
-      title={Stochastic logic in biased coupled photonic probabilistic bits},
-      author={Michael Horodynski and Charles Roques-Carmes and Yannick Salamin and Seou Choi and Jamison Sloan and Di Luo and Marin Soljačić},
-      year={2024},
-      eprint={2406.04000},
-      archivePrefix={arXiv},
-      primaryClass={physics.optics},
-      url={https://arxiv.org/abs/2406.04000},
+  @article{Horodynski2025StochasticLogic,
+  title={Stochastic logic in biased coupled photonic probabilistic bits},
+  author={Michael Horodynski, Charles Roques-Carmes, Yannick Salamin, Seou Choi, Jamison Sloan, Di Luo, Marin Soljačić},
+  year={2025},
+  volume={8},
+  url={https://doi.org/10.1038/s42005-025-01953-1},
+  journal={Communications Physics},
+  eprint={2406.04000},
+  DOI={10.1038/s42005-025-01953-1},
+  archivePrefix={arXiv},
   }
