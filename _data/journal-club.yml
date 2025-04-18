@@ -143,8 +143,8 @@
   start-date-time: "2025-04-29 13:00"
   end-date-time: "2025-04-29 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
+  talk-title: "Deep Neural Nets as Hamiltonians"
+  talk-abstract: "Neural networks are complex functions of both their inputs and parameters. Much prior work in deep learning theory analyzes the distribution of network outputs at a fixed a set of inputs (e.g. a training dataset) over random initializations of the network parameters. The purpose of this article is to consider the opposite situation: we view a randomly initialized Multi-Layer Perceptron (MLP) as a Hamiltonian over its inputs. For typical realizations of the network parameters, we study the properties of the energy landscape induced by this Hamiltonian, focusing on the structure of near-global minimum in the limit of infinite width. Specifically, we use the replica trick to perform an exact analytic calculation giving the entropy (log volume of space) at a given energy. We further derive saddle point equations that describe the overlaps between inputs sampled iid from the Gibbs distribution induced by the random MLP. For linear activations we solve these saddle point equations exactly. But we also solve them numerically for a variety of depths and activation functions, including tanh,sin,ReLU, and shaped non-linearities. We find even at infinite width a rich range of behaviors. For some non-linearities, such as sin, for instance, we find that the landscapes of random MLPs exhibit full replica symmetry breaking, while shallow tanh and ReLU networks or deep shaped MLPs are instead replica symmetric."
   slides-link: ""
   youtube-link:
   speaker-thrust: "Foundational AI"
