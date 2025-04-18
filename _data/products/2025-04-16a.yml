@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-04-16
+title: "Learning Topological Invariance"
+authors: "James Halverson, Fabian Ruehle"
+abstract: "Two geometric spaces are in the same topological class if they are related by certain geometric deformations. We propose machine learning methods that automate learning of topological invariance and apply it in the context of knot theory, where two knots are equivalent if they are related by ambient space isotopy. Specifically, given only the knot and no information about its topological invariants, we employ contrastive and generative machine learning techniques to map different representatives of the same knot class to the same point in an embedding vector space. An auto-regressive decoder Transformer network can then generate new representatives from the same knot class. We also describe a student-teacher setup that we use to interpret which known knot invariants are learned by the neural networks to compute the embeddings, and observe a strong correlation with the Goeritz matrix in all setups that we tested. We also develop an approach to resolving the Jones Unknot Conjecture by exploring the vicinity of the embedding space of the Jones polynomial near the locus where the unknots cluster, which we use to generate braid words with simple Jones polynomials."
+arxiv: "2504.12390"
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @article{halverson2025learningtopologicalinvariance,
+      title={Learning Topological Invariance},
+      author={James Halverson and Fabian Ruehle},
+      year={2025},
+      eprint={2504.12390},
+      archivePrefix={arXiv},
+      primaryClass={math.GT},
+      url={https://arxiv.org/abs/2504.12390},
+  }
