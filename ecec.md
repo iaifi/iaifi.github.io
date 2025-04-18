@@ -19,6 +19,29 @@ The Early Career & Ethics Committee (ECEC) serves as an advisory body to IAIFI M
 * The ECEC will rotate membership in January 2025. [Email Lisa Barsotti](mailto:lisabar@mit.edu) if you'd like to learn more. 
 * [Learn more about all IAIFI Committees](/committees.html)
 
+## Mentorship Resources
+An important element of supporting early career researchers is mentorship. There are a number of resources available online and through IAIFI universities to help students and postdocs make the most of their mentorship relationships. Most of these resources are openly available regardless of which university you are affiliated with. 
+
+### General Resources
+* [The Center for the Improvement of Mentored Experiences in Research (CIMER)](https://cimerproject.org/) provides [curricula](https://cimerproject.org/curricula-overview/) and [mentor/mentee support resources](https://cimerproject.org/mentor-mentee-support-resources/)
+
+### MIT
+* [Postdoctoral Mentoring and Advising Toolkit](https://postdocs.mit.edu/mentoring-and-advising/postdoctoral-mentoring-and-advising-toolkit) for both mentors and mentees
+* [Research Mentoring Certificate](https://capd.mit.edu/pd-certificates/) provides an opportunity for grad students and postdocs to develop their mentoring skills (for MIT community only)
+
+### Harvard
+* [Office of Undergraduate Research and Fellowships Advice for Mentor Relationships](https://uraf.harvard.edu/work-with-faculty/getting-started) offers guidance on identifying mentors and establishing and maintaining the relationship
+
+### Northeastern 
+* [Mentor and Mentee Toolkit](https://faculty.northeastern.edu/wp-content/uploads/sites/5/2021/04/Mentoring-Panel-Toolkit-FINAL.pdf) provides guidance on making the most of mentoring relationships
+* [Mentor Training](https://faculty.northeastern.edu/advance/mentor-training/) via workshops based on CIMER curriculum (for Northeastern community only)
+
+### Tufts
+* [Mentor Guide](https://cdn.careers.tufts.edu/wp-content/uploads/sites/100/2024/04/Tufts-Mentor-Guide.pdf)
+* [Mentee Guide](https://cdn.careers.tufts.edu/wp-content/uploads/sites/100/2024/04/Tufts-Mentee-Guide.pdf)
+* [Alumni Mentoring Programs](https://careers.tufts.edu/resources/tufts-mentorship-programs/) (for Tufts community only)
+* [Postdoc Mentoring Program](https://tufts.qualtrics.com/jfe/form/SV_0uruqgfbEAHUOtT) (for Tufts community only)
+
 ## Ethics
 
 The IAIFI appreciates that the responsible and ethical conduct of research is critical, not only for scientific excellence, but also to maintain the public's trust in science. This goes beyond generating and disseminating knowledge with rigor and integrity; it also includes protecting intellectual property from inappropriate disclosure and treating everyone involved in the scientific process fairly and with respect.
