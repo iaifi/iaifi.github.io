@@ -180,6 +180,18 @@
   calendar-link:
   
 - type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-04-20"
+  start-date-time: "2025-04-23 16:00"
+  end-date-time: "2025-04-23 17:00"
+  talk-location: "Room G449 (Kiva Room) and Zoom"
+  talk-zoom:
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker: Josh Vendrow (PhD Student, MIT) <br>Title: Do Large Language Model Benchmarks Test Reliability?<br>Abstract: When deploying large language models (LLMs), it is important to ensure that these models are not only capable, but also reliable. Many benchmarks have been created to track LLMs' growing capabilities, however there has been no similar focus on measuring their reliability. To understand the potential ramifications of this gap, we investigate how well current benchmarks quantify model reliability. We find that pervasive label errors can compromise these evaluations, obscuring lingering model failures and hiding unreliable behavior. Motivated by this gap in the evaluation of reliability, we then propose the concept of so-called platinum benchmarks, i.e., benchmarks carefully curated to minimize label errors and ambiguity. As a first attempt at constructing such benchmarks, we revise examples from fifteen existing popular benchmarks. We evaluate a wide range of models on these platinum benchmarks and find that, indeed, frontier LLMs still exhibit failures on simple tasks such as elementary-level math word problems. Analyzing these failures further reveals previously unidentified patterns of problems on which frontier models consistently struggle."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGRscmgyMDcxN2VqbzVkbzI2b2Y3MHIyMnEgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
   event-name: "MMLI Symposium 2025 - 'AI Scientists? What Would It Take?'"
   event-organizer: "The Molecule Maker Lab Institute (MMLI)"
   more-info-link: "https://forms.office.com/Pages/ResponsePage.aspx?id=b35GRCxGok6CP3gA3lQ04xSbO0UXn6hKpi_X0mvkU_lUOEdFQjI3RFVCQjZVWERLWkRLVjVON0Y1Vi4u"
