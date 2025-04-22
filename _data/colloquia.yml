@@ -68,7 +68,7 @@
   talk-title: "Many-fold Learning"
   talk-abstract: "Iterative optimization techniques - ranging from the nonconvex, nonlinear gradient methods central to machine learning (ML) to simple regression fits over small datasets - have been instrumental in solving a wide variety of problems since the advent of modern computing. However, beyond special cases of linear architectures and convexified settings, a unified framework for describing optimization dynamics remains in its early stages, especially in the complex, high-dimensional regimes characteristic of ML. In this talk, we explore the foundations of a general perspective on optimization dynamics, proposing a unified framework for gradient-based methods. We view optimization as a dynamic process over model sets, shaped solely by the problem of interest, the chosen architecture and their interplay, generalizing a large class of seemingly diverse theoretical and empirical insights into a coherent whole. Finally, we discuss the computational advantages of this unified approach and the limitations of applying a 'one-size-fits-all' methodology to diverse optimization landscapes."
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/NDN2ZDBja3Bwa29pNTQzNXVibjlmbnRkY3ZfMjAyNTAzMTRUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn"
-  slides-link: "https://www.dropbox.com/scl/fo/dxd4oynrrftkscv7r4ebk/ACRhUjo2BL4OMlJuUPDNTIo?rlkey=6d3uy06r6z9cpk9h6u7rd4uoq&st=ttcpgkb6&dl=0"
+  slides-link: "https://www.dropbox.com/scl/fi/28z1y35n5j7ajsz45oxdw/2025_04_11_IAIFI_Colloquium_Dogra.pdf?rlkey=omm7hz96urzi2ubpg223ydc93&st=rpk7nu7k&dl=0"
   youtube-link: "https://www.youtube.com/live/QhSI9wo9f7I?feature=shared"
   speaker-thrust: "Foundational AI"
   speaker-gender: "Man"
