@@ -30,12 +30,12 @@
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "Interpretable AI"
   talk-abstract: "As AI systems become increasingly central to scientific discovery, interpretability is emerging as a critical concern—both in the natural sciences (e.g., physics) and within machine learning itself (e.g., natural language processing). But what exactly do we mean by interpretable machines? In this session, we will begin with an introduction by Ziming Liu (MIT), followed by two lightning talks:<br>1. Matthew Schwartz (Harvard): Transformers for Symbolic Formulas (interpretable outputs for physics)<br>2. Naomi Saphra (Harvard): Mechanistic Interpretability (interpretable internals for NLP)<br> A guided discussion will follow, centered on key questions:<br>1. What are your (least) favourite tools or examples of interpretability in action?<br>2. Is interpretability positively or negatively correlated with performance?<br>3. What will doing science be like in 5 years? And in 50 years?"
-  slides-link: ""
-  youtube-link: ""
-  speaker-thrust:
-  speaker-gender:
-  talk-attendance-in-person:
-  talk-attendance-virtual:
+  slides-link: "https://drive.google.com/drive/folders/16cb5OUKPtK1RjB1FJU3-am7NloNIYXE2?usp=drive_link"
+  youtube-link: "https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=sharing"
+  speaker-thrust: Foundational AI, Physics Theory, Foundational AI
+  speaker-gender: Man, Man, Woman
+  talk-attendance-in-person: 23
+  talk-attendance-virtual: 17
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNTA0MThUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
 
 - type: "thematic-discussion"

@@ -126,11 +126,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Learning to Hadronize: Machine Learning at the Frontier of Particle Physics"
   talk-abstract: "Hadronization—the process by which quarks and gluons combine into observable hadrons—remains one of the most complex and least understood aspects of high-energy physics. Traditionally modeled through phenomenological frameworks, this non-perturbative transition introduces major uncertainties in collider simulations. This talk presents a machine learning perspective on the hadronization problem, highlighting recent advances in MLHad, a generative modeling framework for learning data-driven parton-to-hadron mappings. I will also introduce VISTAS, an interactive visualization tool for exploring the internal structure of simulated events, including parton showers and hadron formation. Together, these tools demonstrate how modern ML can enhance the flexibility and precision of simulations, offering new capabilities at the intersection of theory, data, and computation."
-  slides-link: ""
+  slides-link: "https://drive.google.com/file/d/18nXSrSgCfzietYo8tTCTJcY6dBut18wT/view?usp=drive_link"
   youtube-link:
   speaker-thrust: "Physics theory"
   speaker-gender: "Man"
-  talk-attendance:  in person, virtual
+  talk-attendance:  9 in person, 3 virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MTVUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 - type: "journal-club"
