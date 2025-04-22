@@ -36,7 +36,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Accepting additional members
 * Brainstorms and plans community building events (such as coffee hours, social events, meet-ups, etc.)
 * Time Commitment: One-hour meeting per month and time spent helping with event setup occasionally
-* Current Community Building Committee: Tracy Slatyer (Chair), Aizhan Akhmetzhanova, Joydeep Naskarm, Omar Alterkait, Victoria Zhang, Marisa LaFleur, Thomas Bradford
+* Current Community Building Committee: Tracy Slatyer (Chair), Aizhan Akhmetzhanova, Joydeep Naskar, Omar Alterkait, Victoria Zhang, Marisa LaFleur, Thomas Bradford
 * Past Community Building Committee: Matt Schwartz, Mike Williams, Mehmet Demirtas, Niklas Nolte, Fabian Ruehle, Ouail Kitouni, Alexander Gagliano, Jessie Micallef
 * Primary Contact: [Email Tracy Slatyer (Chair)](mailto:tslatyer@mit.edu)
 
@@ -44,7 +44,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Will rotate membership in Fall 2025
 * Time Commitment: One-hour meeting per month and occasional email discussion
 * [Learn more about this committee](/ecec.html)
-* Current ECEC: Lisa Barsotti (Chair), Carolina Cuesta-Lazaro, Zeviel Imani, Leo Yang, Diego Vasquez, Jamie Sullivan, Yiding Song, Marisa LaFleur, Thomas Bradford
+* Current ECEC: Lisa Barsotti (Chair), Carolina Cuesta-Lazaro, Zeviel Imani, Leo Yao, Diego Vasquez, Jamie Sullivan, Yiding Song, Marisa LaFleur, Thomas Bradford
 * Past ECEC: Edo Berger, Tracy Slatyer, Siddharth Mishra-Sharma, Mehmet Demirtas, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Sean Benevedes, Rashmish Mishra, Tess Smidt, Jessie Micallef, Elyssa Hofgard
 * Primary Contact: [Email Lisa Barsotti (Chair)](mailto:lisabar@mit.edu) 
 
