@@ -162,21 +162,21 @@
   start-date-time: "2025-05-06 13:00"
   end-date-time: "2025-05-06 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "IAIFI Science Communications Workshop"
-  talk-abstract: "Abstract to come."
+  talk-title: "Bridging the Gap: Culturally Responsive Science Communication for Early Career Scientists"
+  talk-abstract: "Effective science communication is essential for fostering trust, relevance, and impact across diverse communities. This interactive workshop equips early career scientists with practical tools to communicate their research clearly and compellingly to a variety of audiences, from policymakers to the public. With a focus on two-way, culturally responsive engagement, participants will explore how to listen actively, adapt messages to different contexts, and co-create understanding with their audiences. The workshop models two-way engagement throughout, responding to participant needs and incorporating their experiences into real-time practice. Attendees will leave with enhanced communication skills and a framework for building authentic, inclusive connections through their scientific work."
   slides-link:
   youtube-link:
-  speaker-thrust:
-  speaker-gender:
+  speaker-thrust: N/A
+  speaker-gender: "woman"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXVtNjIyN2RwZW9iMGZoYzJ0dnAycG92a3YgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
   semester: "spring-2025"
-  speaker-name: Sokratis Trifinopoulos
-  speaker-title: Postdoctoral Researcher
-  speaker-affiliation: MIT, IAIFI
-  speaker-website: "https://strifinopoulos.github.io"
+  speaker-name: Speaker To Be Announced
+  speaker-title: Title TBA
+  speaker-affiliation: Affiliation TBA
+  speaker-website: 
   speaker-photo-location:
   start-date-time: "2025-05-13 13:00"
   end-date-time: "2025-05-13 14:00"
