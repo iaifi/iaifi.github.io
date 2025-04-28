@@ -186,7 +186,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***Registration is now open for the 2025 IAIFI Summer Workshop.*** [Register by July 31, 2025](https://iaifi.org/summer-workshop). 
 {:.success}
 
-***Our [IAIFI Colloquium series](events.html) will continue on April 25, 2025 with J. Nathan Kutz (University of Washington).*** Recordings of our previous [colloquium talks](events.html) are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue on May 9, 2025 with Joshua Bloom (University of California Berkeley).*** Recordings of our previous [colloquium talks](events.html) are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>
