@@ -142,7 +142,7 @@
   more-info-link:
   
 - type: "industry-lunch"
-  event-name: "Industry Lunch with Richard Collins (Engine Ventures)"
+  event-name: "Richard Collins (Engine Ventures)"
   event-committee: "Industry Partnership"
   event-post-date: "2025-04-20"
   start-date-time: "2025-05-02 12:30"
@@ -198,20 +198,6 @@
   more-info-link:
   attendance-in-person:
   attendance-virtual:
-  
-- type: "internal-other"
-  event-name: "The American Physical Society (APS) Fellowship Program: Nominations due June 2, 2025"
-  event-committee: "APS"
-  event-post-date: "2025-04-27"
-  start-date-time: "2025-04-26 9:00"
-  end-date-time: "2025-04-26 17:00"
-  talk-location: "APS"
-  talk-zoom:
-  event-details: "The American Physical Society (APS) Fellowship Program was created to recognize members who have made advances in physics through original research and publication or made significant innovative contributions in the application of physics to science and technology. They may also have made significant contributions to the teaching of physics or service and participation in the activities of the Society.<br><br>Fellowship is a distinct honor signifying recognition by one's professional peers. Each year, no more than one half of one percent of the Society's membership (excluding student members) is recognized by their peers for election to the status of Fellow of the American Physical Society.<br><br>The Group on Data Science (GDS) in the American Physical Society (APS) can nominate members for APS Fellowship. Nominations are open now and due by June 2, 2025. Submit your nomination here: https://info.aps.org/e/640833/a/2t2w7n/1480400860/h/q5-seb1eilH2I7o7fuBdXm2kAR7OP0kWwgn_7KVI8U0%5d<br><br>Any questions can be sent to honors@aps.org."
-  calendar-link:
-  rsvp-link:
-  more-info-link: https://info.aps.org/e/640833/a/2t2w7n/1480400860/h/q5-seb1eilH2I7o7fuBdXm2kAR7OP0kWwgn_7KVI8U0%5d
-  priority: high
   
 - type: "social"
   event-name: "IAIFI Grad Student and Postdoc Networking Meetup with Colloquium Speaker"
