@@ -164,7 +164,7 @@
   end-date-time: "2025-05-02 19:00"
   talk-location: "UMass Boston, Campus Center Ballroom A (U03-3550)"
   talk-zoom:
-  event-details: "In celebration of the “International Year of Quantum Science and Technology” the Department of Physics will be hosting our Third Annual Research Symposium with a theme of 'Quantum Collaborations.' This event will include speakers from both academia and the industry, showcasing collaborative efforts by UMB Physics faculty with leaders from academia and industry. This will be a great opportunity to learn more about the history and 'magic' of quantum physics, explore new research advances by UMB faculty and collaborators, and connect with experts shaping the future of the field. The afternoon (2:00-5:00pm) will feature the IAIFI-UMB partnership and will include presentations from IAIFI members."
+  event-details: "In celebration of the “International Year of Quantum Science and Technology” the Department of Physics will be hosting our Third Annual Research Symposium with a theme of 'Quantum Collaborations.' This event will include speakers from both academia and the industry, showcasing collaborative efforts by UMB Physics faculty with leaders from academia and industry. This will be a great opportunity to learn more about the history and 'magic' of quantum physics, explore new research advances by UMB faculty and collaborators, and connect with experts shaping the future of the field. <b>The afternoon (2:00-5:00pm) will feature the IAIFI-UMB partnership and will include presentations from IAIFI members.</b>"
   calendar-link:
   
 - type: "external-event"
@@ -179,6 +179,42 @@
   event-details: "Join the Social and Ethical Responsibilities of Computing (SERC) for an extraordinary series of 15 thought-provoking TED-style talks exploring the intersection of technology, ethics, and social responsibility in computing. Born from MIT’s Institute-wide commitment to responsible innovation, this groundbreaking event showcases research supported by the SERC seed grant program."
   calendar-link:
   
+- type: "external-event"
+  event-name: "Poster Session with Astronomy 205 (Machine Learning for Astrophysicists)"
+  event-organizer: "Prof. Ashley Villar"
+  more-info-link: "https://beta.my.harvard.edu/course/ASTRON205/2026-Spring/001"
+  event-post-date: "2025-04-27"
+  start-date-time: "2025-04-30 13:30"
+  end-date-time: "2025-04-30 14:45"
+  talk-location: "P-108A (Wolbach space), Center for Astrophysics, 60 Garden Street"
+  talk-zoom:
+  event-details: "Astronomy 205 (Machine Learning for Astrophysicists) will have a poster session in Wolbach on Wednesday, April 30, from 1:30 - 2:45 pm. This semester, 20 undergraduate and graduate students have worked hard to learn about cutting edge machine learning techniques and their application to astrophysics. On April 30, you are invited to join in celebrating their hard work. Each student will present their data-driven solution to an astrophysical problem of their choosing -- project topics range from cosmology to exoplanets! You are invited to stop by for a few minutes, enjoy the scientific presentations and to vote on the best poster! Light refreshments will be served."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "AstroAI Seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-04-27"
+  start-date-time: "2025-04-28 12:00"
+  end-date-time: "2025-04-28 13:00"
+  talk-location: "P-108A (Wolbach space), Center for Astrophysics, 60 Garden Street"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker:  Arne Thomsen (ETH Zurich)<br>Title: Simulation-based inference of cosmology from multi-probe maps using deep learning<br>Abstract: The ongoing Dark Energy Survey (DES) is designed to observe the large-scale structure of the Universe using a number of cosmological probes, including weak gravitational lensing and galaxy clustering. Conventionally, constraints on the cosmological parameters are calculated by comparing two-point functions of the observables with semi-analytical theory predictions. However, we know that due to nonlinear structure formation at late times, the physical fields contain non-Gaussian information which is not captured by the two-point functions. In this talk, I present a pipeline to leverage numerical theory predictions and the expressive power of deep learning to extract this additional cosmological information by learning the (beyond Gaussian) summary statistic instead. More specifically, we present our analysis framework for simulation-based inference in three parts: 1) a forward model to generate DES-like weak gravitational lensing and galaxy clustering maps from the CosmoGridV1 suite of simulations, 2) a pipeline to train artificial neural networks to find low-dimensional features that maximize the cosmological information gain from these forward-modeled maps, 3) a flexible inference workflow to obtain the posterior distribution of the cosmological and astrophysical parameters, given a (mock) observation. So far, we have applied the above to synthetic observations for forecasting and validation, comparing our approach to a power-spectrum baseline. We are currently preparing the whole pipeline for application to the real survey data, putting an emphasis on its validation."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mzdka212YjJibWFoaWJ1YWNrOGlzMzN1bzEgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+ 
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-04-27"
+  start-date-time: "2025-04-28 16:00"
+  end-date-time: "2025-04-28 17:00"
+  talk-location: "Room G370 and Zoom"
+  talk-zoom: "https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1"
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker: Shuvom Sadhuka (PhD Student, MIT) <br>Title: Evaluating multiple models using labeled and unlabeled data<br>Abstract: It remains difficult to evaluate machine learning classifiers in the absence of a large, labeled dataset. While labeled data can be prohibitively expensive or impossible to obtain, unlabeled data is plentiful. Here, we introduce Semi-Supervised Model Evaluation (SSME), a method that uses both labeled and unlabeled data to evaluate machine learning classifiers. SSME is the first evaluation method to take advantage of the fact that: (i) there are frequently multiple classifiers for the same task, (ii) continuous classifier scores are often available for all classes, and (iii) unlabeled data is often far more plentiful than labeled data. The key idea is to use a semi-supervised mixture model to estimate the joint distribution of ground truth labels and classifier predictions. We can then use this model to estimate any metric that is a function of classifier scores and ground truth labels (e.g., accuracy or expected calibration error). We present experiments in four domains where obtaining large labeled datasets is often impractical: (1) healthcare, (2) content moderation, (3) molecular property prediction, and (4) image annotation. Our results demonstrate that SSME estimates performance more accurately than do competing methods, reducing error by 5.1× relative to using labeled data alone and 2.4× relative to the next best competing method. SSME also improves accuracy when evaluating performance across subsets of the test distribution (e.g., specific demographic subgroups) and when evaluating the performance of language models."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXZwOTczZ3RjNzJiZzYyYjVqY2oxcDcxYjkgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+ 
 - type: "external-event"
   event-name: "ML Tea Talk"
   event-organizer: "ML Tea"

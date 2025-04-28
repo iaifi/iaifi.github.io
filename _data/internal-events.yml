@@ -38,11 +38,10 @@
   talk-location: "IAIFI Penthouse (In-person only)"
   talk-title: "IAIFI Mentorship Workshop"
   talk-abstract: "This session focuses on what makes for a good advisor/mentor, and how you can use self-assessment tools (e.g. the 'Happiness Questionnaire') to evaluate your work relationships. Based on that we will discuss how to identify and address issues early on, and how you can build a supportive network ('your village'). Finally, thinking about your own career expectations and being proactive about it is the key to finding and working with a great mentor. There will be interactive activities such as worksheets and table discussions during the session."
-  slides-link: ""
   youtube-link:
   speaker-thrust: "Astrophysics"
   speaker-gender: "Woman"
-  talk-attendance:  in person, virtual
+  talk-attendance: 10 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA0MjJUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
   
 - type: "social"
@@ -143,7 +142,7 @@
   more-info-link:
   
 - type: "industry-lunch"
-  event-name: "Industry Lunch with Richard Collins (Engine Ventures)"
+  event-name: "Richard Collins (Engine Ventures)"
   event-committee: "Industry Partnership"
   event-post-date: "2025-04-20"
   start-date-time: "2025-05-02 12:30"
@@ -180,6 +179,21 @@
   talk-zoom:
   event-details: "After today's colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTA0MjVUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Grad Student and Postdoc Networking Lunch with Colloquium Speaker"
+  event-committee: "Community Building"
+  event-post-date: "2025-04-27"
+  start-date-time: "2025-05-09 12:30"
+  end-date-time: "2025-05-09 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "IAIFI graduate students and postdocs are invited to this informal, catered networking meetup with IAIFI's colloquium speaker Joshua Bloom (Professor of Astronomy, University of California Berkeley). Lunch and refreshments will be provided."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTA1MDlUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
   attendance-in-person:
