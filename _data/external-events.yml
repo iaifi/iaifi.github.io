@@ -180,6 +180,18 @@
   calendar-link:
   
 - type: "external-event"
+  event-name: "David and Edith Harris Physics Colloquium: Surya Ganguli (Stanford)"
+  event-organizer: "MIT Physics"
+  more-info-link: "https://physics.mit.edu/events/david-and-edith-harris-physics-colloquium-series/"
+  event-post-date: "2025-04-27"
+  start-date-time: "2025-05-01 16:00"
+  end-date-time: "2025-05-01 17:00"
+  talk-location: "MIT 3-270"
+  talk-zoom:
+  event-details: "Speaker: Surya Ganguli (Stanford) <br>Title: Physical theories of neural computation underlying learning, imagination and reasoning: of mice and machines<br>Abstract: Three remarkable abilities of brains and machines are to: (1) learn new behaviors from a single example, (2) creatively imagine new possibilities, and (3) perform mathematical reasoning. I will discuss simple analytic yet quantitatively predictive theories of how (1) mice learn to accurately navigate on the first encounter in a new environment; (2) how diffusion models creatively imagine exponentially many new images; and (3) how large language models can conduct mathematical reasoning and theorem proving. Together this will demonstrate how important ideas from physics, including pinning transitions, locality, symmetry, time reversal, scaling, and entropy generation, can be applied to understand how mice and machines learn, imagine and reason.<br>References:<br>Theory of mouse navigation: https://www.nature.com/articles/s41586-024-08034-3<Br>Theory of creativity in diffusion models: https://arxiv.org/abs/2412.20292<br>Theory of mathematical reasoning: https://arxiv.org/abs/2502.07154"
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2FzdWUxNWNrM2hqNzNmdmlnZG5tbm8zZGYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
   event-name: "Poster Session with Astronomy 205 (Machine Learning for Astrophysicists)"
   event-organizer: "Prof. Ashley Villar"
   more-info-link: "https://beta.my.harvard.edu/course/ASTRON205/2026-Spring/001"
