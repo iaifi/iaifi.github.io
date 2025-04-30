@@ -156,6 +156,18 @@
   calendar-link:
   
 - type: "external-event"
+  event-name: "ITC Colloquium with Lina Necib"
+  event-organizer: "Institute for Theory and Computation (ITC)"
+  more-info-link: "https://itc.cfa.harvard.edu/about"
+  event-post-date: "2025-04-27"
+  start-date-time: "2025-05-01 11:00"
+  end-date-time: "2025-05-01 12:00"
+  talk-location: "Phillips Auditorium, 60 Garden Street, Cambridge, and streamed on YouTube"
+  talk-zoom:
+  event-details: "Speaker: Lina Necib (Assistant Professor of Physics, MIT) <br>Title: Mapping out the Dark Matter in the Milky Way <br>Abstract: In this talk, I will explore the interfacing of simulations, observations, and machine learning techniques to construct a detailed map of Dark Matter in the Milky Way, focusing on the Galactic Center/Halo and dwarf galaxies. For the Galactic Halo, I will present a recent work that reveals a decline in the stellar circular velocity, inducing tensions with established estimates of the Milky Way's mass and Dark Matter content. I will discuss how the underestimated systematic errors in such a common methodology necessitates a revised approach that combines theory, observations, and machine learning. In dwarf galaxies, I will present a novel Graph Neural Network methodology that facilitates the accurate extraction of Dark Matter density profiles, validated against realistic simulations. I will conclude with a discussion on the future trajectory of astroparticle physics, emphasizing the need for the integration of astrophysical probes with experimental Dark Matter research, potentially leading to a better understanding of the nature of Dark Matter."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnRpdHY1bnM2dWdqODdyN2IwOXN2aGZwZTYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
   event-name: "Third Annual UMB Department of Physics Research Symposium: Quantum Collaborations"
   event-organizer: "The UMB Department of Physics"
   more-info-link: "https://www.umb.edu/science-mathematics/academic-departments/physics/"
