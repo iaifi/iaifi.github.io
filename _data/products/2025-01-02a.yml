@@ -5,18 +5,23 @@ title: "Bootstrapped Reward Shaping"
 authors: "Jacob Adamczyk, Volodymyr Makarenko, Stas Tiomkin, Rahul V. Kulkarni"
 abstract: "In reinforcement learning, especially in sparse-reward domains, many environment steps are required to observe reward information. In order to increase the frequency of such observations, 'potential-based reward shaping' (PBRS) has been proposed as a method of providing a more dense reward signal while leaving the optimal policy invariant. However, the required 'potential function' must be carefully designed with task-dependent knowledge to not deter training performance. In this work, we propose a 'bootstrapped' method of reward shaping, termed BSRS, in which the agent's current estimate of the state-value function acts as the potential function for PBRS. We provide convergence proofs for the tabular setting, give insights into training dynamics for deep RL, and show that the proposed method improves training speed in the Atari suite."
 arxiv: "2501.00989"
-journal:
-doi:
+journal: "Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 39, No. 15, 2025"
+doi: https://doi.org/10.1609/aaai.v39i15.33679
 nsf-par:
 code: https://github.com/JacobHA/ShapedRL
-publication-date:
+publication-date: 2025-04-11
 bib-tex: |
-  @article{adamczyk2025bootstrappedrewardshaping,
+  @article{Adamczyk_Makarenko_Tiomkin_Kulkarni_2025,
       title={Bootstrapped Reward Shaping},
-      author={Jacob Adamczyk and Volodymyr Makarenko and Stas Tiomkin and Rahul V. Kulkarni},
+      volume={39}, url={https://ojs.aaai.org/index.php/AAAI/article/view/33679},
+      DOI={10.1609/aaai.v39i15.33679},
+      abstractNote={In reinforcement learning, especially in sparse-reward domains, many environment steps are required to observe reward information. In order to increase the frequency of such observations, &quot;potential-based reward shaping&quot; (PBRS) has been proposed as a method of providing a more dense reward signal while leaving the optimal policy invariant. However, the required potential function must be carefully designed with task-dependent knowledge to not deter training performance. In this work, we propose a bootstrapped method of reward shaping, termed BS-RS, in which the agent‚Äôs current estimate of the state-value function acts as the potential function for PBRS. We provide convergence proofs for the tabular setting, give insights into training dynamics for deep RL, and show that the proposed method improves training speed in the Atari suite.},
+      number={15},
+      journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+      author={Adamczyk, Jacob and Makarenko, Volodymyr and Tiomkin, Stas and Kulkarni, Rahul V.},
       year={2025},
+      month={Apr.},
+      pages={15302-15310},
       eprint={2501.00989},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2501.00989},
+      archivePrefix={arXiv}
   }
