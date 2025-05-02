@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-02-24
+title: "Seeing the Outer Edge of the Infant Type Ia Supernova 2024epr in the Optical and Near Infrared"
+authors: "W. B. Hoogendam, D. O. Jones, C. Ashall, B. J. Shappee, R. J. Foley, M. A. Tucker, M. E. Huber, K. Auchettl, D. D. Desai, A. Do, J. T. Hinkle, S. Romagnoli, J. Shi, A. Syncatto, C. R. Angus, K. C. Chambers, D. A. Coulter, K. W. Davis, T. de Boer, A. Gagliano, M. Kong, C.-C. Lin, T. B. Lowe, E. A. Magnier, P. Minguez, Y.-C. Pan, K.C. Patra, S. A. Severson, K. Taggart, A. R. Wasserman, S. K. Yadavalli"
+abstract: "We present optical-to-near infrared (NIR) photometry and spectroscopy of the Type Ia supernova (SN Ia) 2024epr, including NIR spectra observed within two days of first light. The early-time optical spectra show strong, high-velocity Ca and Si features near rarely-observed velocities at ∼0.1c, and the NIR spectra show a CI 'knee.' Despite these high-velocity features at early times, SN~2024epr evolves into a normal SN Ia, albeit with stronger peak-light Ca absorption than other SNe Ia with the same light curve shape. Although we infer a normal decline rate, Δm15(B)=1.09±0.12 mag, from the light-curve rise, SN 2024epr is a Branch 'cool' object and has red early-time colors (g−r≈0.15 mag at −10 days). The high velocities point to a density enhancement in the outer layers of the explosion, but thick-shell He-detonation models do not match the smoothly rising light curve or lack of He in our early-time NIR spectra. No current models (e.g., delayed detonation or thin He shell double detonation) appear to reproduce all of the observed properties. Such constraints are only possible for SN 2024epr from the earliest optical and NIR observations, highlighting their importance for constraining SN Ia models. Finally, we find several other SNe Ia with intermediate mass elements at ∼30,000 km s−1 within days after the explosion that evolve into otherwise normal SNe Ia at peak light, suggesting the early-time spectra of SNe Ia may hide a broad diversity of observational characteristics."
+arxiv: "2502.17556"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{hoogendam2025seeingouteredgeinfant,
+      title={Seeing the Outer Edge of the Infant Type Ia Supernova 2024epr in the Optical and Near Infrared},
+      author={W. B. Hoogendam and D. O. Jones and C. Ashall and B. J. Shappee and R. J. Foley and M. A. Tucker and M. E. Huber and K. Auchettl and D. D. Desai and A. Do and J. T. Hinkle and S. Romagnoli and J. Shi and A. Syncatto and C. R. Angus and K. C. Chambers and D. A. Coulter and K. W. Davis and T. de Boer and A. Gagliano and M. Kong and C. -C. Lin and T. B. Lowe and E. A. Magnier and P. Minguez and Y. -C. Pan and K. C. Patra and S. A. Severson and K. Taggart and A. R. Wasserman and S. K. Yadavalli},
+      year={2025},
+      eprint={2502.17556},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2502.17556},
+  }
