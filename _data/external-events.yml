@@ -165,7 +165,7 @@
   talk-location: "Simonyi Conference Center, Stanford, CA"
   talk-zoom:
   event-details: "The Center for Decoding the Universe brings together researchers across scientific disciplines to answer the biggest questions about our Universe by leveraging complex data with the most advanced computational methods. From anomaly detection in massive data sets and foundation models that compactly describe multi-modal data, to simulation-based inference that bridges the gap between the observed and simulated Universe, new methodologies will enable new insights from large and complex datasets. These new approaches are poised to impact the next big thing in astrophysics: data from the Vera C Rubin Observatory’s Legacy Survey of Space and Time (LSST). This meeting will gather leading researchers in astrophysics, AI/ML, data science, and statistics, and will identify new opportunities for inference and data-driven discovery with the imminent LSST data. <b>The Conference is inviting abstracts for short talks and posters by May 12, 2025. Talks should be accessible to researchers spanning astrophysics, AI/ML, data science, and statistics. Work in progress is welcome, and talks are especially encouraged by early-career researchers.</b>"
-  registration-deadline: 2025-05-10
+  registration-deadline: 2025-05-13
   calendar-link:
   
 - type: "external-workshop"
