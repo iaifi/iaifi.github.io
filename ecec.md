@@ -24,6 +24,7 @@ An important element of supporting early career researchers is mentorship. There
 
 ### General Resources
 * [The Center for the Improvement of Mentored Experiences in Research (CIMER)](https://cimerproject.org/) provides [curricula](https://cimerproject.org/curricula-overview/) and [mentor/mentee support resources](https://cimerproject.org/mentor-mentee-support-resources/)
+* [Mentorship Worksheet and Slide Deck](https://drive.google.com/drive/folders/11D2FNAZZpKGZBdjbCSW1-W2vQf7sQN5A?usp=drive_link) from IAIFI's Mentorship Workshop on April 22, 2025. 
 
 ### MIT
 * [Postdoctoral Mentoring and Advising Toolkit](https://postdocs.mit.edu/mentoring-and-advising/postdoctoral-mentoring-and-advising-toolkit) for both mentors and mentees
