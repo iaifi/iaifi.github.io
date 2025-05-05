@@ -156,16 +156,17 @@
   calendar-link:
   
 - type: "external-event"
-  event-name: "Center for Decoding the Universe Annual Conference"
-  event-organizer: "The Center for Decoding the Universe @ Stanford"
+  event-name: "Center for Decoding the Universe Annual Conference: Data-Driven Discovery in the Rubin Era"
+  event-organizer: "Stanford Data Science and the Kavli Institute for Particle Astrophysics and Cosmology"
   more-info-link: "https://datascience.stanford.edu/events/center-decoding-universe/center-decoding-universe-annual-conference"
   event-post-date: "2025-05-04"
   start-date-time: "2025-06-05 12:00"
   end-date-time: "2025-06-06 13:00"
   talk-location: "Simonyi Conference Center, Stanford, CA"
   talk-zoom:
-  event-details: "The Center for Decoding the Universe brings together researchers across scientific disciplines to answer the biggest questions about our Universe by leveraging complex data with the most advanced computational methods. From anomaly detection in massive data sets and foundation models that compactly describe multi-modal data, to simulation-based inference that bridges the gap between the observed and simulated Universe, new methodologies will enable new insights from large and complex datasets. These new approaches are poised to impact the next big thing in astrophysics: data from the Vera C Rubin Observatory’s Legacy Survey of Space and Time (LSST). This meeting will gather leading researchers in astrophysics, AI/ML, data science, and statistics, and will identify new opportunities for inference and data-driven discovery with the imminent LSST data."
-  calendar-link: 
+  event-details: "The Center for Decoding the Universe brings together researchers across scientific disciplines to answer the biggest questions about our Universe by leveraging complex data with the most advanced computational methods. From anomaly detection in massive data sets and foundation models that compactly describe multi-modal data, to simulation-based inference that bridges the gap between the observed and simulated Universe, new methodologies will enable new insights from large and complex datasets. These new approaches are poised to impact the next big thing in astrophysics: data from the Vera C Rubin Observatory’s Legacy Survey of Space and Time (LSST). This meeting will gather leading researchers in astrophysics, AI/ML, data science, and statistics, and will identify new opportunities for inference and data-driven discovery with the imminent LSST data. <b>The Conference is inviting abstracts for short talks and posters by May 12, 2025. Talks should be accessible to researchers spanning astrophysics, AI/ML, data science, and statistics. Work in progress is welcome, and talks are especially encouraged by early-career researchers.</b>"
+  registration-deadline: 2025-05-10
+  calendar-link:
   
 - type: "external-workshop"
   event-name: "Data Parallelism Workshop: How to Train Deep Learning Models on Multiple GPUs"
