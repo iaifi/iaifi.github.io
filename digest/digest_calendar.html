@@ -155,7 +155,7 @@ Save the date for these events (and check to see if you need to register)!
 {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
  {% assign registration_date_time_in_seconds = talk.registration-deadline | date: '%s' | plus: 0 %}
  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
- {% unless registration_date_time_in_seconds > digest_start_in_seconds and registration_date_time_in_seconds > digest_next_in_seconds and start_date_time_in_seconds > digest_start_in_seconds and site.data.talk-categories[talk.type].category=='external'%}{% continue %}{% endunless %}
+ {% unless registration_date_time_in_seconds >= digest_start_in_seconds and registration_date_time_in_seconds < digest_end_in_seconds and start_date_time_in_seconds >= digest_start_in_seconds and site.data.talk-categories[talk.type].category=='external'%}{% continue %}{% endunless %}
   {% assign events_deadlines = 'true' %} <!-- Mark that there is at least one event -->
  {% include_relative digest_event_item.html talk=talk is_future=true anchor=this_anchor %}
 {% endfor %}
