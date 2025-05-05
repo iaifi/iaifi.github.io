@@ -145,7 +145,7 @@
 
 - type: "external-workshop"
   event-name: "Frontiers in NeuroAI - Kempner Institute Symposium"
-  event-organizer: "Kempner Institute"
+  event-organizer: "The Kempner Institute"
   more-info-link: "https://kempnerinstitute.harvard.edu/frontiers-in-neuroai/"
   event-post-date: "2025-01-05"
   start-date-time: "2025-06-05 9:00"
@@ -154,6 +154,79 @@
   talk-zoom:
   event-details: "Frontiers in NeuroAI is a two-day symposium, open to the public, exploring key topics in the rapidly-advancing field of NeuroAI, including: How natural and artificial systems learn, and how these processes are similar or different across systems; The implications of rapid progress in machine learning on understanding neural processes, the nature of intelligence, and human cognitive abilities; and Innovations that are pushing forward the reasoning and generative capabilities of AI systems. The symposium will feature presentations from cutting-edge experts from neuroscience and AI as they discuss advances in learning across both fields."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "Center for Decoding the Universe Annual Conference: Data-Driven Discovery in the Rubin Era"
+  event-organizer: "Stanford Data Science and the Kavli Institute for Particle Astrophysics and Cosmology"
+  more-info-link: "https://datascience.stanford.edu/events/center-decoding-universe/center-decoding-universe-annual-conference"
+  event-post-date: "2025-05-04"
+  start-date-time: "2025-06-05 12:00"
+  end-date-time: "2025-06-06 13:00"
+  talk-location: "Simonyi Conference Center, Stanford, CA"
+  talk-zoom:
+  event-details: "The Center for Decoding the Universe brings together researchers across scientific disciplines to answer the biggest questions about our Universe by leveraging complex data with the most advanced computational methods. From anomaly detection in massive data sets and foundation models that compactly describe multi-modal data, to simulation-based inference that bridges the gap between the observed and simulated Universe, new methodologies will enable new insights from large and complex datasets. These new approaches are poised to impact the next big thing in astrophysics: data from the Vera C Rubin Observatory’s Legacy Survey of Space and Time (LSST). This meeting will gather leading researchers in astrophysics, AI/ML, data science, and statistics, and will identify new opportunities for inference and data-driven discovery with the imminent LSST data. <b>The Conference is inviting abstracts for short talks and posters by May 12, 2025. Talks should be accessible to researchers spanning astrophysics, AI/ML, data science, and statistics. Work in progress is welcome, and talks are especially encouraged by early-career researchers.</b>"
+  registration-deadline: 2025-05-10
+  calendar-link:
+  
+- type: "external-workshop"
+  event-name: "Data Parallelism Workshop: How to Train Deep Learning Models on Multiple GPUs"
+  event-organizer: "The Kempner Institute"
+  more-info-link: "https://kempnerinstitute.harvard.edu/events/data-parallelism-how-to-train-deep-learning-models-on-multiple-gpus/"
+  event-post-date: "2025-05-04"
+  start-date-time: "2025-06-04 9:00"
+  end-date-time: "2025-06-04 17:00"
+  talk-location: "Harvard Science and Engineering Complex (SEC)"
+  talk-zoom:
+  event-details: "This workshop teaches you techniques for data-parallel deep learning training on multiple GPUs to shorten the training time required for data-intensive applications. Working with deep learning tools, frameworks, and workflows to perform neural network training, you’ll learn how to decrease model training time by distributing data to multiple GPUs, while retaining the accuracy of training on a single GPU."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "NAIRR Pilot Office Hours"
+  event-organizer: "AIVO"
+  more-info-link: "https://aiinstitutes.org/april-2025-aivo-newsletter/?utm_source=AIVO&utm_campaign=cf14379b89-EMAIL_CAMPAIGN_2024_07_08_05_37_COPY_01&utm_medium=email&utm_term=0_-1f60ccb387-647065726#NAIRR-OfficeHours"
+  event-post-date: "2025-05-04"
+  start-date-time: "2025-05-13 15:00"
+  end-date-time: "2025-05-13 16:00"
+  talk-location: "Virtual"
+  talk-zoom:
+  event-details: "Do you have questions about your active NAIRR Pilot award? You can get them answered during office hours on May 13! On May 13, 2025 from 3:00–4:00 p.m. EDT, Cyberinfrastructure Professionals (CIPs) from the Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE) program will host virtual office hours on the National Artificial Intelligence Research Resource (NAIRR) Pilot. Register now: https://access-ci.atlassian.net/servicedesk/customer/portal/5/create/44<br>CIPs will assist with questions related to active NAIRR Pilot awards, and the Zoom session will cover all skill levels (beginner, intermediate, and advanced). CIPs in the SCIPE program come from a diverse set of scientific disciplines and institutions (which may not be the institution hosting your allocated resource). Providing a detailed description of your issue/help request at the time of registration will give them an opportunity to prepare for your consultation. SCIPE CIPs will connect you with the appropriate Resource Provider staff if your issue isn’t resolved during the office hours. Registration is required to receive the Office Hours Zoom link."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "AstroAI Seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-05-04"
+  start-date-time: "2025-05-05 12:00"
+  end-date-time: "2025-05-05 13:00"
+  talk-location: "P-108A video wall (former Wolbach library space), Center for Astrophysics, 60 Garden Street, Cambridge"
+  talk-zoom: "https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09"
+  event-details: "Speaker:  Ruo-Yu Shang (Columbia/Barnard)<br>Title: Machine learning in Very-High-Energy (VHE) astrophysics<br>Abstract: With multiple new and upcoming next-generation observatories in VHE astrophysics, the field expects exciting new discoveries in the next decade. This talk focuses on the prospect of the Cherenkov Telescope Array Observatory (CTAO), which is the next-generation ground-based Gamma-ray observatory that will enhance the Gamma-ray detection sensitivity by implementing new technologies and large detector areas covering both Northern and Southern skies. I will discuss the new analysis methods enabled by machine learning techniques that could maximize the advantage of CTAO, including noise reduction, event reconstruction, optical system alignment, and ideas for data-driven prediction for transient events."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDloNzUxaXFmM2YxMjBvdmtlcjJqNWJnanYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-05-04"
+  start-date-time: "2025-05-05 16:00"
+  end-date-time: "2025-05-05 17:00"
+  talk-location: "MIT Room 32-G882 (Hewlett) and Zoom"
+  talk-zoom: "https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1"
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker: Justin Chen (PhD Student, MIT) <br>Title: Algorithm Design with Learned Predictions<br>Abstract: The classic framing of algorithm design goes something like this: I give you a mathematical formulation of a problem by specifying valid inputs and outputs, and you give me an algorithm which, on any input, will produce a valid output using limited resources (e.g., time or memory). This “worst-case” analysis, which guarantees algorithmic correctness and efficiency over all possible inputs, is the foundation of computer science theory. This is for good reason: algorithms designed to perform well in the worst-case are reliable, composable, and require no assumptions or prior knowledge of their applications.<br>In modern applications, algorithms are not run once in a vacuum on an unknown input. Procedures which process huge amounts of data are run hour after hour, day after day, on similar input datasets. These data may contain structure which is hard to formally incorporate into the algorithmic problem description. On the other hand, machine learning excels at extracting patterns which do not necessarily conform to simple-to-state, mathematical rules. Learned models make probabilistic predictions of outputs given inputs without a formal problem description or algorithm designer; they tune themselves on training data.<br>In this talk, I will overview the developing area of 'algorithms with predictions' as well as several opportunities and challenges with approaching ML for algorithms."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXJjam4zMWpnOG9ycDVtNmQyMWFkcTVmMm0gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "ITC Colloquium with Lina Necib"
+  event-organizer: "Institute for Theory and Computation (ITC)"
+  more-info-link: "https://itc.cfa.harvard.edu/about"
+  event-post-date: "2025-04-27"
+  start-date-time: "2025-05-01 11:00"
+  end-date-time: "2025-05-01 12:00"
+  talk-location: "Phillips Auditorium, 60 Garden Street, Cambridge, and streamed on YouTube"
+  talk-zoom:
+  event-details: "Speaker: Lina Necib (Assistant Professor of Physics, MIT) <br>Title: Mapping out the Dark Matter in the Milky Way <br>Abstract: In this talk, I will explore the interfacing of simulations, observations, and machine learning techniques to construct a detailed map of Dark Matter in the Milky Way, focusing on the Galactic Center/Halo and dwarf galaxies. For the Galactic Halo, I will present a recent work that reveals a decline in the stellar circular velocity, inducing tensions with established estimates of the Milky Way's mass and Dark Matter content. I will discuss how the underestimated systematic errors in such a common methodology necessitates a revised approach that combines theory, observations, and machine learning. In dwarf galaxies, I will present a novel Graph Neural Network methodology that facilitates the accurate extraction of Dark Matter density profiles, validated against realistic simulations. I will conclude with a discussion on the future trajectory of astroparticle physics, emphasizing the need for the integration of astrophysical probes with experimental Dark Matter research, potentially leading to a better understanding of the nature of Dark Matter."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnRpdHY1bnM2dWdqODdyN2IwOXN2aGZwZTYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
   event-name: "Third Annual UMB Department of Physics Research Symposium: Quantum Collaborations"

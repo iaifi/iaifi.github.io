@@ -153,8 +153,8 @@
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTA1MDJUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link:
   more-info-link: https://www.linkedin.com/in/richard-collins-196ab3129/
-  attendance-in-person:
-  attendance-virtual:
+  attendance-in-person: 6
+  attendance-virtual: 1
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
