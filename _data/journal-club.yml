@@ -164,11 +164,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Bridging the Gap: Culturally Responsive Science Communication for Early Career Scientists"
   talk-abstract: "Effective science communication is essential for fostering trust, relevance, and impact across diverse communities. This interactive workshop equips early career scientists with practical tools to communicate their research clearly and compellingly to a variety of audiences, from policymakers to the public. With a focus on two-way, culturally responsive engagement, participants will explore how to listen actively, adapt messages to different contexts, and co-create understanding with their audiences. The workshop models two-way engagement throughout, responding to participant needs and incorporating their experiences into real-time practice. Attendees will leave with enhanced communication skills and a framework for building authentic, inclusive connections through their scientific work. <b>Note: The speaker will be on Zoom, but we will still serve lunch in the Penthouse for those who would like to participate in person.</b>"
-  slides-link:
+  slides-link: https://docs.google.com/document/d/1NLxErvp_UB1MXcOEG5fNoM7x0pSuvGFwnePKFCklccQ/edit?usp=sharing
   youtube-link:
   speaker-thrust: N/A
   speaker-gender: "woman"
-  talk-attendance:  in person, virtual
+  talk-attendance: 8 in person, 4 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXVtNjIyN2RwZW9iMGZoYzJ0dnAycG92a3YgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
@@ -181,11 +181,11 @@
   start-date-time: "2025-05-13 13:00"
   end-date-time: "2025-05-13 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
+  talk-title: "Probing High-Dimensional Spaces: From Theory Design in Phenomenology to Parameter Inference in ATLAS"
+  talk-abstract: "When confronted with extremely high-dimensional problems, physicists traditionally reduce the challenge to a lower dimensional representation where they can build intuition. For example, experimental particle physicists may condense hundreds of millions of dimensions from detector readouts into a one-dimensional histogram of reconstructed particle energy. I will demonstrate that such dramatic data reduction makes it impossible to capture all the relevant information necessary for optimal statistical inference for the Higgs width measurement at the LHC. We design a generalisation of traditional methodology in ATLAS to perform statistical inference directly on high-dimensional data, enabled by powerful uncertainty quantification and propagation tools. This leads to the most precise measurement of the Higgs width by the experiment to date. Similarly, a significant challenge in theoretical physics is the vast mathematical space of potential theories to describe our Universe. I lead the design of a more efficient framework for model building in neutrino physics, leveraging newly available computational and AI tools to uncover new avenues for neutrino theory model building."
   slides-link: ""
   youtube-link:
-  speaker-thrust: "physics theory"
+  speaker-thrust: "physics experiment"
   speaker-gender: "man"
   talk-attendance:  in person, virtual
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWY4aDFscnFkczUwN2ZvbGs3NTYzMTIzOGNfMjAyNTA1MDZUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn"
