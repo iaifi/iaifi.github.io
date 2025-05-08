@@ -924,7 +924,6 @@ Speakers will be announced as they are confirmed.
 </div>
 
 <br>
--->
 
 ## Accommodations
 We will share discounted hotel rates here in Spring 2025.
