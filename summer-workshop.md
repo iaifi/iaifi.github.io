@@ -674,26 +674,256 @@ Closing
 
 Speakers will be announced as they are confirmed. 
  
-<!--
 <div class="card-columns">
+  <!--<div class="row">-->
     
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-pulkit-agrawal.jpg" alt="Pulkit Agrawal" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-alexandre-adam..jpg" alt="Alexandre Adam" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a>
+         <a href="https://github.com/AlexandreAdam">Alexandre Adam</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Assistant Professor, EECS, MIT </em> <br>
+         <em> University of Montreal </em> <br>
+         </div>
+         </div>
+       </div>
+       
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-noemi-anau-montel.jpg" alt="Noemi Anau Montel" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://noemiam.github.io/">Noemi Anau Montel</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Max-Planck Institute for Astrophysics </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-petros-boufounos.jpg" alt="Petros Boufounos" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://boufounos.com/">Petros Boufounos</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> MERL </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-aleksandra-ciprijanovic.jpg" alt="Aleksandra Ciprijanovic" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.alexciprijanovic.com/">Aleksandra Ciprijanovic</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> FNAL </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-dylan-foster..jpg" alt="Dylan Foster" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://dylanfoster.net/">Dylan Foster</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Microsoft </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-alex-gagliano.jpg" alt="Alexander Gagliano" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://alexandergagliano.github.io/">Alexander Gagliano</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> IAIFI </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-matthew-ho.jpg" alt="Matthew Ho" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://maho3.github.io/">Matthew Ho</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Columbia University </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-shih-chieh-hsu.jpg" alt="Shih-Chieh Hsu" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://faculty.washington.edu/schsu/">Shih-Chieh Hsu</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> University of Washington </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-robert-huang.jpg" alt="Robert Huang" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://hsinyuan-huang.github.io/">Robert Huang</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Caltech and Google </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-sven-krippendorf.jpg" alt="Sven Krippendorf" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://krippendorflab.github.io/">Sven Krippendorf</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> University of Cambridge </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-akshay-krishnamurthy.jpg" alt="Akshay Krishnamurthy" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://people.cs.umass.edu/~akshay/">Akshay Krishnamurthy</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Microsoft </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-francois-lanusse.jpg" alt="Francois Lanusse" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://flanusse.net/">Francois Lanusse</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> CNRS </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-simonetta-liuti..jpg" alt="Simonetta Liuti" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://uva.theopenscholar.com/simonetta-liuti/">Simonetta Liuti</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> University of Virginia </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-peter-melchior..jpg" alt="Peter Melchior" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://pmelchior.net/">Peter Melchior</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Princeton University </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-moritz-munchmeyer.jpg" alt="Moritz Münchmeyer" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.moritzmunchmeyer.com/">Moritz Münchmeyer</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> University of Wisconsin-Madison </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-lina-necib.jpg" alt="Lina Necib" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://lnecib.com/">Lina Necib</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> MIT and IAIFI </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-tri-nguyen.jpg" alt="Tri Nguyen" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://trivnguyen.github.io/">Tri Nguyen</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Northwestern University and SkAI </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-costis-papageorgakis.jpg" alt="Costis Papageorgakis" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.qmul.ac.uk/spcs/staff/academics/profiles/cpapageorgakis.html">Costis Papageorgakis</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Queen Mary University of London </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-eluned-smith.jpg" alt="Eluned Smith" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://physics.mit.edu/faculty/eluned-smith/">Eluned Smith</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> MIT and IAIFI </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-hidenori-tanaka.jpg" alt="Hidenori Tanaka" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://sites.google.com/view/htanaka/home">Hidenori Tanaka</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Harvard University and IAIFI </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-sokratis-trifinopoulos.jpg" alt="Sokratis Trifinopoulos" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://strifinopoulos.github.io/">Sokratis Trifinopoulos</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> MIT and IAIFI </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-amy-zhang.jpg" alt="Amy Zhang" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://amyzhang.github.io/">Amy Zhang</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> UT Austin </em> <br>
          </div>
          </div>
        </div>
 
-
 </div>
 
 <br>
--->
 
 ## Accommodations
 We will share discounted hotel rates here in Spring 2025.
