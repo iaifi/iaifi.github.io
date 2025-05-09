@@ -10,7 +10,7 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 
 * **The 2025 Summer Workshop will be held August 11–15, 2025**
 * **Location: Harvard University (Cambridge, MA)**
-* **[Registration is now open](https://buy.stripe.com/fZe9Ci53xfX90eceVb) for the 2025 IAIFI Summer Workshop; Register by July 31, 2025.** 
+* **[Registration is now open](https://buy.stripe.com/fZe9Ci53xfX90eceVb) for the 2025 IAIFI Summer Workshop; Register by July 31, 2025 ($200 registration fee).** 
 
 [Register for the 2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg} [Submit a Talk/Poster by June 1, 2025](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -926,24 +926,30 @@ Speakers will be announced as they are confirmed.
 <br>
 
 ## Accommodations
-We will share discounted hotel rates here in Spring 2025.
+We have established discounted rates for August 10–August 16, 2025 at the following hotels:
 
-<!--
-* <b>Royal Sonesta Boston</b>, 40 Edwin H Land Blvd, Cambridge, MA 02142. 
+* <b>Porter Square Hotel</b>, 1924 Massachusetts Avenue, Cambridge, MA 02142. 
     
-    $224 nightly rate (1-2 people per room)
+    $235-275 nightly rate (1-2 people per room)
     
-    Deadline to book: July 29
+    Deadline to book: First come, first served
 
-    [Book now](https://book.passkey.com/go/MITAugust2024)
+    To book, call 617-499-3399 and reference code 141315.
+    
+* <b>Hotel 1868</b>, 1868 Massachusetts Avenue, Cambridge, MA 02142. 
+    
+    $225-265 nightly rate (1-2 people per room)
+    
+    Deadline to book: First come, first served
 
-Workshop attendees are also welcome to book dorms for a discounted rate at Boston University: 
-* <b>10 Buick Street, Boston</b>
+    To book, call 617-499-3399 and reference code 141315.
 
-    $97.50 nightly rate (1 person per room, shared bathroom with 1 other person) 
+Workshop attendees are also welcome to book dorms for a discounted rate at Harvard University: 
+* <b>Harvard University Dorms</b>
 
-    [Book now](https://mit-iaifi-housing-2024.eventbrite.com/)
--->
+    $110 nightly rate (1 person per room only) 
+
+    [Book now](https://buy.stripe.com/cN23dUdA37qD6CAdRa)
 
 ## FAQ 
 * *Who can attend the Summer Workshop?* Any researcher working at or interested in the intersection of physics and AI is encouraged to attend the Summer Workshop. 
