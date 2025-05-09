@@ -227,6 +227,10 @@ Closing
 ## Financial Supporters
 The Summer School is funded primarily by support from the National Science Foundation under Cooperative Agreement PHY-2019786. Computing resources are provided by the NSF ACCESS program.
 
+We extend a sincere thank you to the following financial supporters of this year's IAIFI Summer School:
+
+[<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:50%" hspace="20" vspace="10">](https://pdtpartners.com) [<img src="images/visa-logo.png" align="center" style="max-width:10355px;width:15%" hspace="20" vspace="10">](https://usa.visa.com/) 
+
 If you are interested in supporting the 2025 IAIFI Summer School, email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu)
 
 ## 2025 Organizing Committee 
