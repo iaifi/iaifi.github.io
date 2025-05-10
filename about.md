@@ -58,13 +58,13 @@ aside:
     </div>
 
     <div class="cell cell--8">
-      IAIFI researchers are producing state-of-the-art results through interdisciplinary projects across <b><a href="/ai-research.html">foundational AI</a></b>, <b><a href="/physics-theory-research.html">theoretical physics</a></b>, <b><a href="/physics-experiment-research.html">experimental physics</a></b>, and <b><a href="/astrophysics-research.html">astrophysics</a></b>. The projects in these domains are also categorized by cross-cutting themes, which help to utilize a common language and identify opportunities for collaboration: <b>Representation/Manifold Learning</b>; <b>Generative Models</b>; <b>Uncertainty Quantification/Robust AI</b>; <b>Physics-Motivated Optimization</b>; and <b>Reinforcement Learning</b>.
+      IAIFI researchers are producing state-of-the-art results through interdisciplinary projects across <b><a href="https://iaifi.org/domain-research.html#foundational-ai">foundational AI</a></b>, <b><a href="https://iaifi.org/domain-research.html#theoretical-physics">theoretical physics</a></b>, <b><a href="https://iaifi.org/domain-research.html#experimental-physics">experimental physics</a></b>, and <b><a href="https://iaifi.org/domain-research.html#astrophysics">astrophysics</a></b>. The projects in these domains are also categorized by cross-cutting themes, which help to utilize a common language and identify opportunities for collaboration: <b>Representation/Manifold Learning</b>; <b>Generative Models</b>; <b>Uncertainty Quantification/Robust AI</b>; <b>Physics-Motivated Optimization</b>; and <b>Reinforcement Learning</b>.
       <ul>
       <li><a href="/research.html">Overview:</a> Includes monthly research highlights</li>
-      <li><a href="/ai-research.html">Foundational AI:</a> Overview of projects primarily impacting the Foundational AI domain</li>
-      <li><a href="/physics-theory-research.html">Theoretical Physics:</a> Overview of projects primarily impacting the Theoretical Physics domain</li>
-      <li><a href="/physics-experiment-research.html">Experimental Physics:</a> Overview of projects primarily impacting the Experimental Physics domain</li>
-      <li><a href="/astrophysics-research.html">Astrophysics:</a> Overview of projects primarily impacting the Astrophysics domain</li>
+      <li><a href="https://iaifi.org/domain-research.html#foundational-ai">Foundational AI:</a> Overview of projects primarily impacting the Foundational AI domain</li>
+      <li><a href="https://iaifi.org/domain-research.html#theoretical-physics">Theoretical Physics:</a> Overview of projects primarily impacting the Theoretical Physics domain</li>
+      <li><a href="https://iaifi.org/domain-research.html#experimental-physics">Experimental Physics:</a> Overview of projects primarily impacting the Experimental Physics domain</li>
+      <li><a href="https://iaifi.org/domain-research.html#astrophysics">Astrophysics:</a> Overview of projects primarily impacting the Astrophysics domain</li>
       <li><a href="/papers.html">Papers and Code:</a> Links to papers by IAIFI researchers, including code where applicable</li>
       <li><a href="/lightning-talks.html">IAIFI Thematic Discussions:</a> IAIFI member-led discussions organized by cross-cutting theme to facilitate collaboration</li>
     </ul>

@@ -106,11 +106,11 @@
   talk-title: "AI Accelerating Inquiry and Insight in Astrophysics"
   talk-abstract: "The astrophysical data deluge has swamped traditional workflows, fostering a growing reliance on AI/ML tooling. Yet despite successes in post-data collection analysis with AI/ML, we are only beginning to realize its full potential across the broader scientific endeavor. From real-time control, to survey optimization, there is tremendous potential for AI/ML to improve the upstream efficacy of data collection.  Likewise, downstream from data are exciting opportunities for AI-enabled hypothesis generation and human-centered exploration. I will ground this talk with specific examples of ongoing work in simulation based inference, self-supervised multi-modal foundation models (AstroM³), Rubin/LSST active optics, and neural compression (AstroCompress)."
   calendar-link: "https://calendar.google.com/calendar/u/0/r/eventedit/copy/NnV1aGVuaWhrbzA3c2dyaWo4MGxrcmVzYTUgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw"
-  slides-link: ""
-  youtube-link: ""
+  slides-link: "https://www.dropbox.com/scl/fo/dxd4oynrrftkscv7r4ebk/ACRhUjo2BL4OMlJuUPDNTIo?rlkey=6d3uy06r6z9cpk9h6u7rd4uoq&st=rg5dgzwz&dl=0"
+  youtube-link: "https://www.youtube.com/live/k3uFxpjM0EA?feature=shared"
   speaker-thrust: "Astrophysics"
   speaker-gender: "Man"
-  talk-attendance: ""
+  talk-attendance: 34 in person, 39 virtual
 
 - type: "colloquium"
   semester: "fall-2024"
