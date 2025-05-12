@@ -181,16 +181,41 @@
   calendar-link:
   
 - type: "external-event"
+  event-name: "Duke Machine Learning Summer School: Generative AI"
+  event-organizer: "The Duke AI Health Community of Practice"
+  more-info-link: "https://aihealth.duke.edu/2025-mlss/"
+  event-post-date: "2025-05-11"
+  start-date-time: "2025-06-02 9:00"
+  end-date-time: "2025-06-06 17:00"
+  talk-location: "Duke University, Schiciano Auditorium"
+  talk-zoom:
+  event-details: "The Duke AI Health Community of Practice is pleased to announce the Duke Machine Learning Summer School 2025: Generative AI (MLSS-GenAI), offered in June as a (presential) five-day class that provides lectures on the fundamentals of generative artificial intelligence methods and applications. The curriculum in the MLSS-GenAI is targeted to individuals interested in learning about generative AI, with a focus on recent deep learning methodologies. The MLSS-GenAI will introduce the mathematics and statistics at the foundation of current generative and representation learning models and provide context for the methods that have formed the foundations of rapid growth in artificial intelligence (AI). Additionally, the MLSS-GenAI will provide hands-on training in the latest machine learning software, using the widely used (and free) PyTorch framework. This is the 12th iteration of the Duke Machine Learning School presented since 2017. This series has reached hundreds of participants from academia and industry, including international audiences at the SingHealth/Duke NUS Medical School and the Duke Kunshan University campus. The last machine summer school held in 2022 attracted 130 participants from around the world, representing 41 universities, institutes, and corporations."
+  registration-deadline:
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "Kempner Seminar Series: Rational Analysis of Language Models"
+  event-organizer: "The Kempner Institute"
+  more-info-link: "https://kempnerinstitute.harvard.edu/events/andrew-lampinen/"
+  event-post-date: "2025-05-11"
+  start-date-time: "2025-05-16 14:30"
+  end-date-time: "2025-05-16 16:00"
+  talk-location: "SEC, Room LL2.224"
+  talk-zoom:
+  event-details: "Speaker: Andrew Lampinen (Staff Research Scientist at DeepMind)<br>Title: Rational Analysis of Language Models <br>Abstract: There has been substantial debate about the capabilities of language models—which aspects of language they can acquire, whether they can be said to ‘reason’, and whether they can truly ‘learn’ in context. In this talk, I will suggest that approaches from cognitive science can provide useful tools for approaching these questions. Specifically, I will focus on rational analysis: analyzing behavior as a rational adaptation to an environment. I’ll  first illustrate these ideas by discussing some of our work analyzing how the in-context learning abilities of language models can emerge as a rational adaptation to simple properties of the data distribution they are trained on. I’ll then discuss how this analysis extends to suggest that many of language models broader success and failures can be interpreted as rational responses to the natural data distribution — including cases where language models exhibit some of the same patterns of content entangled reasoning that humans do. Finally, I’ll illustrate how rational analysis implies that the contextual abilities of language models can overcome failures like the “reversal curse” — and how to exploit these insights to improve generalization."
+  calendar-link:
+  
+- type: "external-event"
   event-name: "NAIRR Pilot Office Hours"
-  event-organizer: "AIVO"
-  more-info-link: "https://aiinstitutes.org/april-2025-aivo-newsletter/?utm_source=AIVO&utm_campaign=cf14379b89-EMAIL_CAMPAIGN_2024_07_08_05_37_COPY_01&utm_medium=email&utm_term=0_-1f60ccb387-647065726#NAIRR-OfficeHours"
+  event-organizer: "NAIRR Pilot"
+  more-info-link: "https://access-ci.atlassian.net/servicedesk/customer/portal/5/create/44"
   event-post-date: "2025-05-04"
   start-date-time: "2025-05-13 15:00"
   end-date-time: "2025-05-13 16:00"
   talk-location: "Virtual"
   talk-zoom:
-  event-details: "Do you have questions about your active NAIRR Pilot award? You can get them answered during office hours on May 13! On May 13, 2025 from 3:00–4:00 p.m. EDT, Cyberinfrastructure Professionals (CIPs) from the Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE) program will host virtual office hours on the National Artificial Intelligence Research Resource (NAIRR) Pilot. Register now: https://access-ci.atlassian.net/servicedesk/customer/portal/5/create/44<br>CIPs will assist with questions related to active NAIRR Pilot awards, and the Zoom session will cover all skill levels (beginner, intermediate, and advanced). CIPs in the SCIPE program come from a diverse set of scientific disciplines and institutions (which may not be the institution hosting your allocated resource). Providing a detailed description of your issue/help request at the time of registration will give them an opportunity to prepare for your consultation. SCIPE CIPs will connect you with the appropriate Resource Provider staff if your issue isn’t resolved during the office hours. Registration is required to receive the Office Hours Zoom link."
-  calendar-link:
+  event-details: "Do you have questions about your active NAIRR Pilot award? You can get them answered during office hours on May 13! On May 13, 2025 from 3:00–4:00 p.m. EDT, Cyberinfrastructure Professionals (CIPs) from the Strengthening the Cyberinfrastructure Professionals Ecosystem (SCIPE) program will host virtual office hours on the National Artificial Intelligence Research Resource (NAIRR) Pilot. If you are not able to make it this time, NAIRR Pilot Office Hours are held the second and fourth Tuesday of every month, 3:00-4:00 p.m. EST (subject to change for holidays and events)."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NTAxZDQzcGNvYjVxMDM3NDk1ZHFhM2E3MWlfMjAyNTA1MTNUMTkwMDAwWiBmOHY2cjV1ZXVsM3VqcGlvMWE3YjN0MHUyOEBn&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com&scp=ALL
   
 - type: "external-event"
   event-name: "AstroAI Seminar"
