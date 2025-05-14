@@ -13,7 +13,7 @@ publication-date: 2025-01-31
 bib-tex: |
   @article{Balla2025AIAssistedDiscovery,
   title={AI-assisted discovery of quantitative and formal models in social science},
-  author={Julia Balla, Sihao Huang, Owen Dugan, Rumen Dangovski & Marin Soljačić},
+  author={Julia Balla and Sihao Huang and Owen Dugan and Rumen Dangovski and Marin Soljačić},
   year={2025},
   volume={12},
   url={https://doi.org/10.1057/s41599-025-04405-x},

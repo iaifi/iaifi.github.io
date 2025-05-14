@@ -12,12 +12,12 @@ publication-date: 2025-01-29
 bib-tex: |
   @article{Ibarra2025AHeteroticKahler,
   title={A Heterotic Kähler Gravity and the Distance Conjecture},
-  author={Javier José Murgas Ibarra, Paul-Konstantin Oehlmann, Fabian Ruehle, Eirik Eik Svanes},
+  author={Javier José Murgas Ibarra and Paul-Konstantin Oehlmann and Fabian Ruehle and Eirik Eik Svanes},
   year={2025},
   volume={2025},
   url={https://doi.org/10.1007/JHEP01(2025)168},
   journal={Journal of High Energy Physics},
   eprint={2406.04393},
-  DOI={10.1007/JHEP01(2025)168},
-  archivePrefix={arXiv},
+  doi={10.1007/JHEP01(2025)168},
+  archivePrefix={arXiv}
   }

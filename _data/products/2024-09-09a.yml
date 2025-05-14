@@ -12,13 +12,13 @@ code:
 publication-date: 2025-01-21
 bib-tex: |
   @article{Bielli2025AuxiliaryFieldDeformations,
-  title={Auxiliary field deformations of (semi-)symmetric space sigma models},
-  author={Daniele Bielli, Christian Ferko, Liam Smith, Gabriele Tartaglino-Mazzucchelli},
-  year={2025},
-  volume={2025},
-  url={https://doi.org/10.1007/JHEP01(2025)096},
-  journal={Journal of High Energy Physics},
-  eprint={2409.05704},
-  DOI={10.1007/JHEP01(2025)096},
-  archivePrefix={arXiv},
+    title={Auxiliary field deformations of (semi-)symmetric space sigma models},
+    author={Daniele Bielli and Christian Ferko and Liam Smith and Gabriele Tartaglino-Mazzucchelli},
+    year={2025},
+    volume={2025},
+    url={https://doi.org/10.1007/JHEP01(2025)096},
+    journal={Journal of High Energy Physics},
+    eprint={2409.05704},
+    doi={10.1007/JHEP01(2025)096},
+    archivePrefix={arXiv}
   }
