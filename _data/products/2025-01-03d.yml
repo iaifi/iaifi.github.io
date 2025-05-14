@@ -7,7 +7,7 @@ abstract: "Direct imaging of exoplanets is crucial for advancing our understandi
 arxiv: "2501.01912"
 journal: "IEEE Transactions on Computational Imaging, 2025, Volume 11"
 doi: "https://doi.org/10.1109/TCI.2025.3525971"
-nsf-par:
+nsf-par: 10588351
 code:
 publication-date: 2025-01-03
 bib-tex: |

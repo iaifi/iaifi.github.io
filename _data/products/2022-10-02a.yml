@@ -7,7 +7,7 @@ abstract: "In social science, formal and quantitative models, such as ones descr
 arxiv: "2210.00563"
 journal: "Humanities and Social Sciences Communications"
 doi: "https://doi.org/10.1057/s41599-025-04405-x"
-nsf-par:
+nsf-par: 10588321
 code: "https://github.com/druidowm/OccamNet_SocialSci"
 publication-date: 2025-01-31
 bib-tex: |

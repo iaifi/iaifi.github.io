@@ -6,7 +6,7 @@ abstract: "Optical computing often employs tailor-made hardware to implement spe
 arxiv: "2406.04000"
 journal: "Communications Physics, 2025, Volume 8, Article Number 31"
 doi: "https://doi.org/10.1038/s42005-025-01953-1"
-nsf-par:
+nsf-par: 10588334
 code:
 publication-date: 2025-01-20
 bib-tex: |

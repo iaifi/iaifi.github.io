@@ -7,7 +7,7 @@ abstract: "Sparse autoencoders have recently produced dictionaries of high-dimen
 arxiv: "2410.19750"
 journal: "Entropy, 2025, Volume 27, Issue 4"
 doi: "https://doi.org/10.3390/e27040344"
-nsf-par:
+nsf-par: 10588349
 code:
 publication-date: 2025-03-27
 bib-tex: |

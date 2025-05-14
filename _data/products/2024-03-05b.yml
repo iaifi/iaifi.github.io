@@ -7,7 +7,7 @@ abstract: "Large language models (LLMs) have demonstrated an unprecedented abili
 arxiv: "2403.03154"
 journal: "Communications Physics, 2025, Volume 8, Article number 49"
 doi: "https://doi.org/10.1038/s42005-025-01956-y"
-nsf-par:
+nsf-par: 10588326
 code:
 publication-date: 2025-01-31
 bib-tex: |

@@ -6,7 +6,7 @@ abstract: 'Self-Supervised Learning (SSL) is at the core of training modern larg
 arxiv: "2403.07066"
 journal: "Physical Review D, 2025, Vol. 111, Iss.3  "
 doi: "https://doi.org/10.1103/PhysRevD.111.032010"
-nsf-par:
+nsf-par: 10588327
 code:
 publication-date: 2025-02-21
 bib-tex: |

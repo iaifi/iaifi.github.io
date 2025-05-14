@@ -6,7 +6,7 @@ abstract: "Analyses of the cosmic 21-cm signal are hampered by astrophysical for
 arxiv: "2407.21097"
 journal: "Machine Learning: Science and Technology, 2025, Volume 6, Number 1"
 doi: "https://doi.org/10.1088/2632-2153/adb19c"
-nsf-par:
+nsf-par: 10588341
 code: "https://github.com/NNSSA/Rec21"
 publication-date: 2025-02-14
 bib-tex: |

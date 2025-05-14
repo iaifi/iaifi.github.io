@@ -6,7 +6,7 @@ abstract: "The simplification and reorganization of complex expressions lies at 
 arxiv: "2408.04720"
 journal: "SciPost Physics, 2025, Vol.18, Issue 2"
 doi: "https://doi.org/10.21468/SciPostPhys.18.2.040"
-nsf-par:
+nsf-par: 10588344
 code: "https://github.com/aureliendersy/spinorhelicity"
 publication-date: 2025-02-03
 bib-tex: |
