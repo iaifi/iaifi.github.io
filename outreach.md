@@ -49,6 +49,10 @@ In recent years there has been a surge in tools that facilitate creative works u
 
 <img src="images/CSF-2023-Lunch-2.jpeg" align="left" style="max-width:1200px;width:45%" hspace="10" vspace="10"> <img src="images/CSF-2023-Lunch-1.jpeg" align="left" style="max-width:1200px;width:45%" hspace="10" vspace="10"> 
 
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br>
+
 [Generative AI Overview from Carol Cuesta-Lazaro](https://slides.com/carolcuesta/palette)
 
 [Ethics Overview from Hope Schroeder](talks/CSF2023_Lunch_Slides_Hope.pdf)
@@ -77,6 +81,12 @@ With the rising popularity of generative AI tools such as Chat-GPT and DALL-E, i
 <img src="images/CSF-2023-3.jpeg" align="left" style="max-width:900px;width:45%" hspace="10" vspace="10">
 <img src="images/CSF-2023-4.jpeg" align="left" style="max-width:1200px;width:45%" hspace="10" vspace="10">
 
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br>
+
 # K–12 Education
 
 The IAIFI has partnered with Northeastern’s [Theorynet program](http://www.physicstheorynet.org) to coordinate visits to high school classes in the Boston area. 
@@ -84,6 +94,24 @@ The IAIFI has partnered with Northeastern’s [Theorynet program](http://www.phy
 [Sign up for a classroom visit](https://forms.gle/MQh677rcxCwhzSJq7){:.button.button--outline-primary.button--pill.button--lg}.
 
 This activity is coordinated by the [IAIFI Public Engagement Committee](/committees.html#public-engagement).
+
+## Summer Programs for High Schoolers
+
+Depending on the program you're interested in, you may have the opportunity to indicate interest in working with someone from the IAIFI community. Take a look on [IAIFI's People Page](https://iaifi.org/people.html) to see current members!
+
+### MIT
+* [Research Science Institute](https://www.cee.org/programs/research-science-institute)
+* [MITES Summer](https://mites.mit.edu/discover-mites/mites-summer/)
+
+### Harvard
+* [Pre-College Program](https://summer.harvard.edu/high-school-programs/pre-college-program/)
+* [Secondary School Program](https://summer.harvard.edu/high-school-programs/secondary-school-program/)
+
+### Northeastern
+* [Young Scholars Program (YSP)](https://stem.northeastern.edu/summer/ysp/)
+
+### Tufts
+* [RISE Internship / Practicum](https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/)
 
 # Winter Family Day
 
