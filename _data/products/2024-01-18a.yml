@@ -7,7 +7,7 @@ abstract: "Compact symbolic expressions have been shown to be more efficient tha
 arxiv: "2401.09949"
 journal: "Machine Learning: Science and Technology, 2025, Volume 6, Number 1"
 doi: "https://doi.org/10.1088/2632-2153/adaad8"
-nsf-par:
+nsf-par: 10588324
 code: "https://github.com/hftsoi/SymbolNet"
 publication-date: 2025-01-29
 bib-tex: |

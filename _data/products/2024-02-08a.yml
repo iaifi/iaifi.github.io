@@ -7,7 +7,7 @@ abstract: "We present GenEFT: an effective theory framework for shedding light o
 arxiv: "2402.05916"
 journal: "Physical Review E, 2025, Vol. 111, Iss. 3"
 doi: "https://doi.org/10.1103/PhysRevE.111.035307"
-nsf-par:
+nsf-par: 10588325
 code:
 publication-date: 2025-03-20
 bib-tex: |

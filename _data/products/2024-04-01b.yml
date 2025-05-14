@@ -6,7 +6,7 @@ abstract: 'Scene representations using 3D Gaussian primitives have produced exce
 arxiv: "2404.01223"
 journal: "Springer Nature Link, 2024"
 doi: "https://doi.org/10.1007/978-3-031-72940-9_21"
-nsf-par:
+nsf-par: 10588362
 code: "https://feature-splatting.github.io/"
 publication-date: 2024-11-17
 bib-tex: |

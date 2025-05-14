@@ -7,7 +7,7 @@ abstract: Descriptions of the Galactic Center using Fermi gamma-ray data have so
 arxiv: "2410.21367"
 journal: "Physical Review D, 2025, Vol. 111, Iss. 6"
 doi: "https://doi.org/10.1103/PhysRevD.111.063065"
-nsf-par:
+nsf-par: 10588350
 code: "https://github.com/edwarddramirez/gce-gp"
 publication-date: 2025-03-24
 bib-tex: |

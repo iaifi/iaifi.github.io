@@ -6,7 +6,7 @@ abstract: "We explore full-shape analysis with simulation-based priors, which is
 arxiv: "2409.10609"
 journal: "Physical Review D, 2025, Vol. 111, Iss. 6"
 doi: "https://doi.org/10.1103/PhysRevD.111.063548"
-nsf-par:
+nsf-par: 10588346
 code: 
 publication-date: 2025-03-28
 bib-tex: |

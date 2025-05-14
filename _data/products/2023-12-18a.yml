@@ -7,7 +7,7 @@ abstract: "The 21-cm signal provides a novel avenue to measure the thermal state
 arxiv: "2312.11608"
 journal: "Physical Review D, Vol. 111 Iss. 4, 2025"
 doi: "https://doi.org/10.1103/PhysRevD.111.043015"
-nsf-par:
+nsf-par: 10588323
 code: "https://github.com/yitiansun/DM21cm"
 publication-date: 2025-02-06
 bib-tex: |

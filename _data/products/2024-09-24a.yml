@@ -6,7 +6,7 @@ abstract: "The human visual system is well-tuned to detect faces of all shapes a
 arxiv: "2409.16143"
 journal: "Springer Nature Link"
 doi: "https://doi.org/10.1007/978-3-031-73650-6_22"
-nsf-par:
+nsf-par: 10588363
 code: "https://aka.ms/faces-in-things"
 publication-date: 2024-11-21
 bib-tex: |

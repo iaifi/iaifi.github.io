@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-05-12
+title: "Symbolic Regression with Multimodal Large Language Models and Kolmogorov Arnold Networks"
+authors: "Thomas R. Harvey, Fabian Ruehle, Cristofero S. Fraser-Taliente, James Halverson"
+abstract: "We present a novel approach to symbolic regression using vision-capable large language models (LLMs) and the ideas behind Google DeepMind's Funsearch. The LLM is given a plot of a univariate function and tasked with proposing an ansatz for that function. The free parameters of the ansatz are fitted using standard numerical optimisers, and a collection of such ansätze make up the population of a genetic algorithm. Unlike other symbolic regression techniques, our method does not require the specification of a set of functions to be used in regression, but with appropriate prompt engineering, we can arbitrarily condition the generative step. By using Kolmogorov Arnold Networks (KANs), we demonstrate that ``univariate is all you need'' for symbolic regression, and extend this method to multivariate functions by learning the univariate function on each edge of a trained KAN. The combined expression is then simplified by further processing with a language model."
+arxiv: "2505.07956"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/harveyThomas4692/llmlex"
+publication-date:
+bib-tex: |
+  @article{harvey2025symbolicregressionmultimodallarge,
+      title={Symbolic Regression with Multimodal Large Language Models and Kolmogorov Arnold Networks},
+      author={Thomas R. Harvey and Fabian Ruehle and Cristofero S. Fraser-Taliente and James Halverson},
+      year={2025},
+      eprint={2505.07956},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.07956},
+  }

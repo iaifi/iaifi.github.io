@@ -6,7 +6,7 @@ abstract: "Diffusion models generate high-quality images but require dozens of f
 arxiv: "2311.18828"
 journal: "IEEE, 2024"
 doi: "https://doi.org/10.1109/CVPR52733.2024.00632"
-nsf-par:
+nsf-par: 10588322
 code: "https://tianweiy.github.io/dmd/"
 publication-date: 2024-09-16
 bib-tex: |

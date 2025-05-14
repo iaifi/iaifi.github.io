@@ -7,18 +7,18 @@ abstract: "Large language models (LLMs) have demonstrated an unprecedented abili
 arxiv: "2403.03154"
 journal: "Communications Physics, 2025, Volume 8, Article number 49"
 doi: "https://doi.org/10.1038/s42005-025-01956-y"
-nsf-par:
+nsf-par: 10588326
 code:
 publication-date: 2025-01-31
 bib-tex: |
   @article{Pan2025QuantumManyBodyPhysics,
   title={Quantum many-body physics calculations with large language models},
-  author={Haining Pan, Nayantara Mudur, William Taranto, Maria Tikhanovskaya, Subhashini Venugopalan, Yasaman Bahri, Michael P. Brenner & Eun-Ah Kim},
+  author={Haining Pan and Nayantara Mudur and William Taranto and Maria Tikhanovskaya and Subhashini Venugopalan and Yasaman Bahri and Michael P. Brenner and Eun-Ah Kim},
   year={2025},
   volume={8},
   url={https://doi.org/10.1038/s42005-025-01956-y},
   journal={Communications Physics},
   eprint={2403.03154},
   DOI={10.1038/s42005-025-01956-y},
-  archivePrefix={arXiv},
+  archivePrefix={arXiv}
   }
