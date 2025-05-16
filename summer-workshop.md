@@ -943,13 +943,16 @@ We have established discounted rates for August 10–August 16, 2025 at the foll
     Deadline to book: First come, first served
 
     To book, call 617-499-3399 and reference code 141315.
+    
 <!--
+
 Workshop attendees are also welcome to book dorms for a discounted rate at Harvard University: 
 * <b>Harvard University Dorms, 36 Oxford Street, Cambridge, MA 02138</b>
 
     $110 nightly rate (1 person per room only) 
 
     [Book now](https://buy.stripe.com/cN23dUdA37qD6CAdRa)
+
 -->
 
 ## FAQ 
