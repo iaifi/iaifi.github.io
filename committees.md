@@ -28,7 +28,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Accepting additional members
 * Develops educational materials for use in outreach activities, such as classroom visits, and brainstorms opportunities for outreach (including festivals, museum exhibits, etc)
 * Time Commitment: One-hour meeting every 3-4 weeks and time spent developing materials (on volunteer basis)
-* Current Public Engagement Committee: Lina Necib (Chair), Gaia Grosso, Ge Yang, Sangeon Park, Thomas Harvey, Jigyasa Nigam, Jonathan Blazek, Christian Ferko, Marisa LaFleur, Thomas Bradford
+* Current Public Engagement Committee: Lina Necib (Chair), Gaia Grosso, Thomas Harvey, Jigyasa Nigam, Jonathan Blazek, Christian Ferko, Marisa LaFleur, Thomas Bradford
 * Past Public Engagement Committee: Carlos Argüelles-Delgado, Brent Nelson, Harold Erbin, Tri Nguyen, Polina Abratenko, Sokratis Trifinopolous, Sneh Pandya
 * Primary Contact: [Email Lina Necib (Chair)](mailto:lnecib@mit.edu)
 
