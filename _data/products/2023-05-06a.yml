@@ -6,7 +6,7 @@ abstract: 'The high-energy physics community is investigating the feasibility of
 arxiv: "2305.04099"
 journal: EPJ Web of Conferences 2024, Volume 295
 doi: https://doi.org/10.1051/epjconf/202429509036
-nsf-par: "10525742"
+nsf-par:
 code: https://github.com/fastmachinelearning/hls4ml-tutorial
 publication-date: 2024-05-06
 bib-tex: |

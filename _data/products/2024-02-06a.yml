@@ -6,7 +6,7 @@ abstract: 'This paper presents the Learning the Universe Implicit Likelihood Inf
 arxiv: "2402.05137"
 journal: The Open Journal of Astrophysics, 2024, Volume 7
 doi: "https://doi.org/10.33232/001c.120559"
-nsf-par: "10526434"
+nsf-par:
 code: https://github.com/maho3/ltu-ili
 publication-date: 2024-07-03
 bib-tex: |
