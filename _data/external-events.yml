@@ -194,6 +194,30 @@
   calendar-link:
   
 - type: "external-event"
+  event-name: "Kempner Seminar Series: Large-Scale Brain Decoding – Taking Advantage of Diversity"
+  event-organizer: "The Kempner Institute"
+  more-info-link: "https://kempnerinstitute.harvard.edu/events/blake-richards/"
+  event-post-date: "2025-05-18"
+  start-date-time: "2025-05-23 14:30"
+  end-date-time: "2025-05-23 16:00"
+  talk-location: "SEC, Room LL2.224"
+  talk-zoom:
+  event-details: "Speaker: Blake Richards (Associate Professor at McGill University & CIFAR AI Chair at Mila)<br>Title: Large-Scale Brain Decoding – Taking Advantage of Diversity <br>Abstract: Decoding information from neural activity is important for many neuroscience applications, including basic research into sensorimotor processing, clinical diagnosis, and brain-computer interfaces. Brain data is too complex for traditional statistical techniques to provide much traction in decoding, though, and there is general agreement that deep learning approaches are necessary. However, deep learning requires large-scale datasets, which presents a challenge for neural data, because neural data is highly heterogeneous, with each recording involving different subjects, modalities, species, brain regions, stimuli, behaviour, and health states. How can we train a single model across such diverse data? Here, I will present new techniques that we have developed for training neural decoding models across diverse data. Using novel tokenization approaches, we show that we can build large-scale, transformer-based neural decoding models that can take advantage of diverse data coming from different subjects, stimuli/behaviour, brain regions, cell types, and even species. We show that our model improves as we add more diverse data, indicating that training a neural decoding model at scale is possible, as long as the system is designed to take advantage of the diversity in neural datasets."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "AstroAI Seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-05-18"
+  start-date-time: "2025-05-19 12:00"
+  end-date-time: "2025-05-19 13:00"
+  talk-location: "P-108A (Wolbach space), Center for Astrophysics, 60 Garden Street, Cambridge"
+  talk-zoom: "https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09"
+  event-details: "Speaker: Ana Sofia Uzsoy (Harvard)<br>Title: Bayesian Component Separation for DESI LAE Automated Spectroscopic Redshifts & Photometric Targeting <br>Abstract: Lyman Alpha Emitters (LAEs) are valuable high-redshift cosmological probes traditionally targeted with specialized narrow-band photometric surveys. In ground-based spectroscopy, it can be difficult to distinguish the sharp LAE peak from residual sky emission lines, leading to misclassified redshifts. We present a Bayesian spectral component separation technique to automatically determine spectroscopic redshifts for LAEs while marginalizing over sky residuals. We use visually inspected DESI (Dark Energy Spectroscopic Instrument) LAE targets to create a data-driven prior and can determine redshift by jointly inferring sky residual, LAE, and residual components for each individual spectrum. We demonstrate this method on 910 photometrically targeted z = 2-4 DESI LAE candidate spectra and determine their redshifts with >90% accuracy compared to visually inspected redshifts. Using the chi-squared value from our pipeline as a proxy for detection confidence, we then explore potential survey design choices and implications for targeting LAEs with medium-band photometry. This method allows for scalability and accuracy in determining spectroscopic redshifts in DESI and the results provide recommendations for LAE targeting in anticipation of future high-redshift spectroscopic surveys, such as DESI-2."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjF0bWVkZjVqb2ttaG1vczlrb25tdnZkc2cgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
   event-name: "Kempner Seminar Series: Rational Analysis of Language Models"
   event-organizer: "The Kempner Institute"
   more-info-link: "https://kempnerinstitute.harvard.edu/events/andrew-lampinen/"
