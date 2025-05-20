@@ -7,7 +7,7 @@ abstract: "A significant challenge in measurements of neutrino oscillations is r
 arxiv: "2406.10583"
 journal: "The European Physical Journal C, Volume 84, article number 1052, 2024"
 doi: "https://doi.org/10.1140/epjc/s10052-024-13423-z"
-nsf-par: 10556549
+nsf-par: "10556549"
 code:
 publication-date: 2024-10-14
 bib-tex: |
