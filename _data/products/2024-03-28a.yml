@@ -7,7 +7,7 @@ abstract: "We introduce methods for discovering and applying sparse feature circ
 arxiv: "2403.19647"
 journal: "ICLR 2025"
 doi: "https://openreview.net/forum?id=I4e82CIDxv"
-nsf-par:
+nsf-par: "10591596"
 code: "https://github.com/saprmarks/feature-circuits"
 publication-date: 2025-01-22
 bib-tex: |

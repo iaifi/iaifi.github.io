@@ -6,7 +6,7 @@ abstract: "The DeepCore sub-detector of the IceCube Neutrino Observatory provide
 arxiv: "2405.02163"
 journal: "Physical Review Letters, 134, 091801, 2025"
 doi: "https://doi.org/10.1103/PhysRevLett.134.091801"
-nsf-par:
+nsf-par: "10591597"
 code: 
 publication-date: 2025-03-07
 bib-tex: |
