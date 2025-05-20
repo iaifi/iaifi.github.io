@@ -4,6 +4,13 @@ title: Public Engagement
 aside:
   toc: true
 ---
+
+# USA AI Olympiad 2025
+
+<img src="images/USAAIO-panel.jpeg" align="right" style="max-width:1200px;width:50%" hspace="10" vspace="10"> 
+On April 27, the [USA Artificial Intelligence Olympiad (USAAIO)](http://www.usaaio.org/) held the second round of its USA-North America competition at MIT Schwarzman College of Computing, bringing together nearly 80 of the brightest high school students from the United States and Canada. The event rigorously assessed participants' comprehensive skills in artificial intelligence, encompassing mathematical reasoning, practical coding abilities, and interdisciplinary understanding of AI applications. Twelve top scorers from Round 2 were invited to participate in the intensive, week-long USAAIO training camp. IAIFI helped to host the event, including coordinating a career panel of postdocs working at the intersection of AI and Science to discuss their experience using AI in their research, as well as offer career advice. 
+
+
 # Cambridge Science Festival 2024
 
 [<img src="images/CSF24-logo.png" align="center" style="max-width:2601px;width:10%" hspace="10" vspace="10">](https://cambridgesciencefestival.org)
