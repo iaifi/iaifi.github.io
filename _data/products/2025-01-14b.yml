@@ -11,7 +11,7 @@ nsf-par:
 code:
 publication-date: 2025-01-01
 bib-tex: |
-  @@article{Jacobson-Gal√°n_2025,
+ @article{Jacobson-Galan_2025,
   doi = {10.3847/2515-5172/ada367},
   url = {https://dx.doi.org/10.3847/2515-5172/ada367},
   year = {2025},
@@ -20,10 +20,9 @@ bib-tex: |
   volume = {9},
   number = {1},
   pages = {5},
-  author = {Jacobson-Gal√°n, W. V. and Gonzalez, S. and Patel, S. and Dessart, L. and Jones, D. O. and Coppejans, D. L. and Dimitriadis, G. and Foley, R. J. and Kilpatrick, C. D. and Matthews, D. J. and Rest, S. and Terreran, G. and Aleo, P. D. and Auchettl, K. and Blanchard, P. K. and Coulter, D. A. and Davis, K. W. and de Boer, T. J. L. and DeMarchi, L. and Drout, M. R. and Earl, N. and Gagliano, A. and Gall, C. and Hjorth, J. and Huber, M. E. and Ibik, A. L. and Milisavljevic, D. and Pan, Y.-C. and Rest, A. and Ridden-Harper, R. and Rojas-Bravo, C. and Siebert, M. R. and Smith, K. W. and Taggart, K. and Tinyanont, S. and Wang, Q. and Zenati, Y.},
+  author = {Jacobson-Galan, W. V. and Gonzalez, S. and Patel, S. and Dessart, L. and Jones, D. O. and Coppejans, D. L. and Dimitriadis, G. and Foley, R. J. and Kilpatrick, C. D. and Matthews, D. J. and Rest, S. and Terreran, G. and Aleo, P. D. and Auchettl, K. and Blanchard, P. K. and Coulter, D. A. and Davis, K. W. and de Boer, T. J. L. and DeMarchi, L. and Drout, M. R. and Earl, N. and Gagliano, A. and Gall, C. and Hjorth, J. and Huber, M. E. and Ibik, A. L. and Milisavljevic, D. and Pan, Y.-C. and Rest, A. and Ridden-Harper, R. and Rojas-Bravo, C. and Siebert, M. R. and Smith, K. W. and Taggart, K. and Tinyanont, S. and Wang, Q. and Zenati, Y.},
   title = {An Updated Detection Pipeline for Precursor Emission in Type II Supernova 2020tlf},
   journal = {Research Notes of the AAS},
-  abstract = {We present a new photometric pipeline for the detection of pre-supernova (pre-SN) emission in the Young Supernova Experiment (YSE) sky survey. The method described is applied to SN 2020tlf, a type II SN with precursor emission in the last ~100‚Äâdays before first light. We re-analyze the YSE griz-band light curves of SN 2020tlf and provide revised pre-explosion photometry that includes a robust list of confident detection and limiting magnitudes. Compared to the results of W. V. Jacobson-Gal√°n et al., this new analysis yields fewer total r/i/z-band pre-SN detections at phases &gt;‚àí100‚Äâdays. Furthermore, we discourage the use of the blackbody modeling of the pre-explosion spectral energy distribution, the pre-SN bolometric light curve and the blackbody model parameters presented in W. V. Jacobson-Gal√°n et al. Nevertheless, binned photometry of SN 2020tlf confirms a consistent progenitor luminosity of ~1040‚Äâerg‚Äâs‚àí1 before explosion.}
   eprint={2501.08475},
   archivePrefix={arXiv}
-  }
+ }
