@@ -13,7 +13,7 @@ publication-date: 2025-01-22
 bib-tex: |
   @article{Duggal2025AdaptiveLength,
   title={Adaptive Length Image Tokenization via Recurrent Allocation},
-  author={Shivam Duggal, Phillip Isola, Antonio Torralba, William T. Freeman},
+  author={Duggal, Shivam  and Isola, Phillip and Torralba, Antonio and Freeman, William T.},
   year={2025},
   volume={},
   url={https://openreview.net/forum?id=mb2ryuZ3wz},

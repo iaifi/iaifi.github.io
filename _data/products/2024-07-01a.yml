@@ -10,7 +10,7 @@ nsf-par: 10570062
 code:
 publication-date: 2024-12-12
 bib-tex: |
-  @article{JHEP12(2024)093,
+  @article{grosso2024-anomaly,
   title = {Anomaly-aware summary statistic from data batches},
   author = {Gaia Grosso},
   journal = {Journal of High Energy Physics},

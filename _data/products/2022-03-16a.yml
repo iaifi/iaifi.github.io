@@ -13,7 +13,7 @@ publication-date: 2022-01-28
 bib-tex: |
   @article{Hamilton2022UnsupervisedSemantic,
   title={Unsupervised Semantic Segmentation by Distilling Feature CorrespondencesDownload PDF},
-  author={Mark Hamilton, Zhoutong Zhang, Bharath Hariharan, Noah Snavely, William T. Freeman},
+  author={Hamilton, Mark and Zhang, Zhoutong and Hariharan, Bharath and Snavely, Noah and Freeman, William T.},
   year={2022},
   volume={},
   url={https://openreview.net/forum?id=SaKO6z6Hl0c},

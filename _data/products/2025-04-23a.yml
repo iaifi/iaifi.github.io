@@ -13,7 +13,7 @@ publication-date: 2025-01-22
 bib-tex: |
   @article{Alshammari2025ICon,
   title={I-Con: A Unifying Framework for Representation Learning},
-  author={Shaden Alshammari, John Hershey, Axel Feldmann, William T. Freeman, Mark Hamilton},
+  author={Alshammari, Shaden and Hershey, John and Feldmann, Axel  and Freeman, William T. and Hamilton, Mark},
   year={2025},
   volume={},
   url={https://openreview.net/forum?id=WfaQrKCr4X},
