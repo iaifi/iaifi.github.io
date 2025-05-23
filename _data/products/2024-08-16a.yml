@@ -1,21 +1,29 @@
 type: paper
 iaifi-thrust: E
-title: "Enhancing Events in Neutrino Telescopes through Deep Learning-Driven Super-Resolution"
+arxiv-date: 2024-08-16
+title: "Enhancing events in neutrino telescopes through deep-learning-driven superresolution"
 authors: "Felix J. Yu, Nicholas Kamp, Carlos A. Argüelles"
 abstract: "Recent discoveries by neutrino telescopes, such as the IceCube Neutrino Observatory, relied extensively on machine learning (ML) tools to infer physical quantities from the raw photon hits detected. Neutrino telescope reconstruction algorithms are limited by the sparse sampling of photons by the optical modules due to the relatively large spacing (10−100m) between them. In this letter, we propose a novel technique that learns photon transport through the detector medium through the use of deep learning-driven super-resolution of data events. These ``improved'' events can then be reconstructed using traditional or ML techniques, resulting in improved resolution. Our strategy arranges additional ``virtual'' optical modules within an existing detector geometry and trains a convolutional neural network to predict the hits on these virtual optical modules. We show that this technique improves the angular reconstruction of muons in a generic ice-based neutrino telescope. Our results readily extend to water-based neutrino telescopes and other event morphologies."
 arxiv: "2408.08474"
-journal:
-doi:
-nsf-par:
+journal: "Physical Review D, 2025, Volume 111, Issue 4"
+doi: "https://doi.org/10.1103/PhysRevD.111.L041301"
+nsf-par: "10592307"
 code: "https://github.com/felixyu7/nt_mlreco"
-publication-date:
+publication-date: 2025-02-05
 bib-tex: |
-  @article{yu2024enhancingeventsneutrinotelescopes,
-      title={Enhancing Events in Neutrino Telescopes through Deep Learning-Driven Super-Resolution},
-      author={Felix J. Yu and Nicholas Kamp and Carlos A. Argüelles},
-      year={2024},
-      eprint={2408.08474},
-      archivePrefix={arXiv},
-      primaryClass={hep-ex},
-      url={https://arxiv.org/abs/2408.08474},
+  @article{PhysRevD.111.L041301,
+  title = {Enhancing events in neutrino telescopes through deep-learning-driven superresolution},
+  author = {Yu, Felix J. and Kamp, Nicholas and Arg\""uelles, Carlos A.},
+  journal = {Phys. Rev. D},
+  volume = {111},
+  issue = {4},
+  pages = {L041301},
+  numpages = {6},
+  year = {2025},
+  month = {Feb},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.111.L041301},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.111.L041301},
+  eprint={2408.08474},
+  archivePrefix={arXiv},
   }

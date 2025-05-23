@@ -1,0 +1,26 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-03-13
+title: "Maximizing Quadruped Velocity by Minimizing Energy"
+authors: "Srinath Mahankali, Chi-Chang Lee, Gabriel B. Margolis, Zhang-Wei Hong, Pulkit Agrawal"
+abstract: "Reinforcement Learning (RL) has been a powerful tool for training robots to acquire agile locomotion skills. To learn locomotion, it is commonly necessary to introduce additional reward-shaping terms, such as an energy minimization term, to guide an algorithm like Proximal Policy Optimization (PPO) to good performance. Prior works rely on hyper-parameter tuning on the weight of the reward shaping terms to obtain satisfactory task performance. To save the efforts of tuning these weights, we adopt the Extrinsic-Intrinsic Policy Optimization (EIPO) framework. The key idea of EIPO is to establish a constrained optimization framework for the primary objective of enhancing task performance and the secondary objective of minimizing energy consumption. It seeks a policy that minimizes the energy consumption objective within the optimal policy space for task performance. This guarantees that the learned policy excels in task performance while conserving energy, all without requiring manual weight adjustments for both objectives. Our experiments evaluate EIPO on various quadruped locomotion tasks, revealing that policies trained with EIPO consistently achieve higher task performance than PPO comparisons while maintaining comparable energy consumption levels. Furthermore, EIPO exhibits superior task performance in real-world evaluations compared to PPO."
+arxiv:
+journal: "2024 IEEE International Conference on Robotics and Automation"
+doi: "https://doi.org/10.1109/ICRA57147.2024.10609983"
+nsf-par: "10592303"
+code:
+publication-date: 2024-03-13
+bib-tex: |
+  @INPROCEEDINGS{10609983,
+  author={Mahankali, Srinath and Lee, Chi-Chang and Margolis, Gabriel B. and Hong, Zhang-Wei and Agrawal, Pulkit},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+  title={Maximizing Quadruped Velocity by Minimizing Energy},
+  year={2024},
+  volume={},
+  number={},
+  pages={11467-11473},
+  keywords={Training;Energy consumption;Reinforcement learning;Manuals;Minimization;Quadrupedal robots;Task analysis},
+  doi={10.1109/ICRA57147.2024.10609983},
+  eprint={},
+  archivePrefix={arXiv},
+  }

@@ -220,6 +220,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
   
+  ***IAIFI Fellow Michael Albergo and Affiliate Tommi Jaakkola awarded the Best Paper Award at the [Frontiers of Probabilistic Inference](https://sites.google.com/view/fpiworkshop/) workshop, ICLR 2025***. Read the paper on [Openreview](https://openreview.net/forum?id=LBFyCSqwt2). *April 28, 2025*
+  {:.info}
+  
    ***IAIFI Fellow Jessie Micallef featured by the MIT School of Science***. Read about Jessie's' work in ["New perspectives on old questions: AI meets particle physics"](https://science.mit.edu/new-perspectives-on-old-questions-ai-meets-particle-physics/). *December 19, 2024*
   {:.info}
  

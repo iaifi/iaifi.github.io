@@ -24,7 +24,7 @@ bib-tex: |
   month = {Jan},
   publisher = {American Physical Society},
   doi = {10.1103/PhysRevLett.134.011903},
-  url = {https://link.aps.org/doi/10.1103/PhysRevLett.134.011903},,
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.134.011903},
   eprint={2406.09273},
   archivePrefix={arXiv},
   }

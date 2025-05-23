@@ -1,0 +1,24 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-11-04
+title: "Adaptive Length Image Tokenization via Recurrent Allocation"
+authors: "Shivam Duggal, Phillip Isola, Antonio Torralba, William T. Freeman"
+abstract: "Current vision systems typically assign fixed-length representations to images, regardless of the information content. This contrasts with human intelligence - and even large language models - which allocate varying representational capacities based on entropy, context and familiarity. Inspired by this, we propose an approach to learn variable-length token representations for 2D images. Our encoder-decoder architecture recursively processes 2D image tokens, distilling them into 1D latent tokens over multiple iterations of recurrent rollouts. Each iteration refines the 2D tokens, updates the existing 1D latent tokens, and adaptively increases representational capacity by adding new tokens. This enables compression of images into a variable number of tokens, ranging from 32 to 256. We validate our tokenizer using reconstruction loss and FID metrics, demonstrating that token count aligns with image entropy, familiarity and downstream task requirements. Recurrent token processing with increasing representational capacity in each iteration shows signs of token specialization, revealing potential for object / part discovery."
+arxiv: "2411.02393"
+journal: "ICLR 2025"
+doi: "https://openreview.net/forum?id=mb2ryuZ3wz"
+nsf-par: "10592309"
+code: "https://github.com/ShivamDuggal4/adaptive-length-tokenizer"
+publication-date: 2025-01-22
+bib-tex: |
+  @article{Duggal2025AdaptiveLength,
+  title={Adaptive Length Image Tokenization via Recurrent Allocation},
+  author={Duggal, Shivam  and Isola, Phillip and Torralba, Antonio and Freeman, William T.},
+  year={2025},
+  volume={},
+  url={https://openreview.net/forum?id=mb2ryuZ3wz},
+  journal={Open Review},
+  eprint={2411.02393},
+  DOI={},
+  archivePrefix={arXiv},
+  }

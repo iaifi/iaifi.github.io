@@ -11,7 +11,7 @@ nsf-par: 10570059
 code:
 publication-date: 2024-11-26
 bib-tex: |
-  @article{JHEP11(2024)149,
+  @article{Ruehle2024-bounds,
    title = {Bounds and dualities of Type II Little String Theories},
    author = {Baume, Florent and Oehlmann, Paul-Konstantin and Ruehle, Fabian},
    journal = {Journal of High Energy Physics},
