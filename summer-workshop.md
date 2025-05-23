@@ -701,6 +701,17 @@ Speakers will be announced as they are confirmed.
          </div>
        </div>
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-yasaman-bahri.jpg" alt="Amy Zhang" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://sites.google.com/view/yasamanbahri/home">Yasaman Bahri</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Google DeepMind </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-petros-boufounos.jpg" alt="Petros Boufounos" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
