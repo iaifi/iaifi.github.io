@@ -71,6 +71,33 @@
   event-details: "Redesign (CNTR) is launching an AI Policy Summer School from Tuesday, July 22nd, through Thursday, July 31st, 2025. This summer school will take place in person in both Providence, RI and Washington, DC. The goals of this summer school are to: (1) Enable graduate students to conduct high-quality policy-informed AI research, (2) Empower students to advocate for new AI policies or changes to existing policy, and (3) Build a pipeline of qualified technologists to fill emerging needs in government."
   calendar-link:
   
+- type: "external-event"
+  event-name: "TPC25"
+  event-organizer: "The Trillion Parameter Consortium"
+  more-info-link: "https://tpc25.org/"
+  event-post-date: "2025-05-25"
+  start-date-time: "2025-07-28 9:00"
+  end-date-time: "2025-07-31 17:00"
+  talk-location: "San Jose, California"
+  talk-zoom:
+  event-details: "TPC25 will convene AI leaders globally from industry, academia, and national laboratories to explore collaboration across these sectors and internationally, with the goal of accelerating advances in AI to responsibly and safely address today’s scientific and engineering grand challenges. The theme for TPC25 is to explore and pursue collaborations between industry and public sector AI research — national laboratories, universities, and institutes — including those building and utilizing AI capabilities, infrastructure, and applications."
+  calendar-link:
+  
+  
+  
+- type: "external-workshop"
+  event-name: "Call for Papers: AI for Astrophysics Workshop co-located at ICML 2025"
+  event-organizer: "Carol Cuesta-Lazaro (IAIFI Fellow), Alex Gagliano (IAIFI Fellow), Ashley Villar (IAIFI Senior Investigator), and the rest of the Organizing Committee"
+  more-info-link: "https://ml4astro.github.io/icml2025/"
+  event-post-date: "2025-05-25"
+  start-date-time: "2025-07-20 9:00"
+  end-date-time: "2025-07-20 17:00"
+  talk-location: "ICML 2025, Vancouver, Canada"
+  talk-zoom:
+  event-details: "We invite submissions to the AI for Astrophysics Workshop co-located at ICML 2025.<br><br>Contemporary and upcoming surveys are producing petabytes of multimodal, heterogeneous data — imaging billions of galaxies, mapping large-scale structures through spectroscopy, and discovering diverse transient phenomena in real time. In parallel, simulations are modeling complex physical systems at increasing resolution and fidelity. These settings demand models that are robust, interpretable, sample-efficient, and physically grounded. This workshop aims to connect the ML and astrophysics communities to drive methodological innovations toward real-world scientific impact.<br><br>We particularly welcome submissions in (but not limited to) the following areas:<br>* Foundation models and representation learning<br>* Integration of LLMs and autonomous agents in scientific workflows<br>* Efficient simulation-based inference and likelihood-free methods in high-dimensional settings<br>* Robustness to dataset shift and model misspecification<br>* ML for detecting anomalies, rare signals, and novel phenomena<br>* Methods for model interpretability<br>* Equivariance-preserving and physics-informed architectures<br>* Accelerated and differentiable simulations using deep learning<br>* Benchmark datasets aligned with any of the above themes<br><br>Submissions are due by <b>June 9th, anywhere on Earth</b>. Guidelines and event details can be found at the conference website (ml4astro.github.io/icml2025), and questions can be directed to ml4astro2025@gmail.com. We look forward to your contributions!<br><br><i>The Organizing Committee</i><br>Carol Cuesta-Lazaro, IAIFI<br>Alex Gagliano, IAIFI<br>Marc Huertas-Company, IAC<br>Francois Lanusse, CNRS / CEA Paris-Saclay<br>Jess McIver, UBC<br>Laurence Perreault-Levasseur, University of Montreal<br>Ashley Villar, Harvard<br>Francisco Villaescusa-Navarro, Simons Foundation"
+  registration-deadline: 2025-04-15
+  calendar-link:
+  
 - type: "external-workshop"
   event-name: "AstroAI Workshop - Unveiling the Universe with AI/ML"
   event-organizer: "AstroAI"
