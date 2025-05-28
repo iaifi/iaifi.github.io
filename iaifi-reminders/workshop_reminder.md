@@ -15,15 +15,9 @@ show_title: false
 
 ## Submit a Talk or Poster for the 2025 IAIFI Summer Workshop
 
-We are [accepting submissions for contributed talks and posters](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d) at the IAIFI Summer Workshop. The deadline to submit contributed talks and posters is June 1, 2025. 
+We are [accepting submissions for contributed talks and posters](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d) at the IAIFI Summer Workshop. **The deadline to submit contributed talks and posters is June 1, 2025.**
 
 [Submit a Talk or Poster](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d){:.button.button--outline-primary.button--pill.button--lg}
-
-## Summer Workshop Speakers Announced
-
-We are happy to share our lineup of 2025 Summer Workshop plenary speakers, including experts from across AI, theoretical physics, experimental physics, and astrophysics.  
-
-[View Speakers](https://iaifi.org/summer-workshop.html#speakers){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Summer Workshop 2025 Details
 
