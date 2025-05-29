@@ -7,21 +7,30 @@ show_title: false
 --- 
 
 <!--To do:
-- Add all content (in progress) - Drafted
-- Add buttons to lead to different sections of the email - Drafted
-- Add images and header
-- Test every hyperlink
+- Add all content (in progress) - Complete
+- Add buttons to lead to different sections of the email - Complete
+- Test every hyperlink - in progress
+- Add images and header - in progress
+- Try imbedding research highlights
+- Add a "view in browser" option?
 -->
+<p align="center">
+<img src="https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
+</p>
 
 # Spring 2025 Wrap-Up
 
-[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm} [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm}[Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm}
+[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm} [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm}
 
 ## News from IAIFI Management
 
 Thank you to everyone who attended our events this Spring and otherwise engaged with IAIFI on our research and activities at the intersection of AI and Physics! We have summarized some highlights and information from IAIFI for Spring 2025. Please feel free to reach out to us with questions or comments about any of the below. Best wishes for a safe and pleasant Summer!
 
 ## IAIFI Opportunities
+
+<p align="center">
+<img src="https://iaifi.org/images/summer-workshop-logo_2025.png" align="center" style="max-width:5990px;width:80%" hspace="10" vspace="10"> 
+</p>
 
 ### IAIFI Summer Workshop
 
@@ -57,7 +66,7 @@ IAIFI shares monthly research highlights with the NSF. View Spring 2025's resear
 
 [View all Research Highlights](https://iaifi.org/research.html#highlights){:.button.button--outline-primary.button--pill.button--sm}
 
-## IAIFI Research on ArXiv
+## IAIFI Research on arXiv
 
 Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, the papers are grouped by the four IAIFI research domains. 
 
@@ -123,24 +132,32 @@ Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, th
 
 ## Join IAIFI
 
-*Visit [our website](https://iaifi.org/) for more ways to engage with IAIFI.*
+*Visit [IAIFI's website](https://iaifi.org/) for more ways to engage with the community.*
 
 ### Senior Researchers in the Boston Area
 Senior Researchers include faculty members and senior research scientists with PI status. If you are interested in becoming an IAIFI Affiliate, complete the [IAIFI Affiliate application form](https://app.smartsheet.com/b/form/b73212d8895c4436a947b2dfdd999da3). Affiliate applications must include a [Senior Investigator](https://iaifi.org/people.html#senior-investigators) sponsor.
 
-[Details for Senior Researchers](https://iaifi.org/senior-researchers.html){:.button.button--outline-primary.button--pill.button--sm}
+[Details for Senior Researchers](https://iaifi.org/join.html#facultysenior-researchers){:.button.button--outline-primary.button--pill.button--sm}
 
 ### Junior Researchers in the Boston Area
 Junior Researchers include undergraduate students, graduate students, postdocs, and research scientists without PI status. If you are interested in getting more involved in IAIFI as a junior researcher, complete the [Junior Researcher Interest Form](https://iaifi.org/junior-interest.html). 
 
 [Details for Junior Researchers](https://iaifi.org/junior-researchers.html){:.button.button--outline-primary.button--pill.button--sm}
 
+<p align="center">
+<img src="https://iaifi.org/images/WrapUp_Spring2025_SplitPhoto.png" align="center" style="max-width:5990px;width:40%" hspace="10" vspace="10"> 
+</p>
+
 ## In Case You Missed It
 
 ### USA AI Olympiad (USAAIO)
 **April 27, 2025**
 
-IAIFI helped host Round 2 of the USA AI Olympiad (USAAIO), where highschoolers competed for a spot in the international Olympiad. Some of IAIFI's postdocs (Alex Gagliano, Jigyasa Nigam, and Christian Ferko) participated in a Career Panel to share their experiences working on AI+Physics!
+IAIFI helped host Round 2 of the USA AI Olympiad (USAAIO), where highschoolers competed for a spot in the international Olympiad. Some of IAIFI's postdocs (Christian Ferko, Jigyasa Nigam, and Alex Gagliano) participated in a Career Panel to share their experiences working on AI+Physics!
+
+<p align="center">
+<img src="https://iaifi.org/images/USAAIO-panel.jpeg" align="center" style="max-width:5990px;width:40%" hspace="10" vspace="10"> 
+</p>
 
 ### IAIFI Research Panel on the 2024 Nobel Prize in Physics
 **March 14, 2025**
@@ -149,14 +166,15 @@ The 2024 Nobel Prize in Physics recognized John Hopfield and Geoffrey Hinton for
 
 [View Slides](https://www.dropbox.com/scl/fo/tkud52zl2uiln8gkico4d/AGL6H1JB2X-Q9TxCFNtmimo?rlkey=kihkt0ud82h4dg3mlo18wmts5&st=g0n58zlk&dl=0){:.button.button--outline-primary.button--pill.button--sm} [View Recording](https://www.youtube.com/live/1g-6XeUCmb8?feature=shared){:.button.button--outline-primary.button--pill.button--sm}
 
-[Learn more about IAIFI public engagement activities](https://iaifi.org/outreach.html){:.button.button--outline-primary.button--pill.button--sm}
+[Learn More about IAIFI Public Engagement Activities](https://iaifi.org/outreach.html){:.button.button--outline-primary.button--pill.button--sm}
 
 ### IAIFI News
-**Spring 2025**
 
-- IAIFI Fellow Michael Albergo and Affiliate Tommi Jaakkola awarded the Best Paper Award at the [Frontiers of Probabilistic Inference workshop](https://sites.google.com/view/fpiworkshop/), ICLR 2025. Read the paper on [OpenReview](https://openreview.net/forum?id=LBFyCSqwt2). April 28, 2025
+- **IAIFI Fellow Michael Albergo and Affiliate Tommi Jaakkola awarded the Best Paper Award at the [Frontiers of Probabilistic Inference workshop](https://sites.google.com/view/fpiworkshop/), ICLR 2025.** Read the paper on [OpenReview](https://openreview.net/forum?id=LBFyCSqwt2). *April 28, 2025*
 
-- IAIFI Fellow Jessie Micallef featured by the MIT School of Science. Read about Jessie’s’ work in “[New perspectives on old questions: AI meets particle physics](https://science.mit.edu/new-perspectives-on-old-questions-ai-meets-particle-physics/)”. December 19, 2024
+- **IAIFI Fellow Jessie Micallef featured by the MIT School of Science.** Read about Jessie’s’ work in “[New perspectives on old questions: AI meets particle physics](https://science.mit.edu/new-perspectives-on-old-questions-ai-meets-particle-physics/).” *December 19, 2024*
+
+- **MIT releases impact paper by IAIFI Senior Investigators Phil Harris and Phiala Shanahan, IAIFI Fellow Gaia Grosso, and former IAIFI Fellow Siddharth Mishra-Sharma on generative AI in the physical sciences.** Read “[A Virtuous Cycle: Generative AI and Discovery in the Physical Sciences](https://mit-genai.pubpub.org/pub/ewp5ckmf/release/2?readingCollection=6d8d7700)." *September 18, 2024*
 
 [View all IAIFI News](https://iaifi.org/#iaifi-news){:.button.button--outline-primary.button--pill.button--sm}
 
