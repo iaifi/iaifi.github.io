@@ -10,9 +10,13 @@ show_title: false
 - Add all content (in progress) - Complete
 - Add buttons to lead to different sections of the email - Complete
 - Test every hyperlink - in progress
-- Add images and header
+- Add images and header - in progress
 - Try imbedding research highlights
+- Add a "view in browser" option?
 -->
+<p align="center">
+<img src="https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
+</p>
 
 # Spring 2025 Wrap-Up
 
@@ -23,6 +27,10 @@ show_title: false
 Thank you to everyone who attended our events this Spring and otherwise engaged with IAIFI on our research and activities at the intersection of AI and Physics! We have summarized some highlights and information from IAIFI for Spring 2025. Please feel free to reach out to us with questions or comments about any of the below. Best wishes for a safe and pleasant Summer!
 
 ## IAIFI Opportunities
+
+<p align="center">
+<img src="https://iaifi.org/images/summer-workshop-logo_2025.png" align="center" style="max-width:5990px;width:80%" hspace="10" vspace="10"> 
+</p>
 
 ### IAIFI Summer Workshop
 
@@ -58,7 +66,7 @@ IAIFI shares monthly research highlights with the NSF. View Spring 2025's resear
 
 [View all Research Highlights](https://iaifi.org/research.html#highlights){:.button.button--outline-primary.button--pill.button--sm}
 
-## IAIFI Research on ArXiv
+## IAIFI Research on arXiv
 
 Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, the papers are grouped by the four IAIFI research domains. 
 
@@ -136,16 +144,20 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 
 [Details for Junior Researchers](https://iaifi.org/junior-researchers.html){:.button.button--outline-primary.button--pill.button--sm}
 
+<p align="center">
+<img src="https://iaifi.org/images/WrapUp_Spring2025_SplitPhoto.png" align="center" style="max-width:5990px;width:40%" hspace="10" vspace="10"> 
+</p>
+
 ## In Case You Missed It
 
 ### USA AI Olympiad (USAAIO)
 **April 27, 2025**
 
-<br>
-<img src="images/test.jpeg" align="center" style="max-width:2601px;width:10%" hspace="10" vspace="10"> 
-<br>
+IAIFI helped host Round 2 of the USA AI Olympiad (USAAIO), where highschoolers competed for a spot in the international Olympiad. Some of IAIFI's postdocs (Christian Ferko, Jigyasa Nigam, and Alex Gagliano) participated in a Career Panel to share their experiences working on AI+Physics!
 
-IAIFI helped host Round 2 of the USA AI Olympiad (USAAIO), where highschoolers competed for a spot in the international Olympiad. Some of IAIFI's postdocs (Alex Gagliano, Jigyasa Nigam, and Christian Ferko) participated in a Career Panel to share their experiences working on AI+Physics!
+<p align="center">
+<img src="https://iaifi.org/images/USAAIO-panel.jpeg" align="center" style="max-width:5990px;width:40%" hspace="10" vspace="10"> 
+</p>
 
 ### IAIFI Research Panel on the 2024 Nobel Prize in Physics
 **March 14, 2025**
