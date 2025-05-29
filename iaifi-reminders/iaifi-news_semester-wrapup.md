@@ -9,16 +9,17 @@ show_title: false
 <!--To do:
 - Add all content (in progress) - Complete
 - Add buttons to lead to different sections of the email - Complete
+- Add images and header - complete
+- Try imbedding research highlights - cancelled
+- Add a "view in browser" option? - cancelled
 - Test every hyperlink - in progress
-- Add images and header - in progress
-- Try imbedding research highlights
-- Add a "view in browser" option?
+- Marisa's final edits
 -->
 <p align="center">
 <img src="https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 </p>
 
-# Spring 2025 Wrap-Up
+# IAIFI Spring 2025 Wrap-Up
 
 [IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm} [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm}
 
@@ -28,9 +29,7 @@ Thank you to everyone who attended our events this Spring and otherwise engaged 
 
 ## IAIFI Opportunities
 
-<p align="center">
-<img src="https://iaifi.org/images/summer-workshop-logo_2025.png" align="center" style="max-width:5990px;width:80%" hspace="10" vspace="10"> 
-</p>
+<img src="https://iaifi.org/images/summer-workshop-logo_2025.png" align="center" style="float: right;max-width:5990px;width:50%" hspace="10" vspace="10"> 
 
 ### IAIFI Summer Workshop
 
@@ -41,23 +40,25 @@ Register for our [2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX
 - The registration fee is $200 for in-person attendance. 
 - Registration includes attendance for 5 days, a welcome dinner, and coffee and snack breaks.
 - Virtual attendance will not be provided, but recordings from the workshop will be posted on [IAIFI's YouTube channel](https://iaifi.org/summer-workshop.html#speakers). 
+- **The deadline to submit contributed talks or posters for consideration is Sunday, June 1, 2025. [Submit here](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d).** 
+
 
 **Summer Workshop Details:**
 - When: August 11–August 15, 2025
 - Where: Harvard University (Cambridge, MA)
 - What: [View the full list of plenary speakers](https://iaifi.org/summer-workshop.html#speakers)
-- The deadline to submit contributed talks or posters for consideration is **Sunday, June 1, 2025**. [Submit here](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d). 
 
 
 ## IAIFI Colloquium Series
 
-Thank you to our speakers for this term: [Sam Bright-Thonney](https://inspirehep.net/authors/1706736), [Daniel Whiteson](https://sites.uci.edu/daniel/), [Akshunna Dogra](https://inspirehep.net/authors/2192158), [J. Nathan Kutz](https://faculty.washington.edu/kutz/), and [Joshua Bloom](https://joshbloom.org/)!
+Thank you to our speakers for this term: [Sam Bright-Thonney](https://inspirehep.net/authors/1706736), [Daniel Whiteson](https://sites.uci.edu/daniel/), [Akshunna Dogra](https://inspirehep.net/authors/2192158), [J. Nathan Kutz](https://faculty.washington.edu/kutz/), and [Joshua Bloom](https://joshbloom.org/)! 
 
-The IAIFI Colloquium series will continue in Fall 2025. In the meantime, you can catch up on our previous colloquia on [our YouTube channel](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared).
+
+The IAIFI Colloquium series will continue in Fall 2025. If you missed any of this semester's colloquia, you can watch recordings of all [Spring 2025 colloquia](https://youtube.com/playlist?list=PLBY0ED2StbGb7VsUi73x6Dp4vkHT0LQ1k&feature=shared) on our YouTube channel, as well as [recordings from previous semesters](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared).
 
 ## IAIFI Research Highlights
 
-IAIFI shares monthly research highlights with the NSF. View Spring 2025's research highlights below!
+Each month, IAIFI posts a research highlight on our website, showcasing the innovative work of IAIFI investigators. View Spring 2025's research highlights below!
 
 - [Denoising Hamiltonian Network for Physical Reasoning](https://iaifi.org/research.html#denoising-hamiltonian-network-for-physical-reasoning)
 - [Generative Modeling for Mathematical Discovery](https://iaifi.org/research.html#generative-modeling-for-mathematical-discovery)
@@ -145,36 +146,42 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 [Details for Junior Researchers](https://iaifi.org/junior-researchers.html){:.button.button--outline-primary.button--pill.button--sm}
 
 <p align="center">
-<img src="https://iaifi.org/images/WrapUp_Spring2025_SplitPhoto.png" align="center" style="max-width:5990px;width:80%" hspace="10" vspace="10"> 
+<img src="https://iaifi.org/images/WrapUp_Spring2025_SplitPhoto_Update01.png" align="center" style="max-width:5990px;width:80%" hspace="10" vspace="10"> 
 </p>
+
+*IAIFI members participate in a variety of events throughout the semester, including thematic discussions, journal clubs, and networking events.*
 
 ## In Case You Missed It
 
 ### USA AI Olympiad (USAAIO)
 **April 27, 2025**
 
+<img src="https://iaifi.org/images/USAAIO-panel.jpeg" align="center" style="float: right; max-width:5990px;width:40%" hspace="10" vspace="10"> 
+
 IAIFI helped host Round 2 of the USA AI Olympiad (USAAIO), where highschoolers competed for a spot in the international Olympiad. Some of IAIFI's postdocs (Christian Ferko, Jigyasa Nigam, and Alex Gagliano) participated in a Career Panel to share their experiences working on AI+Physics!
 
-<p align="center">
-<img src="https://iaifi.org/images/USAAIO-panel.jpeg" align="center" style="max-width:5990px;width:40%" hspace="10" vspace="10"> 
-</p>
+<br><br><br><br><br><br>
 
 ### IAIFI Research Panel on the 2024 Nobel Prize in Physics
 **March 14, 2025**
+
+<img src="https://iaifi.org/images/InfiniteDisplay-PowerPoint_NobelPrize-Panel.png" align="center" style="float: right; max-width:5990px;width:40%" hspace="10" vspace="10"> 
 
 The 2024 Nobel Prize in Physics recognized John Hopfield and Geoffrey Hinton for their development of foundational and physics-inspired machine learning frameworks (the Hopfield network and the Boltzmann machine, respectively). Following IAIFI's' fireside chat discussing the historical significance of the award in Fall 2024, IAIFI hosted a panel discussion that will dive deeper into the impact of Hopfield and Hinton’s work, and more broadly of physics insights, on interdisciplinary research tackling the understanding of artificial and biological intelligent systems. 
 
 [View Slides](https://www.dropbox.com/scl/fo/tkud52zl2uiln8gkico4d/AGL6H1JB2X-Q9TxCFNtmimo?rlkey=kihkt0ud82h4dg3mlo18wmts5&st=g0n58zlk&dl=0){:.button.button--outline-primary.button--pill.button--sm} [View Recording](https://www.youtube.com/live/1g-6XeUCmb8?feature=shared){:.button.button--outline-primary.button--pill.button--sm}
 
+<br>
+
 [Learn More about IAIFI Public Engagement Activities](https://iaifi.org/outreach.html){:.button.button--outline-primary.button--pill.button--sm}
 
 ### IAIFI News
 
-- **IAIFI Fellow Michael Albergo and Affiliate Tommi Jaakkola awarded the Best Paper Award at the [Frontiers of Probabilistic Inference workshop](https://sites.google.com/view/fpiworkshop/), ICLR 2025.** Read the paper on [OpenReview](https://openreview.net/forum?id=LBFyCSqwt2). *April 28, 2025*
+- **IAIFI Fellow Michael Albergo and Affiliate Tommi Jaakkola awarded the Best Paper Award at the [Frontiers of Probabilistic Inference workshop](https://sites.google.com/view/fpiworkshop/), ICLR 2025.** Read the paper on [OpenReview](https://openreview.net/forum?id=LBFyCSqwt2).
 
-- **IAIFI Fellow Jessie Micallef featured by the MIT School of Science.** Read about Jessie’s’ work in “[New perspectives on old questions: AI meets particle physics](https://science.mit.edu/new-perspectives-on-old-questions-ai-meets-particle-physics/).” *December 19, 2024*
+- **IAIFI Fellow Jessie Micallef featured by the MIT School of Science.** Read about Jessie’s’ work in “[New perspectives on old questions: AI meets particle physics](https://science.mit.edu/new-perspectives-on-old-questions-ai-meets-particle-physics/).” 
 
-- **MIT releases impact paper by IAIFI Senior Investigators Phil Harris and Phiala Shanahan, IAIFI Fellow Gaia Grosso, and former IAIFI Fellow Siddharth Mishra-Sharma on generative AI in the physical sciences.** Read “[A Virtuous Cycle: Generative AI and Discovery in the Physical Sciences](https://mit-genai.pubpub.org/pub/ewp5ckmf/release/2?readingCollection=6d8d7700)." *September 18, 2024*
+- **MIT releases impact paper by IAIFI Senior Investigators Phil Harris and Phiala Shanahan, IAIFI Fellow Gaia Grosso, and former IAIFI Fellow Siddharth Mishra-Sharma on generative AI in the physical sciences.** Read “[A Virtuous Cycle: Generative AI and Discovery in the Physical Sciences](https://mit-genai.pubpub.org/pub/ewp5ckmf/release/2?readingCollection=6d8d7700)." 
 
 [View all IAIFI News](https://iaifi.org/#iaifi-news){:.button.button--outline-primary.button--pill.button--sm}
 
