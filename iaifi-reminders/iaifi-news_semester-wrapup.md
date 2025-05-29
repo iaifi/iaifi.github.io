@@ -145,7 +145,7 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 [Details for Junior Researchers](https://iaifi.org/junior-researchers.html){:.button.button--outline-primary.button--pill.button--sm}
 
 <p align="center">
-<img src="https://iaifi.org/images/WrapUp_Spring2025_SplitPhoto.png" align="center" style="max-width:5990px;width:40%" hspace="10" vspace="10"> 
+<img src="https://iaifi.org/images/WrapUp_Spring2025_SplitPhoto.png" align="center" style="max-width:5990px;width:80%" hspace="10" vspace="10"> 
 </p>
 
 ## In Case You Missed It
