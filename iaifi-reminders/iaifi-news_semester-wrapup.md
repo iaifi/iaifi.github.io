@@ -33,14 +33,13 @@ Thank you to everyone who attended our events this Spring and otherwise engaged 
 
 ### IAIFI Summer Workshop
 
-Register for our [2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb), featuring plenary talks, contributed talks, poster sessions, and networking events. The goal of the Summer Workshop is to bring together researchers at the intersection of physics and AI to network and share advances in this growing and interdisciplinary field.
+Register for our [2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb), featuring plenary talks, contributed talks, poster sessions, and networking events. The goal of the Summer Workshop is to bring together researchers at the intersection of physics and AI to network and share advances in this growing and interdisciplinary field. **The deadline to submit contributed talks or posters for consideration is Sunday, June 1, 2025. [Submit here](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d).** 
 
 **Registration details:**
 - The registration deadline is **July 31, 2025**.
 - The registration fee is $200 for in-person attendance. 
 - Registration includes attendance for 5 days, a welcome dinner, and coffee and snack breaks.
 - Virtual attendance will not be provided, but recordings from the workshop will be posted on [IAIFI's YouTube channel](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared). 
-- **The deadline to submit contributed talks or posters for consideration is Sunday, June 1, 2025. [Submit here](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d).** 
 
 
 **Summer Workshop Details:**
@@ -158,7 +157,7 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 ### USA AI Olympiad (USAAIO)
 **April 27, 2025**
 
-<img src="https://iaifi.org/images/USAAIO-panel.jpeg" align="center" style="float: right; max-width:5990px;width:40%" hspace="10" vspace="10"> 
+<img src="https://iaifi.org/images/USAAIO-panel.jpeg" align="center" style="float: right; max-width:5990px;width:25%" hspace="10" vspace="0"> 
 
 IAIFI helped host Round 2 of the USA AI Olympiad (USAAIO), where highschoolers competed for a spot in the international Olympiad. Some of IAIFI's postdocs (Christian Ferko, Jigyasa Nigam, and Alex Gagliano) participated in a Career Panel to share their experiences working on AI+Physics!
 
