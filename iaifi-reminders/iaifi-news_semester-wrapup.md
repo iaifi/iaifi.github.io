@@ -15,7 +15,7 @@ show_title: false
 
 # Spring 2025 Wrap-Up
 
-[IAIFI Opportunities](#IAIFI-Opportunities){:.button.button--outline-primary.button--pill.button--sm} [Colloquia](#IAIFI-Colloquium-Series){:.button.button--outline-primary.button--pill.button--sm} [IAIFI Research](#IAIFI-Research-on-ArXiv){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#Join-IAIFI){:.button.button--outline-primary.button--pill.button--sm}[Event Highlights and News](#In Case You Missed It){:.button.button--outline-primary.button--pill.button--sm}
+[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm} [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm}[Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm}
 
 ## News from IAIFI Management
 
@@ -25,7 +25,7 @@ Thank you to everyone who attended our events this Spring and otherwise engaged 
 
 ### IAIFI Summer Workshop
 
-Register for our [2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb), featuring plenary talks, contributed talks, poster sessions, and networking events. The goal of the Summer Workshop is to bring together researchers at the intersection of physics and AI to network and share advances in this growing and interdisciplinary field. 
+Register for our [2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb), featuring plenary talks, contributed talks, poster sessions, and networking events. The goal of the Summer Workshop is to bring together researchers at the intersection of physics and AI to network and share advances in this growing and interdisciplinary field.
 
 **Registration details:**
 - The registration deadline is **July 31, 2025**.
@@ -37,21 +37,25 @@ Register for our [2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX
 - When: August 11–August 15, 2025
 - Where: Harvard University (Cambridge, MA)
 - What: [View the full list of plenary speakers](https://iaifi.org/summer-workshop.html#speakers)
+- The deadline to submit contributed talks or posters for consideration is **Sunday, June 1, 2025**. [Submit here](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d). 
+
 
 ## IAIFI Colloquium Series
 
 Thank you to our speakers for this term: [Sam Bright-Thonney](https://inspirehep.net/authors/1706736), [Daniel Whiteson](https://sites.uci.edu/daniel/), [Akshunna Dogra](https://inspirehep.net/authors/2192158), [J. Nathan Kutz](https://faculty.washington.edu/kutz/), and [Joshua Bloom](https://joshbloom.org/)!
 
-The IAIFI Colloquium series will continue in Fall 2025. In the meantime, you can catch up on our previous colloquia on YouTube:
-- [Spring 2025](https://youtube.com/playlist?list=PLBY0ED2StbGb7VsUi73x6Dp4vkHT0LQ1k&feature=shared)
-- [Fall 2024](https://youtube.com/playlist?list=PLBY0ED2StbGYRJ6pDz92KnxGpVS40m16k&feature=shared)
-- [Spring 2024](https://youtube.com/playlist?list=PLBY0ED2StbGYMooZlcZXlEORbSISo1fWQ&feature=shared)
-- [Fall 2023](https://youtube.com/playlist?list=PLBY0ED2StbGa_CwDvA1l747j0nh6Yc42E&feature=shared)
-- [Spring 2023](https://youtube.com/playlist?list=PLBY0ED2StbGZKP9i6M-3hiZSpxkCsW2jX&feature=shared)
-- [Fall 2022](https://youtube.com/playlist?list=PLBY0ED2StbGbnP4OH5_ggH1QvoO3nyOw7&feature=shared)
-- [Spring 2022](https://youtube.com/playlist?list=PLBY0ED2StbGbd6ZhDB6Yhg2tB_jnXrxuJ&feature=shared)
-- [Fall 2021](https://youtube.com/playlist?list=PLBY0ED2StbGZtEAbnyZz9p3pK31qHLXmq&feature=shared)
-- [Spring 2021](https://youtube.com/playlist?list=PLBY0ED2StbGZihzDLwNtPZtsdUvDRVyfG&feature=shared)
+The IAIFI Colloquium series will continue in Fall 2025. In the meantime, you can catch up on our previous colloquia on [our YouTube channel](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared).
+
+## IAIFI Research Highlights
+
+IAIFI shares monthly research highlights with the NSF. View Spring 2025's research highlights below!
+
+- [Denoising Hamiltonian Network for Physical Reasoning](https://iaifi.org/research.html#denoising-hamiltonian-network-for-physical-reasoning)
+- [Generative Modeling for Mathematical Discovery](https://iaifi.org/research.html#generative-modeling-for-mathematical-discovery)
+- [A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing](https://iaifi.org/research.html#a-cosmic-scale-benchmark-for-symmetry-preserving-data-processing)
+- [Reinforcement Learning for Optimal Control of Adaptive Cell Populations](https://iaifi.org/research.html#reinforcement-learning-for-optimal-control-of-adaptive-cell-populations)
+
+[View all Research Highlights](https://iaifi.org/research.html#highlights){:.button.button--outline-primary.button--pill.button--sm}
 
 ## IAIFI Research on ArXiv
 
@@ -152,6 +156,8 @@ The 2024 Nobel Prize in Physics recognized John Hopfield and Geoffrey Hinton for
 
 - IAIFI Fellow Michael Albergo and Affiliate Tommi Jaakkola awarded the Best Paper Award at the [Frontiers of Probabilistic Inference workshop](https://sites.google.com/view/fpiworkshop/), ICLR 2025. Read the paper on [OpenReview](https://openreview.net/forum?id=LBFyCSqwt2). April 28, 2025
 
-[View all IAIFI news](https://iaifi.org/#iaifi-news){:.button.button--outline-primary.button--pill.button--sm}
+- IAIFI Fellow Jessie Micallef featured by the MIT School of Science. Read about Jessie’s’ work in “[New perspectives on old questions: AI meets particle physics](https://science.mit.edu/new-perspectives-on-old-questions-ai-meets-particle-physics/)”. December 19, 2024
+
+[View all IAIFI News](https://iaifi.org/#iaifi-news){:.button.button--outline-primary.button--pill.button--sm}
 
 {% include_relative iaifi-reminder_footer.html %}
