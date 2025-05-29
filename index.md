@@ -219,7 +219,7 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
-  
+     
   ***IAIFI Fellow Michael Albergo and Affiliate Tommi Jaakkola awarded the Best Paper Award at the [Frontiers of Probabilistic Inference](https://sites.google.com/view/fpiworkshop/) workshop, ICLR 2025***. Read the paper on [Openreview](https://openreview.net/forum?id=LBFyCSqwt2). *April 28, 2025*
   {:.info}
   
@@ -230,6 +230,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
   {:.info}
   
   ***IAIFI Fellow Carol Cuesta-Lazaro was selected for the 2024 Rising Stars in Physics Workshop***. [The workshop](https://www.physics.columbia.edu/content/2024-rising-stars-physics-workshop) invites top early career scientists in physics and astronomy to address issues relevant to women looking to successfully transition to their first faculty position. *September 24-26, 2024*
+  {:.info}
+  
+  ***MIT releases impact paper by IAIFI Senior Investigators Phil Harris and Phiala Shanahan and IAIFI Fellows Gaia Grosso and Siddharth Mishra-Sharma on generative AI in the physical sciences***. Read ["A Virtuous Cycle: Generative AI and Discovery in the Physical Sciences"](https://mit-genai.pubpub.org/pub/ewp5ckmf/release/2?readingCollection=6d8d7700). *September 18, 2024*
   {:.info}
   
   ***IAIFI Junior Investigator Ziming Liu and Senior Investigator Max Tegmark featured in Quanta Magazine***. Read about their work on KANs in ["Novel Architecture Makes Neural Networks More Understandable"](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/). *September 11, 2024*
