@@ -6,15 +6,6 @@ title: "IAIFI Spring 2025 Wrap-Up"
 show_title: false
 --- 
 
-<!--To do:
-- Add all content (in progress) - Complete
-- Add buttons to lead to different sections of the email - Complete
-- Add images and header - complete
-- Try imbedding research highlights - cancelled
-- Add a "view in browser" option? - cancelled
-- Test every hyperlink - in complete
-- Marisa's final edits - in progress
--->
 <p align="center">
 <img src="https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 </p>
@@ -161,7 +152,7 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 
 IAIFI helped host Round 2 of the USA AI Olympiad (USAAIO), where highschoolers competed for a spot in the international Olympiad. Some of IAIFI's postdocs (Christian Ferko, Jigyasa Nigam, and Alex Gagliano) participated in a Career Panel to share their experiences working on AI+Physics!
 
-<br><br><br><br><br><br>
+<br><br>
 
 ### IAIFI Research Panel on the 2024 Nobel Prize in Physics
 **March 14, 2025**
