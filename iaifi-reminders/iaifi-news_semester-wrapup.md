@@ -6,15 +6,6 @@ title: "IAIFI Spring 2025 Wrap-Up"
 show_title: false
 --- 
 
-<!--To do:
-- Add all content (in progress) - Complete
-- Add buttons to lead to different sections of the email - Complete
-- Add images and header - complete
-- Try imbedding research highlights - cancelled
-- Add a "view in browser" option? - cancelled
-- Test every hyperlink - in progress
-- Marisa's final edits
--->
 <p align="center">
 <img src="https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 </p>
@@ -33,14 +24,13 @@ Thank you to everyone who attended our events this Spring and otherwise engaged 
 
 ### IAIFI Summer Workshop
 
-Register for our [2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb), featuring plenary talks, contributed talks, poster sessions, and networking events. The goal of the Summer Workshop is to bring together researchers at the intersection of physics and AI to network and share advances in this growing and interdisciplinary field.
+Register for our [2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb), featuring plenary talks, contributed talks, poster sessions, and networking events. The goal of the Summer Workshop is to bring together researchers at the intersection of physics and AI to network and share advances in this growing and interdisciplinary field. **The deadline to submit contributed talks or posters for consideration is Sunday, June 1, 2025. [Submit here](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d).** 
 
 **Registration details:**
 - The registration deadline is **July 31, 2025**.
 - The registration fee is $200 for in-person attendance. 
 - Registration includes attendance for 5 days, a welcome dinner, and coffee and snack breaks.
-- Virtual attendance will not be provided, but recordings from the workshop will be posted on [IAIFI's YouTube channel](https://iaifi.org/summer-workshop.html#speakers). 
-- **The deadline to submit contributed talks or posters for consideration is Sunday, June 1, 2025. [Submit here](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d).** 
+- Virtual attendance will not be provided, but recordings from the workshop will be posted on [IAIFI's YouTube channel](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared). 
 
 
 **Summer Workshop Details:**
@@ -153,27 +143,25 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 
 ## In Case You Missed It
 
+[Learn More about IAIFI Public Engagement Activities](https://iaifi.org/outreach.html){:.button.button--outline-primary.button--pill.button--sm}
+
 ### USA AI Olympiad (USAAIO)
 **April 27, 2025**
 
-<img src="https://iaifi.org/images/USAAIO-panel.jpeg" align="center" style="float: right; max-width:5990px;width:40%" hspace="10" vspace="10"> 
+<img src="https://iaifi.org/images/USAAIO-panel.jpeg" align="center" style="float: right; max-width:5990px;width:25%" hspace="10" vspace="0"> 
 
 IAIFI helped host Round 2 of the USA AI Olympiad (USAAIO), where highschoolers competed for a spot in the international Olympiad. Some of IAIFI's postdocs (Christian Ferko, Jigyasa Nigam, and Alex Gagliano) participated in a Career Panel to share their experiences working on AI+Physics!
 
-<br><br><br><br><br><br>
+<br><br>
 
 ### IAIFI Research Panel on the 2024 Nobel Prize in Physics
 **March 14, 2025**
 
 <img src="https://iaifi.org/images/InfiniteDisplay-PowerPoint_NobelPrize-Panel.png" align="center" style="float: right; max-width:5990px;width:40%" hspace="10" vspace="10"> 
 
-The 2024 Nobel Prize in Physics recognized John Hopfield and Geoffrey Hinton for their development of foundational and physics-inspired machine learning frameworks (the Hopfield network and the Boltzmann machine, respectively). Following IAIFI's' fireside chat discussing the historical significance of the award in Fall 2024, IAIFI hosted a panel discussion that will dive deeper into the impact of Hopfield and Hinton’s work, and more broadly of physics insights, on interdisciplinary research tackling the understanding of artificial and biological intelligent systems. 
+The 2024 Nobel Prize in Physics recognized John Hopfield and Geoffrey Hinton for their development of foundational and physics-inspired machine learning frameworks (the Hopfield network and the Boltzmann machine, respectively). Following IAIFI's' fireside chat discussing the historical significance of the award in Fall 2024, IAIFI hosted a panel discussion that will dive deeper into the impact of Hopfield and Hinton’s work, and more broadly of physics insights, on interdisciplinary research tackling the understanding of artificial and biological intelligent systems. The panelists included [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan) (Kempner Institute/Harvard University), [Dmitry Krotov](https://mitibmwatsonailab.mit.edu/people/dmitry-krotov/) (MIT-IBM Watson AI Lab/IBM Research), and [Ila Fiete](https://mcgovern.mit.edu/profile/ila-fiete/) (McGovern Institute/MIT). 
 
 [View Slides](https://www.dropbox.com/scl/fo/tkud52zl2uiln8gkico4d/AGL6H1JB2X-Q9TxCFNtmimo?rlkey=kihkt0ud82h4dg3mlo18wmts5&st=g0n58zlk&dl=0){:.button.button--outline-primary.button--pill.button--sm} [View Recording](https://www.youtube.com/live/1g-6XeUCmb8?feature=shared){:.button.button--outline-primary.button--pill.button--sm}
-
-<br>
-
-[Learn More about IAIFI Public Engagement Activities](https://iaifi.org/outreach.html){:.button.button--outline-primary.button--pill.button--sm}
 
 ### IAIFI News
 
