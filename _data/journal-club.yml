@@ -183,7 +183,7 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Probing High-Dimensional Spaces: From Theory Design in Phenomenology to Parameter Inference in ATLAS"
   talk-abstract: "When confronted with extremely high-dimensional problems, physicists traditionally reduce the challenge to a lower dimensional representation where they can build intuition. For example, experimental particle physicists may condense hundreds of millions of dimensions from detector readouts into a one-dimensional histogram of reconstructed particle energy. I will demonstrate that such dramatic data reduction makes it impossible to capture all the relevant information necessary for optimal statistical inference for the Higgs width measurement at the LHC. We design a generalisation of traditional methodology in ATLAS to perform statistical inference directly on high-dimensional data, enabled by powerful uncertainty quantification and propagation tools. This leads to the most precise measurement of the Higgs width by the experiment to date. Similarly, a significant challenge in theoretical physics is the vast mathematical space of potential theories to describe our Universe. I lead the design of a more efficient framework for model building in neutrino physics, leveraging newly available computational and AI tools to uncover new avenues for neutrino theory model building."
-  slides-link: "https://drive.google.com/drive/folders/1MU-wsEhh1ojtOfhQKBdeSSHblncJ3Ao6?usp=drive_link"
+  slides-link: "https://drive.google.com/file/d/1XcldXmUGeXNEewHQbZp-LOeyKDCsf_xo/view?usp=sharing"
   youtube-link:
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
