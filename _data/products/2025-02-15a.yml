@@ -8,7 +8,7 @@ arxiv: "2502.10843"
 journal:
 doi:
 nsf-par:
-code:
+code: "https://github.com/malbergo/leaps"
 publication-date:
 bib-tex: |
   @article{holderrieth2025leapsdiscreteneuralsampler,
