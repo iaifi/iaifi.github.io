@@ -1,5 +1,13 @@
 - type: "research-highlight"
   domain: "Foundational AI"
+  title: "LEAPS: A discrete neural sampler via locally equivariant networks"
+  authors: Peter Holderrieth (MIT), Michael S. Albergo (IAIFI), Tommi Jaakkola (MIT/IAIFI)
+  date-added: 2025-06-02
+  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQzA_4zhdFMKjdg4Xq9lI46ilvIgDxK68G3sv9XIofnpUyS4wY3ZkXbppCFE4wjm7TJTz454qdSOoEm/pubembed?start=false&loop=false&delayms=3000"
+  view-link: "https://docs.google.com/presentation/d/1M_R2uYuyhmRJgxUfUrfrLsOzm879juKLXnJ0yks8uLY/edit?usp=sharing"
+
+- type: "research-highlight"
+  domain: "Foundational AI"
   title: "Denoising Hamiltonian Network for Physical Reasoning"
   authors: Congyue Deng (MIT/Stanford, Incoming IAIFI Junior Investigator), Brandon Y. Feng (MIT/IAIFI), Cecilia Garraffo (Harvard/IAIFI), Alan Garbarz (Universidad de Buenos Aires and Instituto de Física de Buenos Aires), Robin Walters (Northeastern/IAIFI), William T. Freeman (MIT/IAIFI), Leonidas Guibas (Stanford), Kaiming He (MIT/IAIFI)
   date-added: 2025-05-07
