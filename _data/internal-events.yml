@@ -29,9 +29,9 @@
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building"
-  event-post-date: "2025-06-22"
-  start-date-time: "2025-06-24 14:00"
-  end-date-time: "2025-06-24 15:00"
+  event-post-date: "2025-06-15"
+  start-date-time: "2025-06-17 14:00"
+  end-date-time: "2025-06-17 15:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
@@ -43,14 +43,29 @@
   event-name: "IAIFI Ice Cream Social"
   event-committee: "Community Building"
   event-post-date: "2025-06-08"
-  start-date-time: "2025-06-17 14:00"
-  end-date-time: "2025-06-17 15:00"
+  start-date-time: "2025-06-24 14:00"
+  end-date-time: "2025-06-24 15:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
   event-details: "Come to the Ice Cream Social to kick off the summer! Ice cream and other snacks will be provided. All are welcome, including guests."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTA2MTBUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link:
   more-info-link:
+  
+- type: "social"
+  event-name: "IAIFI Pizza & Co-working Afternoon"
+  event-committee: "Community Building"
+  event-post-date: "2025-06-08"
+  start-date-time: "2025-06-20 13:00"
+  end-date-time: "2025-06-20 17:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "This will be an informal afternoon with pizza, refreshments, and board games. Anyone in IAIFI will be free to come and go throughout the event, to have lunch, co-work, or socialize with other people in the IAIFI community."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjA0cGc2bW1xNzkwZWtnN3Z0OGVrOGs0cmcgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
