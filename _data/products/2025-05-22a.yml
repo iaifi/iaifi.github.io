@@ -1,7 +1,7 @@
 
 type: paper
 iaifi-thrust: E
-arxiv-date: 2025-05-22
+arxiv-date: 2025-06-05
 title: "Fast Low Energy Reconstruction using Convolutional Neural Networks"
 authors: "IceCube Collaboration"
 abstract: "IceCube is a Cherenkov detector instrumenting over a cubic kilometer of glacial ice deep under the surface of the South Pole. The DeepCore sub-detector lowers the detection energy threshold to a few GeV, enabling the precise measurements of neutrino oscillation parameters with atmospheric neutrinos. The reconstruction of neutrino interactions inside the detector is essential in studying neutrino oscillations. It is particularly challenging to reconstruct sub-100 GeV events with the IceCube detectors due to the relatively sparse detection units and detection medium. Convolutional neural networks (CNNs) are broadly used in physics experiments for both classification and regression purposes. This paper discusses the CNNs developed and employed for the latest IceCube-DeepCore oscillation measurements. These CNNs estimate various properties of the detected neutrinos, such as their energy, direction of arrival, interaction vertex position, flavor-related signature, and are also used for background classification."
