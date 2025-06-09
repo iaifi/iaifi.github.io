@@ -46,7 +46,7 @@ Students for the Summer School have the option to reserve dorm rooms at Harvard 
 Lecturer: [Sasha Rakhlin](https://www.mit.edu/~rakhlin/), Professor, MIT
 
 <img class="image" src="images/small-photo-aleksandra-ciprijanovic.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
-### Topic: Robust/Interpretable AI: Scaling Laws
+### Topic: Robust/Interpretable AI: Domain Adaptation
 
 Lecturer: [Aleksandra Ćiprajanović](https://aleksandraciprijanovic.wordpress.com), Wilson Fellow Associate Scientist, Fermilab
 
@@ -67,17 +67,19 @@ Lecturer: [SueYeon Chung](https://as.nyu.edu/faculty/sueyeon-chung.html), Assist
 
 Tutorial Lead: TBA
 
-### Topic: Robust/Interpretable AI: Scaling Laws
+<img class="image" src="images/small-photo-sneh-pandya.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+### Topic: Robust/Interpretable AI: Domain Adaptation
 
-Tutorial Lead: TBA
+Tutorial Lead: Sneh Pandya, PhD Student, Northeastern/IAIFI
 
 ### Topic: Physics-Motivated Optimization: Simulation Intelligence
 
 Tutorial Lead: TBA
 
+<img class="image" src="images/small-photo-samuel-bright-thonney.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Representation/Manifold Learning: Geometric Deep Learning
 
-Tutorial Lead: TBA
+Tutorial Lead: Sam Bright-Thonney, IAIFI Fellow
 
 
 ## Agenda
