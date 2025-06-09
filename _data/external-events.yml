@@ -182,6 +182,18 @@
   event-details: "This Summer School is aimed at advanced doctoral students and postdoctoral fellows. It is the 2025 edition in a biennial series of Advanced Summer Schools in High Energy Theoretical Physics, which  were traditionally held either in Cargèse or Les Houches. This session will take place at ICISE, the International Center for Interdisciplinary Science and Education in Quy Nhon, Vietnam. The center is surrounded by a lush garden and just a few steps away from a beautiful beach. The School will include introductory and advanced lectures on the following topics: Quantum gravity, string theory, black holes, amplitudes, holography, cosmology, quantum information theory, theoretical condensed matter and artificial intelligence. The schedule will leave ample room for discussions. This School is part of the network of CERN Summer Schools of Excellence and is supported by CERN, ICISE and other funds."
   calendar-link:
 
+- type: "external-event"
+  event-name: "AstroAI Summer Seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/events/"
+  event-post-date: "2025-06-08"
+  start-date-time: "2025-06-09 12:00"
+  end-date-time: "2025-06-09 13:00"
+  talk-location: "P-108A (Wolbach space), Center for Astrophysics, 60 Garden Street, Cambridge"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Javier Roulet (Caltech) <br>Title: Equivariant learning for simulation-based gravitational wave inference <br>Abstract: Over the last decade, the LIGO and Virgo interferometers have detected gravitational waves from about a hundred compact object mergers, a number that will double in the next months with releases from their fourth observing run. These detections have revolutionized astrophysics, among other achievements identifying the kilonova explosion from a binary neutron star merger and constraining the formation mechanisms of compact binaries.<br>Such discoveries require robust and efficient inference algorithms, for which machine learning is being increasingly used with varying degrees of success. Gravitational wave inference is challenging for machine-learning methods due to the large variety of shapes that signals can take. I will discuss how this diversity is largely accounted for by approximate symmetries in the signal model, where variations in the system parameters induce predictable amplitude and phase modulations in the gravitational wave. We construct an approximately invariant representation under this symmetry group, by normalizing the observed data against a reference waveform and the inferred parameters against a semi-analytical prediction. This compression reduces the variability of the data and simplifies the geometry of the likelihood, improving the training efficiency, performance, and interpretability of a simulation-based inference model. The resulting method is 3-4 orders of magnitude faster than classic likelihood-based algorithms; I will suggest possible applications for gravitational wave detection that exploit this tremendous speedup."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzE3MHA3c2ptcmdvNGJpbzFoY2gzZGU5bG0gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
 - type: "external-workshop"
   event-name: "Frontiers in NeuroAI - Kempner Institute Symposium"
   event-organizer: "The Kempner Institute"
