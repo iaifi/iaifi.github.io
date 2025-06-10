@@ -81,7 +81,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Schedules and coordinates the IAIFI Journal Club and introduces Journal Club presenters
 * Time Commitment: One-hour meeting per semester, attendance at Journal Club every 1-2 weeks, and time spent inviting presenters
 * See past [Journal Club Talks](/journal-club.html)
-* Current Journal Club Organizers: Sean Benevedes, Rikab Gambhir
-* Past Journal Club Organizers: Alexander Gagliano, John Martyn, Andrew Tan
-* Primary Contact: [Email Sean Benevedes](mailto:seanmb@mit.edu) or [Email Rikab Gambhir](mailto:rikab@mit.edu)
+* Current Journal Club Organizers: Sean Benevedes, Victoria Zhang
+* Past Journal Club Organizers: Alexander Gagliano, John Martyn, Andrew Tan, Rikab Gambhir
+* Primary Contact: [Email Sean Benevedes](mailto:seanmb@mit.edu) or [Email Victoria Zhang](mailto:zhangv@mit.edu)
 
