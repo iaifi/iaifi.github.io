@@ -44,16 +44,16 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Status: Will rotate membership in Fall 2025
 * Time Commitment: One-hour meeting per month and occasional email discussion
 * [Learn more about this committee](/ecec.html)
-* Current ECEC: Lisa Barsotti (Chair), Carolina Cuesta-Lazaro, Zeviel Imani, Leo Yao, Diego Vasquez, Jamie Sullivan, Yiding Song, Marisa LaFleur, Thomas Bradford
+* Current ECEC: Lisa Barsotti (Chair), Carolina Cuesta-Lazaro, Zeviel Imani, David Kaiser, Leo Yao, Diego Vasquez, Jamie Sullivan, Yiding Song, Marisa LaFleur, Thomas Bradford
 * Past ECEC: Edo Berger, Tracy Slatyer, Siddharth Mishra-Sharma, Mehmet Demirtas, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Sean Benevedes, Rashmish Mishra, Tess Smidt, Jessie Micallef, Elyssa Hofgard
 * Primary Contact: [Email Lisa Barsotti (Chair)](mailto:lisabar@mit.edu) 
 
 
 # Speaker Selection 
-* Status: Will rotate membership in Spring 2025
+* Status: No additional members needed at this time
 * Identifies and invites speakers to the IAIFI Seminars and Colloquia and introduces speakers as needed
 * Time Commitment: One or two two-hour meetings every semester and attendance at talks
-* Current Speaker Selection Committee: Alexander Gagliano (Co-Chair), Gaia Grosso (Co-Chair), Dan Roberts, Ameya Shrikant Daigavane, Marisa LaFleur, Thomas Bradford
+* Current Speaker Selection Committee: Alexander Gagliano (Co-Chair), Gaia Grosso (Co-Chair), Ameya Shrikant Daigavane, Aurelien Dersy, Andrzej Novak, Dan Roberts, Vincent Song, Jamie Sullivan, Victoria Zhang, Marisa LaFleur, Thomas Bradford
 * Past Speaker Selection Committee: Di Luo, Siddharth Mishra-Sharma, Nayantara Mudur, Demba Ba, Cora Dvorkin, Arkopal Dutt
 * Primary Contacts: [Email Alexander Gagliano](mailto:gaglian2@mit.edu) or [email Gaia Grosso](mailto:gaiag795@mit.edu)
 
