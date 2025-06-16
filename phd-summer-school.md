@@ -17,9 +17,9 @@ The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI
 
 The Summer School will be followed by the [IAIFI Summer Workshop](/summer-workshop), which is open to researchers of all career stages. 
 
-<br>
+<br><br><br>
 
-[Apply](https://app.smartsheet.com/b/form/e8dcb6c8564a45d5a61cb0ecafec2bd4){:.button.button--outline-primary.button--pill.button--lg}[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg}[Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
+<!--[Apply](https://app.smartsheet.com/b/form/e8dcb6c8564a45d5a61cb0ecafec2bd4){:.button.button--outline-primary.button--pill.button--lg}-->[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
 
 
 ## About 

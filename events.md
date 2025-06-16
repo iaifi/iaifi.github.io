@@ -9,6 +9,8 @@ Please [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/ia
 
 You can [watch our Past Colloquia recordings on YouTube](https://www.youtube.com/channel/UCueoFcGm_15kSB-wDd4CBZA).
 
+Have suggestions for future speakers to invite? [Fill out the form here](https://app.smartsheet.com/b/form/01976a488bd173719f4b840aaf284212)!
+
 {% assign now = 'now' | date: '%s' | plus: 0 %}
 
 ## Upcoming Colloquia 
