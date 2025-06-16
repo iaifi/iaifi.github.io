@@ -833,10 +833,10 @@ Speakers will be announced as they are confirmed.
          </div>
        </div>
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-robert-huang.jpg" alt="Robert Huang" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-robert-huang.jpg" alt="Hsin-Yuan (Robert) Huang" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://hsinyuan-huang.github.io/">Robert Huang</a>
+         <a href="https://hsinyuan-huang.github.io/">Hsin-Yuan (Robert) Huang</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Caltech and Google </em> <br>
