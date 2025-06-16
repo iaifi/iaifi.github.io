@@ -72,9 +72,10 @@ Tutorial Lead: TBA
 
 Tutorial Lead: Sneh Pandya, PhD Student, Northeastern/IAIFI
 
+<img class="image" src="images/small-photo-sean-benevedes.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/> <img class="image" src="images/small-photo-jigyasa-nigam.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/> 
 ### Topic: Physics-Motivated Optimization: Simulation Intelligence
 
-Tutorial Lead: TBA
+Tutorial Lead: Sean Benevedes, PhD Student, MIT and Jigyasa Nigam, Postdoc, MIT
 
 <img class="image" src="images/small-photo-samuel-bright-thonney.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Representation/Manifold Learning: Geometric Deep Learning
@@ -83,7 +84,10 @@ Tutorial Lead: Sam Bright-Thonney, IAIFI Fellow
 
 
 ## Agenda
-The agenda will be announced in detail in March 2025.
+
+<img class="image" src="images/2025_Summer-School_Schedule.png" align="center" style="max-width:2158px;width:100%" hspace="10" vspace="10"/>
+
+*Agenda is subject to change.*
 
 ### Monday, August 4, 2025
 
@@ -93,7 +97,7 @@ Welcome/Introduction
 
 **9:30 am–12:00 pm ET**
 
-Lecture 1: TBA
+Lecture 1: Reinforcement Learning (Sasha Rakhlin, MIT)
 
 **12:00–1:00 pm ET**
 
@@ -101,13 +105,17 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 1: TBA
+Tutorial 1: Reinforcement Learning (TBA)
 
 **3:30–4:30 pm ET**
 
-Workshop TBA
+Hackathon Introduction
 
-**5:00–7:00 pm ET**
+**5:00–5:30 pm ET**
+
+Break
+
+**5:30–7:30 pm ET**
 
 Welcome Dinner
 
@@ -119,7 +127,7 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 2: TBA
+Lecture 2: Physics-Motivated Optimization (Gaia Grosso, IAIFI Fellow)
 
 **12:00–1:00 pm ET**
 
@@ -127,11 +135,11 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 2: TBA
+Tutorial 2: Physics-Motivated Optimization (Sean Benevedes, MIT and Jigyasa Nigam, MIT)
 
 **3:30–4:30 pm ET**
 
-Breakout Sessions with Days 1 and 2 Lecturers and Tutorial Leads 
+Breakout Sessions with Lecturers and Tutorial Leads 
 
 **4:30–6:00 pm ET**
 
@@ -145,7 +153,7 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 3: TBA
+Lecture 3: Geometric Deep Learning (SueYeon Chung, Harvard)
 
 **12:00–1:00 pm ET**
 
@@ -153,11 +161,23 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 3: TBA
+Tutorial 3: Geometric Deep Learning (Sam Bright-Thonney, IAIFI Fellow)
 
 **3:30–4:30 pm ET**
 
 Career Panel
+
+**4:30–5:30 pm ET**
+
+Break
+
+**5:30–6:30 pm ET**
+
+Fireside Chat with Boris Hanin (Princeton University) sponsored by PDT Partners
+
+**6:30–8:00 pm ET**
+
+Networking event with IAIFI sponsored by PDT Partners
 
 ### Thursday, August 7, 2025
 
@@ -167,7 +187,7 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 4: TBA
+Lecture 4: Domain Adaptation (Aleksandra Ciprajanovic, Fermilab)
 
 **12:00–1:00 pm ET**
 
@@ -175,19 +195,15 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 4: TBA
+Tutorial 4: Domain Adaptation (Sneh Pandya, Northeastern)
 
 **3:30–4:30 pm ET**
 
-Breakout Sessions with Days 3 and 4 Lecturers and Tutorial Leads (Optional)
+Breakout Sessions with Lecturers and Tutorial Leads
 
 **4:30–5:30 pm ET**
 
 Group work for hackathon
-
-**5:30–10:00 pm ET**
-
-Social Event with IAIFI members
 
 ### Friday, August 9, 2024
 
@@ -208,7 +224,7 @@ Hackathon
 
 Lunch 
 
-**1:00–2:30 pm ET**
+**1:00–3:00 pm ET**
 
 Hackathon
 
@@ -217,11 +233,11 @@ Hackathon
 <em>Project details to come.</em>
 </details>
 
-**2:30–3:30 pm ET**
+**3:00–3:45 pm ET**
 
 Hackathon presentations
 
-**3:30–4:00 pm ET**
+**3:45–4:00 pm ET**
 
 Closing
 
@@ -231,7 +247,7 @@ The Summer School is funded primarily by support from the National Science Found
 
 We extend a sincere thank you to the following financial supporters of this year's IAIFI Summer School:
 
-[<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:50%" hspace="20" vspace="10">](https://pdtpartners.com) [<img src="images/visa-logo.png" align="center" style="max-width:10355px;width:15%" hspace="20" vspace="10">](https://usa.visa.com/) 
+[<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:50%" hspace="0" vspace="10">](https://pdtpartners.com) [<img src="images/visa-logo.png" align="center" style="max-width:10355px;width:15%" hspace="10" vspace="10">](https://usa.visa.com/) [<img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:20%" hspace="10" vspace="10">](https://deepmind.google) 
 
 If you are interested in supporting the 2025 IAIFI Summer School, email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu)
 
