@@ -869,7 +869,7 @@ Speakers will be announced as they are confirmed.
          <img class="my-card-img-top" src="images/small-photo-michelle-kuchera.jpg" alt="Michelle Kuchera" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://michellekuchera.com/index.html">Michelle Kuchera</a>
+         <a href="https://alpha-davidson.github.io/">Michelle Kuchera</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Davidson College </em> <br>
