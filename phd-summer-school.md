@@ -63,9 +63,10 @@ Lecturer: [SueYeon Chung](https://as.nyu.edu/faculty/sueyeon-chung.html), Assist
 
 ## Tutorial Leads
 
+<img class="image" src="images/margalit-glasgow.png" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Reinforcement Learning
 
-Tutorial Lead: TBA
+Tutorial Lead: Margalit Glasgow, Postdoc, MIT
 
 <img class="image" src="images/small-photo-sneh-pandya.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Robust/Interpretable AI: Domain Adaptation
