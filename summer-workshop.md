@@ -44,7 +44,7 @@ Welcome
 
 *AI in Astrophysics: Tackling Domain Shift, Model Robustness and Uncertainty*
 
-Alex Ciprijanovic, Fermilab
+Aleksandra Ciprijanovic, Fermilab
 
 <details>
 <summary>Abstract</summary>
@@ -94,13 +94,13 @@ Alex Gagliano, IAIFI Fellow
 
 **2:15–3:00 pm ET**
 
-*Title to come*
+*Emulating Dark Matter Halo Merger Trees with Generative Models*
 
 Tri Nguyen, CIERA, Northwestern University
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Merger trees track the hierarchical assembly of dark matter halos and are crucial for semi-analytic galaxy formation models. However, traditional methods rely on ad-hoc assumptions and struggle to incorporate environmental information. I present FLORAH-Tree, a generative model for merger trees by representing them as graph structures that capture the full branching hierarchy. I trained FLORAH-Tree on merger trees from the Very Small MultiDark Planck N-body simulation and validated it against simulation data and Extended Press-Schechter analytical trees. FLORAH-Tree accurately reproduces key merger tree statistics across mass and redshift ranges, outperforming analytical approaches. Applying the Santa Cruz semi-analytic model to generated trees shows that galaxy-halo scaling relations match expectations. FLORAH-Tree provides a computationally efficient method for generating merger trees while maintaining N-body simulation fidelity.</em>
 </details>
 
 **3:00–3:30 pm ET**
