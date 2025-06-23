@@ -8,7 +8,32 @@
   talk-location: "Lawrence Berkeley National Laboratory"
   talk-zoom:
   event-details: "We invite particle physicists from different sub-field to join us and spend a week at LBNL for ML4FP, where a wide range of machine learning methods for particle physics development will be covered. The learning materials (hands-on examples) are deeply connected with real experimental applications. Meanwhile, we also encourage our theorist friends to join ML4FP as the machine learning tools and methods are general. Through this platform, we appreciate discussions for current and future use of machine learning mathods in various aspects of particle physics. We put particular emphasis on the hands-on tutorials with realistic examples to help participants to dive in the machine learning world for their research needs. The school is open to all enthusiasts working in particle physics who wish to advance their knowledge in machine learning. Thanks to the ATC program by US ATLAS, there will be financial assistance to support most US ATLAS students in double-occpancy hotel rooms near  LBNL (we cannot cover airfare)."
-  calendar-link: 
+  calendar-link:
+
+- type: "external-event"
+  event-name: "AI4Science Conference"
+  event-organizer: "AI4Science"
+  more-info-link: "https://ai4science.si/"
+  event-post-date: "2025-06-22"
+  start-date-time: "2025-09-22 9:00"
+  end-date-time: "2025-09-26 17:00"
+  talk-location: "Ljubljana, Slovenia"
+  talk-zoom:
+  event-details: "The 28th Discovery Science Conference and other co-located events will be held under the common umbrella name AI for Science. The International Conference Discovery Science (DS) has a long tradition, as this edition will be the 28th in a row. It was previously held in Slovenia as an independent organization by the Slovenian Institute of Science (IJS). The meeting is intended for discussions and exchange of ideas among researchers who develop and use methods of artificial intelligence (AI), data science and big data analysis in solving scientific and industrial challenges. Due to the importance of the topic, we will also organize a series of thematic tracks related to AI in various scientific disciplines. Some of them will preform under the sponsorship of SMASH. The deadline for abstract submission is 26. 06. 2025."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "Open SkAI 2025"
+  event-organizer: "SkAI Institute"
+  more-info-link: "https://sites.northwestern.edu/skaiconference/"
+  event-post-date: "2025-06-22"
+  start-date-time: "2025-09-02 9:00"
+  end-date-time: "2025-09-05 17:00"
+  talk-location: "SkAI Hub (875 N. Michigan Ave., Chicago, IL 60611)"
+  talk-zoom:
+  event-details: "Open SkAI 2025 (September 2-5, 2025) is the inaugural conference for the NSF-Simons AI Institute for the Sky (SkAI), funded by the U.S. National Science Foundation and the Simons Foundation. This year’s event will be held in the John Hancock Center and will bring together scholars and scientists of all career stages interested in innovating at the intersection of AI and Astrophysics!"
+  registration-deadline: 2025-08-11
+  calendar-link:
   
 - type: "external-event"
   event-name: "AstroAI lunch seminar"
