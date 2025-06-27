@@ -14,17 +14,17 @@ show_title: false
 </p>
 
 ## Register for the Summer Workshop by July 31, 2025
-Registration is open for the 2025 IAIFI Summer Workshop! Register by July 31, 2025 ($200 registration fee).
+We hope you can join us for the 2025 IAIFI Summer Workshop! Register by July 31, 2025 ($200 registration fee).
 
 [Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg}
 
-## Summer Workshop Agenda Announced
+<!-- ## Summer Workshop Agenda Announced -->
 
-We are happy to share the Summer Workshop's agenda, including plenary talks, contributed talks, and more.
+We are also happy to share the Summer Workshop agenda, including the full list of plenary speakers.
 
 [View Agenda](https://iaifi.org/summer-workshop.html#agenda){:.button.button--outline-primary.button--pill.button--lg}
 
-## Summer Workshop 2025 Details
+<!-- ## Summer Workshop 2025 Details -->
 
 * **What:** The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI.
 * **Who:** Researchers of all career stages interested in interdisciplinary AI+Physics research. 
@@ -34,9 +34,9 @@ We are happy to share the Summer Workshop's agenda, including plenary talks, con
 
 [More Information](https://iaifi.org/summer-workshop.html){:.button.button--outline-primary.button--pill.button--lg} [Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg}  
 
-<hr>
-## 4th Annual AI4EIC Workshop – Artificial Intelligence for the Electron-Ion Collider, co-sponsored by IAIFI in October 2025
-In other news, we are pleased to announce the **4th Annual AI4EIC Workshop – Artificial Intelligence for the Electron-Ion Collider**, taking place from October 27–29, 2025, in a hybrid format, with in-person sessions hosted at the Massachusetts Institute of Technology (MIT), Cambridge, MA. As in previous years, the workshop is organized with the support of the AI4EIC Working Group of the EIC User Group (EICUG) and a multi-institutional scientific organizing committee. This year, the Workshop is co-sponsored by the NSF Institute for Artificial Intelligence and Fundamental Interactions (IAIFI), including organization and funding support. 
+## Other Upcoming Events
+
+We are also pleased to announce the **4th Annual AI4EIC Workshop – Artificial Intelligence for the Electron-Ion Collider**, taking place from October 27–29, 2025, in a hybrid format, with in-person sessions hosted at the Massachusetts Institute of Technology (MIT), Cambridge, MA. As in previous years, the workshop is organized with the support of the AI4EIC Working Group of the EIC User Group (EICUG) and a multi-institutional scientific organizing committee. This year, the Workshop is co-sponsored by the NSF Institute for Artificial Intelligence and Fundamental Interactions (IAIFI), including organization and funding support. 
 
 Building on the productive exchanges of [previous AI4EIC events](https://eic.ai), this year's workshop will explore both current and emerging applications of AI/ML within the EIC, including work related to the ePIC experiment and beyond. The program will feature contributions from experts across academia, national laboratories, and industry. We are also excited to announce a dedicated workfest on AI Retrieval Agents for EIC Science, organized by AI4EIC, offering a hands-on opportunity for collaborative development and discussion during the Workshop. 
 
