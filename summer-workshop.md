@@ -115,7 +115,7 @@ Francois Lanusse, CNRS
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Deep Learning has seen a recent shift in paradigm, from training specialized models on dedicated datasets, so-called Foundation Models, trained in a self-supervised manner on vast amounts of data and then adapted to solve specific tasks with state-of-the-art performance. This new paradigm has been exceptionally successful not only for large language models (LLMs) but in other domains such as vision models. In this talk I will discuss several methodologies that can be deployed in our scientific domains, in particular weakly-supervised cross-modal contrastive learning and multimodal self-supervised generative pretraining. I will show how these approaches can be used to build models flexible to very diverse and inhomogeneous observations (e.g. different types of measurements such as spectra, time-series, or images, but also different instruments, etc...) and how they can then be leveraged by the end-user for a variety of downstream applications (e.g. redshift estimation, morphology classification, physical parameter inference, searching for rare objects) with very simple machine learning methods and still reach near-optimal performance.</em>
 </details>
 
 **4:15-5:00 pm ET**
@@ -312,7 +312,7 @@ Eluned Smith, MIT
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>With an anticipated input rate of 200 Tb/s, the LHCb experiment demands real-time data reduction at the detector level to prevent irreversible loss of valuable physics information. This talk presents an overview of efforts to deploy machine learning inference directly on compact, radiation-tolerant FPGAs located near the detector readout—an environment that imposes stringent constraints on latency and resource utilization. As a concrete example, I highlight the use of Variational Autoencoders (VAEs) that can simultaneously compress waveforms and extract precise timestamps within the required latency budget. I also discuss other potential and ongoing machine learning applications within LHCb's front-end systems.</em>
 </details>
 
 **9:45–10:30 am ET**

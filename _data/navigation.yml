@@ -19,8 +19,8 @@ header:
         url: /phd-summer-school.html
       - title: Summer Workshop
         url: /summer-workshop.html
-      - title: Hackathons
-        url: /hackathon.html
+      - title: Hackathons & Workshops
+        url: /hackathons-workshops.html
       - title: Colloquia
         url: /events.html
       - title: Seminars
@@ -33,8 +33,6 @@ header:
         url: /industry-lunches.html
       - title: Social Events
         url: /social-events.html
-      - title: Generative AI Symposium
-        url: /generative-ai-workshop.html
       - title: Related External
         url: /related-events.html
 
