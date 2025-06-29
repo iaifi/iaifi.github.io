@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Hackathons
+title: AstroxML Hackathon 2024
 aside:
   toc: true
 ---
@@ -59,3 +59,5 @@ Participation will be subject to the [IAIFI Code of Conduct](https://iaifi.org/c
 * Yueying Ni ([yueying.ni@cfa.harvard.edu](mailto:yueying.ni@cfa.harvard.edu))
 
 Contact [iaifi@mit.edu](mailto:iaifi@mit.edu) or any of the organizers with questions.
+
+

@@ -1,4 +1,46 @@
 - type: "internal-workshop"
+  event-name: "AI4EIC Workshop"
+  event-committee: ""
+  event-post-date: "2025-06-28"
+  start-date-time: "2025-10-27 9:00"
+  end-date-time: "2025-10-29 17:00"
+  talk-location: "MIT Tang Center"
+  talk-zoom:
+  event-details: "Past iterations of this Workshop have fostered meaningful discussions on the full range of AI/ML applications for the EIC—including accelerator and detector design, theory, and analysis—resulting in published proceedings and a community paper (https://eic.ai). We will delve deeper into the active and emerging applications of AI/ML within the EIC community, with a focus on ongoing efforts related to the ePIC experiment and beyond. Proceedings will be published in the Journal of Instrumentation. The abstract submission (1 page max, figures can be included) is now open."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2s3dG01MjhwaHVlajFjcXJhZGs4OHYyc2IgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link: https://indico.bnl.gov/event/28082/
+  priority:
+
+- type: "internal-workshop"
+  event-name: "Symposium on the Impact of Generative AI in the Physical Sciences"
+  event-committee: ""
+  event-post-date: "2024-02-15"
+  start-date-time: "2024-03-14 9:00"
+  end-date-time: "2024-03-15 17:00"
+  talk-location: "MIT Schwarzman College of Computing"
+  talk-zoom:
+  event-details: "The IAIFI Symposium on the Impact of Generative AI in the Physical Sciences brought leading researchers in generative AI and physics together for plenary talks, panels, and discussion, to define the potential for this class of tools to impact physics research, and to understand what is needed for this potential to be realized. "
+  calendar-link:
+  rsvp-link:
+  more-info-link: https://iaifi.org/generative-ai-workshop
+  priority:
+  
+- type: "internal-workshop"
+  event-name: "Astro x ML Hackathon 2024"
+  event-committee: ""
+  event-post-date: "2023-12-15"
+  start-date-time: "2024-01-22 9:00"
+  end-date-time: "2024-01-24 17:00"
+  talk-location: "MIT Stata Center"
+  talk-zoom:
+  event-details: "Participants in the AstroxML hackathon, organized by IAIFI and collaborators, will team up to tackle real-world astrophysical problems leveraging machine learning. We welcome both less experienced participants and machine learning gurus looking for interesting problems to solve with AI. We promise all an exciting week of caffeine-fueled coding sessions. Lunch and refreshments will be provided."
+  calendar-link:
+  rsvp-link:
+  more-info-link: https://iaifi.org/ai-astro-hackathon
+  priority:
+  
+- type: "internal-workshop"
   event-name: "IAIFI Summer Workshop"
   event-committee: "Summer School and Workshop"
   event-post-date: "2025-02-01"
@@ -12,7 +54,7 @@
   more-info-link: https://iaifi.org/summer-workshop
   priority: high
   
-- type: "internal-other"
+- type: "internal-workshop"
   event-name: "IAIFI Summer School"
   event-committee: "Summer School and Workshop"
   event-post-date: "2025-07-01"
