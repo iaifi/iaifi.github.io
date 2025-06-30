@@ -35,6 +35,8 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 *The agenda is subject to change.* 
 
+<img src="images/2025-summer-workshop.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
+
 ### Monday, August 11, 2025
 **9:00-9:15 am ET**
 
@@ -248,9 +250,9 @@ Break
 
 **11:00–11:45 am ET**
 
-*ML inroads into Conformal Field Theory*
+*Title to come*
 
-Costis Papageorgakis, Queen Mary University of London
+Lukas Heinrich, Technical University Munich
 
 <details>
 <summary>Abstract</summary>
@@ -259,13 +261,13 @@ Costis Papageorgakis, Queen Mary University of London
 
 **11:45 am–12:30 pm ET**
 
-*Title to come.*
+*AI on the Edge: Decoding Particles, Brains, and Cosmic Collisions in Real Time*
 
-Sven Krippendorf, University of Cambridge
+Shih-Chieh Hsu, University of Washington
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Artificial Intelligence is transforming scientific discovery at every scale-from the subatomic to the cosmic-by enabling real-time data analysis with unprecedented speed and precision. The A3D3 Institute leads this revolution, leveraging advanced hardware like FPGAs and GPUs, cutting-edge model compression, and specialized inference frameworks to accelerate breakthroughs in particle physics, neuroscience, and multi-messenger astrophysics. This talk highlights how A3D3’s innovations are powering instant detection of rare events, live decoding of brain signals, and rapid response to cosmic phenomena, ushering in a new era where AI turns massive data streams into actionable insights as they happen.</em>
 </details>
 
 **12:30–2:00 pm ET**
@@ -280,27 +282,11 @@ Lunch
 
 Break
 
-**4:00–4:45 pm ET**
+**4:00–5:00 pm ET**
 
-*Title to come*
+*Building an AI Scientist: Best Practices for Vibe Coding*
 
-Lukas Heinrich, Technical University Munich
-
-<details>
-<summary>Abstract</summary>
-<em>Abstract to come.</em>
-</details>
-
-**4:45-5:30 pm ET**
-
-*AI on the Edge: Decoding Particles, Brains, and Cosmic Collisions in Real Time*
-
-Shih-Chieh Hsu, University of Washington
-
-<details>
-<summary>Abstract</summary>
-<em>Artificial Intelligence is transforming scientific discovery at every scale-from the subatomic to the cosmic-by enabling real-time data analysis with unprecedented speed and precision. The A3D3 Institute leads this revolution, leveraging advanced hardware like FPGAs and GPUs, cutting-edge model compression, and specialized inference frameworks to accelerate breakthroughs in particle physics, neuroscience, and multi-messenger astrophysics. This talk highlights how A3D3’s innovations are powering instant detection of rare events, live decoding of brain signals, and rapid response to cosmic phenomena, ushering in a new era where AI turns massive data streams into actionable insights as they happen.</em>
-</details>
+Panel TBA
 
 **6:00–8:00 pm ET**
 
@@ -370,12 +356,27 @@ Lunch
 
 Break
 
-**4:00–5:00 pm ET**
+**4:00–4:45 pm ET**
 
-*Building an AI Scientist: Best Practices for Vibe Coding*
+*ML inroads into Conformal Field Theory*
 
-Panel TBA
+Costis Papageorgakis, Queen Mary University of London
 
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come.</em>
+</details>
+
+**4:45–5:30 pm ET**
+
+*Title to come.*
+
+Sven Krippendorf, University of Cambridge
+
+<details>
+<summary>Abstract</summary>
+<em>Abstract to come.</em>
+</details>
 
 
 ### Friday, August 15, 2025
