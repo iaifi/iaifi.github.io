@@ -171,6 +171,18 @@
   event-details: "Artificial intelligence techniques are becoming increasingly important in high energy physics (HEP), with a range of applications that goes from analytic computations and symbolic regression to modeling, optimization and pattern recognition. Many of these applications tackle cutting-edge problems in machine learning (ML), and in fact address issues, such as the need to accurate uncertainty estimations, that are often disregarded in the most common ML applications. The goal of this school is to provide hands-on training on cutting edge machine learning methods in HEP by combining extensive advanced courses taught with extended  tutorial sessions. The tutorials will exploit as a playing ground the NNPDF open-source code, which, originally aimed at the determination of parton distribution, makes use of  a variety of current ML, statistical and analysis tools and techniques of wide applicability."
   calendar-link:
   
+- type: "external-workshop"
+  event-name: "AstroAI Workshop"
+  event-organizer: "AstroAI"
+  more-info-link: "https://github.com/florpi/from-zero-to-generative-jax-tutorial"
+  event-post-date: "2025-06-29"
+  start-date-time: "2025-06-30 12:00"
+  end-date-time: "2025-06-30 13:00"
+  talk-location: "P-108A (Wolbach space), Center for Astrophysics, 60 Garden Street"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "This Monday, June 30th at noon AstroAI will have a workshop focusing on generative methods, led by IAIFI Fellow Carol Cuesta-Lazaro, at the P-108A video wall (former Wolbach library space) and on zoom. Here is the information about the session:<br>Title: From Zero to Generative: Learning generative models from scratch<br>Abstract: This workshop introduces generative modeling starting with basic concepts, we guide participants through the intuition and implementation of key generative frameworks, such as diffusion models. Participants will gain hands-on experience building simple versions of these models and understanding when to apply different architectures.<br>Tutorials: https://github.com/florpi/from-zero-to-generative-jax-tutorial<br>There is no installation instructions, everything works directly from Google collar.<br>Slides: https://slides.com/carolcuesta/from-zero-to-generative-mitcfa-2025"
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDRsOTk1dDR2NjVmOWxxb3UzODYwY3BudmUgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
 - type: "external-event"
   event-name: "EAS Annual Meeting Session: The changing macrocosm of astroinformatics"
   event-organizer: "AstroAI"
