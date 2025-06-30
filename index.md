@@ -170,13 +170,13 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
   <a href="/member-resources.html" class="button button--outline-primary button--pill button--lg">For Members</a>
 </div>
 
-<!---
+
 ### IAIFI Jobs
 
 
-***Applications are now open for the 2025–2028 IAIFI Fellowship search.*** [Apply to be an IAIFI Fellow](https://iaifi.org/fellows) by October 9, 2024. 
+***Applications are now open for the 2026–2029 IAIFI Fellowship search.*** [Apply to be an IAIFI Fellow](https://iaifi.org/fellows) by October 8, 2025. 
 {:.success}
---->
+
 
 
 ### IAIFI Events
