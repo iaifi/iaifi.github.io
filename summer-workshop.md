@@ -302,6 +302,12 @@ Shih-Chieh Hsu, University of Washington
 <em>Artificial Intelligence is transforming scientific discovery at every scale-from the subatomic to the cosmic-by enabling real-time data analysis with unprecedented speed and precision. The A3D3 Institute leads this revolution, leveraging advanced hardware like FPGAs and GPUs, cutting-edge model compression, and specialized inference frameworks to accelerate breakthroughs in particle physics, neuroscience, and multi-messenger astrophysics. This talk highlights how A3D3’s innovations are powering instant detection of rare events, live decoding of brain signals, and rapid response to cosmic phenomena, ushering in a new era where AI turns massive data streams into actionable insights as they happen.</em>
 </details>
 
+**6:00–8:00 pm ET**
+
+*Workshop Dinner*
+
+Museum of Science
+
 ### Thursday, August 14, 2025
 
 **9:00–9:45 am ET**
@@ -370,11 +376,6 @@ Break
 
 Panel TBA
 
-**6:00–8:00 pm ET**
-
-*Workshop Dinner*
-
-Museum of Science
 
 
 ### Friday, August 15, 2025
