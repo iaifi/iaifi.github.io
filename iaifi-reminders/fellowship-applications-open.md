@@ -16,7 +16,7 @@ search for early-career scientists working at the intersection of
 Physics and AI. Applications for this sixth round of IAIFI Fellows are 
 due on **Wednesday, October 8, 2025.**
 
-[Apply on AJO](https://academicjobsonline.org/ajo/jobs/27839){:.button.button--outline-primary.button--pill.button--lg} [Learn more about the IAIFI Fellowship](https://iaifi.org/fellows){:.button.button--outline-primary.button--pill.button--lg}
+[Apply on AJO](https://academicjobsonline.org/ajo/jobs/30155){:.button.button--outline-primary.button--pill.button--lg} [Learn more about the IAIFI Fellowship](https://iaifi.org/fellows){:.button.button--outline-primary.button--pill.button--lg}
 
 The NSF Institute for Artificial Intelligence and Fundamental Interactions (IAIFI, pronounced /aɪ-faɪ/) is one of the inaugural NSF AI research institutes. The IAIFI is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. AI is transforming many aspects of society, including the ways that scientists are pursuing groundbreaking discoveries.
 
