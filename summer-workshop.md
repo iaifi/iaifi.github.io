@@ -70,13 +70,13 @@ Break
 
 **11:15 am–12:00 pm ET**
 
-*Quasimetrics and Reinforcement Learning*
+*Self-supervised Reinforcement Learning and Generative Models*
 
 Amy Zhang, UT Austin
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>We explore the intersection of generative AI and reinforcement learning, demonstrating how generative models can be understood as RL agents and environments, and conversely, how RL can be viewed as generative modeling. We show how this perspective leads to new forms of self-supervised reinforcement learning algorithms that form new objectives for training generative models. We will discuss future directions and open problems, focusing on how RL can shape the future of foundation model training.</em>
 </details>
 
 **12:00–1:30 pm ET**
