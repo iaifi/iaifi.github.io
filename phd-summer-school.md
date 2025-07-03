@@ -46,7 +46,7 @@ Students for the Summer School have the option to reserve dorm rooms at Harvard 
 Lecturer: [Sasha Rakhlin](https://www.mit.edu/~rakhlin/), Professor, MIT
 
 <img class="image" src="images/small-photo-aleksandra-ciprijanovic.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
-### Topic: Robust/Interpretable AI: Domain Adaptation
+### Topic: Domain Shift Problem: Building Robust AI Models with Domain Adaptation
 
 Lecturer: [Aleksandra Ćiprajanović](https://aleksandraciprijanovic.wordpress.com), Wilson Fellow Associate Scientist, Fermilab
 
@@ -188,7 +188,13 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 4: Domain Adaptation (Aleksandra Ciprajanovic, Fermilab)
+Lecture 4: Domain Shift Problem: Building Robust AI Models with Domain Adaptation (Aleksandra Ciprajanovic, Fermilab)
+
+*Artificial Intelligence (AI) is revolutionizing physics research—from probing the large-scale structure of the Universe to modeling subatomic interactions and fundamental forces. Yet, a major challenge persists: AI models trained on simulations or old experiment / astronomical survey often perform poorly when applied to new data—exposing issues of dataset (domain) shift, model robustness, and uncertainty in predictions. This summer school session will introduce students to common challenges in applying AI across domains and present solutions based on domain adaptation—a set of techniques designed to improve model generalization under domain shift. We will cover foundational ideas, practical strategies, and current research frontiers in this area. Through examples in astrophysics, we'll explore how domain adaptation can help bridge the gap between synthetic and real-world data, improve trust in model outputs, and advance scientific discovery. The concepts discussed are broadly applicable across physics and other scientific disciplines, making this a valuable topic for anyone interested in building robust, transferable AI models for science.*
+
+Resources: 
+* [A Brief Review of Domain Adaptation](https://arxiv.org/pdf/2010.03978v1)
+* [Deep Visual Domain Adaptation: A Survey](https://arxiv.org/pdf/1802.03601)
 
 **12:00–1:00 pm ET**
 
@@ -196,7 +202,7 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 4: Domain Adaptation (Sneh Pandya, Northeastern)
+Tutorial 4: Domain Shift Problem: Building Robust AI Models with Domain Adaptation (Sneh Pandya, Northeastern)
 
 **3:30–4:30 pm ET**
 
