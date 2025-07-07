@@ -24,7 +24,7 @@
   
 - type: "external-event"
   event-name: "IWR School on Machine Learning for Fundamental PhysicsIWR School on Machine Learning for Fundamental Physics"
-  event-organizer: "SOC: Tilman Plehn, David Shih, Caroline Heneka, Henning Bahl; LOC: Jan Keese, Anne Leonhardt, Michael Winckler"
+  event-organizer: "Interdisciplinary Center for Scientific Computing (IWR) at Heidelberg University"
   more-info-link: "https://indico.physi.uni-heidelberg.de/event/1053/"
   event-post-date: "2025-07-06"
   start-date-time: "2025-09-15 9:00"
@@ -135,7 +135,7 @@
   
 - type: "external-event"
   event-name: "AI Safety x Physics Grand Challenge"
-  event-organizer: "Lauren Greenspan, with Apart Research"
+  event-organizer: "Apart Research"
   more-info-link: "https://apartresearch.com/sprints/ai-safety-x-physics-grand-challenge-2025-07-25-to-2025-07-27"
   event-post-date: "2025-07-06"
   start-date-time: "2025-07-25 9:00"
