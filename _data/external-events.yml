@@ -23,6 +23,19 @@
   calendar-link:
   
 - type: "external-event"
+  event-name: "IWR School on Machine Learning for Fundamental PhysicsIWR School on Machine Learning for Fundamental Physics"
+  event-organizer: "SOC: Tilman Plehn, David Shih, Caroline Heneka, Henning Bahl; LOC: Jan Keese, Anne Leonhardt, Michael Winckler"
+  more-info-link: "https://indico.physi.uni-heidelberg.de/event/1053/"
+  event-post-date: "2025-07-06"
+  start-date-time: "2025-09-15 9:00"
+  end-date-time: "2025-09-19 17:00"
+  talk-location: "IWR Heidelberg"
+  talk-zoom:
+  event-details: "Machine Learning is here to stay and is shaping the future of fundamental physics research. From optimal inference, over theory-inspired network architectures, to anomaly detection, representation learning and foundation models, a new generation of scientists is driving these exciting developments. This school aims to further strengthen technical expertise and foster new connections. The 2025 IWR School on Machine Learning for Fundamental Physics is aimed at advanced PhD students specializing in scientific machine learning. We particularly encourage registrations from researchers with experience in scientific machine learning, as demonstrated by papers or preprints related to the topic of the school. The school takes place at the Interdisciplinary Center for Scientific Computing (IWR) at Heidelberg University September 15th-19th 2025."
+  registration-deadline: 2025-07-18
+  calendar-link:
+  
+- type: "external-event"
   event-name: "Open SkAI 2025"
   event-organizer: "SkAI Institute"
   more-info-link: "https://sites.northwestern.edu/skaiconference/"
@@ -120,7 +133,17 @@
   event-details: "TPC25 will convene AI leaders globally from industry, academia, and national laboratories to explore collaboration across these sectors and internationally, with the goal of accelerating advances in AI to responsibly and safely address today’s scientific and engineering grand challenges. The theme for TPC25 is to explore and pursue collaborations between industry and public sector AI research — national laboratories, universities, and institutes — including those building and utilizing AI capabilities, infrastructure, and applications."
   calendar-link:
   
-  
+- type: "external-event"
+  event-name: "AI Safety x Physics Grand Challenge"
+  event-organizer: "Lauren Greenspan, with Apart Research"
+  more-info-link: "https://apartresearch.com/sprints/ai-safety-x-physics-grand-challenge-2025-07-25-to-2025-07-27"
+  event-post-date: "2025-07-06"
+  start-date-time: "2025-07-25 9:00"
+  end-date-time: "2025-07-27 17:00"
+  talk-location: "Virtual"
+  talk-zoom:
+  event-details: "The AI Safety x Physics Grand Challenge is a research hackathon designed to engage physicists in tackling critical AI safety problems. This is an excellent entry point for physicists who want to contribute to AI safety—you'll work alongside peers who share your technical background and passion for rigorous problem-solving."
+  calendar-link:
   
 - type: "external-workshop"
   event-name: "AI for Astrophysics Workshop co-located at ICML 2025"
