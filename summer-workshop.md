@@ -358,13 +358,13 @@ Break
 
 **4:00–4:45 pm ET**
 
-*ML inroads into Conformal Field Theory*
+*Machine Learning inroads into the Bootstrap programme*
 
 Costis Papageorgakis, Queen Mary University of London
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>I will survey recent advances in applying machine learning to the bootstrap programme in theoretical physics. I will discuss the use of reinforcement learning in high-dimensional searches for Conformal Field Theory (CFT) data, neural operators for finding scattering-matrix phases and neural network applications for bootsrapping CFTs at finite temperature. I will also touch upon investigations using large language models for analysing high-energy theory abstracts.</em>
 </details>
 
 **4:45–5:30 pm ET**
@@ -441,7 +441,7 @@ Moritz Münchmeyer, University of Wisconsin-Madison
 
 <details>
 <summary>Abstract</summary>
-<em>Large-language reasoning models are now powerful enough to perform mathematical reasoning in theoretical physics at graduate level. In the mathematics community, data sets such as FrontierMath are being used to drive progress and evaluate models, but theoretical physics has so far received less attention. In this talk I will present our dataset TPBench (arxiv:2502.15815, tpbench.org), which was constructed to benchmark and improve AI models specifically for theoretical physics. We find rapid progress of models over the last months, but also significant challenges at research level difficulty. I will discuss strategies to improve these models for theoretical physics and also show new results using test-time scaling techniques on these problems.</em>
+<em>Large-language reasoning models are now powerful enough to perform mathematical reasoning in theoretical physics at graduate or even research level. In the mathematics community, data sets such as FrontierMath are being used to drive progress and evaluate models, but theoretical physics has so far received less attention. In this talk I will first present our dataset TPBench (arxiv:2502.15815, tpbench.org), which was constructed to benchmark and improve AI models specifically for theoretical physics. I will analyze both the strengths and remaining weaknesses of LLMs in theoretical physics reasoning, and discuss strategies to improve their performance. I will then show our new results (arxiv:2506.20729) comparing different test-time scaling techniques on TPBench, including sequential and parallel reasoning methods combined with symbolic verification to boost performance.</em>
 </details>
 
 **2:45–3:30 pm ET**
