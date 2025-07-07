@@ -21,6 +21,18 @@
   talk-zoom:
   event-details: "The 28th Discovery Science Conference and other co-located events will be held under the common umbrella name AI for Science. The International Conference Discovery Science (DS) has a long tradition, as this edition will be the 28th in a row. It was previously held in Slovenia as an independent organization by the Slovenian Institute of Science (IJS). The meeting is intended for discussions and exchange of ideas among researchers who develop and use methods of artificial intelligence (AI), data science and big data analysis in solving scientific and industrial challenges. Due to the importance of the topic, we will also organize a series of thematic tracks related to AI in various scientific disciplines. Some of them will preform under the sponsorship of SMASH. The deadline for abstract submission is 26. 06. 2025."
   calendar-link:
+
+- type: "external-event"
+  event-name: "AI in Science Conference 2025"
+  event-organizer: "The European Commission, The Danish EU Presidency and The University of Copenhagen"
+  more-info-link: "https://kalender.ku.dk/begivenheder/2025/ai-in-science/"
+  event-post-date: "2025-07-06"
+  start-date-time: "2025-11-03 9:00"
+  end-date-time: "2025-11-04 17:00"
+  talk-location: "The University of Copenhagen, Denmark"
+  talk-zoom:
+  event-details: "As a part of the Danish Presidency of the Council of the European Union, The University of Copenhagen will host the AI in Science Conference 2025 on 3-4 November, co-organised by the European Commission, The Danish EU Presidency and The University of Copenhagen. The conference will mark the launch of the European AI in Science Strategy. The venue for the conference is Hotel Bella Sky in Copenhagen. Sign to stay informed: Send an e-mail to ais25@ku.dk. The submission deadline is September 1: https://easychair.org/cfp/AIS2025"
+  calendar-link:
   
 - type: "external-event"
   event-name: "IWR School on Machine Learning for Fundamental PhysicsIWR School on Machine Learning for Fundamental Physics"
