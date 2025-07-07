@@ -53,6 +53,19 @@
   rsvp-link:
   more-info-link: https://iaifi.org/summer-workshop
   priority: high
+
+- type: "social"
+  event-name: "2025 Summer School Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-07-06"
+  start-date-time: "2025-08-06 5:30"
+  end-date-time: "2025-08-06 8:00"
+  talk-location: "Harvard University Physics building (17 Oxford St, Cambridge) - More details TBA"
+  talk-zoom:
+  event-details: "All IAIFI members are invited to the 2025 IAIFI Summer School Social! The event will start with a Fireside Chat with Boris Hanin (Princeton) from 5:30-6:30pm, followed by a catered reception hosted by PDT Partners, a sponsor of the Summer School, from 6:30-8:00pm. If you aren't attending the Summer School, but would like to attend the Social, please make sure to fill out the RSVP form."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGE0MmRtNnZncDY4NW9oNjBsamw0bzczMDYgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link: "https://app.smartsheet.com/b/form/0197e5432a487e00b3a4638971bf0aae"
+  more-info-link:
   
 - type: "internal-workshop"
   event-name: "IAIFI Summer School"
