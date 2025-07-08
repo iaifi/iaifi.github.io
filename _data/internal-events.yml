@@ -39,6 +39,32 @@
   rsvp-link:
   more-info-link: https://iaifi.org/ai-astro-hackathon
   priority:
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-08-24"
+  start-date-time: "2025-08-26 14:00"
+  end-date-time: "2025-08-26 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTA4MjZUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-08-17"
+  start-date-time: "2025-08-19 14:00"
+  end-date-time: "2025-08-19 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTA4MTlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
+  rsvp-link:
+  more-info-link:
   
 - type: "internal-workshop"
   event-name: "IAIFI Summer Workshop"
