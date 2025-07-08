@@ -128,7 +128,7 @@ Peter Melchior, Princeton University
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Astronomy and astrophysics are currently undergoing profound changes as the results of two developments: 1) the availability of vast quantities of data from surveys and simulations, and 2) the rapid progress in machine learning and AI. But how should we bridge the gap between data-driven and theoretical descriptions of the Universe? How do we actually learn new aspects of physical systems from data? I will show that introducing structure, usual reflecting causal relations, into deep learning architectures creates efficient, robust, useful, and highly interpretable models that respect known physics and reveal unknown phenomena. I will present results from my group on exoplanets, galaxy evolution, and cosmology to demonstrate what we can achieve already and discuss how this approach leads to future astrophysics and AI research.</em>
 </details>
 
 **5:30–8:00 pm ET**
@@ -177,13 +177,13 @@ Alexandre Adam, Université de Montréal
 
 **11:45 am–12:30 pm ET**
 
-*Title to come.*
+*Bridging Legacy and Modern Inference: Practical SBI for Astrophysics*
 
 Noemi Anau Montel, Max Planck Institute for Astrophysics
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Simulation-based inference (SBI) has emerged as a transformative tool for astrophysical analysis, yet its widespread adoption still faces significant obstacles, including the integration with existing pipelines and establishing scientific trust. This talk addresses these challenges through three practical approaches demonstrated across different applications. In particular, I will discuss how to build effective simulators from explicit likelihood codes, allowing us to integrate legacy cosmological likelihoods, like the Planck CMB likelihood, with SBI frameworks. Second, I will present a robust SBI pipeline for complex Fermi-LAT gamma-ray observations that, while modeling background emission with greater realism, confirms source-count distributions consistent with traditional results and achieves $>98\%$ completeness relative to the standard catalog. Finally, I will introduce systematic tests for model misspecification by extending traditional goodness-of-fit concepts to simulation-based frameworks, showing an example of such tests on the GW150914 gravitational wave event.</em>
 </details>
 
 **12:30–2:00 pm ET**
@@ -461,8 +461,6 @@ Closing
 
 
 ## Speakers
-
-Speakers will be announced as they are confirmed. 
  
 <div class="card-columns">
   <!--<div class="row">-->
