@@ -91,7 +91,7 @@ Alex Gagliano, IAIFI Fellow
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Large-scale imaging surveys of the night sky have driven a boom in the discovery and analysis of supernovae: the explosions of massive stars. Though our sample sizes continue to grow, the data volumes pose major challenges for traditional analyses. In this talk, I will introduce a series of machine learning approaches developed for time-domain astrophysics, with a focus on the physics and progenitors of core-collapse supernovae. I will discuss how contrastive learning, hierarchical classification, and generative modeling can help astronomers uncover structure in multimodal data, enable early classification, and facilitate physical inference in the face of measurement uncertainty. Drawing on lessons from my own work, I will forecast the future of supernova science in the era of large-scale surveys like the Vera C. Rubin Observatory's Legacy Survey of Space and Time.</em>
 </details>
 
 **2:15–3:00 pm ET**
