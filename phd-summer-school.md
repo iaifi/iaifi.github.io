@@ -128,7 +128,19 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 2: Physics-Motivated Optimization (Gaia Grosso, IAIFI Fellow)
+Lecture 2: Physics-Guided Optimizations: Inform and Inspire AI Models with Physics Principles (Gaia Grosso, IAIFI Fellow)
+
+*This lecture presents key concepts and techniques for designing machine learning models both informed by and inspired by physics principles. In the first part, we explore ways to inform AI models about physics constraints and data properties. We examine the highly structured nature of data in the physical sciences—such as images, point clouds, and time series—and discuss how their geometric and physical properties shape effective machine learning approaches. We then cover practical strategies for incorporating physical constraints through loss functions, regularization, and inductive biases. In the second part, we highlight how physical principles can inspire the design of optimization methods and AI architectures, introducing concepts like annealing, diffusion, entropy, and energy-based models, and showing examples of their growing role in modern machine learning.*
+
+Resources: 
+* [An Introduction to Physics-Guided Deep Learning](https://www.pnas.org/doi/10.1073/pnas.2311808121)
+* [Energy Based Models](https://www.researchgate.net/profile/Marcaurelio-Ranzato/publication/216792742_A_Tutorial_on_Energy-Based_Learning/links/0912f50c6862425435000000/A-Tutorial-on-Energy-Based-Learning.pdf)
+* [The Role of Momentum in ML Optimization](https://distill.pub/2017/momentum/)
+* [Entropy Regularization](https://www.researchgate.net/profile/Y-Bengio/publication/237619703_9_Entropy_Regularization/links/0f3175320aaecbde17000000/9-Entropy-Regularization.pdf)
+* [Hamiltonian Neural Networks](https://proceedings.neurips.cc/paper/2019/file/26cd8ecadce0d4efd6cc8a8725cbd1f8-Paper.pdf)
+* [Physics Informed Neural Networks](https://arxiv.org/pdf/2105.09506)
+* [New Frontiers for Hopfield Networks](https://www.nature.com/articles/s42254-023-00595-y)
+* [Diffusion Models](https://arxiv.org/pdf/2209.00796)
 
 **12:00–1:00 pm ET**
 
@@ -136,7 +148,7 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 2: Physics-Motivated Optimization (Sean Benevedes, MIT and Jigyasa Nigam, MIT)
+Tutorial 2: Physics-guided Optimizations: Inform and Inspire AI Models with Physics Principles (Sean Benevedes, MIT and Jigyasa Nigam, MIT)
 
 **3:30–4:30 pm ET**
 

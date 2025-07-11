@@ -39,6 +39,32 @@
   rsvp-link:
   more-info-link: https://iaifi.org/ai-astro-hackathon
   priority:
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-08-24"
+  start-date-time: "2025-08-26 14:00"
+  end-date-time: "2025-08-26 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTA4MjZUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-08-17"
+  start-date-time: "2025-08-19 14:00"
+  end-date-time: "2025-08-19 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/u/0/r/eventedit/copy/MzQ3cjByMDI3cXEwNjliaGRjNHVnNzEyaWxfMjAyNTA4MTlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn
+  rsvp-link:
+  more-info-link:
   
 - type: "internal-workshop"
   event-name: "IAIFI Summer Workshop"
@@ -65,6 +91,19 @@
   event-details: "All IAIFI members are invited to the 2025 IAIFI Summer School Social! The event will start with a Fireside Chat with Boris Hanin (Princeton) from 5:30-6:30pm, followed by a catered reception hosted by PDT Partners, a sponsor of the Summer School, from 6:30-8:00pm. If you aren't attending the Summer School, but would like to attend the Social, please make sure to fill out the RSVP form."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGE0MmRtNnZncDY4NW9oNjBsamw0bzczMDYgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link: "https://app.smartsheet.com/b/form/0197e5432a487e00b3a4638971bf0aae"
+  more-info-link:
+  
+- type: "social"
+  event-name: "IAIFI MSRP Poster Session and Pizza Lunch"
+  event-committee: "Community Building"
+  event-post-date: "2025-07-20"
+  start-date-time: "2025-08-01 12:00"
+  end-date-time: "2025-08-01 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "All IAIFI members are invited to attend this informal showcase of IAIFI's MSRP summer students! The students will present posters on their work over the summer, and food and refreshments will be provided. This will be a great opportunity to celebrate the work that the students have done."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTA4MDFUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
   more-info-link:
   
 - type: "internal-workshop"
