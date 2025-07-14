@@ -169,6 +169,18 @@
   event-details: "Submissions are open for the AI for Astrophysics Workshop co-located at ICML 2025. <b>Submissions are due by June 9, 2025.</b><br><br>Contemporary and upcoming surveys are producing petabytes of multimodal, heterogeneous data — imaging billions of galaxies, mapping large-scale structures through spectroscopy, and discovering diverse transient phenomena in real time. In parallel, simulations are modeling complex physical systems at increasing resolution and fidelity. These settings demand models that are robust, interpretable, sample-efficient, and physically grounded. This workshop aims to connect the ML and astrophysics communities to drive methodological innovations toward real-world scientific impact."
   registration-deadline: 2025-04-15
   calendar-link:
+
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-07-13"
+  start-date-time: "2025-07-14 12:00"
+  end-date-time: "2025-07-14 13:00"
+  talk-location: "P-108A (Wolbach space), Center for Astrophysics, 60 Garden Street"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Sebastian Ratzenboeck (CfA)<br>Title: Learning with Gaps: A Domain-Adaptive ML Framework for Mapping Young Stars from Incomplete, Multi-Survey Data <br>Abstract: Identifying young stellar objects (YSOs) in the solar neighborhood is key to understanding the Galactic baryon cycle. By tracing where and when stars form, disperse, and inject energy into the interstellar medium, we gain insight into the processes that regulate star formation and feedback. Recent advances in 3D dust mapping and the availability of multi-wavelength data from surveys like Spitzer, WISE, Gaia, LAMOST, and APOGEE open the door to building a high-resolution 3D census of young stars. However, effectively using this data is challenging: surveys differ in wavelength coverage, sensitivity, and resolution; most stars are only partially observed; and simulations differ systematically from real observations. Traditional simulation-based inference (SBI) methods are poorly suited to this setting, as they assume complete, noise-homogeneous, and simulation-faithful data.<br>We present a domain-adaptive, multi-survey SBI framework designed to address these challenges. The model learns a shared latent space between synthetic and real data using survey-specific adapters and modality-specific encoders. It aligns simulations and observations through optimal transport and contrastive learning, and additionally uses cross-survey spectral pairs to improve consistency. Crucially, the architecture supports arbitrary combinations of photometric and spectroscopic inputs, handles missing modalities naturally, and enables inference across highly heterogeneous data regimes.<br>At its core is a transformer-based flow matching model trained to learn the full joint distribution over stellar parameters (e.g. age, distance, extinction, Teff, logg) and observations. This allows flexible conditioning and marginalization over any subset of inputs at inference time. By unifying simulations and observations in a single probabilistic framework, our approach enables accurate YSO characterization and paves the way for a bias-aware 3D map of recent star formation in the solar neighborhood."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm1ydGNlbHJoZXBzaDhpZmlpOTZvNzlidDIgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-workshop"
   event-name: "AstroAI Workshop - Unveiling the Universe with AI/ML"
