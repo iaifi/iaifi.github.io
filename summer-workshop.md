@@ -192,7 +192,9 @@ Lunch
 
 **2:00–3:30 pm ET**
 
-**Contributed Talks Session A (Room B101): Generative Models **
+**Contributed Talks Session A: Generative Models**
+
+*Room B101*
 
 <details>
 <summary>Conditional Generation of LArTPC Images Using Latent Diffusion, Zev Imani (Tufts University)</summary>
@@ -234,7 +236,40 @@ Together, our theory highlights the importance of spectral structure of data in 
 </details>
 
 
-**Contributed Talks Session B (Room B103)**
+**Contributed Talks Session B: Physics-Motivated Optimization**
+
+*Room B103*
+
+<details>
+<summary>Feature Learning and Generalization in Deep Networks with Orthogonal Weights, Hannah Day (University of Illinois Urbana-Champaign)</summary>
+<em>Signals propagating through a neural network can be thought of as a renormalization group flow where the marginal couplings are hyperparameters of the network tuned to criticality to prevent exponential growth or decay of signals. Using this formalism, we study the effect of initializing a network with weights sampled from an orthogonal matrix distribution and find several key features which indicate that networks with orthogonal initialization might perform better than those with Gaussian initialization throughout training.</em>
+</details>
+
+<details>
+<summary>Self-supervised mapping of space-charge distortions in Liquid Argon TPCs, Jack Cleeve (Columbia University)</summary>
+<em>We introduce an end-to-end, self-supervised neural workflow that learns the three-dimensional electric-field distortion in a Liquid Argon TPC directly from through-going cosmic muon tracks. The network uses geometric straightness and boundary conditions to generate its own target undistorted paths and iteratively refine them. In this talk, I will present the architecture of the model, detail the self-supervised training process and analyze its performance on SBND-scale simulations.</em>
+</details>
+
+<details>
+<summary>Machine Learning Neutrino-Nucleus Cross Sections, Karla Tame-Narvaez (Fermilab)</summary>
+<em>Neutrino-nucleus scattering cross sections are critical theoretical inputs for long-baseline neutrino oscillation experiments. However, robust modeling of these cross sections remains challenging. For a simple but physically motivated toy model of the DUNE experiment, we demonstrate that an accurate neural-network model of the cross section—leveraging Standard Model symmetries—can be learned from near-detector data. We then perform a neutrino oscillation analysis with simulated
+far-detector events, finding that the modeled cross section achieves results consistent with what could be obtained if the true cross section were known exactly. This proof-of-principle study highlights the potential of future neutrino near-detector datasets and data-driven cross-section models.</em>
+</details>
+
+<details>
+<summary>Data-Driven Methods for Quantum Many-Body Systems, Patrick Ledwith (Harvard)</summary>
+<em>In this talk, we will discuss a general, modular scalar function that characterizes quantum phases with a ground-state degeneracy, given the spectrum of a many-body Hamiltonian. First, by interpreting it as a loss function, we show that it encodes the spectral distance to the target phase, thereby recasting quantum phase identification as a tractable optimization problem in Hamiltonian parameter space.  Applying this approach to the problem of fractional Chern insulators (FCIs), we uncover novel types of FCIs lying well beyond the Landau-level mimicry paradigm. Second, by instead interpreting the scalar function as the quality of a degenerate quantum phase, we apply Kolmogorov–Arnold Networks (KANs) to quantify to what extent the single-particle quantum geometry of a system is sufficient to predict the presence of a FCI ground state. Our work leverages gradient-based optimization and recent developments in symbolic regression for the targeted search and data-driven understanding of novel many-body phases.</em>
+</details>
+
+<details>
+<summary>Using xLSTM in jet classification with the JetClass dataset, Daniel Eduardo Conde Villatoro (Universidad de Valencia)</summary>
+<em>This work aims to use the novel xLSTM (extended Long Short-Term Memory) deep learning architecture for the jet classification task in the JetClass dataset. xLSTM is a recursive neural network that is an evolution of LSTM (Long Short-Term Memory), and it is meant to be competitive with other state-of-the-art architectures like transformers and attention. Previous works on jet classification had used LSTM to explore the relevance of constituent ordering for optimization during training, but classification on the JetClass dataset has mostly left LSTM behind in favour of the aforementioned tools. Our work revisits and builds upon the original motivation for using recursive architectures, using the xLSTM's ability to process ordered data effectively. We systematically compare the performance of different constituent ordering schemes during training.</em>
+</details>
+
+<details>
+<summary>Transformers with Gauge Covariant Attention in Lattice QCD, Akio Tomiya (TWCU)</summary>
+<em>We previously developed a Transformer neural network architecture for SU(2) lattice gauge theory and now present its straightforward extension to SU(3) lattice QCD. The model is gauge covariant and equivariant, respecting SU(3) gauge symmetry along with lattice rotations and translations. Its attention matrix is built from Frobenius inner products between link variables and covariantly transported staples, ensuring invariance under gauge transformations. Incorporated into a self learning HMC workflow, the SU(3) version shows better performance than existing gauge covariant networks, highlighting its potential to accelerate lattice QCD calculations.</em>
+</details>
 
 **3:30–4:00 pm ET**
 
@@ -318,7 +353,86 @@ Lunch
 
 **2:00–3:30 pm ET**
 
-*Contributed Talks - Parallel Sessions*
+**Contributed Talks Session A: Representation/Manifold Learning**
+
+*Room B101*
+
+<details>
+<summary>Collapse-Proof Non-Contrastive Self-Supervised Learning, Emanuele Sansone (MIT)</summary>
+<em>Self-supervised learning (SSL) has unlocked the potential of learning general-purpose representations from large amounts of unlabeled data. Despite its successes, important challenges remain, hindering the  
+applicability and democratisation of SSL. One such challenge is the presence of failure modes occurring during the training of SSL models. In this talk, we aim to distill the essential principles to guarantee the avoidance of known collapses. We present a principled and simplified design of the projector and loss function for non-contrastive SSL based on hyperdimensional computing. We theoretically demonstrate that this design introduces an inductive bias that encourages representations to be simultaneously decorrelated and clustered, without explicitly enforcing these properties. This bias provably enhances generalization and suffices to avoid known training failure modes, such as representation, dimensional, cluster, and intracluster collapses. We validate our theoretical findings on image datasets, including SVHN, CIFAR-10, CIFAR-100, and ImageNet-100. Our approach effectively combines the strengths of feature decorrelation and cluster-based SSL methods, overcoming training failure modes while achieving strong generalization in clustering and linear classification tasks.</em>
+</details>
+
+<details>
+<summary>Entropic Forces and Spontaneous Symmetry Breaking in Deep Learning, Liu Ziyin (MIT)</summary>
+<em>Building on prior works on modified loss and parameter symmetry, we develop the theory of an effective landscape for understanding the stochastic and discrete-time learning behavior of neural networks. We show that together with symmetries in neural networks, these entropic forces lead to symmetry-breaking and phase-transition-like behaviors in the training of neural networks. We also show how elements of thermodynamics, such as the equipartition theorem, can emerge as a consequence of these entropic forces in the non-equilibrium learning dynamics.</em>
+</details>
+
+<details>
+<summary>Using machine learning to emulate the atomic nucleus, Antoine Belley (MIT)</summary>
+<em>Computing nuclear observables starting from the fundamental forces between the protons and neutrons in an atomic nucleus is an extremely computationally expensive task, due both to the poor scaling of the quantum many-body problem and the complicated nature of the strong force. This becomes especially prohibitive when one wants to assess the uncertainty of such a calculation coming from its many parameters. In this talk, I will present a novel emulator that allows to quickly predict results of costly calculations. By combining a transformer architecture, bayesian neural networks and a multi-fidelity approach in which coarser approximation can be used to train the model on top of the expensive high-precision calculations, state-of-the art emulation of nuclear properties can be achieve for multiple nuclei simultaneously, with a factor of 10^5 speed up. Moreover, the emulator is able to extrapolate to nuclei removed for the training data, allowing one to explore regions of the nuclear chart that are challenging to predict with conventional methods.</em>
+</details>
+
+<details>
+<summary>Electron-nucleus cross sections from transfer learning, Krzysztof Graczyk (Institute of Theoretical Physics, University of Wroclaw, Poland)</summary>
+<em>We present a deep learning approach to modeling inclusive electron–nucleus scattering cross sections using transfer learning, demonstrating how neural networks can effectively learn nuclear physical properties from limited experimental data. Initially trained on high-statistics electron–carbon scattering data, our model captures latent features that are transferable to other nuclei, such as lithium, oxygen, aluminum, calcium, and iron. This approach enables accurate predictions even in data-sparse regimes, revealing a robust internal representation of nuclear responses across different targets. Our results highlight the potential of representation learning to extract universal physical patterns and support data-driven modeling in nuclear and particle physics. The study illustrates how abstract, learned features can encapsulate domain knowledge, enabling generalization beyond the training distribution and reducing reliance on traditional theoretical models. To probe the method’s limitations, we applied it to the helium-3 target. The approach remained effective, although it required more extensive re-optimization. Finally, I will discuss the implications of this method for modeling neutrino-nucleus interactions. This talk is based mainly on the paper arXiv:2408.09936.</em>
+</details>
+
+<details>
+<summary>Novel AI-based approaches to PDF determination, Timothy Hobbs (Argonne National Laboratory)</summary>
+<em>Recent AI and machine learning methods are opening new avenues in the study of parton distribution functions (PDFs), a cornerstone of high-energy physics, as well as related quantum correlation functions. After surveying conventional QCD-based methods for PDF determination and emphasizing the implications of parameterization choices and uncertainty-determination methods, I will present novel generative strategies that treat PDF extraction as an inverse problem. Specifically, I will highlight a variety of encoder-decoder architectures, which can more flexibly navigate high-dimensional parameter spaces and provide enhanced uncertainty quantification. By integrating physics insights with AI, these techniques facilitate cross-checks among diverse experimental datasets and offer a promising blueprint for future proton structure studies and precision collider phenomenology; I will highlight opportunities to integrate AI methods into PDF determination analyses and speculate on future directions for HEP phenomenology.</em>
+</details>
+
+<details>
+<summary>A data-driven search for ancient asteroid families, Saverio Cambioni (Massachusetts Institute of Technology)</summary>
+<em>A central goal of astrophysics is to understand how small bodies that coagulate from protoplanetary disks (planetesimals) assemble to form planets. In the solar system, some planetesimals escaped planet formation and populated the main-asteroid belt between the orbits of Mars and Jupiter, where we can observe them today. However, most of the planetesimals collided pairwise over time and formed families of asteroids. How can we distinguish the former from the latter? In this talk, I will present how collisional families can be identified by looking for clusters in the orbital properties of asteroids with unsupervised machine learning techniques. I will also show that dynamical effects lead to diffusion and destruction of clusters as families age. This process has prevented the identification of ancient families that formed at the dawn of the solar system. We seek collaborations with artificial-intelligence experts to determine alternative approaches for identifying ancient families. Once all families are found, the remainder are the primordial planetesimals whose size and composition will reveal the initial conditions of planet formation.</em>
+</details>
+
+<details>
+<summary>Data-driven classification of metal-poor stars using machine learning based on nucleosynthesis calculations, Yilin Wang (TRIUMF / University of British Columbia)</summary>
+<em>We present a first-time application of machine learning to classify metal-poor stars by the astrophysical processes that are responsible for enriching their stellar environments. The existing method categorizes stellar sites as having been enriched by the the rapid (r-), intermediate (i-), or slow (s-) neutron capture processes based on simple threshold values of abundance ratios from a very small and potentially restrictive set of elements. In this work, we develop data-driven classifiers trained on nucleosynthesis calculations from simulations of r- and s-process sites. We present the ML classification results, compare them to their conventional categorization using the existing method, and discuss the additional insights, and some challenges, revealed by this novel approach.</em>
+</details>
+
+**Contributed Talks Session B: Uncertainty Quantification/Robust AI**
+
+*Room B103*
+
+<details>
+<summary>Frequentist Uncertainties on Neural Density Ratios with wifi Ensembles, Sean Benevedes (Massachusetts Institute of Technology)</summary>
+<em>We propose wifi ensembles, a novel framework to obtain asymptotic frequentist uncertainties on density ratios in the context of neural ratio estimation. In the case where the density ratio of interest is a likelihood ratio conditioned on parameters, for example a likelihood ratio of collider events conditioned on parameters of nature, it can be used to perform simulation-based inference on those parameters. We show how uncertainties on a density ratio can be estimated with ensembles and propagated to determine the resultant uncertainty on the estimated parameters. We then turn to an application in quantum chromodynamics (QCD), using ensembles to estimate the likelihood ratio between generated quark and gluon jets. We use this learned likelihood ratio to estimate the quark fraction in a mixed quark/gluon sample, showing that the resultant uncertainties empirically satisfy the desired coverage properties.</em>
+</details>
+
+<details>
+<summary>Uncertainty-Aware Discrimination of SMEFT Signatures in Embedding Spaces, Brandon Kriesten (Argonne National Laboratory)</summary>
+<em>Representing hadronic parton distribution functions (PDFs) through flexible, high-fidelity parameterizations remains a long-standing goal of particle physics phenomenology. One crucial goal is to quantitatively connect experiments’ sensitivity to underlying theory assumptions, including a broad array of BSM and SMEFT scenarios, to the properties of the PDFs’ flavor and x-dependence. We explore this problem by encoding many SMEFT scenarios in contrastive embedding spaces generated from simulated QCD events. Within this space we apply evidence-based uncertainty quantification techniques to disentangle data (aleatoric) and knowledge (epistemic) uncertainty while identifying out of distribution samples. Equivalently important is the ability to exclude particular classes of theories, such as standard model-only physics scenarios, which we do through the identification of theory “superclasses.” I will present the latest progress in building these embedding spaces unifying dozens of SMEFT variants, demonstrating how model discrimination and anomaly detection naturally emerge alongside generation and classification tasks with uncertainty quantification.</em>
+</details>
+
+<details>
+<summary>Detecting Model Misspecification in Cosmology with Scale-Dependent Normalizing Flows, Aizhan Akhmetzhanova (Harvard University)</summary>
+<em>Current and upcoming cosmological experiments will provide massive amounts of high-dimensional data which require complex high-fidelity forward simulations to accurately model both physical processes and systematic effects which describe the data generation process. Assessing goodness-of-fit of these models on the observed datasets and identifying the degree of model misspecification present in the simulations in the high-dimensional data spaces is a challenging task. An additional challenge comes from choosing the appropriate representations of the data which, while reducing the dimensionality of the original dataset, retain all the relevant cosmological information and enable detection of model misspecification. 
+
+Bayesian evidence provides one promising avenue to assess and quantify differences between simulated and observed datasets. In this work we develop a machine learning framework using normalizing flows to estimate the Bayesian evidence at the level of traditional and neural summary statistics of the data for a variety of astrophysical fields from the CAMELS simulations. A key focus of our work is training our models as a function of a smoothing scale applied to the data products from the simulations, which allows us to identify which scales are most affected by the differences in sub-grid physics models. By comparing Bayesian evidence between different suites of CAMELS simulations across a range of smoothing scales, we aim to provide a systematic way of detecting and evaluating the discrepancies between the different galaxy formation models, which could eventually help bridge the gap between the simulations and the observed data.</em>
+</details>
+
+<details>
+<summary>Best of both worlds: integrating principled matched-filtering searches with AI/ML tools, Digvijay (Jay) Wadekar (Johns Hopkins University)</summary>
+<em>In the infinite data and compute limit, machine learning (ML) methods can be optimal, however this idealistic situation is not often realized in practice. On the other hand, principled data-analysis methods are robust, but they make simplistic assumptions (e.g., the noise is roughly Gaussian). I will present how ML algorithms can enhance matched-filtering pipelines by: generating optimally compressed template banks and mitigating non-Gaussian noise. Incorporating these advancements in the IAS search pipeline, I will present detections of new heavy black holes in astrophysically significant regions of parameter space. I will also showcase how large language models (LLMs) can lower the entry barrier for non-specialists working with complex gravitational wave analysis frameworks.</em>
+</details>
+
+<details>
+<summary>SIDDA: SInkhorn Dynamic Domain Adaptation, Sneh Pandya (Northeastern)</summary>
+<em>Modern neural networks (NNs) often do not generalize well in the presence of a "covariate shift"; that is, in situations where the training and test data distributions differ, but the conditional distribution of classification labels remains unchanged. In such cases, NN generalization can be reduced to a problem of learning more domain-invariant features. Domain adaptation (DA) methods include a range of techniques aimed at achieving this; however, these methods have struggled with the need for extensive hyperparameter tuning, which then incurs significant computational costs. In this work, we introduce SIDDA, an out-of-the-box DA training algorithm built upon the Sinkhorn divergence, that can achieve effective domain alignment with minimal hyperparameter tuning and computational overhead. We demonstrate the efficacy of our method on multiple simulated and real datasets of varying complexity, including simple shapes, handwritten digits, and real astronomical observations. SIDDA is compatible with a variety of NN architectures, and it works particularly well in improving classification accuracy and model calibration when paired with equivariant neural networks (ENNs). We find that SIDDA enhances the generalization capabilities of NNs, achieving up to a ≈40% improvement in classification accuracy on unlabeled target data.</em>
+</details>
+
+<details>
+<summary>Robust Perception in AI: Temporal Uncertainty Quantification to Counter Hallucination in Multi-Object Tracking, Mohamed Nagy Mostafa (Khalifa University)</summary>
+<em>AI perception systems often suffer from perception hallucinations, providing false perception information that can degrade decision-making. Nevertheless, identifying false perception information from correct information is challenging, particularly for problems that do not involve direct interaction with humans (such as automated systems). This talk will cover our recent research on introducing an automated mechanism based on temporal uncertainty, in which AI systems self-assess perceptual certainty using temporal uncertainty, filtering out hallucinated data while retaining valid environmental information that enhances multi-object tracking in self-driving cars.</em>
+</details>
+
+<details>
+<summary>Generalization and robustness of neural ordinary differential equations for dynamical systems on graphs, Moritz Laber (Northeastern University)</summary>
+<em>Complex systems from many domains, such as epidemiology, neuroscience, or population dynamics, can be modeled as a graph with node states evolving according to a system of ordinary differential equations (ODEs). Traditionally, these models are hand-crafted by domain experts based on prior knowledge about the system. More recently machine learning methods have been used to forecast complex dynamical systems based on observational data, potentially trading interpretability for predictive performance. Neural ODEs, machine learning models that extract an ODE's vector field from data, promise to combine the best of both worlds, as they allow incorporating prior knowledge into the architecture while learning details of a given system from empirical time series. While neural ODEs have become an important tool for data-driven modeling, questions of robustness, out-of-distribution generalization, and sample efficiency have only recently moved into the spotlight. Here, we study how incorporating prior knowledge about network dynamical systems into neural ODEs influences generalization to graphs of different sizes and different structural characteristics, as well as their robustness to noise and missing data. We focus on five dynamical systems from different domains and use random hyperbolic graphs as a flexible generative model of graphs with distinct structural characteristics. In this setup, we show empirically that generalization to larger graphs is possible in the case of low degree heterogeneity and exhibits low dependence on the graph's clustering coefficient. We also show that generalization is possible even for large degree heterogeneity for a limited class of dynamical systems. In addition, we show that generalization performance is mostly robust under noisy training data but degrades quickly when nodes in the graph are unobserved at inference time. While our results on size generalization may pave a route towards efficiency gains by training on smaller graphs, the brittleness to node-missingness serves as a reminder of the limitations of data-driven methods.</em>
+</details>
 
 **3:30–4:00 pm ET**
 
@@ -392,7 +506,94 @@ Lunch
 
 **2:00–3:30 pm ET**
 
-*Contributed Talks - Parallel Sessions*
+**Contributed Talks Session A**
+
+*Room B101*
+
+Generative Models
+<details>
+<summary>Signal-Preserving Machine Learning for Polarized CMB Foreground Reconstruction, Helen Shao (University of Cambridge)</summary>
+<em>Accurate measurement of Cosmic Microwave Background (CMB) B-mode polarization, a key probe of inflationary physics, is hindered by complex astrophysical foreground contamination. Standard foreground reconstruction techniques like the Internal Linear Combination (ILC) method can mitigate this problem while preserving the CMB signal. However, they are limited to second-order statistics, neglecting non-Gaussian information that dominates the foregrounds. This work presents a novel, signal-preserving machine learning framework for foreground reconstruction, designed to overcome these limitations using only single-frequency data. To achieve this, we leverage the statistical independence of primary CMB modes across angular scales, contrasted with the significant inter-scale correlations present in Galactic foregrounds. We train convolutional neural networks and conditional diffusion models to predict and subtract large-scale foreground features ($\ell < 200$) using only small-scale map information ($\ell > 200$) as a signal-free input. This approach preserves the cosmological signal by construction. We demonstrate the method's effectiveness using PySM3 simulations of Galactic dust emission, showing improved foreground removal compared to baseline methods. We validate the performance of the neural networks using correlation metrics in both pixel and harmonic space. We present this framework as a pathway towards simplified component separation for next-generation CMB experiments, with ongoing work to assess generalization across different foreground models and sky regions.</em>
+</details>
+
+<details>
+<summary>Applying diffusion models to flavor physics: An example using S4′ modular flavor symmetry, Satsuki Nishimura (Kyushu University)</summary>
+<em>We propose a numerical method for searching parameters in generic flavor models using a diffusion model, a type of generative artificial intelligence (generative AI). As a specific example, we consider the S4′ modular flavor model and construct a neural network that reproduces quark masses, the CKM matrix, and the Jarlskog invariant by treating the model’s free parameters as generation targets. By generating new parameters with the trained network, we find phenomenologically interesting regions of parameter space that are difficult to explore analytically. Furthermore, we confirm that spontaneous CP violation occurs in the S4′ model. The diffusion model enables an inverse-problem approach, allowing the machine to generate plausible sets of parameters from given experimental constraints. In addition, it can serve as a versatile analytical tool for extracting new physical predictions from flavor models. References are arXiv:2503.21432 [hep-ph] and arXiv:2504.00944 [hep-ph].</em>
+</details>
+
+<details>
+<summary>AI-driven robotics for physics, Sachin Vaidya (Massachusetts Institute of Technology)</summary>
+<em>AI-driven scientific discovery faces a key challenge: automating experiments to accelerate progress in laboratory settings. In this talk, I will discuss our work on automating optical experiments, a longstanding bottleneck in both research and industry. Tabletop optical setups are essential across disciplines—from photonics and materials science to biomedical imaging and semiconductor technology—yet they remain highly dependent on manual assembly and alignment. I will present our AI-driven robotic platform, which integrates LLM-based agents for optical design and code generation, a robotic arm, and computer vision for the assembly and fine alignment of optical setups.</em>
+</details>
+
+Interpretable AI / Deep Learning
+<details>
+<summary>Data-driven classification of structural nonlinearities using interpretable deep learning on time series, Bayan Abusalameh (National University of Singapore)</summary>
+<em>This talk presents a novel time-domain approach for detecting and characterizing structural nonlinearities using deep learning and interpretable time-series analysis. We first generate a comprehensive synthetic dataset by solving single-degree-of-freedom system equations under various nonlinear conditions—including cubic stiffness (hardening and softening), clearance, Coulomb friction, and quadratic damping. This dataset serves as the foundation for training a deep learning model capable of classifying these nonlinear behaviors. Crucially, we integrate a post-hoc interpretability framework that highlights the specific regions of the input time series that influence the model's predictions. This transparency enables validation of the model’s reasoning against domain expert knowledge, addressing concerns surrounding the use of black-box methods in safety-critical domains such as aerospace and medicine. By removing the need for complex data preprocessing, our method offers a streamlined and scalable pipeline for structural diagnostics. The curated dataset also serves as a valuable benchmark for future research in nonlinear system identification.</em>
+</details>
+
+<details>
+<summary>Symbolic regression for precision LHC physics, Manuel Morales-Alvarado (INFN, Sezione di Trieste)</summary>
+<em>We study the potential of symbolic regression (SR) to derive compact and precise analytic expressions that can improve the accuracy and simplicity of phenomenological analyses at the Large Hadron Collider (LHC). 
+
+As a benchmark, we apply SR to equation recovery in quantum electrodynamics (QED), where established analytical results from quantum field theory provide a reliable framework for evaluation. This benchmark serves to validate the performance and reliability of SR before extending its application to structure functions in the Drell-Yan process mediated by virtual photons, which lack analytic representations from first principles. Furthermore, we provide the first set of closed form equations for multidifferential angular coefficients in electroweak boson production. 
+
+By combining the simplicity of analytic expressions with the predictive power of machine learning techniques, SR offers a useful tool for facilitating phenomenological analyses in high energy physics.</em>
+</details>
+
+Uncertainty Quantification/Robust AI
+<details>
+<summary>Debiasing Ultrafast Anomaly Detection with Posterior Agreement, Patrick Odagiu (ETH Zurich)</summary>
+<em>The Level-1 Trigger system of the CMS experiment at CERN makes the final decision on which LHC collision data are stored to disk for later analysis. One algorithm used with this scope is an anomaly detection model based on an autoencoder architecture. This model is trained self-supervised on measured data, but its performance is typically evaluated on simulated datasets of potential anomalies. Since the true nature of anomalies in the real collision data is unknown, such a validation strategy inherently biases the model towards the characteristics of the simulated cases. We propose an alternative validation criterion: maximizing the mutual information between latent spaces produced by models that are obtained using different data sources. Thus, we explicitly quantify the bias introduced through the current model selection procedure by computing the mutual information between latent spaces of autoencoders in a cross-validation setting with different subsets of 25 simulated potential anomaly datasets. Additionally, we investigate how our metric can be used as a model selection criterion at training time, circumventing the reliance on simulated anomaly datasets. Therefore, using our method not only exposes the existing validation bias in the current level-1 anomaly detector, but also yields new models whose anomaly definitions are both robust and broadly informative, ensuring that the trigger remains sensitive to genuinely unexpected novel physics in LHC collisions.</em>
+</details>
+
+<details>
+<summary>Machine Learning-Enhanced Planetary Atmospheric Simulations: Runtime-Integrated Surrogate Models for Global Circulation Models, Tara Tahseen (University College London)</summary>
+<em>Atmospheric modeling across planetary science faces a fundamental computational challenge: a persistent trade-off between simulation resolution, physical complexity, and computational feasibility. This bottleneck limits scientific inference capabilities in Earth climate studies, climate studies of solar system bodies, and exoplanet atmospheric characterization. Our work addresses this challenge by integrating machine-learned surrogate models into global circulation models (GCMs), specifically within the OASIS GCM framework.
+
+We present a novel approach that leverages Extreme Learning Machine algorithm to create adaptive radiative transfer surrogate models generated during simulation runtime. This methodology enables superior generalizability across diverse atmospheric conditions while dramatically reducing computational demands. Our implementation demonstrates remarkable efficacy, achieving >99% accuracy when modeling Venus's atmosphere while significantly accelerating simulation times, by a factor >5,000 for the Venus atmosphere.
+
+This research exemplifies how physics-informed AI can transform computational planetary science by preserving physical first principles while overcoming traditional computational constraints. The approach opens new possibilities for high-resolution, physically sophisticated atmospheric simulations across the spectrum of planetary bodies, from Earth to distant exoplanets.</em>
+</details>
+
+**Contributed Talks Session B**
+
+*Room B103*
+
+Reinforcement Learning
+<details>
+<summary>Deep Reinforcement Learning Without Discounting, Jacob Adamczyk (University of Massachusetts Boston)</summary>
+<em>Average-reward reinforcement learning (RL) offers a compelling approach to solving control problems by maximizing long-term average performance without discounting. This presentation will provide an overview and history of average-reward RL, contrasting it with the widely used discounted objective. The effectiveness of modern average-reward algorithms will be highlighted, featuring our group's latest work in this domain, which is based on connections to nonequilibrium statistical mechanics. Finally, open problems in the field, both theoretical and experimental, will be discussed.</em>
+</details>
+
+<details>
+<summary>Learning Causal Representations for Efficient and Adaptive Decision-Making Agents in the Physical World, Fan Feng (University of California San Diego)</summary>
+<em>Understanding the causality of the physical world, beyond raw perception, is essential for human cognition and reasoning. However, most decision-making agents, such as those trained with reinforcement learning, do not learn or reason in a causal manner. This lack of causal structure makes it difficult for agents to generalize effectively across tasks and environments. In this talk, we will explore how to equip agents with causal representations and reasoning capabilities by learning causal world models—latent structured models that uncover the hidden mechanisms of physical environments. These models not only capture latent causal factors but also enable agents to perform purposeful interventions and counterfactual reasoning, thereby supporting more robust and generalizable decision-making.
+
+This talk will cover how to learn such models from observational and interactive data, how to use them to plan and act efficiently in complex physical environments, and how these representations and behaviors can be further used to refine causal understanding in new domains. Together, these ideas point toward the development of open-ended, generalist agents grounded in a causal understanding of the world. We will cover theoretical foundations, algorithmic design, and empirical applications in physical decision-making domains, such as robotic control and manipulation, and other long-horizon physical planning tasks, where understanding the underlying causal representation of the physical world is crucial.</em>
+</details>
+
+<details>
+<summary>Autonomous Model Building with Reinforcement Learning: An Application with Lepton Flavor Symmetries, Jake Rudolph (UC Irvine)</summary>
+<em>To build models of Beyond the Standard Model physics, a theorist has many choices to make in regards to new fields, internal symmetries, and charge assignments, collectively creating an enormous space of possible models. We describe the development and findings of an Autonomous Model Builder (AMBer), which uses Reinforcement Learning (RL) to efficiently find models satisfying specified discrete flavor symmetries and particle content. Aside from valiant efforts by theorists following their intuition, these theory spaces are not deeply explored due to the vast number of possibilities and the time-consuming nature of building and fitting a model for a given symmetry group and particle assignment. The lack of any guarantee of continuity or differentiability prevents the application of typical machine learning approaches. We describe an RL software pipeline that interfaces with newly optimized versions of physics software, and apply it to the task of neutrino model building. Our agent learns to find fruitful regions of theory space, uncovering new models in commonly analyzed symmetry groups, and exploring for the first time previously unexamined symmetries.</em>
+</details>
+
+
+Representation/Manifold Learning
+<details>
+<summary>Cell Reweighting Algorithms for Pathological Weight Mitigation Using Optimal Transport, Rishabh Jain (Brown University)</summary>
+<em>As the accuracy of experimental results increase in high energy physics, so too must the precision of Monte Carlo simulations. Currently, event generation at next to leading order (NLO) accuracy and beyond results in a number of negative weighted events. Not only are these unphysical, but they also drive up the computational load and can be pathological when used in machine learning analyses. We develop a post hoc ‘cell reweighting’ scheme by imposing a metric in the multidimensional space of events so that nearby events on this manifold are reweighted together. We compare the performance of the algorithm with different choices of metric. We explicitly demonstrate the performance of the algorithm by implementing the reweighting scheme on simulated data of a Z boson and two jets produced at NLO accuracy.</em>
+</details>
+
+<details>
+<summary>Lorentz Local Canonicalization: How to Make Any Network Lorentz-Equivariant, Jonas Spinner (Heidelberg University)</summary>
+<em>Lorentz-equivariant neural networks are becoming the leading architectures for high-energy physics. Current implementations rely on specialized layers, limiting architectural choices. We introduce Lorentz Local Canonicalization (LLoCa), a general framework that renders any backbone network exactly Lorentz-equivariant. Using equivariantly predicted local reference frames, we construct LLoCa-transformers and graph networks. We adapt a recent approach to geometric message passing to the non-compact Lorentz group, allowing propagation of space-time tensorial features. Data augmentation emerges from LLoCa as a special choice of reference frame. Our models surpass state-of-the-art accuracy on relevant particle physics tasks, while being 4× faster and using 5-100× fewer FLOPs.</em>
+</details>
+
+<details>
+<summary>Neural Networks and Quantum Mechanics, Christian Ferko (Northeastern University and IAIFI)</summary>
+<em>Recent developments have suggested an emerging connection between neural networks and quantum field theories. In this talk, I will describe aspects of this relationship in the simplified setting of 1d QFTs, or models of quantum mechanics, where one has greater theoretical control. For instance, under mild assumptions, one can prove that any model of a quantum particle admits a representation as a neural network. Cherished features of quantum mechanics, such as uncertainty relations, emerge from specific architectural choices that are made to satisfy the axioms of quantum theory. Based on 2504.05462 with Jim Halverson.</em>
+</details>
 
 **3:30–4:00 pm ET**
 
