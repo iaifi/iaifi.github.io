@@ -192,7 +192,49 @@ Lunch
 
 **2:00–3:30 pm ET**
 
-*Contributed Talks - Parallel Sessions*
+**Contributed Talks Session A (Room B101): Generative Models **
+
+<details>
+<summary>Conditional Generation of LArTPC Images Using Latent Diffusion, Zev Imani (Tufts University)</summary>
+<em>Modern neutrino physics experiments utilize Liquid Argon Time Projection Chamber (LArTPC) technology to capture visual representations of particle interactions. Inspired by the success of denoising diffusion probabilistic models (DDPMs) in generating natural images, we have developed a method of conditionally generating 2D LArTPC images. By utilizing a modified latent diffusion model we have demonstrated the ability to generate single-particle events of a specified momentum with quality comparable to traditional simulation approaches.</em>
+</details>
+
+<details>
+<summary>Leveraging LLM Agents for Optical Simulation and Design, Nikhil Mukund (MIT)</summary>
+<em>High-fidelity simulations are integral to the design and debugging of sensitive optical experiments, ranging from tabletop setups to kilometer-scale interferometric systems, such as the Advanced LIGO detector. While several tools exist to model Gaussian beam propagation through complex optical layouts, generating executable code for these tools often demands substantial manual expertise and is prone to errors. In this work, we investigate the potential of utilizing large language model (LLM)-based agents to aid in optical system design and simulation. We highlight the challenges that arise when using off-the-shelf large language models (LLMs) with domain-specific software and investigate how augmenting these models with retrieval and feedback mechanisms can mitigate common failure modes. Through case studies involving widely used interferometer simulation tools, we illustrate the promise of this approach in reducing development time and enhancing reliability. Our findings suggest that this framework can be broadly extended to other simulation-based workflows, offering a general strategy for accelerating system modeling and analysis.</em>
+</details>
+
+<details>
+<summary>MEMFlow - Computing matrix element method using neural importance sampling, Adrian-Antonio Petre (ETH Zurich / CMS Collaboration (CERN))</summary>
+<em>The Matrix Element Method (MEM) is a well motivated multivariate technique to access the likelihood of an observed event given a hypothesis. It offers optimal statistical power for hypothesis testing in particle physics, but it is limited by the computation of the intensive multi-dimensional integrals required to model detector and theory effects. We present a novel approach that addresses this challenge by employing Transformers and generative machine learning (ML) models. Specifically, we utilize ML surrogates to efficiently sample the phasespace for different physics processes and to accurately encode the complex transfer functions describing detector reconstruction. Our goal is to efficiently use these sampled points in the context of neural importance sampling. We demonstrate this technique on the challenging ttH(bb) process in the semileptonic channel using the full CMS detector simulation. This advancement enables fully unbinned likelihood estimates of the Standard Model Effective Field Theory (EFT) couplings by using directly the experimental data, with the potential of significantly enhancing sensitivity to new physics.</em>
+</details>
+
+<details>
+<summary>The Liquid Argon Dead Region Inference Project: ML Track Inference Between DUNE's Near Detector Prototype Modules, Hilary Utaegbulam (University of Rochester)</summary>
+<em>The 2x2 Demonstrator is a prototype of ND-LAr, the liquid argon time-projection chamber of the Deep Underground Neutrino Experiment's Near Detector complex. Both the 2x2 Demonstrator and ND-LAr are modular detectors that will have pixelated charge readouts and inactive regions wherein there is no sensitivity to energy depositions in the liquid argon. In the 2x2, these inactive regions are located in between the active detector modules, which introduces the challenge of inferring what charge signals ought to look like in these regions. This study explores the use of a dual decoder sparse three-dimensional convolutional neural network to infer missing regions in charged particle tracks. Results indicate that this approach shows promise in predicting missing energy depositions in dead regions with good accuracy.</em>
+</details>
+
+<details>
+<summary>Generative Mental World Explorer, Jieneng Chen (Johns Hopkins University)</summary>
+<em>Understanding, navigating, and exploring the physical real world has long been a central challenge in the development of artificial intelligence. In this talk, I take a step toward this goal by introducing GenEx, a system capable of planning complex embodied world exploration, guided by its generative imagination that forms priors (expectations) about the surrounding environments. GenEx generates an entire 3D-consistent imaginative environment from as little as a single RGB image, bringing it to life through panoramic video streams. Powered by the generative imagination of the world, GPT-assisted agents are equipped to perform complex embodied tasks. These agents utilize predictive expectations regarding unseen parts of the physical world to refine their beliefs, simulate different outcomes based on potential decisions, and make more informed choices.</em>
+</details>
+
+<details>
+<summary>Discovering group dynamics in coordinated time series via hierarchical recurrent switching-state models, Kaitlin Gili (Tufts University)</summary>
+<em>Recent models that learn spatiotemporal patterns across individuals fail to incorporate explicit system-level collective behavior that can influence the trajectories of individual entities. To address this gap in the literature, we present a new hierarchical switching-state probabilistic generative model that can be trained in an unsupervised fashion to simultaneously learn both system-level and individual-level dynamics. We employ a latent system-level discrete state Markov chain that provides top-down influence on latent entity-level chains which in turn govern the emission of each observed time series. Recurrent feedback from the observations to the latent chains at both entity and system levels allows recent situational context to inform how dynamics unfold at all levels in bottom-up fashion. Our hierarchical switching recurrent dynamical model can be learned via closed-form variational coordinate ascent updates to all latent chains that scale linearly in the number of entities. This is asymptotically no more costly than fitting a separate model for each entity. Analysis of both synthetic data and real basketball team movements suggests our lean parametric model can achieve competitive forecasts compared to larger neural network models that require far more computational resources. Further experiments on soldier data as well as a synthetic marching band task with 64 cooperating entities show how our approach can yield interpretable insights about group dynamics over time.</em>
+</details>
+
+<details>
+<summary>Analytical Theory of Spectral Effects in Sampling and Learning of Diffusion Model, Binxu Wang (Harvard University, Kempner Institute)</summary>
+<em>Diffusion models generate complex data by estimating the score—the gradient of the log-density—across varying noise scales, but the relationship between the learned neural score and the true data score has remained unclear. Inspired by the “far-field” approximation in physics, we show that for moderate-to-high noise levels, the learned score is dominated by its linear (Gaussian) component, enabling a closed-form integration of the probability-flow ODE. This analytical solution predicts key sampling phenomena—namely, the early specification of coarse structures (e.g., scene layouts), the low dimensionality of sampling trajectories, and their sensitivity to perturbations—given the 1/f power spectrum of natural images. Practically, it permits an “analytical teleportation” that skips the first 15–30% of sampling steps, accelerating modern solvers (e.g., DPM-Solver-v3, UniPC) without degrading image quality (FID 1.93 on CIFAR-10).
+
+Extending this perspective to learning, we derive exact solutions to the nested probability-flow and gradient-flow ODEs for linear denoisers in fully linear, deep linear, and convolutional networks. Our analysis reveals a universal inverse-variance spectral law (τ ∝ λ⁻¹): high-variance (coarse) modes converge much faster than low-variance (fine) modes. Weight sharing in convolutional architectures uniformly amplifies these rates, whereas local convolution dramatically reshapes mode-emergence dynamics by coupling Fourier modes. Empirical studies with MLP-based and U-Net diffusion models on Gaussian and natural-image datasets confirm these theoretical predictions. 
+
+Together, our theory highlights the importance of spectral structure of data in determining sampling and training dynamics of diffusion models.</em>
+</details>
+
+
+**Contributed Talks Session B (Room B103)**
 
 **3:30–4:00 pm ET**
 
