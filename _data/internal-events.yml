@@ -66,6 +66,20 @@
   rsvp-link:
   more-info-link:
   
+- type: "internal-other"
+  event-name: "Beyond the Telescope: Unveiling the Invisible Milky Way with AI"
+  event-committee: "Public Engagement"
+  event-post-date: "2025-08-03"
+  start-date-time: "2025-08-13 19:00"
+  end-date-time: "2025-08-13 20:00"
+  talk-location: "Charles Hayden Planetarium"
+  talk-zoom:
+  event-details: "What if we could see what lies beyond the limits of our telescopes? Join MIT professor and astroparticle physicist Dr. Lina Necib on a journey through our Milky Way featuring real data from the revolutionary Gaia Space Observatory, artificial intelligence techniques, and the cutting-edge technology and immersive data visualization systems of the Planetarium. Explore all that lies within our home galaxy — from the observable and expected, to the mysterious and invisible, and discover how astronomers apply novel machine learning techniques to the most massive cosmic smash-ups, galactic collisions, and mergers to understand one of the most enigmatic substances in the universe: dark matter! Whether you're a space enthusiast, science lover, or simply curious about the unknown, this groundbreaking program blends science, technology, and creativity to illuminate our place in the cosmos. See what AI can reveal — beyond the telescope."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWZvNzI3MTMzN2Ria3JmaDYyMXV0dnRpdnQgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link: https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai
+  priority:
+  
 - type: "internal-workshop"
   event-name: "IAIFI Summer Workshop"
   event-committee: "Summer School and Workshop"
