@@ -398,6 +398,11 @@ applicability and democratisation of SSL. One such challenge is the presence of 
 *Room B103*
 
 <details>
+<summary>SIDDA: SInkhorn Dynamic Domain Adaptation, Sneh Pandya (Northeastern)</summary>
+<em>Modern neural networks (NNs) often do not generalize well in the presence of a "covariate shift"; that is, in situations where the training and test data distributions differ, but the conditional distribution of classification labels remains unchanged. In such cases, NN generalization can be reduced to a problem of learning more domain-invariant features. Domain adaptation (DA) methods include a range of techniques aimed at achieving this; however, these methods have struggled with the need for extensive hyperparameter tuning, which then incurs significant computational costs. In this work, we introduce SIDDA, an out-of-the-box DA training algorithm built upon the Sinkhorn divergence, that can achieve effective domain alignment with minimal hyperparameter tuning and computational overhead. We demonstrate the efficacy of our method on multiple simulated and real datasets of varying complexity, including simple shapes, handwritten digits, and real astronomical observations. SIDDA is compatible with a variety of NN architectures, and it works particularly well in improving classification accuracy and model calibration when paired with equivariant neural networks (ENNs). We find that SIDDA enhances the generalization capabilities of NNs, achieving up to a ≈40% improvement in classification accuracy on unlabeled target data.</em>
+</details>
+
+<details>
 <summary>Frequentist Uncertainties on Neural Density Ratios with wifi Ensembles, Sean Benevedes (Massachusetts Institute of Technology)</summary>
 <em>We propose wifi ensembles, a novel framework to obtain asymptotic frequentist uncertainties on density ratios in the context of neural ratio estimation. In the case where the density ratio of interest is a likelihood ratio conditioned on parameters, for example a likelihood ratio of collider events conditioned on parameters of nature, it can be used to perform simulation-based inference on those parameters. We show how uncertainties on a density ratio can be estimated with ensembles and propagated to determine the resultant uncertainty on the estimated parameters. We then turn to an application in quantum chromodynamics (QCD), using ensembles to estimate the likelihood ratio between generated quark and gluon jets. We use this learned likelihood ratio to estimate the quark fraction in a mixed quark/gluon sample, showing that the resultant uncertainties empirically satisfy the desired coverage properties.</em>
 </details>
@@ -420,11 +425,6 @@ Bayesian evidence provides one promising avenue to assess and quantify differenc
 </details>
 
 <details>
-<summary>SIDDA: SInkhorn Dynamic Domain Adaptation, Sneh Pandya (Northeastern)</summary>
-<em>Modern neural networks (NNs) often do not generalize well in the presence of a "covariate shift"; that is, in situations where the training and test data distributions differ, but the conditional distribution of classification labels remains unchanged. In such cases, NN generalization can be reduced to a problem of learning more domain-invariant features. Domain adaptation (DA) methods include a range of techniques aimed at achieving this; however, these methods have struggled with the need for extensive hyperparameter tuning, which then incurs significant computational costs. In this work, we introduce SIDDA, an out-of-the-box DA training algorithm built upon the Sinkhorn divergence, that can achieve effective domain alignment with minimal hyperparameter tuning and computational overhead. We demonstrate the efficacy of our method on multiple simulated and real datasets of varying complexity, including simple shapes, handwritten digits, and real astronomical observations. SIDDA is compatible with a variety of NN architectures, and it works particularly well in improving classification accuracy and model calibration when paired with equivariant neural networks (ENNs). We find that SIDDA enhances the generalization capabilities of NNs, achieving up to a ≈40% improvement in classification accuracy on unlabeled target data.</em>
-</details>
-
-<details>
 <summary>Robust Perception in AI: Temporal Uncertainty Quantification to Counter Hallucination in Multi-Object Tracking, Mohamed Nagy Mostafa (Khalifa University)</summary>
 <em>AI perception systems often suffer from perception hallucinations, providing false perception information that can degrade decision-making. Nevertheless, identifying false perception information from correct information is challenging, particularly for problems that do not involve direct interaction with humans (such as automated systems). This talk will cover our recent research on introducing an automated mechanism based on temporal uncertainty, in which AI systems self-assess perceptual certainty using temporal uncertainty, filtering out hallucinated data while retaining valid environmental information that enhances multi-object tracking in self-driving cars.</em>
 </details>
@@ -440,9 +440,11 @@ Break
 
 **4:00–5:00 pm ET**
 
-*Building an AI Scientist: Best Practices for Vibe Coding*
+*Panel: Navigating Scientific Research with LLM Assistants*
 
-Panel TBA
+* Alex Gagliano, IAIFI Fellow
+*
+
 
 **6:00–8:00 pm ET**
 
@@ -1057,7 +1059,7 @@ Workshop attendees are also welcome to book dorms for a discounted rate at Harva
 
     $110 nightly rate (1 person per room only) 
 
-    [Book now](https://buy.stripe.com/cN23dUdA37qD6CAdRa)
+    **Note: Dorm booking is now closed.**
 
 
 ## FAQ 
