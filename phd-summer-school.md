@@ -98,7 +98,24 @@ Welcome/Introduction
 
 **9:30 am–12:00 pm ET**
 
-Lecture 1: Reinforcement Learning (Sasha Rakhlin, MIT)
+Lecture 1: Elements of Interactive Decision Making (Sasha Rakhlin, MIT)
+
+*Machine learning methods are increasingly deployed in interactive
+environments, ranging from dynamic treatment strategies in medicine to
+fine-tuning of LLMs using reinforcement learning. In these settings,
+the learning agent interacts with the environment to collect data and
+necessarily faces an exploration-exploitation dilemma.\\
+\\
+In this lecture, we’ll begin with multi-armed bandits, progressing
+through structured and contextual bandits. We’ll then move on to
+reinforcement learning and broader decision-making frameworks,
+outlining the key algorithmic approaches and statistical principles
+that underpin each setting. Our goal is to develop both a rigorous
+understanding of the learning guarantees and a toolbox of fundamental
+algorithms.*
+
+Resources: 
+* [Foundations of Reinforcement Learning and Interactive Decision Making](https://arxiv.org/abs/2312.16730)
 
 **12:00–1:00 pm ET**
 
@@ -106,7 +123,7 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 1: Reinforcement Learning (TBA)
+Tutorial 1: Elements of Interactive Decision Making (Margalit Glasgow)
 
 **3:30–4:30 pm ET**
 
@@ -166,7 +183,18 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 3: Geometric Deep Learning (SueYeon Chung, Harvard)
+Lecture 3: Computing with Neural Manifolds: 
+A Multi-Scale Framework for Understanding Biological and Artificial Neural Networks (SueYeon Chung, Harvard)
+
+*Recent breakthroughs in experimental neuroscience and machine learning have opened new frontiers in understanding the computational principles governing neural circuits and artificial neural networks (ANNs). Both biological and artificial systems exhibit an astonishing degree of orchestrated information processing capabilities across multiple scales - from the microscopic responses of individual neurons to the emergent macroscopic phenomena of cognition and task functions. At the mesoscopic scale, the structures of neuron population activities manifest themselves as neural representations. Neural computation can be viewed as a series of transformations of these representations through various processing stages of the brain. The primary focus of my lab's research is to develop theories of neural representations that describe the principles of neural coding and, importantly, capture the complex structure of real data from both biological and artificial systems.\\
+\\
+In this lecture, I will present three related approaches that leverage techniques from statistical physics, machine learning, and geometry to study the multi-scale nature of neural computation. First, I will introduce new statistical mechanical theories that connect geometric structures that arise from neural responses (i.e., neural manifolds) to the efficiency of neural representations in implementing a task. Second, I will employ these theories to analyze how these representations evolve across scales, shaped by the properties of single neurons and the transformations across distinct brain regions. Finally, I will show how these insights extend efficient coding principles beyond early sensory stages, linking representational geometry to efficient task implementations. This framework not only help interpret and compare models of brain data but also offers a principled approach to designing ANN models for higher-level vision. This perspective opens new opportunities for using neuroscience-inspired principles to guide the development of intelligent systems.*
+
+Resources: 
+* [Chung, S., Lee, D.D. and Sompolinsky, H., 2018. Classification and geometry of general perceptual manifolds. Physical Review X, 8(3), p.031003.](https://arxiv.org/abs/1710.06487)
+* [Cohen, U., Chung, S., Lee, D.D. and Sompolinsky, H., 2020. Separability and geometry of object manifolds in deep neural networks. Nature communications, 11(1), p.746.](https://www.nature.com/articles/s41467-020-14578-5)
+* [Chung, S. and Abbott, L.F., 2021. Neural population geometry: An approach for understanding biological and artificial neural networks. Current opinion in neurobiology, 70, pp.137-144.](https://arxiv.org/abs/2104.07059)
+* [Yerxa, T., Kuang, Y., Simoncelli, E. and Chung, S., 2023. Learning efficient coding of natural images with maximum manifold capacity representations. Advances in Neural Information Processing Systems, 36, pp.24103-24128.](https://arxiv.org/abs/2303.03307)
 
 **12:00–1:00 pm ET**
 
@@ -174,7 +202,8 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 3: Geometric Deep Learning (Sam Bright-Thonney, IAIFI Fellow)
+Tutorial 3: Computing with Neural Manifolds: 
+A Multi-Scale Framework for Understanding Biological and Artificial Neural Networks (Sam Bright-Thonney, IAIFI Fellow)
 
 **3:30–4:30 pm ET**
 

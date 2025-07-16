@@ -5,6 +5,20 @@ aside:
   toc: true
 ---
 
+# Museum of Science Planetarium Event: *Beyond the Telescope: Unveiling the Invisible Milky Way with AI*
+
+
+<img src="images/small-photo-planetarium-event.jpg" align="right" style="max-width:1200px;width:50%" hspace="10" vspace="10"> 
+What if we could see what lies beyond the limits of our telescopes?
+
+Join MIT professor and astroparticle physicist Dr. Lina Necib, an IAIFI Senior Investigator, on a journey through our Milky Way featuring real data from the revolutionary Gaia Space Observatory, artificial intelligence techniques, and the cutting-edge technology and immersive data visualization systems of the Planetarium.  
+
+Explore all that lies within our home galaxy — from the observable and expected, to the mysterious and invisible, and discover how astronomers apply novel machine learning techniques to the most massive cosmic smash-ups, galactic collisions, and mergers to understand one of the most enigmatic substances in the universe: dark matter! Whether you're a space enthusiast, science lover, or simply curious about the unknown, this groundbreaking program blends science, technology, and creativity to illuminate our place in the cosmos.
+
+See what AI can reveal — beyond the telescope.
+
+[Learn More and Register](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai){:.button.button--outline-primary.button--pill.button--lg}
+
 # USA AI Olympiad 2025
 
 <img src="images/USAAIO-panel.jpeg" align="right" style="max-width:1200px;width:50%" hspace="10" vspace="10"> 

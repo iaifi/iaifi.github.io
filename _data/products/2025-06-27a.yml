@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-07-15
+title: "Exploration Behavior of Untrained Policies"
+authors: "Jacob Adamczyk"
+abstract: "Exploration remains a fundamental challenge in reinforcement learning (RL), particularly in environments with sparse or adversarial reward structures. In this work, we study how the architecture of deep neural policies implicitly shapes exploration before training. We theoretically and empirically demonstrate strategies for generating ballistic or diffusive trajectories from untrained policies in a toy model. Using the theory of infinite-width networks and a continuous-time limit, we show that untrained policies return correlated actions and result in non-trivial state-visitation distributions. We discuss the distributions of the corresponding trajectories for a standard architecture, revealing insights into inductive biases for tackling exploration. Our results establish a theoretical and experimental framework for using policy initialization as a design tool to understand exploration behavior in early training."
+arxiv: "2506.22566"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{adamczyk2025explorationbehavioruntrainedpolicies,
+      title={Exploration Behavior of Untrained Policies},
+      author={Jacob Adamczyk},
+      year={2025},
+      eprint={2506.22566},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2506.22566},
+  }
