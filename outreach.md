@@ -11,7 +11,7 @@ aside:
 <img src="images/small-photo-planetarium-event.jpg" align="right" style="max-width:1200px;width:50%" hspace="10" vspace="10"> 
 What if we could see what lies beyond the limits of our telescopes?
 
-Join MIT professor and astroparticle physicist Dr. Lina Necib, an IAIFI Senior Investigator, on a journey through our Milky Way featuring real data from the revolutionary Gaia Space Observatory, artificial intelligence techniques, and the cutting-edge technology and immersive data visualization systems of the Planetarium.  
+On **Wednesday, August 13, 2025**, join MIT professor and astroparticle physicist Dr. Lina Necib, an IAIFI Senior Investigator, on a journey through our Milky Way featuring real data from the revolutionary Gaia Space Observatory, artificial intelligence techniques, and the cutting-edge technology and immersive data visualization systems of the Planetarium.  
 
 Explore all that lies within our home galaxy — from the observable and expected, to the mysterious and invisible, and discover how astronomers apply novel machine learning techniques to the most massive cosmic smash-ups, galactic collisions, and mergers to understand one of the most enigmatic substances in the universe: dark matter! Whether you're a space enthusiast, science lover, or simply curious about the unknown, this groundbreaking program blends science, technology, and creativity to illuminate our place in the cosmos.
 
