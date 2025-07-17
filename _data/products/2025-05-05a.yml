@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-05-05
+title: "Variational diffusion transformers for conditional sampling of supernovae spectra"
+authors: "Yunyi Shen, Alexander T. Gagliano"
+abstract: "Type Ia Supernovae (SNe Ia) have become the most precise distance indicators in astrophysics due to their incredible observational homogeneity. Increasing discovery rates, however, have revealed multiple sub-populations with spectroscopic properties that are both diverse and difficult to interpret using existing physical models. These peculiar events are hard to identify from sparsely sampled observations and can introduce systematics in cosmological analyses if not flagged early; they are also of broader importance for building a cohesive understanding of thermonuclear explosions. In this work, we introduce DiTSNe-Ia, a variational diffusion-based generative model conditioned on light curve observations and trained to reproduce the observed spectral diversity of SNe Ia. In experiments with realistic light curves and spectra from radiative transfer simulations, DiTSNe-Ia achieves significantly more accurate reconstructions than the widely used SALT3 templates across a broad range of observation phases (from 10 days before peak light to 30 days after it). DiTSNe-Ia yields a mean squared error of 0.108 across all phases-five times lower than SALT3's 0.508-and an after-peak error of just 0.0191, an order of magnitude smaller than SALT3's 0.305. Additionally, our model produces well-calibrated credible intervals with near-nominal coverage, particularly at post-peak phases. DiTSNe-Ia is a powerful tool for rapidly inferring the spectral properties of SNe Ia and other transient astrophysical phenomena for which a physical description does not yet exist."
+arxiv: "2505.03063"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{shen2025variationaldiffusiontransformersconditional,
+      title={Variational diffusion transformers for conditional sampling of supernovae spectra},
+      author={Yunyi Shen and Alexander T. Gagliano},
+      year={2025},
+      eprint={2505.03063},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM},
+      url={https://arxiv.org/abs/2505.03063},
+  }

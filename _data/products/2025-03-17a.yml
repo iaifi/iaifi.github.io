@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2022-03-17
+title: "Theoretical tools for neutrino scattering: interplay between lattice QCD, EFTs, nuclear physics, phenomenology, and neutrino event generators"
+authors: "L. Alvarez Ruso, A. M. Ankowski, S. Bacca, A. B. Balantekin, J. Carlson, S. Gardiner, R. Gonzalez-Jimenez, R. Gupta, T. J. Hobbs, M. Hoferichter, J. Isaacson, N. Jachowicz, W. I. Jay, T. Katori, F. Kling, A. S. Kronfeld, S. W. Li, H.-W. Lin, K.-F. Liu, A. Lovato, K. Mahn, J. Menendez, A. S. Meyer, J. Morfin, S. Pastore, N. Rocco, M. Sajjad Athar, T. Sato, A. Schwenk, P. E. Shanahan, L. E. Strigari, M. Wagman, X. Zhang, Y. Zhao, B. Acharya, L. Andreoli, C. Andreopoulos, J. L. Barrow, T. Bhattacharya, V. Brdar, Z. Davoudi, C. Giusti, Y. Hayato, A. N. Khan, D. Kim, Y. F. Li, M. Lin, P. Machado, M. Martini, K. Niewczas, P. Pandey, A. Papadopoulou, R. Plestid, M. Roda, I. Ruiz Simo, J. N. Simone, R. S. Sufian, J. Tena-Vidal, O. Tomalak, Y.-D. Tsai, J. M. Udias"
+abstract: "Maximizing the discovery potential of increasingly precise neutrino experiments will require an improved theoretical understanding of neutrino-nucleus cross sections over a wide range of energies. Low-energy interactions are needed to reconstruct the energies of astrophysical neutrinos from supernovae bursts and search for new physics using increasingly precise measurement of coherent elastic neutrino scattering. Higher-energy interactions involve a variety of reaction mechanisms including quasi-elastic scattering, resonance production, and deep inelastic scattering that must all be included to reliably predict cross sections for energies relevant to DUNE and other accelerator neutrino experiments. Refined nuclear interaction models in these energy regimes will also be valuable for other applications, such as measurements of reactor, solar, and atmospheric neutrinos. This manuscript discusses the theoretical status, challenges, required resources, and path forward for achieving precise predictions of neutrino-nucleus scattering and emphasizes the need for a coordinated theoretical effort involved lattice QCD, nuclear effective theories, phenomenological models of the transition region, and event generators."
+arxiv: "2203.09030"
+journal: "Journal of Physics, G: Nuclear and Particle Physics, 2025, Volume 52, Number 4"
+doi: "https://doi.org/10.1088/1361-6471/adae26"
+nsf-par:
+code:
+publication-date: 2025-04-21
+bib-tex: |
+  @article{Alvarez-Ruso_2025,
+  doi = {10.1088/1361-6471/adae26},
+  url = {https://dx.doi.org/10.1088/1361-6471/adae26},
+  year = {2025},
+  month = {apr},
+  publisher = {IOP Publishing},
+  volume = {52},
+  number = {4},
+  pages = {043001},
+  author = {Alvarez-Ruso, L and Ankowski, A M and Bacca, S and Balantekin, A B and Carlson, J and Gardiner, S and Gonz√°lez-Jim√©nez, R and Gupta, R and Hobbs, T J and Hoferichter, M and Isaacson, J and Jachowicz, N and Jay, W I and Katori, T and Kling, F and Kronfeld, A S and Li, S W and Lin, H-W and Liu, K-F and Lovato, A and Mahn, K and Men√©ndez, J and Meyer, A S and Morfin, J and Pastore, S and Rocco, N and Athar, M Sajjad and Sato, T and Schwenk, A and Shanahan, P E and Strigari, L E and Wagman, M L and Zhang, X and Zhao, Y and Acharya, B and Andreoli, L and Andreopoulos, C and Barrow, J L and Bhattacharya, T and Brdar, V and Giusti, C and Hayato, Y and Khan, A N and Kim, D and Li, Y F and Lin, M and Machado, P and Martini, M and Niewczas, K and Pandey, V and Papadopoulou, A and Plestid, R and Roda, M and Ruiz Simo, I and Simone, J N and Sufian, R S and Tena-Vidal, J and Tomalak, O and Tsai, Y-D and Ud√≠as, J M},
+  title = {Theoretical tools for neutrino scattering: interplay between lattice QCD, EFTs, nuclear physics, phenomenology, and neutrino event generators},
+  journal = {Journal of Physics G: Nuclear and Particle Physics},
+  abstract = {Maximizing the discovery potential of increasingly precise neutrino experiments will require an improved theoretical understanding of neutrino-nucleus cross sections over a wide range of energies. Low-energy interactions are needed to reconstruct the energies of astrophysical neutrinos from supernovae bursts and search for new physics using increasingly precise measurement of coherent elastic neutrino scattering. Higher-energy interactions involve a variety of reaction mechanisms including quasi-elastic scattering, resonance production, and deep inelastic scattering that must all be included to reliably predict cross sections for energies relevant to DUNE and other accelerator neutrino experiments. Refined nuclear interaction models in these energy regimes will also be valuable for other applications, such as measurements of reactor, solar, and atmospheric neutrinos. This manuscript discusses the theoretical status, challenges, required resources, and path forward for achieving precise predictions of neutrino-nucleus scattering and emphasizes the need for a coordinated theoretical effort involved lattice QCD, nuclear effective theories, phenomenological models of the transition region, and event generators.},
+  eprint={2203.09030},
+  archivePrefix={arXiv},
+  }

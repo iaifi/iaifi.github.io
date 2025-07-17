@@ -1,0 +1,30 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2024-04-18
+title: "Constraints on the finite volume two-nucleon spectrum at 𝑚𝜋 ≈806  MeV"
+authors: "William Detmold, Marc Illa, William I. Jay, Assumpta Parreño, Robert J. Perry, Phiala E. Shanahan, Michael L. Wagman"
+abstract: "The low-energy, finite-volume spectrum of the two-nucleon system at a quark mass corresponding to a pion mass of 𝑚𝜋≈806  MeV is studied with lattice quantum chromodynamics (LQCD) using variational methods. The interpolating-operator sets used in [Variational study of two-nucleon systems with lattice QCD, Phys. Rev. D 107, 094508 (2023).] are extended by including a complete basis of local hexaquark operators, as well as plane-wave dibaryon operators built from products of both positive- and negative-parity nucleon operators. Results are presented for the isosinglet and isotriplet two-nucleon channels. In both channels, noticeably weaker variational bounds on the lowest few energy eigenvalues are obtained from operator sets which contain only hexaquark operators or operators constructed from the product of two negative-parity nucleons, while other operator sets produce low-energy variational bounds which are consistent within statistical uncertainties. The consequences of these studies for the LQCD understanding of the two-nucleon spectrum are investigated."
+arxiv: "2404.12039"
+journal: "Phys. Rev. D 111, 2025, Volume 111, Issue 11"
+doi: "https://doi.org/10.1103/PhysRevD.111.114501"
+nsf-par:
+code:
+publication-date: 2025-06-02
+bib-tex: |
+  @article{PhysRevD.111.114501,
+  title = {Constraints on the finite volume two-nucleon spectrum at ${m}_{\ensuremath{\pi}}\ensuremath{\approx}806\text{ }\text{ }\mathrm{MeV}$},
+  author = {Detmold, William and Illa, Marc and Jay, William I. and Parre\~no, Assumpta and Perry, Robert J. and Shanahan, Phiala E. and Wagman, Michael L.},
+  collaboration = {NPLQCD Collaboration},
+  journal = {Phys. Rev. D},
+  volume = {111},
+  issue = {11},
+  pages = {114501},
+  numpages = {36},
+  year = {2025},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.111.114501},
+  url = {https://link.aps.org/doi/10.1103/PhysRevD.111.114501},
+  eprint={2404.12039},
+  archivePrefix={arXiv},
+  }

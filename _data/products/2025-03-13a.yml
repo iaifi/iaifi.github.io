@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-03-13
+title: "No-go theorem for environment-assisted invariance in non-unitary dynamics"
+authors: "Akira Sone, Akram Touil, Kenji Maeda, Paola Cappellaro, Sebastian Deffner"
+abstract: "We elucidate the requirements for quantum operations that achieve environment-assisted invariance (envariance), a symmetry of entanglement. While envariance has traditionally been studied within the framework of local unitary operations, we extend the analysis to consider non-unitary local operations. First, we investigate the conditions imposed on operators acting on pure bipartite entanglement to attain envariance. We show that the local operations must take a direct-sum form in their Kraus operator representations, establishing decoherence-free subspaces. Furthermore, we prove that this also holds for the multipartite scenario. As an immediate consequence, we demonstrate that environment-assisted shortcuts to adiabaticity cannot be achieved through non-unitary operations. In addition, we show that the static condition of the eternal black hole in AdS/CFT is violated when the CFTs are coupled to the external baths."
+arxiv: "2503.10400"
+journal: "New Journal of Physics, 2025, Volume 27"
+doi: "https://doi.org/10.1088/1367-2630/ade46f"
+nsf-par:
+code:
+publication-date: 2025-06-24
+bib-tex: |
+  @article{Sone_2025,
+  doi = {10.1088/1367-2630/ade46f},
+  url = {https://dx.doi.org/10.1088/1367-2630/ade46f},
+  year = {2025},
+  month = {jun},
+  publisher = {IOP Publishing},
+  volume = {27},
+  number = {6},
+  pages = {064509},
+  author = {Sone, Akira and Touil, Akram and Maeda, Kenji and Cappellaro, Paola and Deffner, Sebastian},
+  title = {No-go theorem for environment-assisted invariance in non-unitary dynamics},
+  journal = {New Journal of Physics},
+  abstract = {We elucidate the requirements for quantum operations that achieve environment-assisted invariance (envariance), a symmetry of entanglement. While envariance has traditionally been studied within the framework of local unitary operations, we extend the analysis to consider non-unitary local operations. First, we investigate the conditions imposed on operators acting on pure bipartite entanglement to attain envariance. We show that the local operations must take a direct-sum form in their Kraus operator representations, establishing decoherence-free subspaces. Furthermore, we prove that this also holds for the multipartite scenario. As an immediate consequence, we demonstrate that environment-assisted shortcuts to adiabaticity cannot be achieved through non-unitary operations. In addition, we show that the static condition of the eternal black hole in AdS/CFT is violated when the CFTs are coupled to the external baths.},
+  eprint={2503.10400},
+  archivePrefix={arXiv},
+  }

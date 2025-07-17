@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2025-05-15
+title: "Interpretable Artificial Intelligence for Topological Photonics"
+authors: "Ali Ghorashi, Sachin Vaidya, Ziming Liu, Charlotte Loh, Thomas Christensen, Max Tegmark, Marin Soljačić"
+abstract: "Topological photonic crystals (PhCs) offer robust, disorder-resistant modes engendered by nontrivial band symmetries, but designing PhCs with prescribed topological band properties remains a challenge due to the complexity involved in mapping the continuous real-space design landscape of photonic crystals to the discrete output space of band topology. Here, we introduce a new approach to address this problem, employing Kolmogorov--Arnold networks (KANs) to predict and inversely design the band symmetries of two-dimensional PhCs with two-fold rotational (C2) symmetry. We show that a single-hidden-layer KAN, trained on a dataset of C2-symmetric unit cells, achieves 99% accuracy in classifying the symmetry eigenvalues of the lowest transverse-magnetic band. For interpretability, we use symbolic regression to extract eight algebraic formulas that characterize the band symmetry classes in terms of the Fourier components of the dielectric function. These formulas not only retain the full predictive power of the network but also enable deterministic inverse design. Applying them, we generate 2,000 photonic crystals with target band symmetries, achieving over 92% accuracy even for high-contrast, experimentally realizable structures beyond the training domain."
+arxiv: "2505.10485"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ghorashi2025interpretableartificialintelligencetopological,
+      title={Interpretable Artificial Intelligence for Topological Photonics},
+      author={Ali Ghorashi and Sachin Vaidya and Ziming Liu and Charlotte Loh and Thomas Christensen and Max Tegmark and Marin Soljačić},
+      year={2025},
+      eprint={2505.10485},
+      archivePrefix={arXiv},
+      primaryClass={physics.optics},
+      url={https://arxiv.org/abs/2505.10485},
+  }

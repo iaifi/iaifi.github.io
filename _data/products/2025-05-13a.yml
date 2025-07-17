@@ -1,0 +1,28 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-05-13
+title: "Recent developments at the intersection of AI and theoretical physics"
+authors: "Fabian Ruele"
+abstract: "While machine learning is nowadays used in essentially all natural sciences, the timeline of adaptation in the different disciplines, and the subfields within each discipline, varies widely. Theoretical Physics and Mathematics are among the latest adopters of machine learning techniques, which is in part due to differing requirements that these fields have as compared to others. In this article, we discuss recent developments in artificial intelligence that are specifically geared towards application and scientific discovery in theoretical and mathematical physics. Along the way, we point out other phenomena at the intersection of Physics and AI, including chaos theory, phase transitions, spin glasses, symmetries, classical and statistical mechanics, and quantum theory."
+arxiv:
+journal: "Contemporary Physics, 2024, Volume 65, Issue 3"
+doi: "https://doi.org/10.1080/00107514.2025.2498817"
+nsf-par:
+code:
+publication-date: 2025-05-13
+bib-tex: |
+  @article{Ruehle02072024,
+  author = {Fabian Ruehle},
+  title = {Recent developments at the intersection of AI and theoretical physics},
+  journal = {Contemporary Physics},
+  volume = {65},
+  number = {3},
+  pages = {180--197},
+  year = {2024},
+  publisher = {Taylor \& Francis},
+  doi = {10.1080/00107514.2025.2498817},
+  URL = {https://doi.org/10.1080/00107514.2025.2498817},
+  eprint = {https://doi.org/10.1080/00107514.2025.2498817},
+  eprint={},
+  archivePrefix={arXiv},
+  }

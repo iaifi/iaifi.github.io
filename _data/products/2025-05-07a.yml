@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2025-05-07
+title: "AI-Driven Robotics for Free-Space Optics"
+authors: "Shiekh Zia Uddin, Sachin Vaidya, Shrish Choudhary, Zhuo Chen, Raafat K. Salib, Luke Huang, Dirk R. Englund, Marin Soljačić"
+abstract: "Tabletop optical experiments are foundational to research in many areas of science, including photonics, quantum optics, materials science, metrology, and biomedical imaging. However these experiments remain fundamentally reliant on manual design, assembly, and alignment, limiting throughput and reproducibility. Optics currently lacks generalizable robotic systems capable of operating across a diverse range of setups in realistic laboratory environments. Here we present OptoMate, an autonomous platform that integrates generative AI, computer vision, and precision robotics to enable automation of free-space optics experiments. Our platform interprets user-defined goals to generate valid optical setups using a fine-tuned large language model (LLM), assembles the setup via robotic pick-and-place with sub-millimeter accuracy, and performs fine alignment using a robot-deployable tool. The system then executes a range of automated measurements, including laser beam characterization, polarization mapping, and spectroscopy tasks. This work demonstrates the first flexible, AI-driven automation platform for optics, offering a path toward remote operation, cloud labs, and high-throughput discovery in the optical sciences."
+arxiv: "2505.17985"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{uddin2025aidrivenroboticsfreespaceoptics,
+      title={AI-Driven Robotics for Free-Space Optics},
+      author={Shiekh Zia Uddin and Sachin Vaidya and Shrish Choudhary and Zhuo Chen and Raafat K. Salib and Luke Huang and Dirk R. Englund and Marin Soljačić},
+      year={2025},
+      eprint={2505.17985},
+      archivePrefix={arXiv},
+      primaryClass={physics.optics},
+      url={https://arxiv.org/abs/2505.17985},
+  }
