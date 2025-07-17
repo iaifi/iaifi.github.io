@@ -443,8 +443,8 @@ Break
 *Panel: Navigating Scientific Research with LLM Assistants*
 
 * Alex Gagliano, IAIFI Fellow
-*
-
+* Mark Hamilton, Senior Engineering Manager, Microsoft
+* Tamar Rott Shaham, Postdoc, MIT / Incoming Assistant Professor, Weizmann Institute of Science
 
 **6:00–8:00 pm ET**
 
