@@ -5,18 +5,25 @@ title: "Effects of galactic environment on size and dark matter content in low-m
 authors: "Francisco J. Mercado, Jorge Moreno, Robert Feldmann, Marckie Zeender, Jose A. Benavides, Joanna M. Piotrowska, Courtney Klein, Coral Wheeler, Lina Necib, James S. Bullock, Philip F. Hopkins"
 abstract: "We utilize the cosmological volume simulation, FIREbox, to investigate how a galaxy's environment influences its size and dark matter content. Our study focuses on approximately 1,200 galaxies (886 central and 332 satellite halos) in the low-mass regime, with stellar masses between 106 to 109 M⊙. We analyze the size-mass relation (r50−M⋆), inner dark matter mass-stellar mass (M50DM−M⋆) relation, and the halo mass-stellar mass (Mhalo−M⋆) relation. At fixed stellar mass, we find the galaxies experiencing stronger tidal influences, indicated by higher Perturbation Indices (PI > 1) are generally larger and have lower masses relative to their counterparts with lower Perturbation Indices (PI < 1). Applying a Random Forest regression model, we show that both the environment (PI) and halo mass (Mrmhalo) are significant predictors of a galaxy's relative size and dark matter content. Notably, because Mhalo is also strongly affected by the environment, our findings indicate that environmental conditions not only influence galactic sizes and relative inner dark matter content directly, but also indirectly through their impact on halo mass. Our results highlight a critical interplay between environmental factors and halo mass in shaping galaxy properties, affirming the environment as a fundamental driver in galaxy formation and evolution."
 arxiv: "2501.04084"
-journal:
-doi:
+journal: "The Astrophysical Journal, 2025, Volume 983, Number 2"
+doi: "https://doi.org/10.3847/1538-4357/adbf07"
 nsf-par:
 code:
-publication-date:
+publication-date: 2025-04-10
 bib-tex: |
-  @article{mercado2025effectsgalacticenvironmentsize,
-      title={Effects of galactic environment on size and dark matter content in low-mass galaxies},
-      author={Francisco J. Mercado and Jorge Moreno and Robert Feldmann and Marckie Zeender and Jose A. Benavides and Joanna M. Piotrowska and Courtney Klein and Coral Wheeler and Lina Necib and James S. Bullock and Philip F. Hopkins},
-      year={2025},
-      eprint={2501.04084},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.GA},
-      url={https://arxiv.org/abs/2501.04084},
+  @article{Mercado_2025,
+  doi = {10.3847/1538-4357/adbf07},
+  url = {https://dx.doi.org/10.3847/1538-4357/adbf07},
+  year = {2025},
+  month = {apr},
+  publisher = {The American Astronomical Society},
+  volume = {983},
+  number = {2},
+  pages = {93},
+  author = {Mercado, Francisco J. and Moreno, Jorge and Feldmann, Robert and Zeender, Marckie and Benavides, Jos√© A. and Piotrowska, Joanna M. and Klein, Courtney and Wheeler, Coral and Necib, Lina and Bullock, James S. and Hopkins, Philip F.},
+  title = {Effects of Galactic Environment on Size and Dark Matter Content in Low-mass Galaxies},
+  journal = {The Astrophysical Journal},
+  abstract = {We utilize the cosmological volume simulation FIREbox to investigate how a galaxy‚Äôs environment influences its size and dark matter content. Our study focuses on approximately 1200 galaxies (886 central and 332 satellite halos) in the low-mass regime, with stellar masses between 106 and 109M‚äô. We analyze the size‚Äìmass relation (r50‚ÄìM‚ãÜ), the inner dark matter mass‚Äìstellar mass (‚ÄìM‚ãÜ) relation, and the halo mass‚Äìstellar mass (Mhalo‚ÄìM‚ãÜ) relation. At fixed stellar mass, we find that galaxies experiencing stronger tidal influences, indicated by higher Perturbation Indices (PI &gt; 1) are generally larger and have lower halo masses relative to their counterparts with lower Perturbation Indices (PI &lt; 1). Applying a Random Forest regression model, we show that both the environment (PI) and halo mass (Mhalo) are significant predictors of a galaxy‚Äôs relative size and dark matter content. Notably, because Mhalo is also strongly affected by the environment, our findings indicate that environmental conditions not only influence galactic sizes and relative inner dark matter content directly, but also indirectly, through their impact on halo mass. Our results highlight a critical interplay between environmental factors and halo mass in shaping galaxy properties, affirming the environment as a fundamental driver in galaxy formation and evolution.},
+  eprint={2501.04084},
+  archivePrefix={arXiv},
   }

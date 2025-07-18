@@ -5,18 +5,25 @@ title: "A Fast Periodicity Detection Algorithm Sensitive to Arbitrary Waveforms"
 authors: "Douglas P. Finkbeiner, Thomas A. Prince, Samuel E. Whitebook"
 abstract: "A reexamination of period finding algorithms is prompted by new large area astronomical sky surveys that can identify billions of individual sources having a thousand or more observations per source. This large increase in data necessitates fast and efficient period detection algorithms. In this paper, we provide an initial description of an algorithm that is being used for detection of periodic behavior in a sample of 1.5 billion objects using light curves generated from Zwicky Transient Facility (ZTF) data (Bellm et al. 2019; Masci et al. 2018). We call this algorithm 'Fast Periodicity Weighting' (FPW), derived using a Gaussian Process (GP) formalism. A major advantage of the FPW algorithm for ZTF analysis is that it is agnostic to the details of the phase-folded waveform. Periodic sources in ZTF show a wide variety of waveforms, some quite complex, including eclipsing objects, sinusoidally varying objects also exhibiting eclipses, objects with cyclotron emission at various phases, and accreting objects with complex waveforms. We describe the FPW algorithm and its application to ZTF, and provide efficient code for both CPU and GPU."
 arxiv: "2502.00243"
-journal:
-doi:
+journal: "Publications of the Astronomical Society of the Pacific, 2025, Volume 137, Number 5"
+doi: "https://doi.org/10.1088/1538-3873/add20c"
 nsf-par:
 code:
-publication-date:
+publication-date: 2025-05-27
 bib-tex: |
-  @article{finkbeiner2025fastperiodicitydetectionalgorithm,
-      title={A Fast Periodicity Detection Algorithm Sensitive to Arbitrary Waveforms},
-      author={Douglas P. Finkbeiner and Thomas A. Prince and Samuel E. Whitebook},
-      year={2025},
-      eprint={2502.00243},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.IM},
-      url={https://arxiv.org/abs/2502.00243},
+  @article{Finkbeiner_2025,
+  doi = {10.1088/1538-3873/add20c},
+  url = {https://dx.doi.org/10.1088/1538-3873/add20c},
+  year = {2025},
+  month = {may},
+  publisher = {The Astronomical Society of the Pacific},
+  volume = {137},
+  number = {5},
+  pages = {054504},
+  author = {Finkbeiner, Douglas P. and Prince, Thomas A. and Whitebook, Samuel E.},
+  title = {A Fast Periodicity Detection Algorithm Sensitive to Arbitrary Waveforms},
+  journal = {Publications of the Astronomical Society of the Pacific},
+  abstract = {A reexamination of period-finding algorithms is prompted by new large-area astronomical sky surveys that can identify billions of individual sources having a thousand or more observations per source. This large increase in data necessitates fast and efficient period detection algorithms. In this paper, we provide an initial description of an algorithm that is being used for the detection of periodic behavior in a sample of 1.5 billion objects using light curves generated from Zwicky Transient Facility (ZTF) data. We call this algorithm ‚ÄúFast Periodicity Weighting‚Äù (FPW), derived using a Gaussian Process formalism. Periodic sources in ZTF show a wide variety of waveforms, some quite complex, including eclipsing objects, sinusoidally varying objects also exhibiting eclipses, objects with cyclotron emission at various phases, and accreting objects with complex waveforms. A major advantage of the FPW algorithm is that it is sensitive to a broad range of waveforms. We describe the FPW algorithm and its application to ZTF, and provide efficient code for both CPU and GPU.},
+  eprint={2502.00243},
+  archivePrefix={arXiv},
   }
