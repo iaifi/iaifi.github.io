@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-04-17
+title: "Darkness in the Crust: Searching for the truly 'Dark' Subhalos with Paleo-detectors"
+authors: "Xiuyuan Zhang, Lina Necib, Denis Erkal"
+abstract: "Low-mass dark matter (DM) subhalos are pivotal in understanding the small-scale structure of the universe, thereby offering a sensitive method to discriminate between different cosmological models. In this study, we estimate the local number density of cold DM subhalos in the solar neighborhood, and demonstrate that their sparse distribution makes their detection via direct detection experiments highly improbable. However, it is plausible to expect that an  number of subhalos could be detected by Paleo-detectors, a proposed new technique to look for DM by reading out damage tracks left by past DM interactions in minerals, due to their extended exposure times. Hence, we explore how Paleo-detectors can serve as effective probes for the properties of low-mass subhalos, . We find that Paleo-detectors might be able to constrain certain regions of the subhalo mass-concentration relation (for subhalo masses of  if DM has a mass of GeV). This is a new and complementary type of study that seeks to combine information from the particle nature of DM to that of small scale structures."
+arxiv: "2504.13247"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{zhang2025darknesscrustsearchingtruly,
+      title={Darkness in the Crust: Searching for the truly ""Dark"" Subhalos with Paleo-detectors},
+      author={Xiuyuan Zhang and Lina Necib and Denis Erkal},
+      year={2025},
+      eprint={2504.13247},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2504.13247},
+  }

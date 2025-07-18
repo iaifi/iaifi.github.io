@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-06-02
+title: "A Wide Field Map of Ultra-Compact Dwarfs in the Coma Cluster"
+authors: "Richard T. Pomeroy, Juan P. Madrid, Conor R. O'Neill, Alexander T. Gagliano"
+abstract: "A dataset of 23,351 globular clusters (GCs) and ultra-compact dwarfs (UCDs) in the Coma cluster of galaxies was built using Hubble Space Telescope Advanced Camera for Surveys data. Based on the standard magnitude cut of , a total of 523 UCD candidates are found within this dataset of Compact Stellar Systems (CSS). From a color-magnitude diagram (CMD) analysis built using this catalog, we find a clear mass-magnitude relation extending marginally into the UCD parameter space. The luminosity function defined by this dataset, shows an excess of sources at bright magnitudes, suggesting a bimodal formation scenario for UCDs. We estimate the number of UCDs with a different origin than GC to be . We derive the total number of CSS within the core (1 Mpc) of Coma to be . The radial distribution of UCDs in Coma shows that, like GCs, UCDs agglomerate around three giant ellipticals: NGC 4874, NGC 4889, and IC 4051. We find UCDs are more centrally concentrated around these three ellipticals than GCs. IC 4051 has a satellite population of UCDs similar to NGC 4874 and NGC 4889. We estimate only ~14% of UCDs, inhabit the intracluster space (ICUCD) between galaxies in the region, in comparison to ~24% for GCs (ICGC). We find red (metal-rich) UCDs are more likely located closer to a host galaxy, with blue (metal-poor) UCDs showing a greater dispersion and lower average density in the region."
+arxiv: "2506.02296"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{pomeroy2025widefieldmapultracompact,
+      title={A Wide Field Map of Ultra-Compact Dwarfs in the Coma Cluster},
+      author={Richard T. Pomeroy and Juan P. Madrid and Conor R. O'Neill and Alexander T. Gagliano},
+      year={2025},
+      eprint={2506.02296},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.GA},
+      url={https://arxiv.org/abs/2506.02296},
+  }

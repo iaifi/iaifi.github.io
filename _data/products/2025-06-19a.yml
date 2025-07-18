@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-06-19
+title: "Qubit thermodynamics: Entropy production from nonadiabatic driving"
+authors: "Pavel Zhelnin, Lucas Johns, Carlos A. Argüelles"
+abstract: "Adiabaticity is a cornerstone of many promising approaches to quantum control, computing, and simulation. In practice, however, there is always a trade-off. Although the deleterious effects of noise can be diminished by running a control schedule more quickly, this benefit comes at the expense of nonadiabaticity. To put these two unwanted effects on the same theoretical footing, we analyze the nonadiabatic error in qubit control as a form of entropy production, examining the mechanism by which fine-grained information is effectively lost despite the dynamics being fundamentally unitary. A crucial issue here is the question of how to define equilibrium under a time-dependent Hamiltonian. Using the Landau--Zener protocol as a test case, we show that entropy increases nearly monotonically when equilibrium is defined with respect to the effective Hamiltonian in the optimal superadiabatic frame. We then consider single-passage Landau--Zener--Stückelberg--Majorana interferometry, in which the initial state of the qubit is arbitrary. Violations of the second law of thermodynamics are possible but require exquisite control to achieve deliberately."
+arxiv: "2506.16570"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{zhelnin2025qubitthermodynamicsentropyproduction,
+      title={Qubit thermodynamics: Entropy production from nonadiabatic driving},
+      author={Pavel Zhelnin and Lucas Johns and Carlos A. Argüelles},
+      year={2025},
+      eprint={2506.16570},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2506.16570},
+  }

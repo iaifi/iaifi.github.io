@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-05-24
+title: "How to build a consistency model: Learning flow maps via self-distillation"
+authors: "Nicholas M. Boffi, Michael S. Albergo, Eric Vanden-Eijnden"
+abstract: "Building on the framework proposed in Boffi et al. (2024), we present a systematic approach for learning flow maps associated with flow and diffusion models. Flow map-based models, commonly known as consistency models, encompass recent efforts to improve the efficiency of generative models based on solutions to differential equations. By exploiting a relationship between the velocity field underlying a continuous-time flow and the instantaneous rate of change of the flow map, we show how to convert existing distillation schemes into direct training algorithms via self-distillation, eliminating the need for pre-trained models. We empirically evaluate several instantiations of our framework, finding that high-dimensional tasks like image synthesis benefit from objective functions that avoid temporal and spatial derivatives of the flow map, while lower-dimensional tasks can benefit from objectives incorporating higher-order derivatives to capture sharp features."
+arxiv: "2505.18825"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{boffi2025buildconsistencymodellearning,
+      title={How to build a consistency model: Learning flow maps via self-distillation},
+      author={Nicholas M. Boffi and Michael S. Albergo and Eric Vanden-Eijnden},
+      year={2025},
+      eprint={2505.18825},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.18825},
+  }

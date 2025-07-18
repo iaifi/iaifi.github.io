@@ -5,18 +5,20 @@ title: "Fermion Masses and Mixing in String-Inspired Models"
 authors: "Andrei Constantin, Cristofero S. Fraser-Taliente, Thomas R. Harvey, Lucas T. Y. Leung, Andre Lukas"
 abstract: "We study a class of supersymmetric Froggatt-Nielsen (FN) models with multiple U(1) symmetries and Standard Model (SM) singlets inspired by heterotic string compactifications on Calabi-Yau threefolds. The string-theoretic origin imposes a particular charge pattern on the SM fields and FN singlets, dividing the latter into perturbative and non-perturbative types. Employing systematic and heuristic search strategies, such as genetic algorithms, we identify charge assignments and singlet VEVs that replicate the observed mass and mixing hierarchies in the quark sector, and subsequently refine the Yukawa matrix coefficients to accurately match the observed values for the Higgs VEV, the quark and charged lepton masses and the CKM matrix. This bottom-up approach complements top-down string constructions and our results demonstrate that string FN models possess a sufficiently rich structure to account for flavour physics. On the other hand, the limited number of distinct viable charge patterns identified here indicates that flavour physics imposes tight constraints on string theory models, adding new constraints on particle spectra that are essential for achieving a realistic phenomenology."
 arxiv: "2410.17704"
-journal:
-doi:
+journal: "Journal of High Energy Physics, 2025, Volume 2025, Article Number 175"
+doi: "https://doi.org/10.1007/JHEP06(2025)175"
 nsf-par:
 code:
-publication-date:
+publication-date: 2025-06-18
 bib-tex: |
-  @article{constantin2024fermionmassesmixingstringinspired,
-      title={Fermion Masses and Mixing in String-Inspired Models},
-      author={Andrei Constantin and Cristofero S. Fraser-Taliente and Thomas R. Harvey and Lucas T. Y. Leung and Andre Lukas},
-      year={2024},
-      eprint={2410.17704},
-      archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2410.17704},
+  @article{Constantin2025QuarkMassesMixing,
+  title={Quark masses and mixing in string-inspired models},
+  author={Andrei Constantin, Cristofero S. Fraser-Taliente, Thomas R. Harvey, Lucas T.Y. Leung, Andre Lukas},
+  year={2025},
+  volume={2025},
+  url={https://doi.org/10.1007/JHEP06(2025)175},
+  journal={Journal of High Energy Physics},
+  eprint={2410.17704},
+  DOI={10.1007/JHEP06(2025)175},
+  archivePrefix={arXiv},
   }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-06-06
+title: "A Detection of Helium in the Bright Superluminous Supernova SN 2024rmj"
+authors: "Harsh Kumar, Edo Berger, Peter K. Blanchard, Sebastian Gomez, Daichi Hiramatsu, Alex Gagliano, Moira Andrews, K. Azalee Bostroem, Joseph Farah, D. Andrew Howell, Curtis McCully"
+abstract: "We present extensive ultraviolet (UV), optical, and near-infrared (NIR) photometric and spectroscopic observations of the nearby hydrogen-poor superluminous supernova (SLSN-I) SN2024rmj at z = 0.1189. SN 2024rmj reached a peak absolute magnitude of Mg ≈ -21.9, placing it at the luminous end of the SLSN-I distribution. The light curve exhibits a pronounced pre-peak bump (≈ 60 d before the main peak) and a post-peak bump (≈ 55 d after the main peak). The bulk of the light curve is otherwise well fit by a magnetar spin-down model, with typical values (spin: ≈ 2.1 ms; magnetic field: ≈ 6 × 1013 G; ejecta mass: ≈ 12 M⊙). The optical spectra exhibit characteristic SLSN-I features and evolution, but with a relatively high velocity of ≈ 8,000 km s−1 post-peak. Most significantly, we find a clear detection of helium in the NIR spectra at He I λ1.083 μm and λ2.058 μm, blueshifted by ≈ 15,000 km s−1 (13 d before peak) and ≈ 13,000 km s−1 (40 d after peak), indicating that helium is confined to the outermost ejecta; based on these NIR detections, we also identify likely contribution from He I λ5876 Å in the optical spectra on a similar range of timescales. This represents the most definitive detection of helium in a bright SLSN-I to date, and indicates that progenitors with a thin helium layer can still explode as SLSNe."
+arxiv: "2506.06417"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{kumar2025detectionheliumbrightsuperluminous,
+      title={A Detection of Helium in the Bright Superluminous Supernova SN 2024rmj},
+      author={Harsh Kumar and Edo Berger and Peter K. Blanchard and Sebastian Gomez and Daichi Hiramatsu and Alex Gagliano and Moira Andrews and K. Azalee Bostroem and Joseph Farah and D. Andrew Howell and Curtis McCully},
+      year={2025},
+      eprint={2506.06417},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2506.06417},
+  }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-05-05
+title: "Learning simple heuristic rules for classifying materials based on chemical composition"
+authors: "Andrew Ma, Marin Soljačić"
+abstract: "In the past decade, there has been a significant interest in the use of machine learning approaches in materials science research. Conventional deep learning approaches that rely on complex, nonlinear models have become increasingly important in computational materials science due to their high predictive accuracy. In contrast to these approaches, we have shown in a recent work that a remarkably simple learned heuristic rule -- based on the concept of topogivity -- can classify whether a material is topological using only its chemical composition. In this paper, we go beyond the topology classification scenario by also studying the use of machine learning to develop simple heuristic rules for classifying whether a material is a metal based on chemical composition. Moreover, we present a framework for incorporating chemistry-informed inductive bias based on the structure of the periodic table. For both the topology classification and the metallicity classification tasks, we empirically characterize the performance of simple heuristic rules fit with and without chemistry-informed inductive bias across a wide range of training set sizes. We find evidence that incorporating chemistry-informed inductive bias can reduce the amount of training data required to reach a given level of test accuracy."
+arxiv: "2505.02361"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ma2025learningsimpleheuristicrules,
+      title={Learning simple heuristic rules for classifying materials based on chemical composition},
+      author={Andrew Ma and Marin Soljačić},
+      year={2025},
+      eprint={2505.02361},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.mtrl-sci},
+      url={https://arxiv.org/abs/2505.02361},
+  }

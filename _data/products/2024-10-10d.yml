@@ -5,18 +5,20 @@ title: "Dirac Traces and the Tutte Polynomial"
 authors: "Joshua Lin"
 abstract: "Perturbative calculations involving fermion loops in quantum field theories require tracing over Dirac matrices. A simple way to regulate the divergences that generically appear in these calculations is dimensional regularisation, which has the consequence of replacing 4-dimensional Dirac matrices with d-dimensional counterparts for arbitrary complex values of d. In this work, a connection between traces of d-dimensional Dirac matrices and computations of the Tutte polynomial of associated graphs is proven. The time complexity of computing Dirac traces is analysed by this connection, and improvements to algorithms for computing Dirac traces are proposed."
 arxiv: "2410.08161"
-journal:
-doi:
+journal: "Journal of High Energy Physics, 2025, Volume 2025, Article Number 235"
+doi: "https://doi.org/10.1007/JHEP05(2025)235"
 nsf-par:
 code:
-publication-date:
+publication-date: 2025-05-28
 bib-tex: |
-  @article{lin2024diractracestuttepolynomial,
-      title={Dirac Traces and the Tutte Polynomial},
-      author={Joshua Lin},
-      year={2024},
-      eprint={2410.08161},
-      archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2410.08161},
+  @article{Lin2025DiracTraces,
+  title={Dirac traces and the Tutte polynomial},
+  author={Joshua Lin},
+  year={2025},
+  volume={2025},
+  url={https://doi.org/10.1007/JHEP05(2025)235},
+  journal={Journal of High Energy Physics},
+  eprint={2410.08161},
+  DOI={10.1007/JHEP05(2025)235},
+  archivePrefix={arXiv},
   }

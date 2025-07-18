@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-05-06
+title: "High-redshift Millennium and Astrid galaxies in effective field theory at the field level"
+authors: "James M. Sullivan, Carolina Cuesta-Lazaro, Mikhail M. Ivanov, Yueying Ni, Sownak Bose, Boryana Hadzhiyska, César Hernández-Aguayo, Lars Hernquist, Rahul Kannan"
+abstract: "Effective Field Theory (EFT) modeling is expected to be a useful tool in the era of future higher-redshift galaxy surveys such as DESI-II and Spec-S5 due to its robust description of various large-scale structure tracers. However, large values of EFT bias parameters of higher-redshift galaxies could jeopardize the convergence of the perturbative expansion. In this paper we measure the bias parameters and other EFT coefficients from samples of two types of star-forming galaxies in the state-of-the-art MilleniumTNG and Astrid hydrodynamical simulations. Our measurements are based on the field-level EFT forward model that allows for precision EFT parameter measurements by virtue of cosmic variance cancellation. Specifically, we consider approximately representative samples of Lyman-break galaxies (LBGs) and Lyman-alpha emitters (LAEs) that are consistent with the observed (angular) clustering and number density of these galaxies at . Reproducing the linear biases and number densities observed from existing LAE and LBG data, we find quadratic bias parameters that are roughly consistent with those predicted from the halo model coupled with a simple halo occupation distribution model. We also find non-perturbative velocity contributions (Fingers of God) of a similar size for LBGs to the familiar case of Luminous Red Galaxies. However, these contributions are quite small for LAEs despite their large satellite fraction values of up to . Our results indicate that the effective momentum reach  at  for LAEs (LBGs) will be in the range  (), suggesting that EFT will perform well for high redshift galaxy clustering. This work provides the first step toward obtaining realistic simulation-based priors on EFT parameters for LAEs and LBGs."
+arxiv: "2505.03626"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{sullivan2025highredshiftmillenniumastridgalaxies,
+      title={High-redshift Millennium and Astrid galaxies in effective field theory at the field level},
+      author={James M. Sullivan and Carolina Cuesta-Lazaro and Mikhail M. Ivanov and Yueying Ni and Sownak Bose and Boryana Hadzhiyska and César Hernández-Aguayo and Lars Hernquist and Rahul Kannan},
+      year={2025},
+      eprint={2505.03626},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2505.03626},
+  }

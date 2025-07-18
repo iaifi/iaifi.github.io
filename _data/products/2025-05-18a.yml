@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-05-18
+title: "Neural Thermodynamics I: Entropic Forces in Deep and Universal Representation Learning"
+authors: "Liu Ziyin, Yizhou Xu, Isaac Chuang"
+abstract: "With the rapid discovery of emergent phenomena in deep learning and large language models, explaining and understanding their cause has become an urgent need. Here, we propose a rigorous entropic-force theory for understanding the learning dynamics of neural networks trained with stochastic gradient descent (SGD) and its variants. Building on the theory of parameter symmetries and an entropic loss landscape, we show that representation learning is crucially governed by emergent entropic forces arising from stochasticity and discrete-time updates. These forces systematically break continuous parameter symmetries and preserve discrete ones, leading to a series of gradient balance phenomena that resemble the equipartition property of thermal systems. These phenomena, in turn, (a) explain the universal alignment of neural representations between AI models and lead to a proof of the Platonic Representation Hypothesis, and (b) reconcile the seemingly contradictory observations of sharpness- and flatness-seeking behavior of deep learning optimization. Our theory and experiments demonstrate that a combination of entropic forces and symmetry breaking is key to understanding emergent phenomena in deep learning."
+arxiv: "2505.12387"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ziyin2025neuralthermodynamicsientropic,
+      title={Neural Thermodynamics I: Entropic Forces in Deep and Universal Representation Learning},
+      author={Liu Ziyin and Yizhou Xu and Isaac Chuang},
+      year={2025},
+      eprint={2505.12387},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.12387},
+  }

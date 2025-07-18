@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-05-26
+title: "Outcome-Based Online Reinforcement Learning: Algorithms and Fundamental Limits"
+authors: "Fan Chen, Zeyu Jia, Alexander Rakhlin, Tengyang Xie"
+abstract: "Reinforcement learning with outcome-based feedback faces a fundamental challenge: when rewards are only observed at trajectory endpoints, how do we assign credit to the right actions? This paper provides the first comprehensive analysis of this problem in online RL with general function approximation. We develop a provably sample-efficient algorithm achieving O˜(CcovH3/ϵ2) sample complexity, where Ccov is the coverability coefficient of the underlying MDP. By leveraging general function approximation, our approach works effectively in large or infinite state spaces where tabular methods fail, requiring only that value functions and reward functions can be represented by appropriate function classes. Our results also characterize when outcome-based feedback is statistically separated from per-step rewards, revealing an unavoidable exponential separation for certain MDPs. For deterministic MDPs, we show how to eliminate the completeness assumption, dramatically simplifying the algorithm. We further extend our approach to preference-based feedback settings, proving that equivalent statistical efficiency can be achieved even under more limited information. Together, these results constitute a theoretical foundation for understanding the statistical properties of outcome-based reinforcement learning."
+arxiv: "2505.20268"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{chen2025outcomebasedonlinereinforcementlearning,
+      title={Outcome-Based Online Reinforcement Learning: Algorithms and Fundamental Limits},
+      author={Fan Chen and Zeyu Jia and Alexander Rakhlin and Tengyang Xie},
+      year={2025},
+      eprint={2505.20268},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.20268},
+  }

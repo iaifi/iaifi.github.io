@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-06-02
+title: "A Tale of Two Symmetries: Exploring the Loss Landscape of Equivariant Models"
+authors: "YuQing Xie, Tess Smidt"
+abstract: "Equivariant neural networks have proven to be effective for tasks with known underlying symmetries. However, optimizing equivariant networks can be tricky and best training practices are less established than for standard networks. In particular, recent works have found small training benefits from relaxing equivariance constraints. This raises the question: do equivariance constraints introduce fundamental obstacles to optimization? Or do they simply require different hyperparameter tuning? In this work, we investigate this question through a theoretical analysis of the loss landscape geometry. We focus on networks built using permutation representations, which we can view as a subset of unconstrained MLPs. Importantly, we show that the parameter symmetries of the unconstrained model has nontrivial effects on the loss landscape of the equivariant subspace and under certain conditions can provably prevent learning of the global minima. Further, we empirically demonstrate in such cases, relaxing to an unconstrained MLP can sometimes solve the issue. Interestingly, the weights eventually found via relaxation corresponds to a different choice of group representation in the hidden layer. From this, we draw 3 key takeaways. (1) Viewing any class of networks in the context of larger unconstrained function space can give important insights on loss landscape structure. (2) Within the unconstrained function space, equivariant networks form a complicated union of linear hyperplanes, each associated with a specific choice of internal group representation. (3) Effective relaxation of equivariance may require not only adding nonequivariant degrees of freedom, but also rethinking the fixed choice of group representations in hidden layers."
+arxiv: "2506.02269"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{xie2025talesymmetriesexploringloss,
+      title={A Tale of Two Symmetries: Exploring the Loss Landscape of Equivariant Models},
+      author={YuQing Xie and Tess Smidt},
+      year={2025},
+      eprint={2506.02269},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2506.02269},
+  }
