@@ -219,6 +219,8 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+  ***Marisa LaFleur promoted from IAIFI Project Manager to IAIFI Managing Director***. As IAIFI Managing Director, Marisa will continue to oversee the implementation of IAIFI activities and to expand her responsibilities related to IAIFI’s long-term strategy and funding. *July 9, 2025*
+  {:.info}
      
   ***IAIFI Fellow Michael Albergo and Affiliate Tommi Jaakkola awarded the Best Paper Award at the [Frontiers of Probabilistic Inference](https://sites.google.com/view/fpiworkshop/) workshop, ICLR 2025***. Read the paper on [Openreview](https://openreview.net/forum?id=LBFyCSqwt2). *April 28, 2025*
   {:.info}
