@@ -87,13 +87,14 @@ IAIFI Senior Investigators, Junior Investigators, and Affiliates have access to 
 [Access IAIFI Google Drive](https://drive.google.com/drive/folders/1KCCp9BpUL_GsvPGiWoJt976X0YkSEVDC?usp=sharing){:.button.button--outline-primary.button--pill.button--lg} [Join University affinity group](#affinity-groups){:.button.button--outline-primary.button--pill.button--lg} [Find other AI + physics groups](#related-groups-and-events){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Advertise and acknowledge IAIFI
-  * Use the IAIFI (with NSF) logo in talks related to IAIFI: [Black](images/iaifi-nsf-logo-black.pdf);  [White](images/iaifi-nsf-logo-white.pdf);
+  * **Acknowledgement:** Include IAIFI acknowledgment, **including IAIFI's grant number,** in IAIFI-related papers. This is required if you are a Junior or Senior Investigator, **especially if you are using IAIFI computing resources**.
+    * Example acknowledgement language: "This work is supported by the National Science Foundation under Cooperative Agreement PHY-2019786 (The NSF AI Institute for Artificial Intelligence and Fundamental Interactions, http://iaifi.org/)."
+  * **Affiliation:** Include IAIFI affiliation in papers: The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (Note: There is no address.)
+  * **IAIFI Logo:** Use the IAIFI (with NSF) logo in talks related to IAIFI: [Black](images/iaifi-nsf-logo-black.pdf);  [White](images/iaifi-nsf-logo-white.pdf);
       [Rainbow](images/iaifi-logo-square-rainbow.pdf)
-  * Share slides advertising public IAIFI opportunities when appropriate: [Overview Slide](images/iaifi-oneslide-overview.pdf); [Resources and Activities Slide](images/iaifi-oneslide-resources.pdf)
-  * Include IAIFI affiliation in papers: The NSF AI Institute for Artificial Intelligence and Fundamental Interactions (Note: There is no address.)
-  * Include IAIFI acknowledgment in IAIFI-related papers (required if you are a Junior or Senior Investigator): This work is supported by the National Science Foundation under Cooperative Agreement PHY-2019786 (The NSF AI Institute for Artificial Intelligence and Fundamental Interactions, http://iaifi.org/). 
-  * When you're in the news, [email IAIFI Management](mailto:iaifi@mit.edu) so that we can share on the [home page](index.html) (news on the home page is eventually moved to the [News Archive](iaifi-news.html)), [tweet about it](https://twitter.com/iaifi_news), and include in reports
-
+  * **Standard IAIFI Slides:** Share slides advertising public IAIFI opportunities when appropriate: [Overview Slide](images/iaifi-oneslide-overview.pdf); [Resources and Activities Slide](images/iaifi-oneslide-resources.pdf)
+  * **News:** When you're in the news, [email IAIFI Management](mailto:iaifi@mit.edu) so that we can share on the [home page](index.html) (news on the home page is eventually moved to the [News Archive](iaifi-news.html)), [tweet about it](https://twitter.com/iaifi_news), and include in reports
+  
 <!--
 * Get Involved Beyond IAIFI: We encourage IAIFI members to be involved in programs and initiatives not affiliated with IAIFI, but which can provide new insights and value to the IAIFI community, including sharing relevant events and best practices.  If you have other suggestions for ways the IAIFI community can be involved beyond IAIFI, [email IAIFI Management](mailto:iaifi@mit.edu).
 * <img class="image" src="images/zulip-icon-128x128.png" align="right" style="max-width:128px;width:10%" hspace="10" vspace="10"/> IAIFI utilizes [Zulip](https://zulip.com) for informal communication among members. Zulip is an open-source modern team chat app designed to keep both live and asynchronous conversations organized. [Follow these instructions](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing) to sign up for the IAIFI Zulip if you are an IAIFI member. 
