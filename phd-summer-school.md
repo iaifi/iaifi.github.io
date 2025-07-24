@@ -215,7 +215,7 @@ Break
 
 **5:30–6:30 pm ET**
 
-Fireside Chat with Boris Hanin (Princeton University) sponsored by PDT Partners
+Presentation by Boris Hanin (Princeton University) sponsored by PDT Partners
 
 **6:30–8:00 pm ET**
 
