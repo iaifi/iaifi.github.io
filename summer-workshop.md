@@ -1054,6 +1054,12 @@ We have established discounted rates for August 10–August 16, 2025 at the foll
 
     To book, call 617-499-3399 and reference code 141315.
     
+Other area hotels include: 
+* <b>[Charles Hotel](https://www.charleshotel.com)</b>
+* <b>[Harvard Square Hotel](https://www.harvardsquarehotel.com)</b>
+* <b>[Irving House at Harvard](https://www.irvinghouse.com)</b>
+* <b>[Prentiss House](https://prentisshouse.com)</b>
+    
 Workshop attendees are also welcome to book dorms for a discounted rate at Harvard University: 
 * <b>Harvard University Dorms, 36 Oxford Street, Cambridge, MA 02138</b>
 
