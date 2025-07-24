@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-02-10
+title: "Debiasing Guidance for Discrete Diffusion with Sequential Monte Carlo"
+authors: "Cheuk Kit Lee, Paul Jeha, Jes Frellsen, Pietro Lio, Michael Samuel Albergo, Francisco Vargas"
+abstract: "Discrete diffusion models are a class of generative models that produce samples from an approximated data distribution within a discrete state space. Often, there is a need to target specific regions of the data distribution. Current guidance methods aim to sample from a distribution with mass proportional to p0(x0)p(ζ|x0)α but fail to achieve this in practice. We introduce a Sequential Monte Carlo algorithm that generates unbiasedly from this target distribution, utilising the learnt unconditional and guided process. We validate our approach on low-dimensional distributions, controlled images and text generations. For text generation, our method provides strong control while maintaining low perplexity compared to guidance-based approaches."
+arxiv: "2502.06079"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{lee2025debiasingguidancediscretediffusion,
+      title={Debiasing Guidance for Discrete Diffusion with Sequential Monte Carlo},
+      author={Cheuk Kit Lee and Paul Jeha and Jes Frellsen and Pietro Lio and Michael Samuel Albergo and Francisco Vargas},
+      year={2025},
+      eprint={2502.06079},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.06079},
+  }

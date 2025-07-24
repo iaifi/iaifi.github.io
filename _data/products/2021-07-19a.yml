@@ -1,5 +1,5 @@
 type: paper
-iaifi-thrust: T
+iaifi-thrust: E
 title: "Neural Conditional Reweighting"
 authors: Benjamin Nachman, Jesse Thaler
 abstract: "There is a growing use of neural network classifiers as unbinned, high-dimensional (and variable-dimensional) reweighting functions. To date, the focus has been on marginal reweighting, where a subset of features are used for reweighting while all other features are integrated over. There are some situations, though, where it is preferable to condition on auxiliary features instead of marginalizing over them. In this paper, we introduce neural conditional reweighting, which extends neural marginal reweighting to the conditional case. This approach is particularly relevant in high-energy physics experiments for reweighting detector effects conditioned on particle-level truth information. We leverage a custom loss function that not only allows us to achieve neural conditional reweighting through a single training procedure, but also yields sensible interpolation even in the presence of phase space holes. As a specific example, we apply neural conditional reweighting to the energy response of high-energy jets, which could be used to improve the modeling of physics objects in parametrized fast simulation packages."

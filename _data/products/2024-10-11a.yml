@@ -4,18 +4,20 @@ title: "Reinforcement Learning for Control of Non-Markovian Cellular Population 
 authors: "Josiah C. Kratz, Jacob Adamczyk"
 abstract: "Many organisms and cell types, from bacteria to cancer cells, exhibit a remarkable ability to adapt to fluctuating environments. Additionally, cells can leverage memory of past environments to better survive previously-encountered stressors. From a control perspective, this adaptability poses significant challenges in driving cell populations toward extinction, and is thus an open question with great clinical significance. In this work, we focus on drug dosing in cell populations exhibiting phenotypic plasticity. For specific dynamical models switching between resistant and susceptible states, exact solutions are known. However, when the underlying system parameters are unknown, and for complex memory-based systems, obtaining the optimal solution is currently intractable. To address this challenge, we apply reinforcement learning (RL) to identify informed dosing strategies to control cell populations evolving under novel non-Markovian dynamics. We find that model-free deep RL is able to recover exact solutions and control cell populations even in the presence of long-range temporal dynamics."
 arxiv: "2410.08439"
-journal:
-doi:
+journal: "ICLR 2025"
+doi: "https://openreview.net/forum?id=dsHpulHpOK"
 nsf-par:
 code: https://github.com/JacobHA/RL4Dosing
-publication-date:
+publication-date: 2025-01-22
 bib-tex: |
-  @article{kratz2024reinforcementlearningcontrolnonmarkovian,
-      title={Reinforcement Learning for Control of Non-Markovian Cellular Population Dynamics},
-      author={Josiah C. Kratz and Jacob Adamczyk},
-      year={2024},
-      eprint={2410.08439},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.08439},
+  @inproceedings{kratz2025reinforcement,
+  title={Reinforcement Learning for Control of Non-Markovian Cellular Population Dynamics},
+  author={Josiah C Kratz and Jacob Adamczyk},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025},
+  url={https://openreview.net/forum?id=dsHpulHpOK},
+  eprint={2410.08439},
+  archivePrefix={arXiv},
   }
+
+

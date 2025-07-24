@@ -7,7 +7,7 @@ arxiv: "2405.14530"
 journal: NeurIPS 2024
 doi: https://papers.nips.cc/paper_files/paper/2024/hash/3d4dc72d715bd6415d356293079adf3d-Abstract-Conference.html
 nsf-par: 10588332
-code:
+code: "https://github.com/xrhan/mssfs"
 publication-date: 2024-12-10
 bib-tex: |
   @inproceedings{NEURIPS2024_3d4dc72d,

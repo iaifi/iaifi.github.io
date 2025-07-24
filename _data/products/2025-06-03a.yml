@@ -8,7 +8,7 @@ arxiv: "2506.02473"
 journal:
 doi:
 nsf-par:
-code:
+code: "https://github.com/xrhan/diffmotion"
 publication-date:
 bib-tex: |
   @article{han2025generativeperceptionshapematerial,
