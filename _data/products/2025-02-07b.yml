@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-02-07
+title: "Self-attention neural network for solving correlated electron problems in solids"
+authors: "Max Geier, Khachatur Nazaryan, Timothy Zaklama, Liang Fu"
+abstract: "The attention mechanism has transformed artificial intelligence research by its ability to learn relations between objects. In this work, we explore how a many-body wave-function Ansatz constructed from a large-parameter self-attention neural network can be used to solve the interacting electron problem in solids. By a systematic neural-network variational Monte Carlo study on a moiré quantum material, we demonstrate that the self-attention Ansatz provides an accurate and efficient solution without human bias. Moreover, our numerical study finds that the required number of variational parameters scales roughly as 𝑁2 with the number of electrons, which opens a path towards efficient large-scale simulations."
+arxiv: "2502.05383"
+journal: "Physical Review B, 2025, Volume 112, Issue 4"
+doi: "https://doi.org/10.1103/qxc3-bkc7"
+nsf-par:
+code:
+publication-date: 2025-07-14
+bib-tex: |
+  @article{qxc3-bkc7,
+  title = {Self-attention neural network for solving correlated electron problems in solids},
+  author = {Geier, Max and Nazaryan, Khachatur and Zaklama, Timothy and Fu, Liang},
+  journal = {Phys. Rev. B},
+  volume = {112},
+  issue = {4},
+  pages = {045119},
+  numpages = {16},
+  year = {2025},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/qxc3-bkc7},
+  url = {https://link.aps.org/doi/10.1103/qxc3-bkc7},
+  eprint={2502.05383},
+  archivePrefix={arXiv},
+  }

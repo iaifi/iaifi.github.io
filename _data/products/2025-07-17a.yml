@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-07-17
+title: "reLAISS: A Python Package for Flexible Similarity Searches of Supernovae and Their Host Galaxies"
+authors: "E. Reynolds, A. Gagliano, V. A. Villar"
+abstract: "Discovery rates of supernovae are expected to surpass one million events annually with the Vera C. Rubin Observatory. With unprecedented sample sizes of both common and rare transient types, photometric classification alone will be insufficient for finding one-in-a-million events and prioritizing the 1% of events for spectroscopic follow-up observations. Here, we present reLAISS, a modified framework for similarity searches of supernovae using extracted features of ZTF light curves and Pan-STARRS host galaxy photometry and built on the original LAISS framework. Unlike its predecessor, reLAISS couples interpretable light curve morphology features with extinction-corrected host-galaxy colors to probe both explosion physics and associated stellar populations simultaneously. The library allows users to customize the number of neighbors retrieved, the weight of host and light curve features, and the use of Monte Carlo simulations to ensure relevant matches when features are poorly constrained. We release reLAISS as a pip-installable package with an accompanying reference set of 20,000 features, and a set of tutorials that demonstrate the code's expanded functionality. All source code can be found at this https URL ."
+arxiv: "2507.13449"
+journal:
+doi:
+nsf-par:
+code: https://github.com/YunyiShen/VAESNe-dev
+publication-date:
+bib-tex: |
+  @article{reynolds2025relaisspythonpackageflexible,
+      title={reLAISS: A Python Package for Flexible Similarity Searches of Supernovae and Their Host Galaxies},
+      author={E. Reynolds and A. Gagliano and V. A. Villar},
+      year={2025},
+      eprint={2507.13449},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM},
+      url={https://arxiv.org/abs/2507.13449},
+  }

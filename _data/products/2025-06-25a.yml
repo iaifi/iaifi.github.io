@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-06-25
+title: "Holography with Null Boundaries"
+authors: "Christian Ferko, Savdeep Sethi"
+abstract: "One of the key issues in holography is going beyond AdS and defining quantum gravity in spacetimes with a null boundary. Recent examples of this type involve linear dilaton asymptotics and are related to the TT deformation. We present a holographic correspondence derived from string theory, which is an example of a kind of celestial holography. The holographic definition is a spacetime non-commutative open string theory supported on D1-D5 branes together with fundamental strings. The gravity solutions interpolate between AdS3 metrics and six-dimensional metrics. Radiation can escape to null infinity, which makes both the encoding of quantum information in the boundary and the dynamics of black holes quite different from AdS spacetimes."
+arxiv: "2506.20765"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ferko2025holographynullboundaries,
+      title={Holography with Null Boundaries},
+      author={Christian Ferko and Savdeep Sethi},
+      year={2025},
+      eprint={2506.20765},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2506.20765},
+  }
