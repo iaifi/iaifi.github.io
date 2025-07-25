@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-05-09
+title: "Average-Reward Soft Actor-Critic"
+authors: "Jacob Adamczyk, Volodymyr Makarenko, Stas Tiomkin, Rahul V Kulkarni"
+abstract: "The average-reward formulation of reinforcement learning (RL) has drawn increased interest in recent years for its ability to solve temporally-extended problems without relying on discounting. Meanwhile, in the discounted setting, algorithms with entropy regularization have been developed, leading to improvements over deterministic methods. Despite the distinct benefits of these approaches, deep RL algorithms for the entropy-regularized average-reward objective have not been developed. While policy-gradient based approaches have recently been presented for the average-reward literature, the corresponding actor-critic framework remains less explored. In this paper, we introduce an average-reward soft actor-critic algorithm to address these gaps in the field. We validate our method by comparing with existing average-reward algorithms on standard RL benchmarks, achieving superior performance for the average-reward criterion."
+arxiv:
+journal: Reinforcement Learning Journal, 2025
+doi: https://openreview.net/pdf?id=ywygpSXlHG
+nsf-par:
+code:
+publication-date: 2025-07-14
+bib-tex: |
+  @inproceedings{
+      adamczyk2025averagereward,
+      title={Average-Reward Soft Actor-Critic},
+      author={Jacob Adamczyk and Volodymyr Makarenko and Stas Tiomkin and Rahul V Kulkarni},
+      booktitle={Reinforcement Learning Conference},
+      year={2025},
+      url={https://openreview.net/forum?id=ywygpSXlHG}
+  }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-07-22
+title: "Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data"
+authors: "Yunyi Shen, Alexander T. Gagliano"
+abstract: "Time-domain astrophysics relies on heterogeneous and multi-modal data. Specialized models are often constructed to extract information from a single modality, but this approach ignores the wealth of cross-modality information that may be relevant for the tasks to which the model is applied. In this work, we propose a multi-modal, mixture-of-expert variational autoencoder to learn a joint embedding for supernova light curves and spectra. Our method, which is inspired by the Perceiver architecture, natively accommodates variable-length inputs and the irregular temporal sampling inherent to supernova light curves. We train our model on radiative transfer simulations and validate its performance on cross-modality reconstruction of supernova spectra and physical parameters from the simulation. Our model achieves superior performance in cross-modality generation to nearest-neighbor searches in a contrastively-trained latent space, showing its promise for constructing informative latent representations of multi-modal astronomical datasets."
+arxiv: "2507.16817"
+journal:
+doi:
+nsf-par:
+code: https://github.com/YunyiShen/VAESNe-dev
+publication-date:
+bib-tex: |
+  @article{shen2025mixtureofexpertvariationalautoencoderscrossmodality,
+      title={Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data},
+      author={Yunyi Shen and Alexander T. Gagliano},
+      year={2025},
+      eprint={2507.16817},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM},
+      url={https://arxiv.org/abs/2507.16817},
+  }
