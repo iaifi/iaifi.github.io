@@ -19,9 +19,7 @@
   end-date-time: "2025-12-07 17:00"
   talk-location: "San Diego Convention Center"
   talk-zoom:
-  event-details: "The 2025 installment of the Workshop on Machine Learning and the Physical Sciences will be hosted at NeurIPS in December 2025 in San Diego, California! The mission of this workshop is to connect researchers across machine learning and the physical sciences as well as to highlight exciting new directions in this interdisciplinary space. If that interests you, you are invited to submit anonymised short papers (at the more info link) up to 4 pages in length, not including references.
-- Submission Deadline: August 29, 2025, 23:59 AoE
-- Workshop: December 6 or 7, 2025"
+  event-details: "The 2025 installment of the Workshop on Machine Learning and the Physical Sciences will be hosted at NeurIPS in December 2025 in San Diego, California! The mission of this workshop is to connect researchers across machine learning and the physical sciences as well as to highlight exciting new directions in this interdisciplinary space. If that interests you, you are invited to submit anonymised short papers (at the more info link) up to 4 pages in length, not including references. <em>The submission deadline is August 29, 2025</em>."
   calendar-link:
 
 - type: "external-event"
