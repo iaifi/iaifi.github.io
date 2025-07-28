@@ -9,6 +9,20 @@
   talk-zoom:
   event-details: "We invite particle physicists from different sub-field to join us and spend a week at LBNL for ML4FP, where a wide range of machine learning methods for particle physics development will be covered. The learning materials (hands-on examples) are deeply connected with real experimental applications. Meanwhile, we also encourage our theorist friends to join ML4FP as the machine learning tools and methods are general. Through this platform, we appreciate discussions for current and future use of machine learning mathods in various aspects of particle physics. We put particular emphasis on the hands-on tutorials with realistic examples to help participants to dive in the machine learning world for their research needs. The school is open to all enthusiasts working in particle physics who wish to advance their knowledge in machine learning. Thanks to the ATC program by US ATLAS, there will be financial assistance to support most US ATLAS students in double-occpancy hotel rooms near  LBNL (we cannot cover airfare)."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "NeurIPS Workshop on Machine Learning and the Physical Sciences"
+  event-organizer: "NeurIPS ML4PS Workshop Organizers"
+  more-info-link: "https://ml4physicalsciences.github.io"
+  event-post-date: "2025-07-27"
+  start-date-time: "2025-12-06 9:00"
+  end-date-time: "2025-12-07 17:00"
+  talk-location: "San Diego Convention Center"
+  talk-zoom:
+  event-details: "The 2025 installment of the Workshop on Machine Learning and the Physical Sciences will be hosted at NeurIPS in December 2025 in San Diego, California! The mission of this workshop is to connect researchers across machine learning and the physical sciences as well as to highlight exciting new directions in this interdisciplinary space. If that interests you, you are invited to submit anonymised short papers (at the more info link) up to 4 pages in length, not including references.
+- Submission Deadline: August 29, 2025, 23:59 AoE
+- Workshop: December 6 or 7, 2025"
+  calendar-link:
 
 - type: "external-event"
   event-name: "AI4Science Conference"
