@@ -482,13 +482,13 @@ Break
 
 **11:00–11:45 am ET**
 
-*Foundation Models for Detector Data: progress, potential, and concerns*
+*Foundation Models for Detector Data: progress, potential, and challenges*
 
 Michelle Kuchera, Davidson College
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Building on recent successes in broader machine learning domains, physicists are now adapting large, pre-trained models to structured detector data. In this talk, I will survey the growing landscape of foundation model applications in nuclear and particle physics, with a focus on models designed for sparse or geometric data representations. I will discuss what we can learn from foundation model work in non-science machine learning research, how these ideas translate into physics contexts, and where domain-specific needs introduce new challenges. In addition to technical advances, I will also discuss the impact of culture in scientific disciplines which may affect logistics of deploying foundation models considering topics such as data ownership, reproducibility, and authorship.</em>
 </details>
 
 **11:45 am–12:30 pm ET**
