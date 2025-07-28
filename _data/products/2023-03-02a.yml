@@ -23,7 +23,6 @@ bib-tex: |
     issn = {0035-8711},
     doi = {10.1093/mnras/stae446},
     url = {https://doi.org/10.1093/mnras/stae446},
-    eprint = {https://academic.oup.com/mnras/article-pdf/529/4/4745/57162125/stae446.pdf},
     eprint={2303.01529},
     archivePrefix={arXiv},
   }
