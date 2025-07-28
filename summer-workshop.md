@@ -634,7 +634,7 @@ Hsin-Yuan (Robert) Huang, Caltech, Google
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Recent breakthroughs in generative machine learning, powered by massive computational resources, have demonstrated unprecedented human-like capabilities. While beyond-classical quantum experiments have generated samples from classically intractable distributions, their complexity has, to-date, thwarted all efforts in efficient learning. This challenge has hindered demonstrations of generative quantum advantage: the ability for quantum computers to both learn and generate desired outputs substantially better than classical computers. We resolve this challenge by introducing a class of shallow quantum models that sample from universal classes of deep circuits. These models are hard to simulate classically, are efficiently trainable, have no barren plateaus or proliferating local minima, and can learn distributions that are provably out of reach for classical models. Using a 68 qubit superconducting quantum processor, we apply these models to two scenarios: learning classically intractable probability distributions and learning quantum circuits for accelerated physical simulation. Our results demonstrate that both learning and sampling are efficient in the current beyond-classical regime, opening new possibilities for quantum-enhanced generative models with provable classical hardness.</em>
 </details>
 
 **9:45–10:30 am ET**

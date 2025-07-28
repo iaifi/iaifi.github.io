@@ -21,7 +21,6 @@ bib-tex: |
   year = {2025},
   doi = {10.1142/S0217751X25300042},
   URL = {https://doi.org/10.1142/S0217751X25300042},
-  eprint = {https://doi.org/10.1142/S0217751X25300042},
   abstract = { This paper summarizes the discussions which took place during the PITT-PACC Workshop entitled ‚ÄúNon-Standard Cosmological Epochs and Expansion Histories,‚Äù held in Pittsburgh, Pennsylvania, Sept.¬†5‚Äì7, 2024. Much like the non-standard cosmological epochs that were the subject of these discussions, the format of this workshop was also non-standard. Rather than consisting of a series of talks from participants, with each person presenting their own work, this workshop was instead organized around free-form discussion blocks, with each centered on a different overall theme and guided by a different set of Discussion Leaders. This document is not intended to serve as a comprehensive review of these topics, but rather as an informal record of the discussions that took place during the workshop, in the hope that the content and free-flowing spirit of these discussions may inspire new ideas and research directions. },
   eprint={2411.04780},
   archivePrefix={arXiv},

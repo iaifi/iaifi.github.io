@@ -41,7 +41,7 @@ external-workshop:
   webpage: "https://iaifi.org/related-events.html#upcoming-workshops"
   
 internal-workshop:
-  name: "IAIFI Workshop"
+  name: "IAIFI Event"
   category: "internal"
   zoom:
   button_type: button--outline-primary

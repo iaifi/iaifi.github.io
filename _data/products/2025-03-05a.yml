@@ -22,7 +22,6 @@ bib-tex: |
     issn = {0035-8711},
     doi = {10.1093/mnras/staf1118},
     url = {https://doi.org/10.1093/mnras/staf1118},
-    eprint = {https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/staf1118/63712495/staf1118.pdf},
     eprint={2503.03812},
     archivePrefix={arXiv},
   }
