@@ -9,7 +9,7 @@ title:
 The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. We are also accepting submissions for contributed talks and/or posters.
 
 * **The 2025 Summer Workshop will be held August 11–15, 2025**
-* **Location: Harvard University (Cambridge, MA)**
+* **Location: Harvard University Northwest Building (52 Oxford St, Cambridge, MA 02138)**
 * **[Registration is now open](https://buy.stripe.com/fZe9Ci53xfX90eceVb) for the 2025 IAIFI Summer Workshop; Register by July 31, 2025 ($200 registration fee).** 
 
 [Register for the 2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg} <!--[Submit a Talk/Poster by June 1, 2025](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d){:.button.button--outline-primary.button--pill.button--lg}-->
@@ -456,13 +456,13 @@ Museum of Science
 
 **9:00–9:45 am ET**
 
-*Low latency machine learning at the LHCb experiment*
+*Machine Learning inroads into the Bootstrap programme*
 
-Eluned Smith, MIT
+Costis Papageorgakis, Queen Mary University of London
 
 <details>
 <summary>Abstract</summary>
-<em>With an anticipated input rate of 200 Tb/s, the LHCb experiment demands real-time data reduction at the detector level to prevent irreversible loss of valuable physics information. This talk presents an overview of efforts to deploy machine learning inference directly on compact, radiation-tolerant FPGAs located near the detector readout—an environment that imposes stringent constraints on latency and resource utilization. As a concrete example, I highlight the use of Variational Autoencoders (VAEs) that can simultaneously compress waveforms and extract precise timestamps within the required latency budget. I also discuss other potential and ongoing machine learning applications within LHCb's front-end systems.</em>
+<em>I will survey recent advances in applying machine learning to the bootstrap programme in theoretical physics. I will discuss the use of reinforcement learning in high-dimensional searches for Conformal Field Theory (CFT) data, neural operators for finding scattering-matrix phases and neural network applications for bootsrapping CFTs at finite temperature. I will also touch upon investigations using large language models for analysing high-energy theory abstracts.</em>
 </details>
 
 **9:45–10:30 am ET**
@@ -603,13 +603,13 @@ Break
 
 **4:00–4:45 pm ET**
 
-*Machine Learning inroads into the Bootstrap programme*
+*Title to come.*
 
-Costis Papageorgakis, Queen Mary University of London
+Michael Douglas, Harvard University
 
 <details>
 <summary>Abstract</summary>
-<em>I will survey recent advances in applying machine learning to the bootstrap programme in theoretical physics. I will discuss the use of reinforcement learning in high-dimensional searches for Conformal Field Theory (CFT) data, neural operators for finding scattering-matrix phases and neural network applications for bootsrapping CFTs at finite temperature. I will also touch upon investigations using large language models for analysing high-energy theory abstracts.</em>
+<em>Abstract to come.</em>
 </details>
 
 **4:45–5:30 pm ET**
@@ -691,13 +691,13 @@ Moritz Münchmeyer, University of Wisconsin-Madison
 
 **2:45–3:30 pm ET**
 
-*A model of emergent abilities in learning from language*
+*Low latency machine learning at the LHCb experiment*
 
-Yasamin Bahri, Google DeepMind
+Eluned Smith, MIT
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>With an anticipated input rate of 200 Tb/s, the LHCb experiment demands real-time data reduction at the detector level to prevent irreversible loss of valuable physics information. This talk presents an overview of efforts to deploy machine learning inference directly on compact, radiation-tolerant FPGAs located near the detector readout—an environment that imposes stringent constraints on latency and resource utilization. As a concrete example, I highlight the use of Variational Autoencoders (VAEs) that can simultaneously compress waveforms and extract precise timestamps within the required latency budget. I also discuss other potential and ongoing machine learning applications within LHCb's front-end systems.</em>
 </details>
 
 **3:30–4:00 pm ET**
@@ -734,17 +734,6 @@ Closing
          </div>
        </div>
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-yasaman-bahri.jpg" alt="Amy Zhang" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://sites.google.com/view/yasamanbahri/home">Yasaman Bahri</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Google DeepMind </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-petros-boufounos.jpg" alt="Petros Boufounos" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -774,6 +763,17 @@ Closing
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> FNAL </em> <br>
+         </div>
+         </div>
+       </div>
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-michael-douglas.jpg" alt="Michael Douglas" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="http://scgp.stonybrook.edu/people/faculty/bios/michael-r-douglas">Michael Douglas</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Harvard University </em> <br>
          </div>
          </div>
        </div>
