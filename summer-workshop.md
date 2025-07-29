@@ -146,7 +146,7 @@ Lina Necib, MIT
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>In this talk, I explore the impact of stellar kinematics on understanding the particle nature of Dark Matter, overviewing the correlations between stellar and Dark Matter phase space distributions in three separate locations: the solar neighborhood, the Galactic center, and dwarf galaxies. I will focus on the use of machine learning techniques applied to data from the Gaia mission to disentangle the local kinematics substructures, and the use of simulations to study the correlations between stars and Dark Matter. I will end by relating these empirical measurements to Dark Matter detection experiments.</em>
 </details>
 
 **9:45–10:30 am ET**
