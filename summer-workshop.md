@@ -307,7 +307,7 @@ Sokratis Trifinopoulos, MIT/CERN
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Obtaining high-precision predictions of nuclear observables, such as nuclear binding energies $E_b$, charge radii etc., remains an important goal in nuclear-physics research. Recently, many AI-based tools have shown promising results on such tasks, some achieving a precision that surpasses the best physics models. However, the utility of these AI models remains in question given that predictions are only useful where measurements do not exist, which inherently requires extrapolation away from the training (and testing) samples. Since AI models are largely \textit{black boxes}, the reliability of such an extrapolation is difficult to assess. In this talk, I will present an AI model that not only achieves cutting-edge precision for nuclear observables, but does so in an interpretable manner. Focusing on the case of $E_b$, we find that the most important dimensions of its internal representation form a double helix, where the analog of the hydrogen bonds in DNA here link the number of protons and neutrons found in the most stable nucleus of each isotopic chain. Furthermore, I will show that the AI prediction of $E_b$ can be factorized and ordered hierarchically, with the most important terms corresponding to well-known symbolic models (such as the famous liquid drop). Remarkably, the improvement of the AI model over symbolic ones can almost entirely be attributed to an observation made by Jaffe in 1969. The end result is a data-driven model of nuclear masses that is fully interpretable.</em>
 </details>
 
 **9:45–10:30 am ET**
