@@ -186,6 +186,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***Registration is now open for the 2025 IAIFI Summer Workshop.*** [Register by July 31, 2025](https://iaifi.org/summer-workshop). 
 {:.success}
 
+***Lina Necib Presentation at Museum of Science Planetarium.*** Join IAIFI and the Museum of Science for [Beyond the Telescope: Unveiling the Invisible Milky Way with AI](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai) on Wednesday, July 13, 2025 at 7:00 pm. Open to the public; free with pre-registration. 
+{:.success}
+
 ***Our [IAIFI Colloquium series](events.html) will continue in Fall 2025.*** Recordings of our previous colloquium talks are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
@@ -219,6 +222,12 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+  ***IAIFI Deputy Director Mike Williams participates on panel at AI+Science Summit***. The panel, "[Powering Innovation at the Intersection of AI & Science: NSF’s AI Institutes](Powering Innovation at the Intersection of AI & Science: NSF’s AI Institutes)" was hosted by the Special Competitive Studies Project at their AI+Science Summit. *July 23, 2025*
+{:.info}
+  
+  ***IAIFI Fellow Jessie Micallef receives Impact Award from MicroBooNE expirement***. Jessie received the award for contributions to the experiment. *July 20, 2025*
+{:.info}
+    
   ***Marisa LaFleur promoted from IAIFI Project Manager to IAIFI Managing Director***. As IAIFI Managing Director, Marisa will continue to oversee the implementation of IAIFI activities and to expand her responsibilities related to IAIFI’s long-term strategy and funding. *July 9, 2025*
   {:.info}
      
