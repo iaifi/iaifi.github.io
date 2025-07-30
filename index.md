@@ -222,7 +222,7 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
-  ***IAIFI Deputy Director Mike Williams participates on panel at AI+Science Summit***. The panel, "[Powering Innovation at the Intersection of AI & Science: NSF’s AI Institutes](Powering Innovation at the Intersection of AI & Science: NSF’s AI Institutes)" was hosted by the Special Competitive Studies Project at their AI+Science Summit. *July 23, 2025*
+  ***IAIFI Deputy Director Mike Williams participates on panel at AI+Science Summit***. The panel, "[Powering Innovation at the Intersection of AI & Science: NSF’s AI Institutes](https://youtu.be/RlzN7UhuHL0?si=3C6cqb4SbP_IfX1B)" was hosted by the Special Competitive Studies Project at their AI+Science Summit. *July 23, 2025*
 {:.info}
   
   ***IAIFI Fellow Jessie Micallef receives Impact Award from MicroBooNE expirement***. Jessie received the award for contributions to the experiment. *July 20, 2025*
