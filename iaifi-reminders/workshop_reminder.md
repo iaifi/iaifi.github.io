@@ -32,9 +32,9 @@ We hope you can join us for the 2025 IAIFI Summer Workshop! Please register by J
 
 ## Open to the Public: Museum of Science Presentation
 
-IAIFI is collaborating with the Museum of Science! Join MIT astrophysicist Lina Necib, PhD for a "Beyond the Telescope" presentation at the Museum's planetarium!
+IAIFI is collaborating with the Museum of Science! Join MIT astrophysicist (and IAIFI Senior Investigator) Lina Necib, PhD for a "Beyond the Telescope" presentation at the Museum's planetarium!
 
-* **What:** Beyond the Telescope: Unveiling the Invisible Milky Way with AI; Take an AI-powered tour of the Milky Way in this immersive Planetarium program featuring MIT astrophysicist Lina Necib, PhD. Using real Gaia Space Observatory data and advanced machine learning technology, uncover the hidden forces shaping our galaxy—from epic cosmic collisions to the elusive nature of dark matter.
+* **What:** *Beyond the Telescope: Unveiling the Invisible Milky Way with AI*; Take an AI-powered tour of the Milky Way in this immersive Planetarium program featuring MIT astrophysicist Lina Necib, PhD. Using real Gaia Space Observatory data and advanced machine learning technology, uncover the hidden forces shaping our galaxy—from epic cosmic collisions to the elusive nature of dark matter.
 * **Who:** Open to the public
 * **When:** August 13, 2025 at 7:00 pm
 * **Where:** Charles Hayden Planetarium, Museum of Science (1 Science Pk, Boston, MA 02114)
