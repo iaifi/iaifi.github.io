@@ -14,7 +14,7 @@ show_title: false
 </p>
 
 ## Register for the Summer Workshop
-We hope you can join us for the 2025 IAIFI Summer Workshop! Please register by July 31, 2025 ($200 registration fee), though we may still accept registrations after that date.
+We hope you can join us for the 2025 IAIFI Summer Workshop! Please register by July 31, 2025 if possible, though we will continue to accept registrations until the start of the Workshop.
 
 [Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg}  [View Agenda](https://iaifi.org/summer-workshop.html#agenda){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -40,7 +40,7 @@ IAIFI is collaborating with the Museum of Science! Join MIT astrophysicist Lina 
 * **Where:** Charles Hayden Planetarium, Museum of Science (1 Science Pk, Boston, MA 02114)
 * **How:** [Register for free](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai) 
 
-[More Information](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai)
+[More Information](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai){:.button.button--outline-primary.button--pill.button--lg} 
 
 {% include_relative iaifi-reminder_footer.html %}
 
