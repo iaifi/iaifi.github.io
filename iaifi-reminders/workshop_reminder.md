@@ -13,16 +13,12 @@ show_title: false
   <img src="https://iaifi.org/images/summer-workshop-logo_2025.png" style="max-width:5990px;width:85%; margin-bottom: 20px;">
 </p>
 
-## Register for the Summer Workshop by July 31, 2025
-We hope you can join us for the 2025 IAIFI Summer Workshop! Register by July 31, 2025 ($200 registration fee).
+## Register for the Summer Workshop
+We hope you can join us for the 2025 IAIFI Summer Workshop! Please register by July 31, 2025 ($200 registration fee), though we may still accept registrations after that date.
 
-[Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg}
+[Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg}  [View Agenda](https://iaifi.org/summer-workshop.html#agenda){:.button.button--outline-primary.button--pill.button--lg}
 
 <!-- ## Summer Workshop Agenda Announced -->
-
-We are also happy to share the Summer Workshop agenda, including the full list of plenary speakers.
-
-[View Agenda](https://iaifi.org/summer-workshop.html#agenda){:.button.button--outline-primary.button--pill.button--lg}
 
 <!-- ## Summer Workshop 2025 Details -->
 
@@ -30,19 +26,21 @@ We are also happy to share the Summer Workshop agenda, including the full list o
 * **Who:** Researchers of all career stages interested in interdisciplinary AI+Physics research. 
 * **When:** August 11–15, 2025
 * **Where:** Harvard University, Cambridge, MA
-* **How:** [Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb) by July 31, 2025 ($200 registration fee)
+* **How:** [Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb) 
 
-[More Information](https://iaifi.org/summer-workshop.html){:.button.button--outline-primary.button--pill.button--lg} [Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg}  
+[More Information](https://iaifi.org/summer-workshop.html){:.button.button--outline-primary.button--pill.button--lg} 
 
-## Other Upcoming Events
+## Open to the Public: Museum of Science Presentation
 
-We are also pleased to announce the **4th Annual AI4EIC Workshop – Artificial Intelligence for the Electron-Ion Collider**, taking place from October 27–29, 2025, in a hybrid format, with in-person sessions hosted at the Massachusetts Institute of Technology (MIT), Cambridge, MA. As in previous years, the workshop is organized with the support of the AI4EIC Working Group of the EIC User Group (EICUG) and a multi-institutional scientific organizing committee. This year, the Workshop is co-sponsored by the NSF Institute for Artificial Intelligence and Fundamental Interactions (IAIFI), including organization and funding support. 
+IAIFI is collaborating with the Museum of Science! Join MIT astrophysicist Lina Necib, PhD for a "Beyond the Telescope" presentation at the Museum's planetarium!
 
-Building on the productive exchanges of [previous AI4EIC events](https://eic.ai), this year's workshop will explore both current and emerging applications of AI/ML within the EIC, including work related to the ePIC experiment and beyond. The program will feature contributions from experts across academia, national laboratories, and industry. We are also excited to announce a dedicated workfest on AI Retrieval Agents for EIC Science, organized by AI4EIC, offering a hands-on opportunity for collaborative development and discussion during the Workshop. 
+* **What:** Beyond the Telescope: Unveiling the Invisible Milky Way with AI; Take an AI-powered tour of the Milky Way in this immersive Planetarium program featuring MIT astrophysicist Lina Necib, PhD. Using real Gaia Space Observatory data and advanced machine learning technology, uncover the hidden forces shaping our galaxy—from epic cosmic collisions to the elusive nature of dark matter.
+* **Who:** Open to the public
+* **When:** August 13, 2025 at 7:00 pm
+* **Where:** Charles Hayden Planetarium, Museum of Science (1 Science Pk, Boston, MA 02114)
+* **How:** [Register for free](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai) 
 
-Registration is now open, and abstract submissions are welcome. 
-
-[More Information about the AI4EIC Workshop](https://indico.bnl.gov/event/AI4EIC2025){:.button.button--outline-primary.button--pill.button--lg}
+[More Information](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai)
 
 {% include_relative iaifi-reminder_footer.html %}
 
