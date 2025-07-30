@@ -603,7 +603,7 @@ Break
 
 **4:00–4:45 pm ET**
 
-*Title to come.*
+*AI and New Mathematical Technologies*
 
 Michael Douglas, Harvard University
 
