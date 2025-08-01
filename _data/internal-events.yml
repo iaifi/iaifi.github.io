@@ -119,6 +119,8 @@
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTlfMjAyNTA4MDFUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link:
   more-info-link:
+  attendance-in-person: 18
+  attendance-virtual: 0 #There was no virtual attendance option
   
 - type: "internal-workshop"
   event-name: "IAIFI Summer School"
