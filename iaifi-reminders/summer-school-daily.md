@@ -23,7 +23,9 @@ All sessions will be held in room LL2.224 and on the same Zoom link for those at
 ### Important Reminders
 Tutorial materials can be found on the [IAIFI Summer School GitHub](https://github.com/iaifi/summer-school-2025). If you have not yet done so, please [register for an account on ACCESS](https://operations.access-ci.org/identity/new-user) and email mlafleur@mit.edu with your username in order to access GPUs provided for the Summer School.
 
-**In-person attendees:** Join us after the sessions for a welcome dinner from 5:00–7:00pm ET in the Atrium. 
+**In-person attendees:** Join us after the sessions for a welcome dinner from 5:00–7:00pm ET in the Atrium.
+
+**Virtual attendees:** Join a virtual networking session at 4:30 pm ET [on Zoom](https://mit.zoom.us/j/96060138453?pwd=bGOA473lPipCdVHmANNR34IlVZh9Qy.1).  
 
 ### Today's Schedule
 
