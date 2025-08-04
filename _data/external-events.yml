@@ -60,6 +60,19 @@
   calendar-link:
   
 - type: "external-event"
+  event-name: "2025 ISU-NISS Conference on AI and Statistics"
+  event-organizer: "ISU-NISS Organizing Committee"
+  more-info-link: "https://www.regcytes.extension.iastate.edu/isu-niss-ai-stat/"
+  event-post-date: "2025-08-03"
+  start-date-time: "2025-09-12 9:00"
+  end-date-time: "2025-09-14 17:00"
+  talk-location: "Memorial Union, Iowa State University"
+  talk-zoom:
+  event-details: "The 2025 ISU-NISS Conference on AI and Statistics will take place Friday, September 12 to Sunday, September 14 on the Iowa State University campus. This three-day event brings together researchers at the intersection of artificial intelligence and statistical science to explore the latest theoretical and applied advances in AI and statistics. The program will feature invited plenary sessions and poster presentations covering a range of topics such as causal reasoning, online inference and streaming data, sequential decision-making, image and shape analysis, geospatial AI, and applications of machine learning and AI in forensic science and survey statistics. We invite academics, industry professionals, and students to join us on the ISU campus for stimulating discussions, collaborative networking, and community-building around the future of AI and statistics."
+  calendar-link:
+  registration-deadline: 2025-08-31
+
+- type: "external-event"
   event-name: "Open SkAI 2025"
   event-organizer: "SkAI Institute"
   more-info-link: "https://sites.northwestern.edu/skaiconference/"
