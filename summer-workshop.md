@@ -135,6 +135,25 @@ Peter Melchior, Princeton University
 
 Poster Session and Reception
 
+<details>
+<summary>Details</summary>
+<ul> <li> Differentiable Water Cherenkov Detector Simulation, Omar Alterkait (Tufts University / IAIFI) </li>
+<li> End-to-end Optimization of Generative AI for Robust Background Estimation, Giada Badaracco (ETH Zurich) </li>
+<li> Mantis Shrimp: Exploring Photometric Band Utilization in Computer Vision Networks for Photometric Redshift Estimation, Andrew Engel (The Ohio State University) </li>
+<li> Towards Causal Decision-Making: Learning Causal Representations for Efficient and Adaptive Agents in the Physical World, Fan Feng (University of California San Diego) </li>
+<li> Stress testing a Simulation Based Inference approach to Weak Lensing Galaxy Cluster Mass Inference, Akum Gill (Harvard University) </li>
+<li> Task complexity shapes internal representations and robustness in neural networks, Robert Jankowski (University of Barcelona) </li>
+<li> Generalization and robustness of neural ordinary differential equations for dynamical systems on graphs, Moritz Laber (Northeastern University) </li>
+<li> Solvable Model of Pretrain-Test Task Alignment in In-Context Learning, Mary Letey (Harvard University) </li>
+<li> Fast density functional theory for training machine learning interatomic potentials via large-scale atomistic sampling, Emmanuel Lujan (Massachusetts Institute of Technology) </li>
+<li> Symbolic regression for precision LHC physics, Manuel Morales-Alvarado (INFN, Sezione di Trieste) </li>
+<li> Generalized Parton Distributions from Symbolic Regression, Zaki Panjsheeri (University of Virginia) </li>
+<li> A Breadth First Search Algorithm for Data Clustering based on Space-time Curvature, Ailun Shen (Interlake) </li>
+<li> Analytical Theory of Spectral Effects in Sampling and Learning of Diffusion Model, Binxu Wang (Harvard University, Kempner Institute) </li>
+<li> Investigating the Morphological Footprints of Cosmology in the Cosmic Web, Pragyan Yadav (University of Connecticut) </li></ul>
+</details>
+
+
 
 ### Tuesday, August 12, 2025
 
