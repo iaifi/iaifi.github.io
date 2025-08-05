@@ -29,6 +29,6 @@ Lecture slides and tutorial materials can be found on the [IAIFI Summer School G
 
 ### Tutorial: Elements of Interactive Decision Making (Margalit Glasgow, MIT)
 
-[View Recording](https://www.dropbox.com/scl/fi/hvt4sdmjhl6a7nos8l620/Tutorial_Glasgow_IAIFI_summer_school_2025.mp4?rlkey=zxs7ow9ur7b9pxjxjht2w283n&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Notebook](https://drive.google.com/drive/folders/1eMn5tRMaO9JCbBKHheHIq-9M6g2yWSQN?usp=sharing){:.button.button--outline-primary.button--pill.button--lg}
+[View Recording](https://www.dropbox.com/scl/fi/55qdthbg8i2rvkbgqhb7l/Tutorial_Glasgow_IAIFI_summer_school_2025.mp4.zip?rlkey=pfduf22ylnkz3n98lavxh3o4z&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Notebook](https://drive.google.com/drive/folders/1eMn5tRMaO9JCbBKHheHIq-9M6g2yWSQN?usp=sharing){:.button.button--outline-primary.button--pill.button--lg}
 
 
