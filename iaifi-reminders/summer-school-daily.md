@@ -2,7 +2,7 @@
 layout: article
 header: false
 footer: false
-title: "IAIFI Summer Workshop 2025"
+title: "IAIFI Summer School 2025"
 show_title: false
 --- 
 
