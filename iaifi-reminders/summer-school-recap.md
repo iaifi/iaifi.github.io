@@ -21,7 +21,7 @@ Lecture slides and tutorial materials can be found on the [IAIFI Summer School G
 
 ### Summer School Introduction
 
-[View Recording](https://mit.zoom.us/j/92684186287){:.button.button--outline-primary.button--pill.button--lg}  [View Slides](https://www.dropbox.com/scl/fi/kbjpk4vsunedwulezu2yb/2025_Summer-School_Introduction.pdf?rlkey=34cprm9ns3gqlhuk2saxrn3u8&dl=0){:.button.button--outline-primary.button--pill.button--lg}
+[View Recording](https://www.dropbox.com/scl/fi/kuaom1mrom79k3f8oehae/Summer-School-2025-Intro.mp4?rlkey=9ncj7nnf91cmx7t8gx8mqn3dx&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Slides](https://www.dropbox.com/scl/fi/kbjpk4vsunedwulezu2yb/2025_Summer-School_Introduction.pdf?rlkey=34cprm9ns3gqlhuk2saxrn3u8&dl=0){:.button.button--outline-primary.button--pill.button--lg}
 
 ### Lecture: Elements of Interactive Decision Making (Sasha Rakhlin, MIT)
 
