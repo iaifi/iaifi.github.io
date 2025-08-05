@@ -186,7 +186,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ***Registration is now open for the 2025 IAIFI Summer Workshop.*** [Register by July 31, 2025](https://iaifi.org/summer-workshop). 
 {:.success}
 
-***Lina Necib Presentation at Museum of Science Planetarium.*** Join IAIFI and the Museum of Science for [Beyond the Telescope: Unveiling the Invisible Milky Way with AI](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai) on Wednesday, July 13, 2025 at 7:00 pm. Open to the public; free with pre-registration. 
+***Lina Necib Presentation at Museum of Science Planetarium.*** Join IAIFI and the Museum of Science for [Beyond the Telescope: Unveiling the Invisible Milky Way with AI](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai) on Wednesday, August 13, 2025 at 7:00 pm. Open to the public; free with pre-registration. 
 {:.success}
 
 ***Our [IAIFI Colloquium series](events.html) will continue in Fall 2025.*** Recordings of our previous colloquium talks are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
