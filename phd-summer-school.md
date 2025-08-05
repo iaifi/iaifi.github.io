@@ -208,6 +208,11 @@ A Multi-Scale Framework for Understanding Biological and Artificial Neural Netwo
 **3:30–4:30 pm ET**
 
 Career Panel
+* Aleksandra Ciprijanovic, Wilson Fellow Associate Scientist, Fermilab
+* Gaia Grosso, IAIFI Fellow
+* Trevor McCourt, CTO, Extropic
+* Matthew Rispoli, Quantitative Researcher, PDT Partners
+* Nashwan Sabti, Senior Research Engineer, Soroco
 
 **4:30–5:30 pm ET**
 
