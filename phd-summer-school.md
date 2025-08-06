@@ -300,7 +300,7 @@ The Summer School is funded primarily by support from the National Science Found
 
 We extend a sincere thank you to the following financial supporters of this year's IAIFI Summer School:
 
-[<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:40%" hspace="0" vspace="10">](https://pdtpartners.com) [<img src="images/visa-logo.png" align="center" style="max-width:10355px;width:10%" hspace="10" vspace="10">](https://usa.visa.com/) [<img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:15%" hspace="10" vspace="10">](https://deepmind.google) [<img src="images/extropic-logo.png" align="center" style="max-width:3679px;width:20%" hspace="10" vspace="10">](https://extropic.ai) 
+[<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:45%" hspace="0" vspace="10">](https://pdtpartners.com) [<img src="images/visa-logo.png" align="center" style="max-width:10355px;width:15%" hspace="10" vspace="10">](https://usa.visa.com/) [<img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:20%" hspace="10" vspace="10">](https://deepmind.google) [<img src="images/extropic-logo.png" align="center" style="max-width:3679px;width:25%" hspace="10" vspace="10">](https://extropic.ai)  [<img src="images/FirstPrinciples_Primary Logo_Black.png" align="center" style="max-width:3505px;width:20%" hspace="10" vspace="10">](https://firstprinciples.org) 
 
 If you are interested in supporting the 2025 IAIFI Summer School, email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu)
 
