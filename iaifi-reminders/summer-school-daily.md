@@ -20,7 +20,10 @@ The lecture and tutorial will be held in room LL2.224 and on the same Zoom link 
 
 This evening, we are hosting the Summer School Social, sponsored by [PDT Partners](https://pdtpartners.com/). The event will start with a presentation by [Boris Hanin](https://boris-hanin.github.io/) (Princeton) from 5:30-6:30pm, followed by a catered reception from 6:30-8:00pm.
 
-**The Social will be held at the Harvard University Physics building (17 Oxford St, Cambridge)**. Boris Hanin’s presentation will be in room J250, and the social afterwards will be at the Library on the fourth floor.
+**The Social will be held at the Harvard University Physics building (17 Oxford St, Cambridge)**. Boris Hanin’s presentation will be in room J250, and the social afterwards will be at the Library on the fourth floor. There are a few options to get from the SEC to 17 Oxford St: 
+  * Walk about 30 minutes
+  * Take the Harvard Shuttle at 5:00 pm
+  * Take the 86 or 66 bus (will take about 25 minutes total)
 
 [Join Zoom](https://mit.zoom.us/j/92684186287){:.button.button--outline-primary.button--pill.button--lg}  [Join Slack](https://join.slack.com/t/2025iaifisummerschool/shared_invite/zt-39btj3fo7-5KXCkqK~eBNLzmcAYaGkNA){:.button.button--outline-primary.button--pill.button--lg}  [View Complete Agenda](https://iaifi.org/phd-summer-school.html#agenda){:.button.button--outline-primary.button--pill.button--lg}
 
