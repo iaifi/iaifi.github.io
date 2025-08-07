@@ -13,22 +13,25 @@ show_title: false
   <img src="https://iaifi.org/images/phd-summer-school-logo-2025.png" style="max-width:5990px;width:85%; margin-bottom: 20px;">
 </p>
 
-## IAIFI Summer School Day 2 Recap
-Thank you for a great second day of the 2025 IAIFI Summer School! Tomorrow we will begin at 9:00 am ET. 
+## IAIFI Summer School Day 4 Recap
+Thank you for a fun fourth day of the 2025 IAIFI Summer School! Tomorrow we will begin at 9:00 am ET. 
 
-### Important Reminders
-Lecture slides and tutorial materials can be found on the [IAIFI Summer School GitHub](https://github.com/iaifi/summer-school-2025). If you have not yet done so, please [register for an account on ACCESS](https://operations.access-ci.org/identity/new-user) and email mlafleur@mit.edu with your username in order to access GPUs provided for the Summer School.  
+### Updates
+
+* [Register your hackathon team](https://forms.gle/2y3kfYFqGTF4eBwW8) by noon tomorrow (Friday, August 8)!
+
+* Thank you for the group photos! You can [download them here](https://www.dropbox.com/scl/fo/vuneb90oulsj08ycfj551/ANFrQQYSHILRvWmUoWSClFI?rlkey=k0rakjliiakt6de6uk10yroc8&dl=0). 
+
 
 ### Lightning Talks
 
-[View Recording](https://www.dropbox.com/scl/fi/zx8lbui60ubzzd3lnqvoo/2025-08-05_Day2_LightningTalks.mp4?rlkey=aeey75qfvm8hal7x4k91qknga&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Slides](https://www.dropbox.com/scl/fo/7hp5avjut6ri7mfh1ohcf/AJvzqYpLXo0FkF1BUxJ8BpM?rlkey=fcx643p09nj8grt1w5ddv1gg3&dl=0){:.button.button--outline-primary.button--pill.button--lg}
+[View Recording](https://www.dropbox.com/scl/fi/zwcbrecxcidcz0sybmsm2/2025-08-07_Day4_LightningTalks.mp4?rlkey=wvtuermwl4rglir45d1qjfouo&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Slides](https://www.dropbox.com/scl/fo/v41kbcftliw7m8wbiwfud/AMnvEmo67eS4gLflMRbXZ7g?rlkey=nugjoram7q4qo2ouinq1kkeub&dl=0){:.button.button--outline-primary.button--pill.button--lg}
 
-### Lecture: Physics-Guided Optimizations: Inform and Inspire AI Models with Physics Principles (Gaia Grosso, IAIFI Fellow)
+### Lecture: Domain Shift Problem: Building Robust AI Models with Domain Adaptation (Aleksandra Ciprajanovic, Fermilab)
 
-[View Recording Part 1](https://www.dropbox.com/scl/fi/hr5b9140b30sa7xt9dhu0/Lecture_Grosso-1_IAIFI_summer_school_2025.mp4?rlkey=kfbq9xl9smmb9kp8h3gm0o0du&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Recording Part 2](https://www.dropbox.com/scl/fi/lf06kpur3n9ppxuc4qll1/Lecture_Grosso-2_IAIFI_summer_school_2025.mp4?rlkey=54ltm15tu4u2avsj9lst02kl0&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Slides](https://www.dropbox.com/scl/fi/29mzncwjmr56ylpeu1tb5/Lecture2_Grosso.pdf?rlkey=k6ktswfxc19ylihw96ew6xl5e&dl=0){:.button.button--outline-primary.button--pill.button--lg}
+[View Recording Part 1](https://www.dropbox.com/scl/fi/5ayydxx4mobh2id88iusv/Lecture_Ciprijanovic-1_IAIFI_summer_school_2025.mp4?rlkey=89brl8f4remqdg0eyttcgyf2g&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Recording Part 2](https://www.dropbox.com/scl/fi/ngb4dk3mtsisiu3k124ka/Lecture_Ciprijanovic-2_IAIFI_summer_school_2025.mp4?rlkey=i1d86brzw7pfv4lx61t1oju4r&dl=0){:.button.button--outline-primary.button--pill.button--lg} [View Slides](https://www.dropbox.com/scl/fi/bud0gviyxo0kyax6oagc7/Lecture4_Ciprijanovic.pdf?rlkey=2con4rtrqxx0ezrhp0ot4kbb0&dl=0){:.button.button--outline-primary.button--pill.button--lg}
 
-### Tutorial: Physics-guided Optimizations: Inform and Inspire AI Models with Physics Principles (Sean Benevedes, MIT and Jigyasa Nigam, MIT)
+### Tutorial: Domain Shift Problem: Building Robust AI Models with Domain Adaptation (Sneh Pandya, Northeastern)
 
-[View Recording](https://www.dropbox.com/scl/fi/e1v1xb5p3dnmgtcjv9kjk/IAIFI-Summer-School-2025-Day-2-Tutorial.mp4?rlkey=34f9pta22i1lc1smozygccocp&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Notebook](https://github.com/curiosity54/iaifi-summer-school-25/tree/main){:.button.button--outline-primary.button--pill.button--lg}
-
+[View Recording](https://www.dropbox.com/scl/fi/rurgii9ni0e0p50u6y1xs/IAIFI-Summer-School-2025-Day-4-Tutorial.mp4?rlkey=m8cvx1iy5btu3ne0bd12tdq73&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Notebook](https://github.com/snehjp2/iaifi_2025_DA_tutorial){:.button.button--outline-primary.button--pill.button--lg}
 
