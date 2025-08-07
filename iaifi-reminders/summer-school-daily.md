@@ -23,7 +23,8 @@ The breakout sessions at 3:30pm will be held in room 2.122 (with SueYeon Chung a
 [Join Zoom](https://mit.zoom.us/j/92684186287){:.button.button--outline-primary.button--pill.button--lg}  [Join Slack](https://join.slack.com/t/2025iaifisummerschool/shared_invite/zt-39btj3fo7-5KXCkqK~eBNLzmcAYaGkNA){:.button.button--outline-primary.button--pill.button--lg}  [View Complete Agenda](https://iaifi.org/phd-summer-school.html#agenda){:.button.button--outline-primary.button--pill.button--lg}
 
 ### Important Reminders
-Tutorial materials can be found on the [IAIFI Summer School GitHub](https://github.com/iaifi/summer-school-2025). If you have not yet done so, please [register for an account on ACCESS](https://operations.access-ci.org/identity/new-user) and email mlafleur@mit.edu with your username in order to access GPUs provided for the Summer School.
+* Tutorial materials can be found on the [IAIFI Summer School GitHub](https://github.com/iaifi/summer-school-2025).
+* If you are staying in the dorms and you misplace your keys or lock yourself out of your room, please do your best to call the residence life number during business hours, as it will be much more straightforward to resolve the issue.
 
 ### Today's Schedule
 

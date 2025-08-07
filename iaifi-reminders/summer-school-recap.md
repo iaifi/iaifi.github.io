@@ -14,10 +14,7 @@ show_title: false
 </p>
 
 ## IAIFI Summer School Day 3 Recap
-Thank you for a great third day of the 2025 IAIFI Summer School! Tomorrow we will begin at 9:00 am ET. 
-
-### Important Reminders
-Lecture slides and tutorial materials can be found on the [IAIFI Summer School GitHub](https://github.com/iaifi/summer-school-2025). If you have not yet done so, please [register for an account on ACCESS](https://operations.access-ci.org/identity/new-user) and email mlafleur@mit.edu with your username in order to access GPUs provided for the Summer School.  
+Thank you for an engaging third day of the 2025 IAIFI Summer School! Tomorrow we will begin at 9:00 am ET.  
 
 ### Lightning Talks
 
@@ -25,10 +22,22 @@ Lecture slides and tutorial materials can be found on the [IAIFI Summer School G
 
 ### Lecture: Computing with Neural Manifolds: A Multi-Scale Framework for Understanding Biological and Artificial Neural Networks (SueYeon Chung, Harvard)
 
-[View Recording Part 1](){:.button.button--outline-primary.button--pill.button--lg}  [View Recording Part 2](){:.button.button--outline-primary.button--pill.button--lg}  [View Slides](){:.button.button--outline-primary.button--pill.button--lg}
+[View Recording Part 1](https://www.dropbox.com/scl/fi/hw8sjs90y604ll0o9o22e/Lecture_Chung-1_IAIFI_summer_school_2025.mp4?rlkey=3nr401wo8a6fcxq6sahryj9kh&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Recording Part 2](https://www.dropbox.com/scl/fi/k32yc62gpm8psmz7og7wu/Lecture_Chung-2_IAIFI_summer_school_2025.mp4?rlkey=a3ahf8naigj9ndkeveikvhfzp&dl=0){:.button.button--outline-primary.button--pill.button--lg} 
+
+**Slides will be posted on the github once they are available**
 
 ### Tutorial: Computing with Neural Manifolds: A Multi-Scale Framework for Understanding Biological and Artificial Neural Networks (Sam Bright-Thonney, IAIFI Fellow)
 
-[View Recording](){:.button.button--outline-primary.button--pill.button--lg}  [View Notebook](){:.button.button--outline-primary.button--pill.button--lg}
+[View Recording](https://www.dropbox.com/scl/fi/yon8bgq7g7kou23nk8w61/IAIFI-Summer-School-2025-Day-3-Tutorial.mp4?rlkey=6ya13t6z9un0252b0zexr5ihn&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Notebook](https://github.com/SamBT/manifold-capacity-tutorial-iaifi25){:.button.button--outline-primary.button--pill.button--lg}
+
+### Career Panel
+
+* Aleksandra Ciprijanovic, Wilson Fellow Associate Scientist, Fermilab
+* Gaia Grosso, IAIFI Fellow
+* Trevor McCourt, CTO, Extropic
+* Matthew Rispoli, Quantitative Researcher, PDT Partners
+* Nashwan Sabti, Senior Research Engineer, Soroco
+
+[View Recording](https://www.dropbox.com/scl/fi/z1fz7oskk6jhopy7f5c6i/Career-Panel.mp4?rlkey=yp37wbh8ex1stqd7o1d8fkjsl&dl=0){:.button.button--outline-primary.button--pill.button--lg}
 
 
