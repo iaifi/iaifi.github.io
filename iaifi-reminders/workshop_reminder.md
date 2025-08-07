@@ -2,13 +2,13 @@
 layout: article
 header: false
 footer: false
-title: "IAIFI Summer Workshop 2025"
+title: "Museum of Science Presentation August 2025"
 show_title: false
 --- 
 
 
 {% include_relative iaifi-reminder_header.html %}
-
+<!-- #This is for Thomas' Aug 7 email
 <p style="text-align:center;">
   <img src="https://iaifi.org/images/summer-workshop-logo_2025.png" style="max-width:5990px;width:85%; margin-bottom: 20px;">
 </p>
@@ -22,6 +22,9 @@ We hope you can join us for the 2025 IAIFI Summer Workshop! Please register by J
 
 <!-- ## Summer Workshop 2025 Details -->
 
+<!-- #This is for Thomas' Aug 7 email
+
+
 * **What:** The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI.
 * **Who:** Researchers of all career stages interested in interdisciplinary AI+Physics research. 
 * **When:** August 11–15, 2025
@@ -29,6 +32,8 @@ We hope you can join us for the 2025 IAIFI Summer Workshop! Please register by J
 * **How:** [Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb) 
 
 [More Information](https://iaifi.org/summer-workshop.html){:.button.button--outline-primary.button--pill.button--lg} 
+
+-->
 
 ## Open to the Public: Museum of Science Presentation
 
