@@ -20,6 +20,8 @@ The lightning talks, hackathon presentations, and close-out presentation will be
 
 The rest of the day will be dedicated to hackathon work, per the schedule below.  
 
+Make sure to [register your hackathon team](https://forms.gle/2y3kfYFqGTF4eBwW8) **by noon today!**
+
 [Join Zoom](https://mit.zoom.us/j/92684186287){:.button.button--outline-primary.button--pill.button--lg}  [Join Slack](https://join.slack.com/t/2025iaifisummerschool/shared_invite/zt-39btj3fo7-5KXCkqK~eBNLzmcAYaGkNA){:.button.button--outline-primary.button--pill.button--lg}  [View Complete Agenda](https://iaifi.org/phd-summer-school.html#agenda){:.button.button--outline-primary.button--pill.button--lg}
 
 ### Important Reminders
