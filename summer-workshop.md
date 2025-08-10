@@ -61,7 +61,9 @@ Dylan Foster, Microsoft Research
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Language model post-training techniques based on reinforcement learning have led to breakthroughs in reasoning, but may fail to learn behaviors that are not already present in the pre-trained base model. Can we equip models with the ability to explore novel behaviors on their own, so that they can truly self-improve and solve open-ended problems? 
+
+This talk will offer a theoretical perspective on this question. We will introduce a new framework for reinforcement learning with pre-trained language models, and show that (1) for a large class of existing algorithms, efficient exploration with language models is impossible (perhaps surprisingly, this is for computational reasons rather than statistical reasons); but (2) this can be sidestepped through new algorithmic interventions that combine multi-turn reinforcement learning with deliberate use of test-time compute, allowing efficient discovery of new behaviors beyond the base model.</em>
 </details>
 
 **10:45-11:15 am ET**
@@ -139,8 +141,8 @@ Poster Session and Reception
 <summary>Details</summary>
 <ul> <li> Differentiable Water Cherenkov Detector Simulation, Omar Alterkait (Tufts University / IAIFI) </li>
 <li> End-to-end Optimization of Generative AI for Robust Background Estimation, Giada Badaracco (ETH Zurich) </li>
+<li> Masked Autoencoder for Pretraining in Cosmic Ray Background Classification task, Vinicius Da Silva (Tufts University) </li>
 <li> Mantis Shrimp: Exploring Photometric Band Utilization in Computer Vision Networks for Photometric Redshift Estimation, Andrew Engel (The Ohio State University) </li>
-<li> Towards Causal Decision-Making: Learning Causal Representations for Efficient and Adaptive Agents in the Physical World, Fan Feng (University of California San Diego) </li>
 <li> Stress testing a Simulation Based Inference approach to Weak Lensing Galaxy Cluster Mass Inference, Akum Gill (Harvard University) </li>
 <li> Task complexity shapes internal representations and robustness in neural networks, Robert Jankowski (University of Barcelona) </li>
 <li> Generalization and robustness of neural ordinary differential equations for dynamical systems on graphs, Moritz Laber (Northeastern University) </li>
@@ -151,8 +153,10 @@ Poster Session and Reception
 <li> A Breadth First Search Algorithm for Data Clustering based on Space-time Curvature, Ailun Shen (Interlake) </li>
 <li> Analytical Theory of Spectral Effects in Sampling and Learning of Diffusion Model, Binxu Wang (Harvard University, Kempner Institute) </li>
 <li> Investigating the Morphological Footprints of Cosmology in the Cosmic Web, Pragyan Yadav (University of Connecticut) </li></ul>
+<li> LLM-based AI Agent and Multi-agent System with Reinforcement Learning, Jieliang Yin (Hong Kong University of Science and Technology) </li>
+<li> Learning Dynamic Manifolds with Grassmann Geometry, Jacob Hume (University of Cambridge) </li>
+<li> Real-Time Compression of CMS Detector Data Using Conditional Autoencoders, Zachary Baldwin (Carnegie Mellon University) </li>
 </details>
-
 
 
 ### Tuesday, August 12, 2025
@@ -372,7 +376,7 @@ Lunch
 
 **2:00–3:30 pm ET**
 
-**Contributed Talks Session A: Representation/Manifold Learning**
+**Contributed Talks Session A: Representation/Manifold Learning and Generative AI**
 
 *Room B101*
 
@@ -398,11 +402,6 @@ applicability and democratisation of SSL. One such challenge is the presence of 
 </details>
 
 <details>
-<summary>Novel AI-based approaches to PDF determination, Timothy Hobbs (Argonne National Laboratory)</summary>
-<em>Recent AI and machine learning methods are opening new avenues in the study of parton distribution functions (PDFs), a cornerstone of high-energy physics, as well as related quantum correlation functions. After surveying conventional QCD-based methods for PDF determination and emphasizing the implications of parameterization choices and uncertainty-determination methods, I will present novel generative strategies that treat PDF extraction as an inverse problem. Specifically, I will highlight a variety of encoder-decoder architectures, which can more flexibly navigate high-dimensional parameter spaces and provide enhanced uncertainty quantification. By integrating physics insights with AI, these techniques facilitate cross-checks among diverse experimental datasets and offer a promising blueprint for future proton structure studies and precision collider phenomenology; I will highlight opportunities to integrate AI methods into PDF determination analyses and speculate on future directions for HEP phenomenology.</em>
-</details>
-
-<details>
 <summary>A data-driven search for ancient asteroid families, Saverio Cambioni (Massachusetts Institute of Technology)</summary>
 <em>A central goal of astrophysics is to understand how small bodies that coagulate from protoplanetary disks (planetesimals) assemble to form planets. In the solar system, some planetesimals escaped planet formation and populated the main-asteroid belt between the orbits of Mars and Jupiter, where we can observe them today. However, most of the planetesimals collided pairwise over time and formed families of asteroids. How can we distinguish the former from the latter? In this talk, I will present how collisional families can be identified by looking for clusters in the orbital properties of asteroids with unsupervised machine learning techniques. I will also show that dynamical effects lead to diffusion and destruction of clusters as families age. This process has prevented the identification of ancient families that formed at the dawn of the solar system. We seek collaborations with artificial-intelligence experts to determine alternative approaches for identifying ancient families. Once all families are found, the remainder are the primordial planetesimals whose size and composition will reveal the initial conditions of planet formation.</em>
 </details>
@@ -411,6 +410,12 @@ applicability and democratisation of SSL. One such challenge is the presence of 
 <summary>Data-driven classification of metal-poor stars using machine learning based on nucleosynthesis calculations, Yilin Wang (TRIUMF / University of British Columbia)</summary>
 <em>We present a first-time application of machine learning to classify metal-poor stars by the astrophysical processes that are responsible for enriching their stellar environments. The existing method categorizes stellar sites as having been enriched by the the rapid (r-), intermediate (i-), or slow (s-) neutron capture processes based on simple threshold values of abundance ratios from a very small and potentially restrictive set of elements. In this work, we develop data-driven classifiers trained on nucleosynthesis calculations from simulations of r- and s-process sites. We present the ML classification results, compare them to their conventional categorization using the existing method, and discuss the additional insights, and some challenges, revealed by this novel approach.</em>
 </details>
+
+<details>
+<summary>Enforcing Hard Constraints in Generative Models for Mixed-Type tabular Data, Jose Munoz (Visa)</summary>
+<em>While diffusion models are highly effective at generating high-fidelity synthetic data, their unconstrained nature often leads to outputs that violate fundamental principles or rules, making them unsuitable for scientific applications. We present a general, training-free framework that enforces hard constraints directly within the generative process of any pre-trained diffusion model. Our method works by applying a feasibility operator at each step of the reverse-diffusion chain, ensuring that generated samples remain on a valid manifold defined by known constraints. A novel aspect of our framework is its unified handling of constraints across mixed-type tabular data, simultaneously managing continuous and discrete variables within a single process. This approach guarantees 100% constraint compliance without requiring model retraining or inefficient post-hoc filtering. The primary benefit of generating strictly valid synthetic data is the significant improvement of downstream modeling tasks. By enabling the augmentation of scarce datasets with rule-compliant samples, our framework enhances the robustness, accuracy, and generalizability of predictive models. This method unlocks reliable data augmentation and scenario analysis in complex, rule-governed environments, establishing a foundation for more trustworthy AI systems.</em>
+</details>
+
 
 **Contributed Talks Session B: Uncertainty Quantification/Robust AI**
 
@@ -464,6 +469,7 @@ Break
 * Alex Gagliano, IAIFI Fellow
 * Mark Hamilton, Senior Engineering Manager, Microsoft
 * Tamar Rott Shaham, Postdoc, MIT / Incoming Assistant Professor, Weizmann Institute of Science
+* Moderator: Fabian Ruehle, Assistant Professor, Northeastern
 
 **6:00–8:00 pm ET**
 
@@ -518,7 +524,11 @@ Cristiano Fanelli, William & Mary
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Imaging Cherenkov detectors are essential for charged particle identification (PID) in nuclear and particle physics experiments. This talk focuses on DIRC detectors, a particularly challenging class of imaging Cherenkov detectors that combine spatial and temporal information at the readout level. Their hit patterns are both sparse and topologically complex, making reconstruction especially demanding.  
+Simulations present a major bottleneck. Traditional frameworks such as Geant4 are computationally expensive for Cherenkov detectors, where simulating optical photon transport through intricate geometries is essential for accurate reconstruction, calibration, and alignment. Thus, fast and high-fidelity simulations are critical. Flow-based generative models address this challenge by enabling high-fidelity fast simulation, reproducing Geant4-based photon hit distributions at only a fraction of the generation time.
+ A second challenge lies in achieving PID that is not only fast but also highly accurate and valid across the full detector phase space and the kinematics of charged particles. Here, transformer-based architectures deliver enhanced PID with, effectively, orders-of-magnitude faster inference across the full phase space.  
+Finally, we introduce a unified foundation model that integrates simulation, reconstruction, and other downstream tasks within a single framework.
+An important byproduct of these approaches is the potential to open a new paradigm: learning detector responses directly from real data.  These developments mark a pathway toward next-generation, data-driven algorithms that support both reconstruction and simulation of Cherenkov detectors.</em>
 </details>
 
 **12:30–2:00 pm ET**
@@ -616,30 +626,35 @@ Representation/Manifold Learning
 <em>Recent developments have suggested an emerging connection between neural networks and quantum field theories. In this talk, I will describe aspects of this relationship in the simplified setting of 1d QFTs, or models of quantum mechanics, where one has greater theoretical control. For instance, under mild assumptions, one can prove that any model of a quantum particle admits a representation as a neural network. Cherished features of quantum mechanics, such as uncertainty relations, emerge from specific architectural choices that are made to satisfy the axioms of quantum theory. Based on 2504.05462 with Jim Halverson.</em>
 </details>
 
+<details>
+<summary>Title TBD, Trevor McCourt (Extropic)</summary>
+<em>Abstract to come.</em>
+</details>
+
 **3:30–4:00 pm ET**
 
 Break
 
 **4:00–4:45 pm ET**
 
-*AI and New Mathematical Technologies*
+*Theorem proving, AI and physics*
 
 Michael Douglas, Harvard University
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Interactive theorem proving (ITP) is a technology with which mathematical proofs can be expresssed in a formal language and automatically verified.  While effective, up to now formalization has been too laborious for regular use.  But thanks to advances in AI, especially language model coding assistants.and autoformalization, ITP could become easy to use within 1-3 years, facilitating large AI-human collaborations.  We will give an introduction and survey.of these developments.</em>
 </details>
 
 **4:45–5:30 pm ET**
 
-*Title to come.*
+*AI to tackle quantum gravity*
 
 Sven Krippendorf, University of Cambridge
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>In this talk I report how modern numerical methods allow us to gain unprecedented insights into theories of quantum gravity. Focusing on the case of string theory, I report on which inverse problems are faced and how we can solve them using generative AI methods. I give an overview of how dedicated numerical pipelines had to be developed to enable numerical work on the model space of quantum gravity. These examples are then put into perspective to recent developments on automated scientific discoveries using agentic systems of LLMs and numerical tools.</em>
 </details>
 
 
