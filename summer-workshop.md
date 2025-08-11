@@ -129,6 +129,7 @@ Poster Session and Reception
 <summary>Details</summary>
 <ul> <li> Differentiable Water Cherenkov Detector Simulation, Omar Alterkait (Tufts University / IAIFI) </li>
 <li> End-to-end Optimization of Generative AI for Robust Background Estimation, Giada Badaracco (ETH Zurich) </li>
+<li> Real-Time Compression of CMS Detector Data Using Conditional Autoencoders, Zachary Baldwin (Carnegie Mellon University) </li>
 <li> Masked Autoencoder for Pretraining in Cosmic Ray Background Classification task, Vinicius Da Silva (Tufts University) </li>
 <li> Mantis Shrimp: Exploring Photometric Band Utilization in Computer Vision Networks for Photometric Redshift Estimation, Andrew Engel (The Ohio State University) </li>
 <li> Stress testing a Simulation Based Inference approach to Weak Lensing Galaxy Cluster Mass Inference, Akum Gill (Harvard University) </li>
@@ -142,8 +143,6 @@ Poster Session and Reception
 <li> Analytical Theory of Spectral Effects in Sampling and Learning of Diffusion Model, Binxu Wang (Harvard University, Kempner Institute) </li>
 <li> Investigating the Morphological Footprints of Cosmology in the Cosmic Web, Pragyan Yadav (University of Connecticut) </li></ul>
 <li> LLM-based AI Agent and Multi-agent System with Reinforcement Learning, Jieliang Yin (Hong Kong University of Science and Technology) </li>
-<li> Learning Dynamic Manifolds with Grassmann Geometry, Jacob Hume (University of Cambridge) </li>
-<li> Real-Time Compression of CMS Detector Data Using Conditional Autoencoders, Zachary Baldwin (Carnegie Mellon University) </li>
 </details>
 
 
