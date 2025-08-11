@@ -287,7 +287,7 @@ Break
 
 **4:00–4:45 pm ET**
 
-*Title to come*
+*Kindness or Sycophancy? Understanding and Shaping Model Personality via Synthetic Games*
 
 Hidenori Tanaka, Harvard University/NTT Research, Inc.
 
