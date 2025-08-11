@@ -9,19 +9,7 @@ title:
 The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. We are also accepting submissions for contributed talks and/or posters.
 
 * **The 2025 Summer Workshop will be held August 11–15, 2025**
-* **Location: Harvard University Northwest Building (52 Oxford St, Cambridge, MA 02138)**
-* **[Registration is now open](https://buy.stripe.com/fZe9Ci53xfX90eceVb) for the 2025 IAIFI Summer Workshop; Register by July 31, 2025 ($200 registration fee).** 
-
-[Register for the 2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg} <!--[Submit a Talk/Poster by June 1, 2025](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d){:.button.button--outline-primary.button--pill.button--lg}-->
-
-Here's what attendees at previous IAIFI Summer Workshops had to say about the experience: 
-
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
-<div class="responsive-wrap">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRfdc-3o01g?si=oHLv6eRpGUnpe__2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+* **Location: Harvard University Northwest Building (52 Oxford St, Cambridge, MA 02138), Room B103**
 
 [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}   [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Past Workshops](/past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -32,8 +20,6 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 -->
 
 ## Agenda
-
-*The agenda is subject to change.* 
 
 <img src="images/2025-summer-workshop.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
 
@@ -136,6 +122,8 @@ Peter Melchior, Princeton University
 **5:30–8:00 pm ET**
 
 Poster Session and Reception
+
+[View Poster Abstracts](https://docs.google.com/document/d/1sXSDDyGPuohhsxZGkj7nkvzMc_gCgwfzlUFxCnitSEY/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--lg}
 
 <details>
 <summary>Details</summary>
@@ -311,13 +299,16 @@ Hidenori Tanaka, Harvard University/NTT Research, Inc.
 
 **4:45-5:30 pm ET**
 
-*Computing with Neural Manifolds in Biological and Artificial Neural Networks*
+*Geometry of Neural Representations: Principles for Brains and Machines*
 
 SueYeon Chung, Harvard University (starting Fall 2025), Flatiron Institute
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come</em>
+<em>Both brains and artificial neural networks operate in regimes of staggering complexity, yet their internal activity often lies on surprisingly low-dimensional, structured manifolds. The geometry of these manifolds constrains what computations are possible and how efficiently they can be implemented.
+In this talk, I will present a theoretical framework that draws on statistical physics, geometry, and machine learning to link representational geometry to task performance across biological and artificial systems. I will highlight how geometric principles can be used to interpret neural data, diagnose learning in AI models, and design architectures that generalize efficiently.
+By viewing neural computation through a geometric lens, we can identify shared organizing principles across scales and systems, and use these principles to guide the next generation of neuroscience-inspired AI.
+</em>
 </details>
 
 ### Wednesday, August 13, 2025
@@ -481,13 +472,13 @@ Museum of Science
 
 **9:00–9:45 am ET**
 
-*Machine Learning inroads into the Bootstrap programme*
+*Machine Learning inroads into the bootstrap programme*
 
 Costis Papageorgakis, Queen Mary University of London
 
 <details>
 <summary>Abstract</summary>
-<em>I will survey recent advances in applying machine learning to the bootstrap programme in theoretical physics. I will discuss the use of reinforcement learning in high-dimensional searches for Conformal Field Theory (CFT) data, neural operators for finding scattering-matrix phases and neural network applications for bootsrapping CFTs at finite temperature. I will also touch upon investigations using large language models for analysing high-energy theory abstracts.</em>
+<em>I will discuss the bootstrap philosophy and its numerical incarnations in Conformal Field Theory, in terms of the primal and dual formulations. After discussing the merits of the dual approach, I will outline how Machine Learning techniques (RL, PINNs) allow for directly attacking the primal problem with several concrete examples. </em>
 </details>
 
 **9:45–10:30 am ET**
