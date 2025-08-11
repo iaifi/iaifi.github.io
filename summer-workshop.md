@@ -121,7 +121,7 @@ Peter Melchior, Princeton University
 
 **5:30–8:00 pm ET**
 
-Poster Session and Reception
+Poster Session and Reception (Atrium, B101)
 
 [View Poster Abstracts](https://docs.google.com/document/d/1sXSDDyGPuohhsxZGkj7nkvzMc_gCgwfzlUFxCnitSEY/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -457,7 +457,7 @@ Break
 *Panel: Navigating Scientific Research with LLM Assistants*
 
 * Alex Gagliano, IAIFI Fellow
-* Mark Hamilton, Senior Engineering Manager, Microsoft
+* Mark Hamilton, Engineering Manager, Microsoft and Visiting Researcher, MIT
 * Tamar Rott Shaham, Postdoc, MIT / Incoming Assistant Professor, Weizmann Institute of Science
 * Moderator: Fabian Ruehle, Assistant Professor, Northeastern
 
