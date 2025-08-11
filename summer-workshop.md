@@ -287,7 +287,7 @@ Break
 
 **4:00–4:45 pm ET**
 
-*Title to come*
+*Kindness or Sycophancy? Understanding and Shaping Model Personality via Synthetic Games*
 
 Hidenori Tanaka, Harvard University/NTT Research, Inc.
 
@@ -616,9 +616,10 @@ Representation/Manifold Learning
 <em>Recent developments have suggested an emerging connection between neural networks and quantum field theories. In this talk, I will describe aspects of this relationship in the simplified setting of 1d QFTs, or models of quantum mechanics, where one has greater theoretical control. For instance, under mild assumptions, one can prove that any model of a quantum particle admits a representation as a neural network. Cherished features of quantum mechanics, such as uncertainty relations, emerge from specific architectural choices that are made to satisfy the axioms of quantum theory. Based on 2504.05462 with Jim Halverson.</em>
 </details>
 
+Other
 <details>
-<summary>Title TBD, Trevor McCourt (Extropic)</summary>
-<em>Abstract to come.</em>
+<summary>The AI energy catastrophe, Trevor McCourt (Extropic)</summary>
+<em>Have you ever done the napkin math on how much energy it would take to serve everyone in the country a useful AI assistant? At Extropic, we have, and the answer is "way too much". In my talk, I will introduce this energy crisis, explain why solving it is a challenging problem, and briefly discuss how Extropic intends to alleviate it.</em>
 </details>
 
 **3:30–4:00 pm ET**

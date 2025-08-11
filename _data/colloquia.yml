@@ -1,4 +1,118 @@
 - type: "colloquium"
+  semester: "fall-2025"
+  speaker-name: "Francisco Villaescusa-Navarro"
+  speaker-title: "Research Scientist"
+  speaker-affiliation: "Simons Foundation"
+  speaker-website: "https://franciscovillaescusa.github.io/"
+  speaker-photo-location: "images/small-photo-francisco-villaescusa-navarro.jpg"
+  start-date-time: "2025-09-12 14:00"
+  end-date-time: "2025-09-12 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come.<br><br><br><br><br>"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTA5MTJUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "astrophysics"
+  speaker-gender: "man"
+  talk-attendance: 0 in person, 0 virtual
+
+- type: "colloquium"
+  semester: "fall-2025"
+  speaker-name: "Berthy Feng"
+  speaker-title: "Postdoctoral Fellow"
+  speaker-affiliation: "IAIFI Fellow"
+  speaker-website: "https://www.berthyfeng.com/"
+  speaker-photo-location: "images/small-photo-berthy-feng.jpg"
+  start-date-time: "2025-09-26 14:00"
+  end-date-time: "2025-09-26 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come.<br><br><br>"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTA5MjZUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "foundational ai"
+  speaker-gender: "woman"
+  talk-attendance: 0 in person, 0 virtual
+
+- type: "colloquium"
+  semester: "fall-2025"
+  speaker-name: "Speaker to be announced"
+  speaker-title: "Title to come"
+  speaker-affiliation: "Affiliation to come"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-10-10 14:00"
+  end-date-time: "2025-10-10 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTEwMTBUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance: 0 in person, 0 virtual
+
+- type: "colloquium"
+  semester: "fall-2025"
+  speaker-name: "Speaker to be announced"
+  speaker-title: "Title to come"
+  speaker-affiliation: "Affiliation to come"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-10-24 14:00"
+  end-date-time: "2025-10-24 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTEwMjRUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "colloquium"
+  semester: "fall-2025"
+  speaker-name: "Mathis Gerdes"
+  speaker-title: "Postdoctoral Fellow"
+  speaker-affiliation: "IAIFI Fellow"
+  speaker-website:
+  speaker-photo-location: "images/small-photo-mathis-gerdes.jpg"
+  start-date-time: "2025-11-07 14:00"
+  end-date-time: "2025-11-07 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come.<br><br><br>"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTExMDdUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "Physics Theory"
+  speaker-gender: "Man"
+  talk-attendance: 0 in person, 0 virtual
+
+- type: "colloquium"
+  semester: "fall-2025"
+  speaker-name: "Speaker to be announced"
+  speaker-title: "Title to come"
+  speaker-affiliation: "Affiliation to come"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-11-21 14:00"
+  end-date-time: "2025-11-21 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTExMjFUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance:
+
+- type: "colloquium"
   semester: "spring-2025"
   speaker-name: "Sam Bright-Thonney"
   speaker-title: "Postdoctoral Fellow"
