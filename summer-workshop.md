@@ -142,7 +142,6 @@ Poster Session and Reception (Atrium, B101)
 <li> A Breadth First Search Algorithm for Data Clustering based on Space-time Curvature, Ailun Shen (Interlake) </li>
 <li> Analytical Theory of Spectral Effects in Sampling and Learning of Diffusion Model, Binxu Wang (Harvard University, Kempner Institute) </li>
 <li> Investigating the Morphological Footprints of Cosmology in the Cosmic Web, Pragyan Yadav (University of Connecticut) </li></ul>
-<li> LLM-based AI Agent and Multi-agent System with Reinforcement Learning, Jieliang Yin (Hong Kong University of Science and Technology) </li>
 </details>
 
 
