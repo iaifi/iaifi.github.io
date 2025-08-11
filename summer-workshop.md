@@ -341,13 +341,13 @@ Break
 
 **11:00–11:45 am ET**
 
-*Title to come*
+*Build Big or Build Smart - What’s the role of Domain Knowledge?*
 
 Lukas Heinrich, Technical University Munich
 
 <details>
 <summary>Abstract</summary>
-<em>Abstract to come.</em>
+<em>Physics and Deep Learning have traditionally taken different routes to state of the art data processing. One is based on deep pipelines of manually designed algorithms that exploit the rich domain knowledge we have while the other relies on large-scale data and powerful learning algorithms. Both directions have recently seen new ideas come to the fore through Differentiable Programming and the rise of Foundation Modes. I will share recent work in both of these areas and discuss whether the famous “Bitter Lesson” will also catch up to fundamental physics.</em>
 </details>
 
 **11:45 am–12:30 pm ET**
