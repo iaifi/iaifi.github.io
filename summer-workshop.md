@@ -15,9 +15,9 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 
 ## About
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field.
-<!--
-[View recommendations for meals and activities around MIT](https://docs.google.com/document/d/1Z2qX9Owxi7IV3D2q3xBIXns5y4r3rAps/edit#heading=h.gjdgxs)
--->
+
+[View recommendations for meals and activities around Harvard](https://docs.google.com/document/d/1glFJXYo_ly4lgEk8ia-GwxPN0f19MQvMLoueCXbZnyk/edit?usp=sharing)
+
 
 ## Agenda
 
