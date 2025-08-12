@@ -11,6 +11,21 @@
   rsvp-link:
   more-info-link: https://indico.bnl.gov/event/28082/
   priority:
+
+- type: "social"
+  event-name: "Fall 2025 IAIFI Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-10-05"
+  start-date-time: "2025-10-17 16:30"
+  end-date-time: "2025-10-17 18:30"
+  talk-location: "Venue to be announced"
+  talk-zoom:
+  event-details: "IAIFI will have its semesterly social on the evening of Friday, October 17, 2025! Food and beverages will be provided. This will be a great opportunity to network with the community after the IAIFI Fellows Showcase."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNTEwMTdUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
