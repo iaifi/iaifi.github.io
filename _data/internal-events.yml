@@ -83,6 +83,20 @@
   rsvp-link:
   more-info-link:
   
+- type: "internal-other"
+  event-name: "Cambridge Science Carnival 2025"
+  event-committee: "Public Engagement"
+  event-post-date: "2025-09-07"
+  start-date-time: "2025-09-21 12:00"
+  end-date-time: "2025-09-21 16:00"
+  talk-location: "Kendall/MIT Open Space"
+  talk-zoom:
+  event-details: "IAIFI is excited to participate for the fourth year in a row at the Cambridge Science Festival! We will run a booth with interactive activites at the Cambridge Science Carnival on September 21 in the Kendall/MIT Open Space - stay tuned for more details. For information on past activites, you can read about our participation in past festivals below. "
+  calendar-link:
+  rsvp-link:
+  more-info-link: https://cambridgesciencefestival.org/
+  priority:
+  
 - type: "social"
   event-name: "Post-Discussion Social"
   event-committee: "Community Building"
