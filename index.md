@@ -219,6 +219,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+  ***IAIFI Director Jesse Thaler speaks with Nabil Laoudji on Discovery Engines podcast***. In [the episode](https://youtu.be/FQJPvVhriYo), they discuss how AI is reshaping physics discovery and how physicists are reshaping AI. *July 31, 2025*
+  {:.info} 
+  
   ***IAIFI Deputy Director Mike Williams participates on panel at AI+Science Summit***. The panel, "[Powering Innovation at the Intersection of AI & Science: NSF’s AI Institutes](https://youtu.be/RlzN7UhuHL0?si=3C6cqb4SbP_IfX1B)" was hosted by the Special Competitive Studies Project at their AI+Science Summit. *July 23, 2025*
 {:.info}
   
