@@ -1,4 +1,44 @@
 - type: "thematic-discussion"
+  semester: "fall-2025"
+  speaker-names-affiliations: "Speakers to be announced"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-10-17 15:00"
+  end-date-time: "2025-10-17 16:00"
+  talk-location: "MIT Kolker Room, 26-414"
+  talk-title: "IAIFI Fellows Showcase"
+  talk-abstract: "This special lightning talk session will showcase several IAIFI Fellows discussing their research interests, current projects, and opportunities for collaboration."
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person:
+  talk-attendance-virtual:
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNTEwMTdUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+
+- type: "thematic-discussion"
+  semester: "fall-2025"
+  speaker-names-affiliations: "Speakers to be announced"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-09-19 14:00"
+  end-date-time: "2025-09-19 15:00"
+  talk-location: "MIT Kolker Room, 26-414"
+  talk-title: "Title to come."
+  talk-abstract: "Abstract to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person:
+  talk-attendance-virtual:
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNTA5MTlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+
+- type: "thematic-discussion"
   semester: "spring-2025"
   speaker-names-affiliations: "Shuchin Aeron (Tufts), Jesse Thaler (MIT), Phil Harris (MIT), Cora Dvorkin (Harvard)"
   speaker-title:
