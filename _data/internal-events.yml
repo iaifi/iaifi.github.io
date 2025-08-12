@@ -11,6 +11,77 @@
   rsvp-link:
   more-info-link: https://indico.bnl.gov/event/28082/
   priority:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-09-28"
+  start-date-time: "2025-10-01 10:00"
+  end-date-time: "2025-10-01 11:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTEwMDFUMTQwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Colloquium Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-09-14"
+  start-date-time: "2025-09-26 15:00"
+  end-date-time: "2025-09-26 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After today's colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTkgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+
+- type: "social"
+  event-name: "IAIFI Grad Student and Postdoc Networking Lunch with Colloquium Speaker"
+  event-committee: "Community Building"
+  event-post-date: "2025-09-14"
+  start-date-time: "2025-09-26 12:30"
+  end-date-time: "2025-09-26 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "IAIFI graduate students and postdocs are invited to this informal, catered networking meetup with IAIFI's colloquium speaker Berthy Feng (IAIFI Fellow). Lunch and refreshments will be provided."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWRjamZqbjEycms4cXFiZ2ZzcWdodGJobWogcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-09-21"
+  start-date-time: "2025-09-24 10:00"
+  end-date-time: "2025-09-24 11:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTA5MjRUMTQwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Discussion Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-09-07"
+  start-date-time: "2025-09-19 15:00"
+  end-date-time: "2025-09-19 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After today's Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGFsdWVjam0yNGc0aDEwYmY0bnV0Nmk4dGtfMjAyNTA5MTlUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
 
 - type: "internal-workshop"
   event-name: "Symposium on the Impact of Generative AI in the Physical Sciences"
@@ -39,6 +110,129 @@
   rsvp-link:
   more-info-link: https://iaifi.org/ai-astro-hackathon
   priority:
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-09-14"
+  start-date-time: "2025-09-17 10:00"
+  end-date-time: "2025-09-17 11:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTA5MTdUMTQwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Colloquium Social"
+  event-committee: "Community Building"
+  event-post-date: "2025-08-31"
+  start-date-time: "2025-09-12 15:00"
+  end-date-time: "2025-09-12 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After today's colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTkgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Grad Student and Postdoc Networking Lunch with Colloquium Speaker"
+  event-committee: "Community Building"
+  event-post-date: "2025-08-31"
+  start-date-time: "2025-09-12 12:30"
+  end-date-time: "2025-09-12 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "IAIFI graduate students and postdocs are invited to this informal, catered networking meetup with IAIFI's colloquium speaker Francisco Villaescusa-Navarro (Simons Foundation). Lunch and refreshments will be provided."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTkgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-09-07"
+  start-date-time: "2025-09-10 10:00"
+  end-date-time: "2025-09-10 11:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTA5MTBUMTQwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+
+- type: "social"
+  event-name: "IAIFI Pizza and Game Night"
+  event-committee: "Community Building"
+  event-post-date: "2025-08-24"
+  start-date-time: "2025-09-05 17:00"
+  end-date-time: "2025-09-05 19:00"
+  talk-location: "IAIFI Penthouse (MIT 26-648)"
+  talk-zoom:
+  event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mm51cjYxNjRnZGVzcWttdjhrODZxaWUxajcgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "internal-other"
+  event-name: "IAIFI Town Hall for Junior Members"
+  event-committee: "Early Career and Ethics"
+  event-post-date: "2025-08-24"
+  start-date-time: "2025-09-05 15:00"
+  end-date-time: "2025-09-05 16:00"
+  talk-location: "LNS Kolker Room (26-414)"
+  talk-zoom: "https://mit.zoom.us/j/96281109399?pwd=gaaoiWTmay4KFHYgyaXdFJwChaKCXb.1"
+  event-details: "This is our annual Junior Member Town Hall to gather feedback and suggestions from IAIFI students and postdocs. The Town Hall will be led by junior members and will include discussion of a variety of questions."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzEyN3Uwc3AxMzk3dGJ1MWE0ZWN0OTh1a2kgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "internal-other"
+  event-name: "State of IAIFI"
+  event-committee: "Management"
+  event-post-date: "2025-08-24"
+  start-date-time: "2025-09-05 14:00"
+  end-date-time: "2025-09-05 15:00"
+  talk-location: "LNS Kolker Room (26-414)"
+  talk-zoom: "https://mit.zoom.us/j/92183041364?pwd=N3pMelhpV3JUOVkzcjl1cTR4UVd6Zz09"
+  event-details: "This is our annual State of IAIFI event to kick off the academic year. Interim Director Mike Williams will provide updates on IAIFI activities and will include time for your feedback and questions. Refreshments will be provided.
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGY2bTBwYnV0Z3A1cGRkamVsbTU3M2RrMTAgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community Building"
+  event-post-date: "2025-08-31"
+  start-date-time: "2025-09-03 10:00"
+  end-date-time: "2025-09-03 11:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTA5MDNUMTQwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "internal-other"
+  event-name: "IAIFI Public Engagement Committee - Open Meeting"
+  event-committee: "Public Engagement"
+  event-post-date: "2025-08-18"
+  start-date-time: "2025-08-28 10:00"
+  end-date-time: "2025-08-28 11:00"
+  talk-location: "Zoom"
+  talk-zoom: "https://mit.zoom.us/j/99266537417?pwd=QSs4RWZVaW9wUVNiMmZNSFFQYnFwUT09"
+  event-details: "The Public Engagement Committee is hosting a special-edition meeting open to any & all IAIFI members to attend. We're looking for your ideas and input regarding the Cambridge Science Carnival (September 21) and other opportunities for public outreach going into Fall 2025."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGg2ZTZhZW9pYXZhMGpzczFncGk4NTdybzcgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
 
 - type: "social"
   event-name: "Weekly Coffee Hour"
