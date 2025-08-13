@@ -27,7 +27,7 @@ If your situation does not fall into any of the above categories but you have an
 ## Explore Job Opportunities at IAIFI Universities
 
 The flagship postdoctoral opportunity in IAIFI is the IAIFI Fellowship program, but there are other job opportunities at the participating universities with IAIFI-affiliated researchers.
-* [Apply to be an IAIFI Fellow](fellows.html): Applications currently closed.
+* [Apply to be an IAIFI Fellow](fellows.html)
 * [Browse IAIFI-related job opportunities](/job-board.html#iaifi-jobs)
 
 ## Explore Undergraduate Opportunities at IAIFI Universities
