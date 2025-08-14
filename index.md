@@ -183,9 +183,6 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Lina Necib Presentation at Museum of Science Planetarium.*** Join IAIFI and the Museum of Science for [Beyond the Telescope: Unveiling the Invisible Milky Way with AI](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai) on Wednesday, August 13, 2025 at 7:00 pm. Open to the public; free with pre-registration. 
-{:.success}
-
 ***Our [IAIFI Colloquium series](events.html) will continue in on September 12, 2025, with Francisco Villaescusa-Navarro (Simons Foundation).*** Recordings of our previous colloquium talks are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
