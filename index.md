@@ -216,6 +216,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+  ***IAIFI Summer School sponsor FirstPrinciples summarizes the impact of the School***. Read [Bridging Minds and Disciplines: The IAIFI Summer School and the Future of Collaborative Science](https://www.firstprinciples.org/article/bridging-minds-and-disciplines-the-iaifi-summer-school-and-the-future-of-collaborative-science?utm_source=linkedin&utm_medium=hub_post&utm_campaign=iaifi_summer_school). *August 15, 2025*
+  {:.info} 
+  
   ***IAIFI Director Jesse Thaler speaks with Nabil Laoudji on Discovery Engines podcast***. In [the episode](https://youtu.be/FQJPvVhriYo), they discuss how AI is reshaping physics discovery and how physicists are reshaping AI. *July 31, 2025*
   {:.info} 
   
