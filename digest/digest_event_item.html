@@ -24,7 +24,7 @@
 {% elsif is_next_week %}
 ### Next {{talk.start-date-time | date: "%A"}}:  {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
 {% elsif is_upcoming %}
-### {{talk.event-name}}  {#{{include.anchor}}}
+### {% if talk.event-name %}{{talk.event-name}}{% else %}{{site.data.talk-categories[talk.type].name}}{% endif %}  {#{{include.anchor}}}
 {% elsif is_future %}
 ### {{site.data.talk-categories[talk.type].name}}  {#{{include.anchor}}}
 {% elsif is_last_week %}

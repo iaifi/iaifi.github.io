@@ -16,6 +16,7 @@
   speaker-thrust: "astrophysics"
   speaker-gender: "man"
   talk-attendance: 0 in person, 0 virtual
+  priority: high
 
 - type: "colloquium"
   semester: "fall-2025"

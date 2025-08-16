@@ -10,7 +10,7 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2s3dG01MjhwaHVlajFjcXJhZGs4OHYyc2IgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://indico.bnl.gov/event/28082/
-  priority:
+  priority: high
 
 - type: "social"
   event-name: "Fall 2025 IAIFI Social"
@@ -26,6 +26,7 @@
   more-info-link:
   attendance-in-person:
   attendance-virtual:
+  priority: high
   
 - type: "social"
   event-name: "Weekly Coffee Hour"

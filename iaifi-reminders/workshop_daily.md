@@ -2,7 +2,7 @@
 layout: article
 header: false
 footer: false
-title: "Welcome to the 2025 IAIFI Summer Workshop"
+title: "2025 IAIFI Summer Workshop"
 show_title: false
 --- 
 
@@ -35,19 +35,23 @@ We hope you can join us for the 2025 IAIFI Summer Workshop! Please register by J
 
 -->
 
-## Welcome to the 2025 IAIFI Summer Workshop!
+## Thank you for attending the 2025 IAIFI Summer Workshop!
 
-The Summer Workshop begins today at 9 am at Harvard's Northwest Building (52 Oxford St, Cambridge, MA 02138), in the lower atrium (head down the stairs/elevator when you enter the building). The plenary talks will be held in room B103.
+Thank you for a great week of stimulating discussion at the [2025 IAIFI Summer Workshop](https://iaifi.org/summer-workshop)! 
 
-The Workshop will begin promptly at 9:00 am on Monday, August 11, so please arrive between 8:15 and 8:45 am to check in (coffee will be available). We will not have printed programs, but you can view the full agenda here: [https://iaifi.org/summer-workshop.html#agenda](https://iaifi.org/summer-workshop.html#agenda).
+### Give us your feedback!
 
-You can access Harvard wifi by connecting to "Harvard University" and navigating to [https://getonline.harvard.edu/guest/harvard_portal.php?_browser=1](https://getonline.harvard.edu/guest/harvard_portal.php?_browser=1). Eduroam works as well. 
+We want to hear how your experience was! Please [complete the survey](https://forms.gle/NbV3aCuY2aSnmVYN6) to share your feedback. Once you've submitted your survey, you will be given the option to enter a raffle for some IAIFI swag!
 
-Tonight (Monday, August 11), we will host a poster session and reception from 5:30 to 8:00 pm in the atrium. 
+[Complete the Survey](https://forms.gle/NbV3aCuY2aSnmVYN6){:.button.button--outline-primary.button--pill.button--lg} 
 
-There will be 90 minutes for lunch each day. We have compiled a [list of suggestions](https://docs.google.com/document/d/1glFJXYo_ly4lgEk8ia-GwxPN0f19MQvMLoueCXbZnyk/edit?usp=sharing) for places to eat (at lunchtime or otherwise).
+### See what you missed!
 
-[View Agenda](https://iaifi.org/summer-workshop.html#agenda){:.button.button--outline-primary.button--pill.button--lg} 
+In case you missed any of the plenary talks, we will be posting most of them on our YouTube channel; we'll share the playlist link in the next week or so.  
+
+Slides from many of the talks have been added to the [IAIFI Summer Workshop Public Google Drive](https://drive.google.com/drive/folders/1lpw1hYCvnaUk00ta7sJMGpNVORR5Y8EC?usp=share_link). Speakers will continue to add slides, so please check back there over the next couple weeks for slides you may be interested in browsing again. 
+
+[View resources](https://drive.google.com/drive/folders/1lpw1hYCvnaUk00ta7sJMGpNVORR5Y8EC?usp=share_link){:.button.button--outline-primary.button--pill.button--lg} 
 
 {% include_relative iaifi-reminder_footer.html %}
 
