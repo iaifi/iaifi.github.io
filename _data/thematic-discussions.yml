@@ -17,6 +17,7 @@
   talk-attendance-in-person:
   talk-attendance-virtual:
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNTEwMTdUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  priority: high
 
 - type: "thematic-discussion"
   semester: "fall-2025"

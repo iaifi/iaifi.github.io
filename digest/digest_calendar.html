@@ -126,7 +126,7 @@ Save the date and RSVP/register for these upcoming IAIFI events!
 {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
  {% assign post_date_time_in_seconds = talk.event-post-date | date: '%s' | plus: 0 %}
  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
- {% unless post_date_time_in_seconds < digest_start_in_seconds and start_date_time_in_seconds > digest_next_in_seconds and site.data.talk-categories[talk.type].category=='internal' %}{% continue %}{% endunless %}
+ {% unless post_date_time_in_seconds < digest_start_in_seconds and start_date_time_in_seconds > digest_next_in_seconds and site.data.talk-categories[talk.type].category=='internal' and talk.priority == 'high' %}{% continue %}{% endunless %}
   {% assign events_upcoming = 'true' %} <!-- Mark that there is at least one event -->
  {% include_relative digest_event_item.html talk=talk is_upcoming=true anchor=this_anchor %}
 {% endfor %}
