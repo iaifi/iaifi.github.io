@@ -28,6 +28,21 @@
   attendance-virtual:
   priority: high
   
+- type: "industry-lunch"
+  event-name: "Industry Lunch with Trevor McCourt (Extropic)"
+  event-committee: "Industry Partnership"
+  event-post-date: "2025-03-23"
+  start-date-time: "2025-10-03 12:30"
+  end-date-time: "2025-10-03 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
+  event-details: "More details to come."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNTEwMDNUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link: https://www.linkedin.com/in/mccourttrevor/
+  attendance-in-person:
+  attendance-virtual:
+  
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community Building"
