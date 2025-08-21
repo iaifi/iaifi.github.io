@@ -76,7 +76,7 @@ IAIFI Senior Investigators, Junior Investigators, and Affiliates have access to 
 
 ## Community
 
-[Join a committee](/committees.html){:.button.button--outline-primary.button--pill.button--lg} [Visit Penthouse](https://app.smartsheet.com/b/form/49c21bb886164fc1a51f1ef6e9e130a8){:.button.button--outline-primary.button--pill.button--lg} [View Penthouse seating chart](https://docs.google.com/presentation/d/16aVEtwVf0Ull6qo_UC7bR20YQYIO9KHS/edit?usp=sharing&ouid=100405968312486369078&rtpof=true&sd=true){:.button.button--outline-primary.button--pill.button--lg} [Join Slack](mailto:iaifi-pm@mit.edu){:.button.button--outline-primary.button--pill.button--lg}
+[Join a committee](/committees.html){:.button.button--outline-primary.button--pill.button--lg} [Visit Penthouse](https://app.smartsheet.com/b/form/49c21bb886164fc1a51f1ef6e9e130a8){:.button.button--outline-primary.button--pill.button--lg} [View Penthouse seating chart](https://docs.google.com/presentation/d/16aVEtwVf0Ull6qo_UC7bR20YQYIO9KHS/edit?usp=sharing&ouid=100405968312486369078&rtpof=true&sd=true){:.button.button--outline-primary.button--pill.button--lg} [Propose a community-building event](https://app.smartsheet.com/b/form/11c9f5109efc4abd907ccde4a5d3d37e){:.button.button--outline-primary.button--pill.button--lg}[Join Slack](mailto:iaifi-pm@mit.edu){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Career Support
 
