@@ -1,4 +1,234 @@
 - type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "Omar Alterkait"
+  speaker-title: "Graduate Student"
+  speaker-affiliation: "Tufts University"
+  speaker-website: "https://www.linkedin.com/in/omaralterkait/"
+  speaker-photo-location:
+  start-date-time: "2025-09-10 11:00"
+  end-date-time: "2025-09-10 12:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "LUCiD: a Light-based Unified Calibration and trackIng Differentiable simulation"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics experiment"
+  speaker-gender: "man"
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTA5MTBUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "Max Geier"
+  speaker-title: "Postdoctoral Researcher"
+  speaker-affiliation: "MIT"
+  speaker-website: "https://www.linkedin.com/in/max-geier-8733ab340/"
+  speaker-photo-location:
+  start-date-time: "2025-09-17 11:00"
+  end-date-time: "2025-09-17 12:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Solving superconductivity with transformer neural quantum states"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics theory"
+  speaker-gender: "man"
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTA5MTdUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "Speaker to be announced"
+  speaker-title: "Title to come"
+  speaker-affiliation: "Affiliation to come"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-09-24 11:00"
+  end-date-time: "2025-09-24 12:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTA5MjRUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "Andrew Maris"
+  speaker-title: "Graduate Student"
+  speaker-affiliation: "MIT"
+  speaker-website: "https://andrewmaris.com/"
+  speaker-photo-location:
+  start-date-time: "2025-10-01 11:00"
+  end-date-time: "2025-10-01 12:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Elucidating the mechanism of the 'density limit' with machine learning"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics experiment"
+  speaker-gender: "man"
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTEwMDFUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "Joydeep Naskar"
+  speaker-title: "Graduate Student"
+  speaker-affiliation: "Northeastern University"
+  speaker-website: "https://www.linkedin.com/in/joydeep-naskar-39035844/"
+  speaker-photo-location:
+  start-date-time: "2025-10-08 11:00"
+  end-date-time: "2025-10-08 12:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Field Theory from Neural Networks"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics theory"
+  speaker-gender: "man"
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTEwMDhUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "David Kaiser"
+  speaker-title: "Germeshausen Professor of the History of Science and Professor of Physics"
+  speaker-affiliation: "MIT"
+  speaker-website: "https://web.mit.edu/dikaiser/www/"
+  speaker-photo-location:
+  start-date-time: "2025-10-15 11:00"
+  end-date-time: "2025-10-15 12:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Social and Ethical Responsibilities of Computing (SERC)"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics theory"
+  speaker-gender: "man"
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: ""
+  
+- type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "Javier Carrón Duque"
+  speaker-title: "Postdoctoral Researcher"
+  speaker-affiliation: "IFT (Institute of Theoretical Physics)"
+  speaker-website: "https://www.javiercarron.com/"
+  speaker-photo-location:
+  start-date-time: "2025-10-22 11:00"
+  end-date-time: "2025-10-22 12:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Beyond Isotropy: Exploring Cosmic Topology with Machine Learning"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics theory"
+  speaker-gender: "man"
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTEwMjJUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "Pablo Mercader Perez"
+  speaker-title: "Graduate Student"
+  speaker-affiliation: "MIT"
+  speaker-website: "https://www.space.mit.edu/people/pablo-mercader-perez/"
+  speaker-photo-location:
+  start-date-time: "2025-11-05 11:00"
+  end-date-time: "2025-11-05 12:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Disentangling Physics from Systematics in Astrophysical Observations with Disentangled Representation Learning"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: "astrophysics"
+  speaker-gender: "man"
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTExMDVUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+
+- type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "Speaker to be announced"
+  speaker-title: "Title to come"
+  speaker-affiliation: "Affiliation to come"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-11-12 11:00"
+  end-date-time: "2025-11-12 12:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTExMTJUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "Speaker to be announced"
+  speaker-title: "Title to come"
+  speaker-affiliation: "Affiliation to come"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-11-19 13:00"
+  end-date-time: "2025-11-19 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTExMTlUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "Speaker to be announced"
+  speaker-title: "Title to come"
+  speaker-affiliation: "Affiliation to come"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-12-03 11:00"
+  end-date-time: "2025-12-03 12:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTEyMDNUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2025"
+  speaker-name: "Speaker to be announced"
+  speaker-title: "Title to come"
+  speaker-affiliation: "Affiliation to come"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-12-10 13:00"
+  end-date-time: "2025-12-10 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTEyMTBUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+# Spring 2025 below this line
+
+- type: "journal-club"
   semester: "spring-2025"
   speaker-name: Ezequiel Alvarez
   speaker-title: Professor
