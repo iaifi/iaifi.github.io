@@ -1,4 +1,17 @@
 - type: "external-event"
+  event-name: "Theoretical Physics for Artificial Intelligence"
+  event-organizer: "Adam Brown, Ethan Dyer, Michael Douglas, Paul Ginsparg, Dmitry Krotov, Cengiz Pehlevan, Eva Silverstein, Jascha Sohl-Dickstein, Sara Solla"
+  more-info-link: "https://sites.google.com/view/aspen2026/home"
+  event-post-date: "2025-08-24"
+  start-date-time: "2026-01-11 9:00"
+  end-date-time: "2026-01-16 17:00"
+  talk-location: "Aspen Center for Physics"
+  talk-zoom:
+  event-details: "Applications are now open. The application deadline is September 15, 2025. This conference will bring together theoretical physicists and machine learning researchers. The goal of the conference is to explore how the tools of theoretical physics may contribute to the study of artificial intelligence."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzhkZHE3Y3U3YXE2amhnOHRnOW01MjkxdjggZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  registration-deadline: 2025-09-15
+  
+- type: "external-event"
   event-name: "Machine Learning for Fundamental Physics (ML4FP) School 2025"
   event-organizer: "Lawrence Berkeley National Laboratory"
   more-info-link: "https://indico.physics.lbl.gov/event/3174/overview"
