@@ -12,6 +12,19 @@
   registration-deadline: 2025-09-15
   
 - type: "external-event"
+  event-name: "MIT Generative AI Impact Consortium (MGAIC) Symposium"
+  event-organizer: "MIT"
+  more-info-link: "https://genai.mit.edu/mit-generative-ai-symposium/"
+  event-post-date: "2025-08-31"
+  start-date-time: "2025-09-17 8:00"
+  end-date-time: "2025-09-17 17:30"
+  talk-location: "Kresge Auditorium, MIT"
+  talk-zoom:
+  event-details: "The inaugural MIT Generative AI Impact Symposium highlights MIT’s commitment to shaping the generative AI landscape through interdisciplinary research and impactful collaborations with industry. The program brings together faculty, industry leaders, and students to share breakthroughs, debate challenges, and chart the course for the future of generative AI. Speakers will include IAIFI Interim Director Phiala Shanahan, IAIFI Affiliate Kaiming He, and more."
+  registration-deadline: 2025-09-11
+  calendar-link:
+
+- type: "external-event"
   event-name: "Machine Learning for Fundamental Physics (ML4FP) School 2025"
   event-organizer: "Lawrence Berkeley National Laboratory"
   more-info-link: "https://indico.physics.lbl.gov/event/3174/overview"
