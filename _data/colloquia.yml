@@ -29,7 +29,7 @@
   end-date-time: "2025-09-26 15:00"
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Title to come."
-  talk-abstract: "Abstract to come.<br><br><br><br>"
+  talk-abstract:
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTA5MjZUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
@@ -48,7 +48,7 @@
   end-date-time: "2025-10-10 15:00"
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
+  talk-abstract:
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTEwMTBUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
@@ -58,16 +58,16 @@
 
 - type: "colloquium"
   semester: "fall-2025"
-  speaker-name: "Collaboration with the Kempner Institute"
-  speaker-title: "Speaker to be announced"
-  speaker-affiliation: "Affiliation to come"
-  speaker-website: "https://kempnerinstitute.harvard.edu/"
-  speaker-photo-location: "images/small-photo-kempner-logo.jpg"
+  speaker-name: "Andy Keller"
+  speaker-title: "Research Fellow"
+  speaker-affiliation: "Harvard University/Kempner Institute"
+  speaker-website: "https://akandykeller.github.io"
+  speaker-photo-location: "images/photo-andy-keller.jpg"
   start-date-time: "2025-10-24 14:00"
   end-date-time: "2025-10-24 15:00"
-  talk-location: "MIT Kolker Room (26-414)"
+  talk-location: "Havard Kempner Institute"
   talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
+  talk-abstract:
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTEwMjRUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
@@ -86,7 +86,7 @@
   end-date-time: "2025-11-07 15:00"
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Title to come."
-  talk-abstract: "Abstract to come.<br><br><br><br><br>"
+  talk-abstract:
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTExMDdUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
@@ -105,7 +105,7 @@
   end-date-time: "2025-11-21 15:00"
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
+  talk-abstract: 
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTExMjFUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
