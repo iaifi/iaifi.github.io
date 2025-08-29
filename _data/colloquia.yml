@@ -58,11 +58,11 @@
 
 - type: "colloquium"
   semester: "fall-2025"
-  speaker-name: "Speaker to be announced"
-  speaker-title: "Title to come"
+  speaker-name: "Collaboration with the Kempner Institute"
+  speaker-title: "Speaker to be announced"
   speaker-affiliation: "Affiliation to come"
-  speaker-website:
-  speaker-photo-location:
+  speaker-website: "https://kempnerinstitute.harvard.edu/"
+  speaker-photo-location: "images/small-photo-kempner-logo.jpg"
   start-date-time: "2025-10-24 14:00"
   end-date-time: "2025-10-24 15:00"
   talk-location: "MIT Kolker Room (26-414)"
