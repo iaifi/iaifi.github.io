@@ -1,0 +1,8 @@
+type: postdoc
+title: 1-year Postdoc in Deep Learning for Extrasolar Systems Stability Prediction
+employer:  HuMaLearn, Belgium
+post-date: 2025-08-31
+deadline: 2025-09-17
+expire: 2025-09-18
+link: https://jobs.unamur.be/emploi.2025-09-01.3513415887
+details: "​The CAML project is funded by the ARC program at UNamur and analyses the characteristics of extrasolar systems with deep learning. More specifically, it harnesses times series derived from N-body simulations to predict the stability of planetary systems. Those time series are enriched with chaos indicators and analysed by deep learning models. The project is an interdisciplinary collaboration between the human-centered machine learning (HuMaLearn) team of Prof. Benoît Frénay and the team of Prof. Anne-Sophie Libert in celestial mechanics.<br><br>The goal of this postdoctoral research is to define, design and evaluate models to predict the stability of extrasolar systems. As the goal is to better understand why some systems are stable and how it can be predicted, interpretability of the developed models will be explored. Also, results of deep learning models should be obtained at a minimum computational cost."
