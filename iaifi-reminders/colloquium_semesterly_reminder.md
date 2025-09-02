@@ -25,7 +25,7 @@ We hope you can join us for this round of IAIFI colloquia!
     * [Add to your calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTA5MTJUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com)
 * **September 26: [Berthy Feng](https://www.berthyfeng.com/) (Postdoctoral Fellow, IAIFI)**
     * [Add to your calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTA5MjZUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com)
-* **October 24: collaboration with the [Kempner Institute at Harvard University](https://kempnerinstitute.harvard.edu/) (More details to come!)**
+* **October 24: [Andy Keller](https://akandykeller.github.io/) (Research Fellow, Harvard University/Kempner Institute)**
     * [Add to your calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTEwMjRUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com)
 * **November 7: [Mathis Gerdes](https://www.mathisgerdes.com/) (Postdoctoral Fellow, IAIFI)**
     * [Add to your calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTExMDdUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com)
