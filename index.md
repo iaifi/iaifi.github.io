@@ -206,7 +206,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 </style>
 
 <div class="calendar-container">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showTitle=1&showPrint=0&showCalendars=0&title=IAIFI%20Group%20Calendar&mode=WEEK&src=cDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Zjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&color=%23039BE5&color=%23F09300" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src=<iframe src=<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&title=IAIFI%20Group%20Calendar&mode=WEEK&src=cDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Zjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Y18yMjljMGQ0NzExYjJlNjgzOGI4NTZlZjEyN2E2NjJmMWJhODU1ZGZmOWU2NWE4MWJlMWQ1MTkyOGJkNDIwZWM4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23ad1457&color=%23039be5&color=%23795548&color=%23e67c73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ### IAIFI News

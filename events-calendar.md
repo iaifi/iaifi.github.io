@@ -3,9 +3,10 @@ layout: article
 title: Events Calendar
 ---
 
-* All [IAIFI public events](/events.html) are listed in blue-green. 
-* All [internal IAIFI events](https://iaifi.org/events-calendar.html) are listed in purple. 
-* All [related events external to IAIFI](/related-events.html) are listed in orange. 
+* All [IAIFI public events](https://iaifi.org/events.html) are listed in blue. 
+* All internal IAIFI events (such as [thematic discussions](https://iaifi.org/lightning-talks.html) and [journal clubs](https://iaifi.org/journal-club.html)) are listed in maroon. 
+* All [IAIFI social events](https://iaifi.org/social-events.html) are listed in pink. 
+* All [related events external to IAIFI](https://iaifi.org/related-events.html) are listed in brown. 
 
 <style>
 .calendar-container{
@@ -27,12 +28,13 @@ title: Events Calendar
 </style>
 
 <div class="calendar-container">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showTitle=1&showPrint=0&showCalendars=0&title=IAIFI%20Group%20Calendar&mode=AGENDA&src=cDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Zjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%238E24AA&color=%23039BE5&color=%23F09300" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src=<iframe src=<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&title=IAIFI%20Group%20Calendar&mode=AGENDA&src=cDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Zjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Y18yMjljMGQ0NzExYjJlNjgzOGI4NTZlZjEyN2E2NjJmMWJhODU1ZGZmOWU2NWE4MWJlMWQ1MTkyOGJkNDIwZWM4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23ad1457&color=%23039be5&color=%23795548&color=%23e67c73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
-To add this calendar to your Google Calendars click the +GoogleCalendar button in the bottom right corner of the calendar. To add an individual event to your calendar, click on the event and choose "copy to my calendar."
+To add this calendar to your Google Calendars click the "Add to Google Calendar" link in the bottom left corner of the calendar. To add an individual event to your calendar, click on the event and choose "copy to my calendar."
 
 If you use a different calendar application, you can add the individual calendars using the below links:
 * [IAIFI public events](https://calendar.google.com/calendar/ical/c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com/public/basic.ics)
 * [IAIFI internal events](https://calendar.google.com/calendar/ical/p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com/public/basic.ics)
+* [IAIFI social events](https://calendar.google.com/calendar/ical/c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com/public/basic.ics)
 * [IAIFI related events external to IAIFI](https://calendar.google.com/calendar/ical/f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com/public/basic.ics)
