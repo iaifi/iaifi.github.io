@@ -8,8 +8,8 @@
   start-date-time: "2025-09-10 11:00"
   end-date-time: "2025-09-10 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "LUCiD: a Light-based Unified Calibration and trackIng Differentiable simulation"
-  talk-abstract: "Details to come."
+  talk-title: "Advancing Event Reconstruction and Calibration via Differentiable Optical Detector Simulation"
+  talk-abstract: "Next-generation Water Cherenkov detectors aim to probe fundamental questions in neutrino physics. These measurements demand unprecedented precision in detector calibration and event reconstruction that push beyond traditional Monte Carlo techniques. We present LUCiD, the first differentiable ray-tracing framework for optical particle detectors. Rather than sampling discrete photon paths, LUCiD computes expected detector responses by propagating probability weights through the optical system, with all operations differentiable end-to-end. Processing one million photons with gradients takes tens of milliseconds on a single GPU, four orders of magnitude faster than traditional CPU-based simulations.<br>This differentiable approach enables direct navigation through high-dimensional, strongly correlated parameter spaces where sampling methods struggle. We demonstrate simultaneous gradient-based calibration of critical detector parameters including scattering length, attenuation length, and reflection coefficients. For event reconstruction, LUCiD achieves performance competitive with state-of-the-art machine learning methods while maintaining complete visibility into the underlying physics. The framework seamlessly incorporates neural network surrogates for unknown phenomena without sacrificing interpretability. LUCiD's high-throughput capabilities also position it as an efficient platform for producing large-scale training datasets for foundation models in future neutrino physics research. This work represents a paradigm shift in how we approach next-generation neutrino experiments through differentiable programming."
   slides-link:
   youtube-link:
   speaker-thrust: "physics experiment"
