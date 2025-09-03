@@ -7,10 +7,12 @@ aside:
 
 # Cambridge Science Festival 2025
 
-[<img src="images/CSF24-logo.png" align="left" style="max-width:2601px;width:10%" hspace="10" vspace="10">](https://cambridgesciencefestival.org/)
-IAIFI is excited to participate for the fourth year in a row at the Cambridge Science Festival! We will run a booth with interactive activites at the Cambridge Science Carnival on September 21 in the Kendall/MIT Open Space - stay tuned for more details. For information on past activites, you can read about our participation in past festivals below. 
+[<img src="images/CSF24-logo.png" align="left" style="max-width:2601px;width:10%" hspace="10" vspace="10">](https://cambridgesciencecarnival.org/)
 
-[Learn More](https://cambridgesciencefestival.org/){:.button.button--outline-primary.button--pill.button--lg}
+
+IAIFI is excited to participate for the fourth year in a row at the Cambridge Science Festival! We will run a booth with interactive AI+Physics activites at the Cambridge Science Carnival **on September 21 in the Kendall/MIT Open Space, from 12:00-4:00pm**. For information on past activites, you can read about our participation in past festivals below. 
+
+[Learn More](https://cambridgesciencecarnival.org/){:.button.button--outline-primary.button--pill.button--lg}
 
 
 # Museum of Science Planetarium Event: *Beyond the Telescope: Unveiling the Invisible Milky Way with AI*

@@ -216,6 +216,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+  ***IAIFI Researchers and Collaborators Discover New Type of Supernova***. [Read about the discovery](https://www.cfa.harvard.edu/news/ai-helps-astronomers-discover-new-type-supernova), led by IAIFI Fellow Alex Gagliano along with IAIFI Senior Investigator Ashley Villar and their collaborators.
+  {:.info}
+  
   ***IAIFI Summer School sponsor FirstPrinciples summarizes the impact of the School***. Read [Bridging Minds and Disciplines: The IAIFI Summer School and the Future of Collaborative Science](https://www.firstprinciples.org/article/bridging-minds-and-disciplines-the-iaifi-summer-school-and-the-future-of-collaborative-science?utm_source=linkedin&utm_medium=hub_post&utm_campaign=iaifi_summer_school). *August 15, 2025*
   {:.info} 
   
