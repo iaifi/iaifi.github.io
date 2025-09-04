@@ -216,11 +216,15 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
-  ***IAIFI Researchers and Collaborators Discover New Type of Supernova***. [Read about the discovery](https://www.cfa.harvard.edu/news/ai-helps-astronomers-discover-new-type-supernova), led by IAIFI Fellow Alex Gagliano along with IAIFI Senior Investigator Ashley Villar and their collaborators.
+  
+  ***IAIFI Senior Investigators collaborate with other interdisciplinary researchers on community white paper exploring "The Future of AI and the Mathematical and Physical Sciences."*** The [white paper](https://arxiv.org/abs/2509.02661), which developed out of an NSF-funded Workshop held in March 2025, presents how the MPS domains (Astronomy, Chemistry, Materials Research, Mathematical Sciences, and Physics) can best capitalize on, and contribute to, the future of AI. *September 4, 2025*
   {:.info}
   
   ***IAIFI Summer School sponsor FirstPrinciples summarizes the impact of the School***. Read [Bridging Minds and Disciplines: The IAIFI Summer School and the Future of Collaborative Science](https://www.firstprinciples.org/article/bridging-minds-and-disciplines-the-iaifi-summer-school-and-the-future-of-collaborative-science?utm_source=linkedin&utm_medium=hub_post&utm_campaign=iaifi_summer_school). *August 15, 2025*
   {:.info} 
+  
+  ***IAIFI Researchers and Collaborators Discover New Type of Supernova***. [Read about the discovery](https://www.cfa.harvard.edu/news/ai-helps-astronomers-discover-new-type-supernova), led by IAIFI Fellow Alex Gagliano along with IAIFI Senior Investigator Ashley Villar and their collaborators. *August 13, 2025*
+  {:.info}
   
   ***IAIFI Director Jesse Thaler speaks with Nabil Laoudji on Discovery Engines podcast***. In [the episode](https://youtu.be/FQJPvVhriYo), they discuss how AI is reshaping physics discovery and how physicists are reshaping AI. *July 31, 2025*
   {:.info} 
@@ -251,46 +255,6 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
   
   ***IAIFI Junior Investigator Ziming Liu and Senior Investigator Max Tegmark featured in Quanta Magazine***. Read about their work on KANs in ["Novel Architecture Makes Neural Networks More Understandable"](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/). *September 11, 2024*
   {:.info}
-  
-   ***IAIFI Investigator Isaac Chuang and IAIFI Alumnus Curtis Northcutt awarded the 2024 IJCAI-JAIR best paper prize.*** Read ["Confident Learning: Estimating Uncertainty in Dataset Labels"](https://www.jair.org/index.php/jair/IJCAIJAIR). *August 2024*
-{:.info}
-
-  ***DUNE scientists, including IAIFI Fellow Jessie Micallef, observe first neutrinos with prototype detector at Fermilab***. [Learn more.](https://news.fnal.gov/2024/08/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/) *August 12, 2024*
-{:.info}
-
-  ***IAIFI Investigator Tracy Slatyer honored as "Committed to Caring" by MIT***. Read ["Paying it Forward"](https://physics.mit.edu/news/paying-it-forward/) to learn about their approach to prioritizing students’ educational journeys. *June 6, 2024*
-{:.info}
-
-  ***IAIFI Junior Investigator Owen Dugan awarded 2024 Hertz Foundation Fellowship***. Read ["Ten with MIT connections win 2024 Hertz Foundation Fellowships"](https://physics.mit.edu/news/ten-with-mit-connections-win-2024-hertz-foundation-fellowships/). *June 3, 2024*
-{:.info}
-
-  ***IAIFI Investigator Carlos Argüelles-Delgado named a CIFAR Azrieli Global Scholar***. [Learn more about the 2024–2026 cohort.](https://cifar.ca/cifar-azrieli-global-scholars/). *May 29, 2024*
-{:.info}
- 
- ***IAIFI Director Jesse Thaler featured on NSF CISE Newsletter***. Read ["NSF CISE Newsletter"](https://content.govdelivery.com/accounts/USNSF/bulletins/39e647f). *May 23, 2024*
-{:.info}
-
- ***IAIFI Director Jesse Thaler and IAIFI Investigators Phiala Shanahan and Jim Halverson featured in Symmetry Magazine***. Read ["Machine learning and theory"](https://www.symmetrymagazine.org/article/machine-learning-and-theory). *April 30, 2024*
-{:.info}
- 
- ***IAIFI Director Jesse Thaler provides insight on the importance of critical thinking as a panelist at MIT's Festival of Learning 2024***. Read ["MIT faculty, instructors, students experiment with generative AI in teaching and learning"](https://news.mit.edu/2024/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429). *April 29, 2024*
-{:.info}
-
- ***IAIFI Investigator Tracy Slatyer awarded 2024 Guggenheim Fellowship***. Read ["Three from MIT awarded 2024 Guggenheim Fellowships"](https://physics.mit.edu/news/tracy-slatyer-awarded-2024-guggenheim-fellowship-2/). *April 26, 2024*
-{:.info}
-
-***IAIFI Fellow Jessie Micallef featured in Symmetry Magazine***. Read about their work on ["Machine Learning and Experiment"](https://www.symmetrymagazine.org/article/machine-learning-and-experiment). *April 25, 2024*
-{:.info}
-
-***IAIFI Senior Investigator Fabian Ruehle and incoming Fellow Thomas Harvey featured in Quanta Magazine***. Read about their work on how ["AI Starts to Sift Through String Theory’s Near-Endless Possibilities"](https://www.quantamagazine.org/ai-starts-to-sift-through-string-theorys-near-endless-possibilities-20240423/). *April 23, 2024*
-{:.info}
-
-***IAIFI Investigator William Freeman co-authored a textbook on Computer Vision published by MIT Press, with Antonio Torralba and Philip Isola***. Learn More ["Foundations of Computer Vision"](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/). *April 16, 2024*
-{:.info}
-
-***IAIFI Affiliate Dan Roberts named to AI-MO prize advisory committee***. Learn about the [Artificial Intelligence Mathematical Olympiad\[https://aimoprize.com], which will be held in July 2024. *February 7, 2024*
-{:.info}
-
 
 <!---
 ***More IAIFI News:*** For an archive of IAIFI news, see our [news page](/iaifi-news.html).
