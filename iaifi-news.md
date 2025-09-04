@@ -6,6 +6,46 @@ title: News Archive
 
 ## IAIFI News Archive
 
+  ***IAIFI Investigator Isaac Chuang and IAIFI Alumnus Curtis Northcutt awarded the 2024 IJCAI-JAIR best paper prize.*** Read ["Confident Learning: Estimating Uncertainty in Dataset Labels"](https://www.jair.org/index.php/jair/IJCAIJAIR). *August 2024*
+{:.info}
+
+  ***DUNE scientists, including IAIFI Fellow Jessie Micallef, observe first neutrinos with prototype detector at Fermilab***. [Learn more.](https://news.fnal.gov/2024/08/dune-scientists-observe-first-neutrinos-with-prototype-detector-at-fermilab/) *August 12, 2024*
+{:.info}
+
+  ***IAIFI Investigator Tracy Slatyer honored as "Committed to Caring" by MIT***. Read ["Paying it Forward"](https://physics.mit.edu/news/paying-it-forward/) to learn about their approach to prioritizing students’ educational journeys. *June 6, 2024*
+{:.info}
+
+  ***IAIFI Junior Investigator Owen Dugan awarded 2024 Hertz Foundation Fellowship***. Read ["Ten with MIT connections win 2024 Hertz Foundation Fellowships"](https://physics.mit.edu/news/ten-with-mit-connections-win-2024-hertz-foundation-fellowships/). *June 3, 2024*
+{:.info}
+
+  ***IAIFI Investigator Carlos Argüelles-Delgado named a CIFAR Azrieli Global Scholar***. [Learn more about the 2024–2026 cohort.](https://cifar.ca/cifar-azrieli-global-scholars/). *May 29, 2024*
+{:.info}
+ 
+ ***IAIFI Director Jesse Thaler featured on NSF CISE Newsletter***. Read ["NSF CISE Newsletter"](https://content.govdelivery.com/accounts/USNSF/bulletins/39e647f). *May 23, 2024*
+{:.info}
+
+ ***IAIFI Director Jesse Thaler and IAIFI Investigators Phiala Shanahan and Jim Halverson featured in Symmetry Magazine***. Read ["Machine learning and theory"](https://www.symmetrymagazine.org/article/machine-learning-and-theory). *April 30, 2024*
+{:.info}
+ 
+ ***IAIFI Director Jesse Thaler provides insight on the importance of critical thinking as a panelist at MIT's Festival of Learning 2024***. Read ["MIT faculty, instructors, students experiment with generative AI in teaching and learning"](https://news.mit.edu/2024/mit-faculty-instructors-students-experiment-generative-ai-teaching-learning-0429). *April 29, 2024*
+{:.info}
+
+ ***IAIFI Investigator Tracy Slatyer awarded 2024 Guggenheim Fellowship***. Read ["Three from MIT awarded 2024 Guggenheim Fellowships"](https://physics.mit.edu/news/tracy-slatyer-awarded-2024-guggenheim-fellowship-2/). *April 26, 2024*
+{:.info}
+
+***IAIFI Fellow Jessie Micallef featured in Symmetry Magazine***. Read about their work on ["Machine Learning and Experiment"](https://www.symmetrymagazine.org/article/machine-learning-and-experiment). *April 25, 2024*
+{:.info}
+
+***IAIFI Senior Investigator Fabian Ruehle and incoming Fellow Thomas Harvey featured in Quanta Magazine***. Read about their work on how ["AI Starts to Sift Through String Theory’s Near-Endless Possibilities"](https://www.quantamagazine.org/ai-starts-to-sift-through-string-theorys-near-endless-possibilities-20240423/). *April 23, 2024*
+{:.info}
+
+***IAIFI Investigator William Freeman co-authored a textbook on Computer Vision published by MIT Press, with Antonio Torralba and Philip Isola***. Learn More ["Foundations of Computer Vision"](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/). *April 16, 2024*
+{:.info}
+
+***IAIFI Affiliate Dan Roberts named to AI-MO prize advisory committee***. Learn about the [Artificial Intelligence Mathematical Olympiad\[https://aimoprize.com], which will be held in July 2024. *February 7, 2024*
+{:.info}
+
+
  ***IAIFI Affiliate Dan Roberts writes about about using physics to understand AI risk***. Read ["Black Holes and the Intelligence Explosion"](https://www.sequoiacap.com/article/black-holes-perspective/). *December 12, 2023*
 {:.info}
 
