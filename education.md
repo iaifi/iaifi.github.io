@@ -43,6 +43,14 @@ Many IAIFI faculty are developing courses at the intersection of physics and com
 
 ### MIT
 
+* **9.522: Statistical Reinforcement Learning and Decision Making**: Prof. Alexander Rakhlin
+
+The course will focus on the statistical and algorithmic foundations of decision making and reinforcement learning. Special attention will be paid to function approximation and flexible model classes such as neural networks. Topics covered include multi-armed and contextual bandits, structured bandits, and reinforcement learning. The course will present a unifying framework for addressing the exploration-exploitation dilemma using both frequentist and Bayesian approaches, with connections and parallels between supervised learning/estimation and decision making as an overarching theme.
+
+This year, we will devote special attention to Large Language Models (LLMs) and their training. We will derive and analyze popular RL methods for LLM finetuning. Students should expect hands-on homework in addition to theoretical analysis.
+
+[View course details](https://www.mit.edu/~rakhlin/course-decision-making-f25.html){:.button.button--outline-primary.button--pill.button--sm}
+
 * **8.16/8.316: Data Science in Physics**: Prof. Phil Harris
 
 Aims to present modern computational methods by providing realistic, contemporary examples of how these computational methods apply to physics research. Designed around research modules in which each module provides experience with a specific scientific challenge. Modules include: analyzing LIGO open data; measuring electroweak boson to quark decays; understanding the cosmic microwave background; and lattice QCD/Ising model. Experience in Python helpful but not required. Lectures are viewed outside of class; in-class time is dedicated to problem- solving and discussion. Students taking graduate version will complete additional assignments.
