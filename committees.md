@@ -1,13 +1,46 @@
 ---
 layout: article
-title: IAIFI Committees
+title: IAIFI Forums and Committees
 aside:
   toc: true
 ---
 
-IAIFI is establishing committees that include a mix of faculty, postdocs, and students to plan and coordinate primary IAIFI activities. Current IAIFI Committees and their details are listed below. If you are interested in joining any of the committees below, [email iaifi@mit.edu](mailto:iaifi@mit.edu).
+IAIFI is establishing forums and committees that include a mix of faculty, postdocs, and students to plan and coordinate primary IAIFI activities. Current IAIFI Forums and Committees and their details are listed below. If you are interested in joining any of the groups below, [email iaifi@mit.edu](mailto:iaifi@mit.edu).
 
-# Computing
+# Forums
+The Forums entail monthly standing meetings, organized around IAIFI's three pillars of Research, Talent, and Community. IAIFI members can volunteer to be on the board of a forum; the forums are also open to any and all IAIFI members to attend. 
+
+## Research
+* At-a-glance: Takes point on IAIFI's Thematic Discussion Sessions, Physics for AI workshops, and research reporting
+
+## Talent
+* At-a-glance: Takes point on mentorship, career support, early career perspectives, and computing resources
+
+## Community
+* At-a-glance: Takes point on social events, public engagement (including K-12), and industry partnerships
+
+# Committees
+The Committees meet on an as-needed basis and are typically organized around temporary projects, in contrast with the standing Forum meetings. 
+
+## Ethics
+* At-a-glance: Serves as an advisory body to IAIFI Management on aspects related to ethics.
+
+## Journal Club
+* At-a-glance: Schedules and coordinates the IAIFI Journal Club and introduces Journal Club presenters
+* See past [Journal Club Talks](/journal-club.html)
+* Current Journal Club Organizers: Sean Benevedes, Victoria Zhang
+* Past Journal Club Organizers: Alexander Gagliano, John Martyn, Andrew Tan, Rikab Gambhir
+* Primary Contact: [Email Sean Benevedes](mailto:seanmb@mit.edu) or [Email Victoria Zhang](mailto:zhangv@mit.edu)
+
+## Summer School & Workshop
+* At-a-glance: Plans and coordinates the IAIFI Summer School and Workshop, including identifying and inviting lecturers and plenary speakers, developing the schedule, and reviewing applicants to the Summer School. 
+
+## Speaker Selection
+* At-a-glance: Identifies and invites speakers to the IAIFI Seminars and Colloquia and introduces speakers as needed
+
+
+<!--
+#Computing
 * Status: Accepting additional members
 * Coordinates the purchase and management of IAIFI computing hardware and identifies and establishes additional computing solutions, as well as facilitates the utilization of computing resources and tools
 * Time commitment: One meeting per month, with some input or information gathering needed between meetings
@@ -75,7 +108,7 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Past Communications Committee: Anna Golubeva
 * Primary Contact: [Email Pulkit Agrawal (Chair)](mailto:pulkitag@mit.edu)
 
--->
+
 # Journal Club Organizers
 * Status: No additional organizers needed at this time, but [sign up here to lead a Journal Club](https://forms.gle/zfpT4QQdXg8tu6VB7)
 * Schedules and coordinates the IAIFI Journal Club and introduces Journal Club presenters
@@ -84,4 +117,4 @@ IAIFI is establishing committees that include a mix of faculty, postdocs, and st
 * Current Journal Club Organizers: Sean Benevedes, Victoria Zhang
 * Past Journal Club Organizers: Alexander Gagliano, John Martyn, Andrew Tan, Rikab Gambhir
 * Primary Contact: [Email Sean Benevedes](mailto:seanmb@mit.edu) or [Email Victoria Zhang](mailto:zhangv@mit.edu)
-
+-->
