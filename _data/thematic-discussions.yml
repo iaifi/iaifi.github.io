@@ -75,6 +75,8 @@
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGY2bTBwYnV0Z3A1cGRkamVsbTU3M2RrMTAgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link:
   more-info-link:
+  talk-attendance-in-person: 17
+  talk-attendance-virtual: 7
 
 - type: "thematic-discussion"
   semester: "spring-2025"
