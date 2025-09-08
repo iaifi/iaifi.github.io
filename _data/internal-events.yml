@@ -107,26 +107,11 @@
   end-date-time: "2025-09-21 16:00"
   talk-location: "Kendall/MIT Open Space"
   talk-zoom:
-  event-details: "IAIFI is excited to participate for the fourth year in a row at the Cambridge Science Festival! We will run a booth with interactive activites at the Cambridge Science Carnival on September 21 in the Kendall/MIT Open Space - stay tuned for more details. For information on past activites, you can read about our participation in past festivals below. "
+  event-details: "IAIFI is excited to participate for the fourth year in a row at the Cambridge Science Festival! We will run a booth with interactive activites at the Cambridge Science Carnival on September 21 in the Kendall/MIT Open Space that exemplify the intersection of AI and physics. RSVP below if you would like to sign up to help."
   calendar-link:
-  rsvp-link:
+  rsvp-link: https://app.smartsheet.com/b/form/0198ae83c0a57ba39791ec5d5b3434f9
   more-info-link: https://cambridgesciencefestival.org/
   priority:
-  
-- type: "social"
-  event-name: "Post-Discussion Social"
-  event-committee: "Community Building"
-  event-post-date: "2025-09-07"
-  start-date-time: "2025-09-19 15:00"
-  end-date-time: "2025-09-19 16:00"
-  talk-location: "IAIFI Penthouse (26-648)"
-  talk-zoom:
-  event-details: "After today's Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNTA5MTlUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
-  rsvp-link:
-  more-info-link:
-  attendance-in-person:
-  attendance-virtual:
 
 - type: "internal-workshop"
   event-name: "Symposium on the Impact of Generative AI in the Physical Sciences"
@@ -165,7 +150,7 @@
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
-  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTA5MTdUMTQwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTA5MTdUMTQwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
   rsvp-link:
   more-info-link:
   
@@ -178,7 +163,7 @@
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
   event-details: "After today's colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNTA5MTJUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNTA5MTJUMTkwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
   attendance-in-person:
@@ -208,7 +193,7 @@
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
-  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTA5MTBUMTQwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTA5MTBUMTQwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
   rsvp-link:
   more-info-link:
 
@@ -237,19 +222,6 @@
   talk-zoom: "https://mit.zoom.us/j/96281109399?pwd=gaaoiWTmay4KFHYgyaXdFJwChaKCXb.1"
   event-details: "This is our annual Junior Member Town Hall to gather feedback and suggestions from IAIFI students and postdocs. The Town Hall will be led by junior members and will include discussion of a variety of questions."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzEyN3Uwc3AxMzk3dGJ1MWE0ZWN0OTh1a2kgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
-  rsvp-link:
-  more-info-link:
-  
-- type: "internal-other"
-  event-name: "State of the IAIFI"
-  event-committee: "Management"
-  event-post-date: "2025-08-24"
-  start-date-time: "2025-09-05 14:00"
-  end-date-time: "2025-09-05 15:00"
-  talk-location: "LNS Kolker Room (26-414)"
-  talk-zoom: "https://mit.zoom.us/j/96281109399?pwd=gaaoiWTmay4KFHYgyaXdFJwChaKCXb.1"
-  event-details: "This is our annual State of the IAIFI event to kick off the academic year! Interim Director Mike Williams will provide updates on IAIFI activities and will include time for your feedback and questions. Refreshments will be provided."
-  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGY2bTBwYnV0Z3A1cGRkamVsbTU3M2RrMTAgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link:
   more-info-link:
 
