@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-09-03
+title: "The Optimiser Hidden in Plain Sight: Training with the Loss Landscape's Induced Metric"
+authors: "Thomas R. Harvey"
+abstract: "We present a class of novel optimisers for training neural networks that makes use of the Riemannian metric naturally induced when the loss landscape is embedded in higher-dimensional space. This is the same metric that underlies common visualisations of loss landscapes. By taking this geometric perspective literally and using the induced metric, we develop a new optimiser and compare it to existing methods, namely: SGD, Adam, AdamW, and Muon, across a range of tasks and architectures. Empirically, we conclude that this new class of optimisers is highly effective in low dimensional examples, and provides slight improvement over state-of-the-art methods for training neural networks. These new optimisers have theoretically desirable properties. In particular, the effective learning rate is automatically decreased in regions of high curvature acting as a smoothed out form of gradient clipping. Similarly, one variant of these optimisers can also be viewed as inducing an effective scheduled learning rate and decoupled weight decay is the natural choice from our geometric perspective. The basic method can be used to modify any existing preconditioning method. The new optimiser has a computational complexity comparable to that of Adam."
+arxiv: "2509.03594"
+journal:
+doi:
+nsf-par:
+code: https://github.com/harveyThomas4692/Induced-Metric-Optimiser
+publication-date:
+bib-tex: |
+  @misc{harvey2025optimiserhiddenplainsight,
+      title={The Optimiser Hidden in Plain Sight: Training with the Loss Landscape's Induced Metric},
+      author={Thomas R. Harvey},
+      year={2025},
+      eprint={2509.03594},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2509.03594},
+  }
