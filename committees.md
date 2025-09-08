@@ -11,7 +11,7 @@ IAIFI is establishing forums and committees that include a mix of faculty, postd
 The Forums entail monthly standing meetings, organized around IAIFI's three pillars of Research, Talent, and Community. IAIFI members can volunteer to be on the board of a forum; the forums are also open to any and all IAIFI members to attend. 
 
 ## Research
-* At-a-glance: Takes point on IAIFI's Thematic Discussion Sessions, Physics for AI workshops, and research reporting
+* At-a-glance: Takes point on IAIFI's Thematic Discussion Sessions, mini-workshops, research reporting, and more
 
 ## Talent
 * At-a-glance: Takes point on mentorship, career support, early career perspectives, and computing resources
