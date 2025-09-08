@@ -1,4 +1,28 @@
 - type: "external-event"
+  event-name: "APS Global Physics Summit"
+  event-organizer: "American Physical Society"
+  more-info-link: "https://summit.aps.org/"
+  event-post-date: "2025-09-07"
+  start-date-time: "2025-03-15 09:00"
+  end-date-time: "2025-03-20 17:00"
+  talk-location: "Denver, CO, and online"
+  talk-zoom:
+  event-details: "The APS Global Physics Summit is the largest physics research conference in the world, uniting 14,000 scientific community members across all disciplines of physics. This meeting reflects the inclusivity and synergy of many physics disciplines and emerging cross-disciplinary areas of science, which perfectly reflects this year's theme of Science for a Shared Future. **The call for abstracts is open, and will close on October 8, 2025.**"
+  calendar-link:
+
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-09-07"
+  start-date-time: "2025-09-08 13:00"
+  end-date-time: "2025-09-08 14:00"
+  talk-location: "Pratt conference room (P-G04), Center for Astrophysics, 60 Garden Street, Cambridge, MA"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Alan Hsu (Harvard) <br>Title: Dynamic Tomographic Inversion of Solar Coronal Magnetic Fields using Neural Rendering <br>Abstract:We propose to develop a neural-rendering-based method for dynamic 3D reconstruction of magnetic and plasma fields in the solar corona. Neural rendering is a machine learning approach for 3D reconstruction of objects and scenes using a sparse set of 2D viewpoints. These learned models, called Neural Radiance Fields (NeRFs), map a positional state to the emitted intensity, and reconstruct the 3D object by integrating the LOS emission. By learning on a sparse set of measured 2D viewpoints of the object, NeRFs effectively act as a proxy for the intrinsic emissivity properties, and can render novel viewpoints that would otherwise be unmeasurable. In this project, we will combine existing methods for tomographic inversion of coronal magnetic fields with existing neural rendering techniques to create a physics-informed model that performs a continuous mapping between the spatial position within the corona and its associated magnetic field and plasma properties. While our coronal NeRF (corNeRF) will eventually be used for tomographic inversion of observational spectropolarimetric data, we will train and validate our models using simulated observations synthesized from MHD models so that we have the ground truth values. The goal of the proposed work is to demonstrate that corNeRFs are able to accurately reconstruct the 3D magnetic and plasma fields of the solar corona, so that they can be practically used on tomographic inversions of spectropolarimetric observations of the corona when the ground truth magnetic fields are not known."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2ZvYjRwdjVpOWJjcDR0ZW90aWxjaHIzcmkgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
+- type: "external-event"
   event-name: "Workshop on Machine Learning for Quantum Fields and Geometry 2025"
   event-organizer: "Ulsan National Institute of Science and Technology (UNIST)"
   more-info-link: "https://rakkyeongseong.github.io/mlquantumgeometry2025/ "

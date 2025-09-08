@@ -29,8 +29,8 @@
   start-date-time: "2025-09-19 14:00"
   end-date-time: "2025-09-19 15:00"
   talk-location: "MIT Kolker Room, 26-414"
-  talk-title: "Title to come."
-  talk-abstract: "Abstract to come."
+  talk-title: "IAIFI Mini-Symposium with Senior Investigators and Affiliates"
+  talk-abstract: "IAIFI Senior Investigators and Affiliates will present lightning talks on their work, with the goal to spark collaborations across IAIFI. Refreshments will be provided!"
   slides-link:
   youtube-link:
   speaker-thrust:
@@ -38,6 +38,27 @@
   talk-attendance-in-person:
   talk-attendance-virtual:
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNTA5MTlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  
+- type: "thematic-discussion"
+  semester: "fall-2025"
+  speaker-names-affiliations: "Speakers to be announced"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-09-19 15:00"
+  end-date-time: "2025-09-19 16:00"
+  talk-location: "IAIFI Penthouse, MIT 26-648"
+  talk-title: "Junior Member Poster Session"
+  talk-abstract: "After the Mini-Symposium, junior members will present posters on their work at the IAIFI Penthouse. Sign up to present a poster at the link below! Refreshments will be provided."
+  rsvp-link: https://app.smartsheet.com/b/form/019910ab67ed756f97a8180b2a1f6da3
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person:
+  talk-attendance-virtual:
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2RzbWs5cGRvZWIyY2J0YXU5MjRtanFuMmYgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
 
 - type: "thematic-discussion"
   semester: "spring-2025"
