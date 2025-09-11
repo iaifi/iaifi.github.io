@@ -1,231 +1,243 @@
 - type: "research-highlight"
+  domain: "Experimental Physics"
+  title: "Enhancing events in neutrino telescopes through deep-learning-driven superresolution"
+  authors: Felix J. Yu (Harvard/IAIFI), Nicholas Kamp (Harvard/IAIFI), Carlos A. Argüelles (Harvard/IAIFI)
+  date-added: 2025-09-01
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRcjglo--xV1jNr8Zb--NCo8KexMIgAUOV-0FAjh3Nkr0vyRKV0Rfk5hfbINSdvG7aAuAXjN_bIDYNZ/pubembed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1dyOuyJ8Bu7UDj0e6m6WT5QnGrAuZsQZ1MlnBLfMuT-U/edit?usp=sharing"
+  public-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTVkHT3MQUMdgHdIcTviIX58YtvHVP1P5RYeb3lZYGmeZeEQcMKl7ocFMKtbJSugT7ylFmY3BHgvWuc/pubembed?start=false&loop=false&delayms=3000"
+  public-link: "https://docs.google.com/presentation/d/15zSW_vja6BJKKsMKw9Ha_4douadfsOs_fXeMgJm3to0/edit?usp=sharing"
+
+- type: "research-highlight"
   domain: "Foundational AI"
   title: "Remove Symmetries to Control Model Expressivity and Improve Optimization"
   authors: Liu Ziyin (MIT/NTT Research/IAIFI), Yizhou Xu (EPFL), Isaac Chuang (MIT/IAIFI)
   date-added: 2025-07-01
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vR1eudS1A2doo_Hllu-GLB7eyEwKRPWzGo2tXdGhojAcTdnpHJ9igMBOBomF2UMFbUibjYceOpfz5nV/pubembed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1LCPQgny6FvM5n3w_wdclPpJstCQFiI-g2-olVi219NI/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vR1eudS1A2doo_Hllu-GLB7eyEwKRPWzGo2tXdGhojAcTdnpHJ9igMBOBomF2UMFbUibjYceOpfz5nV/pubembed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1LCPQgny6FvM5n3w_wdclPpJstCQFiI-g2-olVi219NI/edit?usp=sharing"
+  public-embed-link:
+  public-link:
 
 - type: "research-highlight"
   domain: "Foundational AI"
   title: "LEAPS: A discrete neural sampler via locally equivariant networks"
   authors: Peter Holderrieth (MIT), Michael S. Albergo (IAIFI), Tommi Jaakkola (MIT/IAIFI)
   date-added: 2025-06-02
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQzA_4zhdFMKjdg4Xq9lI46ilvIgDxK68G3sv9XIofnpUyS4wY3ZkXbppCFE4wjm7TJTz454qdSOoEm/pubembed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1M_R2uYuyhmRJgxUfUrfrLsOzm879juKLXnJ0yks8uLY/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQzA_4zhdFMKjdg4Xq9lI46ilvIgDxK68G3sv9XIofnpUyS4wY3ZkXbppCFE4wjm7TJTz454qdSOoEm/pubembed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1M_R2uYuyhmRJgxUfUrfrLsOzm879juKLXnJ0yks8uLY/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Foundational AI"
   title: "Denoising Hamiltonian Network for Physical Reasoning"
   authors: Congyue Deng (MIT/Stanford, Incoming IAIFI Junior Investigator), Brandon Y. Feng (MIT/IAIFI), Cecilia Garraffo (Harvard/IAIFI), Alan Garbarz (Universidad de Buenos Aires and Instituto de Física de Buenos Aires), Robin Walters (Northeastern/IAIFI), William T. Freeman (MIT/IAIFI), Leonidas Guibas (Stanford), Kaiming He (MIT/IAIFI)
   date-added: 2025-05-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQv-_4MepKdep-b-w9JrKZT_4Ge6bzmZs-S537LBpX9kT5HlDJTAHhoJs9FOUG42EsXPDckMUwfE2Rd/pubembed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/17xmYOKPeo7VsaEw7w4sHRFsYb20kg8lMO-OTkjB_LWE/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQv-_4MepKdep-b-w9JrKZT_4Ge6bzmZs-S537LBpX9kT5HlDJTAHhoJs9FOUG42EsXPDckMUwfE2Rd/pubembed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/17xmYOKPeo7VsaEw7w4sHRFsYb20kg8lMO-OTkjB_LWE/edit?usp=sharing"
   
 - type: "research-highlight"
   domain: "Theoretical Physics"
   title: "Generative Modeling for Mathematical Discovery"
   authors: Jordan S. Ellenberg (University of Wisconsin-Madison), Cristofero S. Fraser-Taliente (University of Oxford), Thomas R. Harvey (IAIFI Fellow), Karan Srivastava (University of Wisconsin-Madison), Andrew V. Sutherland (MIT)
   date-added: 2025-04-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRj5WkhMaQxfjjrrbO6xgqD2Cex12uvTd0wOL0fG9CnnDNa6oBQkyYmMS957qFSOOOGH5YmlaeOH3gF/pubembed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1EOuF2HliJ8yQm3XB4dZj_MgXCsCnUQh0N7RuPWuXIe4/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRj5WkhMaQxfjjrrbO6xgqD2Cex12uvTd0wOL0fG9CnnDNa6oBQkyYmMS957qFSOOOGH5YmlaeOH3gF/pubembed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1EOuF2HliJ8yQm3XB4dZj_MgXCsCnUQh0N7RuPWuXIe4/edit?usp=sharing"
   
 - type: "research-highlight"
   domain: "Astrophysics"
   title: "A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing"
   authors: Julia Balla (MIT/IAIFI), Siddharth Mishra-Sharma (Former IAIFI Fellow), Carolina Cuesta-Lazaro (IAIFI Fellow), Tommi Jaakkola (MIT/IAIFI), Tess Smidt (MIT/IAIFI)
   date-added: 2025-03-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vS618fsm7m_UW_SOojMTwvuRRN-2Wh51tIU-laX-nWjXJBPYrffLjbqwbEd9stLxYv8lf5MXShrFUay/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1N4Jc7InxxWfCH2-tbY0TC_BXp4lBkrnIryTNQQxIG8s/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vS618fsm7m_UW_SOojMTwvuRRN-2Wh51tIU-laX-nWjXJBPYrffLjbqwbEd9stLxYv8lf5MXShrFUay/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1N4Jc7InxxWfCH2-tbY0TC_BXp4lBkrnIryTNQQxIG8s/edit?usp=sharing"
   
 - type: "research-highlight"
   domain: "Foundational AI"
   title: "Reinforcement Learning for Optimal Control of Adaptive Cell Populations"
   authors: Josiah C. Kratz (Carnegie Mellon University), Jacob Adamczyk (UMass Boston/IAIFI)
   date-added: 2025-02-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vSDN-Tih_taAeyC7nn-7eoQZI4kvig5kDM7sMJFz2ghZwTedCyUNlc2sj2bUCsSUNdDVjDO0deC_uJX/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/16LjKJW5sLvFnj6uahS83Cac0CzuM_9BGVz2uErvh-4o/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vSDN-Tih_taAeyC7nn-7eoQZI4kvig5kDM7sMJFz2ghZwTedCyUNlc2sj2bUCsSUNdDVjDO0deC_uJX/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/16LjKJW5sLvFnj6uahS83Cac0CzuM_9BGVz2uErvh-4o/edit?usp=sharing"
   
 - type: "research-highlight"
   domain: "Experimental Physics"
   title: "Towards Universal Unfolding of Detector Effects in High-Energy Physics using Denoising Diffusion Probabilistic Models"
   authors: Camila Pazos (Tufts/IAIFI), Shuchin Aeron (Tufts/IAIFI), Pierre-Hugues Beauchemin (Tufts/IAIFI), Vincent Croft, Zhengyan Huan (Tufts), Martin Klassen, Taritree Wongjirad (Tufts/IAIFI)
   date-added: 2025-01-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRmppnE3U_DC392TEWVLqEmWIB4r8n7WiNOo2oNx_3iuNJ8Z2Jo5-PZai3iwRf2wT-XbuLja-5Kjn6j/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1JNqQHWITAG26WIbASoHUC6Pwhk454zosvbsijM7DYFg/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRmppnE3U_DC392TEWVLqEmWIB4r8n7WiNOo2oNx_3iuNJ8Z2Jo5-PZai3iwRf2wT-XbuLja-5Kjn6j/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1JNqQHWITAG26WIbASoHUC6Pwhk454zosvbsijM7DYFg/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Astrophysics"
   title: "Maven: A Multimodal Foundation Model for Supernova Science"
   authors: Alexander T. Gagliano, Siddharth Mishra-Sharma (IAIFI Fellows), V. Ashley Villar, Gemma Zhang (Harvard), Thomas Helfer (Stony Brook)
   date-added: 2024-11-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQvHpf3080nSATOrUHmqQF-kASPOANjIqvOOHQMI9CERIBpMOMnGztJEkOjE3YOxSvs4-Lhh-RiVgee/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/10Qszevq11vkz9eCr3awbffv4MZVYKL-b_E5m3N0wY-s/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQvHpf3080nSATOrUHmqQF-kASPOANjIqvOOHQMI9CERIBpMOMnGztJEkOjE3YOxSvs4-Lhh-RiVgee/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/10Qszevq11vkz9eCr3awbffv4MZVYKL-b_E5m3N0wY-s/edit?usp=sharing"
   
 - type: "research-highlight"
   domain: "Foundational AI"
   title: "QuanTA: Efficient High-Rank Fine-Tuning of LLMs with Quantum-Informed Tensor Adaptation"
   authors: Zhuo Chen, Rumen Dangovski, Charlotte Loh, Owen Dugan, Di Luo, Marin Soljačić (MIT/IAIFI)
   date-added: 2024-10-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTXi6FxdyhDs2LEIPYALjqvFya2Xzj8QNIMkh-iz7LgMzBdoUMGytnAlCjyDpuLLtJ7wlxNCmrm6CIg/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1UhCsEbvN7rpbKo7xJUfsO4wg8hmqIyXrZ2huSCfcpIs/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTXi6FxdyhDs2LEIPYALjqvFya2Xzj8QNIMkh-iz7LgMzBdoUMGytnAlCjyDpuLLtJ7wlxNCmrm6CIg/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1UhCsEbvN7rpbKo7xJUfsO4wg8hmqIyXrZ2huSCfcpIs/edit?usp=sharing"
   
 - type: "research-highlight"
   domain: "Theoretical Physics"
   title: "Learning the Simplicity of Scattering Amplitudes"
   authors: Matthew D. Schwartz, Aurelian Dersy (Harvard/IAIFI) and Clifford Cheung (Caltech)
   date-added: 2024-09-07
-  embed-link: "https://docs.google.com/presentation/d/1HzJW3YjcGMTSWssn3YOp1qj_NUHVXFV2vOoLjI4AdpA/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1HzJW3YjcGMTSWssn3YOp1qj_NUHVXFV2vOoLjI4AdpA/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/1HzJW3YjcGMTSWssn3YOp1qj_NUHVXFV2vOoLjI4AdpA/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1HzJW3YjcGMTSWssn3YOp1qj_NUHVXFV2vOoLjI4AdpA/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Experimental Physics"
   title: "From Neurons to Neutrons: A Case Study in Interpretability"
   authors: Ouail Kitouni (MIT/IAIFI), Niklas Nolte (MIT/IAIFI), Vı́ctor Samuel Pérez-Dı́az (Harvard/IAIFI), Sokratis Trifinopoulos (MIT/IAIFI), Mike Williams (MIT/IAIFI)
   date-added: 2024-08-07
-  embed-link: "https://docs.google.com/presentation/d/19NsX_FbtP_Bh7oY_FLruWollaspqPGMFzwElKCocdro/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/19NsX_FbtP_Bh7oY_FLruWollaspqPGMFzwElKCocdro/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/19NsX_FbtP_Bh7oY_FLruWollaspqPGMFzwElKCocdro/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/19NsX_FbtP_Bh7oY_FLruWollaspqPGMFzwElKCocdro/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Experimental Physics"
   title: "Anomaly-aware summary statistic from data batches"
   authors: Gaia Grosso (IAIFI Fellow)
   date-added: 2024-07-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vSHZkGUU9zOLPR9fWDG86Vw-ueRzgmmdR2p58hRrTqMNwvIrz27Ie_dx9vLopB4X_iVNnPm6YMKdqBR/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1j2ZYx3jHuqkGgbWBmEGmO5uzTJy_ogzT0D3wF4iiXSE/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vSHZkGUU9zOLPR9fWDG86Vw-ueRzgmmdR2p58hRrTqMNwvIrz27Ie_dx9vLopB4X_iVNnPm6YMKdqBR/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1j2ZYx3jHuqkGgbWBmEGmO5uzTJy_ogzT0D3wF4iiXSE/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Foundational AI"
   title: "KAN: Kolmogorov-Arnold Networks"
   authors: "IAIFI: Ziming Liu, Fabian Ruehle, James Halverson, Marin Soljačić, Max Tegmark; Collaborators: Yixuan Wang, Sachin Vaidya, Thomas Y. Hou"
   date-added: 2024-06-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTc-ASWDhdnJ4958CjLS3udWHEPH_BM6dvN5WU8zowcHpORLfo3YiGcNx_FcXu82vNFelLLyJetEtYg/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1jy7N2RXcILYUMh3T1ATube_BFo56v-G5paRKb3cts9k/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTc-ASWDhdnJ4958CjLS3udWHEPH_BM6dvN5WU8zowcHpORLfo3YiGcNx_FcXu82vNFelLLyJetEtYg/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1jy7N2RXcILYUMh3T1ATube_BFo56v-G5paRKb3cts9k/edit?usp=sharing"
   
 - type: "research-highlight"
   domain: "Experimental Physics"
   title: "Using Machine Learning for Neutrino Detection"
   authors: IceCube Collaboration (Jessie Micallef, IAIFI Fellow)
   date-added: 2024-05-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vSUTg5BAFokUnWC9mK5LyNrlMalnq_S98GYU04PIyMT6i-ushfyRBywzjCQilC2Dio8mQBkWNP_Zh1X/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1wCAzNUqIh-w3cpje7Gj0F4qCr_YsNU-pqGB2pn1Ciwg/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vSUTg5BAFokUnWC9mK5LyNrlMalnq_S98GYU04PIyMT6i-ushfyRBywzjCQilC2Dio8mQBkWNP_Zh1X/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1wCAzNUqIh-w3cpje7Gj0F4qCr_YsNU-pqGB2pn1Ciwg/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Experimental Physics"
   title: "Model-agnostic search for dijet resonances with anomalous jet substructure in proton-proton collisions at √s = 13TeV"
   authors: Phil Harris, Patrick McCormack, Sang Eon Park (MIT), Sam Bright-Thonney (incoming Fellow), part of CERN CMS collaboration
   date-added: 2024-04-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTJXc7xzGEJaVNt94JVo4T0jo41GWDPespyOFtWsUDVyeH-D-QG61JE3X2wyAYjDa3pyOTGeP7IMTXk/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1tZnsYElcJYbJLZiKTCqFQWPq7vqVw6P9fQDC_V2ArhI/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTJXc7xzGEJaVNt94JVo4T0jo41GWDPespyOFtWsUDVyeH-D-QG61JE3X2wyAYjDa3pyOTGeP7IMTXk/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1tZnsYElcJYbJLZiKTCqFQWPq7vqVw6P9fQDC_V2ArhI/edit?usp=sharing"
   
 - type: "research-highlight"
   domain: "Foundational AI"
   title: "Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for Molecule Generation"
   authors: Ameya Daigavane, Song Eun Kim, Mario Geiger, Tess Smidt (MIT)
   date-added: 2024-03-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRdsHC8a9e14Uv8D5M6Hqi8lyWMPl64q0u2cApgK7arT5dCJm04vArlQ7BSyhxoxyxDw63rcNYMC4jj/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1vFLI5lF0-ICeQiaBITqi5O9S-VZqh6qXjwPU-x4SBlY/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRdsHC8a9e14Uv8D5M6Hqi8lyWMPl64q0u2cApgK7arT5dCJm04vArlQ7BSyhxoxyxDw63rcNYMC4jj/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1vFLI5lF0-ICeQiaBITqi5O9S-VZqh6qXjwPU-x4SBlY/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Astrophysics"
   title: "A point cloud approach to generative modeling for galaxy surveys at the field level"
   authors: Carolina Cuesta-Lazaro, Siddharth Mishra-Sharma (IAIFI Fellows)
   date-added: 2024-02-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQnf3YteywM3CJGLXupp_WaNsZh8ruDsnSx09_25XO9GdavYCCLRpJeP8Os07KDbKm5qUrVlHvAzIMx/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1Km3Ic55dyNTUmFWZizCOATdMrD8dba9pmIlNdKuKNLM/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQnf3YteywM3CJGLXupp_WaNsZh8ruDsnSx09_25XO9GdavYCCLRpJeP8Os07KDbKm5qUrVlHvAzIMx/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1Km3Ic55dyNTUmFWZizCOATdMrD8dba9pmIlNdKuKNLM/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Foundational AI"
   title: "Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation"
   authors: Ge Yang (IAIFI Fellow), William Shen, Alan Yu, Jansen Wong, Leslie Pack Kaelbling, Phillip Isola (MIT)
   date-added: 2024-01-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRXz5ZuKzn3czf3gbKh-8fnoTgUSSA8lO7P2DExHKeFrdbgYFlYKYs-OkQHjsFDxB4EkkTKsMFYaTOK/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1lLmYYyTJYvRA4fzhOYW9uBC6hh2RPoWVTNjD3F87h1k/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRXz5ZuKzn3czf3gbKh-8fnoTgUSSA8lO7P2DExHKeFrdbgYFlYKYs-OkQHjsFDxB4EkkTKsMFYaTOK/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1lLmYYyTJYvRA4fzhOYW9uBC6hh2RPoWVTNjD3F87h1k/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Astrophysics"
   title: "Cosmological Data Compression and Inference with Self-Supervised Machine Learning"
   authors: Aizhan Akhmetzhanova (Harvard), Siddharth Mishra-Sharma (IAIFI Fellow), Cora Dvorkin (Harvard)
   date-added: 2023-11-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vSGMxbXEzLq9Vo8wz_KlQ5l5n8v3vtmkJjEEpQTn8-OFcnpKgkQXZut0mEm7pW9oycSfhf1LppY0afE/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1d_7RrXMYQCPi3BoprwDY9UwO6CrUaC0T-_xd7em6-zg/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vSGMxbXEzLq9Vo8wz_KlQ5l5n8v3vtmkJjEEpQTn8-OFcnpKgkQXZut0mEm7pW9oycSfhf1LppY0afE/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1d_7RrXMYQCPi3BoprwDY9UwO6CrUaC0T-_xd7em6-zg/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Experimental Physics"
   title: "Improving the performance of the Laser Interferometer Gravitational-wave Observatory (LIGO) with AI"
   authors: Lisa Barsotti, Nikhil Mukund, Chris Whittle, Matt Evans, Pulkit Agrawal, (MIT) Ge Yang (IAIFI Fellow)
   date-added: 2023-10-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTJuG5mD6pDfc1jANKL-1567w2-hKYGJDBeyYzg2c-sgFh_j_RkjOIPswcjFVPezqddHaURt8dbb9vv/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1ULoYYvNkbvqI6rpqL2uY6cBTP1ZR8axwzpLZAK8NgCg/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTJuG5mD6pDfc1jANKL-1567w2-hKYGJDBeyYzg2c-sgFh_j_RkjOIPswcjFVPezqddHaURt8dbb9vv/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1ULoYYvNkbvqI6rpqL2uY6cBTP1ZR8axwzpLZAK8NgCg/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Foundational AI"
   title: "Dynamic Sparse Training"
   authors: Mike Lasby, Anna Golubeva, Utku Evci, Mihai Nica, Yani A. Ioannou
   date-added: 2023-09-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRtbWPP9mUzHokrpYpkhk64tmiM2U7YzMlR2wBZo2_vN8AiEf4aFr9efxqziIZC4pg-SM1J-iFkU3SN/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1tny53eo1EMby9YGaN6DjL1UhLd6blLWlvp6jNvRKJEQ/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRtbWPP9mUzHokrpYpkhk64tmiM2U7YzMlR2wBZo2_vN8AiEf4aFr9efxqziIZC4pg-SM1J-iFkU3SN/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1tny53eo1EMby9YGaN6DjL1UhLd6blLWlvp6jNvRKJEQ/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Foundational AI"
   title: "Learning Athletic, Context-Adaptive Robot Locomotion"
   authors: Pulkit Agrawal, Gabriel B Margolis, Yandong Ji (MIT)
   date-added: 2023-08-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vSfceZ5dS-_Jxh0VXb1uAVVEbM9ePz9YosKOqIWcLeDwljIwX8ohdGt2qHy8sW9MnIsyg6zQHwN2Prm/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1olTA3ArgVfq_Mhb1Pktt2EmvarpaYSk3RMvdAgHmqtA/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vSfceZ5dS-_Jxh0VXb1uAVVEbM9ePz9YosKOqIWcLeDwljIwX8ohdGt2qHy8sW9MnIsyg6zQHwN2Prm/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1olTA3ArgVfq_Mhb1Pktt2EmvarpaYSk3RMvdAgHmqtA/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Astrophysics"
   title: "Uncovering dark matter density profiles in dwarf galaxies with graph neural networks"
   authors: Tri Nguyen (MIT), Siddharth Mishra-Sharma (IAIFI Fellow), Lina Necib (MIT)
   date-added: 2023-07-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRELgySPSeP4oF0Xvvzv4nTbfzxJgxo3cSTimV1GYtFRdeZ7ED2m0HKlAdtAEoco5LSz7ZF20Yq5vRB/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/108X1fJim0IO67PRJNC8QVvvFnExS0HJ8XNgpQNtkDfE/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRELgySPSeP4oF0Xvvzv4nTbfzxJgxo3cSTimV1GYtFRdeZ7ED2m0HKlAdtAEoco5LSz7ZF20Yq5vRB/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/108X1fJim0IO67PRJNC8QVvvFnExS0HJ8XNgpQNtkDfE/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Theoretical Physics"
   title: "SHAPER: Can You Hear the Shape of a Jet?"
   authors: Demba Ba (Harvard, IAIFI), Akshunna S. Dogra (Imperial College London, Harvard, IAIFI), Rikab Gambhir (MIT, IAIFI), Abiy Tasissa (Tufts), Jesse Thaler (MIT, IAIFI)
   date-added: 2023-06-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTHv-3Y4OFNTH_3K-gRWkju9JVbRM3MJD6TwxU89rIWla47gkfAybKFj3r9A6NTWcLQ75iT4HkcZU8v/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1WxfS6vSuZUIm50LLOilWtXVJo_LkPiiC0_c0S2miySA/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTHv-3Y4OFNTH_3K-gRWkju9JVbRM3MJD6TwxU89rIWla47gkfAybKFj3r9A6NTWcLQ75iT4HkcZU8v/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1WxfS6vSuZUIm50LLOilWtXVJo_LkPiiC0_c0S2miySA/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Theoretical Physics"
   title: "Infinite Neural Network Quantum States"
   authors: Di Luo (IAIFI Fellow), James Halverson (Northeastern)
   date-added: 2023-05-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQ4lgfNM9jYhuuaksfPhkaUq-tX-dM_uuMh8xcpcDSguAGdyl9n4pqnOnBcYFCK9_5FCiHnbyDywcWe/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1NaUaC-4T9RJmdJbQ3KJ3eecwuC29iXuKjF8_SpHLZVk/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQ4lgfNM9jYhuuaksfPhkaUq-tX-dM_uuMh8xcpcDSguAGdyl9n4pqnOnBcYFCK9_5FCiHnbyDywcWe/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1NaUaC-4T9RJmdJbQ3KJ3eecwuC29iXuKjF8_SpHLZVk/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Foundational AI"
   title: "An Effective Theory of Representation Learning"
   authors: Ziming Liu, Ouail Kitouni, Niklas Nolte, Eric J. Michaud, Max Tegmark, Mike Williams (MIT, IAIFI)
   date-added: 2023-04-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQye1Ef8ZzrrbMQrOlRLjSltK2p3vEsfxG3dt0wn301w5m4k4flwI62pA5kC2eeESsvt1d1wn8aL7oq/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1H_y1WXnKN6-9brryTqro5GIUZyHlIpJRWU-Rob63QLA/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQye1Ef8ZzrrbMQrOlRLjSltK2p3vEsfxG3dt0wn301w5m4k4flwI62pA5kC2eeESsvt1d1wn8aL7oq/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1H_y1WXnKN6-9brryTqro5GIUZyHlIpJRWU-Rob63QLA/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Theoretical Physics"
   title: "Normalizing Flows for Lattice Quantum Field Theory"
   authors: Phiala Shanahan, Dan Hackett, Fernando Romero-Lopez, Julian Urban (MIT/IAIFI), Denis Boyda (incoming IAIFI fellow), Ryan Abbott (MIT), Kyle Cranmer (NYU), Michael Albergo (NYU), Danilo Rezende (Google DeepMind), Sebastien Racaniere (Google DeepMind)
   date-added: 2023-03-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTxqm4eag2o96if1Zo1Zm6ltYWGXYv67BEiUbHrezxbaJ8zxmUaPSMYnHTf7V-VLsAVgRcNFbQCWepA/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1cf6JP5k2YNUEHrQ87vB3t0krALNOAhrd-xlNgnpw4IU/edit?usp=share_link"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTxqm4eag2o96if1Zo1Zm6ltYWGXYv67BEiUbHrezxbaJ8zxmUaPSMYnHTf7V-VLsAVgRcNFbQCWepA/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1cf6JP5k2YNUEHrQ87vB3t0krALNOAhrd-xlNgnpw4IU/edit?usp=share_link"
 
 - type: "research-highlight"
   domain: "Astrophysics"
   title: "Strong Lensing Source Reconstruction"
   authors: Siddharth Mishra-Sharma, Ge Yang (IAIFI Fellows)
   date-added: 2023-02-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRYF59nkBxk9bdBfYgjsLbl5pXrZL9KwphARukIJyz_GxLvSsb8azcslpu7UlWyIEVQfDnqFEK2pwxA/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1qCkugEeZ2ugxYh3A24orNkpVyu17n5bbzP9GLTIDWzw/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRYF59nkBxk9bdBfYgjsLbl5pXrZL9KwphARukIJyz_GxLvSsb8azcslpu7UlWyIEVQfDnqFEK2pwxA/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1qCkugEeZ2ugxYh3A24orNkpVyu17n5bbzP9GLTIDWzw/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Experimental Physics"
   title: "Robust AI for Real-Time Applications"
   authors: Ouail Kitouni, Niklas Nolte, Blaise Delaney, Mike Williams (MIT, IAIFI)
   date-added: 2023-01-07
-  embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTSO7AOFVDltVLrFmNVL1nnqVETeVKtI3bo_c2vmKZELuehNIXel-BrrOIIl5qn02nW0xdrvvb1ltj4/embed?start=false&loop=false&delayms=3000"
-  view-link: "https://docs.google.com/presentation/d/1511jbQVJr96-eyXuhk32I4ahg3rxdK2jtp0SY1W-Iq8/edit?usp=sharing"
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTSO7AOFVDltVLrFmNVL1nnqVETeVKtI3bo_c2vmKZELuehNIXel-BrrOIIl5qn02nW0xdrvvb1ltj4/embed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1511jbQVJr96-eyXuhk32I4ahg3rxdK2jtp0SY1W-Iq8/edit?usp=sharing"

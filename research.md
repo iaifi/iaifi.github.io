@@ -129,12 +129,27 @@ By combining revolutionary advances in deep learning from AI with the time-teste
 
 ### {{highlight.title}}
 *{{highlight.authors}}*
+
+<details>
+<summary>Public Slide</summary>
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
-<iframe src="{{highlight.embed-link}}" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="{{highlight.public-embed-link}}" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-[View and download slide]({{highlight.view-link}})
+[View and download public slide]({{highlight.public-link}})
+</details>    
+
+<details>
+<summary>Technical Slide</summary>
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="{{highlight.technical-embed-link}}" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+[View and download technical slide]({{highlight.technical-link}})
+</details>
 {% endfor %}
 
