@@ -38,7 +38,7 @@ article_header:
       <a href="/about.html#research">
         <div class="card">
           <div class="card_image">
-          <img class="image" src="images/research-button-2025.png"/>
+          <img class="image" src="images/research-button-2026.png"/>
           </div>
             <div class="card_content">
               <div class="card_header">
@@ -55,7 +55,7 @@ article_header:
       <a href="/about.html#talent">
         <div class="card">
           <div class="card_image">
-          <img class="image" src="images/talent-button-2025.png"/>
+          <img class="image" src="images/talent-button-2026.png"/>
           </div>
             <div class="card_content">
               <div class="card_header">
@@ -72,7 +72,7 @@ article_header:
       <a href="/about.html#community">
         <div class="card">
           <div class="card_image">
-          <img class="image" src="images/community-button-2025.png"/>
+          <img class="image" src="images/community-button-2026.png"/>
           </div>
             <div class="card_content">
               <div class="card_header">

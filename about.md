@@ -45,7 +45,7 @@ aside:
       <center>
         <div class="card">
           <div class="card_image">
-          <img class="image" src="images/research-button-2025.png"/>
+          <img class="image" src="images/research-button-2026.png"/>
           </div>
             <div class="card_content">
             <font color="salmon">Pioneering interdisciplinary</font>
@@ -81,7 +81,7 @@ aside:
       <center>
         <div class="card">
           <div class="card_image">
-          <img class="image" src="images/talent-button-2025.png"/>
+          <img class="image" src="images/talent-button-2026.png"/>
           </div>
             <div class="card_content">
             <font color="green">Empowering the next generation of</font>
@@ -119,7 +119,7 @@ aside:
       <center>
         <div class="card">
           <div class="card_image">
-          <img class="image" src="images/community-button-2025.png"/>
+          <img class="image" src="images/community-button-2026.png"/>
           </div>
             <div class="card_content">
             <font color="darkorange">Building a dynamic</font>
