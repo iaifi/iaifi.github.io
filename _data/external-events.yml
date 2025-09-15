@@ -23,6 +23,30 @@
   calendar-link:
 
 - type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-09-14"
+  start-date-time: "2025-09-15 16:00"
+  end-date-time: "2025-09-15 17:00"
+  talk-location: "MIT Room 32-G882 (Hewlett) and Zoom"
+  talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Talk 1 Speaker: Aruna Sankaranarayanan (MIT) <br>Title: Activation Steering in Generative Settings via Contrastive Causal Mediation Analysis<br>Abstract: Where should we intervene on the internal activations of a large language model (LM) to control the naturalistic text it generates? Identifying effective steering locations in multi-token output settings is challenging because interventions can have complex, context-dependent effects, and evaluation often relies on costly human judgments or auxiliary models that provide only coarse feedback. To address this, we introduce contrastive causal mediation (CCM), a lightweight procedure for selecting steerable activation points by (1) constructing contrastive responses that succeed or fail in steering, (2) computing differences in generation probabilities, and (3) estimating the causal effect of hidden activations on these differences. We then situate CCM within a principled evaluation framework for representation engineering, which addresses four key desiderata: task-relevant contexts, consideration of model likelihoods, standardized comparisons across behaviors, and baseline methods. On 3 models, and across 3 task settings—refusal, bias-aware feedback, and style transfer, we conduct over 5400 experiments to show that CCM identifies effective intervention points under this recommended evaluation strategy. Together, these contributions demonstrate how combining causally grounded mechanistic interpretability with rigorous evaluation enables more effective and trustworthy control of large language models, even in naturalistic settings.<br><br>Talk 2 Speaker:  Justin Kay (MIT) <br>Title: Consensus-Driven Active Model Selection<br>Abstract: The widespread availability of off-the-shelf machine learning models poses a challenge: which model, of the many available candidates, should be chosen for a given data analysis task? This question of model selection is traditionally answered by collecting and annotating a validation dataset -- a costly and time-intensive process. We propose a method for active model selection, using predictions from candidate models to prioritize the labeling of test data points that efficiently differentiate the best candidate. Our method, CODA, performs consensus-driven active model selection by modeling relationships between classifiers, categories, and data points within a probabilistic framework. The framework uses the consensus and disagreement between models in the candidate pool to guide the label acquisition process, and Bayesian inference to update beliefs about which model is best as more information is collected. We validate our approach by curating a collection of 26 benchmark tasks capturing a range of model selection scenarios. CODA outperforms existing methods for active model selection significantly, reducing the annotation effort required to discover the best model by upwards of 70% compared to the previous state-of-the-art. Our contribution is part of a larger research goal of how to best utilize human effort in the AI development and deployment lifecycle; while much prior research has focused on this question at training time, our work highlights the outsized benefits of emphasizing label-efficiency at test time as well."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTI5NHAyZjdibXEwNzJhcDBjcHVlNWhzaTYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-09-14"
+  start-date-time: "2025-09-15 12:00"
+  end-date-time: "2025-09-15 13:00"
+  talk-location: "Phillips Auditorium, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Rocco di Tella (CfA) <br>Title: Where's Waldo? How Human Brains and Neural Networks look for stuff differently <br>Abstract:Visual Search is the process of deciding 'where to look next' in a context where the center of our visual field contains more information than the periphery. Convolutional feed-forward Neural Networks were inspired in how the visual cortex processes information, and kick-started the deep learning revolution when ImageNet was 'solved'. In this talk, we'll explore how CNNs structural similarity to the brain leads to unexpected similarity in higher order emergent behavior. Transformers instead are structured to maximally leverage modern parallel computing, focusing more on the physicality of GPUs rather than that of Neurons. Consequently, they produce richer semantic concepts, but in an alien manner. In this talk we'll talk about the computational modelling of human visual search as performed by the brain, by leveraging both by CNNs and transformers. Then, we'll talk about how some tools originally from neuroscience (SAEs and probes) can conversely be used to understand AI."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmZqM2toazJocGVkZjg2MDVwZmhjYm0wamUgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
   event-name: "AstroAI lunch seminar"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
