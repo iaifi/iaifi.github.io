@@ -9,7 +9,7 @@ show_title: false
 
 {% include_relative iaifi-reminder_header.html %}
 
-## Robert Jankowski: Thank you for attending the 2025 IAIFI Summer Workshop!
+## Daniel Conde: Thank you for attending the 2025 IAIFI Summer Workshop!
 
 Thank you for a great week of stimulating discussion at the [2025 IAIFI Summer Workshop](https://iaifi.org/summer-workshop)! 
 
