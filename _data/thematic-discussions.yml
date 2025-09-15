@@ -1,19 +1,19 @@
 - type: "thematic-discussion"
   semester: "fall-2025"
-  speaker-names-affiliations: "Speakers to be announced"
+  speaker-names-affiliations: "Gaia Grosso (2023-2026 Fellow), Thomas Harvey (2024-2027 Fellow), Sam Bright-Thonney (2024-2027 Fellow)"
   speaker-title:
   speaker-affiliation:
   speaker-website:
   speaker-photo-location:
-  start-date-time: "2025-10-17 15:00"
-  end-date-time: "2025-10-17 16:00"
+  start-date-time: "2025-11-07 14:00"
+  end-date-time: "2025-11-07 15:30"
   talk-location: "MIT Kolker Room, 26-414"
-  talk-title: "IAIFI Fellows Showcase"
-  talk-abstract: "This special lightning talk session will showcase several IAIFI Fellows discussing their research interests, current projects, and opportunities for collaboration."
+  talk-title: "IAIFI Fellows Showcase (followed by IAIFI Fall Social, 4:00–6:00 pm)"
+  talk-abstract: "This special lightning talk session will showcase three IAIFI Fellows discussing their research interests, current projects, and opportunities for collaboration. The showcase will be followed by the IAIFI Fall social from 4:00–6:00 pm (details to come)."
   slides-link:
   youtube-link:
-  speaker-thrust:
-  speaker-gender:
+  speaker-thrust: "All"
+  speaker-gender: "All"
   talk-attendance-in-person:
   talk-attendance-virtual:
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNTEwMTdUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
@@ -21,7 +21,7 @@
 
 - type: "thematic-discussion"
   semester: "fall-2025"
-  speaker-names-affiliations: "Speakers to be announced"
+  speaker-names-affiliations: "Ashley Villar (Harvard), Bill Freeman (MIT), Fabian Ruehle (Northeastern), Lina Necib (MIT), Lisa Barsotti (MIT), Liu Ziyin (MIT), Matt LeBlanc (Brown), Matthew Schwartz (Harvard), Mike Williams (MIT), Phiala Shanahan (MIT), Robin Walters (Northeastern), Sudhir Malik (University of Puerto Rico at Mayagüez), Tracy Slatyer (MIT), Vidya Manian (University of Puerto Rico at Mayagüez)"
   speaker-title:
   speaker-affiliation:
   speaker-website:
@@ -30,18 +30,18 @@
   end-date-time: "2025-09-19 15:00"
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "IAIFI Mini-Symposium with Senior Investigators and Affiliates"
-  talk-abstract: "IAIFI Senior Investigators and Affiliates will present lightning talks on their work, with the goal to spark collaborations across IAIFI. Refreshments will be provided!"
+  talk-abstract: "IAIFI Senior Investigators and Affiliates will present 2-minute overview talks on their research, with the goal to spark collaborations across IAIFI. Refreshments will be provided!"
   slides-link:
   youtube-link:
-  speaker-thrust:
-  speaker-gender:
+  speaker-thrust: "All"
+  speaker-gender: "All"
   talk-attendance-in-person:
   talk-attendance-virtual:
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNTA5MTlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   
 - type: "thematic-discussion"
   semester: "fall-2025"
-  speaker-names-affiliations: "Speakers to be announced"
+  speaker-names-affiliations: "Clara Marty (MIT), Felix Yu (Harvard), Julia Balla (MIT), Kate Richardson (MIT), Richard Li (MIT), Ryan Lopez (MIT), Teddy Koker (MIT), and Zhuo Chen (MIT)"
   speaker-title:
   speaker-affiliation:
   speaker-website:
@@ -50,12 +50,12 @@
   end-date-time: "2025-09-19 16:00"
   talk-location: "IAIFI Penthouse, MIT 26-648"
   talk-title: "Junior Member Poster Session"
-  talk-abstract: "After the Mini-Symposium, junior members will present posters on their work at the IAIFI Penthouse. Sign up to present a poster at the link below! Refreshments will be provided."
-  rsvp-link: https://app.smartsheet.com/b/form/019910ab67ed756f97a8180b2a1f6da3
+  talk-abstract: "After the Mini-Symposium, junior members will present posters on their work at the IAIFI Penthouse. Refreshments will be provided!"
+  rsvp-link:
   slides-link:
   youtube-link:
-  speaker-thrust:
-  speaker-gender:
+  speaker-thrust: "All"
+  speaker-gender: "All"
   talk-attendance-in-person:
   talk-attendance-virtual:
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2RzbWs5cGRvZWIyY2J0YXU5MjRtanFuMmYgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com

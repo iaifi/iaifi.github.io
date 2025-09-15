@@ -129,12 +129,107 @@ By combining revolutionary advances in deep learning from AI with the time-teste
 
 ### {{highlight.title}}
 *{{highlight.authors}}*
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
-<div class="responsive-wrap">
-<iframe src="{{highlight.embed-link}}" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<div class="tabs-container">
+
+  <!-- Tab buttons -->
+  <div class="tabs">
+    {% if highlight.overview-embed-link %}
+    <button class="tab active" onclick="openTab(event, 'overview-{{forloop.index}}')">
+      Overview Slide
+    </button>
+    <button class="tab" onclick="openTab(event, 'technical-{{forloop.index}}')">
+      Technical Slide
+    </button>
+    {% else %}
+    <button class="tab active" onclick="openTab(event, 'technical-{{forloop.index}}')">
+      Technical Slide
+    </button>
+    {% endif %}
+  </div>
+
+  <!-- Overview Slide content (only if it exists) -->
+  {% if highlight.overview-embed-link %}
+  <div id="overview-{{forloop.index}}" class="tab-content active">
+    <div class="responsive-wrap">
+      <iframe src="{{highlight.overview-embed-link}}" frameborder="0" width="960" height="569"
+              allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
+    </div>
+    <a href="{{highlight.overview-link}}" target="_blank">View and download overview slide</a>
+  </div>
+  {% endif %}
+
+  <!-- Technical Slide content -->
+  <div id="technical-{{forloop.index}}" class="tab-content {% unless highlight.overview-embed-link %}active{% endunless %}">
+    <div class="responsive-wrap">
+      <iframe src="{{highlight.technical-embed-link}}" frameborder="0" width="960" height="569"
+              allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
+    </div>
+    <a href="{{highlight.technical-link}}" target="_blank">View and download technical slide</a>
+  </div>
+
 </div>
-[View and download slide]({{highlight.view-link}})
+
 {% endfor %}
+
+<style>
+/* Tabs container */
+.tabs {
+  display: flex;
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 0.5rem;
+}
+
+/* Tab buttons */
+.tab {
+  flex: 1;
+  padding: 0.5rem;
+  border: none;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  background: #f9f9f9;
+  font-size: 1rem;
+  transition: background 0.2s, border-bottom 0.2s;
+}
+
+.tab:hover {
+  background: #eee;
+}
+
+.tab.active {
+  font-weight: bold;
+  background: #fff;
+  border-bottom: 2px solid #007acc; /* highlight color */
+}
+
+/* Tab content */
+.tab-content {
+  display: none;
+  padding: 0.5rem 0;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+/* Responsive iframe wrapper */
+.responsive-wrap iframe {
+  max-width: 100%;
+}
+</style>
+
+<script>
+function openTab(evt, tabId) {
+  const container = evt.currentTarget.closest(".tabs-container");
+
+  // Reset all tabs in this container
+  container.querySelectorAll(".tab").forEach(tab => tab.classList.remove("active"));
+  container.querySelectorAll(".tab-content").forEach(c => c.classList.remove("active"));
+
+  // Activate selected tab + content
+  evt.currentTarget.classList.add("active");
+  container.querySelector("#" + tabId).classList.add("active");
+}
+</script>
+
 
