@@ -5,8 +5,8 @@
   date-added: 2025-09-01
   technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRcjglo--xV1jNr8Zb--NCo8KexMIgAUOV-0FAjh3Nkr0vyRKV0Rfk5hfbINSdvG7aAuAXjN_bIDYNZ/pubembed?start=false&loop=false&delayms=3000"
   technical-link: "https://docs.google.com/presentation/d/1dyOuyJ8Bu7UDj0e6m6WT5QnGrAuZsQZ1MlnBLfMuT-U/edit?usp=sharing"
-  public-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTVkHT3MQUMdgHdIcTviIX58YtvHVP1P5RYeb3lZYGmeZeEQcMKl7ocFMKtbJSugT7ylFmY3BHgvWuc/pubembed?start=false&loop=false&delayms=3000"
-  public-link: "https://docs.google.com/presentation/d/15zSW_vja6BJKKsMKw9Ha_4douadfsOs_fXeMgJm3to0/edit?usp=sharing"
+  overview-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTVkHT3MQUMdgHdIcTviIX58YtvHVP1P5RYeb3lZYGmeZeEQcMKl7ocFMKtbJSugT7ylFmY3BHgvWuc/pubembed?start=false&loop=false&delayms=3000"
+  overview-link: "https://docs.google.com/presentation/d/15zSW_vja6BJKKsMKw9Ha_4douadfsOs_fXeMgJm3to0/edit?usp=sharing"
 
 - type: "research-highlight"
   domain: "Foundational AI"
@@ -15,8 +15,8 @@
   date-added: 2025-07-01
   technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vR1eudS1A2doo_Hllu-GLB7eyEwKRPWzGo2tXdGhojAcTdnpHJ9igMBOBomF2UMFbUibjYceOpfz5nV/pubembed?start=false&loop=false&delayms=3000"
   technical-link: "https://docs.google.com/presentation/d/1LCPQgny6FvM5n3w_wdclPpJstCQFiI-g2-olVi219NI/edit?usp=sharing"
-  public-embed-link:
-  public-link:
+  overview-embed-link:
+  overview-link:
 
 - type: "research-highlight"
   domain: "Foundational AI"
