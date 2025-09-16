@@ -18,6 +18,12 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 [View recordings from the 2025 Workshop](https://youtube.com/playlist?list=PLBY0ED2StbGYicBdodtC3QqVVnwhr758-&feature=shared)
 
+**Many of the videos from the 2025 IAIFI Summer Workshop are now [posted on the IAIFI YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGYicBdodtC3QqVVnwhr758-&feature=shared).**
+{:.info} 
+
+**Many of the speakers' slides from the 2025 IAIFI Summer Workshop are now [available online](https://drive.google.com/drive/folders/1lpw1hYCvnaUk00ta7sJMGpNVORR5Y8EC?usp=drive_link).** 
+{:.info} 
+
 
 ## Agenda
 
