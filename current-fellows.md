@@ -10,16 +10,10 @@ aside:
 {:.success}
 --->
 
-## 2025–2027/2028 IAIFI and Tayebati Fellows
+## 2025–2027/2028 IAIFI Fellows
 
-We are happy to have the opportunity this year to partner with the MIT Schwarzman College of Computing through their inaugural [Tayebati Fellowship](https://computing.mit.edu/tayebati-postdoctoral-fellowship-program/).
-
-### [Congyue Deng](mailto:congyue@stanford.edu) (Tayebati Fellow)
-<img src="images/small-photo-congyue-deng.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
-
-**Research Interests**: Congyue Deng’s research interests include 3D computer vision and geometric deep learning. Her work focuses on designing feature representations for visual understanding that incorporate symmetries and geometric relations. In the short term, she aims to integrate geometric representation learning into generative models to better capture the low-dimensional manifold structure of data distributions, with a particular focus on applications in physical learning. In the long term, she seeks to uncover geometric structures from data to inform the design of inductive biases in neural networks.
-
-**Biographical Sketch**: Congyue Deng is completing her Ph.D. in Computer Science at Stanford University. She received her B.S. in Mathematics from Tsinghua University in 2020 with the top GPA in her class (1/114). In addition to her involvement with IAIFI, she is a Tayebati Postdoctoral Fellow at the MIT Schwarzman College of Computing. She is also a recipient of the CPAL Rising Star Award in 2025.
+<!---We are happy to have the opportunity this year to partner with the MIT Schwarzman College of Computing through their inaugural [Tayebati Fellowship](https://computing.mit.edu/tayebati-postdoctoral-fellowship-program/).
+--->
 
 ### [Berthy Feng](mailto:berthyf96@gmail.com) (IAIFI/Tayebati Fellow)
 <img src="images/small-photo-berthy-feng.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
@@ -38,7 +32,7 @@ We are happy to have the opportunity this year to partner with the MIT Schwarzma
 
 ## 2024-2027 IAIFI Fellows
 
-### [Michael Albergo](mailto:michaelsalbergo@gmail.com)
+### [Michael Albergo](mailto:michaelsalbergo@gmail.com) (IAIFI Fellow and Junior Fellow at the Society of Fellows at Harvard)
 <img src="images/small-photo-michael-albergo.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Michael Albergo has broad interests at the intersection of generative modeling and statistical physics, with a focus on designing machine learning methods to advance scientific computing. To explore these topics, he relies on tools from machine learning, applied probability, and numerical analysis. Along the way, he is curious how these new methods can be applied to various topics across the sciences and beyond.
