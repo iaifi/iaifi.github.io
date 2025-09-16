@@ -123,7 +123,7 @@ By combining revolutionary advances in deep learning from AI with the time-teste
 --->
 
 ## Monthly Research Highlights
-Each month, we are highlighting a project from an IAIFI team to illustrate the range of innovative and collaborative research IAIFI Investigators are conducting at the intersection of AI and physics.
+*Each month, we are highlighting a project from an IAIFI team to illustrate the range of innovative and collaborative research IAIFI Investigators are conducting at the intersection of AI and physics.*
 
 {% assign highlights = site.data.research-highlights | sort: "date-added" | reverse %}
 {% for highlight in highlights %}
