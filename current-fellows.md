@@ -32,7 +32,7 @@ aside:
 
 ## 2024-2027 IAIFI Fellows
 
-### [Michael Albergo](mailto:michaelsalbergo@gmail.com) (IAIFI Fellow and Junior Fellow at the Society of Fellows at Harvard)
+### [Michael Albergo](mailto:michaelsalbergo@gmail.com) (IAIFI Fellow/Harvard Society of Fellows)
 <img src="images/small-photo-michael-albergo.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Michael Albergo has broad interests at the intersection of generative modeling and statistical physics, with a focus on designing machine learning methods to advance scientific computing. To explore these topics, he relies on tools from machine learning, applied probability, and numerical analysis. Along the way, he is curious how these new methods can be applied to various topics across the sciences and beyond.
