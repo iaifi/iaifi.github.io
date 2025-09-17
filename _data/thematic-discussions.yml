@@ -18,6 +18,26 @@
   talk-attendance-virtual:
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGw1NTA2Zm5kcGk1YXZvOW1ya2s2cWY4c2VfMjAyNTEwMTdUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   priority: high
+  
+- type: "thematic-discussion"
+  semester: "fall-2025"
+  speaker-names-affiliations: "Speakers to be announced"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2025-10-17 14:00"
+  end-date-time: "2025-10-17 15:00"
+  talk-location: "MIT Kolker Room, 26-414"
+  talk-title: "Title to come"
+  talk-abstract: "Details to come"
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person:
+  talk-attendance-virtual:
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2RlNGg0bTNubHQxYTg3b2Q3bDZ2NHFvY2YgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
 
 - type: "thematic-discussion"
   semester: "fall-2025"

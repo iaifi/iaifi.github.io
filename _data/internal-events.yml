@@ -21,16 +21,174 @@
   talk-location: "Venue to be announced"
   talk-zoom:
   event-details: "IAIFI will have its semesterly social on the evening of Friday, November 7, 2025! Food and beverages will be provided. This will be a great opportunity to network with the community after the IAIFI Fellows Showcase."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNTEwMTdUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNTEwMTdUMTkwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
   attendance-in-person:
   attendance-virtual:
   priority: high
   
+- type: "social"
+  event-name: "IAIFI Pizza and Game Night"
+  event-committee: "Community Building"
+  event-post-date: "2025-10-19"
+  start-date-time: "2025-10-31 17:00"
+  end-date-time: "2025-10-31 19:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmpkYTJhZmRmMWNuMWtvcjE1bXRhYWlpdW0gcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Co-Working Session"
+  event-committee: "Community"
+  event-post-date: "2025-10-19"
+  start-date-time: "2025-10-31 14:00"
+  end-date-time: "2025-10-31 17:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "This will be an informal afternoon with pizza, refreshments, and board games. Anyone in IAIFI will be free to come and go throughout the event, to have lunch, co-work, or socialize with other people in the IAIFI community."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N25uMmd2ZDRxcXJqcHJuZHA2cTBtOTNncW8gcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2025-10-26"
+  start-date-time: "2025-10-29 10:00"
+  end-date-time: "2025-10-29 11:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTEwMjlUMTQwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2025-10-19"
+  start-date-time: "2025-10-22 10:00"
+  end-date-time: "2025-10-22 11:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTEwMjJUMTQwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+
+  
+- type: "social"
+  event-name: "Post-Discussion Social"
+  event-committee: "Community"
+  event-post-date: "2025-10-05"
+  start-date-time: "2025-10-17 15:00"
+  end-date-time: "2025-10-17 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After today's Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzJyMGk2ampnczFlMGE2NG1ydXU3dTdyYmQgY18yMjljMGQ0NzExYjJlNjgzOGI4NTZlZjEyN2E2NjJmMWJhODU1ZGZmOWU2NWE4MWJlMWQ1MTkyOGJkNDIwZWM4QGc&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2025-10-12"
+  start-date-time: "2025-10-15 10:00"
+  end-date-time: "2025-10-15 11:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTEwMTVUMTQwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Colloquium Social"
+  event-committee: "Community"
+  event-post-date: "2025-09-28"
+  start-date-time: "2025-10-10 15:00"
+  end-date-time: "2025-10-10 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "After today's colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNTEwMTBUMTkwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Grad Student and Postdoc Networking Lunch with Colloquium Speaker"
+  event-committee: "Community"
+  event-post-date: "2025-09-28"
+  start-date-time: "2025-10-10 12:30"
+  end-date-time: "2025-10-10 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "IAIFI graduate students and postdocs are invited to this informal, catered networking meetup with IAIFI's colloquium speaker Peter Lu (Tufts University), a former IAIFI Junior Investigator who is now an Assistant Professor at Tufts! Lunch and refreshments will be provided."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNTEwMTBUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2025-10-05"
+  start-date-time: "2025-10-08 10:00"
+  end-date-time: "2025-10-08 11:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTEwMDhUMTQwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  
+- type: "social"
+  event-name: "IAIFI+CSAIL Pizza and Game Night"
+  event-committee: "Community"
+  event-post-date: "2025-09-21"
+  start-date-time: "2025-10-03 18:00"
+  end-date-time: "2025-10-03 20:00"
+  talk-location: "Location to be announced"
+  talk-zoom:
+  event-details: "IAIFI is collaborating with CSAIL for an exciting social event including board games, dinner, and snacks! This event is family friendly, so feel free to bring significant others and kids. Feel free to bring any games you'd like to contribute! This will be a great opportunity to network with both the IAIFI and CSAIL opportunities while enjoying fun activities."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWxhcGM3OHE3ZnZkZWFwZDlhMG5tajdkdGVfMjAyNTEwMDNUMjEwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com&scp=ALL"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Co-Working Session"
+  event-committee: "Community"
+  event-post-date: "2025-09-21"
+  start-date-time: "2025-10-03 14:00"
+  end-date-time: "2025-10-03 17:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "This will be an informal afternoon with pizza, refreshments, and board games. Anyone in IAIFI will be free to come and go throughout the event, to have lunch, co-work, or socialize with other people in the IAIFI community."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWlyN29xMG5vaTUzY3RkaXJjZXRjNmh1c2EgY18yMjljMGQ0NzExYjJlNjgzOGI4NTZlZjEyN2E2NjJmMWJhODU1ZGZmOWU2NWE4MWJlMWQ1MTkyOGJkNDIwZWM4QGc&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
 - type: "industry-lunch"
   event-name: "Industry Lunch with Trevor McCourt (Extropic)"
-  event-committee: "Industry Partnership"
+  event-committee: "Talent"
   event-post-date: "2025-03-23"
   start-date-time: "2025-10-03 12:30"
   end-date-time: "2025-10-03 13:30"
@@ -45,7 +203,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building"
+  event-committee: "Community"
   event-post-date: "2025-09-28"
   start-date-time: "2025-10-01 10:00"
   end-date-time: "2025-10-01 11:00"
@@ -58,7 +216,7 @@
   
 - type: "social"
   event-name: "Post-Colloquium Social"
-  event-committee: "Community Building"
+  event-committee: "Community"
   event-post-date: "2025-09-14"
   start-date-time: "2025-09-26 15:00"
   end-date-time: "2025-09-26 16:00"
@@ -73,7 +231,7 @@
 
 - type: "social"
   event-name: "IAIFI Grad Student and Postdoc Networking Lunch with Colloquium Speaker"
-  event-committee: "Community Building"
+  event-committee: "Community"
   event-post-date: "2025-09-14"
   start-date-time: "2025-09-26 12:30"
   end-date-time: "2025-09-26 13:30"
@@ -88,7 +246,7 @@
 
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building"
+  event-committee: "Community"
   event-post-date: "2025-09-21"
   start-date-time: "2025-09-24 10:00"
   end-date-time: "2025-09-24 11:00"
@@ -101,7 +259,7 @@
   
 - type: "internal-other"
   event-name: "Cambridge Science Carnival 2025"
-  event-committee: "Public Engagement"
+  event-committee: "Community"
   event-post-date: "2025-09-07"
   start-date-time: "2025-09-21 12:00"
   end-date-time: "2025-09-21 16:00"
@@ -109,7 +267,7 @@
   talk-zoom:
   event-details: "IAIFI is excited to participate for the fourth year in a row at the Cambridge Science Festival! We will run a booth with interactive activites at the Cambridge Science Carnival on September 21 in the Kendall/MIT Open Space that exemplify the intersection of AI and physics. RSVP below if you would like to sign up to help."
   calendar-link:
-  rsvp-link: https://app.smartsheet.com/b/form/0198ae83c0a57ba39791ec5d5b3434f9
+  rsvp-link:
   more-info-link: https://cambridgesciencefestival.org/
   priority:
 
@@ -143,7 +301,7 @@
 
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building"
+  event-committee: "Community"
   event-post-date: "2025-09-14"
   start-date-time: "2025-09-17 10:00"
   end-date-time: "2025-09-17 11:00"
@@ -156,7 +314,7 @@
   
 - type: "social"
   event-name: "Post-Colloquium Social"
-  event-committee: "Community Building"
+  event-committee: "Community"
   event-post-date: "2025-08-31"
   start-date-time: "2025-09-12 15:00"
   end-date-time: "2025-09-12 16:00"
@@ -171,7 +329,7 @@
   
 - type: "social"
   event-name: "IAIFI Grad Student and Postdoc Networking Lunch with Colloquium Speaker"
-  event-committee: "Community Building"
+  event-committee: "Community"
   event-post-date: "2025-08-31"
   start-date-time: "2025-09-12 12:30"
   end-date-time: "2025-09-12 13:30"
@@ -181,12 +339,12 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2QzczFmamdoN2t1MXBwb2thNHRpaXVqOTkgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
-  attendance-in-person:
+  attendance-in-person: 12
   attendance-virtual:
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community Building"
+  event-committee: "Community"
   event-post-date: "2025-09-07"
   start-date-time: "2025-09-10 10:00"
   end-date-time: "2025-09-10 11:00"
@@ -199,7 +357,7 @@
 
 - type: "social"
   event-name: "IAIFI Pizza and Game Night"
-  event-committee: "Community Building"
+  event-committee: "Community"
   event-post-date: "2025-08-24"
   start-date-time: "2025-09-05 17:00"
   end-date-time: "2025-09-05 19:00"
