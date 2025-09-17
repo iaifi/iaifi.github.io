@@ -22,7 +22,7 @@ aside:
 
 **Biographical Sketch**: Berthy Feng is completing her PhD in Computing and Mathematical Sciences at Caltech, where she is advised by Prof. Katie Bouman. She received her undergraduate degree in Computer Science at Princeton University. Berthy grew up in the suburbs of Cleveland, Ohio, and enjoys playing guitar, playing tennis, and going for runs in her free time.
 
-### [Mathis Gerdes](mailto:m.gerdes@uva.nl) (IAIFI Fellow)
+### [Mathis Gerdes](mailto:m.gerdes@uva.nl)
 <img src="images/small-photo-mathis-gerdes.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Mathis Gerdes is interested in developing machine learning tools to address foundational challenges in theoretical physics. His work focuses on complex sampling problems, applying generative models to lattice quantum field theory and exploring how physical principles can inform advancements in machine learning. He has pioneered methods for learning Ricci-flat metrics on Calabi-Yau manifolds and contributed to simulation-based inference techniques for studying stellar streams, which may provide insights into the distribution of dark matter in the galaxy.
