@@ -1,3 +1,45 @@
+- type: "forum"
+  event-name: "IAIFI Talent Forum"
+  event-committee: ""
+  event-post-date: "2025-09-21"
+  start-date-time: "2025-09-24 12:00"
+  end-date-time: "2025-09-24 13:00"
+  talk-location: "Zoom"
+  talk-zoom: https://mit.zoom.us/j/93434176251?pwd=zD9grb7X6eoabIRrZ62MmCP47FgyJh.1
+  event-details: "The IAIFI Talent Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to empowering the next generation of AI+Physics talent, including career support, mentoring, computing resources, etc."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzZoa3VqaGF0cDg4aW42Nm4xaTN2OXU1NDMgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link: https://docs.google.com/document/d/1iXjgoch8ovxIqbZTooCzR6HHG76iGykJP5PuTUWRcyw/edit?usp=sharing
+  priority: high
+  
+- type: "forum"
+  event-name: "IAIFI Community Forum"
+  event-committee: ""
+  event-post-date: "2025-09-21"
+  start-date-time: "2025-09-25 11:00"
+  end-date-time: "2025-09-25 12:00"
+  talk-location: "Zoom"
+  talk-zoom: https://mit.zoom.us/j/93955670791?pwd=sTjnl6p9WTPRbmEFnTLMSgux5BZGl4.1
+  event-details: "The IAIFI Community Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to building a dynamic AI+Physics community, including social events, industry-academia collaboration, public engagement, etc."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjM1ZTBmZnQxZ21yZmQ5NWZqazZna2xqMmsgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link: https://docs.google.com/document/d/1Rht-4gEcX-yStVuzDKLNZYE9U_3FQgDp_lA9eURZwD8/edit?usp=sharing
+  priority: high
+  
+- type: "forum"
+  event-name: "IAIFI Research Forum"
+  event-committee: ""
+  event-post-date: "2025-09-21"
+  start-date-time: "2025-09-29 11:00"
+  end-date-time: "2025-09-29 12:00"
+  talk-location: "Zoom"
+  talk-zoom: https://mit.zoom.us/j/95219855298
+  event-details: "The IAIFI Research Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to pioneering interdisciplinary AI+Physics research, including thematic discussions, facilitating collaborations, optimizing reporting, etc."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWphOWl0N2YzZGMybDNlc2ZkNmpjYmtjOWogcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link: https://docs.google.com/document/d/1vKdVzDqEZjWuNc54qTf1sFWoHOTNmHGTpeSgMmtJeGY/edit?usp=sharing
+  priority: high
+
 - type: "internal-workshop"
   event-name: "AI4EIC Workshop"
   event-committee: ""
@@ -194,7 +236,7 @@
   end-date-time: "2025-10-03 13:30"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
-  event-details: "More details to come."
+  event-details: "Trevor McCourt, who was formerly a PhD student in the Research Labratory of Electronics under Ike Chuang, will talk about the categorically different types of research opportunities that exist at startups as compared to academia. Lunch and refreshments will be provided."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNTEwMDNUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link:
   more-info-link: https://www.linkedin.com/in/mccourttrevor/
@@ -256,20 +298,6 @@
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=dnJ0MWNxc3Ywc2JrNTFqNWV2ZTdlZTIzdTRfMjAyNTA5MjRUMTQwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
   rsvp-link:
   more-info-link:
-  
-- type: "internal-other"
-  event-name: "Cambridge Science Carnival 2025"
-  event-committee: "Community"
-  event-post-date: "2025-09-07"
-  start-date-time: "2025-09-21 12:00"
-  end-date-time: "2025-09-21 16:00"
-  talk-location: "Kendall/MIT Open Space"
-  talk-zoom:
-  event-details: "IAIFI is excited to participate for the fourth year in a row at the Cambridge Science Festival! We will run a booth with interactive activites at the Cambridge Science Carnival on September 21 in the Kendall/MIT Open Space that exemplify the intersection of AI and physics. RSVP below if you would like to sign up to help."
-  calendar-link:
-  rsvp-link:
-  more-info-link: https://cambridgesciencefestival.org/
-  priority:
 
 - type: "internal-workshop"
   event-name: "Symposium on the Impact of Generative AI in the Physical Sciences"

@@ -29,11 +29,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Is attention all you need to solve the correlated electron problem?"
   talk-abstract: "The attention mechanism has transformed artificial intelligence research by its ability to learn relations between objects. In this work, we explore how a many-body wavefunction ansatz constructed from a many-parameter self-attention neural network can be used to solve the interacting electron problem in solids. By a systematic neural-network variational Monte Carlo study on a moire quantum material, we demonstrate that the self-attention ansatz provides an accurate and efficient solution without human bias. Moreover, our numerical study finds that the required number of variational parameters scales roughly as N 2 with the number of electrons, which opens a path towards efficient large-scale simulations. References: Physical Review B 112 (4), 045119; arXiv:2509.03683"
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1NAYZ8iZIRuVqL00Jf_F6eQgaF5YeOW_z/view?usp=sharing
   youtube-link:
   speaker-thrust: "physics theory"
   speaker-gender: "man"
-  talk-attendance:  0 in person, 0 virtual
+  talk-attendance:  5 in person, 2 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTA5MTdUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
