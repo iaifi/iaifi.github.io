@@ -10,6 +10,42 @@
   event-details: "The APS Global Physics Summit is the largest physics research conference in the world, uniting 14,000 scientific community members across all disciplines of physics. This meeting reflects the inclusivity and synergy of many physics disciplines and emerging cross-disciplinary areas of science, which perfectly reflects this year's theme of Science for a Shared Future. **The call for abstracts is open, and will close on October 8, 2025.**"
   calendar-link:
   
+- type: "external-workshop"
+  event-name: "Workshop on Neural Simulation-Based Inference"
+  event-organizer: "Ann Lee and Mikael Kuusela on behalf of STAMPS@CMU"
+  more-info-link: "https://www.cmu.edu/dietrich/statistics-datascience/stamps/workshop/index.html"
+  event-post-date: "2025-09-21"
+  start-date-time: "2025-10-04 09:00"
+  end-date-time: "2025-10-05 17:00"
+  talk-location: "CMU Campus, Pittsburgh, PA"
+  talk-zoom:
+  event-details: "The Statistical Methods for the Physical Sciences (STAMPS) Research Center at Carnegie Mellon University is organizing a weekend workshop on neural simulation-based inference on October 4-5, 2025. The workshop will take place in person at the CMU campus in Pittsburgh. A webcast for remote participants will also be available."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-09-21"
+  start-date-time: "2025-09-22 12:00"
+  end-date-time: "2025-09-22 13:00"
+  talk-location: "P-108A video wall, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker 1: Constança Tropa (CfA/ETH) <br>Title: Probabilistic reconstruction of 3D peculiar velocity fields <br>Abstract:To study the properties of dark matter, we often turn to galaxies as a probe of the underlying matter density field. Beyond the expansion of the universe, the motions of galaxies are driven by the gravity of the surrounding structure. This peculiar velocity produces an additional Doppler shift in the observed redshift, introducing anisotropies in the clustering signal along the line of sight. If we know the peculiar velocities of the galaxies, we can correct for these redshift-space distortions and recover their positions in real space, allowing us to probe the underlying dark matter distribution more directly.<br>We present a framework that employs generative ML models to reconstruct these velocity fields while marginalising over parameters such as the growth rate and linear galaxy bias. Our dataset consists of 2000 QUIJOTE N-body simulations with varying cosmologies. We use normalising flows to estimate posterior distributions for Ωm, σ8, and the linear bias. We test how strongly different tracers constrain the posterior distribution, comparing summary statistics to full 3D fields, both in real and redshift space. We then make use of a diffusion model with a U-Net architecture to reconstruct velocities on small scales. Our model learns the flow that maps large-scale velocities, predicted from linear theory, onto non-linear small scales. Information on these small scales is incorporated by conditioning on the galaxy overdensity field. By sampling multiple realizations of the predicted fields, we capture the uncertainty in the peculiar motions of galaxies and therefore in their positions. <br><br>Speaker 2: Lea Heckmann (CNRS Paris)<br>Title: Statistical and Computational Advances in Blazar Studies: Leveraging Multi-Wavelength and Multi-Messenger Data<br>Abstract: Blazars are prime objects to investigate in the current multi-messenger era. Even though they have been studied for decades, we are still deciphering their underlying emission and acceleration mechanisms. In this talk, I would like to introduce two projects using novel methodologies to better exploit multi-messenger data of blazars.<br>The first project tests whether unsupervised learning applied on multiwavelength lightcurves  can identify emission states of blazars in a more unbiased way as done with current methods. Using extreme deconvolution, a Gaussian mixture model taking into account uncertainties on the input data, we test this approach on the long-term multiwavelength lightcurve of the blazar Mrk 501 and identify a range of emission states from high to low activity. Notably, we observe a distinctive relationship between radio and high-energy fluxes, suggesting the presence of multiple emission zones.<br>The second project aims to improve the connection between observational data with complex theoretical modeling. We are building a novel, user-friendly multi-messenger fitting approach built on the open-source package Gammapy. Our framework brings together observations from optical to very-high-energy gamma rays and operates directly on instrumental counts. However, its expansion to more complex theoretical models, such as the ones involving hadronic processes, challenges computation resources and times. To address this, we plan to explore machine learning techniques as a more efficient alternative to our current approach, which relies on parameter grids and interpolation."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzZtbHZibG1qbTRkaWlmZDRkcXR2aWxhdG8gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-09-21"
+  start-date-time: "2025-09-22 16:00"
+  end-date-time: "2025-09-22 17:00"
+  talk-location: "MIT Room 32-G882 (Hewlett) and Zoom"
+  talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker: Runzhong Wang <br>Title: Bridging machine learning and optimization with computational metabolomics<br>Abstract: Solving hard optimization problems has been a longstanding challenge in computer science and beyond. Machine learning-based solvers turned out to be a promising direction, where problem patterns with certain distributions are captured to facilitate faster and more accurate problem-solving. We studied the theory and methodology of machine learning solvers for permutation-based combinatorial optimization and demonstrated the superiority of machine learning over existing methods. Going beyond, we transferred the insights to a long-standing problem in science with combinatorial nature—inferring molecular structures from liquid chromatography tandem mass spectrometry, a current bottleneck in computational metabolomics. We developed neural networks for in silico fragmentation, surpassing existing approaches by a significant margin, achieving 40% accuracy for annotating the exact structure as the top prediction and 92% accuracy in top 10. We demonstrated the utility of our approach in life science, environmental science, chemistry, and biology by real-world case studies. We expect the continuation of the research will not only enable new capabilities in science but also establish new insights in machine learning research."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDltdmN1ZDVjdWtyOGQybHQ0Mmxna3VidnAgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
 - type: "external-event"
   event-name: "Geometry of Machine Learning Special Lecture: Yann LeCun"
   event-organizer: "Michael Douglas (CMSA, IAIFI Affiliate) and Mike Freedman (CMSA)"

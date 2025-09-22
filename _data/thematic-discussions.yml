@@ -41,7 +41,7 @@
 
 - type: "thematic-discussion"
   semester: "fall-2025"
-  speaker-names-affiliations: "Ashley Villar (Harvard), Bill Freeman (MIT), Fabian Ruehle (Northeastern), Lina Necib (MIT), Lisa Barsotti (MIT), Liu Ziyin (MIT), Matt LeBlanc (Brown), Matthew Schwartz (Harvard), Mike Williams (MIT), Phiala Shanahan (MIT), Robin Walters (Northeastern), Sudhir Malik (University of Puerto Rico at Mayagüez), Tracy Slatyer (MIT), Vidya Manian (University of Puerto Rico at Mayagüez)"
+  speaker-names-affiliations: "Mike Williams (MIT), Lisa Barsotti (MIT), Sudhir Malik (UPRM), Matt Schwartz (Harvard), Matt LeBlanc (Brown), Phiala Shanahan (MIT), Fabian Ruehle (Northeastern), Ashley Villar (Harvard), Lina Necib (MIT), Tracy Slatyer (MIT), Robin Walters (Northeastern), Vidya Manian (UPRM), Liu Ziyin (MIT), Bill Freeman (MIT)"
   speaker-title:
   speaker-affiliation:
   speaker-website:
@@ -51,8 +51,8 @@
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "IAIFI Mini-Symposium with Senior Investigators and Affiliates"
   talk-abstract: "IAIFI Senior Investigators and Affiliates will present 2-minute overview talks on their research, with the goal to spark collaborations across IAIFI. Refreshments will be provided!"
-  slides-link:
-  youtube-link:
+  slides-link: https://docs.google.com/presentation/d/1_jDogkj_RJKWYlG5tdsD3liGn3baLfcPQkNs162RzCY/edit?usp=sharing
+  youtube-link: https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=sharing
   speaker-thrust: "All"
   speaker-gender: "All"
   talk-attendance-in-person:
