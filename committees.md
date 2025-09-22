@@ -11,13 +11,19 @@ IAIFI is establishing forums and committees that include a mix of faculty, postd
 The Forums entail monthly standing meetings, organized around IAIFI's three pillars of Research, Talent, and Community. IAIFI members can volunteer to be on the board of a forum; the forums are also open to any and all IAIFI members to attend. 
 
 ## Research
-* At-a-glance: Takes point on IAIFI's Thematic Discussion Sessions, mini-workshops, research reporting, and more
+* The IAIFI Research Forum is responsible for the IAIFI strategic pillar: Pioneering interdisciplinary AI+Physics research. This includes identifying ways to share IAIFI research across IAIFI, facilitating interdisciplinary collaborations, and optimizing research reporting and communication.
+* At-a-glance: Takes point on IAIFI's Thematic Discussion Sessions, mini-workshops, and research reporting/communication 
+* Board Members (Fall 2025): Matt Schwartz, Harvard (Chair); Sam Bright-Thonney, IAIFI Fellow; Berthy Feng, IAIFI Fellow; Alex Gagliano, IAIFI Fellow; Gaia Grosso, IAIFI Fellow; Marisa LaFleur, IAIFI Managing Director; Thomas Bradford, IAIFI Project Coordinator
 
 ## Talent
+* The IAIFI Talent Forum is responsible for the IAIFI strategic pillar: Empowering the next generation of AI+Physics talent. This includes identifying ways to provide career support for IAIFI early career researchers, ensuring the well-being and thoughtful inclusion of researchers of all career stages in IAIFI, and monitoring other issues of particular interest to IAIFI early career researchers, such as computing resources and mentoring.
 * At-a-glance: Takes point on mentorship, career support, early career perspectives, and computing resources
+* Board Members (Fall 2025): Edo Berger, Harvard (Co-Chair); Marin Soljacic, MIT (Co-Chair); Sachin Vaidya, MIT; Andrzej Novak, MIT; Zhuo Chen, MIT; Marisa LaFleur, IAIFI Managing Director; Thomas Bradford, IAIFI Project Coordinator
 
 ## Community
+* The IAIFI Community Forum is responsible for the IAIFI strategic pillar: Building a dynamic AI+Physics Community. This includes building up the internal IAIFI community to break down barriers across domains and universities, and the broader national/international AI+Physics community to bring together key researchers (industry and academia) in AI+Physics and educate the public about AI+Science broadly. Through this work, we aim to establish IAIFI as a hub for AI+Physics in the Boston area and beyond, and help advocate for AI+Science. 
 * At-a-glance: Takes point on social events, public engagement (including K-12), and industry partnerships
+* Board Members (Fall 2025): Fabian Ruehle, Northeastern (Chair); Thomas Harvey, IAIFI Fellow; Christian Ferko, Northeastern; Steven Eulig, Harvard; Joydeep Naskar, Northeastern; Juvenal Bassa, UPRM; Marisa LaFleur, IAIFI Managing Director; Thomas Bradford, IAIFI Project Coordinator
 
 # Committees
 The Committees meet on an as-needed basis and are typically organized around temporary projects, in contrast with the standing Forum meetings. 
