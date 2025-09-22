@@ -46,8 +46,8 @@
   start-date-time: "2025-09-24 11:00"
   end-date-time: "2025-09-24 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "AI for Quantum Matter: Finding a Needle in a Haystack"
-  talk-abstract: "Details to come."
+  talk-title: "Finding a Needle in Quantum Haystack with Deep Neural Networks"
+  talk-abstract: "Neural networks (NNs) have great potential in solving the ground state of various many-body problems. However, several key challenges remain to be overcome before NNs can tackle problems and system sizes inaccessible with more established tools. Here, we present a general and efficient method for learning the NN representation of an arbitrary many-body complex wave function from its N-particle probability density and probability current density. Having reached overlaps as large as 99.9%, we employ our neural wave function for pre-training to effortlessly solve the fractional quantum Hall problem with Coulomb interactions and realistic Landau-level mixing for as many as 25 particles and uncover distinctive features of the edge. Our work demonstrates efficient, accurate simulation of highly-entangled quantum matter using general-purpose deep NNs enhanced with physics-informed initialization."
   slides-link:
   youtube-link:
   speaker-thrust: "physics theory"
