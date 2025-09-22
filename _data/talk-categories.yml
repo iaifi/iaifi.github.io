@@ -56,6 +56,13 @@ social:
   hide_category_on_button: true
   webpage: "https://iaifi.org/social-events.html"
 
+forum:
+  name: "IAIFI Forum"
+  category: "internal"
+  zoom:
+  button_type: button--outline-primary
+  webpage: "https://iaifi.org/committees.html"
+
 internal-other:
   name: "Other Internal Events"
   category: "internal"

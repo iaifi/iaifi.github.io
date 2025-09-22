@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "Workshop on Neural Simulation-Based Inference"
+  event-organizer: "Statistical Methods for the Physical Sciences Research Center"
+  more-info-link: "https://www.cmu.edu/dietrich/statistics-datascience/stamps/workshop/index.html"
+  event-post-date: "2025-09-21"
+  start-date-time: "2025-10-04 09:00"
+  end-date-time: "2025-10-05 17:00"
+  talk-location: "Carnegie Mellon University"
+  talk-zoom:
+  event-details: "The Statistical Methods for the Physical Sciences (STAMPS) Research Center at Carnegie Mellon University is organizing a weekend workshop on neural simulation-based inference on October 4-5, 2025. The workshop will take place in person at the CMU campus in Pittsburgh. A webcast for remote participants will also be available. IAIFI Fellow Gaia Grosso will be a speaker at the workshop."
+  calendar-link:
+
+- type: "external-event"
   event-name: "APS Global Physics Summit"
   event-organizer: "American Physical Society"
   more-info-link: "https://summit.aps.org/"
@@ -8,18 +20,6 @@
   talk-location: "Denver, CO, and online"
   talk-zoom:
   event-details: "The APS Global Physics Summit is the largest physics research conference in the world, uniting 14,000 scientific community members across all disciplines of physics. This meeting reflects the inclusivity and synergy of many physics disciplines and emerging cross-disciplinary areas of science, which perfectly reflects this year's theme of Science for a Shared Future. **The call for abstracts is open, and will close on October 8, 2025.**"
-  calendar-link:
-  
-- type: "external-workshop"
-  event-name: "Workshop on Neural Simulation-Based Inference"
-  event-organizer: "Ann Lee and Mikael Kuusela on behalf of STAMPS@CMU"
-  more-info-link: "https://www.cmu.edu/dietrich/statistics-datascience/stamps/workshop/index.html"
-  event-post-date: "2025-09-21"
-  start-date-time: "2025-10-04 09:00"
-  end-date-time: "2025-10-05 17:00"
-  talk-location: "CMU Campus, Pittsburgh, PA"
-  talk-zoom:
-  event-details: "The Statistical Methods for the Physical Sciences (STAMPS) Research Center at Carnegie Mellon University is organizing a weekend workshop on neural simulation-based inference on October 4-5, 2025. The workshop will take place in person at the CMU campus in Pittsburgh. A webcast for remote participants will also be available."
   calendar-link:
   
 - type: "external-event"
