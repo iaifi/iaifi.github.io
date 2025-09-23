@@ -1,4 +1,14 @@
 - type: "research-highlight"
+  domain: "Astrophysics"
+  title: "Evidence for an Instability-induced Binary Merger in the Double-peaked, Helium-rich Type IIn Supernova 2023zkd"
+  authors:  Alex Gagliano (IAIFI), Ashley Villar (IAIFI/Harvard), T. Matsumoto (Kyoto University), D. O. Jones(University of Hawai’i), C.L.Ransome (Harvard), A.E.Nugent (Harvard), Daichi Hiramatsu (IAIFI/Harvard), and the Young Supernova Experiment
+  date-added: 2025-09-22
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vT_bxd0NnwS-Sr5lPWJBvjWA-87kI9105LqDgfzHRmiZ33F9LzcBe9X7R8cMNZLZVRih-FdfvD56zqn/pubembed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1LC8gBx-XLongbW81obdaQTDsen-_sZg4orA3MGW5RSw/edit?usp=sharing"
+  overview-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQ72hpjxqsfGecwTceZOpeIi0e7x2fd1ozkHxCeQ9sG8S7mBUx78C7CavMG8VfANLPhHepw0GccbV_M/pubembed?start=false&loop=false&delayms=3000"
+  overview-link: "https://docs.google.com/presentation/d/1J62CwtJVTfqYG0F3q2V9pSAVyZQCZkq9FGgWkx4P-Lc/edit?usp=sharing"
+
+- type: "research-highlight"
   domain: "Experimental Physics"
   title: "Enhancing events in neutrino telescopes through deep-learning-driven superresolution"
   authors: Felix J. Yu (Harvard/IAIFI), Nicholas Kamp (Harvard/IAIFI), Carlos A. Argüelles (Harvard/IAIFI)
