@@ -65,8 +65,8 @@
   start-date-time: "2025-10-01 11:00"
   end-date-time: "2025-10-01 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Elucidating the mechanism of the 'density limit' with machine learning"
-  talk-abstract: "Details to come."
+  talk-title: "When plasmas hit their limit: interpretable ML insights into fusion density"
+  talk-abstract: "Achieving high plasma density is critical for fusion energy, since the fusion power density scales approximately as $n^2$. Yet the leading class of magnetic fusion experiments is constrained by a longstanding “density limit,” beyond which confinement collapses. In this study, we apply interpretable machine learning methods to multi-machine datasets drawn from five fusion facilities worldwide to investigate the physics of this limit. Our analysis reveals a robust, positive correlation between the achievable density and plasma temperature, consistent across devices. This result suggests that higher-temperature experiments under construction today may sustain significantly higher densities, and thus higher fusion power, than previously anticipated."
   slides-link:
   youtube-link:
   speaker-thrust: "physics experiment"
