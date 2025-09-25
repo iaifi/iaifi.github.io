@@ -6,7 +6,7 @@ abstract: "Many organisms and cell types, from bacteria to cancer cells, exhibit
 arxiv: "2410.08439"
 journal: "ICLR 2025"
 doi: "https://openreview.net/forum?id=dsHpulHpOK"
-nsf-par:
+nsf-par: 10620815
 code: https://github.com/JacobHA/RL4Dosing
 publication-date: 2025-01-22
 bib-tex: |

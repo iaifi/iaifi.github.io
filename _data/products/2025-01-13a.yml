@@ -7,7 +7,7 @@ abstract: "We consider synthesis and analysis of probability measures using the 
 arxiv: "2501.07446"
 journal: "AISTATS 2025"
 doi: "https://openreview.net/forum?id=faax2oJkba"
-nsf-par:
+nsf-par: 10620805
 code: https://github.com/brendanmallery9/Entropic-Barycenters
 publication-date: 2025-01-22
 bib-tex: |

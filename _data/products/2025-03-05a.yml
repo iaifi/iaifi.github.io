@@ -7,7 +7,7 @@ abstract: "The Dark Matter (DM) distribution in dwarf galaxies provides crucial 
 arxiv: "2503.03812"
 journal: "Monthly Notices of the Royal Astronomical Society, July 2025"
 doi: "https://doi.org/10.1093/mnras/staf1118"
-nsf-par:
+nsf-par: 10620795
 code:
 publication-date: 2025-07-09
 bib-tex: |
