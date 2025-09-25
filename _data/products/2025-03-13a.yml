@@ -7,7 +7,7 @@ abstract: "We elucidate the requirements for quantum operations that achieve env
 arxiv: "2503.10400"
 journal: "New Journal of Physics, 2025, Volume 27"
 doi: "https://doi.org/10.1088/1367-2630/ade46f"
-nsf-par:
+nsf-par: 10614409
 code:
 publication-date: 2025-06-24
 bib-tex: |

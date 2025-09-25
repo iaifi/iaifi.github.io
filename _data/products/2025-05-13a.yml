@@ -7,7 +7,7 @@ abstract: "While machine learning is nowadays used in essentially all natural sc
 arxiv:
 journal: "Contemporary Physics, 2024, Volume 65, Issue 3"
 doi: "https://doi.org/10.1080/00107514.2025.2498817"
-nsf-par:
+nsf-par: 10590341
 code:
 publication-date: 2025-05-13
 bib-tex: |
