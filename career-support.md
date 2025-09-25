@@ -36,6 +36,7 @@ In addition to these resources, the Early Career and Ethics Committee has compil
    * [Events](https://capd.mit.edu/events/?utc_src_link=eventscalnav)
 * [Alumni Advisors Hub](https://alumniadvisors.mit.edu)
 * [Annual Career Fairs](https://capd.mit.edu/annual-career-fairs-at-mit/)
+* [Communication Lab](https://mitcommlab.mit.edu/eecs/)
 
 ### Harvard
 * [FAS Mignone Center for Career Success](https://careerservices.fas.harvard.edu)
