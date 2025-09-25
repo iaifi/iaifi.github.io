@@ -48,11 +48,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Finding a Needle in Quantum Haystack with Deep Neural Networks"
   talk-abstract: "Neural networks (NNs) have great potential in solving the ground state of various many-body problems. However, several key challenges remain to be overcome before NNs can tackle problems and system sizes inaccessible with more established tools. Here, we present a general and efficient method for learning the NN representation of an arbitrary many-body complex wave function from its N-particle probability density and probability current density. Having reached overlaps as large as 99.9%, we employ our neural wave function for pre-training to effortlessly solve the fractional quantum Hall problem with Coulomb interactions and realistic Landau-level mixing for as many as 25 particles and uncover distinctive features of the edge. Our work demonstrates efficient, accurate simulation of highly-entangled quantum matter using general-purpose deep NNs enhanced with physics-informed initialization."
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1Uzyayur5HHDV3iBV_vp6ra1QSayIEGUV/view?usp=drive_link
   youtube-link:
   speaker-thrust: "physics theory"
   speaker-gender: "man"
-  talk-attendance:  0 in person, 0 virtual
+  talk-attendance:  11 in person, 6 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTA5MjRUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
