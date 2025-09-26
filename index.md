@@ -183,7 +183,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Our [IAIFI Colloquium series](events.html) will continue in on September 26, 2025, with Berthy Feng (IAIFI Fellow).*** Recordings of our previous colloquium talks are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue in on October 10, 2025, with Peter Lu (Tufts University).*** Recordings of our previous colloquium talks are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>
