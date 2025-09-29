@@ -7,7 +7,7 @@ abstract: "Maximizing the discovery potential of increasingly precise neutrino e
 arxiv: "2203.09030"
 journal: "Journal of Physics, G: Nuclear and Particle Physics, 2025, Volume 52, Number 4"
 doi: "https://doi.org/10.1088/1361-6471/adae26"
-nsf-par:
+nsf-par: 10568001
 code:
 publication-date: 2025-04-21
 bib-tex: |

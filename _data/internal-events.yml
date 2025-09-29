@@ -104,8 +104,8 @@
   event-name: "Weekly Coffee Hour"
   event-committee: "Community"
   event-post-date: "2025-10-26"
-  start-date-time: "2025-10-29 10:00"
-  end-date-time: "2025-10-29 11:00"
+  start-date-time: "2025-10-29 12:00"
+  end-date-time: "2025-10-29 13:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
@@ -117,8 +117,8 @@
   event-name: "Weekly Coffee Hour"
   event-committee: "Community"
   event-post-date: "2025-10-19"
-  start-date-time: "2025-10-22 10:00"
-  end-date-time: "2025-10-22 11:00"
+  start-date-time: "2025-10-22 12:00"
+  end-date-time: "2025-10-22 13:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
@@ -146,8 +146,8 @@
   event-name: "Weekly Coffee Hour"
   event-committee: "Community"
   event-post-date: "2025-10-12"
-  start-date-time: "2025-10-15 10:00"
-  end-date-time: "2025-10-15 11:00"
+  start-date-time: "2025-10-15 12:00"
+  end-date-time: "2025-10-15 13:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
@@ -189,8 +189,8 @@
   event-name: "Weekly Coffee Hour"
   event-committee: "Community"
   event-post-date: "2025-10-05"
-  start-date-time: "2025-10-08 10:00"
-  end-date-time: "2025-10-08 11:00"
+  start-date-time: "2025-10-08 12:00"
+  end-date-time: "2025-10-08 13:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
@@ -221,7 +221,7 @@
   end-date-time: "2025-10-03 17:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
-  event-details: "This will be an informal afternoon with pizza, refreshments, and board games. Anyone in IAIFI will be free to come and go throughout the event, to have lunch, co-work, or socialize with other people in the IAIFI community."
+  event-details: "This is an opportunity for IAIFI members to meet up for an informal co-working session. The Penthouse space will be set up for collaboration and conversation. Feel free to stop by for a short time, or stay for the whole session. Refreshments and snacks will be provided!"
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWlyN29xMG5vaTUzY3RkaXJjZXRjNmh1c2EgY18yMjljMGQ0NzExYjJlNjgzOGI4NTZlZjEyN2E2NjJmMWJhODU1ZGZmOWU2NWE4MWJlMWQ1MTkyOGJkNDIwZWM4QGc&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
@@ -236,7 +236,7 @@
   end-date-time: "2025-10-03 13:30"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
-  event-details: "Trevor McCourt, who was formerly a PhD student in the Research Labratory of Electronics under Ike Chuang, will talk about the categorically different types of research opportunities that exist at startups as compared to academia. Lunch and refreshments will be provided. You can submit questions for the speaker ahead of time here: https://app.smartsheet.com/b/form/01966337dc6b7a98adc76c557beafcdc"
+  event-details: "Trevor McCourt, who was formerly a PhD student in the Research Laboratory of Electronics under Ike Chuang, will talk about the categorically different types of research opportunities that exist at startups as compared to academia. Lunch and refreshments will be provided. You can submit questions for the speaker ahead of time here: https://app.smartsheet.com/b/form/01966337dc6b7a98adc76c557beafcdc"
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNTEwMDNUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link:
   more-info-link: https://www.linkedin.com/in/mccourttrevor/

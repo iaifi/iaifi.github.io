@@ -1,4 +1,43 @@
 - type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-09-28"
+  start-date-time: "2025-09-29 12:00"
+  end-date-time: "2025-09-29 13:00"
+  talk-location: "P-108A video wall, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Christian Jespersen (Princeton/CCA) <br>Title: Graph Neural Networks for Galaxies <br>Abstract:Galaxies are the medium through which we study the structure of the universe. Yet the statistical models most commonly applied to galaxies are generally oversimplified and cannot capture dependencies on environment or formation history. To address this, I will introduce Graph Neural Networks (GNNs), motivating their use and outlining their key features. GNNs are a general and powerful tool for physical modeling, able to naturally incorporate geometrical constraints, symmetries, and inductive biases (prior knowledge). This leads to both better and more robust models and enables us to ask detailed questions about the roles of environment and formation history in cosmological galaxy modeling. Finally, I will present a surprising equivalence between these two aspects of galaxy formation."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M21pb2I2N3FwaTZkNnUybmgxdDNka2dza3EgbWxhZmxldXJAbWl0LmVkdQ&tmsrc=mlafleur%40mit.edu
+
+- type: "external-workshop"
+  event-name: "Renormalization for AI Safety Workshop Application Form"
+  event-organizer: "PIBBSS (Principles of Intelligent Behavior in Biological and Social Systems)"
+  more-info-link: "https://docs.google.com/forms/d/1OKNWwk1yABbzoNJC1prFznJYP7dxwQnkwHNdB1c1ECg/viewform?edit_requested=true"
+  event-post-date: "2025-09-28"
+  start-date-time: "2025-10-20 09:00"
+  end-date-time: "2025-10-23 17:00"
+  talk-location: "Cambridge, MA"
+  talk-zoom:
+  event-details: "PIBBSS is hosting a workshop to further the agenda of the Renormalization for AI Safety Programme (for more information, see here). The event will bring top physicists and AI safety researchers (including, but not limited to, PIBBSS affiliates and collaborators) together to present their work and share ideas. This will include seminar-style talks, focused discussions, and collaborative breakouts, as well as an optional poster session and a hands-on research hackathon. Register here: https://docs.google.com/forms/d/1OKNWwk1yABbzoNJC1prFznJYP7dxwQnkwHNdB1c1ECg/viewform?edit_requested=true"
+  calendar-link:
+  registration-deadline: 2025-10-01
+  rsvp-link: https://docs.google.com/forms/d/1OKNWwk1yABbzoNJC1prFznJYP7dxwQnkwHNdB1c1ECg/viewform?edit_requested=true
+  
+- type: "external-event"
+  event-name: "PDT Partners: Life of a Quantitative Researcher: From Academia to Industry"
+  event-organizer: "PDT Partners"
+  more-info-link:  "https://pdtpartners.co1.qualtrics.com/jfe/form/SV_aYvYrfSa2IhURdY"
+  event-post-date: "2025-09-28"
+  start-date-time: "2025-10-08 17:00"
+  end-date-time: "2025-10-08 19:00"
+  talk-location: "Stata Center (MIT 32-155)"
+  talk-zoom:
+  rsvp-link: https://pdtpartners.co1.qualtrics.com/jfe/form/SV_aYvYrfSa2IhURdY
+  event-details: "Curious what it means to be a Quantitative Researcher at PDT Partners? Meet PDT researchers in-person to learn about their journey to quantitative finance from academia. They will discuss their career path, the interesting work that challenges them and their decision to come to the quantitative finance industry. Learn how a team of scientists, mathematicians and engineers with PhDs in Physics, Computer Science, Machine Learning, Statistics, Math, Economics and Electrical Engineering develop trading strategies using scientifically rigorous approaches in an open and collaborative culture.<br>We will discuss how PDT and quantitative research compares to other industries, our academic research culture and how researchers use the skills from their graduate program to tackle interesting and challenging problems. This will be an interactive discussion and you will hear directly from PDTers!<br>There will be a networking portion with our researchers from 6:00 – 7:00pm ET following the information session. Dinner and refreshments will be served."
+  calendar-link:
+
+- type: "external-event"
   event-name: "Workshop on Neural Simulation-Based Inference"
   event-organizer: "Statistical Methods for the Physical Sciences Research Center"
   more-info-link: "https://www.cmu.edu/dietrich/statistics-datascience/stamps/workshop/index.html"
@@ -9,18 +48,18 @@
   talk-zoom:
   event-details: "The Statistical Methods for the Physical Sciences (STAMPS) Research Center at Carnegie Mellon University is organizing a weekend workshop on neural simulation-based inference on October 4-5, 2025. The workshop will take place in person at the CMU campus in Pittsburgh. A webcast for remote participants will also be available. IAIFI Fellow Gaia Grosso will be a speaker at the workshop."
   calendar-link:
-
+  
 - type: "external-event"
-  event-name: "APS Global Physics Summit"
-  event-organizer: "American Physical Society"
-  more-info-link: "https://summit.aps.org/"
-  event-post-date: "2025-09-07"
-  start-date-time: "2026-03-15 09:00"
-  end-date-time: "2026-03-20 17:00"
-  talk-location: "Denver, CO, and online"
-  talk-zoom:
-  event-details: "The APS Global Physics Summit is the largest physics research conference in the world, uniting 14,000 scientific community members across all disciplines of physics. This meeting reflects the inclusivity and synergy of many physics disciplines and emerging cross-disciplinary areas of science, which perfectly reflects this year's theme of Science for a Shared Future. **The call for abstracts is open, and will close on October 8, 2025.**"
-  calendar-link:
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-09-28"
+  start-date-time: "2025-09-29 16:00"
+  end-date-time: "2025-09-29 17:00"
+  talk-location: "MIT Room 32-G882 (Hewlett) and Zoom"
+  talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker 1: Emanuele Sansone<br>Title 1: Collapse-Proof Non-Contrastive Self-Supervised Learning<br>Abstract 1: Self-supervised learning (SSL) has unlocked the ability to learn general-purpose representations from vast amounts of unlabeled data. Despite its successes, significant challenges remain, limiting the applicability and democratization of SSL. One key challenge lies in the failure modes that arise during SSL training. In this talk, we distill essential principles for reliably avoiding these known collapses. We introduce a principled yet simplified design of the projector and loss function for non-contrastive SSL, grounded in hyperdimensional computing. Theoretically, we show that this design induces an inductive bias that naturally encourages representations to become both decorrelated and clustered, without explicitly enforcing these properties. This bias provably improves generalization and is sufficient to prevent common training failures, including representation, dimensional, cluster, and intracluster collapses. We further validate our theoretical insights on image datasets, showing that our approach produces representations that retain richer information about the observed data while avoiding memorization. This opens the door to learning more structured representations.<br>Speaker 2: Ittai Rubinstein<br>Title 2: Data Attribution in High Dimensions and without Strong Convexity<br>Abstract 2: Data attribution estimates the effect of removing a set of samples from a model's training set without retraining the model from scratch and are used for interpretability, credit assignment, privacy and more. However, key approaches to data attribution significantly underestimate removal effects in the high-dimensional regime (#params >= Omega(#samples)), and existing theoretical analyses require strong convexity assumptions that rarely hold in practice, even for simple linear probes. In this talk, we will present a correction to the leading approaches to data attribution that improve accuracy in the high-dimensional regime and present the first theoretical guarantees for the accuracy of data attribution without strong convexity."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGhzMW1iYTFodXNoMjNlMzVqMGd0cmE2ZTAgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
   event-name: "AstroAI lunch seminar"

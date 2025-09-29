@@ -7,7 +7,7 @@ abstract: "We propose the \textit{linear barycentric coding model (LBCM)} that u
 arxiv: "2410.23602"
 journal: "AISTATS 2025"
 doi: "https://openreview.net/forum?id=MWCHedOm2L"
-nsf-par:
+nsf-par: 10620811
 code: "https://github.com/MattWerenski/LBCM"
 publication-date: 2025-01-22
 bib-tex: |

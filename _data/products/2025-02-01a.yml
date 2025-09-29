@@ -7,7 +7,7 @@ abstract: "A reexamination of period finding algorithms is prompted by new large
 arxiv: "2502.00243"
 journal: "Publications of the Astronomical Society of the Pacific, 2025, Volume 137, Number 5"
 doi: "https://doi.org/10.1088/1538-3873/add20c"
-nsf-par:
+nsf-par: 10620770
 code:
 publication-date: 2025-05-27
 bib-tex: |

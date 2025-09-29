@@ -7,7 +7,7 @@ abstract: "Perturbative calculations involving fermion loops in quantum field th
 arxiv: "2410.08161"
 journal: "Journal of High Energy Physics, 2025, Volume 2025, Article Number 235"
 doi: "https://doi.org/10.1007/JHEP05(2025)235"
-nsf-par:
+nsf-par: 10620774
 code:
 publication-date: 2025-05-28
 bib-tex: |

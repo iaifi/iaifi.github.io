@@ -7,7 +7,7 @@ abstract: "We utilize the cosmological volume simulation, FIREbox, to investigat
 arxiv: "2501.04084"
 journal: "The Astrophysical Journal, 2025, Volume 983, Number 2"
 doi: "https://doi.org/10.3847/1538-4357/adbf07"
-nsf-par:
+nsf-par: 10591694
 code:
 publication-date: 2025-04-10
 bib-tex: |

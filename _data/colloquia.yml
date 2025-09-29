@@ -31,10 +31,10 @@
   talk-abstract: "The core idea of computational imaging is to supplement limited observable data with human-imposed assumptions, or priors. However, incorporating priors in the imaging process poses computational challenges, including efficiently expressing sophisticated priors, appropriately balancing priors with observations, and gently enforcing physics constraints. My work addresses such challenges with principled methods for bringing informative assumptions into scientific computational imaging. In this talk, I will focus on black-hole imaging problems through the lens of both data-driven priors and physics-based priors.<br>On the data-driven side, I will present work on score-based priors, including a posterior-estimation method and results of re-imagining the famous M87 black hole from real data with score-based priors. On the physics-based side, I will show we have been able to tackle extremely under-determined imaging problems by enforcing physics constraints, including the problem of single-viewpoint dynamic tomography of emission near a black hole. Finally, I will address the intersection of AI and physics by presenting neural approximate mirror maps, a way to enforce physics constraints on generative models."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTA5MjZUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
-  youtube-link:
+  youtube-link: https://www.youtube.com/live/ssW_vxc-hx0?feature=shared
   speaker-thrust: "foundational ai"
   speaker-gender: "woman"
-  talk-attendance: 0 in person, 0 virtual
+  talk-attendance: 27 in person, 22 virtual
 
 - type: "colloquium"
   semester: "fall-2025"

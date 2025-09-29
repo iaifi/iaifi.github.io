@@ -7,7 +7,7 @@ abstract: "We present the first study of anti-isolated Upsilon decays to two muo
 arxiv: "2502.14036"
 journal: "Physical Review Letters, 2025, Volume 135, Issue 2"
 doi: "https://doi.org/10.1103/vvv3-5kkl"
-nsf-par:
+nsf-par: 10620787
 code: "https://github.com/hep-lbdl/dimuonAD"
 publication-date: 2025-07-08
 bib-tex: |
