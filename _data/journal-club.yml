@@ -84,8 +84,8 @@
   start-date-time: "2025-10-08 11:00"
   end-date-time: "2025-10-08 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Field Theory from Neural Networks"
-  talk-abstract: "Details to come."
+  talk-title: "Neural Network Field Theories- Conformal Correlators"
+  talk-abstract: "In this talk, I will discuss the program to use neural networks at initialization to construct field theories and review some recent progress in this direction with a focus on conformal fields. In particular, I will discuss some simple examples of primaries, define OPEs, compute exact four point functions and extract the operator spectrum using conformal bootstrap techniques. We will briefly discuss their generalization to spinning primaries, and comment on the progress on their application to Carrollian correlators for flat space holography."
   slides-link:
   youtube-link:
   speaker-thrust: "physics theory"
