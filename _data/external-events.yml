@@ -1,14 +1,14 @@
 - type: "external-event"
-  event-name: "APS Global Physics Summit"
-  event-organizer: "American Physical Society"
-  more-info-link: "https://summit.aps.org/"
-  event-post-date: "2025-09-07"
-  start-date-time: "2026-03-15 09:00"
-  end-date-time: "2026-03-20 17:00"
-  talk-location: "Denver, CO, and online"
-  talk-zoom:
-  event-details: "The APS Global Physics Summit is the largest physics research conference in the world, uniting 14,000 scientific community members across all disciplines of physics. This meeting reflects the inclusivity and synergy of many physics disciplines and emerging cross-disciplinary areas of science, which perfectly reflects this year's theme of Science for a Shared Future. **The call for abstracts is open, and will close on October 8, 2025.**"
-  calendar-link:
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-09-28"
+  start-date-time: "2025-09-29 12:00"
+  end-date-time: "2025-09-29 13:00"
+  talk-location: "P-108A video wall, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Christian Jespersen (Princeton/CCA) <br>Title: Graph Neural Networks for Galaxies <br>Abstract:Galaxies are the medium through which we study the structure of the universe. Yet the statistical models most commonly applied to galaxies are generally oversimplified and cannot capture dependencies on environment or formation history. To address this, I will introduce Graph Neural Networks (GNNs), motivating their use and outlining their key features. GNNs are a general and powerful tool for physical modeling, able to naturally incorporate geometrical constraints, symmetries, and inductive biases (prior knowledge). This leads to both better and more robust models and enables us to ask detailed questions about the roles of environment and formation history in cosmological galaxy modeling. Finally, I will present a surprising equivalence between these two aspects of galaxy formation."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M21pb2I2N3FwaTZkNnUybmgxdDNka2dza3EgbWxhZmxldXJAbWl0LmVkdQ&tmsrc=mlafleur%40mit.edu
 
 - type: "external-workshop"
   event-name: "Renormalization for AI Safety Workshop Application Form"
