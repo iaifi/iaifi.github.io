@@ -2,6 +2,18 @@
   event-name: "AstroAI lunch seminar"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-10-05"
+  start-date-time: "2025-10-06 12:00"
+  end-date-time: "2025-10-06 13:00"
+  talk-location: "P-108A video wall, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Helen Shao (Harvard) <br>Title: Signal-Preserving Machine Learning for Polarized CMB Reconstruction <br>Abstract:Accurate measurement of Cosmic Microwave Background (CMB) B-mode polarization, a key probe of inflationary physics, is hindered by complex astrophysical foreground contamination. Standard foreground reconstruction techniques like the Internal Linear Combination (ILC) method can mitigate this problem while preserving the CMB signal. However, they are limited to second-order statistics, neglecting non-Gaussian information that dominates the foregrounds. This work presents a novel, signal-preserving machine learning framework for foreground reconstruction, designed to overcome these limitations using only single-frequency data. To achieve this, we leverage the statistical independence of primary CMB modes across angular scales, contrasted with the significant inter-scale correlations present in Galactic foregrounds. We train convolutional neural networks and conditional diffusion models to predict and subtract large-scale foreground features (ℓ<200) using only small-scale map information (ℓ>200) as a signal-free input. This approach preserves the cosmological signal by construction. We demonstrate the method's effectiveness using PySM3 simulations of Galactic dust emission, showing improved foreground removal compared to baseline methods. We validate the performance of the neural networks using correlation metrics in both pixel and harmonic space. We present this framework as a pathway towards simplified component separation for next-generation CMB experiments, with ongoing work to assess generalization across different foreground models and sky regions."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzAwbzRkb2Y4dDhrcTliaXQwMjVwbjRkbGwgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2025-09-28"
   start-date-time: "2025-09-29 12:00"
   end-date-time: "2025-09-29 13:00"
