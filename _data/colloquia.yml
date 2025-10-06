@@ -64,9 +64,9 @@
   speaker-photo-location: "images/photo-andy-keller.jpg"
   start-date-time: "2025-10-24 13:00"
   end-date-time: "2025-10-24 14:00"
-  talk-location: "Havard Kempner Institute <br> <span style='color:red;'>(Note unusual time and location)</span>"
-  talk-title: "Title to come."
-  talk-abstract:
+  talk-location: "Kempner Institute, Harvard SEC Room 6.242 (150 Western Ave, Boston)  <br> <span style='color:red;'>(Note unusual time and location)</span>"
+  talk-title: "Flow Equivariance: Enforcing Time-Parameterized Symmetries in Sequence Models"
+  talk-abstract: "Data arrives at our senses (or sensors) as a continuous stream, smoothly transforming from one instant to the next. These smooth transformations can be viewed as continuous symmetries of the environment that we inhabit, defining equivalence relations between stimuli over time. In machine learning, neural network architectures that respect symmetries of their data are called equivariant and have provable benefits in terms of generalization ability and sample efficiency. To date, however, equivariance has been considered only for static transformations and feed-forward networks, limiting its applicability to sequence models, such as recurrent neural networks (RNNs), and corresponding time-parameterized sequence transformations. In this talk, I will describe how equivariant network theory may be extended to this regime of `flows' -- one-parameter Lie subgroups capturing natural transformations over time, such as visual motion. I will begin by showing that standard RNNs are generally not flow equivariant: their hidden states fail to transform in a geometrically structured manner for moving stimuli. I will then show how flow equivariance can be introduced, and demonstrate that these models significantly outperform their non-equivariant counterparts in terms of training speed, length generalization, and velocity generalization, on a variety of tasks from next step prediction, to sequence classification, and partially observed ‘world modeling’ in both 2D and 3D worlds. I will conclude with hints at how this framework also enables constructing sequence models with equivariance to space-time symmetries such as Lorentz transformations relevant to the physics community."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTEwMjRUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
