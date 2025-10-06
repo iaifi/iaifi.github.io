@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2025-10-03
+title: 'GW-YOLO: Multi-transient segmentation in LIGO using computer vision'
+authors: "Siddharth Soni, Nikhil Mukund, Erik Katsavounidis"
+abstract: 'Time series data and their time-frequency representation from gravitational-wave interferometers present multiple opportunities for the use of artificial intelligence methods associated with signal and image processing. Closely connected with this is the real-time aspect associated with gravitational-wave interferometers and the astrophysical observations they perform; the discovery potential of these instruments can be significantly enhanced when data processing can be achieved in O(1s) timescales. In this work, we introduce a novel signal and noise identification tool based on the YOLO (You Only Look Once) object detection framework. For its application into gravitational waves, we will refer to it as GW-YOLO. This tool can provide scene identification capabilities and essential information regarding whether an observed transient is any combination of noise and signal. Additionally, it supplies detailed time-frequency coordinates of the detected objects in the form of pixel masks, an essential property that can be used to understand and characterize astrophysical sources, as well as instrumental noise. The simultaneous identification of noise and signal, combined with precise pixel-level localization, represents a significant advancement in gravitational-wave data analysis. Our approach yields a 50% detection efficiency for binary black hole signals at a signal-to-noise ratio (SNR) of 15 when such signals overlap with transient noise artifacts. When noise artifacts overlap with binary neutron star signals, our algorithm attains 50% detection efficiency at an SNR of 30. This presents the first quantitative assessment of the ability to detect astrophysical events overlapping with realistic, instrument noise present in gravitational-wave interferometers.'
+arxiv: "2508.17399"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{soni2025gwyolomultitransientsegmentationligo,
+      title={GW-YOLO: Multi-transient segmentation in LIGO using computer vision},
+      author={Siddharth Soni and Nikhil Mukund and Erik Katsavounidis},
+      year={2025},
+      eprint={2508.17399},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM},
+      url={https://arxiv.org/abs/2508.17399},
+  }

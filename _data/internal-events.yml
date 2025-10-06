@@ -133,9 +133,9 @@
   event-post-date: "2025-10-05"
   start-date-time: "2025-10-17 15:00"
   end-date-time: "2025-10-17 16:00"
-  talk-location: "IAIFI Penthouse (26-648)"
+  talk-location: "Harvard Kempner Institute, Winokur Family Hall and West Atrium"
   talk-zoom:
-  event-details: "After today's Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  event-details: "As part of Diffusion Day, attendees to the thematic discussion are welcome to participate in the poster session and networking that follows."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzJyMGk2ampnczFlMGE2NG1ydXU3dTdyYmQgY18yMjljMGQ0NzExYjJlNjgzOGI4NTZlZjEyN2E2NjJmMWJhODU1ZGZmOWU2NWE4MWJlMWQ1MTkyOGJkNDIwZWM4QGc&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
   rsvp-link:
   more-info-link:
@@ -229,19 +229,19 @@
   attendance-virtual:
   
 - type: "industry-lunch"
-  event-name: "Industry Lunch with Trevor McCourt (Extropic)"
+  event-name: "Industry Lunch with Andraz Jelincic (Extropic)"
   event-committee: "Talent"
   event-post-date: "2025-03-23"
   start-date-time: "2025-10-03 12:30"
   end-date-time: "2025-10-03 13:30"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
-  event-details: "Trevor McCourt, who was formerly a PhD student in the Research Laboratory of Electronics under Ike Chuang, will talk about the categorically different types of research opportunities that exist at startups as compared to academia. Lunch and refreshments will be provided. You can submit questions for the speaker ahead of time here: https://app.smartsheet.com/b/form/01966337dc6b7a98adc76c557beafcdc"
+  event-details: "Andraž completed his undergraduate and master’s studies in Mathematics and Computer Science at Oxford, where he researched using GANs to speed up stochastic simulations. His PhD focused on new adaptive integrators for stochastic differential equations, combining ideas from numerical analysis and machine learning. Collaborating with Extropic during this time, he helped improve their simulation software and later took on a more machine learning oriented role. He now leads ML algorithm research at Extropic together with CTO Trevor McCourt."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNTEwMDNUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link:
   more-info-link: https://www.linkedin.com/in/mccourttrevor/
-  attendance-in-person:
-  attendance-virtual:
+  attendance-in-person: 12
+  attendance-virtual: 2
   
 - type: "social"
   event-name: "Weekly Coffee Hour"

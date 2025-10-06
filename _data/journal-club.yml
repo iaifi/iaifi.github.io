@@ -67,7 +67,7 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "When plasmas hit their limit: interpretable ML insights into fusion density"
   talk-abstract: "Achieving high plasma density is critical for fusion energy, since the fusion power density scales approximately as $n^2$. Yet the leading class of magnetic fusion experiments is constrained by a longstanding “density limit,” beyond which confinement collapses. In this study, we apply interpretable machine learning methods to multi-machine datasets drawn from five fusion facilities worldwide to investigate the physics of this limit. Our analysis reveals a robust, positive correlation between the achievable density and plasma temperature, consistent across devices. This result suggests that higher-temperature experiments under construction today may sustain significantly higher densities, and thus higher fusion power, than previously anticipated."
-  slides-link:
+  slides-link: https://drive.google.com/drive/folders/1Gk9zZC1dHq1LX6un94zWYe4qokk2MTAd?usp=share_link
   youtube-link:
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
