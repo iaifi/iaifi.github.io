@@ -2,16 +2,16 @@
 layout: article
 header: false
 footer: false
-title: "IAIFI Fellowship Deadline Approaching"
+title: "IAIFI Fellowship Applications due Tomorrow"
 show_title: false
 --- 
 
 
 {% include_relative iaifi-reminder_header.html %}
 
-## IAIFI Fellowship Applications Due October 8th!
+## IAIFI Fellowship Applications Due Tomorrow (Wednesday, October 8, 2025)!
 
-Applications for this this year’s IAIFI Postdoctoral Fellowship search for early-career scientists working at the intersection of Physics and AI are due on **Wednesday, October 8, 2025.**
+There is one day left to submit applications for this this year’s IAIFI Postdoctoral Fellowship search for early-career scientists working at the intersection of Physics and AI. Applications are due on **Wednesday, October 8, 2025.**
 
 [Apply on AJO](https://academicjobsonline.org/ajo/jobs/30155){:.button.button--outline-primary.button--pill.button--lg} [Learn more about the IAIFI Fellowship](https://iaifi.org/fellows){:.button.button--outline-primary.button--pill.button--lg}
 
