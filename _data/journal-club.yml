@@ -103,8 +103,8 @@
   start-date-time: "2025-10-15 11:00"
   end-date-time: "2025-10-15 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Social and Ethical Responsibilities of Computing (SERC)"
-  talk-abstract: "Details to come."
+  talk-title: "Generative AI and the Natural Sciences: Opportunities and Continuing Challenges"
+  talk-abstract: "Generative AI tools offer many exciting opportunities in the natural sciences. But there also remain significant challenges, ranging from unsustainable resource requirements, to limited human interpretability, to so-called “hallucinations” of data, and beyond. Drawing on recent research published in the peer-reviewed MIT Case Studies Series on Social and Ethical Responsibilities of Computing (SERC), and on a recent consensus statement issued by a working group on generative AI and scientific integrity from the US National Academy of Sciences, I will highlight some areas of continuing concern."
   slides-link:
   youtube-link:
   speaker-thrust: "physics theory"
