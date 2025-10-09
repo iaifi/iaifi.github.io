@@ -174,7 +174,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 ### IAIFI Jobs
 
 
-***Applications are now open for the 2026–2029 IAIFI Fellowship search.*** [Apply to be an IAIFI Fellow](https://iaifi.org/fellows) by October 8, 2025. 
+***Applications are now closed for the 2026–2029 IAIFI Fellowship search.*** Learn more about the [IAIFI Fellowship program here](https://iaifi.org/fellows). 
 {:.success}
 
 
@@ -183,7 +183,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Our [IAIFI Colloquium series](events.html) will continue in on October 10, 2025, with Peter Lu (Tufts University).*** Recordings of our previous colloquium talks are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue in on October 24, 2025, with Andy Keller (Harvard University Kempner Institute).*** Recordings of our previous colloquium talks are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>
