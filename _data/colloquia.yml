@@ -49,11 +49,11 @@
   talk-title: "Scientific Machine Learning for Modeling and Understanding Complex Physical Systems"
   talk-abstract: "Complex systems in nature—from climate to materials science—often exhibit strongly interacting, high-dimensional dynamics that are difficult to characterize, model, and understand. In the scientific community, there has been a growing interest in using modern machine learning (ML) tools to tackle these systems by identifying relevant physical features, accelerating expensive simulations, and solving difficult inverse problems. However, despite significant advances over the past decade, we are still learning how to effectively use ML in science and engineering. My work focuses on developing foundational ML methods for modeling and understanding complex physical systems from high-dimensional chaotic dynamics to many-body quantum systems. In this talk, I will introduce novel contrastive learning-based approaches for training physically consistent ML emulators and performing high-dimensional simulation-based inference. I will also discuss new ML methods for efficiently simulating interacting quantum systems. These advances demonstrate how we can use ML to solve scientific problems by combining tools from representation learning and generative modeling with theoretical insights from statistics, dynamical systems theory, and mathematical physics."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bjFmZXZyMW5nNHRoajA3NWgxanVlcXR1NmNfMjAyNTEwMTBUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
-  slides-link:
-  youtube-link:
+  slides-link: https://www.dropbox.com/scl/fi/5cx51slo9yhudaokk1s1h/2025_10_10_IAIFI_Colloquium_Lu.pdf?rlkey=5k3s9lfl8lkuqq84ft2n4adoq&st=unf8wn03&dl=0
+  youtube-link: https://www.youtube.com/live/MaSkDNLTU5Q?si=Xbhcm27hZ9cOu95i
   speaker-thrust: "Foundational ai"
   speaker-gender: "Man"
-  talk-attendance: 0 in person, 0 virtual
+  talk-attendance: 30 in person, 26 virtual
 
 - type: "colloquium"
   semester: "fall-2025"
