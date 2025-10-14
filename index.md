@@ -170,10 +170,10 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
   <a href="/member-resources.html" class="button button--outline-primary button--pill button--lg">For Members</a>
 </div>
 
-
+<!--
 ### IAIFI Jobs
 
-<!--
+
 ***Applications are now closed for the 2026–2029 IAIFI Fellowship search.*** Learn more about the [IAIFI Fellowship program here](https://iaifi.org/fellows). 
 {:.success}
 -->
