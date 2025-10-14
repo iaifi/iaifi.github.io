@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-09-23
+title: "The Pareto Frontier of Resilient Jet Tagging"
+authors: "Rikab Gambhir, Matt LeBlanc, Yuanchen Zhou"
+abstract: "Classifying hadronic jets using their constituents' kinematic information is a critical task in modern high-energy collider physics. Often, classifiers are designed by targeting the best performance using metrics such as accuracy, AUC, or rejection rates. However, the use of a single metric can lead to the use of architectures that are more model-dependent than competitive alternatives, leading to potential uncertainty and bias in analysis. We explore such trade-offs and demonstrate the consequences of using networks with high performance metrics but low resilience."
+arxiv: "2509.19431"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{gambhir2025paretofrontierresilientjet,
+      title={The Pareto Frontier of Resilient Jet Tagging},
+      author={Rikab Gambhir and Matt LeBlanc and Yuanchen Zhou},
+      year={2025},
+      eprint={2509.19431},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2509.19431},
+  }

@@ -86,11 +86,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Neural Network Field Theories- Conformal Correlators"
   talk-abstract: "In this talk, I will discuss the program to use neural networks at initialization to construct field theories and review some recent progress in this direction with a focus on conformal fields. In particular, I will discuss some simple examples of primaries, define OPEs, compute exact four point functions and extract the operator spectrum using conformal bootstrap techniques. We will briefly discuss their generalization to spinning primaries, and comment on the progress on their application to Carrollian correlators for flat space holography."
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1uWcS4I3DipCWJyR83aBplKwWUH-ec-h6/view?usp=drive_link
   youtube-link:
   speaker-thrust: "physics theory"
   speaker-gender: "man"
-  talk-attendance:  0 in person, 0 virtual
+  talk-attendance:  8 in person, 5 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTEwMDhUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
@@ -103,8 +103,8 @@
   start-date-time: "2025-10-15 11:00"
   end-date-time: "2025-10-15 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Social and Ethical Responsibilities of Computing (SERC)"
-  talk-abstract: "Details to come."
+  talk-title: "Generative AI and the Natural Sciences: Opportunities and Continuing Challenges"
+  talk-abstract: "Generative AI tools offer many exciting opportunities in the natural sciences. But there also remain significant challenges, ranging from unsustainable resource requirements, to limited human interpretability, to so-called “hallucinations” of data, and beyond. Drawing on recent research published in the peer-reviewed MIT Case Studies Series on Social and Ethical Responsibilities of Computing (SERC), and on a recent consensus statement issued by a working group on generative AI and scientific integrity from the US National Academy of Sciences, I will highlight some areas of continuing concern."
   slides-link:
   youtube-link:
   speaker-thrust: "physics theory"

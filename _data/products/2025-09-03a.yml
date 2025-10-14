@@ -11,7 +11,7 @@ nsf-par:
 code: https://github.com/harveyThomas4692/Induced-Metric-Optimiser
 publication-date:
 bib-tex: |
-  @misc{harvey2025optimiserhiddenplainsight,
+  @article{harvey2025optimiserhiddenplainsight,
       title={The Optimiser Hidden in Plain Sight: Training with the Loss Landscape's Induced Metric},
       author={Thomas R. Harvey},
       year={2025},
