@@ -105,11 +105,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Generative AI and the Natural Sciences: Opportunities and Continuing Challenges"
   talk-abstract: "Generative AI tools offer many exciting opportunities in the natural sciences. But there also remain significant challenges, ranging from unsustainable resource requirements, to limited human interpretability, to so-called “hallucinations” of data, and beyond. Drawing on recent research published in the peer-reviewed MIT Case Studies Series on Social and Ethical Responsibilities of Computing (SERC), and on a recent consensus statement issued by a working group on generative AI and scientific integrity from the US National Academy of Sciences, I will highlight some areas of continuing concern."
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1SgBfQICSFgXm2Y93xuPXqowTpGefnwP0/view?usp=sharing
   youtube-link:
   speaker-thrust: "physics theory"
   speaker-gender: "man"
-  talk-attendance:  0 in person, 0 virtual
+  talk-attendance:  11 in person, 9 virtual
   calendar-link: ""
   
 - type: "journal-club"
@@ -152,39 +152,39 @@
 
 - type: "journal-club"
   semester: "fall-2025"
-  speaker-name: "Speaker to be announced"
-  speaker-title: "Title to come"
-  speaker-affiliation: "Affiliation to come"
-  speaker-website:
+  speaker-name: "Aizhan Akhmetzhanova"
+  speaker-title: "Graduate Student"
+  speaker-affiliation: "Harvard University"
+  speaker-website: https://github.com/AizhanaAkhmet
   speaker-photo-location:
   start-date-time: "2025-11-12 11:00"
   end-date-time: "2025-11-12 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
+  talk-title: "A Data-Driven Prism: Multi-View Source Separation with Diffusion Model Priors"
   talk-abstract: "Details to come."
   slides-link:
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Astrophysics"
+  speaker-gender: "Woman"
   talk-attendance:  0 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTExMTJUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
   semester: "fall-2025"
-  speaker-name: "Speaker to be announced"
-  speaker-title: "Title to come"
-  speaker-affiliation: "Affiliation to come"
-  speaker-website:
+  speaker-name: "Sachin Vaidya"
+  speaker-title: "Postdoctoral Associate"
+  speaker-affiliation: "MIT"
+  speaker-website: https://www.sachinvaidya.com
   speaker-photo-location:
   start-date-time: "2025-11-19 13:00"
   end-date-time: "2025-11-19 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
+  talk-title: "AI-Driven Robotics for Optics"
   talk-abstract: "Details to come."
   slides-link:
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Physics experiment"
+  speaker-gender: "Man"
   talk-attendance:  0 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTExMTlUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
