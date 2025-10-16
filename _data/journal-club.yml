@@ -122,8 +122,8 @@
   start-date-time: "2025-10-22 11:00"
   end-date-time: "2025-10-22 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Beyond Isotropy: Exploring Cosmic Topology with Machine Learning"
-  talk-abstract: "Details to come."
+  talk-title: "Can the Topology of the Universe affect the CMB? (and how ML is helping)"
+  talk-abstract: "In Cosmology we often assume large-scale homogeneity and isotropy, i.e., the Cosmological Principle. Well-motivated scenarios, such as a non-trivial Topology of the Universe, can break this assumption, introducing off-diagonal covariances in quantites that are usually uncorrelated (e.g., the spherical harmonics coefficients of the CMB). I will outline what changes when isotropy is relaxed and how it changes the likelihood, making this a computationally difficult problem to tackle with traditional techniques. I will then show how Machine Learning methods, including rotational invariant models, are starting to enable searches for the topology of the universe using CMB data and, in the near future, large-scale-structure data. Time allowing, I will briefly mention other projects in which I am involved. Based on papers by the COMPACT Collaboration, including, e.g., 2404.01236, 2306.17112 , and ongoing work."
   slides-link:
   youtube-link:
   speaker-thrust: "physics theory"
