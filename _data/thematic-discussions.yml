@@ -21,7 +21,7 @@
   
 - type: "thematic-discussion"
   semester: "fall-2025"
-  speaker-names-affiliations: "Berthy Feng (IAIFI Fellow) and more TBA"
+  speaker-names-affiliations: "Berthy Feng (IAIFI Fellow), Zev Imani (Tufts), Aizhan Akhmetzhanova (Harvard), Hannes Staerk (MIT)"
   speaker-title:
   speaker-affiliation:
   speaker-website:
@@ -31,12 +31,12 @@
   talk-location: "Harvard Kempner Institute, Winokur Family Hall, and the Kolker Room (MIT 26-414)"
   talk-title: "Diffusion"
   talk-abstract: "This Thematic Discussion Session will be led by Berthy Feng (IAIFI Fellow). It will be on the topic of diffusion, as part of [Boston Diffusion Day](https://bostondiffusionday.github.io/). As such, the session will have two in-person locations (choose whichever location you prefer), as well as a Zoom link for online participation.  In both locations, there will be an informal post-event social after the session. Boston Diffusion Day is a community workshop focused on diffusion models and modern generative modeling, bringing together researchers in machine learning, statistics, neuroscience, vision, and adjacent fields. The day features a mix of invited and contributed talks, a poster session, and ample time for discussion.  [Register here](https://bostondiffusionday.github.io/) if you would like to attend the full day."
-  slides-link:
-  youtube-link:
+  slides-link: https://drive.google.com/drive/folders/11J3L98M1j0n9EjBJz_9p6hU6BmWQyAHV?usp=sharing
+  youtube-link: https://drive.google.com/drive/folders/11J3L98M1j0n9EjBJz_9p6hU6BmWQyAHV?usp=sharing
   speaker-thrust:
-  speaker-gender:
-  talk-attendance-in-person:
-  talk-attendance-virtual:
+  speaker-gender: 2 man, 2 woman
+  talk-attendance-in-person: 50
+  talk-attendance-virtual: 17
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2RlNGg0bTNubHQxYTg3b2Q3bDZ2NHFvY2YgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
 
 - type: "thematic-discussion"

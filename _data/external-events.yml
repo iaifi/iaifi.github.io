@@ -1,4 +1,40 @@
 - type: "external-event"
+  event-name: "APS Global Physics Summit (Abstract submissions due Oct 23)"
+  event-organizer: "APS"
+  more-info-link: "https://summit.aps.org/about/"
+  event-post-date: "2025-10-19"
+  start-date-time: "2026-03-16 9:00"
+  end-date-time: "2026-03-20 17:00"
+  talk-location: "Denver, CO (Colorado Convention Center and Hyatt Regency Denver)"
+  talk-zoom:
+  event-details: "The APS Global Physics Summit is the largest physics research conference in the world, uniting 14,000 scientific community members across all disciplines of physics. This meeting reflects the inclusivity and synergy of many physics disciplines and emerging cross-disciplinary areas of science, which perfectly reflects this year's theme of Science for a Shared Future.**As the APS Global Physics Summit combines the March Meeting and April Meeting, abstracts must be submitted to either the March Meeting or April Meeting. Submit abstracts here by October 23, 2025: https://summit.aps.org/attend/abstracts/**"
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-10-19"
+  start-date-time: "2025-10-20 16:00"
+  end-date-time: "2025-10-20 17:00"
+  talk-location: "MIT Room G882 (Hewlett) and Zoom"
+  talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker 1: Laura Luebbert <br>Title: Pandemic-Potential Viruses are a Blind Spot for Frontier Open-Source LLMs<br>Abstract: We study large language models (LLMs) for front-line, pre-diagnostic infectious-disease triage, a critically understudied stage in clinical interventions, public health, and biothreat containment. We focus specifically on the operational decision of classifying symptomatic cases as \emph{viral} vs. \emph{non-viral} at first clinical contact, a critical decision point for resource allocation, quarantine strategy, and antibiotic use. We create a benchmark dataset of first-encounter cases in collaboration with multiple healthcare clinics in Nigeria, capturing high-risk viral presentations in low-resource settings with limited data. Our evaluations across frontier open-source LLMs reveal that (1) LLMs underperform standard tabular models and (2) case summaries and Retrieval Augmented Generation yield only modest gains, suggesting that naïve information enrichment is insufficient in this setting. To address this, we demonstrate how models aligned with Group Relative Policy Optimization and a triage-oriented reward consistently improve baseline performance. Our results highlight persistent failure modes of general-purpose LLMs in pre-diagnostic triage and demonstrate how targeted reward-based alignment can help close this gap.<br><br>Speaker 2: Jonathan Schafer <br>Title: Theoretical Guarantees for Learning with Unlabeled Data in Online Classification<br>Abstract: Practitioners commonly train classifiers using unlabeled data in addition to labeled data, because labeled data is often harder to obtain. However from a theoretical perspective, the question of whether and how unlabeled data can offer provable benefits in classification tasks is still not fully understood. In this talk, I discuss two recent works on the power of unlabeled data in online learning, a popular mathematical model of supervised learning. We show that (1) for some concept classes, access to unlabeled data can guarantee a quadratic reduction in the number of learner mistakes, and (2) in all cases the reduction can never be more than quadratic. This resolves a problem that remained open for 30 years."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWFlbTJqOGFsdWMzZTBvN2Y4MGRraDR0M20gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "AstroAI lunch seminar"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-10-19"
+  start-date-time: "2025-10-20 12:00"
+  end-date-time: "2025-10-20 13:00"
+  talk-location: "P-108A video wall, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Mykyta 'Nik' Kliapets (KU Leuven) <br>Title: Hunting BAF-type Hybrid Pulsators in TESS with Positive Unlabelled Learning. <br>Abstract:Hybrid (γ Doradus / δ Scuti and SPB / β Cephei) stars are perfect laboratories for probing stellar physics of intermediate and high-mass stars. Exhibiting both pressure (p) modes sensitive to outer interior layers and gravity (g) modes sensitive to near-core regions, they allow to probe outer and inner stellar interior layers simultaneously. While hundreds of p- and g-mode pulsators discovered by Kepler and the Transiting Exoplanet Survey Satellite (TESS) later revealed to be hybrids, many remain to be discovered in TESS data. However, manual vetting of all observations made by TESS is impractical. This is where machine learning comes into play, allowing to efficiently analyze large astronomical datasets and flag candidate pulsators for asteroseimic follow-up exploitations. In this study, we present our pipeline utilizing a periodogram smart binning method for feature extraction and a classifier from a semi-supervised machine learning paradigm, which is currently largely under-utilized in variability studies. We conclude with an overview of global stellar parameters and rotational properties of our candidate hybrids from TESS."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NG9qazgwc21xMTM0aHJ0MHBjZWx2YmU0MXQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
+- type: "external-event"
   event-name: "Boston Diffusion Day"
   event-organizer: "Hannah Kim and Emma Finn (Harvard)"
   more-info-link: "https://bostondiffusionday.github.io"
