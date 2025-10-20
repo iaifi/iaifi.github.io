@@ -5,18 +5,20 @@ title: "Higher-Spin Currents and Flows in Auxiliary Field Sigma Models"
 authors: "Daniele Bielli, Christian Ferko, Michele Galli, Gabriele Tartaglino-Mazzucchelli"
 abstract: "We study local, higher-spin conserved currents in integrable 2d sigma models that have been deformed via coupling to auxiliary fields. These currents generate integrability-preserving flows introduced by Smirnov and Zamolodchikov. For auxiliary field (AF) deformations of a free boson, we prove that local spin-n currents exist for all n and give recursion relations that characterize Smirnov-Zamolodchikov (SZ) flows driven by these currents. We then show how to construct spin-2n currents in a unified class of auxiliary field sigma models with common structure -- including AF theories based on the principal chiral model (PCM), its non-Abelian T-dual, (bi-)Yang-Baxter deformations of the PCM, and symmetric space models -- for interaction functions of one variable, and describe SZ flows driven by any function of the stress tensor in these cases. Finally, we give perturbative solutions for spin-3 SZ flows in any member of our unified class of AF models with underlying 𝔰𝔲(3) algebra. Part of our analysis shows that the class of AF deformations can be extended by allowing the interaction function to depend on a larger set of variables than has previously been considered."
 arxiv: "2504.17294"
-journal:
-doi:
+journal: "J. High Energ. Phys. 2025, 78"
+doi: "https://doi.org/10.1007/JHEP08(2025)078"
 nsf-par:
 code:
-publication-date:
+publication-date: 2025-08-12
 bib-tex: |
-  @article{bielli2025higherspincurrentsflowsauxiliary,
-      title={Higher-Spin Currents and Flows in Auxiliary Field Sigma Models},
-      author={Daniele Bielli and Christian Ferko and Michele Galli and Gabriele Tartaglino-Mazzucchelli},
-      year={2025},
-      eprint={2504.17294},
-      archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2504.17294},
+  @article{Bielli2025HigherSpin,
+  title={Higher-spin currents and flows in auxiliary field sigma models},
+  author={Daniele Bielli, Christian Ferko, Michele Galli & Gabriele Tartaglino-Mazzucchelli},
+  year={2025},
+  volume={2025},
+  url={https://doi.org/10.1007/JHEP08(2025)078},
+  journal={J. High Energ. Phys.},
+  eprint={2504.17294},
+  DOI={10.1007/JHEP08(2025)078},
+  archivePrefix={arXiv},
   }

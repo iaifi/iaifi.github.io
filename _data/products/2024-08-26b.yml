@@ -4,18 +4,25 @@ title: "Cosmological Parameter Estimation with a Joint-Likelihood Analysis of th
 authors: "Cara Giovanetti, Mariangela Lisanti, Hongwan Liu, Siddharth Mishra-Sharma, Joshua T. Ruderman"
 abstract: "We present the first joint-likelihood analysis of Big Bang Nucleosynthesis (BBN) and Cosmic Microwave Background (CMB) data. Bayesian inference is performed on the baryon abundance and the effective number of neutrino species, Neff, using a CMB Boltzmann solver in combination with LINX, a new flexible and efficient BBN code. We marginalize over Planck nuisance parameters and nuclear rates to find Neff=3.08+0.13−0.13,2.94+0.16−0.16, or 2.98+0.14−0.13, for three separate reaction networks. This framework enables robust testing of the Lambda Cold Dark Matter paradigm and its variants with CMB and BBN data."
 arxiv: "2408.14531"
-journal:
-doi:
+journal: "Phys. Rev. D 112, 06353"
+doi: "https://doi.org/10.1103/wspy-s948"
 nsf-par:
-code: 
-publication-date:
+code:
+publication-date: 2025-09-17
 bib-tex: |
-  @article{giovanetti2024cosmologicalparameterestimationjointlikelihood,
-      title={Cosmological Parameter Estimation with a Joint-Likelihood Analysis of the Cosmic Microwave Background and Big Bang Nucleosynthesis},
-      author={Cara Giovanetti and Mariangela Lisanti and Hongwan Liu and Siddharth Mishra-Sharma and Joshua T. Ruderman},
-      year={2024},
-      eprint={2408.14531},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.CO},
-      url={https://arxiv.org/abs/2408.14531},
+  @article{wspy-s948,
+  title = {Cosmological parameter estimation with a joint-likelihood analysis of the cosmic microwave background and big bang nucleosynthesis},
+  author = {Giovanetti, Cara and Lisanti, Mariangela and Liu, Hongwan and Mishra-Sharma, Siddharth and Ruderman, Joshua T.},
+  journal = {Phys. Rev. D},
+  volume = {112},
+  issue = {6},
+  pages = {063530},
+  numpages = {10},
+  year = {2025},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/wspy-s948},
+  url = {https://link.aps.org/doi/10.1103/wspy-s948},
+  eprint={2408.14531},
+  archivePrefix={arXiv},
   }

@@ -4,18 +4,25 @@ title: "LINX: A Fast, Differentiable, and Extensible Big Bang Nucleosynthesis Pa
 authors: "Cara Giovanetti, Mariangela Lisanti, Hongwan Liu, Siddharth Mishra-Sharma, Joshua T. Ruderman"
 abstract: "We introduce LINX (Light Isotope Nucleosynthesis with JAX), a new differentiable public Big Bang Nucleosynthesis (BBN) code designed for fast parameter estimation. By leveraging JAX, LINX achieves both speed and differentiability, enabling the use of Bayesian inference, including gradient-based methods. We discuss the formalism used in LINX for rapid primordial elemental abundance predictions and give examples of how LINX can be used. When combined with differentiable Cosmic Microwave Background (CMB) power spectrum emulators, LINX can be used for joint CMB and BBN analyses without requiring extensive computational resources, including on personal hardware."
 arxiv: "2408.14538"
-journal:
-doi:
+journal: "Phys. Rev. D 112, 063531"
+doi: "https://doi.org/10.1103/f3tj-r882"
 nsf-par:
-code: https://github.com/cgiovanetti/LINX
-publication-date:
+code: "https://github.com/cgiovanetti/LINX"
+publication-date: 2025-09-17
 bib-tex: |
-  @article{giovanetti2024linxfastdifferentiableextensible,
-      title={LINX: A Fast, Differentiable, and Extensible Big Bang Nucleosynthesis Package},
-      author={Cara Giovanetti and Mariangela Lisanti and Hongwan Liu and Siddharth Mishra-Sharma and Joshua T. Ruderman},
-      year={2024},
-      eprint={2408.14538},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.CO},
-      url={https://arxiv.org/abs/2408.14538},
+  @article{f3tj-r882,
+  title = {Fast, differentiable, and extensible big bang nucleosynthesis package},
+  author = {Giovanetti, Cara and Lisanti, Mariangela and Liu, Hongwan and Mishra-Sharma, Siddharth and Ruderman, Joshua T.},
+  journal = {Phys. Rev. D},
+  volume = {112},
+  issue = {6},
+  pages = {063531},
+  numpages = {33},
+  year = {2025},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/f3tj-r882},
+  url = {https://link.aps.org/doi/10.1103/f3tj-r882},
+  eprint={2408.14538},
+  archivePrefix={arXiv},
   }

@@ -5,18 +5,26 @@ title: "Auriga Streams II: orbital properties of tidally disrupting satellites o
 authors: "Nora Shipp, Alexander H. Riley, Christine M. Simpson, Rebekka Bieri, Lina Necib, Arpit Arora, Francesca Fragkoudi, Facundo A. Gómez, Robert J. J. Grand, Federico Marinacci"
 abstract: "Galaxies like the Milky Way are surrounded by complex populations of satellites at all stages of tidal disruption. In this paper, we present a dynamical study of the disrupting satellite galaxies in the Auriga simulations that are orbiting 28 distinct Milky Way-mass hosts across three resolutions. We find that the satellite galaxy populations are highly disrupted. The majority of satellites that remain fully intact at present day were accreted recently without experiencing more than one pericentre (nperi≲1) and have large apocentres (rapo≳200 kpc) and pericentres (rperi≳50 kpc). The remaining satellites have experienced significant tidal disruption and, given full knowledge of the system, would be classified as stellar streams. We find stellar streams in Auriga across the range of pericentres and apocentres of the known Milky Way dwarf galaxy streams and, interestingly, overlapping significantly with the Milky Way intact satellite population. We find no significant change in satellite orbital distributions across resolution. However, we do see substantial halo-to-halo variance of (rperi,rapo) distributions across host galaxies, as well as a dependence of satellite orbits on host halo mass - systems disrupt at larger pericentres and apocentres in more massive hosts. Our results suggest that either cosmological simulations (including, but not limited to, Auriga) are disrupting satellites far too readily, or that the Milky Way's satellites are more disrupted than current imaging surveys have revealed. Future observing facilities and careful mock observations of these systems will be key to revealing the nature of this apparent discrepancy."
 arxiv: "2410.09143"
-journal:
-doi:
+journal: "Monthly Notices of the Royal Astronomical Society, Volume 542, Issue 2"
+doi: "https://doi.org/10.1093/mnras/staf1283"
 nsf-par:
 code:
-publication-date:
+publication-date: 2025-08-05
 bib-tex: |
-  @article{shipp2024aurigastreamsiiorbital,
-      title={Auriga Streams II: orbital properties of tidally disrupting satellites of Milky Way-mass galaxies},
-      author={Nora Shipp and Alexander H. Riley and Christine M. Simpson and Rebekka Bieri and Lina Necib and Arpit Arora and Francesca Fragkoudi and Facundo A. Gómez and Robert J. J. Grand and Federico Marinacci},
-      year={2024},
-      eprint={2410.09143},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.GA},
-      url={https://arxiv.org/abs/2410.09143},
+  @article{10.1093/mnras/staf1283,
+    author = {Shipp, Nora and Riley, Alexander H and Simpson, Christine M and Bieri, Rebekka and Necib, Lina and Arora, Arpit and Fragkoudi, Francesca and G√≥mez, Facundo A and Grand, Robert J J and Marinacci, Federico},
+    title = {Auriga Streams II: orbital properties of tidally disrupting satellites of Milky Way-mass galaxies},
+    journal = {Monthly Notices of the Royal Astronomical Society},
+    volume = {542},
+    number = {2},
+    pages = {1109-1124},
+    year = {2025},
+    month = {08},
+    abstract = {Galaxies like the Milky Way are surrounded by complex populations of satellites at all stages of tidal disruption. In this paper, we present a dynamical study of the disrupting satellite galaxies in the Auriga simulations that are orbiting 28 distinct Milky Way-mass hosts across three resolutions. We find that the satellite galaxy populations are highly disrupted. The majority of satellites that remain fully intact at present day were accreted recently without experiencing more than one pericentre (\$n\_\{\\rm peri\} \\lesssim 1\$) and have large apocentres (\$r\_\{\\rm apo\} \\gtrsim 200 \\mathrm\{\\, kpc\}\$) and pericentres (\$r\_\{\\rm peri\} \\gtrsim 50 \\mathrm\{\\, kpc\}\$). The remaining satellites have experienced significant tidal disruption and, given full knowledge of the system, would be classified as stellar streams. We find stellar streams in Auriga across the range of pericentres and apocentres of the known Milky Way dwarf galaxy streams and, interestingly, overlapping significantly with the Milky Way intact satellite population. We find no significant change in satellite orbital distributions across resolution. However, we do see substantial halo-to-halo variance of \$(r\_\\text\{peri\}, r\_\\text\{apo\})\$ distributions across host galaxies, as well as a dependence of satellite orbits on host halo mass‚Äìsystems disrupt at larger pericentres and apocentres in more massive hosts. Our results suggest that either cosmological simulations (including, but not limited to, Auriga) are disrupting satellites far too readily, or that the Milky Way‚Äôs satellites are more disrupted than current imaging surveys have revealed. Future observing facilities and careful mock observations of these systems will be key to revealing the nature of this apparent discrepancy.},
+    issn = {0035-8711},
+    doi = {10.1093/mnras/staf1283},
+    url = {https://doi.org/10.1093/mnras/staf1283},
+    eprint = {https://academic.oup.com/mnras/article-pdf/542/2/1109/63957140/staf1283.pdf},,
+  eprint={2410.09143},
+  archivePrefix={arXiv},
   }
