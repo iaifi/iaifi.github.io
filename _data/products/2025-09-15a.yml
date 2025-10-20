@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-09-15
+title: "When IIb Ceases To Be: Bridging the Gap Between IIb and Short-plateau Supernovae"
+authors: "Joseph R. Farah, D. Andrew Howell, Daichi Hiramatsu, Curtis McCully, Moira Andrews, Megan Newsome, Estefania Padilla Gonzalez, Craig Pellegrino, Edo Berger, Peter Blanchard, Sebastian Gomez, Harsh Kumar, K. Azalee Bostroem, Yuan Qi Ni, A. Gagliano, Aravind P. Ravi"
+abstract: "Hydrogen-rich supernovae (SNe) span a range of hydrogen envelope masses at core collapse, producing diverse light curves from extended plateaus in Type II SNe to double-peaked Type IIb SNe. Recent hydrodynamic modeling predicts a continuous sequence of light-curve morphologies as hydrogen is removed, with short plateau SNe (plateau durations ~50--70 days) emerging as a transitional class. However, the observational boundary between IIb and short-plateau remains poorly defined, and thus far unobserved. We report on extensive photometric and spectroscopic follow-up of SN 2023wdd and SN 2022acrv, candidate transitional events on the low-mass end of the short-plateau class. Both exhibit weak, double-peaked light curves which we interpret as exceptionally short plateaus (10--20 days), and hybrid spectral features: persistent H absorption with He I contamination, but without the helium dominance characteristic of IIb SNe. Using analytic shock-cooling models and numerical light curve fitting, we estimate hydrogen-rich envelope masses of ~0.6--0.8  -- significantly larger than canonical IIb values () but consistent with the  threshold predicted for short-plateau behavior. Although the progenitor radii inferred from analytic and numerical methods differ by factors of 2--5, envelope mass estimates are consistent across approaches. Comparisons to well-studied IIb (SN 2016gkg, SN 2022hnt), short-plateau (SN 2023ufx, SN 2006ai, SN 2016egz, SN 2006Y), and II SNe (SN 2023ixf, SN 2013ej) suggest a monotonic relationship between hydrogen envelope mass and plateau length consistent with analytic and numerical expectations. These findings provide additional evidence for a continuous distribution of envelope stripping in hydrogen-rich core-collapse progenitors and place SN 2023wdd and SN 2022acrv along the IIb/short-plateau boundary."
+arxiv: "2509.12470"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{farah2025iibceasesbebridging,
+      title={When IIb Ceases To Be: Bridging the Gap Between IIb and Short-plateau Supernovae},
+      author={Joseph R. Farah and D. Andrew Howell and Daichi Hiramatsu and Curtis McCully and Moira Andrews and Megan Newsome and Estefania Padilla Gonzalez and Craig Pellegrino and Edo Berger and Peter Blanchard and Sebastian Gomez and Harsh Kumar and K. Azalee Bostroem and Yuan Qi Ni and A. Gagliano and Aravind P. Ravi},
+      year={2025},
+      eprint={2509.12470},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2509.12470},
+  }

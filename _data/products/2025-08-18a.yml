@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-08-18
+title: "Efficient Constraint-Aware Flow Matching via Randomized Exploration"
+authors: "Zhengyan Huan, Jacob Boerma, Li-Ping Liu, Shuchin Aeron"
+abstract: "We consider the problem of generating samples via Flow Matching (FM) with an additional requirement that the generated samples must satisfy given constraints. We consider two scenarios, viz.: (a) when a differentiable distance function to the constraint set is given, and (b) when the constraint set is only available via queries to a membership oracle. For case (a), we propose a simple adaptation of the FM objective with an additional term that penalizes the distance between the constraint set and the generated samples. For case (b), we propose to employ randomization and learn a mean flow that is numerically shown to have a high likelihood of satisfying the constraints. This approach deviates significantly from existing works that require simple convex constraints, knowledge of a barrier function, or a reflection mechanism to constrain the probability flow. Furthermore, in the proposed setting we show that a two-stage approach, where both stages approximate the same original flow but with only the second stage probing the constraints via randomization, is more computationally efficient. Through several synthetic cases of constrained generation, we numerically show that the proposed approaches achieve significant gains in terms of constraint satisfaction while matching the target distributions. As a showcase for a practical oracle-based constraint, we show how our approach can be used for training an adversarial example generator, using queries to a hard-label black-box classifier. We conclude with several future research directions"
+arxiv: "2508.13316"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/ZhengyanHuan/FM-RE"
+publication-date:
+bib-tex: |
+  @article{huan2025efficientconstraintawareflowmatching,
+      title={Efficient Constraint-Aware Flow Matching via Randomized Exploration},
+      author={Zhengyan Huan and Jacob Boerma and Li-Ping Liu and Shuchin Aeron},
+      year={2025},
+      eprint={2508.13316},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2508.13316},
+  }

@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2023-10-11
+title: "Feature Learning and Generalization in Deep Networks with Orthogonal Weights"
+authors: "Hannah Day, Yonatan Kahn, Daniel A. Roberts"
+abstract: "Fully-connected deep neural networks with weights initialized from independent Gaussian distributions can be tuned to criticality, which prevents the exponential growth or decay of signals propagating through the network. However, such networks still exhibit fluctuations that grow linearly with the depth of the network, which may impair the training of networks with width comparable to depth. We show analytically that rectangular networks with tanh activations and weights initialized from the ensemble of orthogonal matrices have corresponding preactivation fluctuations which are independent of depth, to leading order in inverse width. Moreover, we demonstrate numerically that, at initialization, all correlators involving the neural tangent kernel (NTK) and its descendants at leading order in inverse width -- which govern the evolution of observables during training -- saturate at a depth of , rather than growing without bound as in the case of Gaussian initializations. We speculate that this structure preserves finite-width feature learning while reducing overall noise, thus improving both generalization and training speed in deep networks with depth comparable to width. We provide some experimental justification by relating empirical measurements of the NTK to the superior performance of deep nonlinear orthogonal networks trained under full-batch gradient descent on the MNIST and CIFAR-10 classification tasks."
+arxiv: "2310.07765"
+journal: "Machine Learning: Science and Technology, Volume 6, Number 3"
+doi: "https://doi.org/10.1088/2632-2153/adf278"
+nsf-par:
+code:
+publication-date: 2025-08-07
+bib-tex: |
+  @article{Day_2025,
+  doi = {10.1088/2632-2153/adf278},
+  url = {https://doi.org/10.1088/2632-2153/adf278},
+  year = {2025},
+  month = {aug},
+  publisher = {IOP Publishing},
+  volume = {6},
+  number = {3},
+  pages = {035027},
+  author = {Day, Hannah and Kahn, Yonatan and Roberts, Daniel A},
+  title = {Feature learning and generalization in deep networks with orthogonal weights},
+  journal = {Machine Learning: Science and Technology},
+  abstract = {Fully-connected deep neural networks with weights initialized from independent Gaussian distributions can be tuned to criticality, which prevents the exponential growth or decay of signals propagating through the network. However, such networks still exhibit fluctuations that grow linearly with the depth of the network, which may impair the training of networks with width comparable to depth. We show analytically that rectangular networks with tanh activations and weights initialized from the ensemble of orthogonal matrices have corresponding preactivation fluctuations which are independent of depth, to leading order in inverse width. Moreover, we demonstrate numerically that, at initialization, all correlators involving the neural tangent kernel (NTK) and its descendants at leading order in inverse width‚Äîwhich govern the evolution of observables during training‚Äîsaturate at a depth of , rather than growing without bound as in the case of Gaussian initializations. We speculate that this structure preserves finite-width feature learning while reducing overall noise, thus improving both generalization and training speed in deep networks with depth comparable to width. We provide some experimental justification by relating empirical measurements of the NTK to the superior performance of deep non-linear orthogonal networks trained under full-batch gradient descent on the MNIST and CIFAR-10 classification tasks.},
+  eprint={2310.07765},
+  archivePrefix={arXiv},
+  }

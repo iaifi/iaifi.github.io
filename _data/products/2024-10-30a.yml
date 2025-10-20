@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2024-10-30
+title: "ASURA-FDPS-ML: Star-by-star Galaxy Simulations Accelerated by Surrogate Modeling for Supernova Feedback"
+authors: "Keiya Hirashima, Kana Moriwaki, Michiko S. Fujii, Yutaka Hirai, Takayuki R. Saitoh, Junichiro Makino, Ulrich P. Steinwandel, and Shirley Ho"
+abstract: "We introduce new high-resolution galaxy simulations accelerated by a surrogate model that reduces the computation cost by approximately 75%. Massive stars with a zero-age main-sequence mass of more than about 10 M⊙ explode as core-collapse supernovae (CCSNe), which play a critical role in galaxy formation. The energy released by CCSNe is essential for regulating star formation and driving feedback processes in the interstellar medium (ISM). However, the short integration time steps required for SN feedback have presented significant bottlenecks in astrophysical simulations across various scales. Overcoming this challenge is crucial for enabling star-by-star galaxy simulations, which aim to capture the dynamics of individual stars and the inhomogeneous shell’s expansion within the turbulent ISM. To address this, our new framework combines direct numerical simulations and surrogate modeling, including machine learning and Gibbs sampling. The star formation history and the time evolution of outflow rates in the galaxy match those obtained from resolved direct numerical simulations. Our new approach achieves high-resolution fidelity while reducing computational costs, effectively bridging the physical scale gap and enabling multiscale simulations."
+arxiv: "2410.23346"
+journal: "The Astrophysical Journal, Volume 987, Number 1"
+doi: "https://doi.org/10.3847/1538-4357/add689"
+nsf-par:
+code:
+publication-date: 2025-07-01
+bib-tex: |
+  @article{Hirashima_2025,
+  doi = {10.3847/1538-4357/add689},
+  url = {https://doi.org/10.3847/1538-4357/add689},
+  year = {2025},
+  month = {jul},
+  publisher = {The American Astronomical Society},
+  volume = {987},
+  number = {1},
+  pages = {86},
+  author = {Hirashima, Keiya and Moriwaki, Kana and Fujii, Michiko S. and Hirai, Yutaka and Saitoh, Takayuki R. and Makino, Junichiro and Steinwandel, Ulrich P. and Ho, Shirley},
+  title = {ASURA-FDPS-ML: Star-by-star Galaxy Simulations Accelerated by Surrogate Modeling for Supernova Feedback},
+  journal = {The Astrophysical Journal},
+  abstract = {We introduce new high-resolution galaxy simulations accelerated by a surrogate model that reduces the computation cost by approximately 75%. Massive stars with a zero-age main-sequence mass of more than about 10 M‚äô explode as core-collapse supernovae (CCSNe), which play a critical role in galaxy formation. The energy released by CCSNe is essential for regulating star formation and driving feedback processes in the interstellar medium (ISM). However, the short integration time steps required for SN feedback have presented significant bottlenecks in astrophysical simulations across various scales. Overcoming this challenge is crucial for enabling star-by-star galaxy simulations, which aim to capture the dynamics of individual stars and the inhomogeneous shell‚Äôs expansion within the turbulent ISM. To address this, our new framework combines direct numerical simulations and surrogate modeling, including machine learning and Gibbs sampling. The star formation history and the time evolution of outflow rates in the galaxy match those obtained from resolved direct numerical simulations. Our new approach achieves high-resolution fidelity while reducing computational costs, effectively bridging the physical scale gap and enabling multiscale simulations.},
+  eprint={2410.23346},
+  archivePrefix={arXiv},
+  }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-07-16
+title: "CosmoFlow: Scale-Aware Representation Learning for Cosmology with Flow Matching"
+authors: "Sidharth Kannan, Tian Qiu, Carolina Cuesta-Lazaro, Haewon Jeong"
+abstract: "Generative machine learning models have been demonstrated to be able to learn low dimensional representations of data that preserve information required for downstream tasks. In this work, we demonstrate that flow matching based generative models can learn compact, semantically rich latent representations of field level cold dark matter (CDM) simulation data without supervision. Our model, CosmoFlow, learns representations 32x smaller than the raw field data, usable for field level reconstruction, synthetic data generation, and parameter inference. Our model also learns interpretable representations, in which different latent channels correspond to features at different cosmological scales."
+arxiv: "2507.11842"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/sidk2/cosmo-compression"
+publication-date:
+bib-tex: |
+  @article{kannan2025cosmoflowscaleawarerepresentationlearning,
+      title={CosmoFlow: Scale-Aware Representation Learning for Cosmology with Flow Matching},
+      author={Sidharth Kannan and Tian Qiu and Carolina Cuesta-Lazaro and Haewon Jeong},
+      year={2025},
+      eprint={2507.11842},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2507.11842},
+  }

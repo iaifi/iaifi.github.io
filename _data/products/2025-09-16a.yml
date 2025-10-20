@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2024-09-16
+title: "Unveiling the Diversity of Type IIn Supernovae via Systematic Light-curve Modeling"
+authors: "C. L. Ransome and V. A. Villar"
+abstract: "Type IIn supernovae (SNe IIn) are a highly heterogeneous subclass of core-collapse supernovae, spectroscopically characterized by signatures of interaction with a dense circumstellar medium (CSM). Here, we systematically model the light curves of 142 archival SNe IIn using the Modular Open Source Fitter for Transients. We find that the observed and inferred properties of SN IIn are diverse, but there are some trends. The typical supernova CSM is dense (∼10−12 g cm−3) with highly diverse CSM geometry, with a median CSM mass of ∼1 M⊙. The ejecta are typically massive (≳10 M⊙), suggesting massive progenitor systems. We find positive correlations between the CSM mass and the rise and fall times of SNe IIn. Furthermore, there are positive correlations between the rise time and fall times and the r-band luminosity. We estimate the mass-loss rates of our sample (where spectroscopy is available) and find a high median mass-loss rate of ∼10−2 M⊙ yr−1, with a range between 10−3 and 1 M⊙ yr−1. These mass-loss rates are most similar to the mass loss from great eruptions of luminous blue variables, consistent with the direct progenitor detections in the literature. We also discuss the role that binary interactions may play, concluding that at least some of our SNe IIn may be from massive binary systems. Finally, we estimate a detection rate of 1.6 × 105 yr−1 in the upcoming Legacy Survey of Space and Time at the Vera C. Rubin Observatory."
+arxiv: "2409.10596"
+journal: "The Astrophysical Journal, 2025, Volume 987, Number 1"
+doi: "https://doi.org/10.3847/1538-4357/adce03"
+nsf-par:
+code:
+publication-date: 2025-06-23
+bib-tex: |
+  @article{Ransome_2025,
+  doi = {10.3847/1538-4357/adce03},
+  url = {https://doi.org/10.3847/1538-4357/adce03},
+  year = {2025},
+  month = {jun},
+  publisher = {The American Astronomical Society},
+  volume = {987},
+  number = {1},
+  pages = {13},
+  author = {Ransome, C. L. and Villar, V. A.},
+  title = {Unveiling the Diversity of Type IIn Supernovae via Systematic Light-curve Modeling},
+  journal = {The Astrophysical Journal},
+  abstract = {Type IIn supernovae (SNe IIn) are a highly heterogeneous subclass of core-collapse supernovae, spectroscopically characterized by signatures of interaction with a dense circumstellar medium (CSM). Here, we systematically model the light curves of 142 archival SNe IIn using the Modular Open Source Fitter for Transients. We find that the observed and inferred properties of SN IIn are diverse, but there are some trends. The typical supernova CSM is dense (‚àº10‚àí12 g cm‚àí3) with highly diverse CSM geometry, with a median CSM mass of ‚àº1 M‚äô. The ejecta are typically massive (‚â≥10 M‚äô), suggesting massive progenitor systems. We find positive correlations between the CSM mass and the rise and fall times of SNe IIn. Furthermore, there are positive correlations between the rise time and fall times and the r-band luminosity. We estimate the mass-loss rates of our sample (where spectroscopy is available) and find a high median mass-loss rate of ‚àº10‚àí2 M‚äô yr‚àí1, with a range between 10‚àí3 and 1 M‚äô yr‚àí1. These mass-loss rates are most similar to the mass loss from great eruptions of luminous blue variables, consistent with the direct progenitor detections in the literature. We also discuss the role that binary interactions may play, concluding that at least some of our SNe IIn may be from massive binary systems. Finally, we estimate a detection rate of 1.6 √ó 105 yr‚àí1 in the upcoming Legacy Survey of Space and Time at the Vera C. Rubin Observatory.},
+  eprint={2409.10596},
+  archivePrefix={arXiv},
+  }
