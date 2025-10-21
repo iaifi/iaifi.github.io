@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-09-05
+title: "Beyond I-Con: Exploring New Dimension of Distance Measures in Representation Learning"
+authors: "Jasmine Shone, Shaden Alshammari, Mark Hamilton, Zhening Li, William Freeman"
+abstract: "The Information Contrastive (I-Con) framework revealed that over 23 representation learning methods implicitly minimize KL divergence between data and learned distributions that encode similarities between data points. However, a KL-based loss may be misaligned with the true objective, and properties of KL divergence such as asymmetry and unboundedness may create optimization challenges. We present Beyond I-Con, a framework that enables systematic discovery of novel loss functions by exploring alternative statistical divergences and similarity kernels. Key findings: (1) on unsupervised clustering of DINO-ViT embeddings, we achieve state-of-the-art results by modifying the PMI algorithm to use total variation (TV) distance; (2) on supervised contrastive learning, we outperform the standard approach by using TV and a distance-based similarity kernel instead of KL and an angular kernel; (3) on dimensionality reduction, we achieve superior qualitative results and better performance on downstream tasks than SNE by replacing KL with a bounded f-divergence. Our results highlight the importance of considering divergence and similarity kernel choices in representation learning optimization."
+arxiv: "2509.04734"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{shone2025iconexploringnewdimension,
+      title={Beyond I-Con: Exploring New Dimension of Distance Measures in Representation Learning},
+      author={Jasmine Shone and Shaden Alshammari and Mark Hamilton and Zhening Li and William Freeman},
+      year={2025},
+      eprint={2509.04734},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2509.04734},
+  }

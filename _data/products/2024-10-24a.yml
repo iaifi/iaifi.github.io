@@ -5,18 +5,25 @@ title: "Joint Modeling of Quasar Variability and Accretion Disk Reprocessing usi
 authors: "Joshua Fagin, James Hung-Hsu Chan, Henry Best, Matthew O'Dowd, K. E. Saavik Ford, Matthew J. Graham, Ji Won Park, V. Ashley Villar"
 abstract: "Quasars are bright active galactic nuclei powered by the accretion of matter around supermassive black holes at the center of galaxies. Their stochastic brightness variability depends on the physical properties of the accretion disk and black hole. The upcoming Rubin Observatory Legacy Survey of Space and Time (LSST) is expected to observe tens of millions of quasars, so there is a need for efficient techniques like machine learning that can handle the large volume of data. Quasar variability is believed to be driven by an X-ray corona, which is reprocessed by the accretion disk and emitted as UV/optical variability. We are the first to introduce an auto-differentiable simulation of the accretion disk and reprocessing. We use the simulation as a direct component of our neural network to jointly model the driving variability and reprocessing to fit simulated LSST 10-year quasar light curves. The driving variability is reconstructed using a latent stochastic differential equation, a physically motivated, generative deep learning method that can model continuous-time stochastic dynamics. By embedding these physical processes into our network, we achieve a model that is more robust and interpretable. We also use transformers to scale our model to tens of millions of parameters. We demonstrate how our model outperforms a Gaussian process regression baseline and can infer accretion disk parameters and time delays between wavebands, even for out-of-distribution driving signals. Our approach provides a powerful and scalable framework that can be adapted to solve other inverse problems in multivariate time series with irregular sampling."
 arxiv: "2410.18423"
-journal:
-doi:
+journal: "The Astrophysical Journal, Volume 988, Number 1"
+doi: "https://doi.org/10.3847/1538-4357/addabc"
 nsf-par:
-code: https://github.com/JFagin/Quasar_ML
-publication-date:
+code: "https://github.com/JFagin/Quasar_ML"
+publication-date: 2025-07-14
 bib-tex: |
-  @article{fagin2024jointmodelingquasarvariability,
-      title={Joint Modeling of Quasar Variability and Accretion Disk Reprocessing using Latent Stochastic Differential Equations},
-      author={Joshua Fagin and James Hung-Hsu Chan and Henry Best and Matthew O'Dowd and K. E. Saavik Ford and Matthew J. Graham and Ji Won Park and V. Ashley Villar},
-      year={2024},
-      eprint={2410.18423},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.GA},
-      url={https://arxiv.org/abs/2410.18423},
+  @article{Fagin_2025,
+  doi = {10.3847/1538-4357/addabc},
+  url = {https://doi.org/10.3847/1538-4357/addabc},
+  year = {2025},
+  month = {jul},
+  publisher = {The American Astronomical Society},
+  volume = {988},
+  number = {1},
+  pages = {59},
+  author = {Fagin, Joshua and Chan, James Hung-Hsu and Best, Henry and O‚ÄôDowd, Matthew and Ford, K. E. Saavik and Graham, Matthew J. and Park, Ji Won and Villar, V. Ashley},
+  title = {Joint Modeling of Quasar Variability and Accretion Disk Reprocessing Using Latent Stochastic Differential Equations},
+  journal = {The Astrophysical Journal},
+  abstract = {Quasars are bright active galactic nuclei powered by the accretion of matter around supermassive black holes at the center of galaxies. Their stochastic brightness variability depends on the physical properties of the accretion disk and black hole. The upcoming Rubin Observatory Legacy Survey of Space and Time (LSST) is expected to observe tens of millions of quasars, so there is a need for efficient techniques like machine learning that can handle the large volume of data. Quasar variability is believed to be driven by an X-ray corona, which is reprocessed by the accretion disk and emitted as UV/optical variability. We are the first to introduce an auto-differentiable simulation of the accretion disk and reprocessing. We use the simulation as a direct component of our neural network to jointly model the driving variability and reprocessing, trained with supervised learning on simulated LSST-like 10 yr quasar light curves. We encode the light curves using a transformer encoder, and the driving variability is reconstructed using latent stochastic differential equations, a physically motivated generative deep learning method that can model continuous-time stochastic dynamics. By embedding the physical processes of the driving signal and reprocessing into our network, we achieve a model that is more robust and interpretable. We demonstrate that our model outperforms a Gaussian process regression baseline and can infer accretion disk parameters and time delays between wave bands, even for out-of-distribution driving signals. Our approach provides a powerful framework that can be adapted to solve other inverse problems in multivariate time series.},
+  eprint={2410.18423},
+  archivePrefix={arXiv},
   }

@@ -5,18 +5,20 @@ title: "SymbolFit: Automatic Parametric Modeling with Symbolic Regression"
 authors: "Ho Fung Tsoi, Dylan Rankin, Cecile Caillol, Miles Cranmer, Sridhara Dasu, Javier Duarte, Philip Harris, Elliot Lipeles, Vladimir Loncar"
 abstract: "We introduce SymbolFit, a framework that automates parametric modeling by using symbolic regression to perform a machine-search for functions that fit the data while simultaneously providing uncertainty estimates in a single run. Traditionally, constructing a parametric model to accurately describe binned data has been a manual and iterative process, requiring an adequate functional form to be determined before the fit can be performed. The main challenge arises when the appropriate functional forms cannot be derived from first principles, especially when there is no underlying true closed-form function for the distribution. In this work, we develop a framework that automates and streamlines the process by utilizing symbolic regression, a machine learning technique that explores a vast space of candidate functions without requiring a predefined functional form because the functional form itself is treated as a trainable parameter, making the process far more efficient and effortless than traditional regression methods. We demonstrate the framework in high-energy physics experiments at the CERN Large Hadron Collider (LHC) using five real proton-proton collision datasets from new physics searches, including background modeling in resonance searches for high-mass dijet, trijet, paired-dijet, diphoton, and dimuon events. We show that our framework can flexibly and efficiently generate a wide range of candidate functions that fit a nontrivial distribution well using a simple fit configuration that varies only by random seed, and that the same fit configuration, which defines a vast function space, can also be applied to distributions of different shapes, whereas achieving a comparable result with traditional methods would have required extensive manual effort."
 arxiv: "2411.09851"
-journal:
-doi:
+journal: "Computing and Software for Big Science, Volume 9, article number 12, (2025)"
+doi: "https://doi.org/10.1007/s41781-025-00140-9"
 nsf-par:
-code:
-publication-date:
+code: "https://github.com/hftsoi/symbolfit"
+publication-date: 2025-07-01
 bib-tex: |
-  @article{tsoi2025symbolfitautomaticparametricmodeling,
-      title={SymbolFit: Automatic Parametric Modeling with Symbolic Regression},
-      author={Ho Fung Tsoi and Dylan Rankin and Cecile Caillol and Miles Cranmer and Sridhara Dasu and Javier Duarte and Philip Harris and Elliot Lipeles and Vladimir Loncar},
-      year={2025},
-      eprint={2411.09851},
-      archivePrefix={arXiv},
-      primaryClass={hep-ex},
-      url={https://arxiv.org/abs/2411.09851},
+  @article{Tsoi2025SymbolFit,
+  title={SymbolFit: Automatic Parametric Modeling with Symbolic Regression},
+  author={Ho Fung Tsoi, Dylan Rankin, Cecile Caillol, Miles Cranmer, Sridhara Dasu, Javier Duarte, Philip Harris, Elliot Lipeles & Vladimir Loncar},
+  year={2025},
+  volume={9},
+  url={https://doi.org/10.1007/s41781-025-00140-9},
+  journal={Computing and Software for Big Science},
+  eprint={2411.09851},
+  DOI={10.1007/s41781-025-00140-9},
+  archivePrefix={arXiv},
   }

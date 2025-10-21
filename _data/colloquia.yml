@@ -96,11 +96,11 @@
 
 - type: "colloquium"
   semester: "fall-2025"
-  speaker-name: "Speaker to be announced"
-  speaker-title: "Title to come"
-  speaker-affiliation: "Affiliation to come"
-  speaker-website:
-  speaker-photo-location:
+  speaker-name: "Melanie Weber"
+  speaker-title: "Assistant Professor of Applied Mathematics and of Computer Science"
+  speaker-affiliation: "Harvard University"
+  speaker-website: https://melanie-weber.com/
+  speaker-photo-location: "images/small-photo-melanie-weber.jpg"
   start-date-time: "2025-11-14 14:00"
   end-date-time: "2025-11-14 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -109,9 +109,9 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9ycjFnZzFyam9raDJqamUzM200bzdoZnUgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
-  speaker-thrust:
-  speaker-gender:
-  talk-attendance:
+  speaker-thrust: "Foundational AI"
+  speaker-gender: "Woman"
+  talk-attendance: 0 in person, 0 virtual
 
 - type: "colloquium"
   semester: "spring-2025"

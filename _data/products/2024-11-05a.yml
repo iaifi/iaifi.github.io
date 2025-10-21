@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2024-11-05
+title: "Structure factor and topological bound of twisted bilayer semiconductors at fractional fillings"
+authors: "Timothy Zaklama, Di Luo, Liang Fu"
+abstract: "The structure factor is a useful observable for probing charge density correlations in real materials, and its long-wavelength behavior encapsulated by ``quantum weight'' has recently gained prominence in the study of quantum geometry and topological phases of matter. Here we employ the static structure factor, S(q), to explore the phase diagram of twisted transition metal dichalcogenides (TMDs), specifically tMoTe2, at filling factors n=1/3, 2/3 under varying displacement fields. Our results reveal a topological phase transition between a fractional Chern insulator (FCI) and a generalized Wigner crystal (GWC). This transition is marked by the appearance of Bragg peaks at charge-density-wave vectors, and simultaneously, large decrease of S(q) at small q which lowers the interaction energy. We further calculate the quantum weight of various FCI states, verifying the universal topological bound. Our findings provide new insights into the phase diagram of twisted TMDs and establish a general framework for characterizing topological phases through structure factor analysis"
+arxiv: "2411.03496"
+journal: "Phys. Rev. B 112"
+doi: "https://doi.org/10.1103/wlvf-tdq1"
+nsf-par:
+code:
+publication-date: 2025-07-14
+bib-tex: |
+  @article{wlvf-tdq1,
+  title = {Structure factor and topological bound of twisted bilayer semiconductors at fractional fillings},
+  author = {Zaklama, Timothy and Luo, Di and Fu, Liang},
+  journal = {Phys. Rev. B},
+  volume = {112},
+  issue = {4},
+  pages = {L041115},
+  numpages = {7},
+  year = {2025},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/wlvf-tdq1},
+  url = {https://link.aps.org/doi/10.1103/wlvf-tdq1},
+  eprint={2411.03496},
+  archivePrefix={arXiv},
+  }

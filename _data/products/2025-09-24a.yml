@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-09-24
+title: "Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy"
+authors: "Manuel Perez-Carrasco, Maya Nasr, Sebastien Roche, Chris Chan Miller, Zhan Zhang, Core Francisco Park, Eleanor Walker, Cecilia Garraffo, Douglas Finkbeiner, Ritesh Gautam, Steven Wofsy"
+abstract: "Effective cloud and cloud shadow detection is a critical prerequisite for accurate retrieval of concentrations of atmospheric methane or other trace gases in hyperspectral remote sensing. This challenge is especially pertinent for MethaneSAT and for its airborne companion mission, MethaneAIR. In this study, we use machine learning methods to address the cloud and cloud shadow detection problem for sensors with these high spatial resolutions instruments. Cloud and cloud shadows in remote sensing data need to be effectively screened out as they bias methane retrievals in remote sensing imagery and impact the quantification of emissions. We deploy and evaluate conventional techniques including Iterative Logistic Regression (ILR) and Multilayer Perceptron (MLP), with advanced deep learning architectures, namely UNet and a Spectral Channel Attention Network (SCAN) method. Our results show that conventional methods struggle with spatial coherence and boundary definition, affecting the detection of clouds and cloud shadows. Deep learning models substantially improve detection quality: UNet performs best in preserving spatial structure, while SCAN excels at capturing fine boundary details. Notably, SCAN surpasses UNet on MethaneSAT data, underscoring the benefits of incorporating spectral attention for satellite specific features. This in depth assessment of various disparate machine learning techniques demonstrates the strengths and effectiveness of advanced deep learning architectures in providing robust, scalable solutions for clouds and cloud shadow screening towards enhancing methane emission quantification capacity of existing and next generation hyperspectral missions."
+arxiv: "2509.19665"
+journal:
+doi:
+nsf-par:
+code: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IKLZOJ"
+publication-date:
+bib-tex: |
+  @article{perezcarrasco2025deeplearningcloudscloud,
+      title={Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy},
+      author={Manuel Perez-Carrasco and Maya Nasr and Sebastien Roche and Chris Chan Miller and Zhan Zhang and Core Francisco Park and Eleanor Walker and Cecilia Garraffo and Douglas Finkbeiner and Ritesh Gautam and Steven Wofsy},
+      year={2025},
+      eprint={2509.19665},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.19665},
+  }
