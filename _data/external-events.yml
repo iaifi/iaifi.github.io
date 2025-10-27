@@ -14,6 +14,30 @@
   event-name: "ML Tea Talk"
   event-organizer: "ML Tea"
   more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-10-26"
+  start-date-time: "2025-10-27 16:00"
+  end-date-time: "2025-10-27 17:00"
+  talk-location: "MIT Room G882 (Hewlett) and Zoom"
+  talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker: Idan Shenfeld <br>Title: RL's Razor: Why On-Policy Reinforcement Learning Forgets Less<br>Abstract: Comparison of fine-tuning models with reinforcement learning (RL) and supervised fine-tuning (SFT) reveals that, despite similar performance at a new task, RL consistently forgets less. We find that the degree of forgetting is determined by the distributional shift, namely the KL-divergence between the fine-tuned and base policy evaluated on the new task distribution. We discover that on-policy RL is implicitly biased towards KL-minimal solutions among the many that solve the new task, whereas SFT can converge to distributions arbitrarily far from the base model. Our findings are empirically validated with large language models and controlled toy settings. Further, we provide theoretical justification for why on-policy RL updates lead to a smaller KL change. We term this principle \textit{RL’s Razor}: among all ways to solve a new task, RL prefers those closest in KL to the original model."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N3RiMGk3bWZnMzlvNzZ1OWhpdTk0cG45bjIgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "AstroAI Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-10-26"
+  start-date-time: "2025-10-27 12:00"
+  end-date-time: "2025-10-27 13:00"
+  talk-location: "P-108A video wall, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Javier Carron (https://www.javiercarron.com/) <br>Title: Can the Topology of the Universe affect the CMB? (and how ML is helping)<br>Abstract:In Cosmology we often assume large-scale homogeneity and isotropy, i.e., the Cosmological Principle. Well-motivated scenarios, such as a non-trivial Topology of the Universe, can break this assumption, introducing off-diagonal covariances in quantites that are usually uncorrelated (e.g., the spherical harmonics coefficients of the CMB). I will outline what changes when isotropy is relaxed and how it changes the likelihood, making this a computational difficult problem to tackle with traditional techniques. I will then show how Machine Learning methods, including rotational invariant models, are starting to enable searches for the topology of the universe using CMB data and, in the near future, large-scale-structure data. Time allowing, I will briefly mention other projects in which I am involved. Based on papers of the COMPACT Collaboration: https://arxiv.org/abs/2404.01236, https://arxiv.org/abs/2306.17112, and ongoing work."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NThzYmcyOXZxZDdtcTIxM2tibW5wYnZkbmMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
   event-post-date: "2025-10-19"
   start-date-time: "2025-10-20 16:00"
   end-date-time: "2025-10-20 17:00"

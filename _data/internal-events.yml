@@ -6,7 +6,16 @@
   end-date-time: "2025-10-29 13:00"
   talk-location: "Zoom"
   talk-zoom: https://mit.zoom.us/j/93434176251?pwd=zD9grb7X6eoabIRrZ62MmCP47FgyJh.1
-  event-details: "The IAIFI Talent Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to empowering the next generation of AI+Physics talent, including career support, mentoring, computing resources, etc."
+  event-details: "The IAIFI Talent Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to empowering the next generation of AI+Physics talent, including career support, mentoring, computing resources, etc. The agenda for this week includes: <br>
+    - October 3 Industry Lunch talk recap
+    - Splash program
+    - Job search workshop
+    - Internship resources
+    - Upcoming Industry lunches
+    - Strengthening industry connections
+    - TJHSST AI Research Club
+    - Colloquium lunch
+    - Other ideas?"
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXA2cHV0cTFiMzQ0NWUyZDJ1OGhmcnFjMWQgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://docs.google.com/document/d/1iXjgoch8ovxIqbZTooCzR6HHG76iGykJP5PuTUWRcyw/edit?usp=sharing
@@ -20,7 +29,16 @@
   end-date-time: "2025-10-30 12:00"
   talk-location: "Zoom"
   talk-zoom: https://mit.zoom.us/j/93955670791?pwd=sTjnl6p9WTPRbmEFnTLMSgux5BZGl4.1
-  event-details: "The IAIFI Community Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to building a dynamic AI+Physics community, including social events, industry-academia collaboration, public engagement, etc."
+  event-details: "The IAIFI Community Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to building a dynamic AI+Physics community, including social events, industry-academia collaboration, public engagement, etc. The agenda for this week includes: <br>
+    - Mission review
+    - Networking events
+    - Game nights
+    - IAIFI social
+    - Splash program
+    - ScienceClic Video
+    - Presidential AI Challenge
+    - Communication channels
+    - Regular social events"
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MThwanFkNmJiaHZxbzhtMTA1YW02aGUwczIgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://docs.google.com/document/d/1Rht-4gEcX-yStVuzDKLNZYE9U_3FQgDp_lA9eURZwD8/edit?usp=sharing
@@ -184,45 +202,15 @@
   more-info-link:
   
 - type: "social"
-  event-name: "IAIFI Pizza and Game Night"
-  event-committee: "Community Building"
-  event-post-date: "2025-10-19"
-  start-date-time: "2025-10-31 17:00"
-  end-date-time: "2025-10-31 19:00"
-  talk-location: "IAIFI Penthouse (26-648)"
-  talk-zoom:
-  event-details: "There will be pizza, salad, and snacks provided. This event is family friendly, so feel free to bring significant others and kids (Note: you are responsible for any guests you bring). Feel free to bring any games you'd like to contribute!"
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmpkYTJhZmRmMWNuMWtvcjE1bXRhYWlpdW0gcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
-  rsvp-link:
-  more-info-link:
-  attendance-in-person:
-  attendance-virtual:
-  
-- type: "social"
-  event-name: "IAIFI Co-Working Session"
+  event-name: "Halloween Coffee Hour & Crafts"
   event-committee: "Community"
   event-post-date: "2025-10-19"
-  start-date-time: "2025-10-31 14:00"
-  end-date-time: "2025-10-31 17:00"
+  start-date-time: "2025-10-31 12:00"
+  end-date-time: "2025-10-31 13:00"
   talk-location: "IAIFI Penthouse (26-648)"
   talk-zoom:
-  event-details: "This will be an informal afternoon with pizza, refreshments, and board games. Anyone in IAIFI will be free to come and go throughout the event, to have lunch, co-work, or socialize with other people in the IAIFI community."
+  event-details: "This special-edition Coffee Hour will include Halloween-themed snacks and crafts! All IAIFI members are welcome, including guests."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N25uMmd2ZDRxcXJqcHJuZHA2cTBtOTNncW8gcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
-  rsvp-link:
-  more-info-link:
-  attendance-in-person:
-  attendance-virtual:
-  
-- type: "industry-lunch"
-  event-name: "Industry Lunch (Speaker TBA)"
-  event-committee: "Talent"
-  event-post-date: "2025-10-19"
-  start-date-time: "2025-10-31 12:30"
-  end-date-time: "2025-10-31 13:30"
-  talk-location: "IAIFI Penthouse (26-648)"
-  talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
-  event-details: "Details to come."
-  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNTEwMzFUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link:
   more-info-link:
   attendance-in-person:
