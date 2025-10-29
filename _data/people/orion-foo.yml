@@ -2,9 +2,9 @@ name: Orion Foo
 
 title: 
 
-institution: MIT
+institution: #MIT
 
-interests: deep learning, FPGAs, machine learning for particle physics
+interests: #deep learning, FPGAs, machine learning for particle physics
 
 photo: images/photo-orion-foo.jpg 
 
