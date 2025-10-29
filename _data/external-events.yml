@@ -10,6 +10,20 @@
   event-details: "The APS Global Physics Summit is the largest physics research conference in the world, uniting 14,000 scientific community members across all disciplines of physics. This meeting reflects the inclusivity and synergy of many physics disciplines and emerging cross-disciplinary areas of science, which perfectly reflects this year's theme of Science for a Shared Future.**As the APS Global Physics Summit combines the March Meeting and April Meeting, abstracts must be submitted to either the March Meeting or April Meeting. Submit abstracts here by October 23, 2025: https://summit.aps.org/attend/abstracts/**"
   calendar-link:
   
+- type: "external-workshop"
+  event-name: "NeurIPS Workshop: The Reach and Limits of AI for Scientific Discovery"
+  event-organizer: "Michael Albergo (IAIFI) and other organizers"
+  more-info-link: "https://ai4sciencecommunity.github.io/neurips25.html"
+  event-post-date: "2025-11-02"
+  start-date-time: "2025-12-06 09:00"
+  end-date-time: "2025-12-07 17:00"
+  talk-location: "San Diego Convention Center"
+  talk-zoom:
+  event-details: "High-profile voices in AI research and industry have forecasted that AGI will “cure all diseases” and that due to developments in AI, “scientific progress will likely be much faster than it is today”. While these statements underscore the rapid and exciting developments in the AI for Science community, beneath the headlines lie unresolved questions about where current AI methods genuinely advance scientific discovery and where they still hit hard limits. Through our proposed AI for Science workshop, we will bring together experimentalists, domain scientists, and ML researchers to discuss where this boundary lies. Our workshop will highlight common bottlenecks in developing AI methods across scientific application domains, and delve into solutions that can unlock progress across all of these domains. We welcome submissions from all AI for Science areas, but we concentrate our talks and panel on the reach and limits of AI for scientific discovery."
+  calendar-link:
+  registration-deadline:
+  rsvp-link:
+  
 - type: "external-event"
   event-name: "ML Tea Talk"
   event-organizer: "ML Tea"
@@ -280,7 +294,7 @@
   event-details: "We invite particle physicists from different sub-field to join us and spend a week at LBNL for ML4FP, where a wide range of machine learning methods for particle physics development will be covered. The learning materials (hands-on examples) are deeply connected with real experimental applications. Meanwhile, we also encourage our theorist friends to join ML4FP as the machine learning tools and methods are general. Through this platform, we appreciate discussions for current and future use of machine learning mathods in various aspects of particle physics. We put particular emphasis on the hands-on tutorials with realistic examples to help participants to dive in the machine learning world for their research needs. The school is open to all enthusiasts working in particle physics who wish to advance their knowledge in machine learning. Thanks to the ATC program by US ATLAS, there will be financial assistance to support most US ATLAS students in double-occpancy hotel rooms near  LBNL (we cannot cover airfare)."
   calendar-link:
   
-- type: "external-event"
+- type: "external-workshop"
   event-name: "NeurIPS Workshop on Machine Learning and the Physical Sciences"
   event-organizer: "NeurIPS ML4PS Workshop Organizers"
   more-info-link: "https://ml4physicalsciences.github.io"

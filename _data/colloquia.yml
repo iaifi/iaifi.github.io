@@ -71,9 +71,9 @@
   rsvp-link: https://app.smartsheet.com/b/form/0199a13791bf7293944badad07f4bae2
   slides-link: "https://www.dropbox.com/scl/fi/48u86tzciffyh745x6cl2/2025_10_24_IAIFI_Colloquium_Keller.pdf?rlkey=dh034c3o5bbd2ehicixnsz2dn&st=r39474f5&dl=0"
   youtube-link: "https://www.youtube.com/live/fO-wsJgGeL8?si=ncE-tvAfpqhyJ-Ca"
-  speaker-thrust:
+  speaker-thrust: "foundational ai"
   speaker-gender: "man"
-  talk-attendance: 0 in person, 0 virtual
+  talk-attendance: 15 in person, 19 virtual
   
 - type: "colloquium"
   semester: "fall-2025"
