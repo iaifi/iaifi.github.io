@@ -141,8 +141,8 @@
   start-date-time: "2025-11-05 11:00"
   end-date-time: "2025-11-05 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Disentangling Physics from Systematics in Astrophysical Observations with Disentangled Representation Learning"
-  talk-abstract: "Details to come."
+  talk-title: "Disentangled Representation Learning for Separating Physics from Systematics in Astrophysical Observations"
+  talk-abstract: "Astrophysical observations typically consist of at least two sources: a signal from the underlying physical phenomenon, and a signal coming from systematic distortions and noise introduced by the measurement instrument (e.g., a space telescope). This secondary signal acts as a confounding factor that limits our ability to extract information about the physics of the observed phenomena. Furthermore, it constrains our ability to combine observations in heterogeneous or multi-instrument settings. In this work, we are exploring a deep learning model that explicitly disentangles physical and instrumental factors using a dual-encoder architecture. We leverage triplets of overlapping observations: different instruments observing the same events, and each telescope observing different events. With this setup and a data-driven approach we can learn to combine data from multiple sources. On top of enabling the training of a model capable of extracting disentangled representations, this technique naturally yields the ability to reconstruct observations as if they were taken by a different instrument, that is, generating novel counterfactual views and estimate uncertainty on reconstructions."
   slides-link:
   youtube-link:
   speaker-thrust: "astrophysics"
