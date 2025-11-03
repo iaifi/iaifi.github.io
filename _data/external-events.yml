@@ -25,6 +25,18 @@
   rsvp-link:
   
 - type: "external-event"
+  event-name: "AstroAI Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-11-02"
+  start-date-time: "2025-11-03 12:00"
+  end-date-time: "2025-11-03 13:00"
+  talk-location: "P-108A video wall, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker 1: Ana Sofia Uzsoy, CfA<br>Title: Manifold learning for cosmic structures <br>Abstract: We present a scalable manifold learning approach to represent galaxies in a low-dimensional embedding space based on the geometry of their surrounding structure. We validate this method on a toy dataset consisting of points in balls and lines in space, and demonstrate its utility for astrophysics research on the realistic TNG100 galaxy simulation box. For both datasets, our method  effectively captures the local structure around each galaxy. For the TNG100 simulations we show that our first embedding dimension correlates with halo mass and star-formation rate, which aligns with known physical relationships.<br><br>Speaker 2: Mike Smith, CfA <br>Title: Text isn't all you need<br>Abstract: There are two main ways to build multimodal models for autoregressive architectures like GPT: late fusion (like LLaVA) where you bolt together separately trained encoders, and early fusion (like MetaAI's Chameleon) where everything mixes from the start. We will discuss examples of both: AstroLLaVA a LLaMA model that has been finetuned to be able to process astronomical imagery, and AstroPT, a GPT-style model trained on 8.6M galaxies that follows similar scaling laws to language models. Time permitting, we will also discuss whether the architecture even matters. The Platonic Representation Hypothesis suggests different models trained on different data are all converging to the same underlying representation of reality. Astronomy is perfect for testing this since we can observe the same objects through completely different instruments. Using the Multimodal Universe dataset (100TB+ of crossmatched astronomical data), we're finding that larger models do seem to converge toward shared embedding spaces, regardless of their training data or regime."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzhhYm9jdG12OWkzbTRoZG80NWNvaGRycjQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
   event-name: "ML Tea Talk"
   event-organizer: "ML Tea"
   more-info-link: "https://projects.csail.mit.edu/ml-tea/"
