@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-02-12
+title: "Mathematical Data Science"
+authors: "Michael R. Douglas, Kyu-Hwan Lee"
+abstract: "Can machine learning help discover new mathematical structures? In this article we discuss an approach to doing this which one can call 'mathematical data science'. In this paradigm, one studies mathematical objects collectively rather than individually, by creating datasets and doing machine learning experiments and interpretations. After an overview, we present two case studies: murmurations in number theory and loadings of partitions related to Kronecker coefficients in representation theory and combinatorics."
+arxiv: "2502.08620"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{douglas2025mathematicaldatascience,
+      title={Mathematical Data Science},
+      author={Michael R. Douglas and Kyu-Hwan Lee},
+      year={2025},
+      eprint={2502.08620},
+      archivePrefix={arXiv},
+      primaryClass={math.HO},
+      url={https://arxiv.org/abs/2502.08620},
+  }

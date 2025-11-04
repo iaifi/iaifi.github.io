@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-10-22
+title: "FINDER: Feature Inference on Noisy Datasets using Eigenspace Residuals"
+authors: "Trajan Murphy, Akshunna S. Dogra, Hanfeng Gu, Caleb Meredith, Mark Kon, Julio Enrique Castrillion-Candas"
+abstract: "''Noisy'' datasets (regimes with low signal to noise ratios, small sample sizes, faulty data collection, etc) remain a key research frontier for classification methods with both theoretical and practical implications. We introduce FINDER, a rigorous framework for analyzing generic classification problems, with tailored algorithms for noisy datasets. FINDER incorporates fundamental stochastic analysis ideas into the feature learning and inference stages to optimally account for the randomness inherent to all empirical datasets. We construct ''stochastic features'' by first viewing empirical datasets as realizations from an underlying random field (without assumptions on its exact distribution) and then mapping them to appropriate Hilbert spaces. The Kosambi-Karhunen-Loéve expansion (KLE) breaks these stochastic features into computable irreducible components, which allow classification over noisy datasets via an eigen-decomposition: data from different classes resides in distinct regions, identified by analyzing the spectrum of the associated operators. We validate FINDER on several challenging, data-deficient scientific domains, producing state of the art breakthroughs in: (i) Alzheimer's Disease stage classification, (ii) Remote sensing detection of deforestation. We end with a discussion on when FINDER is expected to outperform existing methods, its failure modes, and other limitations."
+arxiv: "2510.19917"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/MathePhysics/FINDER"
+publication-date:
+bib-tex: |
+  @article{murphy2025finderfeatureinferencenoisy,
+      title={FINDER: Feature Inference on Noisy Datasets using Eigenspace Residuals},
+      author={Trajan Murphy and Akshunna S. Dogra and Hanfeng Gu and Caleb Meredith and Mark Kon and Julio Enrique Castrillion-Candas},
+      year={2025},
+      eprint={2510.19917},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.19917},
+  }

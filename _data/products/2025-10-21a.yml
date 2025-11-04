@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-10-21
+title: "An integrated neural wavefunction solver for spinful Fermi systems"
+authors: "Alexander Avdoshkin, Max Geier, Liang Fu"
+abstract: "We present an approach to solving the ground state of Fermi systems that contain spin or other discrete degrees of freedom in addition to continuous coordinates. The approach combines a Markov chain Monte Carlo sampling for energy estimation that we adapted to cover the extended configuration space with a transformer-based wavefunction to represent fermionic states. This sampling is necessary when the Hamiltonian contains explicit spin dependence and, for spin-independent Hamiltonians, we find that the inclusion of spin updates leads to faster convergence to an antiferromagnetic ground state. A transformer with both continuous position and discrete spin as inputs achieves universal approximation to spinful generalized orbitals. We validate the method on a range of two-dimensional material problems: a two-dimensional electron gas with Rashba spin-orbit coupling, a noncollinear spin texture, and a quantum antiferromagnet in a honeycomb moiré potential."
+arxiv: "2510.18621"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/mg607/PeriodicWave"
+publication-date:
+bib-tex: |
+  @article{avdoshkin2025integratedneuralwavefunctionsolver,
+      title={An integrated neural wavefunction solver for spinful Fermi systems},
+      author={Alexander Avdoshkin and Max Geier and Liang Fu},
+      year={2025},
+      eprint={2510.18621},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2510.18621},
+  }

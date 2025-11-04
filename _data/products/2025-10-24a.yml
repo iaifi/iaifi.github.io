@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-10-24
+title: "On Uncertainty Calibration for Equivariant Functions"
+authors: "Edward Berman, Jacob Ginesin, Marco Pacini, Robin Walters"
+abstract: "Data-sparse settings such as robotic manipulation, molecular physics, and galaxy morphology classification are some of the hardest domains for deep learning. For these problems, equivariant networks can help improve modeling across undersampled parts of the input space, and uncertainty estimation can guard against overconfidence. However, until now, the relationships between equivariance and model confidence, and more generally equivariance and model calibration, has yet to be studied. Since traditional classification and regression error terms show up in the definitions of calibration error, it is natural to suspect that previous work can be used to help understand the relationship between equivariance and calibration error. In this work, we present a theory relating equivariance to uncertainty estimation. By proving lower and upper bounds on uncertainty calibration errors (ECE and ENCE) under various equivariance conditions, we elucidate the generalization limits of equivariant models and illustrate how symmetry mismatch can result in miscalibration in both classification and regression. We complement our theoretical framework with numerical experiments that clarify the relationship between equivariance and uncertainty using a variety of real and simulated datasets, and we comment on trends with symmetry mismatch, group size, and aleatoric and epistemic uncertainties."
+arxiv: "2510.21691"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/EdwardBerman/EquiUQ"
+publication-date:
+bib-tex: |
+  @article{berman2025uncertaintycalibrationequivariantfunctions,
+      title={On Uncertainty Calibration for Equivariant Functions},
+      author={Edward Berman and Jacob Ginesin and Marco Pacini and Robin Walters},
+      year={2025},
+      eprint={2510.21691},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.21691},
+  }

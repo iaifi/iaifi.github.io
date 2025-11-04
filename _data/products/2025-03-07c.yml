@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-03-07
+title: "Diffusion Models for Cayley Graphs"
+authors: "Michael R. Douglas, Kit Fraser-Taliente"
+abstract: "We review the problem of finding paths in Cayley graphs of groups and group actions, using the Rubik's cube as an example, and we list several more examples of significant mathematical interest. We then show how to formulate these problems in the framework of diffusion models. The exploration of the graph is carried out by the forward process, while finding the target nodes is done by the inverse backward process. This systematizes the discussion and suggests many generalizations. To improve exploration, we propose a ``reversed score'' ansatz which substantially improves over previous comparable algorithms."
+arxiv: "2503.05558"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{douglas2025diffusionmodelscayleygraphs,
+      title={Diffusion Models for Cayley Graphs},
+      author={Michael R. Douglas and Kit Fraser-Taliente},
+      year={2025},
+      eprint={2503.05558},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.05558},
+  }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-10-03
+title: "Topological Invariance and Breakdown in Learning"
+authors: "Yongyi Yang, Tomaso Poggio, Isaac Chuang, Liu Ziyin"
+abstract: "We prove that for a broad class of permutation-equivariant learning rules (including SGD, Adam, and others), the training process induces a bi-Lipschitz mapping between neurons and strongly constrains the topology of the neuron distribution during training. This result reveals a qualitative difference between small and large learning rates η. With a learning rate below a topological critical point η∗, the training is constrained to preserve all topological structure of the neurons. In contrast, above η∗, the learning process allows for topological simplification, making the neuron manifold progressively coarser and thereby reducing the model's expressivity. Viewed in combination with the recent discovery of the edge of stability phenomenon, the learning dynamics of neuron networks under gradient descent can be divided into two phases: first they undergo smooth optimization under topological constraints, and then enter a second phase where they learn through drastic topological simplifications. A key feature of our theory is that it is independent of specific architectures or loss functions, enabling the universal application of topological methods to the study of deep learning."
+arxiv: "2510.02670"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{yang2025topologicalinvariancebreakdownlearning,
+      title={Topological Invariance and Breakdown in Learning},
+      author={Yongyi Yang and Tomaso Poggio and Isaac Chuang and Liu Ziyin},
+      year={2025},
+      eprint={2510.02670},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.02670},
+  }
