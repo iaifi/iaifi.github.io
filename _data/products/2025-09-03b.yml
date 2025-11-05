@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-09-03
+title: "Attention is all you need to solve chiral superconductivity"
+authors: "Chun-Tse Li, Tzen Ong, Max Geier, Hsin Lin, Liang Fu"
+abstract: "Recent advances on neural quantum states have shown that correlations between quantum particles can be efficiently captured by <i>'attention'</i> -- a foundation of modern neural architectures that enables neural networks to learn the relation between objects. In this work, we show that a general-purpose self-attention Fermi neural network is able to find chiral px±ipy superconductivity in an attractive Fermi gas by energy minimization, <i>without prior knowledge or bias towards pairing</i>. The superconducting state is identified from the optimized wavefunction by measuring various physical observables: the pair binding energy, the total angular momentum of the ground state, and off-diagonal long-range order in the two-body reduced density matrix. Our work paves the way for AI-driven discovery of unconventional and topological superconductivity in strongly correlated quantum materials."
+arxiv: "2509.03683"
+journal:
+doi:
+nsf-par:
+code: https://github.com/mg607/PeriodicWave
+publication-date:
+bib-tex: |
+  @article{li2025attentionneedsolvechiral,
+      title={Attention is all you need to solve chiral superconductivity},
+      author={Chun-Tse Li and Tzen Ong and Max Geier and Hsin Lin and Liang Fu},
+      year={2025},
+      eprint={2509.03683},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.supr-con},
+      url={https://arxiv.org/abs/2509.03683},
+  }

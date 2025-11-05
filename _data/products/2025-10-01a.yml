@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-10-01
+title: "A universal compression theory: Lottery ticket hypothesis and superpolynomial scaling laws"
+authors: "Hong-Yi Wang, Di Luo, Tomaso Poggio, Isaac L. Chuang, Liu Ziyin"
+abstract: "When training large-scale models, the performance typically scales with the number of parameters and the dataset size according to a slow power law. A fundamental theoretical and practical question is whether comparable performance can be achieved with significantly smaller models and substantially less data. In this work, we provide a positive and constructive answer. We prove that a generic permutation-invariant function of d objects can be asymptotically compressed into a function of polylogd objects with vanishing error. This theorem yields two key implications: (Ia) a large neural network can be compressed to polylogarithmic width while preserving its learning dynamics; (Ib) a large dataset can be compressed to polylogarithmic size while leaving the loss landscape of the corresponding model unchanged. (Ia) directly establishes a proof of the \textit{dynamical} lottery ticket hypothesis, which states that any ordinary network can be strongly compressed such that the learning dynamics and result remain unchanged. (Ib) shows that a neural scaling law of the form L∼d−α can be boosted to an arbitrarily fast power law decay, and ultimately to exp(−α′d‾‾√m)."
+arxiv: "2510.00504"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{wang2025universalcompressiontheorylottery,
+      title={A universal compression theory: Lottery ticket hypothesis and superpolynomial scaling laws},
+      author={Hong-Yi Wang and Di Luo and Tomaso Poggio and Isaac L. Chuang and Liu Ziyin},
+      year={2025},
+      eprint={2510.00504},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2510.00504},
+  }

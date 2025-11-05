@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-08-22
+title: "Training a Foundation Model for Materials on a Budget"
+authors: "Teddy Koker, Mit Kotak, Tess Smidt"
+abstract: "Foundation models for materials modeling are advancing quickly, but their training remains expensive, often placing state-of-the-art methods out of reach for many research groups. We introduce Nequix, a compact E(3)-equivariant potential that pairs a simplified NequIP design with modern training practices, including equivariant root-mean-square layer normalization and the Muon optimizer, to retain accuracy while substantially reducing compute requirements. Nequix has 700K parameters and was trained in 100 A100 GPU-hours. On the Matbench-Discovery and MDR Phonon benchmarks, Nequix ranks third overall while requiring a 20 times lower training cost than most other methods, and it delivers two orders of magnitude faster inference speed than the current top-ranked model."
+arxiv: "2508.16067"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/atomicarchitects/nequix"
+publication-date:
+bib-tex: |
+  @article{koker2025trainingfoundationmodelmaterials,
+      title={Training a Foundation Model for Materials on a Budget},
+      author={Teddy Koker and Mit Kotak and Tess Smidt},
+      year={2025},
+      eprint={2508.16067},
+      archivePrefix={arXiv},
+      primaryClass={physics.comp-ph},
+      url={https://arxiv.org/abs/2508.16067},
+  }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2025-08-12
+title: "The Neutrino Kaleidoscope: Searches for Non-Standard Neutrino Oscillations at Neutrino Telescopes with a TeV Muon Accelerator Source"
+authors: "Nicholas W. Kamp, Gray Putnam"
+abstract: "Muon accelerators, a potential technology for enabling (10 TeV) parton center of mass energy collisions, would also source an intense, collimated beam of neutrinos at TeV energies. The energy and size of this beam would be excellently matched as a source for existing and planned neutrino telescopes: gigaton-sized detectors of astrophysical neutrinos at and above TeV energies. In this paper, we introduce the technical considerations and scientific reach of pairing a muon accelerator source of neutrinos with a neutrino telescope detector, a combination we dub the ''Neutrino Kaleidoscope''. In particular, such a pairing would enable searches for non-standard oscillations of the beam neutrinos as they traverse the earth between source and detector. These non-standard neutrino oscillations could be sourced by Lorentz invariance violation, which a neutrino kaleidoscope could probe up to the quantum gravity-motivated Planck scale. Such a search would also have a reach on sterile neutrinos orders of magnitude beyond existing terrestrial limits. Finally, we touch on some of the non-oscillation potential of a neutrino kaleidoscope."
+arxiv: "2508.09249"
+journal:
+doi:
+nsf-par:
+code: https://github.com/nickkamp1/NuTelescopeMuCollider
+publication-date:
+bib-tex: |
+  @article{kamp2025neutrinokaleidoscopesearchesnonstandard,
+      title={The Neutrino Kaleidoscope: Searches for Non-Standard Neutrino Oscillations at Neutrino Telescopes with a TeV Muon Accelerator Source},
+      author={Nicholas W. Kamp and Gray Putnam},
+      year={2025},
+      eprint={2508.09249},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2508.09249},
+  }

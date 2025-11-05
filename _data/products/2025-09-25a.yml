@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-09-25
+title: "Implicit Augmentation from Distributional Symmetry in Turbulence Super-Resolution"
+authors: "Julia Balla, Jeremiah Bailey, Ali Backour, Elyssa Hofgard, Tommi Jaakkola, Tess Smidt, Ryley McConkey"
+abstract: "The immense computational cost of simulating turbulence has motivated the use of machine learning approaches for super-resolving turbulent flows. A central challenge is ensuring that learned models respect physical symmetries, such as rotational equivariance. We show that standard convolutional neural networks (CNNs) can partially acquire this symmetry without explicit augmentation or specialized architectures, as turbulence itself provides implicit rotational augmentation in both time and space. Using 3D channel-flow subdomains with differing anisotropy, we find that models trained on more isotropic mid-plane data achieve lower equivariance error than those trained on boundary layer data, and that greater temporal or spatial sampling further reduces this error. We show a distinct scale-dependence of equivariance error that occurs regardless of dataset anisotropy that is consistent with Kolmogorov's local isotropy hypothesis. These results clarify when rotational symmetry must be explicitly incorporated into learning algorithms and when it can be obtained directly from turbulence, enabling more efficient and symmetry-aware super-resolution."
+arxiv: "2509.20683"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/atomicarchitects/turbulence-implicit-augmentation"
+publication-date:
+bib-tex: |
+  @article{balla2025implicitaugmentationdistributionalsymmetry,
+      title={Implicit Augmentation from Distributional Symmetry in Turbulence Super-Resolution},
+      author={Julia Balla and Jeremiah Bailey and Ali Backour and Elyssa Hofgard and Tommi Jaakkola and Tess Smidt and Ryley McConkey},
+      year={2025},
+      eprint={2509.20683},
+      archivePrefix={arXiv},
+      primaryClass={physics.flu-dyn},
+      url={https://arxiv.org/abs/2509.20683},
+  }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-01-29
+title: "Progress in Artificial Intelligence and its Determinants"
+authors: "Michael R. Douglas, Sergiy Verstyuk"
+abstract: "We study long-run progress in artificial intelligence in a quantitative way. Many measures, including traditional ones such as patents and publications, machine learning benchmarks, and a new Aggregate State of the Art in ML (or ASOTA) Index we have constructed from these, show exponential growth at roughly constant rates over long periods. Production of patents and publications doubles every ten years, by contrast with the growth of computing resources driven by Moore's Law, roughly a doubling every two years. We argue that the input of AI researchers is also crucial and its contribution can be objectively estimated. Consequently, we give a simple argument that explains the 5:1 relation between these two rates. We then discuss the application of this argument to different output measures and compare our analyses with predictions based on machine learning scaling laws proposed in existing literature. Our quantitative framework facilitates understanding, predicting, and modulating the development of these important technologies."
+arxiv: "2501.17894"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{douglas2025progressartificialintelligencedeterminants,
+      title={Progress in Artificial Intelligence and its Determinants},
+      author={Michael R. Douglas and Sergiy Verstyuk},
+      year={2025},
+      eprint={2501.17894},
+      archivePrefix={arXiv},
+      primaryClass={econ.GN},
+      url={https://arxiv.org/abs/2501.17894},
+  }

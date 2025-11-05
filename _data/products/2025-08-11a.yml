@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-08-11
+title: "The DNA of nuclear models: How AI predicts nuclear masses"
+authors: "Kate A. Richardson, Sokratis Trifinopoulos, Mike Williams"
+abstract: "Obtaining high-precision predictions of nuclear masses, or equivalently nuclear binding energies, Eb, remains an important goal in nuclear-physics research. Recently, many AI-based tools have shown promising results on this task, some achieving precision that surpasses the best physics models. However, the utility of these AI models remains in question given that predictions are only useful where measurements do not exist, which inherently requires extrapolation away from the training (and testing) samples. Since AI models are largely black boxes, the reliability of such an extrapolation is difficult to assess. We present an AI model that not only achieves cutting-edge precision for Eb, but does so in an interpretable manner. For example, we find that (and explain why) the most important dimensions of its internal representation form a double helix, where the analog of the hydrogen bonds in DNA here link the number of protons and neutrons found in the most stable nucleus of each isotopic chain. Furthermore, we show that the AI prediction of Eb can be factorized and ordered hierarchically, with the most important terms corresponding to well-known symbolic models (such as the famous liquid drop). Remarkably, the improvement of the AI model over symbolic ones can almost entirely be attributed to an observation made by Jaffe in 1969 based on the structure of most known nuclear ground states. The end result is a fully interpretable data-driven model of nuclear masses based on physics deduced by AI."
+arxiv: "2508.08370"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{richardson2025dnanuclearmodelsai,
+      title={The DNA of nuclear models: How AI predicts nuclear masses},
+      author={Kate A. Richardson and Sokratis Trifinopoulos and Mike Williams},
+      year={2025},
+      eprint={2508.08370},
+      archivePrefix={arXiv},
+      primaryClass={nucl-th},
+      url={https://arxiv.org/abs/2508.08370},
+  }
