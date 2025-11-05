@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-06-30
+title: "Modeling the Cosmological Lyman-α Forest at the Field Level"
+authors: "Roger de Belsunce, Mikhail M. Ivanov, James M. Sullivan, Kazuyuki Akitsu, Shi-Fan Chen"
+abstract: "The distribution of absorption lines in the spectra of distant quasars, called the Lyman-α (Ly-α) forest, is a unique probe of cosmology and the intergalactic medium at high redshifts and small scales. The statistical power of ongoing redshift surveys demands precise theoretical tools to model the Ly-α forest. We address this challenge by developing an analytic, perturbative forward model to predict the Ly-α forest at the field level for a given set of cosmological initial conditions. Our model shows a remarkable performance when compared with the Sherwood hydrodynamic simulations: it reproduces the flux distribution, the Ly-α - dark matter halo cross-correlations, and the count-in-cell statistics at the percent level down to scales of a few Mpc. Our work provides crucial tools that bridge analytic modeling on large scales with simulations on small-scales, enabling field-level inference from Ly-α forest data and simulation-based priors for cosmological analyses. This is especially timely for realizing the full scientific potential of the Ly-α forest measurements by the Dark Energy Spectroscopic Instrument."
+arxiv: "2507.00284"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{debelsunce2025modelingcosmologicallymanalphaforest,
+      title={Modeling the Cosmological Lyman-$\alpha$ Forest at the Field Level},
+      author={Roger de Belsunce and Mikhail M. Ivanov and James M. Sullivan and Kazuyuki Akitsu and Shi-Fan Chen},
+      year={2025},
+      eprint={2507.00284},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2507.00284},
+  }

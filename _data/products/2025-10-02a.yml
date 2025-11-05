@@ -1,0 +1,24 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2025-10-02
+title: "Reducing Simulation Dependence in Neutrino Telescopes with Masked Point Transformers"
+authors: "Felix J. Yu, Nicholas Kamp, Carlos A. Argüelles"
+abstract: "Machine learning techniques in neutrino physics have traditionally relied on simulated data, which provides access to ground-truth labels. However, the accuracy of these simulations and the discrepancies between simulated and real data remain significant concerns, particularly for large-scale neutrino telescopes that operate in complex natural media. In recent years, self-supervised learning has emerged as a powerful paradigm for reducing dependence on labeled datasets. Here, we present the first self-supervised training pipeline for neutrino telescopes, leveraging point cloud transformers and masked autoencoders. By shifting the majority of training to real data, this approach minimizes reliance on simulations, thereby mitigating associated systematic uncertainties. This represents a fundamental departure from previous machine learning applications in neutrino telescopes, paving the way for substantial improvements in event reconstruction and classification."
+arxiv: "2510.01733"
+journal: Proceedings of Science, 2025, Volume 501
+doi: https://doi.org/10.22323/1.501.1218
+nsf-par:
+code: https://github.com/felixyu7/neptune/
+publication-date: 2025-09-24
+bib-tex: |
+  @article{Yu:2025t0,
+  author = "Yu, Felix  and  Kamp, Nicholas  and  Argüelles, Carlos",
+  title = "{Reducing Simulation Dependence in Neutrino Telescopes with Masked Point Modeling}",
+  doi = "10.22323/1.501.1218",
+  journal = "PoS",
+  year = 2025,
+  volume = "ICRC2025",
+  pages = "1218",
+  eprint={2510.01733},
+  archivePrefix={arXiv},
+  }

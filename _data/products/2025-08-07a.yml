@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-08-07
+title: "Detecting Model Misspecification in Cosmology with Scale-Dependent Normalizing Flows"
+authors: "Aizhan Akhmetzhanova, Carolina Cuesta-Lazaro, Siddharth Mishra-Sharma"
+abstract: "Current and upcoming cosmological surveys will produce unprecedented amounts of high-dimensional data, which require complex high-fidelity forward simulations to accurately model both physical processes and systematic effects which describe the data generation process. However, validating whether our theoretical models accurately describe the observed datasets remains a fundamental challenge. An additional complexity to this task comes from choosing appropriate representations of the data which retain all the relevant cosmological information, while reducing the dimensionality of the original dataset. In this work we present a novel framework combining scale-dependent neural summary statistics with normalizing flows to detect model misspecification in cosmological simulations through Bayesian evidence estimation. By conditioning our neural network models for data compression and evidence estimation on the smoothing scale, we systematically identify where theoretical models break down in a data-driven manner. We demonstrate a first application to our approach using matter and gas density fields from three CAMELS simulation suites with different subgrid physics implementations."
+arxiv: "2508.05744"
+journal: "Machine Learning: Science and Technology, 2025, Volume 6, Number 4"
+doi: https://doi.org/10.1088/2632-2153/ae107d
+nsf-par:
+code: https://github.com/AizhanaAkhmet/model-misspecification
+publication-date: 2025-10-27
+bib-tex: |
+  @article{Akhmetzhanova_2025,
+  doi = {10.1088/2632-2153/ae107d},
+  url = {https://doi.org/10.1088/2632-2153/ae107d},
+  year = {2025},
+  month = {oct},
+  publisher = {IOP Publishing},
+  volume = {6},
+  number = {4},
+  pages = {045020},
+  author = {Akhmetzhanova, Aizhan and Cuesta-Lazaro, Carolina and Mishra-Sharma, Siddharth},
+  title = {Detecting model misspecification in cosmology with scale-dependent normalizing flows},
+  journal = {Machine Learning: Science and Technology},
+  abstract = {Current and upcoming cosmological surveys will produce unprecedented amounts of high-dimensional data, which require complex high-fidelity forward simulations to accurately model both physical processes and systematic effects which describe the data generation process. However, validating whether our theoretical models accurately describe the observed datasets remains a fundamental challenge. An additional complexity to this task comes from choosing appropriate representations of the data which retain all the relevant cosmological information, while reducing the dimensionality of the original dataset. In this work we present a novel framework combining scale-dependent neural summary statistics with normalizing flows to detect model misspecification in cosmological simulations through Bayesian evidence estimation. By conditioning our neural network models for data compression and evidence estimation on the smoothing scale, we systematically identify where theoretical models break down in a data-driven manner. We demonstrate a first application of our approach using simulated total matter and gas density fields from three hydrodynamic simulation suites with different subgrid physics implementations.},
+  eprint={2508.05744},
+  archivePrefix={arXiv},
+  }

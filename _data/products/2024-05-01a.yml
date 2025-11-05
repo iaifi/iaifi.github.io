@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2024-05-01
+title: "Introducing the DREAMS Project: DaRk mattEr and Astrophysics with Machine Learning and Simulations"
+authors: "Jonah C. Rose, Paul Torrey, Francisco Villaescusa-Navarro, Mariangela Lisanti, Tri Nguyen, Sandip Roy, Kassidy E. Kollmann, Mark Vogelsberger, Francis-Yan Cyr-Racine, Mikhail V. Medvedev, Shy Genel, Daniel Anglés-Alcázar, Nitya Kallivayalil, Bonny Y. Wang, Belén Costanza, Stephanie O’Neil, Cian Roche, Soumyodipta Karmakar, Alex M. Garcia, Ryan Low, Shurui Lin, Olivia Mostow, Akaxia Cruz, Andrea Caputo, Arya Farahi, Julian B. Muñoz, Lina Necib, Romain Teyssier, Julianne J. Dalcanton, and David Spergel"
+abstract: "We introduce the DaRk mattEr and Astrophysics with Machine learning and Simulations (DREAMS) project, an innovative approach to understanding the astrophysical implications of alternative dark matter (DM) models and their effects on galaxy formation and evolution. The DREAMS project will ultimately comprise thousands of cosmological hydrodynamic simulations that simultaneously vary over DM physics, astrophysics, and cosmology in modeling a range of systems—from galaxy clusters to ultra-faint satellites. Such extensive simulation suites can provide adequate training sets for machine-learning-based analyses. This paper introduces two new cosmological hydrodynamical suites of warm dark matter (WDM), each comprising 1024 simulations generated using the arepo code. One suite consists of uniform-box simulations covering a (25 h-1Mpc)3 volume, while the other consists of Milky Way zoom-ins with sufficient resolution to capture the properties of classical satellites. For each simulation, the WDM particle mass is varied along with the initial density field and several parameters controlling the strength of baryonic feedback within the IllustrisTNG model. We provide two examples, separately utilizing emulators and convolutional neural networks, to demonstrate how such simulation suites can be used to disentangle the effects of DM and baryonic physics on galactic properties. The DREAMS project can be extended further to include different DM models, galaxy formation physics, and astrophysical targets. In this way, it will provide an unparalleled opportunity to characterize uncertainties on predictions for small-scale observables, leading to robust predictions for testing the particle physics nature of DM on these scales."
+arxiv: "2405.00766"
+journal: The Astrophysical Journal, 2025, Volume 982, Number 2
+doi: https://doi.org/10.3847/1538-4357/adb8e5
+nsf-par:
+code:
+publication-date: 2025-03-20
+bib-tex: |
+  @article{Rose_2025,
+  doi = {10.3847/1538-4357/adb8e5},
+  url = {https://doi.org/10.3847/1538-4357/adb8e5},
+  year = {2025},
+  month = {mar},
+  publisher = {The American Astronomical Society},
+  volume = {982},
+  number = {2},
+  pages = {68},
+  author = {Rose, Jonah C. and Torrey, Paul and Villaescusa-Navarro, Francisco and Lisanti, Mariangela and Nguyen, Tri and Roy, Sandip and Kollmann, Kassidy E. and Vogelsberger, Mark and Cyr-Racine, Francis-Yan and Medvedev, Mikhail V. and Genel, Shy and Angl√©s-Alc√°zar, Daniel and Kallivayalil, Nitya and Wang, Bonny Y. and Costanza, Bel√©n and O‚ÄôNeil, Stephanie and Roche, Cian and Karmakar, Soumyodipta and Garcia, Alex M. and Low, Ryan and Lin, Shurui and Mostow, Olivia and Cruz, Akaxia and Caputo, Andrea and Farahi, Arya and Mu√±oz, Julian B. and Necib, Lina and Teyssier, Romain and Dalcanton, Julianne J. and Spergel, David},
+  title = {Introducing the DREAMS Project: DaRk mattEr and Astrophysics with Machine Learning and Simulations},
+  journal = {The Astrophysical Journal},
+  abstract = {We introduce the DaRk mattEr and Astrophysics with Machine learning and Simulations (DREAMS) project, an innovative approach to understanding the astrophysical implications of alternative dark matter (DM) models and their effects on galaxy formation and evolution. The DREAMS project will ultimately comprise thousands of cosmological hydrodynamic simulations that simultaneously vary over DM physics, astrophysics, and cosmology in modeling a range of systems‚Äîfrom galaxy clusters to ultra-faint satellites. Such extensive simulation suites can provide adequate training sets for machine-learning-based analyses. This paper introduces two new cosmological hydrodynamical suites of warm dark matter (WDM), each comprising 1024 simulations generated using the arepo code. One suite consists of uniform-box simulations covering a  volume, while the other consists of Milky Way zoom-ins with sufficient resolution to capture the properties of classical satellites. For each simulation, the WDM particle mass is varied along with the initial density field and several parameters controlling the strength of baryonic feedback within the IllustrisTNG model. We provide two examples, separately utilizing emulators and convolutional neural networks, to demonstrate how such simulation suites can be used to disentangle the effects of DM and baryonic physics on galactic properties. The DREAMS project can be extended further to include different DM models, galaxy formation physics, and astrophysical targets. In this way, it will provide an unparalleled opportunity to characterize uncertainties on predictions for small-scale observables, leading to robust predictions for testing the particle physics nature of DM on these scales.},
+  eprint={2405.00766},
+  archivePrefix={arXiv},
+  }
