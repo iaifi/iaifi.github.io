@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: F
+title: "Super Gromov-Witten Invariants via torus localization"
+authors: Enno Keßler, Artan Sheshmani, Shing-Tung Yau
+abstract: "In this article we propose a definition of super Gromov-Witten invariants by postulating a torus localization property for the odd directions of the moduli spaces of super stable maps and super stable curves of genus zero. That is, we define super Gromov-Witten invariants as the integral over the pullback of homology classes along the evaluation maps divided by the equivariant Euler class of the normal bundle of the embedding of the moduli space of stable spin maps into the moduli space of super stable maps. This definition sidesteps the difficulties of defining a supergeometric intersection theory and works with classical intersection theory only. The properties of the normal bundles, known from the differential geometric construction of the moduli space of super stable maps, imply that super Gromov-Witten invariants satisfy a generalization of Kontsevich-Manin axioms and allow for the construction of a super small quantum cohomology ring. We describe a method to calculate super Gromov-Witten invariants of ℙn of genus zero by a further geometric torus localization and give explicit numbers in degree one when dimension and number of marked points are small."
+arxiv: "2311.09074"
+journal:
+doi: 
+nsf-par:
+code:
+publication-date: 
+bib-tex: |
+  @article{keßler2023supergromovwitteninvariantstorus,
+      title={Super Gromov-Witten Invariants via torus localization},
+      author={Enno Keßler and Artan Sheshmani and Shing-Tung Yau},
+      year={2023},
+      eprint={2311.09074},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2311.09074},
+  }

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-10-29
+title: "Multi-rigidity of Schubert classes in partial flag varieties"
+authors: "Yuxiang Liu, Artan Sheshmani, Shing-Tung Yau"
+abstract: "In this paper, we study the multi-rigidity problem in rational homogeneous spaces. A Schubert class is called multi-rigid if every multiple of it can only be represented by a union of Schubert varieties. We prove the multi-rigidity of Schubert classes in rational homogeneous spaces. In particular, we characterize the multi-rigid Schubert classes in partial flag varieties of type A, B and D. Moreover, for a general rational homogeneous space G/P, we deduce the rigidity and multi-rigidity from the corresponding generalized Grassmannians (correspond to maximal parabolics). When G is semi-simple, we also deduce the rigidity and multi-rigidity from the simple cases."
+arxiv: "2410.21726"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{liu2024multirigidityschubertclassespartial,
+      title={Multi-rigidity of Schubert classes in partial flag varieties},
+      author={Yuxiang Liu and Artan Sheshmani and Shing-Tung Yau},
+      year={2024},
+      eprint={2410.21726},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2410.21726},
+  }

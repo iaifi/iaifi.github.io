@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-01-21
+title: "Rigid Schubert classes in partial flag varieties"
+authors: Yuxiang Liu, Artan Sheshmani, Shing-Tung Yau
+abstract: "A Schubert class is called rigid if it can only be represented by Schubert varieties. The rigid Schubert classes have been classified in Grassmannians and orthogonal Grassmannians. In this paper, we study the rigidity problem in partial flag varieties (type A) and orthogonal partial flag varieties (type B and type D). In particular, we give numerical conditions that ensure a Schubert class is rigid."
+arxiv: "2401.11375"
+journal:
+doi:
+nsf-par:
+code: 
+publication-date: 
+bib-tex: |
+  @misc{liu2024rigidschubertclassespartial,
+      title={Rigid Schubert classes in partial flag varieties},
+      author={Yuxiang Liu and Artan Sheshmani and Shing-Tung Yau},
+      year={2024},
+      eprint={2401.11375},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2401.11375},
+  }

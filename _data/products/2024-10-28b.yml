@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-10-28
+title: "Relative Monoidal Bondal-Orlov"
+authors: "Artan Sheshmani, Angel Toledo"
+abstract: "In this article we study a relative monoidal version of the Bondal-Orlov reconstruction theorem. We establish an uniqueness result for tensor triangulated category structures (⊠,𝟙) on the derived category Db(X) of a variety X which is smooth projective and faithfully flat over a quasi-compact quasi-separated base scheme S in the case where the fibers Xs over any point s∈S all have ample (anti-)canonical bundles. To do so we construct a stack Γ of dg-bifunctors which parametrize the local homotopical behaviour of ⊠, and we study some of its properties around the derived categories of the fibers Xs."
+arxiv: "2410.20942"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @misc{sheshmani2024relativemonoidalbondalorlov,
+      title={Relative Monoidal Bondal-Orlov},
+      author={Artan Sheshmani and Angel Toledo},
+      year={2024},
+      eprint={2410.20942},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2410.20942},
+  }

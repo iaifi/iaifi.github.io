@@ -1,0 +1,26 @@
+type: paper
+iaifi-thrust: F
+title: "Frequency Domain Diffusion Model with Scale-Dependent Noise Schedule"
+arxiv-date: 2024-08-19
+authors: "Amir Ziashahabi, Baturalp Buyukates, Artan Sheshmani, Yi-Zhuang You, Salman Avestimehr"
+abstract: "Diffusion models have played a crucial role in the recent advancements in generative image modeling. These models are characterized by a forward process that incrementally corrupts images. The modeling objective is to develop a reverse process capable of reconstructing the original image from degraded inputs so that the trained model can then be leveraged to generate natural images from pure noise. In this work, we introduce a novel diffusion process that operates in the frequency domain. Typically, the frequency domain representation of an image exhibits a sparse structure, with energy predominantly concentrated in low frequency components. This inherent sparsity aids us in the effective separation of signal and noise during the reverse process. We utilize this property to introduce a scale-dependent noise schedule, offering precise control over various image scales. Working in the frequency domain allows us to modify the training protocol, resulting in significant computation enhancements, achieving a speedup of 2.7-8.5 x without a significant drop in generated image quality, compared to the image domain models, which operate with fixed noise schedules."
+arxiv:
+journal: "2024 IEEE International Symposium on Information Theory (ISIT)"
+doi: "https://doi.org/10.1109/ISIT57864.2024.10619452"
+nsf-par:
+code:
+publication-date: 2024-08-19
+bib-tex: |
+  @INPROCEEDINGS{10619452,
+  author={Ziashahabi, Amir and Buyukates, Baturalp and Sheshmani, Artan and You, Yi-Zhuang and Avestimehr, Salman},
+  booktitle={2024 IEEE International Symposium on Information Theory (ISIT)},
+  title={Frequency Domain Diffusion Model with Scale-Dependent Noise Schedule},
+  year={2024},
+  volume={},
+  number={},
+  pages={19-24},
+  keywords={Image quality;Training;Schedules;Protocols;Image synthesis;Frequency-domain analysis;Noise},
+  doi={10.1109/ISIT57864.2024.10619452},
+  eprint={},
+  archivePrefix={arXiv},
+  }
