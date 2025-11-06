@@ -143,11 +143,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Disentangled Representation Learning for Separating Physics from Systematics in Astrophysical Observations"
   talk-abstract: "Astrophysical observations typically consist of at least two sources: a signal from the underlying physical phenomenon, and a signal coming from systematic distortions and noise introduced by the measurement instrument (e.g., a space telescope). This secondary signal acts as a confounding factor that limits our ability to extract information about the physics of the observed phenomena. Furthermore, it constrains our ability to combine observations in heterogeneous or multi-instrument settings. In this work, we are exploring a deep learning model that explicitly disentangles physical and instrumental factors using a dual-encoder architecture. We leverage triplets of overlapping observations: different instruments observing the same events, and each telescope observing different events. With this setup and a data-driven approach we can learn to combine data from multiple sources. On top of enabling the training of a model capable of extracting disentangled representations, this technique naturally yields the ability to reconstruct observations as if they were taken by a different instrument, that is, generating novel counterfactual views and estimate uncertainty on reconstructions."
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1hGfxlP4VWsmThyvNLl5F3MHdvO1CgfMU/view?usp=drive_link
   youtube-link:
   speaker-thrust: "astrophysics"
   speaker-gender: "man"
-  talk-attendance:  0 in person, 0 virtual
+  talk-attendance:  12 in person, 4 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTExMDVUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
 
 - type: "journal-club"
@@ -157,11 +157,11 @@
   speaker-affiliation: "Harvard University"
   speaker-website: https://github.com/AizhanaAkhmet
   speaker-photo-location:
-  start-date-time: "2025-11-12 11:00"
-  end-date-time: "2025-11-12 12:00"
+  start-date-time: "2025-11-19 11:00"
+  end-date-time: "2025-11-19 12:00"
   talk-location: "IAIFI Penthouse"
   talk-title: "A Data-Driven Prism: Multi-View Source Separation with Diffusion Model Priors"
-  talk-abstract: "Details to come."
+  talk-abstract: "A common challenge in the natural sciences is to disentangle distinct, unknown sources from observations. Examples of this source separation task include deblending galaxies in a crowded field, distinguishing the activity of individual neurons from overlapping signals, and separating seismic events from an ambient background. Traditional analyses often rely on simplified source models that fail to accurately reproduce the data. Recent advances have shown that diffusion models can directly learn complex prior distributions from noisy, incomplete data. In this work, we show that diffusion models can solve the source separation problem without explicit assumptions about the source. Our method relies only on multiple views, or the property that different sets of observations contain different linear transformations of the unknown sources. We show that our method succeeds even when no source is individually observed and the observations are noisy, incomplete, and vary in resolution. The learned diffusion models enable us to sample from the source priors, evaluate the probability of candidate sources, and draw from the joint posterior of the source distribution given an observation. We demonstrate the effectiveness of our method on a range of synthetic problems as well as real-world galaxy observations."
   slides-link:
   youtube-link:
   speaker-thrust: "Astrophysics"
@@ -176,8 +176,8 @@
   speaker-affiliation: "MIT"
   speaker-website: https://www.sachinvaidya.com
   speaker-photo-location:
-  start-date-time: "2025-11-19 13:00"
-  end-date-time: "2025-11-19 14:00"
+  start-date-time: "2025-11-12 11:00"
+  end-date-time: "2025-11-12 12:00"
   talk-location: "IAIFI Penthouse"
   talk-title: "AI-Driven Robotics for Optics"
   talk-abstract: "Details to come."
@@ -214,8 +214,8 @@
   speaker-affiliation: "Affiliation to come"
   speaker-website:
   speaker-photo-location:
-  start-date-time: "2025-12-10 13:00"
-  end-date-time: "2025-12-10 14:00"
+  start-date-time: "2025-12-10 11:00"
+  end-date-time: "2025-12-10 12:00"
   talk-location: "IAIFI Penthouse"
   talk-title: "Title to come"
   talk-abstract: "Details to come."
