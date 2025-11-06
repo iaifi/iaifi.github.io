@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-10-23
+title: "Diffusion Autoencoders with Perceivers for Long, Irregular and Multimodal Astronomical Sequences"
+authors: "Yunyi Shen, Alexander Gagliano"
+abstract: "Self-supervised learning has become a central strategy for representation learning, but the majority of architectures used for encoding data have only been validated on regularly-sampled inputs such as images, audios. and videos. In many scientific domains, data instead arrive as long, irregular, and multimodal sequences. To extract semantic information from these data, we introduce the Diffusion Autoencoder with Perceivers (daep). daep tokenizes heterogeneous measurements, compresses them with a Perceiver encoder, and reconstructs them with a Perceiver-IO diffusion decoder, enabling scalable learning in diverse data settings. To benchmark the daep architecture, we adapt the masked autoencoder to a Perceiver encoder/decoder design, and establish a strong baseline (maep) in the same architectural family as daep. Across diverse spectroscopic and photometric astronomical datasets, daep achieves lower reconstruction errors, produces more discriminative latent spaces, and better preserves fine-scale structure than both VAE and maep baselines. These results establish daep as an effective framework for scientific domains where data arrives as irregular, heterogeneous sequences."
+arxiv: "2510.20595"
+journal:
+doi:
+nsf-par:
+code: "https://github.com/YunyiShen/Perceiver-diffusion-autoencoder/"
+publication-date:
+bib-tex: |
+  @article{shen2025diffusionautoencodersperceiverslong,
+      title={Diffusion Autoencoders with Perceivers for Long, Irregular and Multimodal Astronomical Sequences},
+      author={Yunyi Shen and Alexander Gagliano},
+      year={2025},
+      eprint={2510.20595},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2510.20595},
+  }

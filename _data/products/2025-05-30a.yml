@@ -5,18 +5,25 @@ title: "Frequentist Uncertainties on Neural Density Ratios with wifi Ensembles"
 authors: "Sean Benevedes, Jesse Thaler"
 abstract: "We introduce wifi ensembles as a novel framework to obtain asymptotic frequentist uncertainties on density ratios, with a particular focus on neural ratio estimation in the context of high-energy physics. When the density ratio of interest is a likelihood ratio conditioned on parameters, wifi ensembles can be used to perform simulation-based inference on those parameters. After training the basis functions f_i(x), uncertainties on the weights w_i can be straightforwardly propagated to the estimated parameters without requiring extraneous bootstraps. To demonstrate this approach, we present an application in quantum chromodynamics at the Large Hadron Collider, using wifi ensembles to estimate the likelihood ratio between generated quark and gluon jets. We use this learned likelihood ratio to estimate the quark fraction in a synthetic mixed quark/gluon sample, showing that the resultant uncertainties empirically satisfy the desired coverage properties."
 arxiv: "2506.00113"
-journal:
-doi:
+journal: "Physical Review D, 2025, Volume 112, Issue 5"
+doi: https://doi.org/10.1103/w28w-x5wh
 nsf-par:
 code: "https://github.com/benevedes/wifi-ensembles"
-publication-date:
+publication-date: 2025-09-19
 bib-tex: |
-  @article{benevedes2025frequentistuncertaintiesneuraldensity,
-      title={Frequentist Uncertainties on Neural Density Ratios with wifi Ensembles},
-      author={Sean Benevedes and Jesse Thaler},
-      year={2025},
-      eprint={2506.00113},
-      archivePrefix={arXiv},
-      primaryClass={hep-ph},
-      url={https://arxiv.org/abs/2506.00113},
+  @article{w28w-x5wh,
+  title = {Frequentist uncertainties on neural density ratios with ${w}_{i}\text{ }{f}_{i}$ ensembles},
+  author = {Benevedes, Sean and Thaler, Jesse},
+  journal = {Phys. Rev. D},
+  volume = {112},
+  issue = {5},
+  pages = {056024},
+  numpages = {22},
+  year = {2025},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/w28w-x5wh},
+  url = {https://link.aps.org/doi/10.1103/w28w-x5wh},
+  eprint={2506.00113},
+  archivePrefix={arXiv},
   }
