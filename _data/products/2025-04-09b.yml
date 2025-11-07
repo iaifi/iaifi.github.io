@@ -5,11 +5,11 @@ title: "Rapid inference and comparison of gravitational-wave population models w
 authors: "Matthew Mould, Noah E. Wolfe, Salvatore Vitale"
 abstract: "The LIGO-Virgo-KAGRA catalog has been analyzed with an abundance of different population models due to theoretical uncertainty in the formation of gravitational-wave sources. To expedite model exploration, we introduce an efficient and accurate variational Bayesian approach that learns the population posterior with a normalizing flow and serves as a drop-in replacement for existing samplers. With hardware acceleration, inference takes just seconds for the current set of black-hole mergers and readily scales to larger catalogs. The trained posteriors provide an arbitrary number of independent samples with exact probability densities, unlike established stochastic sampling algorithms, while requiring up to three orders of magnitude fewer likelihood evaluations and as few as (103). Provided the posterior support is covered, discrepancies can be addressed with smoothed importance sampling, which quantifies a goodness-of-fit metric for the variational approximation while also estimating the evidence for Bayesian model selection. Neural variational inference thus enables interactive development, analysis, and comparison of population models, making it a useful tool for astrophysical interpretation of current and future gravitational-wave observations."
 arxiv: "2504.07197"
-journal:
+journal: Physical Review D, 2025, Volume 111, Issue 12
 doi: https://doi.org/10.1103/xk1z-fxnm
 nsf-par:
 code: https://github.com/mdmould/gwax
-publication-date: Physical Review D, 2025, Volume 111, Issue 12
+publication-date:
 bib-tex: |
   @article{xk1z-fxnm,
   title = {Rapid inference and comparison of gravitational-wave population models with neural variational posteriors},

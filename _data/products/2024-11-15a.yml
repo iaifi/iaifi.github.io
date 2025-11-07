@@ -13,7 +13,7 @@ publication-date: 2025-07-01
 bib-tex: |
   @article{Tsoi2025SymbolFit,
   title={SymbolFit: Automatic Parametric Modeling with Symbolic Regression},
-  author={Ho Fung Tsoi, Dylan Rankin, Cecile Caillol, Miles Cranmer, Sridhara Dasu, Javier Duarte, Philip Harris, Elliot Lipeles & Vladimir Loncar},
+  author={Tsoi, Ho Fung and Rankin, Dylan and Caillol, Cecile and Cranmer, Miles and Dasu, Sridhara and Duarte, Javier and Harris, Philip and Lipeles, Elliot and Loncar, Vladimir},
   year={2025},
   volume={9},
   url={https://doi.org/10.1007/s41781-025-00140-9},
