@@ -179,8 +179,8 @@
   start-date-time: "2025-11-12 11:00"
   end-date-time: "2025-11-12 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "AI-Driven Robotics for Optics"
-  talk-abstract: "Details to come."
+  talk-title: "Overcoming the Experimental Bottleneck with AI and Robotics"
+  talk-abstract: "Scientific discovery remains fundamentally constrained by slow, manual, and intuition-driven laboratory experiments that struggle to scale across high-dimensional parameter spaces. AI and robotics now offer an exciting opportunity to directly address this bottleneck, but doing so will require reimagining the experimental process itself. In this talk, I will discuss the challenges involved in enabling autonomous scientific discovery in the laboratory. I will present our recent work on AI-driven robotics for optics, highlighting strategies for overcoming these challenges in real-world settings. Specifically, I will demonstrate a full experimental loop in which an LLM-based agent designs spatially aware optical setups that are then physically assembled and aligned by a robotic arm. I will conclude by outlining open problems that are critical to realizing truly intelligent laboratories capable of autonomous scientific discovery."
   slides-link:
   youtube-link:
   speaker-thrust: "Physics experiment"
@@ -190,39 +190,39 @@
   
 - type: "journal-club"
   semester: "fall-2025"
-  speaker-name: "Speaker to be announced"
-  speaker-title: "Title to come"
-  speaker-affiliation: "Affiliation to come"
-  speaker-website:
+  speaker-name: "Felix Yu"
+  speaker-title: "Graduate Student"
+  speaker-affiliation: "Harvard"
+  speaker-website: https://github.com/felixyu7
   speaker-photo-location:
   start-date-time: "2025-12-03 11:00"
   end-date-time: "2025-12-03 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
+  talk-title: "Reducing Simulation Dependence in Neutrino Telescopes with Masked Point Transformers"
   talk-abstract: "Details to come."
   slides-link:
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Physics Experiment"
+  speaker-gender: "Man"
   talk-attendance:  0 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTEyMDNUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
   semester: "fall-2025"
-  speaker-name: "Speaker to be announced"
-  speaker-title: "Title to come"
-  speaker-affiliation: "Affiliation to come"
-  speaker-website:
+  speaker-name: "José M. Munoz Arias"
+  speaker-title: "Graduate Student"
+  speaker-affiliation: "MIT"
+  speaker-website: https://scholar.google.com/citations?user=YA-9__4AAAAJ&hl=en&oi=ao
   speaker-photo-location:
   start-date-time: "2025-12-10 11:00"
   end-date-time: "2025-12-10 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come"
+  talk-title: "Global and physically driven nuclear emulators"
   talk-abstract: "Details to come."
   slides-link:
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "Physics theory"
+  speaker-gender: "Man"
   talk-attendance:  0 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTEyMTBUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
