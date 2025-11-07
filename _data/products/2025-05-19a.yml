@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-05-19
+title: "On the normality of commuting scheme for general linear Lie algebra"
+authors: "Artan Sheshmani, Xiaopeng Xia, Beihui Yuan"
+abstract: "The commuting scheme ℭd𝔤 for reductive Lie algebra 𝔤 over an algebraically closed field 𝕂 is the subscheme of 𝔤d defined by quadratic equations, whose 𝕂-valued points are d-tuples of commuting elements in 𝔤 over 𝕂. There is a long-standing conjecture that the commuting scheme ℭd𝔤 is reduced. Moreover, a higher dimensional analog of Chevalley restriction conjecture was conjectured by Chen-Ngô. We show that the commuting scheme of ℭ2𝔤ln is Cohen-Macaulay and normal. As a corollary, we prove a 2-dimensional Chevalley restriction theorem for general linear group in positive characteristic."
+arxiv: "2505.13013"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{sheshmani2025normalitycommutingschemegeneral,
+      title={On the normality of commuting scheme for general linear Lie algebra},
+      author={Artan Sheshmani and Xiaopeng Xia and Beihui Yuan},
+      year={2025},
+      eprint={2505.13013},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2505.13013},
+  }

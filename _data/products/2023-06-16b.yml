@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2023-06-16
+title: "Torus Actions on Moduli Spaces of Super Stable Maps of Genus Zero"
+authors: Enno Keßler, Artan Sheshmani, Shing-Tung Yau
+abstract: 'We construct smooth ℂ∗-actions on the moduli spaces of super J-holomorphic curves as well as super stable curves and super stable maps of genus zero and fixed tree type such that their reduced spaces are torus invariant. Furthermore, we give explicit descriptions of the normal bundles to the fixed loci in terms of spinor bundles and their sections. Main steps to the construction of the ℂ∗-action are the proof that the charts of the moduli space of super J-holomorphic curves obtained by the implicit function theorem yield a smooth split atlas and a detailed study of the superconformal automorphism group of ℙ1|1ℂ and its action on component fields.'
+arxiv: "2306.09730"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 
+bib-tex: |
+  @article{keßler2023torusactionsmodulispaces,
+      title={Torus Actions on Moduli Spaces of Super Stable Maps of Genus Zero},
+      author={Enno Keßler and Artan Sheshmani and Shing-Tung Yau},
+      year={2023},
+      eprint={2306.09730},
+      archivePrefix={arXiv},
+      primaryClass={math.DG},
+      url={https://arxiv.org/abs/2306.09730},
+  }

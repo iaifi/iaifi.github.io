@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-10-20
+title: "Tropical super Gromov-Witten invariants"
+authors: "Artan Sheshmani, Shing-Tung Yau, Benjamin Zhou"
+abstract: "We show that super Gromov-Witten invariants can be defined and computed by methods of tropical geometry. When the target is a point, the super invariants are descendant invariants on the moduli space of curves, which can be computed tropically. When the target is a convex, toric variety X, we describe a procedure to compute the tropical Euler class of the SUSY normal bundle N_n,β on _0,n(X,β), assuming it is locally tropicalizable in the sense of [CG], [CGM]. Then, we define the tropical, genus-0, n-marked, super Gromov-Witten invariant of X, and compute an example. This gives a tropical interpretation of super Gromov-Witten invariants of convex, toric varieties."
+arxiv: "2510.17400"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{sheshmani2025tropicalsupergromovwitteninvariants,
+      title={Tropical super Gromov-Witten invariants},
+      author={Artan Sheshmani and Shing-Tung Yau and Benjamin Zhou},
+      year={2025},
+      eprint={2510.17400},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2510.17400},
+  }

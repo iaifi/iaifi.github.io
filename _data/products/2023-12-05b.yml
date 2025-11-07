@@ -1,0 +1,27 @@
+type: paper
+iaifi-thrust: F
+title: "Shifted symplectic structures on derived Quot-stacks II -- Derived Quot-schemes as dg manifolds"
+authors: "Dennis Borisov, Ludmil Katzarkov, Artan Sheshmani"
+abstract: "It is proved that derived Quot-schemes, as defined by Ciocan-Fontanine and Kapranov, are represented by dg manifolds of finite type. This is the second part if a work aimed to analyze shifted symplectic structures on moduli spaces of coherent sheaves on Calabi--Yau manifolds. The first part related dg manifolds to derived schemes as defined by Toën and Vezzosi."
+arxiv: "2312.02815"
+journal: "Advances in Mathematics, 2025, Volume 462"
+doi: https://doi.org/10.1016/j.aim.2024.110092
+nsf-par:
+code: 
+publication-date: 2025-01-03
+bib-tex: |
+  @article{BORISOV2025110092,
+  title = {Shifted symplectic structures on derived Quot-stacks II ‚Äì derived Quot-schemes as dg manifolds},
+  journal = {Advances in Mathematics},
+  volume = {462},
+  pages = {110092},
+  year = {2025},
+  issn = {0001-8708},
+  doi = {https://doi.org/10.1016/j.aim.2024.110092},
+  url = {https://www.sciencedirect.com/science/article/pii/S000187082400608X},
+  author = {Dennis Borisov and Ludmil Katzarkov and Artan Sheshmani},
+  keywords = {Moduli spaces of sheaves, -schemes, Derived schemes, Differential graded schemes},
+  abstract = {It is proved that derived Quot-schemes, as defined by Ciocan-Fontanine and Kapranov, are represented by dg manifolds of finite type. This is the second part of a work aimed to analyze shifted symplectic structures on moduli spaces of coherent sheaves on Calabi‚ÄìYau manifolds. The first part related dg manifolds to derived schemes as defined by To√´n and Vezzosi.},
+  eprint={2312.02815},
+  archivePrefix={arXiv},
+  }

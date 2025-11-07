@@ -1,0 +1,29 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-02-26
+title: "Renormalization Group flow, Optimal Transport and Diffusion-based Generative Model"
+authors: Artan Sheshmani, Yi-Zhuang You, Baturalp Buyukates, Amir Ziashahabi, Salman Avestimehr
+abstract: "Diffusion-based generative models represent a forefront direction in generative AI research today. Recent studies in physics have suggested that the renormalization group (RG) can be conceptualized as a diffusion process. This insight motivates us to develop a novel diffusion-based generative model by reversing the momentum-space RG flow. We establish a framework that interprets RG flow as optimal transport gradient flow, which minimizes a functional analogous to the Kullback-Leibler divergence, thereby bridging statistical physics and information theory. Our model applies forward and reverse diffusion processes in Fourier space, exploiting the sparse representation of natural images in this domain to efficiently separate signal from noise and manage image features across scales. By introducing a scale-dependent noise schedule informed by a dispersion relation, the model optimizes denoising performance and image generation in Fourier space, taking advantage of the distinct separation of macro and microscale features. Experimental validations on standard datasets demonstrate the model's capability to generate high-quality images while significantly reducing training time compared to existing image-domain diffusion models. This approach not only enhances our understanding of the generative processes in images but also opens new pathways for research in generative AI, leveraging the convergence of theoretical physics, optimal transport, and machine learning principles."
+arxiv: "2402.17090"
+journal: "Physical Review E, 2025, Volume 111, Issue 1"
+doi: "https://doi.org/10.1103/PhysRevE.111.015304"
+nsf-par:
+code:
+publication-date: 2024-01-17
+bib-tex: |
+  @article{PhysRevE.111.015304,
+  title = {Renormalization group flow, optimal transport, and diffusion-based generative model},
+  author = {Sheshmani, Artan and You, Yi-Zhuang and Buyukates, Baturalp and Ziashahabi, Amir and Avestimehr, Salman},
+  journal = {Phys. Rev. E},
+  volume = {111},
+  issue = {1},
+  pages = {015304},
+  numpages = {14},
+  year = {2025},
+  month = {Jan},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevE.111.015304},
+  url = {https://link.aps.org/doi/10.1103/PhysRevE.111.015304},
+  eprint={2402.17090},
+  archivePrefix={arXiv},
+  }

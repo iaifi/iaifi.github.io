@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: F
+title: "Derived Moduli Spaces of Nonlinear PDEs II: Variational Tricomplex and BV Formalism"
+authors: Jacob Kryczka, Artan Sheshmani, Shing-Tung Yau
+abstract: "This paper is the second in a series of works dedicated to studying non-linear partial differential equations via derived geometric methods. We study a natural derived enhancement of the de Rham complex of a non-linear PDE via algebro-geometric techniques and examine its consequences for the functional differential calculus on the space of solutions. Applications to the BV-formalism with and without boundary conditions are discussed."
+arxiv: "2406.16825"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{kryczka2024derivedmodulispacesnonlinear,
+      title={Derived Moduli Spaces of Nonlinear PDEs II: Variational Tricomplex and BV Formalism},
+      author={Jacob Kryczka and Artan Sheshmani and Shing-Tung Yau},
+      year={2024},
+      eprint={2406.16825},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2406.16825},
+  }

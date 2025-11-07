@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-09-15
+title: "Towards non-commutative crepant resolutions of affine toric Gorenstein varieties"
+authors: "Aimeric Malter, Artan Sheshmani"
+abstract: "In this paper we prove a common generalisation of results by Špenko-Van den Bergh and Iyama-Wemyss that can be used to generate non-commutative crepant resolutions (NCCRs) of some affine toric Gorenstein varieties. We use and generalise results by Novaković to study NCCRs for affine toric Gorenstein varieties associated to cones over polytopes with interior points. As a special case, we consider the case where the polytope is reflexive with ≤dimP+2 vertices, using results of Borisov and Hua to show the existence of NCCRs."
+arxiv: "2509.11664"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{malter2025noncommutativecrepantresolutionsaffine,
+      title={Towards non-commutative crepant resolutions of affine toric Gorenstein varieties},
+      author={Aimeric Malter and Artan Sheshmani},
+      year={2025},
+      eprint={2509.11664},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2509.11664},
+  }

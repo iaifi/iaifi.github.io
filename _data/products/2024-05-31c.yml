@@ -1,0 +1,21 @@
+type: paper
+iaifi-thrust: F
+title: "Sheaf stable pairs, Quot-schemes, and birational geometry"
+authors: Caucher Birkar, Jia Jia, Artan Sheshmani
+abstract: 'In this paper we build bridges between moduli theory of sheaf stable pairs on one hand and birational geometry on the other hand. We will in particular treat moduli of sheaf stable pairs on smooth projective curves in detail and present some calculations in low degrees. We will also outline problems in various directions.'
+arxiv: "2406.00230"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 
+bib-tex: |
+  @article{birkar2024sheafstablepairsquotschemes,
+      title={Sheaf stable pairs, Quot-schemes, and birational geometry},
+      author={Caucher Birkar and Jia Jia and Artan Sheshmani},
+      year={2024},
+      eprint={2406.00230},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2406.00230},
+  }

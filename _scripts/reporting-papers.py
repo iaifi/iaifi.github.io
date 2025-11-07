@@ -18,6 +18,7 @@ def iaifi_year(year,month):
     if year == '2022': return 'Y3'
     if year == '2023': return 'Y4'
     if year == '2024': return 'Y5'
+    if year == '2025': return 'Y6'
   else:
     if year == '2020': return 'Y0'
     if year == '2021': return 'Y1'
@@ -25,6 +26,7 @@ def iaifi_year(year,month):
     if year == '2023': return 'Y3'
     if year == '2024': return 'Y4'
     if year == '2025': return 'Y5'
+    if year == '2026': return 'Y6'
 
   raise Exception("Year not defined for:" + year + "_" + month)
 
@@ -48,7 +50,7 @@ outputfiledictionary = {}
 outputcountdictionary = {}
 for thrust in ['T','E','A','F']:
   for status in ['submitted','published']:
-    for year in ['Y0','Y1','Y2','Y3','Y4','Y5']:
+    for year in ['Y0','Y1','Y2','Y3','Y4','Y5','Y6']:
       for quarter in ['Q1','Q2','Q3','Q4']:
 
         # creating TeX file
@@ -153,3 +155,4 @@ for thrust in ['T','E','A','F']:
     output_string = output_string[:-1]
   output_string += '}'
   outputfile.write(output_string)
+

@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2024-11-04
+title: "The -Geometric Hilbert Scheme -- Part II: Hilbert and Quot DG-Schemes"
+authors: "Jacob Kryczka, Artan Sheshmani"
+abstract: "This is the second in a series of two papers developing a moduli-theoretic framework for differential ideal sheaves associated with formally integrable, involutive systems of algebraic partial differential equations (PDEs). Building on earlier work, which established the existence of moduli stacks for such systems with prescribed regularity and stability conditions, we now construct a derived enhancement of these moduli spaces. We prove the derived -Quot functor admits a global differential graded refinement representable by a suitable differential graded -manifold. We further analyze the finiteness, representability, and functoriality properties of these derived moduli spaces, establishing foundations for a derived deformation theory of algebraic differential equations."
+arxiv: "2411.02387"
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{kryczka2025mathcaldgeometrichilbertscheme,
+      title={The $\mathcal{D}$-Geometric Hilbert Scheme -- Part II: Hilbert and Quot DG-Schemes},
+      author={Jacob Kryczka and Artan Sheshmani},
+      year={2025},
+      eprint={2411.02387},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2411.02387},
+  }

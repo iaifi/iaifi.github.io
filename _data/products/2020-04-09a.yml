@@ -1,0 +1,24 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2020-04-09
+title: "Twisted Quasimaps and Symplectic Duality for Hypertoric Spaces"
+authors: "Michael McBreen, Artan Sheshmani, Shing-Tung Yau Collaboration"
+abstract: "We study moduli spaces of twisted quasimaps to a hypertoric variety , arising as the Higgs branch of an abelian supersymmetric 3D gauge theory. These parametrize systems of maps between rank one sheaves on ¶, subject to a stability condition. We identify the singular cohomology of these moduli spaces with the Ext group of a pair of holonomic modules over the “quantized loop space” of, which we view as a Higgs branch for a related theory with infinitely many matter fields. We construct the coulomb branch of this theory, as a periodic analogue of the coulomb branch associated to. Using the formalism of symplectic duality, we derive an expression for the generating function of twisted quasimap invariants in terms of the character of a certain tilting module on the periodic coulomb branch. We give a closed formula when arises as the abelianisation of the -step flag quiver."
+arxiv: "2004.04508"
+journal: "Annales de l'Institut Fourier, Volume 75 (2025) no. 3, pp. 1225-1269"
+doi: "https://doi.org/10.5802/aif.3681"
+nsf-par:
+code:
+publication-date: 2025-06-17
+bib-tex: |
+  @article{mcbreen2023twistedquasimapssymplecticduality,
+  title={Twisted Quasimaps and Symplectic Duality for Hypertoric Spaces},
+  author={Michael McBreen, Artan Sheshmani, Shing-Tung Yau},
+  year={2025},
+  volume={75},
+  url={https://doi.org/10.5802/aif.3681},
+  journal={Annales de l'Institut Fourier},
+  eprint={2004.04508},
+  DOI={10.5802/aif.3681},
+  archivePrefix={arXiv},
+  }

@@ -1,22 +1,22 @@
 type: paper
 iaifi-thrust: F
 arxiv-date: 2025-06-18
-title: "Origins of Creativity in Attention-Based Diffusion Models"
-authors: "Emma Finn, T. Anderson Keller, Manos Theodosis, Demba E. Ba"
-abstract: "As diffusion models have become the tool of choice for image generation and as the quality of the images continues to improve, the question of how `creativity' originates in diffusion has become increasingly important. The score matching perspective on diffusion has proven particularly fruitful for understanding how and why diffusion models generate images that remain plausible while differing significantly from their training images. In particular, as explained in (Kamb & Ganguli, 2024) and others, e.g., (Ambrogioni, 2023), theory suggests that if our score matching were optimal, we would only be able to recover training samples through our diffusion process. However, as shown by Kamb & Ganguli, (2024), in diffusion models where the score is parametrized by a simple CNN, the inductive biases of the CNN itself (translation equivariance and locality) allow the model to generate samples that globally do not match any training samples, but are rather patch-wise `mosaics'. Notably, however, this theory does not extend to describe the role of self-attention in this process. In this work, we take a preliminary step in this direction to extend this theory to the case of diffusion models whose score is parametrized by a CNN with a final self-attention layer. We show that our theory suggests that self-attention will induce a globally image-consistent arrangement of local features beyond the patch-level in generated samples, and we verify this behavior empirically on a carefully crafted dataset."
-arxiv: "2506.17324"
+title: "Geography of Landau-Ginzburg models and threefold syzygies"
+authors: "Yang He, Artan Sheshmani"
+abstract: "We study the behavior of toric Landau-Ginzburg models under extremal contraction and minimal model program. We also establish a relation between the moduli space of toric Landau-Ginzburg models and the geography of central models. We conjecture that there is a correspondence between extremal contractions and minimal model program on Fano varieties, and degenerations of their associated toric Landau-Ginzburg models written explicitly. We prove the conjectures for smooth toric varieties, as well as general smooth Fano varieties in dimensions 2 and 3. As an application, we compute the elementary syzygies for smooth Fano threefolds."
+arxiv: "2506.15427"
 journal:
 doi:
 nsf-par:
 code:
 publication-date:
 bib-tex: |
-  @article{finn2025originscreativityattentionbaseddiffusion,
-      title={Origins of Creativity in Attention-Based Diffusion Models},
-      author={Emma Finn and T. Anderson Keller and Manos Theodosis and Demba E. Ba},
+  @article{he2025geographylandauginzburgmodelsthreefold,
+      title={Geography of Landau-Ginzburg models and threefold syzygies},
+      author={Yang He and Artan Sheshmani},
       year={2025},
-      eprint={2506.17324},
+      eprint={2506.15427},
       archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2506.17324},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2506.15427},
   }

@@ -11,7 +11,7 @@ nsf-par:
 code: https://github.com/Harvard-Neutrino/SIREN
 publication-date: 2025-08-08
 bib-tex: |
-  @article{SCHNEIDER2025109799,
+  @article{SCHNEIDER2025109799,}
   title = {SIREN: An open-source neutrino injection toolkit},
   journal = {Computer Physics Communications},
   volume = {316},
@@ -22,7 +22,7 @@ bib-tex: |
   url = {https://www.sciencedirect.com/science/article/pii/S0010465525003017},
   author = {Austin Schneider and Nicholas W. Kamp and Alex Y. Wen},
   keywords = {Neutrino event generator, Neutrino telescopes},
-  abstract = {Modeling of rare neutrino processes often relies on either simple approximations or expensive detector simulations. The former is often not sufficient for interactions with complex morphologies, while the latter is too time-intensive for phenomenological studies. We present SIREN (Sampling and Injection for Rare EveNts), a new tool for neutrino phenomenology and experimental searches alike that enables accurate interaction and detector geometry modeling without the overhead of detailed detector response simulations. SIREN handles the injection of rare process final states and the associated weighting calculations with the speed needed for phenomenological investigations and the detail necessary for dedicated experimental searches. The extensible design of SIREN allows it to support a wide range of experimental designs and Beyond Standard Model neutrino interactions. Users need only specify the physical process, detector geometry, and initial neutrino flux under consideration before they can accurately simulate a model in their detector of choice. We demonstrate the capability of SIREN through two examples: (1) Standard Model ŒΩŒº deep inelastic scattering in IceCube, DUNE, and ATLAS; and (2) heavy neutral lepton interactions in MiniBooNE, MINERŒΩA, and CCM. A variety of detector geometry descriptions, interaction cross sections, and neutrino fluxes are also provided for users to get started with immediately.
+  abstract = {Modeling of rare neutrino processes often relies on either simple approximations or expensive detector simulations. The former is often not sufficient for interactions with complex morphologies, while the latter is too time-intensive for phenomenological studies. We present SIREN (Sampling and Injection for Rare EveNts), a new tool for neutrino phenomenology and experimental searches alike that enables accurate interaction and detector geometry modeling without the overhead of detailed detector response simulations. SIREN handles the injection of rare process final states and the associated weighting calculations with the speed needed for phenomenological investigations and the detail necessary for dedicated experimental searches. The extensible design of SIREN allows it to support a wide range of experimental designs and Beyond Standard Model neutrino interactions. Users need only specify the physical process, detector geometry, and initial neutrino flux under consideration before they can accurately simulate a model in their detector of choice. We demonstrate the capability of SIREN through two examples: (1) Standard Model ŒΩŒº deep inelastic scattering in IceCube, DUNE, and ATLAS; and (2) heavy neutral lepton interactions in MiniBooNE, MINERŒΩA, and CCM. A variety of detector geometry descriptions, interaction cross sections, and neutrino fluxes are also provided for users to get started with immediately.}
   eprint={2406.01745},
   archivePrefix={arXiv},
   }

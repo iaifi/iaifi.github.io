@@ -1,0 +1,22 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2023-12-08
+title: "Derived Moduli Spaces of Nonlinear PDEs I: Singular Propagations"
+authors: "Jacob Kryczka, Artan Sheshmani, Shing-Tung Yau"
+abstract: "We construct a sheaf theoretic and derived geometric machinery to study nonlinear partial differential equations and their singular supports. We establish a notion of derived microlocalization for solution spaces of non-linear equations and develop a formalism to pose and solve singular non-linear Cauchy problems globally. Using this approach we estimate the domains of propagation for the solutions of non-linear systems. It is achieved by exploiting the fact that one may greatly enrich and simplify the study of derived non-linear PDEs over a space X by studying its derived linearization which is a module over the sheaf of functions on the S1-equivariant derived loop stack X."
+arxiv: "2312.05226"
+journal:
+doi: 
+nsf-par:
+code: 
+publication-date: 
+bib-tex: |
+  @article{kryczka2024derivedmodulispacesnonlinear,
+      title={Derived Moduli Spaces of Nonlinear PDEs I: Singular Propagations},
+      author={Jacob Kryczka and Artan Sheshmani and Shing-Tung Yau},
+      year={2024},
+      eprint={2312.05226},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2312.05226},
+  }
