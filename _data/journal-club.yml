@@ -181,11 +181,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Overcoming the Experimental Bottleneck with AI and Robotics"
   talk-abstract: "Scientific discovery remains fundamentally constrained by slow, manual, and intuition-driven laboratory experiments that struggle to scale across high-dimensional parameter spaces. AI and robotics now offer an exciting opportunity to directly address this bottleneck, but doing so will require reimagining the experimental process itself. In this talk, I will discuss the challenges involved in enabling autonomous scientific discovery in the laboratory. I will present our recent work on AI-driven robotics for optics, highlighting strategies for overcoming these challenges in real-world settings. Specifically, I will demonstrate a full experimental loop in which an LLM-based agent designs spatially aware optical setups that are then physically assembled and aligned by a robotic arm. I will conclude by outlining open problems that are critical to realizing truly intelligent laboratories capable of autonomous scientific discovery."
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1Po6wL1rH-NrxYH88z2rIUKEqWNjLAxgD/view?usp=drive_link
   youtube-link:
   speaker-thrust: "Physics experiment"
   speaker-gender: "Man"
-  talk-attendance:  0 in person, 0 virtual
+  talk-attendance:  5 in person, 9 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTExMTlUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
