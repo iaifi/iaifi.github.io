@@ -1,0 +1,8 @@
+type: industry
+title: Internship - Radiation Detection and Estimation
+employer: Mitsubishi Electric Research Labs
+post-date: 2025-11-16
+deadline:
+expire: 2025-12-16
+link: https://merl.com/employment/internship-openings?tags=ST0242
+details: "​MERL is seeking a motivated intern to support a research project focused on detecting and estimating properties of radiation sources (e.g., gamma, beta, alpha). The Computational Sensing team is developing new estimation and inference methods to analyze sensor data from radiation detection systems. To enable this, we require realistic physics-based simulations of particle transport and sensor interactions. The primary goal of this internship is to develop and validate high-fidelity radiation simulations using the Geant4 toolkit, providing data and visualization tools that will accelerate our algorithm development and testing. The ideal candidate would be a PhD student with experience in detector modeling and a familiarity with data analysis tools such as NumPy or ROOT. An understanding of inverse problems or estimation techniques may be beneficial but is not required. The duration is anticipated to be 3 - 6 months with a flexible start date."
