@@ -217,6 +217,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
   
+  ***IAIFI collaborates with YouTube channel ScienceClic on [video: "The Physics of AI."](https://youtu.be/dRkehLL19Wo?si=0J-6Sw5PhUq5n5ei)*** The video explores the connections between AI and Physics as related to the 2024 Nobel Prize in Physics, and the link between neural networks and quantum fields. *November 6, 2025*
+  {:.info}
+  
   ***IAIFI Senior Investigators collaborate with other interdisciplinary researchers on community white paper exploring "The Future of AI and the Mathematical and Physical Sciences."*** The [white paper](https://arxiv.org/abs/2509.02661), which developed out of an NSF-funded Workshop held in March 2025, presents how the MPS domains (Astronomy, Chemistry, Materials Research, Mathematical Sciences, and Physics) can best capitalize on, and contribute to, the future of AI. *September 4, 2025*
   {:.info}
   
