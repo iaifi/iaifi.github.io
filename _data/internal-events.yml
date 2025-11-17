@@ -1,13 +1,13 @@
 - type: "forum"
   event-name: "IAIFI Talent Forum"
   event-committee: ""
-  event-post-date: "2025-10-19"
-  start-date-time: "2025-10-29 12:00"
-  end-date-time: "2025-10-29 13:00"
+  event-post-date: "2025-11-23"
+  start-date-time: "2025-12-03 12:00"
+  end-date-time: "2025-12-03 13:00"
   talk-location: "Zoom"
   talk-zoom: https://mit.zoom.us/j/93434176251?pwd=zD9grb7X6eoabIRrZ62MmCP47FgyJh.1
   event-details: "The IAIFI Talent Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to empowering the next generation of AI+Physics talent, including career support, mentoring, computing resources, etc."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXA2cHV0cTFiMzQ0NWUyZDJ1OGhmcnFjMWQgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2Y1dTAzaDJzZThraDZpNHI1aGZtbWJoaTkgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://docs.google.com/document/d/1iXjgoch8ovxIqbZTooCzR6HHG76iGykJP5PuTUWRcyw/edit?usp=sharing
   priority: high
@@ -15,22 +15,14 @@
 - type: "forum"
   event-name: "IAIFI Community Forum"
   event-committee: ""
-  event-post-date: "2025-10-19"
-  start-date-time: "2025-10-30 11:00"
-  end-date-time: "2025-10-30 12:00"
+  event-post-date: "2025-11-23"
+  start-date-time: "2025-12-04 11:00"
+  end-date-time: "2025-12-04 12:00"
   talk-location: "Zoom"
   talk-zoom: https://mit.zoom.us/j/93955670791?pwd=sTjnl6p9WTPRbmEFnTLMSgux5BZGl4.1
   event-details: "The IAIFI Community Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to building a dynamic AI+Physics community, including social events, industry-academia collaboration, public engagement, etc. The agenda for this week includes: <br>
-    - Mission review
-    - Networking events
-    - Game nights
-    - IAIFI social
-    - Splash program
-    - ScienceClic Video
-    - Presidential AI Challenge
-    - Communication channels
-    - Regular social events"
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MThwanFkNmJiaHZxbzhtMTA1YW02aGUwczIgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+    - To be updated"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2lxYnF0dDYwNTBkZDVpYWFhaHRscW11cGwgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://docs.google.com/document/d/1Rht-4gEcX-yStVuzDKLNZYE9U_3FQgDp_lA9eURZwD8/edit?usp=sharing
   priority: high
@@ -38,16 +30,100 @@
 - type: "forum"
   event-name: "IAIFI Research Forum"
   event-committee: ""
-  event-post-date: "2025-10-19"
-  start-date-time: "2025-10-27 11:00"
-  end-date-time: "2025-10-27 12:00"
+  event-post-date: "2025-11-16"
+  start-date-time: "2025-11-24 11:00"
+  end-date-time: "2025-11-24 12:00"
   talk-location: "Zoom"
   talk-zoom: https://mit.zoom.us/j/95219855298
-  event-details: "The IAIFI Research Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to pioneering interdisciplinary AI+Physics research, including thematic discussions, facilitating collaborations, optimizing reporting, etc."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDYyb2k0ZWJjZmY4NXV1YTdhbmQzYjRlY29fMjAyNTEwMjdUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  event-details: "The IAIFI Research Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to pioneering interdisciplinary AI+Physics research, including thematic discussions, facilitating collaborations, optimizing reporting, etc. The agenda for this week includes: <br>
+    - Monthly research highlights
+    - IAIFI blog
+    - Mini-workshops"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDYyb2k0ZWJjZmY4NXV1YTdhbmQzYjRlY29fMjAyNTExMjRUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://docs.google.com/document/d/1vKdVzDqEZjWuNc54qTf1sFWoHOTNmHGTpeSgMmtJeGY/edit?usp=sharing
   priority: high
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2025-12-14"
+  start-date-time: "2025-12-17 12:00"
+  end-date-time: "2025-12-17 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNTEyMTdUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+  
+- type: "social"
+  event-name: "Pizza and Game Night"
+  event-committee: "Community"
+  event-post-date: "2025-11-30"
+  start-date-time: "2025-12-12 17:00"
+  end-date-time: "2025-12-12 19:00"
+  talk-location: "Location TBA"
+  talk-zoom:
+  event-details: "Details to come."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWxhcGM3OHE3ZnZkZWFwZDlhMG5tajdkdGVfMjAyNTEyMDVUMjIwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Co-Working Session"
+  event-committee: "Community"
+  event-post-date: "2025-11-30"
+  start-date-time: "2025-12-12 14:00"
+  end-date-time: "2025-12-12 17:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "This is an opportunity for IAIFI members to meet up for an informal co-working session. The Penthouse space will be set up for collaboration and conversation. Feel free to stop by for a short time, or stay for the whole session. Refreshments and snacks will be provided!"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N3Z2cnJmOTIxYnFwa2k2MnNhaWd0anVrbjYgY18yMjljMGQ0NzExYjJlNjgzOGI4NTZlZjEyN2E2NjJmMWJhODU1ZGZmOWU2NWE4MWJlMWQ1MTkyOGJkNDIwZWM4QGc&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "industry-lunch"
+  event-name: "Industry Lunch (speaker TBA)"
+  event-committee: "Talent"
+  event-post-date: "2025-11-30"
+  start-date-time: "2025-12-12 12:30"
+  end-date-time: "2025-12-12 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
+  event-details: "Details to come."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNTEyMTJUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2025-12-07"
+  start-date-time: "2025-12-10 12:00"
+  end-date-time: "2025-12-10 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNTEyMTBUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2025-11-30"
+  start-date-time: "2025-12-03 12:00"
+  end-date-time: "2025-12-03 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNTEyMDNUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
   
 - type: "social"
   event-name: "Weekly Coffee Hour"

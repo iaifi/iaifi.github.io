@@ -85,6 +85,8 @@ aside:
 
 **Biographical Sketch**: In his Ph.D. thesis, Denis Boyda studied strong-coupled systems such as graphene and quark-gluon/hadron matter. He received a Ph.D. degree in physics from Kurchatov Institute, Moscow in 2018. Denis Boyda joined MIT's Center for Theoretical Physics as a postdoctoral associate in 2019, where he worked on the enforcing of algorithms of Lattice Quantum Chromodynamics with Machine Learning. In 2020 he became a postdoctoral appointee in the Leadership Computer Facility at Argonne National Laboratory, where he scaled proof-of-principal ML models towards exascale. Denis Boyda grew up in the Russian Far East and loves sailing and hiking.
 
+*Denis moved on from IAIFI in 2024 to a role as a software engineer at Meta.*
+
 ### [Carolina Cuesta](mailto:cuestalz@mit.edu)
 <img src="images/small-photo-carolina-cuesta.jpg" align="right" style="max-width:285px;width:30%" hspace="20" vspace="20"/>
 
@@ -92,12 +94,16 @@ aside:
 
 **Biographical Sketch**: Before joining IAIFI as a Fellow, Carolina received her Ph.D. in Physics and Data Science from the Institute of Computational Cosmology at Durham University, UK, in 2022. Alongside her PhD, she has been a research collaborator with the United Nations (UN) Global Pulse and the UK’s National Health Service (NHS), developing epidemiological simulations, and a research intern at Amazon’s Alexa team. Carolina received a MSc in theoretical physics and cosmology (2017) at Heidelberg University (Germany), and a BSc in Physics (2015) at Universidad Autonoma de Madrid (Spain). Carolina grew up in Cuenca, Spain.
 
+*Carol moved on from IAIFI in 2025 to a role as a postdoc at NYU before she starts as an Assistant Professor of Physics at NYU in 2026.*
+
 ### [Jessie Micallef](mailto:jessiem@mit.edu)
 <img src="images/small-photo-jessie-micallef.jpg" align="right" style="max-width:225px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Jessie Micallef works on adapting and expanding machine learning solutions to apply to particle physics experiments. Her research focuses on neutrinos and studying neutrino oscillation, a unique phenomena that shows neutrinos deviate from their Standard Model prediction, with the IceCube Neutrino Observatory. To improve oscillation measurements, Jessie created and optimized new convolution neural network (CNN) reconstructions for GeV-scale IceCube neutrinos. Jessie’s machine learning interests focus on adapting the forefront of ML solutions to noisy, sparse neutrino data; she hopes to explore topics of robustness, systematics aware learning, fast inference methods, and advanced neural networks to adapt to neutrino experiments.
 
 **Biographical Sketch**: Jessie received her dual PhD in Physics and Computational Mathematics, Science, & Engineering from Michigan State University (MSU) where she was a NSF Graduate Research Fellow and former ACM SIGHPC/Intel Computer Science Fellow. She did her undergrad at University of Michigan, where she worked on the particle physics experiment KOTO in Japan and tested neutrino detectors at Lawrence Berkeley National Lab. In tandem with her research, Jessie also works to empower women and minorities in STEM by leading outreach and diversity initiatives through the Conferences for Undergraduate Women in Physics, MSU’s Women & Minorities in the Physical Sciences, and the IceCube collaboration. Outside of academia, Jessie enjoys creative writing, practicing longsword and jiu jitsu, and traveling to exciting places and events.
+
+*Jessie moved on from IAIFI in 2025 to a role as a senior postdoc for Tufts University, based at Fermilab.*
 
 ## 2021-2024 IAIFI Fellows
 
@@ -109,6 +115,8 @@ aside:
 
 **Biographical Sketch**:  Anna Golubeva obtained her PhD in 2021 at the Perimeter Institute for Theoretical Physics and the University of Waterloo, where she was advised by Roger Melko. During her PhD, she was also a graduate affiliate at the Vector Institute for AI in Toronto. Previously, she completed the Perimeter Scholars International master's program (2017), a MSc in Theoretical Physics with focus on computational approaches to quantum many-body systems (2016), and a BSc in Biophysics (2014) at the Goethe University in Frankfurt, Germany.
 
+*Anna moved on from IAIFI in 2023 to a role as a Research Scientist at Anthropic.*
+
 ### [Di Luo](mailto:diluo@mit.edu)
 
 <img src="images/small-photo-di-luo.jpg" align="right" style="max-width:263px;width:30%" hspace="20" vspace="20"/>
@@ -117,6 +125,7 @@ aside:
 
 **Biographical Sketch**:  Di Luo received his undergraduate degree with majors in physics and mathematics from the University of Hong Kong in 2016. He graduated with master degree in mathematics and Ph.D. degree in physics at the University of Illinois, Urbana-Champaign in 2021. Di Luo is currently an IAIFI Fellow at the NSF AI Institute for Artificial Intelligence and Fundamental Interactions.
 
+*Di moved on from IAIFI in 2024 to a role as an Assistant Professor of Electrical and Computer Engineering at UCLA.*
 
 ### [Siddharth Mishra-Sharma](mailto:smsharma@mit.edu)
 
@@ -126,6 +135,7 @@ aside:
 
 **Biographical Sketch**: Prior to joining the NSF AI Institute for Artificial Intelligence and Fundamental Interactions as an IAIFI Fellow, Siddharth Mishra-Sharma was a postdoctoral associate at the Center for Cosmology and Particle Physics at New York University from 2018-2021. He received his Ph.D. in Physics from Princeton University in 2018. He read Natural Sciences and Mathematics at the University of Cambridge, where he was a member of Peterhouse, receiving his undergraduate degree in 2013.  Siddharth grew up in Moscow, Russia.
 
+*Siddharth moved on from IAIFI in 2024 to a role as a Research Scientist at Anthropic, before he starts as an Assistant Professor of Computer Scientist at Boston University in 2026.*
 
 ### [Ge Yang](mailto:ge.ike.yang@gmail.com)
 
@@ -135,4 +145,4 @@ aside:
 
 **Biographical Sketch**:  Ge Yang grew up on the north side of Beijing, graduated in 2010 with his undergraduate degree in Physics and Mathematics from Yale, and received his Ph.D. in Physics from the University of Chicago. He visited UC Berkeley to work with Pieter Abbeel in 2018, followed by a research internship at Facebook AI Research with Roberto Calandra, and one at Google DeepMind in London with Volodomyr Mnih. He is currently a postdoctoral fellow at the NSF AI Institute for Artificial Intelligence and Fundamental Interactions.
 
-
+*Ge moved on from IAIFI in 2024 to a role as a postdoc for MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) and to work on establishing a startup.*
