@@ -108,11 +108,11 @@
   talk-title: "Feature Geometry guides Model Design in Deep Learning"
   talk-abstract: "The geometry of learned features can provide crucial insights on model design in deep learning. In this talk, we discuss two recent lines of work that reveal how the evolution of learned feature geometry during training both informs and is informed by architecture choices. First, we explore how deep neural networks transform the input data manifold by tracking its evolving geometry through discrete approximations via geometric graphs that encode local similarity structure. Analyzing the graphs’ geometry reveals that as networks train, the models’ nonlinearities drive geometric transformations akin to a discrete Ricci flow. This perspective yields practical insights for early stopping and network depth selection informed by data geometry. The second line of work concerns learning under symmetry, including permutation symmetry in graphs or translation symmetry in images. Group-convolutional architectures can encode such structure as inductive biases, which can enhance model efficiency. However, with increased depth, conventional group convolutions can suffer from instabilities that manifest as loss of feature diversity. A notable example is oversmoothing in graph neural networks. We discuss unitary group convolutions, which provably stabilize feature evolution across layers, enabling the construction of deeper networks that are stable during training."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9ycjFnZzFyam9raDJqamUzM200bzdoZnUgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
-  slides-link:
-  youtube-link:
+  slides-link: https://www.dropbox.com/scl/fo/dxd4oynrrftkscv7r4ebk/ACRhUjo2BL4OMlJuUPDNTIo?rlkey=6d3uy06r6z9cpk9h6u7rd4uoq&st=ttcbpiua&dl=0
+  youtube-link: https://www.youtube.com/live/hWzFXd2dXvo?si=-jHKWWGAfYCJTx2l
   speaker-thrust: "Foundational AI"
   speaker-gender: "Woman"
-  talk-attendance: 0 in person, 0 virtual
+  talk-attendance: 21 in person, 27 virtual
 
 - type: "colloquium"
   semester: "spring-2025"
