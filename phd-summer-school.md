@@ -3,19 +3,21 @@ layout: article
 title: IAIFI Summer School
 ---
 
-<img src="images/phd-summer-school-logo-2025.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
+***Stay tuned for updates about the 2026 IAIFI Summer School.*** [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive announcements regarding the 2026 IAIFI Summer School, which will be held August 3–7, 2026.
+{:.success}
 
+<img src="images/phd-summer-school-logo-2025.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 
 # Summer School 2025
 
-<img src="images/Summer-School_2024_Group-Photo.jpg" align="right" style="max-width:936px;width:50%" hspace="10" vspace="10"> 
+<img src="images/2025-summer-school-group-photo.jpeg" align="right" style="max-width:936px;width:50%" hspace="10" vspace="10"> 
 
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. 
 
 * **August 4–8, 2025**
 * **Harvard, Cambridge, MA**
 
-The Summer School will be followed by the [IAIFI Summer Workshop](/summer-workshop), which is open to researchers of all career stages. 
+The Summer School was followed by the [IAIFI Summer Workshop](/summer-workshop), which is open to researchers of all career stages. 
 
 <br><br><br>
 
