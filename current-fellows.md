@@ -135,7 +135,7 @@ aside:
 
 **Biographical Sketch**: Prior to joining the NSF AI Institute for Artificial Intelligence and Fundamental Interactions as an IAIFI Fellow, Siddharth Mishra-Sharma was a postdoctoral associate at the Center for Cosmology and Particle Physics at New York University from 2018-2021. He received his Ph.D. in Physics from Princeton University in 2018. He read Natural Sciences and Mathematics at the University of Cambridge, where he was a member of Peterhouse, receiving his undergraduate degree in 2013.  Siddharth grew up in Moscow, Russia.
 
-*Siddharth moved on from IAIFI in 2024 to a role as a Research Scientist at Anthropic, before he starts as an Assistant Professor of Computer Scientist at Boston University in 2026.*
+*Siddharth moved on from IAIFI in 2024 to a role as a Research Scientist at Anthropic, before he starts as an Assistant Professor of Computer and Data Science at Boston University in 2026.*
 
 ### [Ge Yang](mailto:ge.ike.yang@gmail.com)
 
