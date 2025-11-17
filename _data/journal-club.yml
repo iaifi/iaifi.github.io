@@ -199,7 +199,7 @@
   end-date-time: "2025-12-03 12:00"
   talk-location: "IAIFI Penthouse"
   talk-title: "Reducing Simulation Dependence in Neutrino Telescopes with Masked Point Transformers"
-  talk-abstract: "Details to come."
+  talk-abstract: "Machine learning techniques in neutrino physics have traditionally relied on simulated data, which provides access to ground-truth labels. However, the accuracy of these simulations and the discrepancies between simulated and real data remain significant concerns, particularly for large-scale neutrino telescopes that operate in complex natural media. In recent years, self-supervised learning has emerged as a powerful paradigm for reducing dependence on labeled datasets. Here, we present the first self-supervised training pipeline for neutrino telescopes, leveraging point cloud transformers and masked autoencoders. By shifting the majority of training to real data, this approach minimizes reliance on simulations, thereby mitigating associated systematic uncertainties. This represents a fundamental departure from previous machine learning applications in neutrino telescopes, paving the way for substantial improvements in event reconstruction and classification."
   slides-link:
   youtube-link:
   speaker-thrust: "Physics Experiment"

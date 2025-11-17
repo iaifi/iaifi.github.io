@@ -23,6 +23,44 @@
   calendar-link:
   registration-deadline:
   rsvp-link:
+
+- type: "external-event"
+  event-name: "MERL Virtual Open House"
+  event-organizer: "MERL (Mitsubishi Electric Research Laboratories)"
+  more-info-link: "https://www.merl.com/news/events/voh25"
+  event-post-date: "2025-11-16"
+  start-date-time: "2025-11-18 13:00"
+  end-date-time: "2025-11-18 16:30"
+  talk-location: "Virtual"
+  talk-zoom:
+  event-details: "Join us for MERL's virtual open house 2025 on November 18th. Live sessions will be held from 1:00-4:30pm EST, including an overview of recent activities by our research groups, a featured guest speaker and live interaction with our research staff. Registered attendees will be able to browse our virtual booths at their convenience and connect with our research staff on engagement opportunities, including internship/post-doc openings as well as visiting faculty positions."
+  calendar-link:
+  rsvp-link: https://mailchi.mp/merl/voh25
+
+  
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2025-11-16"
+  start-date-time: "2025-11-17 16:00"
+  end-date-time: "2025-11-17 17:00"
+  talk-location: "MIT Room G882 (Hewlett) and Zoom"
+  talk-zoom: https://mit.zoom.us/j/98754066083?pwd=aaifxsBMSmh6j9KvqMWWCED9BhMJV9.1
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker 1: Kimia Hamidieh <br>Title: Domain-Aware Scaling Laws Uncover Data Synergy<br>Abstract: Machine learning progress is often attributed to scaling model size and dataset volume, yet the composition of data can be just as consequential. Empirical findings repeatedly show that combining datasets from different domains yields nontrivial interactions: adding code improves mathematical reasoning, while certain mixtures introduce interference that suppresses performance. We refer to these effects collectively as data synergy, interaction effects whereby the joint contribution of multiple domains exceeds (positive synergy) or falls short of (interference) the sum of their isolated contributions. In this work, we formalize and quantify dataset interactions in large language models. Leveraging observational variation across open-weight LLMs with diverse pretraining mixtures, we estimate both direct domain-to-benchmark synergy (how one domain contributes to performance on another) and pretraining data synergy (capabilities that require co-occurrence of multiple domains). Our framework improves predictive accuracy over domain-agnostic scaling laws, recovers stable synergy patterns such as math–code complementarity, and yields interpretable maps of cross-domain transfer. These results demonstrate that understanding and exploiting data synergy is essential for designing data mixtures and curating corpora in the next generation of foundation models.<br><br>Speaker 2: Adrián Rodríguez<br>Title: Ambient Diffusion Omni: Training Good Models with Bad Data<br>Abstract: The first part of the talk shows how to use low-quality, synthetic, and out-of-distribution images to improve the quality of a diffusion model. Typically, diffusion models are trained on curated datasets that emerge from highly filtered data pools from the Web and other sources. We show that there is immense value in the lower-quality images that are often discarded. We present Ambient Diffusion Omni, a simple, principled framework to train diffusion models that can extract signal from all available images during training. Our framework exploits two properties of natural images -- spectral power law decay and locality. The second part of the talk explores how to iteratively evolve heterogeneous-quality datasets. We propose Ambient Dataloops, an iterative framework for refining datasets that makes it easier for diffusion models to learn the underlying data distribution. Modern datasets contain samples of highly varying quality, and training directly on such heterogeneous data often yields suboptimal models. We propose a dataset-model co-evolution process; at each iteration of our method, the dataset becomes progressively higher quality, and the model improves accordingly. To avoid destructive self-consuming loops, at each generation, we treat the synthetically improved samples as low-quality, but at a slightly higher quality level than the previous iteration, and we use Ambient Diffusion techniques for learning under corruption."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N3NhdTZubjVrZm92N3RsazhuOHVqa3VhNHIgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "AstroAI Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-11-16"
+  start-date-time: "2025-11-17 12:00"
+  end-date-time: "2025-11-17 13:00"
+  talk-location: "P-108A video wall, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Edgar Vidal (Tufts)<br>Title: Hierarchical Simulation-Based Inference of Supernova Power Sources and their Physical Properties<br>Abstract: Time domain surveys such as the Vera C. Rubin Observatory are projected to annually discover millions of astronomical transients. This and complementary programs demand fast, automated methods to constrain the physical properties of the most interesting objects for spectroscopic follow up. Traditional approaches to likelihood-based inference are computationally expensive and ignore the multi-component energy sources powering astrophysical phenomena. In this work, we present a hierarchical simulation-based inference model for multi-band light curves that 1) identifies the energy sources powering an event of interest, 2) infers the physical properties of each subclass, and 3) separates physical anomalies in the learned embedding space. Our architecture consists of a transformer-based light curve summarizer coupled to a flow-matching regression module and a categorical classifier for the physical components. We train and test our model on 150k synthetic light curves generated with MOSFiT. Our network achieves a 90% classification accuracy at identifying energy sources, yields well-calibrated posteriors for all active components, and detects rare anomalies such as tidal disruption events (TDEs) through the learned latent space. This work demonstrates a scalable joint framework for population studies of known transients and the discovery of novel populations in the era of Rubin."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmVsYmkwcDE3ZHZ2bW9rcGJvM2dyZzBudHQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
   event-name: "AstroAI Talk"
