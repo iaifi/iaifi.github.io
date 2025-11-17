@@ -220,7 +220,7 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
   ***IAIFI Investigators honored by Schmidt Sciences as 2025 Early Career Fellows.*** IAIFI Fellow/Harvard Society of Fellows' Michael Albergo and IAIFI Senior Investigator/MIT Professor Tess Smidt were selected for the [AI2050 Early Career Fellowship](https://ai2050.schmidtsciences.org/fellows/), which is an enabling fellowship to encourage postdoctoral and pre-tenure researchers from around the world to pursue bold and ambitious work on hard problems in AI. *November 17, 2025*
   {:.info}
    
-  ***IAIFI collaborates with YouTube channel ScienceClic on educational video.*** The video, "The Physics of AI,"](https://youtu.be/dRkehLL19Wo?si=0J-6Sw5PhUq5n5ei) explores the connections between AI and Physics as related to the 2024 Nobel Prize in Physics, and the link between neural networks and quantum fields. *November 6, 2025*
+  ***IAIFI collaborates with YouTube channel ScienceClic on educational video.*** The video, ["The Physics of AI,"](https://youtu.be/dRkehLL19Wo?si=0J-6Sw5PhUq5n5ei) explores the connections between AI and Physics as related to the 2024 Nobel Prize in Physics, and the link between neural networks and quantum fields. *November 6, 2025*
   {:.info}
   
   ***IAIFI Senior Investigators collaborate with other interdisciplinary researchers on community white paper exploring "The Future of AI and the Mathematical and Physical Sciences."*** The [white paper](https://arxiv.org/abs/2509.02661), which developed out of an NSF-funded Workshop held in March 2025, presents how the MPS domains (Astronomy, Chemistry, Materials Research, Mathematical Sciences, and Physics) can best capitalize on, and contribute to, the future of AI. *September 4, 2025*
