@@ -38,13 +38,16 @@
 - type: "forum"
   event-name: "IAIFI Research Forum"
   event-committee: ""
-  event-post-date: "2025-10-19"
-  start-date-time: "2025-10-27 11:00"
-  end-date-time: "2025-10-27 12:00"
+  event-post-date: "2025-11-16"
+  start-date-time: "2025-11-24 11:00"
+  end-date-time: "2025-11-24 12:00"
   talk-location: "Zoom"
   talk-zoom: https://mit.zoom.us/j/95219855298
-  event-details: "The IAIFI Research Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to pioneering interdisciplinary AI+Physics research, including thematic discussions, facilitating collaborations, optimizing reporting, etc."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDYyb2k0ZWJjZmY4NXV1YTdhbmQzYjRlY29fMjAyNTEwMjdUMTUwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  event-details: "The IAIFI Research Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to pioneering interdisciplinary AI+Physics research, including thematic discussions, facilitating collaborations, optimizing reporting, etc. The agenda for this week includes: <br>
+    - Monthly research highlights
+    - IAIFI blog
+    - Mini-workshops"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDYyb2k0ZWJjZmY4NXV1YTdhbmQzYjRlY29fMjAyNTExMjRUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://docs.google.com/document/d/1vKdVzDqEZjWuNc54qTf1sFWoHOTNmHGTpeSgMmtJeGY/edit?usp=sharing
   priority: high
