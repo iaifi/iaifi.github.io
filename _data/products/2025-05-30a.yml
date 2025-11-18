@@ -7,7 +7,7 @@ abstract: "We introduce wifi ensembles as a novel framework to obtain asymptotic
 arxiv: "2506.00113"
 journal: "Physical Review D, 2025, Volume 112, Issue 5"
 doi: https://doi.org/10.1103/w28w-x5wh
-nsf-par:
+nsf-par: 10648149
 code: "https://github.com/benevedes/wifi-ensembles"
 publication-date: 2025-09-19
 bib-tex: |

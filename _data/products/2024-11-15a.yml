@@ -7,7 +7,7 @@ abstract: "We introduce SymbolFit, a framework that automates parametric modelin
 arxiv: "2411.09851"
 journal: "Computing and Software for Big Science, Volume 9, article number 12, (2025)"
 doi: "https://doi.org/10.1007/s41781-025-00140-9"
-nsf-par:
+nsf-par: 10648136
 code: "https://github.com/hftsoi/symbolfit"
 publication-date: 2025-07-01
 bib-tex: |

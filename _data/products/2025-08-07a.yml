@@ -7,7 +7,7 @@ abstract: "Current and upcoming cosmological surveys will produce unprecedented 
 arxiv: "2508.05744"
 journal: "Machine Learning: Science and Technology, 2025, Volume 6, Number 4"
 doi: https://doi.org/10.1088/2632-2153/ae107d
-nsf-par:
+nsf-par: 10648151
 code: https://github.com/AizhanaAkhmet/model-misspecification
 publication-date: 2025-10-27
 bib-tex: |

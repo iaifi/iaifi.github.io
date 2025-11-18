@@ -7,7 +7,7 @@ abstract: "X-ray observing facilities, such as the Chandra X-ray Observatory and
 arxiv: "2502.01627"
 journal: "The Astrophysical Journal, Volume 988, Number 1"
 doi: "https://doi.org/10.3847/1538-4357/add72e"
-nsf-par:
+nsf-par: 10648142
 code:
 publication-date: 2025-07-18
 bib-tex: |
