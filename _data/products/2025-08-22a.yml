@@ -7,7 +7,7 @@ abstract: "Foundation models for materials modeling are advancing quickly, but t
 arxiv: "2508.16067"
 journal: "39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: AI for Accelerated Materials Design"
 doi: https://openreview.net/pdf?id=JYxeI4AwhQ
-nsf-par:
+nsf-par: 10648732
 code: "https://github.com/atomicarchitects/nequix"
 publication-date: 2025-09-20
 bib-tex: |
