@@ -7,7 +7,7 @@ abstract: "This paper presents the results of a neural network (NN)-based search
 arxiv: "2412.19883"
 journal: "Phys. Rev. D Vol.112, Iss. 2"
 doi: "https://doi.org/10.1103/zykf-8klg"
-nsf-par:
+nsf-par: 10648140
 code:
 publication-date: 2025-07-15
 bib-tex: |

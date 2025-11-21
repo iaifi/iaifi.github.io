@@ -7,7 +7,7 @@ abstract: "We introduce new high-resolution galaxy simulations accelerated by a 
 arxiv: "2410.23346"
 journal: "The Astrophysical Journal, Volume 987, Number 1"
 doi: "https://doi.org/10.3847/1538-4357/add689"
-nsf-par:
+nsf-par: 10648139
 code:
 publication-date: 2025-07-01
 bib-tex: |

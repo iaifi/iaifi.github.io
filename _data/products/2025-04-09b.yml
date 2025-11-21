@@ -7,7 +7,7 @@ abstract: "The LIGO-Virgo-KAGRA catalog has been analyzed with an abundance of d
 arxiv: "2504.07197"
 journal: Physical Review D, 2025, Volume 111, Issue 12
 doi: https://doi.org/10.1103/xk1z-fxnm
-nsf-par:
+nsf-par: 10648148
 code: https://github.com/mdmould/gwax
 publication-date:
 bib-tex: |

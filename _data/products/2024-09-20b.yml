@@ -6,7 +6,7 @@ abstract: "In this work, we study how the abundance and dynamics of populations 
 arxiv: "2409.13810"
 journal: "The Astrophysical Journal, Volume 990, Number 2"
 doi: "https://doi.org/10.3847/1538-4357/adf1a7"
-nsf-par:
+nsf-par: 10648144
 code: "https://github.com/adropulic/StreamGen"
 publication-date: 2025-09-04
 bib-tex: |

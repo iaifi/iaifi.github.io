@@ -7,7 +7,7 @@ abstract: "Fully-connected deep neural networks with weights initialized from in
 arxiv: "2310.07765"
 journal: "Machine Learning: Science and Technology, Volume 6, Number 3"
 doi: "https://doi.org/10.1088/2632-2153/adf278"
-nsf-par:
+nsf-par: 10648141
 code:
 publication-date: 2025-08-07
 bib-tex: |

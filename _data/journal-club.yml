@@ -162,11 +162,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "A Data-Driven Prism: Multi-View Source Separation with Diffusion Model Priors"
   talk-abstract: "A common challenge in the natural sciences is to disentangle distinct, unknown sources from observations. Examples of this source separation task include deblending galaxies in a crowded field, distinguishing the activity of individual neurons from overlapping signals, and separating seismic events from an ambient background. Traditional analyses often rely on simplified source models that fail to accurately reproduce the data. Recent advances have shown that diffusion models can directly learn complex prior distributions from noisy, incomplete data. In this work, we show that diffusion models can solve the source separation problem without explicit assumptions about the source. Our method relies only on multiple views, or the property that different sets of observations contain different linear transformations of the unknown sources. We show that our method succeeds even when no source is individually observed and the observations are noisy, incomplete, and vary in resolution. The learned diffusion models enable us to sample from the source priors, evaluate the probability of candidate sources, and draw from the joint posterior of the source distribution given an observation. We demonstrate the effectiveness of our method on a range of synthetic problems as well as real-world galaxy observations."
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1dSQTem02howUmILeojNuB1LtqW5LEdMc/view?usp=drive_link
   youtube-link:
   speaker-thrust: "Astrophysics"
   speaker-gender: "Woman"
-  talk-attendance:  0 in person, 0 virtual
+  talk-attendance:  7 in person, 3 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTExMTJUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"

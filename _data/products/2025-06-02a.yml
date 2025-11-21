@@ -7,7 +7,7 @@ abstract: "A dataset of 23,351 globular clusters (GCs) and ultra-compact dwarfs 
 arxiv: "2506.02296"
 journal: "The Astrophysical Journal, 2025, Volume 988, Number 1"
 doi: "https://doi.org/10.3847/1538-4357/addf4a"
-nsf-par:
+nsf-par: 10648135
 code:
 publication-date: 2025-07-10
 bib-tex: |

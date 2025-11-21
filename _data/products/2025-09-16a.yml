@@ -7,7 +7,7 @@ abstract: "Type IIn supernovae (SNe IIn) are a highly heterogeneous subclass of 
 arxiv: "2409.10596"
 journal: "The Astrophysical Journal, 2025, Volume 987, Number 1"
 doi: "https://doi.org/10.3847/1538-4357/adce03"
-nsf-par:
+nsf-par: 10648138
 code:
 publication-date: 2025-06-23
 bib-tex: |

@@ -7,7 +7,7 @@ abstract: "We show that the Lorentz-Equivariant Geometric Algebra Transformer (L
 arxiv: "2411.00446"
 journal: "SciPost Physics, 2025, Volume 19, Issue 4"
 doi: https://doi.org/10.21468/SciPostPhys.19.4.108
-nsf-par:
+nsf-par: 10648150
 code: "https://github.com/heidelberg-hepml/lorentz-gatr"
 publication-date: 2025-10-23
 bib-tex: |
