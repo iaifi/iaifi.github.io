@@ -183,7 +183,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
-***Our [IAIFI Colloquium series](events.html) will continue with a joint IAIFI and [MIT CSAIL](https://www.csail.mit.edu/) colloquium on November 21, 2025, with T. Konstantin Rusch (Max Planck Institute for Intelligent Systems).*** Recordings of our previous colloquium talks are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue in the Spring 2026 semester.*** Recordings of our Fall 2025 colloquium talks are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>
