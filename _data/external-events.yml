@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "AstroAI Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-11-23"
+  start-date-time: "2025-11-24 12:00"
+  end-date-time: "2025-11-17 13:00"
+  talk-location: "P-108A video wall, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Alex Gagliano (IAIFI Fellow)<br>Title: Minuet: A Diffusion Autoencoder for Compact Semantic Compression of Multi-Band Galaxy Images<br>Abstract: The Vera C. Rubin Observatory will image nearly 20 billion galaxies over its decade-long Legacy Survey of Space and Time, producing an unprecedented archive of multi-band data. These data will be invaluable for probing galaxy evolution across cosmic time, characterizing the host galaxies of transient phenomena, and identifying novel populations of galaxies. In this talk, I’ll introduce Minuet, a diffusion autoencoder that learns a five-dimensional representation of 72×72-pixel, grz-band cutouts for two million galaxies from the Dark Energy Camera Legacy Survey. I’ll outline the architecture of Minuet, summarize the value of its latents for classifying morphology and inferring physical properties, and discuss the utility of the learned latent space for nearest neighbors searches and anomaly detection. Together, these results highlight the low intrinsic dimensionality of galaxy images and show how diffusion-based autoencoders can provide compact semantic summaries for a wide range of astrophysical applications."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2htNmsya3NsZ2hqaDRubmpuaWx0cjM4ZWYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
   event-name: "APS Global Physics Summit (Abstract submissions due Oct 23)"
   event-organizer: "APS"
   more-info-link: "https://summit.aps.org/about/"
