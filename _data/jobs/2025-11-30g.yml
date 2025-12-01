@@ -1,0 +1,8 @@
+type: postdoc
+title: Postdoc Position on Continual Learning for Foundation Models
+employer: Autonomous University of Barcelona, Spain (Universitat Autònoma de Barcelona)
+post-date: 2025-11-30
+deadline:
+expire: 2025-12-30
+link: https://www.cvc.uab.es/blog/2025/11/21/postdoc-position-on-continual-learning-of-foundation-models/
+details: "​We are seeking a postdoc to join the LAMP group at the Computer Vision Center (CVC), in Barcelona, Spain. The position is for 2-3 years and linked to the project “Foundations for Adaptive and Generalizable Deep Learning” (EXPLORA), funded by Ministerio de Ciencia, Innovación y Universidades/AEI, focused on ‘Continual Learning for Foundation Models’ where the aim is to adapt foundation models to new tasks without forgetting previous knowledge. The focus of the project can be defined in collaboration with the supervisor, with potential avenues including optimization aspects, parameter-efficient adaptation methods, model merging theory, multi-modal continual learning, or adaptation to open-world scenarios."
