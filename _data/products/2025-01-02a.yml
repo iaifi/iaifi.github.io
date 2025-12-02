@@ -7,7 +7,7 @@ abstract: "In reinforcement learning, especially in sparse-reward domains, many 
 arxiv: "2501.00989"
 journal: "Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 39, No. 15, 2025"
 doi: https://doi.org/10.1609/aaai.v39i15.33679
-nsf-par:
+nsf-par: 10616109
 code: https://github.com/JacobHA/ShapedRL
 publication-date: 2025-04-11
 bib-tex: |

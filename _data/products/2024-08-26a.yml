@@ -6,7 +6,7 @@ abstract: "We introduce LINX (Light Isotope Nucleosynthesis with JAX), a new dif
 arxiv: "2408.14538"
 journal: "Phys. Rev. D 112, 063531"
 doi: "https://doi.org/10.1103/f3tj-r882"
-nsf-par:
+nsf-par: 10650999
 code: "https://github.com/cgiovanetti/LINX"
 publication-date: 2025-09-17
 bib-tex: |

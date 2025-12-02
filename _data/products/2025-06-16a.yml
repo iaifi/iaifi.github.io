@@ -5,18 +5,18 @@ title: "The Price of Freedom: Exploring Expressivity and Runtime Tradeoffs in Eq
 authors: "YuQing Xie, Ameya Daigavane, Mit Kotak, Tess Smidt"
 abstract: "E(3) -equivariant neural networks have demonstrated success across a wide range of 3D modelling tasks. A fundamental operation in these networks is the tensor product, which interacts two geometric features in an equivariant manner to create new features. Due to the high computational complexity of the tensor product, significant effort has been invested to optimize the runtime of this operation. For example, Luo et al. (2024) recently proposed the Gaunt tensor product (GTP) which promises a significant speedup. In this work, we provide a careful, systematic analysis of a number of tensor product operations. In particular, we emphasize that different tensor products are not performing the same operation. The reported speedups typically come at the cost of expressivity. We introduce measures of expressivity and interactability to characterize these differences. In addition, we realized the original implementation of GTP can be greatly simplified by directly using a spherical grid at no cost in asymptotic runtime. This spherical grid approach is faster on our benchmarks and in actual training of the MACE interatomic potential by 30%. Finally, we provide the first systematic microbenchmarks of the various tensor product operations. We find that the theoretical runtime guarantees can differ wildly from empirical performance, demonstrating the need for careful application-specific benchmarking."
 arxiv: "2506.13523"
-journal:
-doi:
-nsf-par:
+journal: ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling
+doi: https://openreview.net/forum?id=0HHidbjwcf
+nsf-par: 10650997
 code: "https://github.com/atomicarchitects/PriceofFreedom"
-publication-date:
+publication-date: 2024-06-17
 bib-tex: |
-  @article{xie2025pricefreedomexploringexpressivity,
-      title={The Price of Freedom: Exploring Expressivity and Runtime Tradeoffs in Equivariant Tensor Products},
-      author={YuQing Xie and Ameya Daigavane and Mit Kotak and Tess Smidt},
-      year={2025},
-      eprint={2506.13523},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2506.13523},
+  @inproceedings{xie2024the,
+  title={The Price of Freedom: Exploring Tradeoffs between Expressivity and Computational Efficiency in Equivariant Tensor Products},
+  author={YuQing Xie and Ameya Daigavane and Mit Kotak and Tess Smidt},
+  booktitle={ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling},
+  year={2024},
+  url={https://openreview.net/forum?id=0HHidbjwcf},
+  eprint={2506.13523},
+  archivePrefix={arXiv},
   }
