@@ -128,13 +128,14 @@ The IAIFI has partnered with Northeastern’s [Theorynet program](http://www.phy
 
 This activity is coordinated by the [IAIFI Public Engagement Committee](/committees.html#public-engagement).
 
-## Summer Programs for High Schoolers
+## Summer Programs + More for High Schoolers
 
 Depending on the program you're interested in, you may have the opportunity to indicate interest in working with someone from the IAIFI community. Take a look on [IAIFI's People Page](https://iaifi.org/people.html) to see current members!
 
 ### MIT
 * [Research Science Institute](https://www.cee.org/programs/research-science-institute)
 * [MITES Summer](https://mites.mit.edu/discover-mites/mites-summer/)
+* [Splash!](https://esp.mit.edu/learn/Splash/index.html)
 
 ### Harvard
 * [Pre-College Program](https://summer.harvard.edu/high-school-programs/pre-college-program/)
