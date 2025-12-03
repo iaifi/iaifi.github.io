@@ -7,7 +7,7 @@ abstract: "Hyperspectral Image Change Detection (HSI-CD) focuses on identifying 
 arxiv: 
 journal: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024"
 doi: "https://doi.org/10.1109/JSTARS.2024.3479920"
-nsf-par:
+nsf-par: 
 code:
 publication-date: 2024-10-14
 bib-tex: |

@@ -217,8 +217,8 @@
   start-date-time: "2025-12-10 11:00"
   end-date-time: "2025-12-10 12:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Global and physically driven nuclear emulators"
-  talk-abstract: "Details to come."
+  talk-title: "A Differentiable Physics-Driven Matrix Emulator for Linking the Strong Force with Nuclear Observables"
+  talk-abstract: "I will present FRAME (Fidelity-Resolved Affine Matrix Emulator), a novel architecture for ab initio nuclear emulation that bridges the gap between data-driven surrogates and structure-preserving reduced basis methods. FRAME combines a global latent encoder with a Parametric Matrix Model (PMM) core, giving a physics-respecting model by design and enabling rigorous multi-fidelity extrapolation across computational model spaces. I will demonstrate how this differentiable framework allowed us to use a likelihood-integrated sensitivity analysis, revealing how electromagnetic moments resolve blind spots in the Chiral Effective Field Theory parameter space that remain invisible to traditional bulk observables."
   slides-link:
   youtube-link:
   speaker-thrust: "Physics theory"

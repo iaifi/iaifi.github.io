@@ -1,4 +1,14 @@
 - type: "research-highlight"
+  domain: "Foundational AI"
+  title: "AutoSciDACT: Automated Scientific Discovery through Contrastive Embedding and Hypothesis Testing"
+  authors: Samuel Bright-Thonney, Christina Reissel, Gaia Grosso, Nathaniel Woodward, Katya Govorkova, Andrzej Novak, Sang Eon Park, Eric Moreno, Philip Harris
+  date-added: 2025-12-02
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vSQ2LQR4EUHsKTAY6hRqFq8g9iejvylNuSVnzw9TsfdkuMRGUMnBcGYVaOjgRwb7oi4rXh2hBUQB9uB/pubembed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/12ogry7Q0VfZ2Wr6ycsmGEo3jRSQkXU2DxRrh_w3k2X4/edit?usp=sharing"
+  overview-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRS2P7fA0v-jzoFu4gPi22JJX7bG0W2OIkorpNdxHCFow9MhcjpTRxs0YZ3GPLf2HemdQPT6N56hivL/pubembed?start=false&loop=false&delayms=3000"
+  overview-link: "https://docs.google.com/presentation/d/1BMpHbpa3U4XbrlAesx1f2gLmxdw0Atp4gvvPQM8TONU/edit?usp=sharing"
+
+- type: "research-highlight"
   domain: "Astrophysics"
   title: "Evidence for an Instability-induced Binary Merger in the Double-peaked, Helium-rich Type IIn Supernova 2023zkd"
   authors:  Alex Gagliano (IAIFI), Ashley Villar (IAIFI/Harvard), T. Matsumoto (Kyoto University), D. O. Jones(University of Hawai’i), C.L.Ransome (Harvard), A.E.Nugent (Harvard), Daichi Hiramatsu (IAIFI/Harvard), and the Young Supernova Experiment

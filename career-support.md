@@ -34,19 +34,26 @@ In addition to these resources, the Early Career and Ethics Committee has compil
 * [Career Advising and Professional Development Office (CAPD))](https://capd.mit.edu)
    * [Resources and Advice](https://capd.mit.edu/channels/resources-advice/)
    * [Events](https://capd.mit.edu/events/?utc_src_link=eventscalnav)
+   * [Resources for International Students](https://capd.mit.edu/channels/international-students/?utm_source=chatgpt.com)
+   * [Finding a job or internship](https://capd.mit.edu/channels/find-a-job-or-internship/)
 * [Alumni Advisors Hub](https://alumniadvisors.mit.edu)
 * [Annual Career Fairs](https://capd.mit.edu/annual-career-fairs-at-mit/)
 * [Communication Lab](https://mitcommlab.mit.edu/eecs/)
+* [Micro-internships Program](https://capd.mit.edu/channels/micro-internships/)
+* [International Students Office (ISO)](https://iso.mit.edu/)
 
 ### Harvard
 * [FAS Mignone Center for Career Success](https://careerservices.fas.harvard.edu)
    * [Crimson Careers:](https://careerservices.fas.harvard.edu/crimson-careers/) Platform for career support
    * [Firsthand Advisors](https://careerservices.fas.harvard.edu/resources/firsthand/): Connects students with alumni virtually
    * [Events](https://careerservices.fas.harvard.edu/events/)
+   * [Internships](https://careerservices.fas.harvard.edu/channels/find-an-internship/)
+   * [Resources for International Students](https://careerservices.fas.harvard.edu/channels/international-students/)
 * [SEAS Office of Student Career Development](https://seas.harvard.edu/office-student-career-development)
    * [Events](https://events.seas.harvard.edu/calendar?event_types%5B%5D=31159499317000&event_types%5B%5D=30342705739718)
 * [Interstride](https://interstride.com/harvardfas/): For international students and international opportunities
 * [Big Interview](https://harvard.biginterview.com): Resource for job interview prep
+* [International Office](https://www.hio.harvard.edu/)
 
 ### Northeastern
 * [Employer Engagement and Career Design](https://careers.northeastern.edu)
@@ -55,8 +62,13 @@ In addition to these resources, the Early Career and Ethics Committee has compil
    * [Events](https://careers.northeastern.edu/events/)
 * [NU Works](https://northeastern-csm.symplicity.com): Internship and employment opportunities
 * [NU Place](https://nuplace.northeastern.edu/services/career-identity-resources/): Career tools and resources by identity
+    * [Resources for international students](https://nuplace.northeastern.edu/services/career-identity-resources/international/)
 * [AI Career Tips and Tools](https://careers.northeastern.edu/article/ai-career-tips-and-tools/) 
+* [Co-op program](https://www.northeastern.edu/experiential-learning/co-op/)
+* [Internship resources](https://careers.northeastern.edu/article/internship-search/)
 * [Job Search Tips](https://careers.northeastern.edu/group/job-search/)
+* [Office of Global Services](https://international.northeastern.edu/ogs/)
+* [International Tutoring Ceneter (ITC)](https://international.northeastern.edu/itc/?_gl=1*z2rxyy*_gcl_au*NzYwNjY0NDEwLjE3NjE2NjQ5MzQ.&_gl=1*z2rxyy*_gcl_au*NzYwNjY0NDEwLjE3NjE2NjQ5MzQ)
 
 ### Tufts
 * [Tufts Career Center](https://careers.tufts.edu/)
@@ -64,8 +76,13 @@ In addition to these resources, the Early Career and Ethics Committee has compil
    * [Career Advising](https://careers.tufts.edu/channels/see-an-advisor/)
    * [Resume and Cover Letter Advice](https://careers.tufts.edu/channels/writing-resumes-cover-letters/)
    * [Events](https://careers.tufts.edu/events/?ctag%5B%5D=home-page-events)
+   * [Internship resources](https://careers.tufts.edu/channels/finding-internships/)
+   * [Grad student resources](https://careers.tufts.edu/channels/graduate-students/)
+   * [International student resources](https://careers.tufts.edu/channels/international-students/)
 * [The Herd](https://careers.tufts.edu/resources/the-herd/): Mentoring and networking for Tufts students and alumni
 * [Engineering and Technology Rotational Programs](https://careers.tufts.edu/resources/rotational-programs-engineering-technology/): Positions that allow you to gain insight and experience by rotating through a variety of areas within a company over a two to three-year period
+* [International center](https://icenter.tufts.edu/)
+    * [F-1 International Organization Internship](https://icenter.tufts.edu/immigration/f1-students/f1-employment/f1-international-organization/)
 
 ## Finding jobs/internships
 
