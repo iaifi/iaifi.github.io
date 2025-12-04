@@ -76,4 +76,12 @@ Covers basic numerical methods for differentiation, integration, and matrix oper
 
 [View course details](https://www.coursicle.com/neu/courses/PHYS/7321/){:.button.button--outline-primary.button--pill.button--sm}
 
+## Other Educational Resources
+### AIVO Education Portal
+
+This is a centralized hub for AI teaching tools, frameworks, and collaboration opportunities designed to support responsible and inclusive AI education for all.
+
+[Access the portal](https://education.aiinstitutes.org/){:.button.button--outline-primary.button--pill.button--sm}
+
+
 
