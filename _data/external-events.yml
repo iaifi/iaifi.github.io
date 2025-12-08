@@ -2,6 +2,18 @@
   event-name: "AstroAI Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2025-12-07"
+  start-date-time: "2025-12-08 12:00"
+  end-date-time: "2025-12-08 13:00"
+  talk-location: "P-108A video wall, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Nayyer Raza (McGill)<br>Title: Leveraging machine learning to rapidly classify candidate gravitational-wave events for multi-messenger observations <br>Abstract: Multi-messenger observations of gravitational waves and electromagnetic emission from compact object mergers offer unique insights into the structure of neutron stars, the formation of heavy elements, and the expansion rate of the Universe. However, assessing whether to follow up a candidate gravitational-wave event detected by the LIGO-Virgo-KAGRA (LVK) observatories is challenging; the candidate can be a false alarm due to detector glitches, or may not have any detectable electromagnetic counterpart even if it is astrophysical. In this talk I present the study and development of GWSkyNet-Multi: a neural network-based model designed to facilitate follow-up decisions by providing real-time classification of candidate events, using localization information released in LVK public alerts. I first take a deep dive into understanding and explaining how the model utilizes the inputs to distinguish between classes, revealing insights into its misclassifications. I then present GWSkyNet-Multi II, an updated model that is simultaneously less complex and provides more robust and informative predictions for LVK’s fourth observing run. Finally, I show our latest efforts in expanding the model’s capabilities to identify merger events in the lower mass gap, which hints at the model’s ability to infer information about the source chirp mass to make predictions. GWSkyNet-Multi can thus be used by the community to help make time-critical follow-up decisions for multi-messenger observations."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmYxazl2dmNsZzg1Z2FmbHZyMHBoMWd2dm8gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
+- type: "external-event"
+  event-name: "AstroAI Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2025-11-30"
   start-date-time: "2025-12-01 12:00"
   end-date-time: "2025-12-01 13:00"
