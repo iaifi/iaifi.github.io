@@ -1,0 +1,8 @@
+type: postdoc
+title: Postdoc position on safe AI
+employer: EPFL, Lausanne, Switzerland
+post-date: 2025-12-07
+deadline: 
+expire: 2026-01-07
+link: https://dlab.epfl.ch/2025-12-05-safe-ai-postdoc-position/
+details: "​Applications are invited for a postdoctoral position at EPFL, to be hosted by the Data Science & AI Lab, headed by Prof. Robert West. We seek a candidate who will lead ground-breaking research projects with the goal of building safe AI that truly cares about human interests. Instead of viewing alignment as mere postprocessing of pretrained models (“lipstick-on-a-pig alignment”), you will contribute to our agenda of “raising” models that will be continuously aligned throughout the training process, starting from token 1 in pretraining (see here for a high-level vision). To this end, you will combine synthetic data generation, mechanistic interpretability, LLM pre- and posttraining, and model evaluation in novel ways."
