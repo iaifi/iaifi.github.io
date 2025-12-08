@@ -183,6 +183,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 [View our full events calendar](events-calendar.html) for all upcoming events.
 
+***Applications are now open for the 2026 IAIFI Summer School.*** If you are an early career researcher at the intersection of AI and Physics, [apply by February 9, 2026](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845) to participate in a week of lectures, hands-on tutorials, and networking!
+{:.success}
+
 ***Our [IAIFI Colloquium series](events.html) will continue in the Spring 2026 semester.*** Recordings of our Fall 2025 colloquium talks are available to view on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 

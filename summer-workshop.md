@@ -3,30 +3,25 @@ layout: article
 title: 
 ---
 
-<img src="images/summer-workshop-logo_2025.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
+<img src="images/summer-workshop-logo_2026.png" align="left" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 
 
-The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. We are also accepting submissions for contributed talks and/or posters.
+The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. We will also accept submissions for contributed talks and/or posters.
 
-* **The 2025 Summer Workshop was held August 11–15, 2025**
-* **Location: Harvard University Northwest Building (52 Oxford St, Cambridge, MA 02138), Room B103**
+**Registration for the 2026 IAIFI Summer Workshop will open in early 2026.** [Join our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) to receive updates. 
+{:.success}
+
+
+* **The 2026 Summer Workshop will be held August 10–14, 2026**
+* **Location: Boston/Cambridge, MA (exact location TBA)**
 
 [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Speakers](#speakers){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}   [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Past Workshops](/past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 
 ## About
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field.
 
-[View recordings from the 2025 Workshop](https://youtube.com/playlist?list=PLBY0ED2StbGYicBdodtC3QqVVnwhr758-&feature=shared)
-
-**Many of the videos from the 2025 IAIFI Summer Workshop are now [posted on the IAIFI YouTube channel](https://youtube.com/playlist?list=PLBY0ED2StbGYicBdodtC3QqVVnwhr758-&feature=shared).**
-{:.info} 
 
 <!--
-**Many of the speakers' slides from the 2025 IAIFI Summer Workshop are now [available online](https://drive.google.com/drive/folders/1lpw1hYCvnaUk00ta7sJMGpNVORR5Y8EC?usp=drive_link).** 
-{:.info} 
--->
-
-
 ## Agenda
 
 <img src="images/2025-summer-workshop.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
@@ -738,334 +733,6 @@ Closing
 
 
 ## Speakers
- 
-<div class="card-columns">
-  <!--<div class="row">-->
-    
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-alexandre-adam..jpg" alt="Alexandre Adam" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://github.com/AlexandreAdam">Alexandre Adam</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> University of Montreal </em> <br>
-         </div>
-         </div>
-       </div>
-       
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-noemi-anau-montel.jpg" alt="Noemi Anau Montel" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://noemiam.github.io/">Noemi Anau Montel</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Max-Planck Institute for Astrophysics </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-petros-boufounos.jpg" alt="Petros Boufounos" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://boufounos.com/">Petros Boufounos</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> MERL </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-sueyeon-chung.jpg" alt="SueYeon Chung" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://sites.google.com/site/sueyeonchung/">SueYeon Chung</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Harvard University </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-aleksandra-ciprijanovic.jpg" alt="Aleksandra Ciprijanovic" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.alexciprijanovic.com/">Aleksandra Ciprijanovic</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> FNAL </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-michael-douglas.jpg" alt="Michael Douglas" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="http://scgp.stonybrook.edu/people/faculty/bios/michael-r-douglas">Michael Douglas</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Harvard University </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-francois-drielsma.jpg" alt="Francois Drielsma" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://profiles.stanford.edu/francois-drielsma">Francois Drielsma</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> SLAC National Accelerator Laboratory </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-cristiano-fanelli.jpg" alt="Cristiano Fanelli" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://cristianofanelli.com/">Cristiano Fanelli</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> William & Mary </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-dylan-foster..jpg" alt="Dylan Foster" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://dylanfoster.net/">Dylan Foster</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Microsoft </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-liang-fu.jpg" alt="Liang Fu" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://physics.mit.edu/faculty/liang-fu/">Liang Fu</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> MIT and IAIFI </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-alex-gagliano.jpg" alt="Alexander Gagliano" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://alexandergagliano.github.io/">Alexander Gagliano</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> IAIFI </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-lukas-heinrich..jpg" alt="Lukas Heinrich" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.lukasheinrich.com/">Lukas Heinrich</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Technical University Munich </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-matthew-ho.jpg" alt="Matthew Ho" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://maho3.github.io/">Matthew Ho</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Columbia University </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-shih-chieh-hsu.jpg" alt="Shih-Chieh Hsu" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://faculty.washington.edu/schsu/">Shih-Chieh Hsu</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> University of Washington </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-robert-huang.jpg" alt="Hsin-Yuan (Robert) Huang" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://hsinyuan-huang.github.io/">Hsin-Yuan (Robert) Huang</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Caltech and Google </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-sven-krippendorf.jpg" alt="Sven Krippendorf" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://krippendorflab.github.io/">Sven Krippendorf</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> University of Cambridge </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-akshay-krishnamurthy.jpg" alt="Akshay Krishnamurthy" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://people.cs.umass.edu/~akshay/">Akshay Krishnamurthy</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Microsoft </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-michelle-kuchera.jpg" alt="Michelle Kuchera" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://alpha-davidson.github.io/">Michelle Kuchera</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Davidson College </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-francois-lanusse.jpg" alt="Francois Lanusse" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://flanusse.net/">Francois Lanusse</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> CNRS </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-simonetta-liuti..jpg" alt="Simonetta Liuti" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://uva.theopenscholar.com/simonetta-liuti/">Simonetta Liuti</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> University of Virginia </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-peter-melchior..jpg" alt="Peter Melchior" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://pmelchior.net/">Peter Melchior</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Princeton University </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-moritz-munchmeyer.jpg" alt="Moritz Münchmeyer" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.moritzmunchmeyer.com/">Moritz Münchmeyer</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> University of Wisconsin-Madison </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-lina-necib.jpg" alt="Lina Necib" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://lnecib.com/">Lina Necib</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> MIT and IAIFI </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-tri-nguyen.jpg" alt="Tri Nguyen" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://trivnguyen.github.io/">Tri Nguyen</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Northwestern University and SkAI </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-costis-papageorgakis.jpg" alt="Costis Papageorgakis" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.qmul.ac.uk/spcs/staff/academics/profiles/cpapageorgakis.html">Costis Papageorgakis</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Queen Mary University of London </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-eluned-smith.jpg" alt="Eluned Smith" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://physics.mit.edu/faculty/eluned-smith/">Eluned Smith</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> MIT and IAIFI </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-hidenori-tanaka.jpg" alt="Hidenori Tanaka" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://sites.google.com/view/htanaka/home">Hidenori Tanaka</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Harvard University and IAIFI </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-sokratis-trifinopoulos.jpg" alt="Sokratis Trifinopoulos" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://strifinopoulos.github.io/">Sokratis Trifinopoulos</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> MIT and IAIFI </em> <br>
-         </div>
-         </div>
-       </div>
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-amy-zhang.jpg" alt="Amy Zhang" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://amyzhang.github.io/">Amy Zhang</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> UT Austin </em> <br>
-         </div>
-         </div>
-       </div>
-
-</div>
-
-<br>
 
 ## Accommodations
 We have established discounted rates for August 10–August 16, 2025 at the following hotels:
@@ -1098,7 +765,7 @@ Workshop attendees are also welcome to book dorms for a discounted rate at Harva
     $110 nightly rate (1 person per room only) 
 
     **Note: Dorm booking is now closed.**
-
+-->
 
 ## FAQ 
 * *Who can attend the Summer Workshop?* Any researcher working at or interested in the intersection of physics and AI is encouraged to attend the Summer Workshop. 
@@ -1108,15 +775,19 @@ Workshop attendees are also welcome to book dorms for a discounted rate at Harva
 
 [Submit a question or comment](https://app.smartsheet.com/b/form/76c1d070d19d4688b65962c4ed190478){:.button.button--outline-primary.button--pill.button--sm}
 
-## 2025 Organizing Committee 
-* Fabian Ruehle, Chair (Northeastern University)
-* Bill Freeman (MIT) 
-* Cora Dvorkin (Harvard)
-* Thomas Harvey (IAIFI Fellow)
+## 2026 Organizing Committee 
+* Will Detmold, Co-Chair (MIT)
+* Bill Freeman, Co-Chair (MIT) 
 * Sam Bright-Thonney (IAIFI Fellow)
+* Akshunna Dogra (Incoming IAIFI Fellow)
+* Berthy Feng (IAIFI Fellow)
+* Mathis Gerdes (Incoming IAIFI Fellow)
+* Juvenal Bassa (UPRM)
+* Yize Dong (Harvard)
+* Franc O (Northeastern)
 * Sneh Pandya (Northeastern)
-* Yidi Qi (Northeastern)
-* Manos Theodosis (Harvard)
-* Marshall Taylor (MIT)
-* Marisa LaFleur (IAIFI Project Manager)
+* Shelley Tong (MIT)
+* Lana Xu (MIT)
+* Xiaoyuan Zhang (MIT)
+* Marisa LaFleur (IAIFI Managing Director)
 * Thomas Bradford (IAIFI Project Coordinator)
