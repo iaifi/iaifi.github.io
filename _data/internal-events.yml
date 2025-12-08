@@ -46,6 +46,81 @@
 - type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community"
+  event-post-date: "2026-01-25"
+  start-date-time: "2026-01-28 12:00"
+  end-date-time: "2026-01-28 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNjAxMjhUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+  
+- type: "social"
+  event-name: "IAIFI Co-Working & Crafts Session"
+  event-committee: "Community"
+  event-post-date: "2026-01-11"
+  start-date-time: "2026-01-23 14:00"
+  end-date-time: "2026-01-23 17:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "This is an opportunity for IAIFI members to meet up for an informal co-working session and social. The Penthouse space will be set up for collaboration and conversation, along with refreshments and craft activities. Feel free to stop by for a short time, or stay for the whole session."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTFldG81ZnBnc25uMG03cTM2c250cm5yNWsgY18yMjljMGQ0NzExYjJlNjgzOGI4NTZlZjEyN2E2NjJmMWJhODU1ZGZmOWU2NWE4MWJlMWQ1MTkyOGJkNDIwZWM4QGc&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2026-01-18"
+  start-date-time: "2026-01-21 12:00"
+  end-date-time: "2026-01-21 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNjAxMjFUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2026-01-11"
+  start-date-time: "2026-01-14 12:00"
+  end-date-time: "2026-01-14 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNjAxMTRUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2026-01-04"
+  start-date-time: "2026-01-07 12:00"
+  end-date-time: "2026-01-07 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNjAxMDdUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2025-12-14"
+  start-date-time: "2025-12-17 12:00"
+  end-date-time: "2025-12-17 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNTEyMTdUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
   event-post-date: "2025-12-14"
   start-date-time: "2025-12-17 12:00"
   end-date-time: "2025-12-17 13:00"
