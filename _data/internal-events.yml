@@ -1,3 +1,17 @@
+- type: "internal-workshop"
+  event-name: "IAIFI Summer School"
+  event-committee: "Summer School and Workshop"
+  event-post-date: "2025-12-09"
+  start-date-time: "2026-08-03 9:00"
+  end-date-time: "2026-08-07 17:00"
+  talk-location: "TBA"
+  talk-zoom:
+  event-details: "The Summer School will include lectures and events that illustrate interdisciplinary research at the intersection AI and Physics, and encourage diverse global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice, and a hackathon project provides an opportunity for students to collaborate and apply what they’ve learned. Registration deadline is February 9, 2026."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mzk0Nzg0dTgybDJsamZnMDcyYXQzNmRjMDUgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link: https://iaifi.org/phd-summer-school
+  priority: high
+
 - type: "forum"
   event-name: "IAIFI Talent Forum"
   event-committee: ""
