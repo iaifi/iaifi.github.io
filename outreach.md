@@ -122,11 +122,11 @@ With the rising popularity of generative AI tools such as Chat-GPT and DALL-E, i
 
 # K–12 Education
 
-The IAIFI has partnered with Northeastern’s [Theorynet program](http://www.physicstheorynet.org) to coordinate visits to high school classes in the Boston area. 
+<!--The IAIFI has partnered with Northeastern’s [Theorynet program](http://www.physicstheorynet.org) to coordinate visits to high school classes in the Boston area. 
 
 [Sign up for a classroom visit](https://forms.gle/MQh677rcxCwhzSJq7){:.button.button--outline-primary.button--pill.button--lg}.
 
-This activity is coordinated by the [IAIFI Public Engagement Committee](/committees.html#public-engagement).
+This activity is coordinated by the [IAIFI Public Engagement Committee](/committees.html#public-engagement).-->
 
 ## Summer Programs + More for High Schoolers
 
