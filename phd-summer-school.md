@@ -33,7 +33,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 **Applications are now open for the 2026 IAIFI Summer School.** Space is limited and applications are due by February 9, 2026. Applicants will be notified of their status by February 16, 2026.
 
-[Apply](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845){:.button.button--outline-primary.button--pill.button--lg
+[Apply](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Accommodations
 Students for the Summer School have the option to reserve dorm rooms. IAIFI will reimburse the cost of 5 nights in the dorms after the Summer School, contingent upon attendance. Instructions for this will be provided to students upon acceptance.
