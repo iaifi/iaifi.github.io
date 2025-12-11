@@ -219,11 +219,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "A Differentiable Physics-Driven Matrix Emulator for Linking the Strong Force with Nuclear Observables"
   talk-abstract: "I will present FRAME (Fidelity-Resolved Affine Matrix Emulator), a novel architecture for ab initio nuclear emulation that bridges the gap between data-driven surrogates and structure-preserving reduced basis methods. FRAME combines a global latent encoder with a Parametric Matrix Model (PMM) core, giving a physics-respecting model by design and enabling rigorous multi-fidelity extrapolation across computational model spaces. I will demonstrate how this differentiable framework allowed us to use a likelihood-integrated sensitivity analysis, revealing how electromagnetic moments resolve blind spots in the Chiral Effective Field Theory parameter space that remain invisible to traditional bulk observables."
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1MqvaDC0-xAIY3vYv5sPEdVxxqGWTHkoP/view?usp=drive_link
   youtube-link:
   speaker-thrust: "Physics theory"
   speaker-gender: "Man"
-  talk-attendance:  0 in person, 0 virtual
+  talk-attendance:  5 in person, 3 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWRycjB0YzVqaXJiaWswaTg1Mmx2bW1iaHFfMjAyNTEyMTBUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 # Spring 2025 below this line
