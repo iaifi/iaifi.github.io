@@ -219,6 +219,9 @@ For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+  ***IAIFI Junior Investigator Christian Ferko receives Museum of Science digital communication fellowship.*** As a [2026 Museum of Science, Boston Digital Science Communication Fellow](https://www.linkedin.com/feed/update/urn:li:activity:7404902033381560321), Christian will participate in specialized training in strategic storytelling, digital content creation, civic trust, and evidence-based communication.  *December 11, 2025*
+  {:.info}
+    
   
   ***IAIFI Investigators honored by Schmidt Sciences as 2025 Early Career Fellows.*** IAIFI Fellow/Harvard Society of Fellows' Michael Albergo and IAIFI Senior Investigator/MIT Professor Tess Smidt were selected for the [AI2050 Early Career Fellowship](https://ai2050.schmidtsciences.org/fellows/), which is an enabling fellowship to encourage postdoctoral and pre-tenure researchers from around the world to pursue bold and ambitious work on hard problems in AI. *November 17, 2025*
   {:.info}
