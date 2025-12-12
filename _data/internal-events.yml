@@ -186,8 +186,8 @@
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNTEyMTJUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   rsvp-link:
   more-info-link: https://www.linkedin.com/in/mnrispoli/
-  attendance-in-person:
-  attendance-virtual:
+  attendance-in-person: 3
+  attendance-virtual: 6
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
