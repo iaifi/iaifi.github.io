@@ -34,6 +34,9 @@ event_types:
   - external-events
 
 semesters:
+  - name:  "Spring 2026"
+    tag:  spring-2026
+
   - name:  "Fall 2025"
     tag:  fall-2025
 
