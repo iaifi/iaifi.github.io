@@ -2,58 +2,62 @@
 layout: article
 header: false
 footer: false
-title: "IAIFI Spring 2025 Wrap-Up"
+title: "IAIFI Fall 2025 Wrap-Up"
 show_title: false
 --- 
-
+<div align="center"  markdown="1">
+   [Display this email in your browser](https://iaifi.org/digest/{{digest_date}}){:.button.button--xs}
+</div>
 <p align="center">
 <img src="https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 </p>
 
-# IAIFI Spring 2025 Wrap-Up
+# IAIFI Fall 2025 Wrap-Up
 
 [IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm} [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm}
 
 ## News from IAIFI Management
 
-Thank you to everyone who attended our events this Spring and otherwise engaged with IAIFI on our research and activities at the intersection of AI and Physics! We have summarized some highlights and information from IAIFI for Spring 2025. Please feel free to reach out to us with questions or comments about any of the below. Best wishes for a safe and pleasant Summer!
+Thank you to everyone who attended our events this Fall and otherwise engaged with IAIFI on our research and activities at the intersection of AI and Physics! We have summarized some highlights and information from IAIFI for Fall 2025. Please feel free to reach out to us with questions or comments about any of the below. Best wishes for a safe and pleasant holiday season!
 
 ## IAIFI Opportunities
 
-<img src="https://iaifi.org/images/summer-workshop-logo_2025.png" align="center" style="float: right;max-width:5990px;width:50%" hspace="10" vspace="10"> 
+<img src="https://iaifi.org/images/summer-workshop-logo_2026.png" align="center" style="float: right;max-width:5990px;width:50%" hspace="10" vspace="10"> 
 
-### IAIFI Summer Workshop
+### IAIFI Summer School
 
-Register for our [2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb), featuring plenary talks, contributed talks, poster sessions, and networking events. The goal of the Summer Workshop is to bring together researchers at the intersection of physics and AI to network and share advances in this growing and interdisciplinary field. **The deadline to submit contributed talks or posters for consideration is Sunday, June 1, 2025. [Submit here](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d).** 
+Apply for our [2026 IAIFI Summer School](https://iaifi.org/phd-summer-school.html#summer-school-2026), featuring lectures and events that illustrate interdisciplinary research at the intersection AI and Physics and encourage global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice, and a hackathon project provides an opportunity for students to collaborate and apply what they’ve learned. The mission of the IAIFI Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development.
 
-**Registration details:**
-- The registration deadline is **July 31, 2025**.
-- The registration fee is $200 for in-person attendance. 
-- Registration includes attendance for 5 days, a welcome dinner, and coffee and snack breaks.
-- Virtual attendance will not be provided, but recordings from the workshop will be posted on [IAIFI's YouTube channel](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared). 
+**Application details:**
+- The [application deadline](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845) is **February 9, 2026**. Applicants will be notified of their status by February 16, 2026.
+- There is no registration fee for the Summer School. Costs of dorm accommodations will be reimbursed by IAIFI, contingent upon attendance. Students for the Summer School are expected to cover the cost of travel.
+- Lunch each day, as well as coffee and snacks at breaks, will be provided during the Summer School, along with at least one dinner during the Summer School.
+- Virtual attendance can be accomodated.
 
 
-**Summer Workshop Details:**
-- When: August 11–August 15, 2025
-- Where: Harvard University (Cambridge, MA)
-- What: [View the full list of plenary speakers](https://iaifi.org/summer-workshop.html#speakers)
+**Summer School Details:**
+- When: August 3–August 7, 2026
+- Where: Boston/Cambridge, MA (exact location TBA)
+- What: View the agenda [on the Summer School webpage](https://iaifi.org/phd-summer-school.html#lecturers). Lecturer details will be added as they are confirmed by the organizing committee.
+- [FAQs](https://iaifi.org/phd-summer-school.html#faq))
 
 
 ## IAIFI Colloquium Series
 
-Thank you to our speakers for this term: [Sam Bright-Thonney](https://inspirehep.net/authors/1706736), [Daniel Whiteson](https://sites.uci.edu/daniel/), [Akshunna Dogra](https://inspirehep.net/authors/2192158), [J. Nathan Kutz](https://faculty.washington.edu/kutz/), and [Joshua Bloom](https://joshbloom.org/)! 
+Thank you to our speakers for this term: [Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/), [Berthy Feng](https://www.berthyfeng.com/), [Peter Lu](https://petery.lu/), [Andy Keller](https://akandykeller.github.io/), [Melanie Weber](https://melanie-weber.com/), and [T. Konstantin Rusch](https://camail.org/)! 
 
 
-The IAIFI Colloquium series will continue in Fall 2025. If you missed any of this semester's colloquia, you can watch recordings of all [Spring 2025 colloquia](https://youtube.com/playlist?list=PLBY0ED2StbGb7VsUi73x6Dp4vkHT0LQ1k&feature=shared) on our YouTube channel, as well as [recordings from previous semesters](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared).
+The IAIFI Colloquium series will continue in Spring 2206. If you missed any of this semester's colloquia, you can watch recordings of all [Fall 2025 colloquia](https://youtube.com/playlist?list=PLBY0ED2StbGaFMHOCrNUFmQyobejsegHT&si=yfomkBIPFhGDPyvv) on our YouTube channel, as well as [recordings from previous semesters](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared).
 
 ## IAIFI Research Highlights
 
-Each month, IAIFI posts a research highlight on our website, showcasing the innovative work of IAIFI investigators. View Spring 2025's research highlights below!
+IAIFI regularly posts research highlights on our website, showcasing the innovative work of IAIFI investigators. View our Summer 2025 and Fall 2025 research highlights below!
 
-- [Denoising Hamiltonian Network for Physical Reasoning](https://iaifi.org/research.html#denoising-hamiltonian-network-for-physical-reasoning)
-- [Generative Modeling for Mathematical Discovery](https://iaifi.org/research.html#generative-modeling-for-mathematical-discovery)
-- [A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing](https://iaifi.org/research.html#a-cosmic-scale-benchmark-for-symmetry-preserving-data-processing)
-- [Reinforcement Learning for Optimal Control of Adaptive Cell Populations](https://iaifi.org/research.html#reinforcement-learning-for-optimal-control-of-adaptive-cell-populations)
+- [AutoSciDACT: Automated Scientific Discovery through Contrastive Embedding and Hypothesis Testing](https://iaifi.org/research.html#autoscidact-automated-scientific-discovery-through-contrastive-embedding-and-hypothesis-testing)
+- [Evidence for an Instability-induced Binary Merger in the Double-peaked, Helium-rich Type IIn Supernova 2023zkd](https://iaifi.org/research.html#evidence-for-an-instability-induced-binary-merger-in-the-double-peaked-helium-rich-type-iin-supernova-2023zkd)
+- [Enhancing events in neutrino telescopes through deep-learning-driven superresolution](https://iaifi.org/research.html#enhancing-events-in-neutrino-telescopes-through-deep-learning-driven-superresolution)
+- [Remove Symmetries to Control Model Expressivity and Improve Optimization](https://iaifi.org/research.html#remove-symmetries-to-control-model-expressivity-and-improve-optimization)
+- [LEAPS: A discrete neural sampler via locally equivariant networks](https://iaifi.org/research.html#leaps-a-discrete-neural-sampler-via-locally-equivariant-networks)
 
 [View all Research Highlights](https://iaifi.org/research.html#highlights){:.button.button--outline-primary.button--pill.button--sm}
 
