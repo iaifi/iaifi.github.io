@@ -42,16 +42,22 @@ Apply for our [2026 IAIFI Summer School](https://iaifi.org/phd-summer-school.htm
 - See [FAQs](https://iaifi.org/phd-summer-school.html#faq) on the Summer School webpage
 
 <img src="https://iaifi.org/images/summer-workshop-logo_2026.png" align="left" style="float: left;max-width:5990px;width:30%" hspace="10" vspace="10"> 
-**Also save the date for the IAIFI Summer Workshop 2026, which will be held August 10–14, 2026 in Boston/Cambridge (exact location TBA)! Registration will open in January 2026.**
+**Also save the date for the [IAIFI Summer Workshop 2026](https://iaifi.org/summer-workshop), which will be held August 10–14, 2026 in Boston/Cambridge (exact location TBA)! Registration will open in January 2026.**
 
 <br>
+
+### MIT Summer Research Program (MSRP)
+
+Undergraduate students (sophomore, junior, or non-graduating seniors) who might benefit from spending a summer on MIT’s campus, conducting research under the guidance of MIT faculty members, postdoctoral fellows, and advanced graduate students, are invited to apply to the [MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/) and can indicate interest in working with IAIFI researchers. 
+
+**Apply by January 20, 2026 and indicate interest in IAIFI in your application.**
 
 ## IAIFI Colloquium Series
 
 Thank you to our speakers for this term: [Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/), [Berthy Feng](https://www.berthyfeng.com/), [Peter Lu](https://petery.lu/), [Andy Keller](https://akandykeller.github.io/), [Melanie Weber](https://melanie-weber.com/), and [T. Konstantin Rusch](https://camail.org/)! 
 
 
-The IAIFI Colloquium series will continue in Spring 2026 with the following speakers.
+The IAIFI Colloquium series will continue in Spring 2026 with the following speakers:
 - February 13: [Roger Melko (University of Waterloo)](https://rgmelko.github.io/)
 - February 27: [Lisa Everett (University of Wisconsin-Madison)](https://home.physics.wisc.edu/leverett/)
 - March 13: [Roberto Trotta (SISSA)](https://robertotrotta.com/)
@@ -95,6 +101,8 @@ Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, th
 {% endif %}
 {% endfor %}
 
+[View all Foundational AI papers](https://iaifi.org/papers-ai.html){:.button.button--outline-primary.button--pill.button--sm}
+
 ### Theoretical Physics
 {% for product in products %}
 {% assign paper = product %}
@@ -109,6 +117,8 @@ Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, th
 {% endif %}
 {% endif %}
 {% endfor %}
+
+[View all Theoretical Physics papers](https://iaifi.org/papers-theory.html){:.button.button--outline-primary.button--pill.button--sm}
 
 ### Experimental Physics
 {% for product in products %}
@@ -125,6 +135,8 @@ Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, th
 {% endif %}
 {% endfor %}
 
+[View all Experimental Physics papers](https://iaifi.org/papers-experiment.html){:.button.button--outline-primary.button--pill.button--sm}
+
 ### Astrophysics
 {% for product in products %}
 {% assign paper = product %}
@@ -140,16 +152,18 @@ Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, th
 {% endif %}
 {% endfor %}
 
+[View all Astrophysics papers](https://iaifi.org/papers-astro.html){:.button.button--outline-primary.button--pill.button--sm}
+
 ## In Case You Missed It
 
 [Learn More about IAIFI Public Engagement Activities](https://iaifi.org/outreach.html){:.button.button--outline-primary.button--pill.button--sm}
 
-### Splash Fall 2025
+### MIT Splash 2025
 **November 22, 2025**
 
 <img src="https://iaifi.org/images/small-photo-splash2025-joydeep.jpg" align="center" style="float: right; max-width:5990px;width:35%" hspace="10" vspace="0"> 
 
-IAIFI was pleased to participate in [MIT's Splash program](https://esp.mit.edu/learn/Splash/index.html) this year! IAIFI members Christian Ferko (Northeastern), Christina Reissel (MIT), Jamie Sullivan (MIT), and Joydeep Naskar (Northeastern)shared an overview of their work with a group of around 100 high school students and answered questions related to AI and Physics!
+IAIFI was pleased to participate in [MIT's Splash program](https://esp.mit.edu/learn/Splash/index.html) this year! IAIFI members Christian Ferko (Northeastern), Christina Reissel (MIT), Jamie Sullivan (MIT), and Joydeep Naskar (Northeastern) shared an overview of their work at the intersection of AI and Physics and held a Q&A with a group of around 100 high school students!
 
 <br><br>
 
@@ -158,7 +172,7 @@ IAIFI was pleased to participate in [MIT's Splash program](https://esp.mit.edu/l
 
 <img src="https://iaifi.org/images/small-photo-2025-cambridgesciencecarnival.jpg" align="center" style="float: right; max-width:5990px;width:35%" hspace="10" vspace="0"> 
 
-We hosted a booth at the [Cambridge Science Carnival](https://cambridgesciencefestival.org) for the fourth year in a row! This included several AI+Physics activities for all ages, and IAIFI members were able to chat with more than 500 community members across the afternoon. 
+We hosted a booth at the [Cambridge Science Carnival](https://cambridgesciencefestival.org) for the fourth year in a row! This included several AI+Physics activities for all ages, and IAIFI members were able to chat with more than 500 community members over the course of the afternoon. 
 <br><br>
 
 ### Summer School and Workshop
@@ -190,7 +204,7 @@ In August 2025, we held our fourth annual Summer School and Workshop at Harvard.
 </div>
 
 <div class="image-row">
-  <img src="https://iaifi.org/images/small-photo-2025-summer-workshop-dinner.jpg" alt="Dinner">
+  <img src="https://iaifi.org/images/small-photo-2025-workshop-dinner.jpg" alt="Dinner">
   <img src="https://iaifi.org/images/Workshop-2025_Sokratis.jpg" alt="Workshop">
 </div>
 
