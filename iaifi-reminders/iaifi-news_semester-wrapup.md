@@ -147,7 +147,7 @@ Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, th
 ### Splash Fall 2025
 **November 22, 2025**
 
-<img src="https://iaifi.org/images/small-photo-splash2025-joydeep..jpg" align="center" style="float: right; max-width:5990px;width:25%" hspace="10" vspace="0"> 
+<img src="https://iaifi.org/images/small-photo-splash2025-joydeep.jpg" align="center" style="float: right; max-width:5990px;width:35%" hspace="10" vspace="0"> 
 
 IAIFI was pleased to participate in [MIT's Splash program](https://esp.mit.edu/learn/Splash/index.html) this year! IAIFI members Christian Ferko (Northeastern), Christina Reissel (MIT), Jamie Sullivan (MIT), and Joydeep Naskar (Northeastern)shared an overview of their work with a group of around 100 high school students and answered questions related to AI and Physics!
 
@@ -156,7 +156,7 @@ IAIFI was pleased to participate in [MIT's Splash program](https://esp.mit.edu/l
 ### Cambridge Science Carnival 2025
 **September 21, 2025**
 
-<img src="https://iaifi.org/images/small-photo-2025-cambridgesciencecarnival.jpg" align="center" style="float: right; max-width:5990px;width:25%" hspace="10" vspace="0"> 
+<img src="https://iaifi.org/images/small-photo-2025-cambridgesciencecarnival.jpg" align="center" style="float: right; max-width:5990px;width:35%" hspace="10" vspace="0"> 
 
 We hosted a booth at the [Cambridge Science Carnival](https://cambridgesciencefestival.org) for the fourth year in a row! This included several AI+Physics activities for all ages, and IAIFI members were able to chat with more than 500 community members across the afternoon. 
 <br><br>
@@ -176,17 +176,22 @@ In August 2025, we held our fourth annual Summer School and Workshop at Harvard.
     margin: 10px 0;
   }
   .image-row img {
-    width: 23%;
+    width: 45%;
     max-width: 5990px;
     height: auto;
+    flex-shrink: 0; 
+    object-fit: contain; 
   }
 </style>
 
 <div class="image-row">
   <img src="https://iaifi.org/images/2025-summer-school-group-photo.jpeg" alt="Group photo">
   <img src="https://iaifi.org/images/small-photo-2025-summer-school-lecture.jpg" alt="Lecture">
+</div>
+
+<div class="image-row">
   <img src="https://iaifi.org/images/small-photo-2025-summer-workshop-dinner.jpg" alt="Dinner">
-  <img src="https://iaifi.org/images/Workshop-2025_Sokratis.jpeg" alt="Workshop">
+  <img src="https://iaifi.org/images/Workshop-2025_Sokratis.jpg" alt="Workshop">
 </div>
 
 ### AI+Physics Science Communication
@@ -236,7 +241,7 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 [Details for Junior Researchers](https://iaifi.org/junior-researchers.html){:.button.button--outline-primary.button--pill.button--sm}
 
 <p align="center">
-<img src="https://iaifi.org/images/small-photo-Fall2025CombinedPhoto.jpg" align="center" style="max-width:5990px;width:50%" hspace="10" vspace="10"> 
+<img src="https://iaifi.org/images/2025-Fall-members.jpeg" align="center" style="max-width:5990px;width:50%" hspace="10" vspace="10"> 
 </p>
 
 *IAIFI members participate in a variety of events throughout the semester, including colloquia, journal clubs, and networking events.*
