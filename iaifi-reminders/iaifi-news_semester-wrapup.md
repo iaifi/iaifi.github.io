@@ -240,9 +240,26 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 
 [Details for Junior Researchers](https://iaifi.org/junior-researchers.html){:.button.button--outline-primary.button--pill.button--sm}
 
-<p align="center">
-<img src="https://iaifi.org/images/2025-Fall-members.jpeg" align="center" style="max-width:5990px;width:50%" hspace="10" vspace="10"> 
-</p>
+<style>
+  .image-row {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 10px 0;
+  }
+  .image-row img {
+    width: 45%;
+    max-width: 5990px;
+    height: auto;
+    flex-shrink: 0; 
+    object-fit: contain; 
+  }
+</style>
+
+<div class="image-row">
+  <img src="https://iaifi.org/images/2025-Fall-members.jpeg" alt="Group photo">
+  <img src="https://iaifi.org/images/2025-fellows-neurips.jpeg" alt="Lecture">
+</div>
 
 *IAIFI members participate in a variety of events throughout the semester, including colloquia, journal clubs, and networking events.*
 
