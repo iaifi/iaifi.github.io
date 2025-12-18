@@ -14,7 +14,7 @@ show_title: false
 
 # IAIFI Fall 2025 Wrap-Up
 
-[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm} [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm}
+[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm} [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm}
 
 ## News from IAIFI Management
 
@@ -41,6 +41,8 @@ Apply for our [2026 IAIFI Summer School](https://iaifi.org/phd-summer-school.htm
 - What: View the agenda [on the Summer School webpage](https://iaifi.org/phd-summer-school.html#lecturers). Lecturer details will be added as they are confirmed by the organizing committee.
 - See [FAQs](https://iaifi.org/phd-summer-school.html#faq) on the Summer School webpage
 
+<img src="https://iaifi.org/images/summer-workshop-logo_2026.png" align="left" style="float: left;max-width:5990px;width:30%" hspace="10" vspace="10"> 
+**Also save the date for the IAIFI Summer Workshop 2026, which will be held August 10–14, 2026 in Boston/Cambridge (exact location TBA)! Registration will open in January 2026.**
 
 ## IAIFI Colloquium Series
 
@@ -136,26 +138,6 @@ Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, th
 {% endif %}
 {% endfor %}
 
-## Join IAIFI
-
-*Visit [IAIFI's website](https://iaifi.org/) for more ways to engage with the community.*
-
-### Senior Researchers in the Boston Area
-Senior Researchers include faculty members and senior research scientists with PI status. If you are interested in becoming an IAIFI Affiliate, complete the [IAIFI Affiliate application form](https://app.smartsheet.com/b/form/b73212d8895c4436a947b2dfdd999da3). Affiliate applications must include a [Senior Investigator](https://iaifi.org/people.html#senior-investigators) sponsor.
-
-[Details for Senior Researchers](https://iaifi.org/join.html#facultysenior-researchers){:.button.button--outline-primary.button--pill.button--sm}
-
-### Junior Researchers in the Boston Area
-Junior Researchers include undergraduate students, graduate students, postdocs, and research scientists without PI status. If you are interested in getting more involved in IAIFI as a junior researcher, complete the [Junior Researcher Interest Form](https://iaifi.org/junior-interest.html). 
-
-[Details for Junior Researchers](https://iaifi.org/junior-researchers.html){:.button.button--outline-primary.button--pill.button--sm}
-
-<p align="center">
-<img src="https://iaifi.org/images/small-photo-Fall2025CombinedPhoto.jpg" align="center" style="max-width:5990px;width:80%" hspace="10" vspace="10"> 
-</p>
-
-*IAIFI members participate in a variety of events throughout the semester, including colloquia, journal clubs, and networking events.*
-
 ## In Case You Missed It
 
 [Learn More about IAIFI Public Engagement Activities](https://iaifi.org/outreach.html){:.button.button--outline-primary.button--pill.button--sm}
@@ -180,37 +162,54 @@ We hosted a booth at the [Cambridge Science Carnival](https://cambridgesciencefe
 ### Summer School and Workshop
 **August 2025**
 
-In August 2025, we held our fourth annual Summer School and Workshop at Harvard. The Summer School included lectures, hands-on tutorials, lightning talks, networking events etc. while the Summer Workshop featured plenary talks, poster sessions, and networking events.
+In August 2025, we held our fourth annual Summer School and Workshop at Harvard. The Summer School included lectures, hands-on tutorials, lightning talks, networking events, etc. The Summer Workshop featured plenary talks, poster sessions, and networking events. We were also excited to partner with the Boston Museum of Science for our Summer Workshop dinner, when we also hosted a [planetarium show about AI and the search for dark matter](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai), led by IAIFI Senior Investigator Lina Necib.
 
 [Watch the 2025 Workshop Talks on YouTube](https://youtube.com/playlist?list=PLBY0ED2StbGYicBdodtC3QqVVnwhr758-&si=kEw4EHgQHkfCFIbg){:.button.button--outline-primary.button--pill.button--sm}  [Apply for the 2026 Summer School](https://iaifi.org/phd-summer-school.html#apply){:.button.button--outline-primary.button--pill.button--sm}
 
-<p align="center">
-<img src="https://iaifi.org/images/2025-summer-school-group-photo.jpeg" align="center" style="max-width:5990px;width:80%" hspace="10" vspace="10">
-</p>
+<style>
+  .image-row {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 10px 0;
+  }
+  .image-row img {
+    width: 23%;
+    max-width: 5990px;
+    height: auto;
+  }
+</style>
 
-<p align="center">
-<img src="https://iaifi.org/images/small-photo-2025-summer-school-lecture..jpg" align="center" style="max-width:5990px;width:80%" hspace="10" vspace="10">
-</p>
+<div class="image-row">
+  <img src="https://iaifi.org/images/2025-summer-school-group-photo.jpeg" alt="Group photo">
+  <img src="https://iaifi.org/images/small-photo-2025-summer-school-lecture.jpg" alt="Lecture">
+  <img src="https://iaifi.org/images/2025-summer-workshop-dinner.jpg" alt="Dinner">
+  <img src="https://iaifi.org/images/Workshop-2025_Sokratis.jpeg" alt="Workshop">
+</div>
 
-<p align="center">
-<img src="https://iaifi.org/images/2025-summer-workshop-dinner.jpg" align="center" style="max-width:5990px;width:80%" hspace="10" vspace="10">
-</p>
+### AI+Physics Science Communication
+
+We had the opportunity to collaborate on two public engagement projects to communicate AI+Physics to the general public: 
+
+* **Discovery Engines Podcast:** IAIFI Director Jesse Thaler chatted with host Nabil Laoudji about how AI is reshaping physics discovery and how physicists are reshaping AI. 
+
+[Watch the episode on YouTube](https://youtu.be/FQJPvVhriYo){:.button.button--outline-primary.button--pill.button--sm}
+
+* **ScienceClic Educational Video:** IAIFI Investigators collaborated with popular science YouTube channel ScienceClic on a video covering "The Physics of AI," which explores the connections between AI and Physics as related to the 2024 Nobel Prize in Physics, and the link between neural networks and quantum fields. 
+
+[Watch the video on YouTube](https://youtu.be/dRkehLL19Wo?si=0J-6Sw5PhUq5n5ei){:.button.button--outline-primary.button--pill.button--sm}
 
 ### IAIFI News
 
 - **IAIFI Junior Investigator Christian Ferko receives Museum of Science digital communication fellowship.** As a [2026 Museum of Science, Boston Digital Science Communication Fellow](https://www.linkedin.com/feed/update/urn:li:activity:7404902033381560321), Christian will participate in specialized training in strategic storytelling, digital content creation, civic trust, and evidence-based communication.  *December 11, 2025*
     
 - **IAIFI Investigators honored by Schmidt Sciences as 2025 Early Career Fellows.** IAIFI Fellow/Harvard Society of Fellows' Michael Albergo and IAIFI Senior Investigator/MIT Professor Tess Smidt were selected for the [AI2050 Early Career Fellowship](https://ai2050.schmidtsciences.org/fellows/), which is an enabling fellowship to encourage postdoctoral and pre-tenure researchers from around the world to pursue bold and ambitious work on hard problems in AI. *November 17, 2025*
-   
-- **IAIFI collaborates with YouTube channel ScienceClic on educational video.** The video, ["The Physics of AI,"](https://youtu.be/dRkehLL19Wo?si=0J-6Sw5PhUq5n5ei) explores the connections between AI and Physics as related to the 2024 Nobel Prize in Physics, and the link between neural networks and quantum fields. *November 6, 2025*
   
 - **IAIFI Senior Investigators collaborate with other interdisciplinary researchers on community white paper exploring "The Future of AI and the Mathematical and Physical Sciences."** The [white paper](https://arxiv.org/abs/2509.02661), which developed out of an NSF-funded Workshop held in March 2025, presents how the MPS domains (Astronomy, Chemistry, Materials Research, Mathematical Sciences, and Physics) can best capitalize on, and contribute to, the future of AI. *September 4, 2025*
   
 - **IAIFI Summer School sponsor FirstPrinciples summarizes the impact of the School**. Read [Bridging Minds and Disciplines: The IAIFI Summer School and the Future of Collaborative Science](https://www.firstprinciples.org/article/bridging-minds-and-disciplines-the-iaifi-summer-school-and-the-future-of-collaborative-science?utm_source=linkedin&utm_medium=hub_post&utm_campaign=iaifi_summer_school). *August 15, 2025*
   
 - **IAIFI Researchers and Collaborators Discover New Type of Supernova**. [Read about the discovery](https://www.cfa.harvard.edu/news/ai-helps-astronomers-discover-new-type-supernova), led by IAIFI Fellow Alex Gagliano along with IAIFI Senior Investigator Ashley Villar and their collaborators. *August 13, 2025*
-  
-- **IAIFI Director Jesse Thaler speaks with Nabil Laoudji on Discovery Engines podcast**. In [the episode](https://youtu.be/FQJPvVhriYo), they discuss how AI is reshaping physics discovery and how physicists are reshaping AI. *July 31, 2025*
   
 - **IAIFI Deputy Director Mike Williams participates on panel at AI+Science Summit**. The panel, "[Powering Innovation at the Intersection of AI & Science: NSF’s AI Institutes](https://youtu.be/RlzN7UhuHL0?si=3C6cqb4SbP_IfX1B)" was hosted by the Special Competitive Studies Project at their AI+Science Summit. *July 23, 2025*
   
@@ -219,5 +218,25 @@ In August 2025, we held our fourth annual Summer School and Workshop at Harvard.
 - **Marisa LaFleur promoted from IAIFI Project Manager to IAIFI Managing Director**. As IAIFI Managing Director, Marisa will continue to oversee the implementation of IAIFI activities and to expand her responsibilities related to IAIFI’s long-term strategy and funding. *July 9, 2025*
 
 [View all IAIFI News](https://iaifi.org/#iaifi-news){:.button.button--outline-primary.button--pill.button--sm}
+
+## Join IAIFI
+
+*Visit [IAIFI's website](https://iaifi.org/) for more ways to engage with the community.*
+
+### Senior Researchers in the Boston Area
+Senior Researchers include faculty members and senior research scientists with PI status. If you are interested in becoming an IAIFI Affiliate, complete the [IAIFI Affiliate application form](https://app.smartsheet.com/b/form/b73212d8895c4436a947b2dfdd999da3). Affiliate applications must include a [Senior Investigator](https://iaifi.org/people.html#senior-investigators) sponsor.
+
+[Details for Senior Researchers](https://iaifi.org/join.html#facultysenior-researchers){:.button.button--outline-primary.button--pill.button--sm}
+
+### Junior Researchers in the Boston Area
+Junior Researchers include undergraduate students, graduate students, postdocs, and research scientists without PI status. If you are interested in getting more involved in IAIFI as a junior researcher, complete the [Junior Researcher Interest Form](https://iaifi.org/junior-interest.html). 
+
+[Details for Junior Researchers](https://iaifi.org/junior-researchers.html){:.button.button--outline-primary.button--pill.button--sm}
+
+<p align="center">
+<img src="https://iaifi.org/images/small-photo-Fall2025CombinedPhoto.jpg" align="center" style="max-width:5990px;width:50%" hspace="10" vspace="10"> 
+</p>
+
+*IAIFI members participate in a variety of events throughout the semester, including colloquia, journal clubs, and networking events.*
 
 {% include_relative iaifi-reminder_footer.html %}
