@@ -44,6 +44,8 @@ Apply for our [2026 IAIFI Summer School](https://iaifi.org/phd-summer-school.htm
 <img src="https://iaifi.org/images/summer-workshop-logo_2026.png" align="left" style="float: left;max-width:5990px;width:30%" hspace="10" vspace="10"> 
 **Also save the date for the IAIFI Summer Workshop 2026, which will be held August 10–14, 2026 in Boston/Cambridge (exact location TBA)! Registration will open in January 2026.**
 
+<br>
+
 ## IAIFI Colloquium Series
 
 Thank you to our speakers for this term: [Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/), [Berthy Feng](https://www.berthyfeng.com/), [Peter Lu](https://petery.lu/), [Andy Keller](https://akandykeller.github.io/), [Melanie Weber](https://melanie-weber.com/), and [T. Konstantin Rusch](https://camail.org/)! 
@@ -183,7 +185,7 @@ In August 2025, we held our fourth annual Summer School and Workshop at Harvard.
 <div class="image-row">
   <img src="https://iaifi.org/images/2025-summer-school-group-photo.jpeg" alt="Group photo">
   <img src="https://iaifi.org/images/small-photo-2025-summer-school-lecture.jpg" alt="Lecture">
-  <img src="https://iaifi.org/images/2025-summer-workshop-dinner.jpg" alt="Dinner">
+  <img src="https://iaifi.org/images/small-photo-2025-summer-workshop-dinner.jpg" alt="Dinner">
   <img src="https://iaifi.org/images/Workshop-2025_Sokratis.jpeg" alt="Workshop">
 </div>
 
