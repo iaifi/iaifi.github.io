@@ -6,7 +6,7 @@ title: "IAIFI Fall 2025 Wrap-Up"
 show_title: false
 --- 
 <div align="center"  markdown="1">
-   [Display this email in your browser](https://iaifi.org/digest/{{digest_date}}){:.button.button--xs}
+   [Display this email in your browser](https://iaifi.org/iaifi-reminders/iaifi-news_semester-wrapup){:.button.button--xs}
 </div>
 <p align="center">
 <img src="https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
