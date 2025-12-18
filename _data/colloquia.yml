@@ -1,4 +1,118 @@
 - type: "colloquium"
+  semester: "spring-2026"
+  speaker-name: "Roger Melko"
+  speaker-title: "Professor"
+  speaker-affiliation: "University of Waterloo"
+  speaker-website: "https://rgmelko.github.io/"
+  speaker-photo-location: "images/small-photo-roger-melko.jpg"
+  start-date-time: "2026-02-13 14:00"
+  end-date-time: "2026-02-13 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come.<br><br>"
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjAyMTNUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics theory"
+  speaker-gender: "man"
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "colloquium"
+  semester: "spring-2026"
+  speaker-name: "Lisa Everett"
+  speaker-title: "Professor of Physics"
+  speaker-affiliation: "University of Wisconsin-Madison"
+  speaker-website: "https://home.physics.wisc.edu/leverett/"
+  speaker-photo-location: "images/small-photo-lisa-everett..jpg"
+  start-date-time: "2026-02-27 14:00"
+  end-date-time: "2026-02-27 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come.<br><br><br>"
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjAyMjdUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics theory"
+  speaker-gender: "woman"
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "colloquium"
+  semester: "spring-2026"
+  speaker-name: "Roberto Trotta"
+  speaker-title: "Professor of Theoretical Physics and Director of the Interdisciplinary Lab"
+  speaker-affiliation: "SISSA"
+  speaker-website: "https://robertotrotta.com/"
+  speaker-photo-location: "images/small-photo-roberto-trotta..jpg"
+  start-date-time: "2026-03-13 14:00"
+  end-date-time: "2026-03-13 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come."
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjAzMTNUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "astrophysics"
+  speaker-gender: "man"
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "colloquium"
+  semester: "spring-2026"
+  speaker-name: "Tommaso Dorigo"
+  speaker-title: "First Researcher"
+  speaker-affiliation: "INFN"
+  speaker-website: "https://userswww.pd.infn.it/~dorigo/"
+  speaker-photo-location: "images/small-photo-tommaso-dorigo.jpg"
+  start-date-time: "2026-04-10 14:00"
+  end-date-time: "2026-04-10 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come."
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjA0MTBUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics experiment"
+  speaker-gender: "man"
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "colloquium"
+  semester: "spring-2026"
+  speaker-name: "James Requeima"
+  speaker-title: "Research Scientist"
+  speaker-affiliation: "Google DeepMind"
+  speaker-website: "https://jamesr.info/"
+  speaker-photo-location: "images/small-photo-james-requeima.jpg"
+  start-date-time: "2026-04-24 14:00"
+  end-date-time: "2026-04-24 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come."
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjA0MjRUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "foundational AI"
+  speaker-gender: "man"
+  talk-attendance: 0 in person, 0 virtual
+  
+- type: "colloquium"
+  semester: "spring-2026"
+  speaker-name: "Yury Polyanskiy"
+  speaker-title: "Professor"
+  speaker-affiliation: "MIT"
+  speaker-website: "https://people.lids.mit.edu/yp/homepage/"
+  speaker-photo-location: "images/small-photo-yury-polyanskiy.jpg"
+  start-date-time: "2026-05-08 14:00"
+  end-date-time: "2026-05-08 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come."
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjA1MDhUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "foundational ai"
+  speaker-gender: "man"
+  talk-attendance: 0 in person, 0 virtual
+
+- type: "colloquium"
   semester: "fall-2025"
   speaker-name: "Francisco Villaescusa-Navarro"
   speaker-title: "Research Scientist"

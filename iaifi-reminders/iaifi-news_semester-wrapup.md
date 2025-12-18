@@ -2,58 +2,72 @@
 layout: article
 header: false
 footer: false
-title: "IAIFI Spring 2025 Wrap-Up"
+title: "IAIFI Fall 2025 Wrap-Up"
 show_title: false
 --- 
-
+<div align="center"  markdown="1">
+   [Display this email in your browser](https://iaifi.org/digest/{{digest_date}}){:.button.button--xs}
+</div>
 <p align="center">
 <img src="https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 </p>
 
-# IAIFI Spring 2025 Wrap-Up
+# IAIFI Fall 2025 Wrap-Up
 
-[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm} [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm}
+[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm} [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm}
 
 ## News from IAIFI Management
 
-Thank you to everyone who attended our events this Spring and otherwise engaged with IAIFI on our research and activities at the intersection of AI and Physics! We have summarized some highlights and information from IAIFI for Spring 2025. Please feel free to reach out to us with questions or comments about any of the below. Best wishes for a safe and pleasant Summer!
+Thank you to everyone who attended our events this Fall and otherwise engaged with IAIFI on our research and activities at the intersection of AI and Physics! We have summarized some highlights and information from IAIFI for Fall 2025. Please feel free to reach out to us with questions or comments about any of the below. Best wishes for a safe and pleasant holiday season!
 
 ## IAIFI Opportunities
 
-<img src="https://iaifi.org/images/summer-workshop-logo_2025.png" align="center" style="float: right;max-width:5990px;width:50%" hspace="10" vspace="10"> 
+<img src="https://iaifi.org/images/phd-summer-school-logo-2026.png" align="center" style="float: right;max-width:5990px;width:50%" hspace="10" vspace="10"> 
 
-### IAIFI Summer Workshop
+### IAIFI Summer School
 
-Register for our [2025 IAIFI Summer Workshop](https://buy.stripe.com/fZe9Ci53xfX90eceVb), featuring plenary talks, contributed talks, poster sessions, and networking events. The goal of the Summer Workshop is to bring together researchers at the intersection of physics and AI to network and share advances in this growing and interdisciplinary field. **The deadline to submit contributed talks or posters for consideration is Sunday, June 1, 2025. [Submit here](https://app.smartsheet.com/b/form/dcec880db8f149ef84792b4d34b7fd7d).** 
+Apply for our [2026 IAIFI Summer School](https://iaifi.org/phd-summer-school.html#summer-school-2026), featuring lectures and events that illustrate interdisciplinary research at the intersection AI and Physics and encourage global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice, and a hackathon project provides an opportunity for students to collaborate and apply what they’ve learned. The mission of the IAIFI Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development.
 
-**Registration details:**
-- The registration deadline is **July 31, 2025**.
-- The registration fee is $200 for in-person attendance. 
-- Registration includes attendance for 5 days, a welcome dinner, and coffee and snack breaks.
-- Virtual attendance will not be provided, but recordings from the workshop will be posted on [IAIFI's YouTube channel](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared). 
+**Application details:**
+- The [application deadline](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845) is **February 9, 2026**. Applicants will be notified of their status by February 16, 2026.
+- There is no registration fee for the Summer School. Costs of dorm accommodations will be reimbursed by IAIFI, contingent upon attendance. Students for the Summer School are expected to cover the cost of travel.
+- Lunch each day, as well as coffee and snacks at breaks, will be provided during the Summer School, along with at least one dinner during the Summer School.
+- Virtual attendance can be accomodated.
 
 
-**Summer Workshop Details:**
-- When: August 11–August 15, 2025
-- Where: Harvard University (Cambridge, MA)
-- What: [View the full list of plenary speakers](https://iaifi.org/summer-workshop.html#speakers)
+**Summer School Details:**
+- When: August 3–August 7, 2026
+- Where: Boston/Cambridge, MA (exact location TBA)
+- What: View the agenda [on the Summer School webpage](https://iaifi.org/phd-summer-school.html#lecturers). Lecturer details will be added as they are confirmed by the organizing committee.
+- See [FAQs](https://iaifi.org/phd-summer-school.html#faq) on the Summer School webpage
 
+<img src="https://iaifi.org/images/summer-workshop-logo_2026.png" align="left" style="float: left;max-width:5990px;width:30%" hspace="10" vspace="10"> 
+**Also save the date for the IAIFI Summer Workshop 2026, which will be held August 10–14, 2026 in Boston/Cambridge (exact location TBA)! Registration will open in January 2026.**
 
 ## IAIFI Colloquium Series
 
-Thank you to our speakers for this term: [Sam Bright-Thonney](https://inspirehep.net/authors/1706736), [Daniel Whiteson](https://sites.uci.edu/daniel/), [Akshunna Dogra](https://inspirehep.net/authors/2192158), [J. Nathan Kutz](https://faculty.washington.edu/kutz/), and [Joshua Bloom](https://joshbloom.org/)! 
+Thank you to our speakers for this term: [Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/), [Berthy Feng](https://www.berthyfeng.com/), [Peter Lu](https://petery.lu/), [Andy Keller](https://akandykeller.github.io/), [Melanie Weber](https://melanie-weber.com/), and [T. Konstantin Rusch](https://camail.org/)! 
 
 
-The IAIFI Colloquium series will continue in Fall 2025. If you missed any of this semester's colloquia, you can watch recordings of all [Spring 2025 colloquia](https://youtube.com/playlist?list=PLBY0ED2StbGb7VsUi73x6Dp4vkHT0LQ1k&feature=shared) on our YouTube channel, as well as [recordings from previous semesters](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared).
+The IAIFI Colloquium series will continue in Spring 2026 with the following speakers.
+- February 13: [Roger Melko (University of Waterloo)](https://rgmelko.github.io/)
+- February 27: [Lisa Everett (University of Wisconsin-Madison)](https://home.physics.wisc.edu/leverett/)
+- March 13: [Roberto Trotta (SISSA)](https://robertotrotta.com/)
+- April 10: [Tommaso Dorigo (INFN)](https://userswww.pd.infn.it/~dorigo/)
+- April 24: [James Requeima (Google DeepMind)](https://jamesr.info/)
+- May 8: [Yury Polyanskiy (MIT)](https://people.lids.mit.edu/yp/homepage/)
+
+ If you missed any of this semester's colloquia, you can watch recordings of all [Fall 2025 colloquia](https://youtube.com/playlist?list=PLBY0ED2StbGaFMHOCrNUFmQyobejsegHT&si=yfomkBIPFhGDPyvv) on our YouTube channel, as well as [recordings from previous semesters](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared).
 
 ## IAIFI Research Highlights
 
-Each month, IAIFI posts a research highlight on our website, showcasing the innovative work of IAIFI investigators. View Spring 2025's research highlights below!
+IAIFI regularly posts research highlights on our website, showcasing the innovative work of IAIFI investigators. View our Summer 2025 and Fall 2025 research highlights below!
 
-- [Denoising Hamiltonian Network for Physical Reasoning](https://iaifi.org/research.html#denoising-hamiltonian-network-for-physical-reasoning)
-- [Generative Modeling for Mathematical Discovery](https://iaifi.org/research.html#generative-modeling-for-mathematical-discovery)
-- [A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing](https://iaifi.org/research.html#a-cosmic-scale-benchmark-for-symmetry-preserving-data-processing)
-- [Reinforcement Learning for Optimal Control of Adaptive Cell Populations](https://iaifi.org/research.html#reinforcement-learning-for-optimal-control-of-adaptive-cell-populations)
+- [AutoSciDACT: Automated Scientific Discovery through Contrastive Embedding and Hypothesis Testing](https://iaifi.org/research.html#autoscidact-automated-scientific-discovery-through-contrastive-embedding-and-hypothesis-testing)
+- [Evidence for an Instability-induced Binary Merger in the Double-peaked, Helium-rich Type IIn Supernova 2023zkd](https://iaifi.org/research.html#evidence-for-an-instability-induced-binary-merger-in-the-double-peaked-helium-rich-type-iin-supernova-2023zkd)
+- [Enhancing events in neutrino telescopes through deep-learning-driven superresolution](https://iaifi.org/research.html#enhancing-events-in-neutrino-telescopes-through-deep-learning-driven-superresolution)
+- [Remove Symmetries to Control Model Expressivity and Improve Optimization](https://iaifi.org/research.html#remove-symmetries-to-control-model-expressivity-and-improve-optimization)
+- [LEAPS: A discrete neural sampler via locally equivariant networks](https://iaifi.org/research.html#leaps-a-discrete-neural-sampler-via-locally-equivariant-networks)
 
 [View all Research Highlights](https://iaifi.org/research.html#highlights){:.button.button--outline-primary.button--pill.button--sm}
 
@@ -62,64 +76,148 @@ Each month, IAIFI posts a research highlight on our website, showcasing the inno
 Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, the papers are grouped by the four IAIFI research domains. 
 
 ### Foundational AI
-- [Symbolic Regression with Multimodal Large Language Models and Kolmogorov Arnold Networks](https://arxiv.org/abs/2505.07956)
-- [I-Con: A Unifying Framework for Representation Learning](https://openreview.net/forum?id=WfaQrKCr4X)
-- [High-performance training and inference for deep equivariant interatomic potentials](https://arxiv.org/abs/2504.16068)
-- [Learning Topological Invariance](https://arxiv.org/abs/2504.12390)
-- [Generative Modeling for Mathematical Discovery](https://arxiv.org/abs/2503.11061)
-- [L<sup>2</sup>M: Mutual Information Scaling Law for Long-Context Language Modeling](https://arxiv.org/abs/2503.04725)
-- [Denoising Hamiltonian Network for Physical Reasoning](https://arxiv.org/abs/2503.07596)
-- [On the Learnability of Knot Invariants: Representation, Predictability, and Neural Similarity](https://arxiv.org/abs/2502.12243)
-- [Interpretable Machine Learning for Kronecker Coefficients](https://arxiv.org/abs/2502.11774)
-- [Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation](https://arxiv.org/abs/2502.10894)
-- [LEAPS: A discrete neural sampler via locally equivariant networks](https://arxiv.org/abs/2502.10843)
-- [Do We Need to Verify Step by Step? Rethinking Process Supervision from a Theoretical Perspective](https://arxiv.org/abs/2502.10581)
-- [Parameter Symmetry Breaking and Restoration Determines the Hierarchical Learning in AI Systems](https://arxiv.org/abs/2502.05300)
-- [Harmonic Loss Trains Interpretable AI Models](https://arxiv.org/abs/2502.01628)
-- [Language Models Use Trigonometry to Do Addition](https://arxiv.org/abs/2502.00873)
-- [Low-Rank Adapting Models for Sparse Autoencoders](https://arxiv.org/abs/2501.19406)
-- [SIDDA: SInkhorn Dynamic Domain Adaptation for Image Classification with Equivariant Neural Networks](https://arxiv.org/abs/2501.14048)
-- [Physics of Skill Learning](https://arxiv.org/abs/2501.12391)
-- [Average-Reward Reinforcement Learning with Entropy Regularization](https://arxiv.org/abs/2501.09080)
-- [Inferring Transition Dynamics from Value Functions](https://arxiv.org/abs/2501.09081)
-- [Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport](https://arxiv.org/abs/2501.07446)
-- [Predicting band gap from chemical composition: A simple learned model for a material property with atypical statistics](https://arxiv.org/abs/2501.02932)
-- [Bootstrapped Reward Shaping](https://doi.org/10.1609/aaai.v39i15.33679)
+{% assign start_date = '2025-06-01' | date: '%s' %}
+{% assign end_date = '2025-12-31' | date: '%s' %}
+{% assign products = site.data.products | sort | reverse %}
+{% for product in products %}
+{% assign paper = product %}
+{% if paper.type == "paper" %}
+{% if paper.iaifi-thrust == "F" %}
+{% assign paper_date = paper.arxiv-date | date: '%s' %}
+{% if paper_date >= start_date and paper_date <= end_date %}
+{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
+- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
 
 ### Theoretical Physics
-- [Quantum Mechanics and Neural Networks](https://arxiv.org/abs/2504.05462)
-- [Extracting the distribution amplitude of pseudoscalar mesons using the HOPE method](https://arxiv.org/abs/2503.12198)
-- [Machine learning the vanishing order of rational L-functions](https://arxiv.org/abs/2502.10360)
-- [Progress in Normalizing Flows for 4d Gauge Theories](https://arxiv.org/abs/2502.00263)
-- [Learning Fricke signs from Maass form Coefficients](https://arxiv.org/abs/2501.02105)
+{% for product in products %}
+{% assign paper = product %}
+{% if paper.type == "paper" %}
+{% if paper.iaifi-thrust == "T" %}
+{% assign paper_date = paper.arxiv-date | date: '%s' %}
+{% if paper_date >= start_date and paper_date <= end_date %}
+{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
+- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
 
 ### Experimental Physics
-- [Anomaly preserving contrastive neural embeddings for end-to-end model-independent searches at the LHC](https://arxiv.org/abs/2502.15926)
-- [Isolating Unisolated Upsilons with Anomaly Detection in CMS Open Data](https://arxiv.org/abs/2502.14036)
-- [QCD Theory meets Information Theory](https://arxiv.org/abs/2501.17219)
-- [Lake- and Surface-Based Detectors for Forward Neutrino Physics](https://arxiv.org/abs/2501.08278)
-- [Robust resonant anomaly detection with NPLM](https://arxiv.org/abs/2501.01778)
+{% for product in products %}
+{% assign paper = product %}
+{% if paper.type == "paper" %}
+{% if paper.iaifi-thrust == "E" %}
+{% assign paper_date = paper.arxiv-date | date: '%s' %}
+{% if paper_date >= start_date and paper_date <= end_date %}
+{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
+- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
 
 ### Astrophysics
-- [On Soft Clusterbooting For Correlation Estimators: Model Uncertainty, Differentiability, and Surrogates](https://arxiv.org/abs/2504.06174)
-- [The Type I Superluminous Supernova Catalogue II: Spectroscopic Evolution in the Photospheric Phase, Velocity Measurements, and Constraints on Diversity](https://arxiv.org/abs/2503.21874)
-- [Decoding the Galactic Twirl: The Downfall of Milky Way-mass Galaxies Rotation Curves in the FIRE Simulations](https://arxiv.org/abs/2503.05877)
-- [Trial by FIRE: Probing the dark matter density profile of dwarf galaxies with GraphNPE](https://arxiv.org/abs/2503.03812)
-- [Deriving Stellar Properties, Distances, and Reddenings using Photometry and Astrometry with BRUTUS](https://arxiv.org/abs/2503.02227)
-- [A Deep, High-Angular Resolution 3D Dust Map of the Southern Galactic Plane](https://arxiv.org/abs/2503.02657)
-- [Evidence for an Instability-Induced Binary Merger in the Double-Peaked, Helium-Rich Type IIn Supernova 2023zkd](https://arxiv.org/abs/2502.19469)
-- [Seeing the Outer Edge of the Infant Type Ia Supernova 2024epr in the Optical and Near Infrared](https://arxiv.org/abs/2502.17556)
-- [A Poisson Process AutoDecoder for X-ray Sources](https://arxiv.org/abs/2502.01627)
-- [A Fast Periodicity Detection Algorithm Sensitive to Arbitrary Waveforms](https://arxiv.org/abs/2502.00243)
-- [Central densities of dark matter halos in FIRE-2 simulations of low-mass galaxies with cold dark matter and self-interacting dark matter](https://arxiv.org/abs/2501.16602)
-- [A theoretical approach to density-split clustering](https://arxiv.org/abs/2501.14638)
-- [Theoretical Predictions for the Inner Dark Matter Distribution in the Milky Way Informed by Simulations](https://arxiv.org/abs/2501.14868)
-- [An Updated Detection Pipeline for Precursor Emission in Type II Supernova 2020tlf](https://dx.doi.org/10.3847/2515-5172/ada367)
-- [Effects of galactic environment on size and dark matter content in low-mass galaxies](https://arxiv.org/abs/2501.04084)
-- [Exoplanet Detection via Differentiable Rendering](https://doi.org/10.1109/TCI.2025.3525971)
-- [Cosmological constraints from the Minkowski functionals of the BOSS CMASS galaxy sample](https://arxiv.org/abs/2501.01698)
-- [ORACLE: A Real-Time, Hierarchical, Deep-Learning Photometric Classifier for the LSST](https://arxiv.org/abs/2501.01496)
-- [A Near-IR Search for Helium in the Superluminous Supernova SN 2024ahr](https://arxiv.org/abs/2501.01485)
+{% for product in products %}
+{% assign paper = product %}
+{% if paper.type == "paper" %}
+{% if paper.iaifi-thrust == "A" %}
+{% assign paper_date = paper.arxiv-date | date: '%s' %}
+{% if paper_date >= start_date and paper_date <= end_date %}
+{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
+- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+## In Case You Missed It
+
+[Learn More about IAIFI Public Engagement Activities](https://iaifi.org/outreach.html){:.button.button--outline-primary.button--pill.button--sm}
+
+### Splash Fall 2025
+**November 22, 2025**
+
+<img src="https://iaifi.org/images/small-photo-splash2025-joydeep..jpg" align="center" style="float: right; max-width:5990px;width:25%" hspace="10" vspace="0"> 
+
+IAIFI was pleased to participate in [MIT's Splash program](https://esp.mit.edu/learn/Splash/index.html) this year! IAIFI members Christian Ferko (Northeastern), Christina Reissel (MIT), Jamie Sullivan (MIT), and Joydeep Naskar (Northeastern)shared an overview of their work with a group of around 100 high school students and answered questions related to AI and Physics!
+
+<br><br>
+
+### Cambridge Science Carnival 2025
+**September 21, 2025**
+
+<img src="https://iaifi.org/images/small-photo-2025-cambridgesciencecarnival.jpg" align="center" style="float: right; max-width:5990px;width:25%" hspace="10" vspace="0"> 
+
+We hosted a booth at the [Cambridge Science Carnival](https://cambridgesciencefestival.org) for the fourth year in a row! This included several AI+Physics activities for all ages, and IAIFI members were able to chat with more than 500 community members across the afternoon. 
+<br><br>
+
+### Summer School and Workshop
+**August 2025**
+
+In August 2025, we held our fourth annual Summer School and Workshop at Harvard. The Summer School included lectures, hands-on tutorials, lightning talks, networking events, etc. The Summer Workshop featured plenary talks, poster sessions, and networking events. We were also excited to partner with the Boston Museum of Science for our Summer Workshop dinner, when we also hosted a [planetarium show about AI and the search for dark matter](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai), led by IAIFI Senior Investigator Lina Necib.
+
+[Watch the 2025 Workshop Talks on YouTube](https://youtube.com/playlist?list=PLBY0ED2StbGYicBdodtC3QqVVnwhr758-&si=kEw4EHgQHkfCFIbg){:.button.button--outline-primary.button--pill.button--sm}  [Apply for the 2026 Summer School](https://iaifi.org/phd-summer-school.html#apply){:.button.button--outline-primary.button--pill.button--sm}
+
+<style>
+  .image-row {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 10px 0;
+  }
+  .image-row img {
+    width: 23%;
+    max-width: 5990px;
+    height: auto;
+  }
+</style>
+
+<div class="image-row">
+  <img src="https://iaifi.org/images/2025-summer-school-group-photo.jpeg" alt="Group photo">
+  <img src="https://iaifi.org/images/small-photo-2025-summer-school-lecture.jpg" alt="Lecture">
+  <img src="https://iaifi.org/images/2025-summer-workshop-dinner.jpg" alt="Dinner">
+  <img src="https://iaifi.org/images/Workshop-2025_Sokratis.jpeg" alt="Workshop">
+</div>
+
+### AI+Physics Science Communication
+
+We had the opportunity to collaborate on two public engagement projects to communicate AI+Physics to the general public: 
+
+* **Discovery Engines Podcast:** IAIFI Director Jesse Thaler chatted with host Nabil Laoudji about how AI is reshaping physics discovery and how physicists are reshaping AI. 
+
+[Watch the episode on YouTube](https://youtu.be/FQJPvVhriYo){:.button.button--outline-primary.button--pill.button--sm}
+
+* **ScienceClic Educational Video:** IAIFI Investigators collaborated with popular science YouTube channel ScienceClic on a video covering "The Physics of AI," which explores the connections between AI and Physics as related to the 2024 Nobel Prize in Physics, and the link between neural networks and quantum fields. 
+
+[Watch the video on YouTube](https://youtu.be/dRkehLL19Wo?si=0J-6Sw5PhUq5n5ei){:.button.button--outline-primary.button--pill.button--sm}
+
+### IAIFI News
+
+- **IAIFI Junior Investigator Christian Ferko receives Museum of Science digital communication fellowship.** As a [2026 Museum of Science, Boston Digital Science Communication Fellow](https://www.linkedin.com/feed/update/urn:li:activity:7404902033381560321), Christian will participate in specialized training in strategic storytelling, digital content creation, civic trust, and evidence-based communication.  *December 11, 2025*
+    
+- **IAIFI Investigators honored by Schmidt Sciences as 2025 Early Career Fellows.** IAIFI Fellow/Harvard Society of Fellows' Michael Albergo and IAIFI Senior Investigator/MIT Professor Tess Smidt were selected for the [AI2050 Early Career Fellowship](https://ai2050.schmidtsciences.org/fellows/), which is an enabling fellowship to encourage postdoctoral and pre-tenure researchers from around the world to pursue bold and ambitious work on hard problems in AI. *November 17, 2025*
+  
+- **IAIFI Senior Investigators collaborate with other interdisciplinary researchers on community white paper exploring "The Future of AI and the Mathematical and Physical Sciences."** The [white paper](https://arxiv.org/abs/2509.02661), which developed out of an NSF-funded Workshop held in March 2025, presents how the MPS domains (Astronomy, Chemistry, Materials Research, Mathematical Sciences, and Physics) can best capitalize on, and contribute to, the future of AI. *September 4, 2025*
+  
+- **IAIFI Summer School sponsor FirstPrinciples summarizes the impact of the School**. Read [Bridging Minds and Disciplines: The IAIFI Summer School and the Future of Collaborative Science](https://www.firstprinciples.org/article/bridging-minds-and-disciplines-the-iaifi-summer-school-and-the-future-of-collaborative-science?utm_source=linkedin&utm_medium=hub_post&utm_campaign=iaifi_summer_school). *August 15, 2025*
+  
+- **IAIFI Researchers and Collaborators Discover New Type of Supernova**. [Read about the discovery](https://www.cfa.harvard.edu/news/ai-helps-astronomers-discover-new-type-supernova), led by IAIFI Fellow Alex Gagliano along with IAIFI Senior Investigator Ashley Villar and their collaborators. *August 13, 2025*
+  
+- **IAIFI Deputy Director Mike Williams participates on panel at AI+Science Summit**. The panel, "[Powering Innovation at the Intersection of AI & Science: NSF’s AI Institutes](https://youtu.be/RlzN7UhuHL0?si=3C6cqb4SbP_IfX1B)" was hosted by the Special Competitive Studies Project at their AI+Science Summit. *July 23, 2025*
+  
+- **IAIFI Fellow Jessie Micallef receives Impact Award from MicroBooNE expirement**. Jessie received the award for contributions to the experiment. *July 20, 2025*
+    
+- **Marisa LaFleur promoted from IAIFI Project Manager to IAIFI Managing Director**. As IAIFI Managing Director, Marisa will continue to oversee the implementation of IAIFI activities and to expand her responsibilities related to IAIFI’s long-term strategy and funding. *July 9, 2025*
+
+[View all IAIFI News](https://iaifi.org/#iaifi-news){:.button.button--outline-primary.button--pill.button--sm}
 
 ## Join IAIFI
 
@@ -136,41 +234,9 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 [Details for Junior Researchers](https://iaifi.org/junior-researchers.html){:.button.button--outline-primary.button--pill.button--sm}
 
 <p align="center">
-<img src="https://iaifi.org/images/WrapUp_Spring2025_SplitPhoto_Update01.png" align="center" style="max-width:5990px;width:80%" hspace="10" vspace="10"> 
+<img src="https://iaifi.org/images/small-photo-Fall2025CombinedPhoto.jpg" align="center" style="max-width:5990px;width:50%" hspace="10" vspace="10"> 
 </p>
 
-*IAIFI members participate in a variety of events throughout the semester, including thematic discussions, journal clubs, and networking events.*
-
-## In Case You Missed It
-
-[Learn More about IAIFI Public Engagement Activities](https://iaifi.org/outreach.html){:.button.button--outline-primary.button--pill.button--sm}
-
-### USA AI Olympiad (USAAIO)
-**April 27, 2025**
-
-<img src="https://iaifi.org/images/USAAIO-panel.jpeg" align="center" style="float: right; max-width:5990px;width:25%" hspace="10" vspace="0"> 
-
-IAIFI helped host Round 2 of the USA AI Olympiad (USAAIO), where highschoolers competed for a spot in the international Olympiad. Some of IAIFI's postdocs (Christian Ferko, Jigyasa Nigam, and Alex Gagliano) participated in a Career Panel to share their experiences working on AI+Physics!
-
-<br><br>
-
-### IAIFI Research Panel on the 2024 Nobel Prize in Physics
-**March 14, 2025**
-
-<img src="https://iaifi.org/images/InfiniteDisplay-PowerPoint_NobelPrize-Panel.png" align="center" style="float: right; max-width:5990px;width:40%" hspace="10" vspace="10"> 
-
-The 2024 Nobel Prize in Physics recognized John Hopfield and Geoffrey Hinton for their development of foundational and physics-inspired machine learning frameworks (the Hopfield network and the Boltzmann machine, respectively). Following IAIFI's' fireside chat discussing the historical significance of the award in Fall 2024, IAIFI hosted a panel discussion that dove deeper into the impact of Hopfield and Hinton’s work, and more broadly of physics insights, on interdisciplinary research tackling the understanding of artificial and biological intelligent systems. The panelists included [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan) (Kempner Institute/Harvard University), [Dmitry Krotov](https://mitibmwatsonailab.mit.edu/people/dmitry-krotov/) (MIT-IBM Watson AI Lab/IBM Research), and [Ila Fiete](https://mcgovern.mit.edu/profile/ila-fiete/) (McGovern Institute/MIT). 
-
-[View Slides](https://www.dropbox.com/scl/fo/tkud52zl2uiln8gkico4d/AGL6H1JB2X-Q9TxCFNtmimo?rlkey=kihkt0ud82h4dg3mlo18wmts5&st=g0n58zlk&dl=0){:.button.button--outline-primary.button--pill.button--sm} [View Recording](https://www.youtube.com/live/1g-6XeUCmb8?feature=shared){:.button.button--outline-primary.button--pill.button--sm}
-
-### IAIFI News
-
-- **IAIFI Fellow Michael Albergo and Affiliate Tommi Jaakkola awarded the Best Paper Award at the [Frontiers of Probabilistic Inference workshop](https://sites.google.com/view/fpiworkshop/), ICLR 2025.** Read the paper on [OpenReview](https://openreview.net/forum?id=LBFyCSqwt2).
-
-- **IAIFI Fellow Jessie Micallef featured by the MIT School of Science.** Read about Jessie’s’ work in “[New perspectives on old questions: AI meets particle physics](https://science.mit.edu/new-perspectives-on-old-questions-ai-meets-particle-physics/).” 
-
-- **MIT releases impact paper by IAIFI Senior Investigators Phil Harris and Phiala Shanahan, IAIFI Fellow Gaia Grosso, and former IAIFI Fellow Siddharth Mishra-Sharma on generative AI in the physical sciences.** Read “[A Virtuous Cycle: Generative AI and Discovery in the Physical Sciences](https://mit-genai.pubpub.org/pub/ewp5ckmf/release/2?readingCollection=6d8d7700)." 
-
-[View all IAIFI News](https://iaifi.org/#iaifi-news){:.button.button--outline-primary.button--pill.button--sm}
+*IAIFI members participate in a variety of events throughout the semester, including colloquia, journal clubs, and networking events.*
 
 {% include_relative iaifi-reminder_footer.html %}
