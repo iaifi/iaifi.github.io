@@ -56,7 +56,7 @@ Undergraduate students (sophomore, junior, or non-graduating seniors) who might 
 
 ## IAIFI Colloquium Series
 
-<img src="https://iaifi.org/images/2025-fall-colloquium.jpg" align="center" style="float: right; max-width:3024px;width:35%" hspace="10" vspace="0"> 
+<img src="https://iaifi.org/images/2025-fall-colloquium.jpeg" align="center" style="float: right; max-width:3024px;width:35%" hspace="10" vspace="0"> 
 
 Thank you to our speakers for this term: [Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/), [Berthy Feng](https://www.berthyfeng.com/), [Peter Lu](https://petery.lu/), [Andy Keller](https://akandykeller.github.io/), [Melanie Weber](https://melanie-weber.com/), and [T. Konstantin Rusch](https://camail.org/)! 
 
