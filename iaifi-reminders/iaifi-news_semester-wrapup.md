@@ -56,6 +56,8 @@ Undergraduate students (sophomore, junior, or non-graduating seniors) who might 
 
 ## IAIFI Colloquium Series
 
+<img src="https://iaifi.org/images/2025-fall-colloquium.jpg" align="center" style="float: right; max-width:3024px;width:35%" hspace="10" vspace="0"> 
+
 Thank you to our speakers for this term: [Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/), [Berthy Feng](https://www.berthyfeng.com/), [Peter Lu](https://petery.lu/), [Andy Keller](https://akandykeller.github.io/), [Melanie Weber](https://melanie-weber.com/), and [T. Konstantin Rusch](https://camail.org/)! 
 
 
@@ -152,6 +154,8 @@ We had the opportunity to collaborate on two public engagement projects to commu
 - **IAIFI Junior Investigator Christian Ferko receives Museum of Science digital communication fellowship.** As a [2026 Museum of Science, Boston Digital Science Communication Fellow](https://www.linkedin.com/feed/update/urn:li:activity:7404902033381560321), Christian will participate in specialized training in strategic storytelling, digital content creation, civic trust, and evidence-based communication.  *December 11, 2025*
     
 - **IAIFI Investigators honored by Schmidt Sciences as 2025 Early Career Fellows.** IAIFI Fellow/Harvard Society of Fellows' Michael Albergo and IAIFI Senior Investigator/MIT Professor Tess Smidt were selected for the [AI2050 Early Career Fellowship](https://ai2050.schmidtsciences.org/fellows/), which is an enabling fellowship to encourage postdoctoral and pre-tenure researchers from around the world to pursue bold and ambitious work on hard problems in AI. *November 17, 2025*
+
+- **IAIFI alum Ziming Liu featured in the NSF AI Institutes Virtual Organization (AIVO) Student Spotlights.** [The article](https://aiinstitutes.org/student-spotlight-ziming-liu/) focuses on Ziming's groundbreaking research in AI+Science. *September 19, 2025*
   
 - **IAIFI Senior Investigators collaborate with other interdisciplinary researchers on community white paper exploring "The Future of AI and the Mathematical and Physical Sciences."** The [white paper](https://arxiv.org/abs/2509.02661), which developed out of an NSF-funded Workshop held in March 2025, presents how the MPS domains (Astronomy, Chemistry, Materials Research, Mathematical Sciences, and Physics) can best capitalize on, and contribute to, the future of AI. *September 4, 2025*
   
