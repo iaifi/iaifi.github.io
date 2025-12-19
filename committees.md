@@ -30,7 +30,7 @@ The Committees meet on an as-needed basis and are typically organized around tem
 
 ## Ethical and Social Responsibility
 * At-a-glance: Serves as an advisory body to IAIFI Management on aspects related to ethics.
-* Current members: Lisa Barsotti, MIT (Chair); David Kaiser, MIT; Diego Vasquez, UPRM; Lesbia Lopez, UPRM; Marisa LaFleur, IAIFI Managing Director; Thomas Bradford, IAIFI Project Coordinator
+* Current members: Lisa Barsotti, MIT (Chair); David Kaiser, MIT; Diego Vasquez, UPRM; Lesbia Lopez, UPRM; Vinicius Da Silva, Tufts; Marisa LaFleur, IAIFI Managing Director; Thomas Bradford, IAIFI Project Coordinator
 
 ## Journal Club
 * At-a-glance: Schedules and coordinates the IAIFI Journal Club and introduces Journal Club presenters
