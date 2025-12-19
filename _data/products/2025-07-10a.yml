@@ -1,7 +1,7 @@
 type: paper
 iaifi-thrust: F
 arxiv-date: 2025-07-10
-title: "The -Geometric Hilbert Scheme -- Part I: Involutivity and Stability"
+title: "The D-Geometric Hilbert Scheme -- Part I: Involutivity and Stability"
 authors: "Jacob Kryczka, Artan Sheshmani"
 abstract: "We construct a moduli space of formally integrable and involutive ideal sheaves arising from systems of partial differential equations (PDEs) in the algebro-geometric setting, by introducing the -Hilbert and -Quot functors in the sense of Grothendieck and establishing their representability. Central to this construction is the notion of Spencer (semi-)stability, which presents an extension of classical stability conditions from gauge theory and complex geometry, and which provides the boundedness needed for our moduli problem. As an application, we show that for flat connections on compact Kähler manifolds, Spencer poly-stability of the associated PDE ideal is equivalent to the existence of a Hermitian-Yang-Mills metric. This result provides a refinement of the classical Donaldson-Uhlenbeck-Yau correspondence, and identifies Spencer cohomology and stability as a unifying framework for geometric PDEs."
 arxiv: "2507.07937"

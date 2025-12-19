@@ -14,7 +14,7 @@ show_title: false
 
 # IAIFI Fall 2025 Wrap-Up
 
-[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm} [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm}
+[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm}
 
 ## News from IAIFI Management
 
@@ -48,6 +48,8 @@ Apply for our [2026 IAIFI Summer School](https://iaifi.org/phd-summer-school.htm
 
 ### MIT Summer Research Program (MSRP)
 
+<img src="https://iaifi.org/images/small-photo-2025-msrp-lunch..jpg" align="center" style="float: right; max-width:5990px;width:35%" hspace="10" vspace="0"> 
+
 Undergraduate students (sophomore, junior, or non-graduating seniors) who might benefit from spending a summer on MIT’s campus, conducting research under the guidance of MIT faculty members, postdoctoral fellows, and advanced graduate students, are invited to apply to the [MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/) and can indicate interest in working with IAIFI researchers. 
 
 **Apply by January 20, 2026 and indicate interest in IAIFI in your application.**
@@ -78,81 +80,6 @@ IAIFI regularly posts research highlights on our website, showcasing the innovat
 - [LEAPS: A discrete neural sampler via locally equivariant networks](https://iaifi.org/research.html#leaps-a-discrete-neural-sampler-via-locally-equivariant-networks)
 
 [View all Research Highlights](https://iaifi.org/research.html#highlights){:.button.button--outline-primary.button--pill.button--sm}
-
-## IAIFI Research on arXiv
-
-Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, the papers are grouped by the four IAIFI research domains. 
-
-### Foundational AI
-{% assign start_date = '2025-06-01' | date: '%s' %}
-{% assign end_date = '2025-12-31' | date: '%s' %}
-{% assign products = site.data.products | sort | reverse %}
-{% for product in products %}
-{% assign paper = product %}
-{% if paper.type == "paper" %}
-{% if paper.iaifi-thrust == "F" %}
-{% assign paper_date = paper.arxiv-date | date: '%s' %}
-{% if paper_date >= start_date and paper_date <= end_date %}
-{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
-- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
-{% endif %}
-{% endif %}
-{% endif %}
-{% endif %}
-{% endfor %}
-
-[View all Foundational AI papers](https://iaifi.org/papers-ai.html){:.button.button--outline-primary.button--pill.button--sm}
-
-### Theoretical Physics
-{% for product in products %}
-{% assign paper = product %}
-{% if paper.type == "paper" %}
-{% if paper.iaifi-thrust == "T" %}
-{% assign paper_date = paper.arxiv-date | date: '%s' %}
-{% if paper_date >= start_date and paper_date <= end_date %}
-{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
-- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
-{% endif %}
-{% endif %}
-{% endif %}
-{% endif %}
-{% endfor %}
-
-[View all Theoretical Physics papers](https://iaifi.org/papers-theory.html){:.button.button--outline-primary.button--pill.button--sm}
-
-### Experimental Physics
-{% for product in products %}
-{% assign paper = product %}
-{% if paper.type == "paper" %}
-{% if paper.iaifi-thrust == "E" %}
-{% assign paper_date = paper.arxiv-date | date: '%s' %}
-{% if paper_date >= start_date and paper_date <= end_date %}
-{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
-- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
-{% endif %}
-{% endif %}
-{% endif %}
-{% endif %}
-{% endfor %}
-
-[View all Experimental Physics papers](https://iaifi.org/papers-experiment.html){:.button.button--outline-primary.button--pill.button--sm}
-
-### Astrophysics
-{% for product in products %}
-{% assign paper = product %}
-{% if paper.type == "paper" %}
-{% if paper.iaifi-thrust == "A" %}
-{% assign paper_date = paper.arxiv-date | date: '%s' %}
-{% if paper_date >= start_date and paper_date <= end_date %}
-{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
-- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
-{% endif %}
-{% endif %}
-{% endif %}
-{% endif %}
-{% endfor %}
-
-[View all Astrophysics papers](https://iaifi.org/papers-astro.html){:.button.button--outline-primary.button--pill.button--sm}
 
 ## In Case You Missed It
 
@@ -276,5 +203,80 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 </div>
 
 *IAIFI members participate in a variety of events throughout the semester, including colloquia, journal clubs, and networking events.*
+
+## IAIFI Research on arXiv
+
+Read the latest [IAIFI papers](https://iaifi.org/papers.html) on arXiv! Here, the papers are grouped by the four IAIFI research domains. 
+
+### Foundational AI
+{% assign start_date = '2025-06-01' | date: '%s' %}
+{% assign end_date = '2025-12-31' | date: '%s' %}
+{% assign products = site.data.products | sort | reverse %}
+{% for product in products %}
+{% assign paper = product %}
+{% if paper.type == "paper" %}
+{% if paper.iaifi-thrust == "F" %}
+{% assign paper_date = paper.arxiv-date | date: '%s' %}
+{% if paper_date >= start_date and paper_date <= end_date %}
+{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
+- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+[View all Foundational AI papers](https://iaifi.org/papers-ai.html){:.button.button--outline-primary.button--pill.button--sm}
+
+### Theoretical Physics
+{% for product in products %}
+{% assign paper = product %}
+{% if paper.type == "paper" %}
+{% if paper.iaifi-thrust == "T" %}
+{% assign paper_date = paper.arxiv-date | date: '%s' %}
+{% if paper_date >= start_date and paper_date <= end_date %}
+{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
+- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+[View all Theoretical Physics papers](https://iaifi.org/papers-theory.html){:.button.button--outline-primary.button--pill.button--sm}
+
+### Experimental Physics
+{% for product in products %}
+{% assign paper = product %}
+{% if paper.type == "paper" %}
+{% if paper.iaifi-thrust == "E" %}
+{% assign paper_date = paper.arxiv-date | date: '%s' %}
+{% if paper_date >= start_date and paper_date <= end_date %}
+{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
+- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+[View all Experimental Physics papers](https://iaifi.org/papers-experiment.html){:.button.button--outline-primary.button--pill.button--sm}
+
+### Astrophysics
+{% for product in products %}
+{% assign paper = product %}
+{% if paper.type == "paper" %}
+{% if paper.iaifi-thrust == "A" %}
+{% assign paper_date = paper.arxiv-date | date: '%s' %}
+{% if paper_date >= start_date and paper_date <= end_date %}
+{% assign arxiv_url = "https://arxiv.org/abs/" | append: paper.arxiv %}
+- [{{paper.title}}]({%if paper.doi != blank %}{{paper.doi}}){%else %}{{arxiv_url}})<br>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+[View all Astrophysics papers](https://iaifi.org/papers-astro.html){:.button.button--outline-primary.button--pill.button--sm}
 
 {% include_relative iaifi-reminder_footer.html %}
