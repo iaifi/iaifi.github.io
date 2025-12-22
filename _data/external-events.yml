@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "AI Winter School"
+  event-organizer: "The Center for the Fundamental Physics of the Universe, Brown University/Department of Physics"
+  more-info-link: "https://indico.physics.brown.edu/event/192/"
+  event-post-date: "2025-12-21"
+  start-date-time: "2026-01-06 09:00"
+  end-date-time: "2026-01-09 17:00"
+  talk-location: "Virtual"
+  talk-zoom:
+  event-details: "Welcome to the 2026 AI Winter School, hosted by the Center for the Fundamental Physics of the Universe, Brown University/Department of Physics. This 4-day Winter School is open to interested graduate students, post-doctoral researchers and advanced undergraduates from any institution. All modules will take place virtually. There is no registration fee. Hosted by the Brown Center for the Fundamental Physics of the Universe, this year's program will consist of six modules comprised of a lecture session delivered by Brown Physics faculty members and industry experts, followed by practice workshop sessions for participants with direction in the use of machine learning tools."
+  calendar-link:
+
+- type: "external-event"
   event-name: "AstroAI Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
