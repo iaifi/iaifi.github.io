@@ -166,7 +166,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 <div class="button-container">
   <a href="/join.html" class="button button--outline-primary button--pill button--lg">Join</a>
   <a href="/partnerships.html" class="button button--outline-primary button--pill button--lg">Partner</a>
-  <a href="http://mailman.mit.edu/mailman/listinfo/iaifi-news" class="button button--outline-primary button--pill button--lg">Follow</a>
+  <a href="https://iaifi.org/iaifi-reminders/iaifi-news_semester-wrapup" class="button button--outline-primary button--pill button--lg">Follow</a>
   <a href="/member-resources.html" class="button button--outline-primary button--pill button--lg">For Members</a>
 </div>
 
@@ -214,7 +214,15 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 
 ### IAIFI News
 
-For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).
+<div class="button-container">
+  <a href="/iaifi-news.html" class="button button--outline-primary button--pill button--lg">Archive</a>
+  <a href="https://iaifi.org/iaifi-reminders/iaifi-news_semester-wrapup" class="button button--outline-primary button--pill button--lg">Highlights</a>
+  <a href="http://mailman.mit.edu/mailman/listinfo/iaifi-news" class="button button--outline-primary button--pill button--lg">Mailing List</a>
+  <a href="https://www.linkedin.com/company/iaifi" class="button button--outline-primary button--pill button--lg">LinkedIn</a>
+  <a href="http://www.twitter.com/iaifi_news" class="button button--outline-primary button--pill button--lg">X</a>
+</div>
+
+<!--For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).-->
 
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
