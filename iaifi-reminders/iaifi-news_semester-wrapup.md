@@ -14,7 +14,7 @@ show_title: false
 
 # IAIFI Fall 2025 Wrap-Up
 
-[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm}
+[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Follow IAIFI](#contact-and-follow-iaifi){:.button.button--outline-primary.button--pill.button--sm}
 
 ## News from IAIFI Management
 
