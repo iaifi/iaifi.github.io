@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "AstroAI Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-01-04"
+  start-date-time: "2026-01-05 12:00"
+  end-date-time: "2026-01-05 13:00"
+  talk-location: "The Phillips Auditorium, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Ann-Kathrin Schuetz (Lawrence Berkeley National Lab)<br>Title: From Binary Black Hole to Astrophysical Populations: Modeling in the Rare-Event Regime <br>Abstract: Many of the most informative signals in astrophysics are also the rarest. Binary black hole mergers, kilonovae, tidal disruption events, and exotic supernovae dominate our physical conclusions, yet occur so infrequently that both simulation and inference become fundamentally constrained by scarcity rather than data volume.This talk focuses on rare-event modeling through the lens of binary black hole population synthesis, where truly merging systems occur at rates of ∼10⁻⁶–10⁻⁵ per simulated binary. In this regime, brute-force Monte Carlo approaches are not only inefficient but unstable: most of the computational effort is spent simulating systems that will never contribute to the observable population. This makes systematic uncertainty studies, hierarchical inference, and model comparison prohibitively expensive. I will present a probabilistic surrogate modeling framework developed to operate specifically in this limit. Applied to population-synthesis models, this approach reproduces binary black hole merger statistics across parameter space while reducing computational cost by orders of magnitude, enabling efficient inference with gravitational-wave observations. I will then briefly connect this problem to a broader astrophysical context. The same rare-event bottleneck appears in time-domain astronomy, where surveys such as Rubin LSST will generate millions of transient alerts while only a tiny fraction correspond to genuinely rare phenomena. The methods developed for compact-object populations naturally extend to this regime, offering a path toward physics-aware surrogate forward models and uncertainty-aware inference when direct simulation is infeasible."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N3NtNGZqb2JyY3Zsc2cxNGI4N2tiM3NydjIgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
+- type: "external-event"
   event-name: "AI Winter School"
   event-organizer: "The Center for the Fundamental Physics of the Universe, Brown University/Department of Physics"
   more-info-link: "https://indico.physics.brown.edu/event/192/"
