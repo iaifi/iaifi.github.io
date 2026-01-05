@@ -1,4 +1,45 @@
 - type: "thematic-discussion"
+  semester: "spring-2026"
+  speaker-names-affiliations: "IAIFI Fellows"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2026-04-03 14:00"
+  end-date-time: "2026-04-03 15:30"
+  talk-location: "MIT Kolker Room, 26-414"
+  talk-title: "IAIFI Fellows Showcase (followed by IAIFI Fall Social, 4:00–6:00 pm)"
+  talk-abstract: "This special lightning talk session will showcase IAIFI Fellows discussing their research interests, current projects, and opportunities for collaboration! The event will include individual presentations from the Fellows, as well as a panel with opportunity for open Q&A from the audience. The showcase will be followed by the IAIFI Spring Social. More details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: "All"
+  speaker-gender: "All"
+  talk-attendance-in-person:
+  talk-attendance-virtual:
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NHRpbGdidWlncnVsdWFvdjZzcDlrOTRjMzggcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  priority: high
+  
+- type: "thematic-discussion"
+  semester: "spring-2026"
+  speaker-names-affiliations: "Speakers TBA"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2026-02-20 14:00"
+  end-date-time: "2026-02-20 15:00"
+  talk-location: "IT Kolker Room, 26-414"
+  talk-title: "Title to come."
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person:
+  talk-attendance-virtual:
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDBtdmIwcGtpdmg1ZWhvMHFsbDJpM212MDZfMjAyNjAyMjBUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+
+- type: "thematic-discussion"
   semester: "fall-2025"
   speaker-names-affiliations: "Gaia Grosso (2023-2026 Fellow), Thomas Harvey (2024-2027 Fellow), Sam Bright-Thonney (2024-2027 Fellow)"
   speaker-title:
