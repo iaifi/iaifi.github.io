@@ -9,16 +9,16 @@
 ## IAIFI Research
 [Report IAIFI Product](https://app.smartsheet.com/b/form/fa6d56eb2dec4b5993cd23ac99d910a7){:.button.button--outline-primary.button--pill.button--sm} [See All Papers](https://iaifi.org/papers.html){:.button.button--outline-primary.button--pill.button--sm} [See All Monthly Research Highlights](https://iaifi.org/research.html#monthly-research-highlights){:.button.button--outline-primary.button--pill.button--sm}
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4jIHJjus0wof29LWEVmjuSS5GaDNWJK58yKkGbxXSyVxvpZlMTBzg5tMyWpJP10laMToZJKqOr5Ge/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
-
 {% assign highlights = site.data.research-highlights | sort: "date-added" | reverse %}
 {% for highlight in highlights %}
 {% assign highlight-date = highlight.date-added | date: '%s' | plus: 0 %}
 {% unless highlight-date < digest_start_in_seconds and highlight-date >= digest_past_in_seconds%}{% continue %}{% endunless %}
 ### Monthly Research Highlight
 ***[{{highlight.title}}](https://iaifi.org/research.html#monthly-research-highlights)***<br>
-{{highlight.authors}}<br>
-<iframe src="{{highlight.overview-embed-link}}" frameborder="0" width="960" height="569" allowfullscreen mozallowfullscreen webkitallowfullscreen></iframe>
+{{highlight.authors}}<br><br>
+<a href="https://iaifi.org/research.html#monthly-research-highlights" target="_blank">
+    <img src="https://iaifi.org/images/{{highlight.exported-jpeg}}" align="center" style="max-width:3600px;width:100%">
+</a>
 {% endfor %}
 
 {% assign products = site.data.products | sort | reverse %}
