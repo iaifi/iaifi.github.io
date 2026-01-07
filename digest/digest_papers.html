@@ -5,6 +5,8 @@
 {% assign digest_end_in_seconds = digest_start_in_seconds | plus: week_duration_in_seconds %}
 {% assign digest_next_in_seconds = digest_end_in_seconds | plus: week_duration_in_seconds %}
 {% assign digest_past_in_seconds = digest_start_in_seconds | minus: week_duration_in_seconds %}
+{% assign two_weeks = week_duration_in_seconds | times: 2 %}
+{% assign two_weeks_ago = digest_start_in_seconds | minus: two_weeks %}
 
 ## IAIFI Research
 [Report IAIFI Product](https://app.smartsheet.com/b/form/fa6d56eb2dec4b5993cd23ac99d910a7){:.button.button--outline-primary.button--pill.button--sm} [See All Papers](https://iaifi.org/papers.html){:.button.button--outline-primary.button--pill.button--sm} [See All Monthly Research Highlights](https://iaifi.org/research.html#monthly-research-highlights){:.button.button--outline-primary.button--pill.button--sm}
@@ -12,7 +14,7 @@
 {% assign highlights = site.data.research-highlights | sort: "date-added" | reverse %}
 {% for highlight in highlights %}
 {% assign highlight-date = highlight.date-added | date: '%s' | plus: 0 %}
-{% unless highlight-date < digest_start_in_seconds and highlight-date >= digest_past_in_seconds%}{% continue %}{% endunless %}
+{% unless highlight-date < digest_start_in_seconds and highlight-date >= two_weeks_ago%}{% continue %}{% endunless %}
 ### Monthly Research Highlight
 *These highlights are selected in collaboration between the Research Forum and the Management Team, presented to the NSF, and posted to IAIFI's website.*<br><br>
 ***[{{highlight.title}}](https://iaifi.org/research.html#monthly-research-highlights)***<br>
