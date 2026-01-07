@@ -1,6 +1,6 @@
 - type: "internal-workshop"
   event-name: "IAIFI Summer School"
-  event-committee: "Summer School and Workshop"
+  event-committee: "Summer School and Workshop Committee"
   event-post-date: "2025-12-09"
   start-date-time: "2026-08-03 9:00"
   end-date-time: "2026-08-07 17:00"
@@ -59,7 +59,7 @@
   
 - type: "social"
   event-name: "Spring 2026 IAIFI Social"
-  event-committee: "Community Building"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-03-03"
   start-date-time: "2026-04-03 16:00"
   end-date-time: "2026-04-03 18:00"
@@ -75,7 +75,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-01-25"
   start-date-time: "2026-01-28 12:00"
   end-date-time: "2026-01-28 13:00"
@@ -87,7 +87,7 @@
   
 - type: "social"
   event-name: "Post-Colloquium Social"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-02-15"
   start-date-time: "2026-02-27 15:00"
   end-date-time: "2026-02-27 16:00"
@@ -102,7 +102,7 @@
   
 - type: "social"
   event-name: "IAIFI Student and Postdoc Networking Lunch with Colloquium Speaker"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-02-15"
   start-date-time: "2026-02-27 12:30"
   end-date-time: "2026-02-27 13:30"
@@ -117,7 +117,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-02-22"
   start-date-time: "2026-02-25 12:00"
   end-date-time: "2026-02-25 13:00"
@@ -129,7 +129,7 @@
   
 - type: "social"
   event-name: "Post-Discussion Social"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-02-08"
   start-date-time: "2026-02-20 15:00"
   end-date-time: "2026-02-20 16:00"
@@ -144,7 +144,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-02-15"
   start-date-time: "2026-02-18 12:00"
   end-date-time: "2026-02-18 13:00"
@@ -156,7 +156,7 @@
   
 - type: "social"
   event-name: "Post-Colloquium Social"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-02-01"
   start-date-time: "2026-02-13 15:00"
   end-date-time: "2026-02-13 16:00"
@@ -171,7 +171,7 @@
   
 - type: "social"
   event-name: "IAIFI Student and Postdoc Networking Lunch with Colloquium Speaker"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-02-01"
   start-date-time: "2026-02-13 12:30"
   end-date-time: "2026-02-13 13:30"
@@ -186,7 +186,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-02-08"
   start-date-time: "2026-02-11 12:00"
   end-date-time: "2026-02-11 13:00"
@@ -198,7 +198,7 @@
   
 - type: "social"
   event-name: "IAIFI Pizza & Game Night"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-01-25"
   start-date-time: "2026-02-06 17:00"
   end-date-time: "2026-02-06 19:00"
@@ -213,7 +213,7 @@
   
 - type: "social"
   event-name: "IAIFI Co-Working Session"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-01-25"
   start-date-time: "2026-02-06 14:00"
   end-date-time: "2026-02-06 17:00"
@@ -228,7 +228,7 @@
   
 - type: "industry-lunch"
   event-name: "Industry Lunch with Ari Biswas (Mathworks)"
-  event-committee: "Talent"
+  event-committee: "IAIFI Talent Forum"
   event-post-date: "2026-01-25"
   start-date-time: "2026-02-06 12:30"
   end-date-time: "2026-02-06 13:30"
@@ -242,7 +242,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-02-01"
   start-date-time: "2026-02-04 12:00"
   end-date-time: "2026-02-04 13:00"
@@ -254,7 +254,7 @@
   
 - type: "social"
   event-name: "IAIFI Co-Working & Crafts Session"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-01-11"
   start-date-time: "2026-01-23 14:00"
   end-date-time: "2026-01-23 17:00"
@@ -269,7 +269,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-01-18"
   start-date-time: "2026-01-21 12:00"
   end-date-time: "2026-01-21 13:00"
@@ -281,7 +281,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-01-11"
   start-date-time: "2026-01-14 12:00"
   end-date-time: "2026-01-14 13:00"
@@ -293,7 +293,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2026-01-04"
   start-date-time: "2026-01-07 12:00"
   end-date-time: "2026-01-07 13:00"
@@ -305,7 +305,7 @@
   
 - type: "social"
   event-name: "Weekly Coffee Hour"
-  event-committee: "Community"
+  event-committee: "IAIFI Community Forum"
   event-post-date: "2025-12-14"
   start-date-time: "2025-12-17 12:00"
   end-date-time: "2025-12-17 13:00"
@@ -485,7 +485,7 @@
 
 - type: "internal-workshop"
   event-name: "AI4EIC Workshop"
-  event-committee: ""
+  event-committee: 
   event-post-date: "2025-06-28"
   start-date-time: "2025-10-27 9:00"
   end-date-time: "2025-10-29 17:00"
