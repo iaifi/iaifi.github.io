@@ -14,10 +14,11 @@
 {% assign highlight-date = highlight.date-added | date: '%s' | plus: 0 %}
 {% unless highlight-date < digest_start_in_seconds and highlight-date >= digest_past_in_seconds%}{% continue %}{% endunless %}
 ### Monthly Research Highlight
+*These highlights are selected in collaboration between the Research Forum and the Management Team, presented to the NSF, and posted to IAIFI's website.*<br><br>
 ***[{{highlight.title}}](https://iaifi.org/research.html#monthly-research-highlights)***<br>
 {{highlight.authors}}<br><br>
 <a href="https://iaifi.org/research.html#monthly-research-highlights" target="_blank">
-    <img src="https://iaifi.org/images/{{highlight.exported-jpeg}}" align="center" style="max-width:3600px;width:100%">
+    <img src="https://iaifi.org/images/{{highlight.exported-jpeg}}" align="center" style="max-width:3600px;width:100%; border: 1px solid #000">
 </a>
 {% endfor %}
 
