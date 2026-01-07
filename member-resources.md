@@ -24,7 +24,7 @@ IAIFI thrives on the energy and enthusiasm of its members! This page includes in
 * [Get Involved Beyond IAIFI](#get-involved-beyond-iaifi) 
 --->
 
-Unless otherwise noted, the opportunities listed on this page are available to all IAIFI members, including Senior Investigators, Junior Investigators, IAIFI Affiliates, and Friends of IAIFI.
+Unless otherwise noted, the opportunities listed on this page are available to all IAIFI members, including Senior Investigators, Junior Investigators, IAIFI Affiliates, and Friends of IAIFI. **Members can also find resources in the [IAIFI README](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing) document.**
 
 <!---
 
@@ -53,7 +53,7 @@ Unless otherwise noted, the opportunities listed on this page are available to m
 --->
 
 
-[Submit a suggestion for the website](https://app.smartsheet.com/b/form/cb1e1ec990d34a318122451fcc11d9b2){:.button.button--outline-primary.button--pill.button--lg}
+[Submit a suggestion for the website](https://app.smartsheet.com/b/form/cb1e1ec990d34a318122451fcc11d9b2){:.button.button--outline-primary.button--pill.button--lg} [IAIFI README](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Research
 

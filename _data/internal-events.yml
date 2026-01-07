@@ -58,6 +58,22 @@
   priority: high
   
 - type: "social"
+  event-name: "Spring 2026 IAIFI Social"
+  event-committee: "Community Building"
+  event-post-date: "2026-03-03"
+  start-date-time: "2026-04-03 16:00"
+  end-date-time: "2026-04-03 18:00"
+  talk-location: "Venue TBA"
+  talk-zoom:
+  event-details: "IAIFI will have its Spring Social on the evening of Friday, April 3, 2026! Food and beverages will be provided. Please mark this date on your calendars and do your best to attend, as it is a key opportunity to engage with the community after the IAIFI Fellows Showcase!"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNjA0MDNUMTkwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  priority: high
+  
+- type: "social"
   event-name: "Weekly Coffee Hour"
   event-committee: "Community"
   event-post-date: "2026-01-25"
@@ -67,6 +83,173 @@
   talk-zoom:
   event-details: "Coffee and snacks provided. All are welcome, including guests."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNjAxMjhUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Colloquium Social"
+  event-committee: "Community"
+  event-post-date: "2026-02-15"
+  start-date-time: "2026-02-27 15:00"
+  end-date-time: "2026-02-27 16:00"
+  talk-location: "IAIFI Penthouse"
+  talk-zoom:
+  event-details: "After today's colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNjAyMjdUMjAwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Student and Postdoc Networking Lunch with Colloquium Speaker"
+  event-committee: "Community"
+  event-post-date: "2026-02-15"
+  start-date-time: "2026-02-27 12:30"
+  end-date-time: "2026-02-27 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "IAIFI students and postdocs are invited to this informal, catered networking meetup with IAIFI's colloquium speaker, Lisa Everett (University of Wisconsin-Madison). Lunch and refreshments will be provided."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNjAyMjdUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2026-02-22"
+  start-date-time: "2026-02-25 12:00"
+  end-date-time: "2026-02-25 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNjAyMjVUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Discussion Social"
+  event-committee: "Community"
+  event-post-date: "2026-02-08"
+  start-date-time: "2026-02-20 15:00"
+  end-date-time: "2026-02-20 16:00"
+  talk-location: "IAIFI Penthouse"
+  talk-zoom:
+  event-details: "After today's Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNjAyMjBUMjAwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2026-02-15"
+  start-date-time: "2026-02-18 12:00"
+  end-date-time: "2026-02-18 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNjAyMThUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+  
+- type: "social"
+  event-name: "Post-Colloquium Social"
+  event-committee: "Community"
+  event-post-date: "2026-02-01"
+  start-date-time: "2026-02-13 15:00"
+  end-date-time: "2026-02-13 16:00"
+  talk-location: "IAIFI Penthouse"
+  talk-zoom:
+  event-details: "After today's Colloquium, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNjAyMTNUMjAwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Student and Postdoc Networking Lunch with Colloquium Speaker"
+  event-committee: "Community"
+  event-post-date: "2026-02-01"
+  start-date-time: "2026-02-13 12:30"
+  end-date-time: "2026-02-13 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "IAIFI students and postdocs are invited to this informal, catered networking meetup with IAIFI's colloquium speaker, Roger Melko (University of Waterloo). Lunch and refreshments will be provided."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNjAyMTNUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2026-02-08"
+  start-date-time: "2026-02-11 12:00"
+  end-date-time: "2026-02-11 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNjAyMTFUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+  
+- type: "social"
+  event-name: "IAIFI Pizza & Game Night"
+  event-committee: "Community"
+  event-post-date: "2026-01-25"
+  start-date-time: "2026-02-06 17:00"
+  end-date-time: "2026-02-06 19:00"
+  talk-location: "Location TBA"
+  talk-zoom:
+  event-details: "Details to come."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWxhcGM3OHE3ZnZkZWFwZDlhMG5tajdkdGVfMjAyNjAyMDZUMjIwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "IAIFI Co-Working Session"
+  event-committee: "Community"
+  event-post-date: "2026-01-25"
+  start-date-time: "2026-02-06 14:00"
+  end-date-time: "2026-02-06 17:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "This is an opportunity for IAIFI members to meet up for an informal co-working session. The Penthouse space will be set up for collaboration and conversation, along with refreshments. Feel free to stop by for a short time, or stay for the whole session."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGhzMTl1dWxoY2ZlMjkzaXA4cGVvYzNuZzggY18yMjljMGQ0NzExYjJlNjgzOGI4NTZlZjEyN2E2NjJmMWJhODU1ZGZmOWU2NWE4MWJlMWQ1MTkyOGJkNDIwZWM4QGc&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "industry-lunch"
+  event-name: "Industry Lunch with Ari Biswas (Mathworks)"
+  event-committee: "Talent"
+  event-post-date: "2026-01-25"
+  start-date-time: "2026-02-06 12:30"
+  end-date-time: "2026-02-06 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
+  event-details: "Details to come."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNjAyMDZUMTczMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link: https://www.linkedin.com/in/biswasic/
+  attendance: 0 in person, 0 online
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "Community"
+  event-post-date: "2026-02-01"
+  start-date-time: "2026-02-04 12:00"
+  end-date-time: "2026-02-04 13:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Y2lvZWRrZG82YzBxYm84b2NhY2Z2Njl2cWhfMjAyNjAyMDRUMTcwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
   more-info-link:
   
 - type: "social"
