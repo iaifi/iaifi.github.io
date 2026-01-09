@@ -27,7 +27,9 @@
 {% assign products = site.data.products | sort | reverse %}
 {% assign new_papers = false %}
 
+{% if new_papers %}
 ### Research Papers
+{% endif %}
 {% for product in products %}
 {% assign paper = product %}
 {% assign paper-date = paper.date-updated | date: '%s' | plus: 0 %}
