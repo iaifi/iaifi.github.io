@@ -1,0 +1,24 @@
+- type: "member-resource"
+  title: "Career and Mentorship"
+  description: "Check out our [career support](https://iaifi.org/career-support.html) and [mentorship](https://iaifi.org/ecec.html#mentorship-resources) resources, including resources both for mentors and mentees sourced from all IAIFI universities. See more resources in the [IAIFI README.](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing)"
+  order: 1
+  
+- type: "member-resource"
+  title: "How to Get Involved"
+  description: "Want to get involved in key IAIFI activities, from our semesterly socials to research communication and K-12 outreach? Consider joining one of our [Forums or Committees](https://iaifi.org/committees.html). Email [iaifi@mit.edu](mailto:iaifi@mit.edu) to learn more."
+  order: 2
+  
+- type: "member-resource"
+  title: "Research and Compute"
+  description: "Explore our research and computing resources, including: [compute resources for junior investigators](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?tab=t.0#heading=h.vnqyv49zdrtg); [monthly research highlights](https://iaifi.org/research.html#monthly-research-highlights); and [80+ plenary talk recordings from our Summer Workshops](https://www.youtube.com/@iaifiinstituteforaifundame3333/playlists). Also check out our [People Page](https://iaifi.org/people.html), where IAIFI investigators and affiliates list their research interests. See more resources in the [IAIFI README.](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing)"
+  order: 3
+  
+- type: "member-resource"
+  title: "Book a Penthouse Desk"
+  description: "Want to book a desk at the Penthouse (MIT 26-648), either for a short stint or for a semester or more? [Fill out the form here](https://app.smartsheet.com/b/form/49c21bb886164fc1a51f1ef6e9e130a8). Note that this is only available to Junior Investigators. See more resources in the [IAIFI README.](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing)"
+  order: 4
+  
+- type: "member-resource"
+  title: "IAIFI README"
+  description: "Check out the [IAIFI README](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing), a handy directory of resources & all things IAIFI."
+  order: 5
