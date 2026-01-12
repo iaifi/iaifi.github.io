@@ -17,11 +17,38 @@
 </div>
 <img src="https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:3600px;width:100%">
   
-<!-- Top navigation buttons -->
+<!-- Top navigation buttons, including an automation to determine if there is a research highlight and to include a button if so. -->
+{% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
+{% assign week_duration_in_seconds = 7 | times: 60 | times: 60 | times: 24 %}
+{% assign digest_start_in_seconds = digest_date | date: "%s" | plus: 0 %}
+{% assign digest_end_in_seconds = digest_start_in_seconds | plus: week_duration_in_seconds %}
+{% assign digest_next_in_seconds = digest_end_in_seconds | plus: week_duration_in_seconds %}
+{% assign digest_past_in_seconds = digest_start_in_seconds | minus: week_duration_in_seconds %}
+{% assign two_weeks = week_duration_in_seconds | times: 2 %}
+{% assign two_weeks_ago = digest_start_in_seconds | minus: two_weeks %}
+
+{% assign highlight_exists = 0 %}
+{% assign highlights = site.data.research-highlights | sort: "date-added" | reverse %}
+{% for highlight in highlights %}
+    {% assign highlight-date = highlight.date-added | date: '%s' | plus: 0 %}
+    {% unless highlight-date < digest_start_in_seconds and highlight-date >= two_weeks_ago%}{% continue %}{% endunless %}
+    {% assign highlight-exists = 1 %}
+    {% break %}
+{% endfor %}
+
 # {{title_string}}
 
+{% if highlight-exists ==1 %}
+[Events](#iaifi-events-calendar){:.button.button--outline-primary.button--pill.button--sm}
+[Research Highlight](#monthly-research-highlight){:.button.button--outline-primary.button--pill.button--sm}
+[Research Papers](#iaifi-research){:.button.button--outline-primary.button--pill.button--sm}
+[New Job Opportunities](#new-job-opportunities){:.button.button--outline-primary.button--pill.button--sm}
+[New Funding](#new-funding-opportunities){:.button.button--outline-primary.button--pill.button--sm}
+[IAIFI README](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--sm}
+{% else %}
 [Events](#iaifi-events-calendar){:.button.button--outline-primary.button--pill.button--sm}
 [Research](#iaifi-research){:.button.button--outline-primary.button--pill.button--sm}
 [New Job Opportunities](#new-job-opportunities){:.button.button--outline-primary.button--pill.button--sm}
 [New Funding](#new-funding-opportunities){:.button.button--outline-primary.button--pill.button--sm}
 [IAIFI README](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--sm}
+{% endif %}
