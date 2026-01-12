@@ -1,66 +1,45 @@
-<!-- Defining times -->
-{% assign reminder_date = "2025-04-18" %}
-{% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
-{% assign reminder_day_start_in_seconds = reminder_date | date: "%s" | plus: 0 %}
-{% assign reminder_day_end_in_seconds = reminder_day_start_in_seconds | plus: one_day_in_seconds %}
-{% assign current_date = "now" | date: "%s" | plus: 0 %}
+<!-- Getting basic event info -->
+{% assign talk = include.talk %}
+{% assign target_date = include.target_date %}
+{% assign event_date = talk.start-date-time | date: "%Y-%m-%d" %}
 
-{% if current_date > reminder_day_start_in_seconds and current_date < reminder_day_end_in_seconds %}
-<p style="font-size: 20px; text-align: center;">Reminder: Join us today for the following IAIFI event(s)!</p>
-{% else %}
-<p style="font-size: 20px; text-align: center;">Reminder: Join us this {{reminder_day_start_in_seconds | date: "%A"}} for the following IAIFI event(s)!</p>
+{% assign matches_target_day = false %}
+
+<!-- Check if event is on the target day -->
+{% if target_date == event_date %}
+  {% assign matches_target_day = true %}
 {% endif %}
 
-<!-- Getting all events and sorting them by time -->
-{% assign event_list = '' | split: '' %}
-{% for event_type in site.data.calendar.event_types %}
-{% assign event_list = event_list | concat: site.data[event_type] %}
-{% endfor %}
-{% assign event_list = event_list| sort: "start-date-time" %}
-
-{% for event in event_list %}
-
-<!-- Getting basic event info -->
-{% assign start_date = event.start-date-time | date: "%s" | plus: 0 %}
+{% assign start_date = talk.start-date-time | date: "%A, %B %e, %Y" %}
+{% assign end_date = talk.end-date-time | date: "%A, %B %e, %Y" %}
+{% assign start_time = talk.start-date-time | date: "%l:%M%P" %}
+{% assign end_time = talk.end-date-time | date: "%l:%M%P" %}
 
 <!-- Determining zoom link-->
 {% assign zoom_link = %}
-{% if event.talk-zoom %}
-  {% assign zoom_link = event.talk-zoom %}
-{% elsif site.data.talk-categories[event.type].zoom %}
-  {% assign zoom_link = site.data.talk-categories[event.type].zoom %}
+{% if talk.talk-zoom %}
+  {% assign zoom_link = talk.talk-zoom %}
+{% elsif site.data.talk-categories[talk.type].zoom %}
+  {% assign zoom_link = site.data.talk-categories[talk.type].zoom %}
 {% endif %}
 
-<!-- Event information -->
+<!-- Event information - only display if matches target day -->
+{% if matches_target_day %}
 
-{% unless event.type=="external-event" or event.type=="external-workshop" %}
-{% if start_date>reminder_day_start_in_seconds and start_date<reminder_day_end_in_seconds %}
-
-## {{site.data.talk-categories[event.type].name}}
-{%- if event.speaker-name %}
-  * **<a href="{{event.speaker-website}}">{{event.speaker-name}}</a> ({{event.speaker-affiliation}})**
+* {%- if talk.event-name %} **{{talk.event-name}}** {% else %} **{{site.data.talk-categories[talk.type].name}}**{%- endif -%}{%- if talk.speaker-name %}**: <a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a> ({{talk.speaker-affiliation}})**
+{%- endif %}
+  * **{{ start_date }}, {{ start_time }} – {{ end_time }},** **{{talk.talk-location}}**
+{%- if talk.talk-title %}
+  * *{{talk.talk-title}}*
+{%- endif %}
+{%- if talk.talk-abstract %}
+  * Abstract: *{{talk.talk-abstract}}*
 {%- endif -%}
-{%- if event.event-name %}
-  * **{{event.event-name}}**
+{%- if talk.event-details %}
+  * {{talk.event-details}}
 {%- endif -%}
-{%- if event.talk-title %}
-  * **{{event.talk-title}}**
-{%- endif -%}
-{%- if event.event-organizer %}
-  * Organized by {{event.event-organizer}}
-{%- endif -%}
-{%- if event.talk-abstract %}
-  * Abstract:  *{{event.talk-abstract}}*
-{%- endif -%}
-{%- if event.event-details %}
-  * {{event.event-details}}
-{%- endif -%}
-<br/>
-
-**Location: {{event.talk-location}}**
-
-{% if event.rsvp-link %}[RSVP/Sign Up]({{event.rsvp-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if zoom_link %}[Join on Zoom]({{zoom_link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if event.calendar-link %} [Add to Calendar]({{event.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %} {% if event.more-info-link %}[More Details]({{event.more-info-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
-  {%- endif -%}
-  {% endunless %}
-{% endfor %}
-    
+{%- if talk.rsvp-link or zoom_link or talk.calendar-link or talk.more-info-link %}
+<br>
+  {% if talk.rsvp-link %}[RSVP/Sign Up]({{talk.rsvp-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if zoom_link %}[Join on Zoom]({{zoom_link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if talk.calendar-link %} [Add to Calendar]({{talk.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %} {% if talk.more-info-link %}[More Details]({{talk.more-info-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
+{%- endif %}
+{% endif %}
