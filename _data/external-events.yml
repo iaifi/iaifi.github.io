@@ -1,3 +1,28 @@
+- type: "external-workshop"
+  event-name: "Statistical Physics for Ambitious Interpretability"
+  event-organizer: "Principles of Intelligence (PIBBSS)"
+  more-info-link: "https://princint.ai/"
+  event-post-date: "2026-01-11"
+  start-date-time: "2026-04-13 09:00"
+  end-date-time: "2026-04-17 17:00"
+  talk-location: "Cambridge, MA (exact location TBD)"
+  talk-zoom:
+  event-details: "We’re excited to announce an upcoming workshop: Statistical Physics for Ambitious Interpretability, hosted by Principles of Intelligence (PIBBSS), a non-profit AI safety research organization. We are excited to expand upon our first workshop, held in October, which brought together researchers in physics, CS, AI safety, and neuroscience and resulted in several exciting new directions. At this event, you can expect seminar-style talks, collaborative breakout sessions, and plenty of time for focused discussions. The workshop is free to attend, and space is limited to ensure production discussions. Please apply at the provided link."
+  calendar-link:
+  rsvp-link: "https://docs.google.com/forms/d/e/1FAIpQLScP_zb5jO0jyO6GPQvgWLL23mnoJK5s2F2nUoYEDDFxUoc2AQ/viewform?usp=header"
+
+- type: "external-event"
+  event-name: "AstroAI Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-01-11"
+  start-date-time: "2026-01-12 12:00"
+  end-date-time: "2026-01-12 13:00"
+  talk-location: "The Phillips Auditorium, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Kshitij Duraphe (UniverseTBD/Stealth)<br>Title: The Platonic Universe: Do foundation models see the same sky?<br>Abstract: A growing subset of astronomers has begun to experiment with foundation models trained on heterogeneous data, yet it remains unclear whether these different models learn compatible internal representations of the same underlying astrophysics. In this talk, I present an empirical study of representational convergence in both general-purpose and astronomy-specific foundation models: when models differ in architecture, training objective, and input modality, do their learned feature spaces nonetheless align in a way that suggests a shared latent description of astrophysics? In general-purpose text and vision models, such convergence has been reported as the Platonic Representation Hypothesis (PRH), but analogous tests in astronomy remain limited. Building on our prior work showing early evidence of this trend across general-purpose and astronomy-specific models, we reproduce a scaling pattern consistent with PRH for several self-supervised and astronomy-specialized models—representational alignment often increases with model capacity. However, this behavior is not universal: contrastively trained models frequently weaken or break the expected convergence signal. To characterize these differences, we introduce complementary metrics that probe alignment from multiple geometric perspectives and analyze whether, where, and at what depths convergence emerges. Finally, to connect representational similarity to scientific utility, I go beyond global scores and examine local distributional structure around individual representation elements in both general-purpose and astronomy-specific models, testing whether neighborhoods and activations reflect stable, physically meaningful factors of variation. Together, these results give some insight as to when representational convergence should be expected in astronomical foundation models and motivate diagnostics that more directly target the emergence of physics in learned embeddings."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Mmsxb3Vla2Roa2U0c2xhMHRtY3NqZ3M2NWkgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
 - type: "external-event"
   event-name: "AstroAI Talk"
   event-organizer: "AstroAI"

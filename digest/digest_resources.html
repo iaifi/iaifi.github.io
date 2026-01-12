@@ -1,0 +1,28 @@
+<!-- Papers -->
+{% assign one_day_in_seconds = 1.0 | times: 60 | times: 60 | times: 24 %}
+{% assign week_duration_in_seconds = 7 | times: 60 | times: 60 | times: 24 %}
+{% assign digest_start_in_seconds = digest_date | date: "%s" | plus: 0 %}
+{% assign digest_end_in_seconds = digest_start_in_seconds | plus: week_duration_in_seconds %}
+{% assign digest_next_in_seconds = digest_end_in_seconds | plus: week_duration_in_seconds %}
+{% assign digest_past_in_seconds = digest_start_in_seconds | minus: week_duration_in_seconds %}
+{% assign two_weeks = week_duration_in_seconds | times: 2 %}
+{% assign two_weeks_ago = digest_start_in_seconds | minus: two_weeks %}
+<!-- Calculating which Digest of the month it is -->
+{% assign day-of-month = "now" | date: "%d" | plus: 0%}
+{% assign numerator = day-of-month | plus: 6 %}
+{% assign denominator = 7 %}
+{% assign digest-number = numerator | divided_by: denominator %}
+{% assign resources = site.data.member-resources %}
+
+<!-- Assembling the research spotlight -->
+{% for resource in resources %}
+    {% if resource.order == digest-number %}
+### Resource Spotlight: {{resource.title}}<br>
+{{resource.description}}<br><br>
+[Provide feedback to IAIFI](https://forms.gle/hk2mrqjaLY8nCZrE6){:.button.button--outline-primary.button--pill.button--sm}
+    {% endif %}
+{% endfor %}
+
+
+
+
