@@ -1,0 +1,1724 @@
+<!DOCTYPE html><html lang="en">
+  <head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Lunch Discussions - NSF IAIFI</title>
+
+<meta name="description" content="Institute for Artificial Intelligence and Fundamental Interactions
+">
+<link rel="canonical" href="http://localhost:4000/lunch-discussions.html"><!-- <link rel="alternate" type="application/rss+xml" title="NSF IAIFI" href="/feed.xml"> --><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="stylesheet" href="/assets/css/main.css"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" ><!-- start custom head snippets -->
+
+<!-- end custom head snippets -->
+<script>(function() {
+  window.isArray = function(val) {
+    return Object.prototype.toString.call(val) === '[object Array]';
+  };
+  window.isString = function(val) {
+    return typeof val === 'string';
+  };
+
+  window.hasEvent = function(event) {
+    return 'on'.concat(event) in window.document;
+  };
+
+  window.isOverallScroller = function(node) {
+    return node === document.documentElement || node === document.body || node === window;
+  };
+
+  window.isFormElement = function(node) {
+    var tagName = node.tagName;
+    return tagName === 'INPUT' || tagName === 'SELECT' || tagName === 'TEXTAREA';
+  };
+
+  window.pageLoad = (function () {
+    var loaded = false, cbs = [];
+    window.addEventListener('load', function () {
+      var i;
+      loaded = true;
+      if (cbs.length > 0) {
+        for (i = 0; i < cbs.length; i++) {
+          cbs[i]();
+        }
+      }
+    });
+    return {
+      then: function(cb) {
+        cb && (loaded ? cb() : (cbs.push(cb)));
+      }
+    };
+  })();
+})();
+(function() {
+  window.throttle = function(func, wait) {
+    var args, result, thisArg, timeoutId, lastCalled = 0;
+
+    function trailingCall() {
+      lastCalled = new Date;
+      timeoutId = null;
+      result = func.apply(thisArg, args);
+    }
+    return function() {
+      var now = new Date,
+        remaining = wait - (now - lastCalled);
+
+      args = arguments;
+      thisArg = this;
+
+      if (remaining <= 0) {
+        clearTimeout(timeoutId);
+        timeoutId = null;
+        lastCalled = now;
+        result = func.apply(thisArg, args);
+      } else if (!timeoutId) {
+        timeoutId = setTimeout(trailingCall, remaining);
+      }
+      return result;
+    };
+  };
+})();
+(function() {
+  var Set = (function() {
+    var add = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (data[i] === item) {
+          return;
+        }
+      }
+      this.size ++;
+      data.push(item);
+      return data;
+    };
+
+    var Set = function(data) {
+      this.size = 0;
+      this._data = [];
+      var i;
+      if (data.length > 0) {
+        for (i = 0; i < data.length; i++) {
+          add.call(this, data[i]);
+        }
+      }
+    };
+    Set.prototype.add = add;
+    Set.prototype.get = function(index) { return this._data[index]; };
+    Set.prototype.has = function(item) {
+      var i, data = this._data;
+      for (i = 0; i < data.length; i++) {
+        if (this.get(i) === item) {
+          return true;
+        }
+      }
+      return false;
+    };
+    Set.prototype.is = function(map) {
+      if (map._data.length !== this._data.length) { return false; }
+      var i, j, flag, tData = this._data, mData = map._data;
+      for (i = 0; i < tData.length; i++) {
+        for (flag = false, j = 0; j < mData.length; j++) {
+          if (tData[i] === mData[j]) {
+            flag = true;
+            break;
+          }
+        }
+        if (!flag) { return false; }
+      }
+      return true;
+    };
+    Set.prototype.values = function() {
+      return this._data;
+    };
+    return Set;
+  })();
+
+  window.Lazyload = (function(doc) {
+    var queue = {js: [], css: []}, sources = {js: {}, css: {}}, context = this;
+    var createNode = function(name, attrs) {
+      var node = doc.createElement(name), attr;
+      for (attr in attrs) {
+        if (attrs.hasOwnProperty(attr)) {
+          node.setAttribute(attr, attrs[attr]);
+        }
+      }
+      return node;
+    };
+    var end = function(type, url) {
+      var s, q, qi, cbs, i, j, cur, val, flag;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        s[url] = true;
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (cur.urls.has(url)) {
+            qi = cur, val = qi.urls.values();
+            qi && (cbs = qi.callbacks);
+            for (flag = true, j = 0; j < val.length; j++) {
+              cur = val[j];
+              if (!s[cur]) {
+                flag = false;
+              }
+            }
+            if (flag && cbs && cbs.length > 0) {
+              for (j = 0; j < cbs.length; j++) {
+                cbs[j].call(context);
+              }
+              qi.load = true;
+            }
+          }
+        }
+      }
+    };
+    var load = function(type, urls, callback) {
+      var s, q, qi, node, i, cur,
+        _urls = typeof urls === 'string' ? new Set([urls]) : new Set(urls), val, url;
+      if (type === 'js' || type ==='css') {
+        s = sources[type], q = queue[type];
+        for (i = 0; i < q.length; i++) {
+          cur = q[i];
+          if (_urls.is(cur.urls)) {
+            qi = cur;
+            break;
+          }
+        }
+        val = _urls.values();
+        if (qi) {
+          callback && (qi.load || qi.callbacks.push(callback));
+          callback && (qi.load && callback());
+        } else {
+          q.push({
+            urls: _urls,
+            callbacks: callback ? [callback] : [],
+            load: false
+          });
+          for (i = 0; i < val.length; i++) {
+            node = null, url = val[i];
+            if (s[url] === undefined) {
+              (type === 'js' ) && (node = createNode('script', { src: url }));
+              (type === 'css') && (node = createNode('link', { rel: 'stylesheet', href: url }));
+              if (node) {
+                node.onload = (function(type, url) {
+                  return function() {
+                    end(type, url);
+                  };
+                })(type, url);
+                (doc.head || doc.body).appendChild(node);
+                s[url] = false;
+              }
+            }
+          }
+        }
+      }
+    };
+    return {
+      js: function(url, callback) {
+        load('js', url, callback);
+      },
+      css: function(url, callback) {
+        load('css', url, callback);
+      }
+    };
+  })(this.document);
+})();
+</script><script>
+  (function() {
+    var TEXT_VARIABLES = {
+      version: '2.2.6',
+      sources: {
+        font_awesome: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css',
+        jquery: 'https://unpkg.com/jquery@3.3.1/dist/jquery.min.js',
+        leancloud_js_sdk: '//cdn.jsdelivr.net/npm/leancloud-storage@3.13.2/dist/av-min.js',
+        chart: 'https://unpkg.com/chart.js@2.7.2/dist/Chart.min.js',
+        gitalk: {
+          js: 'https://unpkg.com/gitalk@1.2.2/dist/gitalk.min.js',
+          css: 'https://unpkg.com/gitalk@1.2.2/dist/gitalk.css'
+        },
+        valine: 'https//unpkg.com/valine/dist/Valine.min.js',
+        mathjax: 'https://unpkg.com/mathjax@2.7.4/unpacked/MathJax.js?config=TeX-MML-AM_CHTML',
+        mermaid: 'https://unpkg.com/mermaid@8.0.0-rc.8/dist/mermaid.min.js'
+      },
+      site: {
+        toc: {
+          selectors: 'h1,h2,h3'
+        }
+      },
+      paths: {
+        search_js: '/assets/search.js'
+      }
+    };
+    window.TEXT_VARIABLES = TEXT_VARIABLES;
+  })();
+</script>
+</head>
+  <body>
+    <div class="root" data-is-touch="false">
+      <div class="layout--page js-page-root"><div class="page__main js-page-main page__viewport has-aside cell cell--auto">
+
+      <div class="page__main-inner"><div class="page__header d-print-none">
+
+
+<header class="header">
+<!--<div class="main">-->
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid"><!--<a title="Institute for Artificial Intelligence and Fundamental Interactions
+" href="/">NSF IAIFI</a>-->
+    <a class="navbar-brand" href="/">
+      <img src="assets/logo/whitelogo.svg" alt="" height="35rem">
+    </a>
+  <div class="header__brand">
+    <a title="Institute for Artificial Intelligence and Fundamental Interactions
+" href="/"  style="padding-top: 0.25em;">NSF IAIFI</a>
+   </div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <!--
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">About</a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  <li><a class="dropdown-item" href="/about.html">Overview</a></li>
+               
+                  <li><a class="dropdown-item" href="/code-of-conduct.html">Code of Conduct</a></li>
+               
+                  <li><a class="dropdown-item" href="/iaifi-news.html">News</a></li>
+               
+                  <li><a class="dropdown-item" href="/faq.html">FAQ</a></li>
+               
+             </ul>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Events</a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  <li><a class="dropdown-item" href="/events-calendar.html">Calendar</a></li>
+               
+                  <li><a class="dropdown-item" href="/phd-summer-school.html">Summer School</a></li>
+               
+                  <li><a class="dropdown-item" href="/summer-workshop.html">Summer Workshop</a></li>
+               
+                  <li><a class="dropdown-item" href="/hackathons-workshops.html">Hackathons & Workshops</a></li>
+               
+                  <li><a class="dropdown-item" href="/events.html">Colloquia</a></li>
+               
+                  <li><a class="dropdown-item" href="/seminars.html">Seminars</a></li>
+               
+                  <li><a class="dropdown-item" href="/lunch-discussions.html">Lunch Discussions (fka. Journal Club)</a></li>
+               
+                  <li><a class="dropdown-item" href="/lightning-talks.html">Thematic Discussions</a></li>
+               
+                  <li><a class="dropdown-item" href="/industry-lunches.html">Industry Lunches</a></li>
+               
+                  <li><a class="dropdown-item" href="/social-events.html">Social Events</a></li>
+               
+                  <li><a class="dropdown-item" href="/related-events.html">Related External</a></li>
+               
+             </ul>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">People</a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  <li><a class="dropdown-item" href="/people.html">Current</a></li>
+               
+                  <li><a class="dropdown-item" href="/current-fellows.html">IAIFI Fellows</a></li>
+               
+                  <li><a class="dropdown-item" href="/alumni.html">Alumni</a></li>
+               
+                  <li><a class="dropdown-item" href="/advisors.html">Advisors</a></li>
+               
+                  <li><a class="dropdown-item" href="/join.html">Join</a></li>
+               
+                  <li><a class="dropdown-item" href="/committees.html">Committees</a></li>
+               
+             </ul>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Research</a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  <li><a class="dropdown-item" href="/research.html">Overview</a></li>
+               
+                  <li><a class="dropdown-item" href="/domain-research.html">Research by Domain</a></li>
+               
+                  <li><a class="dropdown-item" href="/papers.html">Papers and Code</a></li>
+               
+                  <li><a class="dropdown-item" href="/lightning-talks.html">Thematic Discussions</a></li>
+               
+             </ul>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Talent</a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  <li><a class="dropdown-item" href="/fellows.html">IAIFI Fellowship</a></li>
+               
+                  <li><a class="dropdown-item" href="/current-fellows.html">IAIFI Fellows</a></li>
+               
+                  <li><a class="dropdown-item" href="/phd-summer-school.html">Summer School</a></li>
+               
+                  <li><a class="dropdown-item" href="/ecec.html">Early Career and Ethics</a></li>
+               
+                  <li><a class="dropdown-item" href="/lunch-discussions.html">Lunch Discussions (fka. Journal Club)</a></li>
+               
+                  <li><a class="dropdown-item" href="/education.html">Education</a></li>
+               
+                  <li><a class="dropdown-item" href="/career-support.html">Career Support</a></li>
+               
+                  <li><a class="dropdown-item" href="/job-board.html">Job Board</a></li>
+               
+                  <li><a class="dropdown-item" href="/funding-opportunities.html">Funding Opportunities</a></li>
+               
+             </ul>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Community</a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                
+                  <li><a class="dropdown-item" href="/outreach.html">Public Engagement</a></li>
+               
+                  <li><a class="dropdown-item" href="/partnerships.html">Physics/AI Network</a></li>
+               
+                  <li><a class="dropdown-item" href="/summer-workshop.html">Summer Workshop</a></li>
+               
+                  <li><a class="dropdown-item" href="/events.html">Colloquia</a></li>
+               
+                  <li><a class="dropdown-item" href="/seminars.html">Seminars</a></li>
+               
+                  <li><a class="dropdown-item" href="/hackathons-workshops.html">Hackathons & Workshops</a></li>
+               
+                  <li><a class="dropdown-item" href="/industry-partners.html">Industry Partners</a></li>
+               
+             </ul><li class="nav-item">
+            <a class="nav-link" href="/join.html">Join</a>
+          </li><li class="nav-item">
+            <a class="nav-link" href="/member-resources.html">For Members</a>
+          </li></ul>
+    </div>
+  </div>
+</nav>
+
+
+<!--
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="/">IAIFI</a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNavbar">
+      <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapseNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>
+-->
+
+<!--</div>-->
+</header>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+<!--
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+-->
+</div><div class="page__content"><div class ="main"><div class="grid grid--reverse">
+
+              <div class="col-aside d-print-none js-col-aside"><aside class="page__aside js-page-aside"><div class="toc-aside js-toc-root"></div>
+</aside></div>
+
+              <div class="col-main cell cell--auto"><!-- start custom main top snippet -->
+
+<!-- end custom main top snippet -->
+<article itemscope itemtype="http://schema.org/Article"><div class="article__header"><header><h1>Lunch Discussions</h1></header></div><meta itemprop="headline" content="Lunch Discussions"><meta itemprop="author" content="IAIFI"/><div class="js-article-content"><div class="layout--article"><!-- start custom article top snippet -->
+
+<!-- end custom article top snippet -->
+<div class="article__content" itemprop="articleBody"><!-- Note that this pulls data from the journal-club.yml file, as of January 2026. There is no lunch-discussions.yml file.-->
+<p>The IAIFI Lunch Discussions are open to IAIFI members and affiliates. <em>Formerly called the IAIFI Journal Club.</em></p>
+
+<p><a href="https://forms.gle/zfpT4QQdXg8tu6VB7">Suggest a discussion topic, or sign up to lead a discussion!</a></p>
+
+<h2 id="upcoming-lunch-discussions">Upcoming Lunch Discussions</h2>
+
+<h2 id="past-lunch-discussions">Past Lunch Discussions</h2>
+
+<h3 id="spring-2026">Spring 2026</h3>
+
+<h3 id="fall-2025">Fall 2025</h3>
+
+<ul>
+  <li><strong><a href="https://scholar.google.com/citations?user=YA-9__4AAAAJ&amp;hl=en&amp;oi=ao">José M. Munoz Arias</a>, Graduate Student, MIT</strong>
+    <ul>
+      <li><strong>Wednesday, December 10, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>A Differentiable Physics-Driven Matrix Emulator for Linking the Strong Force with Nuclear Observables</em></li>
+      <li>I will present FRAME (Fidelity-Resolved Affine Matrix Emulator), a novel architecture for ab initio nuclear emulation that bridges the gap between data-driven surrogates and structure-preserving reduced basis methods. FRAME combines a global latent encoder with a Parametric Matrix Model (PMM) core, giving a physics-respecting model by design and enabling rigorous multi-fidelity extrapolation across computational model spaces. I will demonstrate how this differentiable framework allowed us to use a likelihood-integrated sensitivity analysis, revealing how electromagnetic moments resolve blind spots in the Chiral Effective Field Theory parameter space that remain invisible to traditional bulk observables.</li>
+      <li><a href="https://drive.google.com/file/d/1MqvaDC0-xAIY3vYv5sPEdVxxqGWTHkoP/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://github.com/felixyu7">Felix Yu</a>, Graduate Student, Harvard</strong>
+    <ul>
+      <li><strong>Wednesday, December  3, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Reducing Simulation Dependence in Neutrino Telescopes with Masked Point Transformers</em></li>
+      <li>Machine learning techniques in neutrino physics have traditionally relied on simulated data, which provides access to ground-truth labels. However, the accuracy of these simulations and the discrepancies between simulated and real data remain significant concerns, particularly for large-scale neutrino telescopes that operate in complex natural media. In recent years, self-supervised learning has emerged as a powerful paradigm for reducing dependence on labeled datasets. Here, we present the first self-supervised training pipeline for neutrino telescopes, leveraging point cloud transformers and masked autoencoders. By shifting the majority of training to real data, this approach minimizes reliance on simulations, thereby mitigating associated systematic uncertainties. This represents a fundamental departure from previous machine learning applications in neutrino telescopes, paving the way for substantial improvements in event reconstruction and classification.</li>
+      <li><a href="https://drive.google.com/file/d/1IQErwltDRnmQcvukrKujyu19nApY7OD7/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://github.com/AizhanaAkhmet">Aizhan Akhmetzhanova</a>, Graduate Student, Harvard University</strong>
+    <ul>
+      <li><strong>Wednesday, November 19, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>A Data-Driven Prism: Multi-View Source Separation with Diffusion Model Priors</em></li>
+      <li>A common challenge in the natural sciences is to disentangle distinct, unknown sources from observations. Examples of this source separation task include deblending galaxies in a crowded field, distinguishing the activity of individual neurons from overlapping signals, and separating seismic events from an ambient background. Traditional analyses often rely on simplified source models that fail to accurately reproduce the data. Recent advances have shown that diffusion models can directly learn complex prior distributions from noisy, incomplete data. In this work, we show that diffusion models can solve the source separation problem without explicit assumptions about the source. Our method relies only on multiple views, or the property that different sets of observations contain different linear transformations of the unknown sources. We show that our method succeeds even when no source is individually observed and the observations are noisy, incomplete, and vary in resolution. The learned diffusion models enable us to sample from the source priors, evaluate the probability of candidate sources, and draw from the joint posterior of the source distribution given an observation. We demonstrate the effectiveness of our method on a range of synthetic problems as well as real-world galaxy observations.</li>
+      <li><a href="https://drive.google.com/file/d/1dSQTem02howUmILeojNuB1LtqW5LEdMc/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.sachinvaidya.com">Sachin Vaidya</a>, Postdoctoral Associate, MIT</strong>
+    <ul>
+      <li><strong>Wednesday, November 12, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Overcoming the Experimental Bottleneck with AI and Robotics</em></li>
+      <li>Scientific discovery remains fundamentally constrained by slow, manual, and intuition-driven laboratory experiments that struggle to scale across high-dimensional parameter spaces. AI and robotics now offer an exciting opportunity to directly address this bottleneck, but doing so will require reimagining the experimental process itself. In this talk, I will discuss the challenges involved in enabling autonomous scientific discovery in the laboratory. I will present our recent work on AI-driven robotics for optics, highlighting strategies for overcoming these challenges in real-world settings. Specifically, I will demonstrate a full experimental loop in which an LLM-based agent designs spatially aware optical setups that are then physically assembled and aligned by a robotic arm. I will conclude by outlining open problems that are critical to realizing truly intelligent laboratories capable of autonomous scientific discovery.</li>
+      <li><a href="https://drive.google.com/file/d/1Po6wL1rH-NrxYH88z2rIUKEqWNjLAxgD/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.space.mit.edu/people/pablo-mercader-perez/">Pablo Mercader Perez</a>, Graduate Student, MIT</strong>
+    <ul>
+      <li><strong>Wednesday, November  5, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Disentangled Representation Learning for Separating Physics from Systematics in Astrophysical Observations</em></li>
+      <li>Astrophysical observations typically consist of at least two sources: a signal from the underlying physical phenomenon, and a signal coming from systematic distortions and noise introduced by the measurement instrument (e.g., a space telescope). This secondary signal acts as a confounding factor that limits our ability to extract information about the physics of the observed phenomena. Furthermore, it constrains our ability to combine observations in heterogeneous or multi-instrument settings. In this work, we are exploring a deep learning model that explicitly disentangles physical and instrumental factors using a dual-encoder architecture. We leverage triplets of overlapping observations: different instruments observing the same events, and each telescope observing different events. With this setup and a data-driven approach we can learn to combine data from multiple sources. On top of enabling the training of a model capable of extracting disentangled representations, this technique naturally yields the ability to reconstruct observations as if they were taken by a different instrument, that is, generating novel counterfactual views and estimate uncertainty on reconstructions.</li>
+      <li><a href="https://drive.google.com/file/d/1hGfxlP4VWsmThyvNLl5F3MHdvO1CgfMU/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.javiercarron.com/">Javier Carrón Duque</a>, Postdoctoral Researcher, IFT (Institute of Theoretical Physics)</strong>
+    <ul>
+      <li><strong>Wednesday, October 22, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Can the Topology of the Universe affect the CMB? (and how ML is helping)</em></li>
+      <li>In Cosmology we often assume large-scale homogeneity and isotropy, i.e., the Cosmological Principle. Well-motivated scenarios, such as a non-trivial Topology of the Universe, can break this assumption, introducing off-diagonal covariances in quantites that are usually uncorrelated (e.g., the spherical harmonics coefficients of the CMB). I will outline what changes when isotropy is relaxed and how it changes the likelihood, making this a computationally difficult problem to tackle with traditional techniques. I will then show how Machine Learning methods, including rotational invariant models, are starting to enable searches for the topology of the universe using CMB data and, in the near future, large-scale-structure data. Time allowing, I will briefly mention other projects in which I am involved. Based on papers by the COMPACT Collaboration, including, e.g., 2404.01236, 2306.17112 , and ongoing work.</li>
+      <li><a href="https://drive.google.com/file/d/1cmLV1RbCCylMY95csjiKFnC5wfrpGcyc/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://web.mit.edu/dikaiser/www/">David Kaiser</a>, Germeshausen Professor of the History of Science and Professor of Physics, MIT</strong>
+    <ul>
+      <li><strong>Wednesday, October 15, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Generative AI and the Natural Sciences: Opportunities and Continuing Challenges</em></li>
+      <li>Generative AI tools offer many exciting opportunities in the natural sciences. But there also remain significant challenges, ranging from unsustainable resource requirements, to limited human interpretability, to so-called “hallucinations” of data, and beyond. Drawing on recent research published in the peer-reviewed MIT Case Studies Series on Social and Ethical Responsibilities of Computing (SERC), and on a recent consensus statement issued by a working group on generative AI and scientific integrity from the US National Academy of Sciences, I will highlight some areas of continuing concern.</li>
+      <li><a href="https://drive.google.com/file/d/1SgBfQICSFgXm2Y93xuPXqowTpGefnwP0/view?usp=sharing">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.linkedin.com/in/joydeep-naskar-39035844/">Joydeep Naskar</a>, Graduate Student, Northeastern University</strong>
+    <ul>
+      <li><strong>Wednesday, October  8, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Neural Network Field Theories- Conformal Correlators</em></li>
+      <li>In this talk, I will discuss the program to use neural networks at initialization to construct field theories and review some recent progress in this direction with a focus on conformal fields. In particular, I will discuss some simple examples of primaries, define OPEs, compute exact four point functions and extract the operator spectrum using conformal bootstrap techniques. We will briefly discuss their generalization to spinning primaries, and comment on the progress on their application to Carrollian correlators for flat space holography.</li>
+      <li><a href="https://drive.google.com/file/d/1uWcS4I3DipCWJyR83aBplKwWUH-ec-h6/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://andrewmaris.com/">Andrew Maris</a>, Graduate Student, MIT</strong>
+    <ul>
+      <li><strong>Wednesday, October  1, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>When plasmas hit their limit: interpretable ML insights into fusion density</em></li>
+      <li>Achieving high plasma density is critical for fusion energy, since the fusion power density scales approximately as $n^2$. Yet the leading class of magnetic fusion experiments is constrained by a longstanding “density limit,” beyond which confinement collapses. In this study, we apply interpretable machine learning methods to multi-machine datasets drawn from five fusion facilities worldwide to investigate the physics of this limit. Our analysis reveals a robust, positive correlation between the achievable density and plasma temperature, consistent across devices. This result suggests that higher-temperature experiments under construction today may sustain significantly higher densities, and thus higher fusion power, than previously anticipated.</li>
+      <li><a href="https://drive.google.com/drive/folders/1Gk9zZC1dHq1LX6un94zWYe4qokk2MTAd?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://filippogaggioli.webflow.io/">Filippo Gaggioli</a>, Postdoc, MIT</strong>
+    <ul>
+      <li><strong>Wednesday, September 24, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Finding a Needle in Quantum Haystack with Deep Neural Networks</em></li>
+      <li>Neural networks (NNs) have great potential in solving the ground state of various many-body problems. However, several key challenges remain to be overcome before NNs can tackle problems and system sizes inaccessible with more established tools. Here, we present a general and efficient method for learning the NN representation of an arbitrary many-body complex wave function from its N-particle probability density and probability current density. Having reached overlaps as large as 99.9%, we employ our neural wave function for pre-training to effortlessly solve the fractional quantum Hall problem with Coulomb interactions and realistic Landau-level mixing for as many as 25 particles and uncover distinctive features of the edge. Our work demonstrates efficient, accurate simulation of highly-entangled quantum matter using general-purpose deep NNs enhanced with physics-informed initialization.</li>
+      <li><a href="https://drive.google.com/file/d/1Uzyayur5HHDV3iBV_vp6ra1QSayIEGUV/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.linkedin.com/in/max-geier-8733ab340/">Max Geier</a>, Postdoctoral Researcher, MIT</strong>
+    <ul>
+      <li><strong>Wednesday, September 17, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Is attention all you need to solve the correlated electron problem?</em></li>
+      <li>The attention mechanism has transformed artificial intelligence research by its ability to learn relations between objects. In this work, we explore how a many-body wavefunction ansatz constructed from a many-parameter self-attention neural network can be used to solve the interacting electron problem in solids. By a systematic neural-network variational Monte Carlo study on a moire quantum material, we demonstrate that the self-attention ansatz provides an accurate and efficient solution without human bias. Moreover, our numerical study finds that the required number of variational parameters scales roughly as N 2 with the number of electrons, which opens a path towards efficient large-scale simulations. References: Physical Review B 112 (4), 045119; arXiv:2509.03683</li>
+      <li><a href="https://drive.google.com/file/d/1NAYZ8iZIRuVqL00Jf_F6eQgaF5YeOW_z/view?usp=sharing">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.linkedin.com/in/omaralterkait/">Omar Alterkait</a>, Graduate Student, Tufts University</strong>
+    <ul>
+      <li><strong>Wednesday, September 10, 2025, 11:00am–12:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Advancing Event Reconstruction and Calibration via Differentiable Optical Detector Simulation</em></li>
+      <li>Next-generation Water Cherenkov detectors aim to probe fundamental questions in neutrino physics. These measurements demand unprecedented precision in detector calibration and event reconstruction that push beyond traditional Monte Carlo techniques. We present LUCiD, the first differentiable ray-tracing framework for optical particle detectors. Rather than sampling discrete photon paths, LUCiD computes expected detector responses by propagating probability weights through the optical system, with all operations differentiable end-to-end. Processing one million photons with gradients takes tens of milliseconds on a single GPU, four orders of magnitude faster than traditional CPU-based simulations.<br />This differentiable approach enables direct navigation through high-dimensional, strongly correlated parameter spaces where sampling methods struggle. We demonstrate simultaneous gradient-based calibration of critical detector parameters including scattering length, attenuation length, and reflection coefficients. For event reconstruction, LUCiD achieves performance competitive with state-of-the-art machine learning methods while maintaining complete visibility into the underlying physics. The framework seamlessly incorporates neural network surrogates for unknown phenomena without sacrificing interpretability. LUCiD’s high-throughput capabilities also position it as an efficient platform for producing large-scale training datasets for foundation models in future neutrino physics research. This work represents a paradigm shift in how we approach next-generation neutrino experiments through differentiable programming.</li>
+      <li><a href="https://drive.google.com/file/d/1oTFmoknnSaG_rNe3K40EWTlHnHqKrpAW/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="spring-2025">Spring 2025</h3>
+
+<ul>
+  <li><strong><a href="https://inspirehep.net/authors/1631279">Aishik Ghosh</a>, Postdoc, University of California Irvine</strong>
+    <ul>
+      <li><strong>Tuesday, May 13, 2025,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Probing High-Dimensional Spaces: From Theory Design in Phenomenology to Parameter Inference in ATLAS</em></li>
+      <li>When confronted with extremely high-dimensional problems, physicists traditionally reduce the challenge to a lower dimensional representation where they can build intuition. For example, experimental particle physicists may condense hundreds of millions of dimensions from detector readouts into a one-dimensional histogram of reconstructed particle energy. I will demonstrate that such dramatic data reduction makes it impossible to capture all the relevant information necessary for optimal statistical inference for the Higgs width measurement at the LHC. We design a generalisation of traditional methodology in ATLAS to perform statistical inference directly on high-dimensional data, enabled by powerful uncertainty quantification and propagation tools. This leads to the most precise measurement of the Higgs width by the experiment to date. Similarly, a significant challenge in theoretical physics is the vast mathematical space of potential theories to describe our Universe. I lead the design of a more efficient framework for model building in neutrino physics, leveraging newly available computational and AI tools to uncover new avenues for neutrino theory model building.</li>
+      <li><a href="https://drive.google.com/file/d/1XcldXmUGeXNEewHQbZp-LOeyKDCsf_xo/view?usp=sharing">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.linkedin.com/in/shannon-swilley-greco-94728180/">Shannon Greco</a>, Science Education Senior Program Leader, Princeton Plasma Physics Laboratory</strong>
+    <ul>
+      <li><strong>Tuesday, May  6, 2025,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Bridging the Gap: Culturally Responsive Science Communication for Early Career Scientists</em></li>
+      <li>Effective science communication is essential for fostering trust, relevance, and impact across diverse communities. This interactive workshop equips early career scientists with practical tools to communicate their research clearly and compellingly to a variety of audiences, from policymakers to the public. With a focus on two-way, culturally responsive engagement, participants will explore how to listen actively, adapt messages to different contexts, and co-create understanding with their audiences. The workshop models two-way engagement throughout, responding to participant needs and incorporating their experiences into real-time practice. Attendees will leave with enhanced communication skills and a framework for building authentic, inclusive connections through their scientific work. <b>Note: The speaker will be on Zoom, but we will still serve lunch in the Penthouse for those who would like to participate in person.</b></li>
+      <li><a href="https://docs.google.com/document/d/1NLxErvp_UB1MXcOEG5fNoM7x0pSuvGFwnePKFCklccQ/edit?usp=sharing">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.ias.edu/scholars/michael-winer">Michael Winer</a>, Scholar, Institute for Advanced Study</strong>
+    <ul>
+      <li><strong>Tuesday, April 29, 2025,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Deep Neural Nets as Hamiltonians</em></li>
+      <li>Neural networks are complex functions of both their inputs and parameters. Much prior work in deep learning theory analyzes the distribution of network outputs at a fixed a set of inputs (e.g. a training dataset) over random initializations of the network parameters. The purpose of this article is to consider the opposite situation: we view a randomly initialized Multi-Layer Perceptron (MLP) as a Hamiltonian over its inputs. For typical realizations of the network parameters, we study the properties of the energy landscape induced by this Hamiltonian, focusing on the structure of near-global minimum in the limit of infinite width. Specifically, we use the replica trick to perform an exact analytic calculation giving the entropy (log volume of space) at a given energy. We further derive saddle point equations that describe the overlaps between inputs sampled iid from the Gibbs distribution induced by the random MLP. For linear activations we solve these saddle point equations exactly. But we also solve them numerically for a variety of depths and activation functions, including tanh,sin,ReLU, and shaped non-linearities. We find even at infinite width a rich range of behaviors. For some non-linearities, such as sin, for instance, we find that the landscapes of random MLPs exhibit full replica symmetry breaking, while shallow tanh and ReLU networks or deep shaped MLPs are instead replica symmetric.</li>
+      <li><a href="https://drive.google.com/file/d/1p6bn9srW9mOEuG_kefEDpYZYX3c3GOgQ/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://adyoussef.github.io/">Ahmed Youssef</a>, PhD Candidate, The University of Cincinnati</strong>
+    <ul>
+      <li><strong>Tuesday, April 15, 2025,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Learning to Hadronize: Machine Learning at the Frontier of Particle Physics</em></li>
+      <li>Hadronization—the process by which quarks and gluons combine into observable hadrons—remains one of the most complex and least understood aspects of high-energy physics. Traditionally modeled through phenomenological frameworks, this non-perturbative transition introduces major uncertainties in collider simulations. This talk presents a machine learning perspective on the hadronization problem, highlighting recent advances in MLHad, a generative modeling framework for learning data-driven parton-to-hadron mappings. I will also introduce VISTAS, an interactive visualization tool for exploring the internal structure of simulated events, including parton showers and hadron formation. Together, these tools demonstrate how modern ML can enhance the flexibility and precision of simulations, offering new capabilities at the intersection of theory, data, and computation.</li>
+      <li><a href="https://drive.google.com/file/d/18nXSrSgCfzietYo8tTCTJcY6dBut18wT/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Denis Boyda (Meta AI, Former IAIFI Fellow), Emmanouil Theodosis (Grad Student, Harvard), Steven Eulig (Research Scientist, EMD Electronics and Harvard University)</a>, , organized by the Industry Partnership Committee</strong>
+    <ul>
+      <li><strong>Tuesday, April  1, 2025,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Career Advice Panel</em></li>
+      <li>Three panelists in the IAIFI community will share about their experiences in academia and industry, and will discuss advice and tips for pursuing career goals. This will be followed by Q&amp;A with attendees. Lunch and refreshments will be provided!</li>
+      <li><a href="https://drive.google.com/drive/folders/1SjNDbAfeg1h9ZkGqhytHYH0jhisKjUsx?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.linkedin.com/in/dennis-noll/">Dennis Noll</a>, Postdoctoral Researcher, Berkeley Lab</strong>
+    <ul>
+      <li><strong>Tuesday, March 18, 2025,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Machine Learning-Driven Anomaly Detection in Dijet Events with ATLAS</em></li>
+      <li>This talk will explore an anomaly detection search for narrow-width resonances beyond the Standard Model that decay into a pair of jets. Using 139 fb−1 of proton-proton collision data at sqrt(s) = 13 TeV, recorded from 2015 to 2018 with the ATLAS detector at the Large Hadron Collider, we aim to identify new physics without relying on a specific signal model. The analysis employs two machine learning strategies to estimate the background in different signal regions, with weakly supervised classifiers trained to differentiate this background estimate from actual data. We focus on high transverse momentum jets reconstructed as large-radius jets, using their mass and substructure as classifier inputs. After a classifier-based selection, we analyze the invariant mass distribution of the jet pairs for potential local excesses. Our model-independent results indicate no significant local excesses and we inject a representative set of signal models into the data to evaluate the sensitivity of our methods. This contribution discusses the used methods and latest results and highlights the potential of machine learning in enhancing the search for new physics in fundamental particle interactions.</li>
+      <li><a href="https://drive.google.com/file/d/15_WNKzE0qmyRywOmOMWFqaJCDiwngKdI/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://cbattiloro.com/">Claudio Battiloro</a>, Postdoctoral Fellow, Harvard T.H. Chan School of Public Health</strong>
+    <ul>
+      <li><strong>Tuesday, March 11, 2025,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>E(n) Equivariant Topological Neural Networks</em></li>
+      <li>In this journal club presentation, we review a paper that examines the limitations of conventional graph neural networks (GNNs) in modeling higher-order interactions and introduces topological deep learning (TDL) as a promising alternative. While GNNs excel at modeling pairwise interactions, they struggle to flexibly accommodate arbitrary multi-way, hierarchical interactions and features. TDL addresses this challenge by operating on combinatorial topological spaces, such as simplicial or cell complexes, instead of traditional graphs. However, little is known about how to leverage geometric features—such as positions and velocities—within TDL frameworks. The paper introduces E(n)-Equivariant Topological Neural Networks (ETNNs), which are E(n)-equivariant message-passing networks operating on combinatorial complexes that unify graphs, hypergraphs, simplicial, path, and cell complexes. ETNNs incorporate geometric node features while respecting rotation, reflection, and translation equivariance, and as TDL models, they are naturally suited for settings with heterogeneous interactions. The authors provide a theoretical analysis demonstrating the improved expressiveness of ETNNs over architectures for geometric graphs, and they derive E(n)-equivariant variants of TDL models directly from their framework. The broad applicability of ETNNs is showcased through two tasks: (i) molecular property prediction on the QM9 benchmark and (ii) land-use regression for hyper-local estimation of air pollution using multi-resolution irregular geospatial data. The results indicate that ETNNs are an effective tool for learning from diverse types of richly structured data, matching or surpassing state-of-the-art equivariant TDL models with a significantly smaller computational burden—thus highlighting the benefits of a principled geometric inductive bias. We will discuss these findings and their implications in today’s session.</li>
+      <li><a href="https://drive.google.com/file/d/1d08CTe-VuUeUtCE-ywHXE-nAo5GusR1Y/view?usp=sharing">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.mit.edu/~ziyinl/index.html">Liu Ziyin</a>, Postdoctoral Fellow, Research Laboratory of Electronics (MIT) and NTT Research</strong>
+    <ul>
+      <li><strong>Tuesday, March  4, 2025,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Symmetry and Hierarchies of Learning in AI Systems</em></li>
+      <li>The dynamics of learning in modern large AI systems is hierarchical, often characterized by abrupt, qualitative shifts akin to phase transitions observed in physical systems. While these phenomena hold promise for uncovering the mechanisms behind neural networks and language models, existing theories remain fragmented, addressing specific cases. In this paper, we posit that parameter symmetry breaking and restoration serve as a unifying mechanism underlying these behaviors. We synthesize prior observations and show how this mechanism explains three distinct hierarchies in neural networks: learning dynamics, model complexity, and representation formation. By connecting these hierarchies, we highlight symmetry – a cornerstone of theoretical physics – as a potential fundamental principle in modern AI.</li>
+      <li><a href="https://drive.google.com/file/d/1yD9oanKeCiHYSJP5fajH5y3g8mxwoQDD/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://wlab.yale.edu/people/whos-who-lab/whos-who-lab-nathan-suri">Nathan Suri</a>, PhD Researcher, Yale University</strong>
+    <ul>
+      <li><strong>Tuesday, February 18, 2025,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>WOTAN: Weakly-supervised Optimal Transport Attention-based Noise Mitigation</em></li>
+      <li>We improve upon the existing literature on pileup mitigation techniques studied at Large Hadron Collider (LHC) experiments for disentangling proton-proton collisions. Pileup presents a salient problem that, if not checked, hinders the search for new physics and Standard Model precision measurements such as jet energy, jet substructure, missing momentum, and lepton isolation. The primary technique that serves as the foundation for this work is known as Training Optimal Transport using Attention Learning (TOTAL). The TOTAL methodology compares matched samples with and without pileup interactions present to robustly learn an accurate description of pileup as a transport function without any need for assumptions of pileup nature derived from simulations. In this work, we develop an improved version of TOTAL known as Weakly-supervised Optimal Transport Attention-based Noise Mitigation (WOTAN) by reducing the degree of TOTAL’s self-supervision. The reduction in self-supervision allows us to demonstrate the power of optimal transport-based pileup mitigation in being able to use data for particle classification instead of solely simulations. Despite its reduced supervision, our work still outperforms existing conventional pileup mitigation approaches by improving the resolution of key observables relevant for both precision measurements and BSM searches in events with pileup interaction counts up to 200. WOTAN is the first fully data-driven machine learning pileup mitigation strategy capable of operating at LHC experiments.</li>
+      <li><a href="https://drive.google.com/file/d/1gbirX3ZUxb0Qscbw-CvoY0RnXMgVMkmw/view?usp=sharing">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://icas.unsam.edu.ar/personalwebs/personalweb-sequi/">Ezequiel Alvarez</a>, Professor, UNSAM (National University of General San Martín)</strong>
+    <ul>
+      <li><strong>Friday, January 31, 2025,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>The Bayesian tack for the Information Frontier at the LHC</em></li>
+      <li>Given the balance between upcoming and available luminosity at the LHC, extracting more information from the data than is currently being extracted has become a pivotal challenge in High Energy Physics. Although Machine Learning (ML) tools are widely adopted to address this challenge, many of these tools rely heavily on learning patterns from simulations. Simulations align well with the data in terms of individual distributions, but—as expected—their performance can be improved when it comes to reproducing correlations. Since Neural Networks are the perfect machines to capture correlations, they may erroneously learn artificial patterns as genuine and subsequently seek them out in real data. The Bayesian approach proposes an alternative set of ML algorithms that primarily leverage recent advancements from the field of Statistical Machine Learning. In this talk, we will explore how Bayesian ML tools and techniques offer a novel and promising avenue for extracting information from data. In this approach, there is a trade-off between simulations and modeling, emphasizing probabilistic modeling within a Bayesian ML framework. We will present the principles and methodologies of this Bayesian craft, highlighting how to unfold a physical system as a probabilistic model to inject relevant prior information in each corresponding latent variable, thereby improving the performance of the model. We will instantiate all the above on the expected advancements in processes such as pp &gt; hh &gt; bbbb, where Bayesian techniques demonstrate significant potential for enhanced results.</li>
+      <li><a href="https://drive.google.com/file/d/1aDm9VM8v05HdoLIJzbGchHTZkK7G1sf2/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="fall-2024">Fall 2024</h3>
+
+<ul>
+  <li><strong><a href="https://nswood.squarespace.com">Nate Woodward</a>, Und6ergraduate Student, MIT</strong>
+    <ul>
+      <li><strong>Tuesday, December 10, 2024,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Product Manifold Machine Learning for Physics</em></li>
+      <li>Physical data are representations of the fundamental laws governing the Universe, hiding complex compositional structures often well captured by hierarchical graphs. Hyperbolic spaces are endowed with a non-Euclidean geometry that naturally embeds those structures. To leverage the benefits of non-Euclidean geometries in representing natural data we develop machine learning on product manifold  spaces, Cartesian products of constant curvature Riemannian manifolds. As a use case we consider the classification of ‘jets’, sprays of hadrons and other subatomic particles produced by the hadronization of quarks and gluons in collider experiments. We compare the performance of PM-MLP and PM-Transformer models across several possible representations. Our experiments show that product manifold representations generally perform equal or better to fully Euclidean models of similar size, with the most significant gains found for highly hierarchical jets and small models. These results reinforce the view of geometric representation as a key parameter in maximizing both performance and efficiency of machine learning on natural data.</li>
+      <li><a href="https://drive.google.com/file/d/1yw0dXs4H_COqeiO-WQg4uSxyQtZmegE0/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.linkedin.com/in/ibrahim-elsharkawy-0693ab177/">Ibrahim Elsharkawy</a>, Physics PhD Candidate, UIUC</strong>
+    <ul>
+      <li><strong>Tuesday, December  3, 2024,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Uncertainty Quantification from Scaling Laws in Deep Neural Networks</em></li>
+      <li>Deep Learning algorithms, such as Neural Networks, have revolutionized function approximation tasks. However, it is not clear how to quantify neural-network-induced uncertainty on predictions as a function of network architecture, training algorithm, and initialization. We propose, in conjugation with infinite-width networks, to exploit scaling laws - an apparently ubiquitous phenomenon in deep learning where the test loss of a Neural Network  (with a task-dependent scaling exponent) follows a power law with training set size. We find a potential and exciting “invariant” in Neural Network Ensemble statistics in both infinite-width and finite-width networks which may be directly useful for Uncertainty Quantification.</li>
+      <li><a href="https://drive.google.com/file/d/1NG4c6uPkyuFojfW4kRz1w-TYmVN1JqXk/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="http://www.michael-toomey.com">Mike Toomey</a>, Postdoctoral Fellow, MIT</strong>
+    <ul>
+      <li><strong>Tuesday, November 26, 2024,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Learning Theory-Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy</em></li>
+      <li>Cosmological models are often formulated in the language of particle physics, using quantities like the axion decay constant, but tested against data using physical quantities such as energy density ratios, with uniform priors assumed on these quantities. This standard approach overlooks important theory-driven priors, including constraints from fundamental physics, like particle physics and string theory, which often favor sub-Planckian axion decay constants. In this talk, I will present a novel method for learning theory-informed priors for Bayesian inference using normalizing flows (NF), a flexible generative machine learning technique. NFs allows us to generate priors on model parameters in cases where analytic expressions are unavailable or difficult to compute. I’ll demonstrate this technique with an application to early dark energy (EDE), a model that has gained attention in the context of the Hubble tension. First, I’ll validate our NF-based approach using the limited theory-based constraints available for EDE, and then, leveraging the computational efficiency of NFs, I’ll showcase how we achieve some of the most stringent constraints on EDE when incorporating large-scale structure likelihoods. This talk will highlight the versatility of NFs in Bayesian inference in cosmology (and beyond) and how NFs and other generative machine learning techniques can help bridge the gap between theoretical models and data analysis.</li>
+      <li><a href="https://drive.google.com/file/d/14Lf2VIyF_Y6ViaL5G0xADEtaajM596Uo/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://physics.mit.edu/faculty/neill-warrington/">Neill Warrington</a>, Postdoc, MIT</strong>
+    <ul>
+      <li><strong>Tuesday, November 19, 2024,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Opportunities for QFT and optimization methods in superconducting quantum devices</em></li>
+      <li>I will present recent work applying methods form quantum field theory and numerical optimization to superconducting quantum devices. I will argue that tools more typically used in particle physics - Feynman diagrams, path integrals, and quantum field theory - are useful for making better qubits.</li>
+      <li><a href="https://drive.google.com/file/d/1HFvKXF1vSnmYWSg4lTG4_AQQuT8ZlUJa/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://thomashelfer.com">Thomas Helfer</a>, Research Fellow, Institute for Advanced Computational Science at Stony Brook</strong>
+    <ul>
+      <li><strong>Tuesday, November 12, 2024,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Super-Resolution without High-Resolution Labels for Black Hole Simulations</em></li>
+      <li>Generating high-resolution simulations is key for advancing our understanding of one of the universe’s most violent events: Black Hole mergers. However, generating Black Hole simulations is limited by prohibitive computational costs and scalability issues, reducing the simulation’s fidelity and resolution achievable within reasonable time frames and resources. In this work, we introduce a novel method that circumvents these limitations by applying a super-resolution technique without directly needing high-resolution labels, leveraging the Hamiltonian and momentum constraints—fundamental equations in general relativity that govern the dynamics of spacetime. We demonstrate that our method achieves a reduction in constraint violation by one to two orders of magnitude and generalizes effectively to out-of-distribution simulations.</li>
+      <li><a href="https://drive.google.com/file/d/1W5AbBjhBnY6jqIpzj5ZaUhG9oQanYwf6/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://researchportal.port.ac.uk/en/persons/konstantin-leyde">Konstantin Leyde</a>, Research Fellow, University of Portsmouth</strong>
+    <ul>
+      <li><strong>Tuesday, October 29, 2024,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Gravitational wave populations and cosmology with neural posterior estimation</em></li>
+      <li>Compact binary coalescences that are observed through gravitational waves (GWs) provide an independent probe to constrain the current expansion rate of the Universe, H0. In addition to the information on the luminosity distance that is directly provided from the GW, redshift information is also needed for the H0 measurement. All GW events observed thus far (with the exception of the binary neutron star merger GW170817) do not have electromagnetic counterparts, and other methods are needed to provide this redshift information. I will summarize a method that uses the (redshifted) source frame mass distribution, also known as the mass spectrum method. Since this approach requires no additional electromagnetic redshift, the mass spectrum method allows to constrain H0 from all observed GW sources so far. In my talk, I will summarize how one can apply neural posterior estimation for fast-and-accurate hierarchical Bayesian inference of gravitational wave populations. We use a normalizing flow to estimate directly the population hyper-parameters from a collection of individual source observations. This approach provides complete freedom in event representation, automatic inclusion of selection effects, and (in contrast to likelihood estimation) without the need for stochastic samplers to obtain posterior samples. Since the number of events may be unknown when the network is trained, we split our analysis into sub-population analyses that we later recombine; this allows for fast sequential analyses as additional events are observed. We demonstrate our method on a toy problem within the mass spectrum method desctibed above, and show that inference takes just a few minutes and scales to 600 events before performance degrades. I will argue that neural posterior estimation therefore represents a promising avenue for population inference with large numbers of GW events.</li>
+      <li><a href="https://drive.google.com/file/d/1EKYdpoUsEKpeMdgIf_9MlaJofafLEzE4/view?usp=sharing">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://science.psu.edu/physics/people/kld5938">Kayla DeHolton</a>, , Penn State University</strong>
+    <ul>
+      <li><strong>Tuesday, October 22, 2024,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Graph Neural Networks for GeV neutrinos in IceCube</em></li>
+      <li>The IceCube Neutrino Observatory, located at the South Pole, is a multi-purpose detector for particle physics and multimessenger astrophysics. It has been collecting data for more than a decade and in recent years, several major discoveries and measurements have utilized neural networks. The convolution neural network frameworks used in these analyses are limited by the irregular geometry of the detector and the sparsity of detected photons in GeV-scale neutrino events. These limitations will become even more difficult to work around with future detectors like the IceCube Upgrade, a low energy extension to be constructed in the 2025-2026 Antarctic season. New efforts with graph neural networks have already shown promising improvements, unlocking new opportunities for future analyses and paving the way for exciting new discoveries.</li>
+      <li><a href="https://drive.google.com/file/d/1Dv5NCgzM17PWjpIJuT23i6cuD7cMXNaU/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://kyafuk.github.io/utokyo-hirashima/index.html">Keiya Hirashima</a>, , University of Tokyo</strong>
+    <ul>
+      <li><strong>Tuesday, October 15, 2024,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Surrogate Modeling for Supernova Feedback toward Star-by-star Simulations of Milky-Way-sized Galaxies</em></li>
+      <li>In recent decades, improvements in galaxy simulations have revealed the interdependence of multiscale gas physics, such as star formation and feedback processes. Still, so-called sub-grid models have been widely used due to limited resolution and scalability. Even in zoom-in simulations, the mass resolution is capped at around 1,000 solar masses. To address this, we are developing the ASURA-FDPS code to leverage exascale computing for simulating individual stars and feedback in galaxies. Challenges in scalability arise from localized short-timescale events like supernovae (SNe). To overcome this, we developed a machine-learning-based surrogate model that predicts SNe feedback 100,000 years ahead, reducing the computational cost to 1% of direct resolution. This presentation discusses the fidelity and progress of high-resolution galaxy simulations using this approach.</li>
+      <li><a href="https://drive.google.com/file/d/1nTa2wS4unLtRPouFVgFsM9REwEkOtXJR/view?usp=sharing">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://scholar.harvard.edu/arguelles/arguelles-9">Felix Yu</a>, Graduate Student, Harvard University</strong>
+    <ul>
+      <li><strong>Tuesday, October  8, 2024,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Learning Representations &amp; Super-Resolution of Neutrino Telescope Events</em></li>
+      <li>Neutrino telescopes detect rare interactions of particles produced in some of the most extreme environments in the Universe. This is accomplished by instrumenting a cubic-kilometer volume of naturally occurring transparent medium with light sensors. Given their substantial size and the high frequency of background interactions, these telescopes amass an enormous quantity of large variance, high-dimensional data. These attributes create substantial challenges for analyzing and reconstructing interactions, particularly when utilizing machine learning (ML) techniques. In this talk, I will present a novel approach that employs transformer-based variational autoencoders to efficiently represent neutrino telescope events by learning compact and descriptive latent representations. I will also talk about some potential applications which can take advantage of these more flexible and efficient representations, including super-resolving neutrino telescope events to enhance reconstruction performance.</li>
+      <li><a href="https://drive.google.com/file/d/1uB_ruIRmqHKa8BQ06vbCJbEfpUVPeyWF/view?usp=sharing">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.physics.ox.ac.uk/our-people/fraser-talientec">Kit Fraser-Taliente</a>, Graduate Student, University of Oxford</strong>
+    <ul>
+      <li><strong>Tuesday, October  1, 2024,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Computation of Quark Masses in String Theory</em></li>
+      <li>We present a numerical computation, based on neural network techniques, of the physical Yukawa couplings in a heterotic string theory model obtained after compactification on a Calabi-Yau threefold.  I consider examples from a large class of models with precisely the MSSM low-energy spectrum, plus fields uncharged under the standard-model group. Suitable neural networks are used to compute the relevant quantities. I will discuss the general problem of learning functions on manifolds, equivariant neural networks, and generalisation to other models and constructions.</li>
+      <li><a href="https://drive.google.com/file/d/12PEpNWwDeJTJglxaYHsXHPTWP9aNg3dq/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://rikabgambhir.com">Rikab Gambhir</a>, Graduate Student, MIT</strong>
+    <ul>
+      <li><strong>Tuesday, September 24, 2024,  1:00pm–2:00pm, IAIFI Penthouse</strong></li>
+      <li><em>Moments Of Clarity in Machine Learning for Jet Physics</em></li>
+      <li>Machine learning models have shown incredible promise for science, especially for physics at the Large Hadron Collider (LHC), through their ability to extract information from huge amounts of data. However, as physicists, we often desire to have precise control of the information input and output of a model, both to improve interpretability and to guarantee properties of interest in our problems. In this talk, I go over three different examples from my work in jet physics at the LHC where targeted and goal-motivated model design and loss function choice can be used to control the extracted information in machine learning models. In particular, I discuss how task-engineered network architectures and losses can be used to extract provably prior-independent and unbiased resolutions for calibrations at the LHC, how they can be used to construct a new class of robust observables for jets, and how they can be used to streamline latent spaces using elementary functions for interpretability.</li>
+      <li><a href="https://docs.google.com/presentation/d/1mFzyzI8nA-OxcpQdcEhSPLh3aq9-zm8f9F72sh2RS4E/edit?usp=sharing">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="spring-2024">Spring 2024</h3>
+
+<ul>
+  <li><strong><a href="https://scholar.google.com/citations?user=uTi-1LsAAAAJ&amp;hl=en">Radha Mastandrea</a>, Grad Student, University of California, Berkeley</strong>
+    <ul>
+      <li><strong>Tuesday, April 30, 2024, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>A Survey of Machine Learning Methods for Anomaly Detection</em></li>
+      <li>Machine learning-based anomaly detection (AD) methods are promising tools for extending the coverage of searches for physics beyond the Standard Model (BSM). I will first talk about a class of AD methods for “resonant anomaly detection”, where the BSM is assumed to be localized in at least one known variable. There have been many methods proposed to  identify such a BSM signal that make use of simulated or detected data in different ways, so I will discuss their complementarity – even if their maximum performance is the same, it may be beneficial more generally to combine approaches. I will then go over a class of AD methods for “nonresonant” detection, where the BSM may arise from off-shell effects or final states with significant missing energy. Using  a semi-visible jet signature as a benchmark signal model, I will show that these methods  can automatically identify anomalous events, elevating rare nonresonant signal models to the detection threshold.</li>
+      <li><a href="https://drive.google.com/file/d/1Lbm2ka7rTzkvQ8JJBPqwIo3R-H1qA_f2/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://scholar.google.com/citations?user=TL86PJMAAAAJ&amp;hl=en">Akshunna Dogra</a>, Graduate Student, Imperial College London</strong>
+    <ul>
+      <li><strong>Tuesday, April 23, 2024, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Many-Fold Learning</em></li>
+      <li>Machine learning (ML) has been profitably leveraged across a wide variety of problems in recent years. Empirical observations show that ML models from suitable functional spaces are capable of adequately efficient learning across a wide variety of disciplines. In this work (first in a planned sequence of three), we build the foundations for a generic perspective on ML model optimization and generalization dynamics. Specifically, we prove that under variants of gradient descent, “well-initialized” models solve sufficiently well-posed problems at 	extit{a priori} or 	extit{in situ} determinable rates. Notably, these results are obtained for a wider class of problems, loss functions, and models than the standard mean squared error and large width regime that is the focus of conventional Neural Tangent Kernel (NTK) analysis. The $
+u$ - Tangent Kernel ($
+u$TK), a functional analytic object reminiscent of the NTK, emerges naturally as a key object in our analysis and its properties function as the control for learning. We exemplify the power of our proposed perspective by showing that it applies to diverse practical problems solved using real ML models, such as classification tasks, data/regression fitting, differential equations, shape observable analysis, etc. We end with a small discussion of the numerical evidence, and the role $
+u$TKs may play in characterizing the search phase of optimization, which leads to the “well-initialized” models that are the crux of this work.</li>
+      <li><a href="https://drive.google.com/file/d/1HhTY5ZnjdzRtYa_kUHGGUmqkNlG0XEpm/view">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.linkedin.com/in/marisalafleur/">Marisa LaFleur</a>, Project Manager, IAIFI</strong>
+    <ul>
+      <li><strong>Tuesday, April  2, 2024, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Managing Time and Influencing People</em></li>
+      <li>Taking a break from our regularly scheduled journal club programming, the Industry Partnership Committee have requested a crash course in project management for academics. I’ll share some time management and communication tips and tricks to elevate your project management skills and increase efficiency, leaving more time for research. We’ll leave time for questions, so come with all of your organizational concerns!</li>
+      <li><a href="https://docs.google.com/presentation/d/1YOnIgfLRK5cFHsFz21J2dbConGSjQbJZ9ghVeIhPmFo/edit?usp=sharing">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://projects.iq.harvard.edu/kfraser/home">Katherine Fraser</a>, Graduate Student, Harvard University</strong>
+    <ul>
+      <li><strong>Tuesday, March 19, 2024, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Combining Energy Correlators with Machine Learning</em></li>
+      <li>Energy correlators, which are correlation functions of the energy flow operator, are theoretically clean observables which can be used to improve various measurements. In this talk, we discuss ongoing work exploring the benefits of combining them with Machine Learning for precisely measuring the Top-quark mass.</li>
+      <li><a href="https://drive.google.com/file/d/1TxCOQpfrIsbGlIOqv0EdssgHltdQh5gq/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://scholar.harvard.edu/kehang/home">Kehang Zhu</a>, Grad Student, Harvard</strong>
+    <ul>
+      <li><strong>Tuesday, March 12, 2024, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Agent-based modeling: Harnessing Large Language Models for Automated Exploration of Emergent Behaviors in Simulated Social Systems</em></li>
+      <li>Two significant impediments to success of the social sciences in comparison to physics are the inherent difficulty in both rapidly executing multiple controlled experiments to explore a parameter space and determining what parameter space to explore. In this work, we present a computational framework and platform that simulates the entire social scientific process, leveraging Large Language Models (LLMs) to study human actors within social systems. We create controlled environments, akin to toy models in physics, that systematically explore the space parameter of variables relevant to any social system (such as attributes of human actors), allowing for the exponentially faster discovery of emergent social behaviors as compared to traditional social science experimentation. Central to our approach is the automatic generation of Structural Causal Models (SCMs) that generate statistical correlations of potential interactions within a social system and outline the requisite metrics and tools to observe and measure these nonlinear dynamics. With the flexibility to vary controlled variables across a nearly infinite parameter space, our system offers a sandbox to simulate and analyze various social scenarios – from wage bargaining and auction mechanics to nuclear weapon negotiations. Our framework and platform offers a new playground for physicists to study the nonlinear dynamics and emergent phenomena in human social systems.</li>
+      <li><a href="https://drive.google.com/file/d/1T1SM-PPzUEE9pWQhZbSj6qgIYQ8diS41/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.computational-quantum.science/people/jonas/">Jonas Rigo</a>, Postdoc, Forschungszentrum Jülich GmbH</strong>
+    <ul>
+      <li><strong>Tuesday, February 27, 2024, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Is the ground state of Anderson’s impurity model a recurrent neural network?</em></li>
+      <li>When the Anderson impurity model (AIM) is expressed in terms of a Wilson chain it assumes a hierarchical Renormalization group structure that translates to a ground state with features like Friedel oscillations and the Kondo screening cloud. Recurrent neural networks (RNNs) have recently gained traction in the form of Neural Quantum States (NQS) ansätze for quantum many body ground states and they are known to be able to learn such complex patterns. We explore RNNs as an ansatz to capture the AIM’s ground state for a given Wilson chain length and investigate its capability to predict the ground state on longer chains for a converged ground state energy.</li>
+      <li><a href="https://drive.google.com/file/d/1emRRA1kIbV5L_LxmIyYPNTjeRIWFMr-S/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="http://cgisvr.physics.rutgers.edu/cgi-bin/physdb/genpip.pl?FaroughyD">Darius Faroughy</a>, Postdoctoral Associate, Rutgers University</strong>
+    <ul>
+      <li><strong>Tuesday, February 20, 2024, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Is flow-matching an alternative to diffusion?</em></li>
+      <li>We discuss flow-matching (2210.02747), a recently proposed objective for training continuous normalizing flows inspired by diffusion models. As a generative model, flow-matching can produce state-of-the-art samples for images and other data representations. More interestingly, flow-matching can be used to go beyond generative modeling by learning to approximate the optimal transport map between two arbitrary data distributions. The JC is meant to be an interactive blackboard talk discussing the method. At the end, I’ll flash a few slides illustrating its usefulness for generating jets as particle clouds (2310.00049).</li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="https://helenqu.com">Helen Qu</a>, Grad Student, University of Pennsylvania</strong>
+    <ul>
+      <li><strong>Tuesday, February  6, 2024, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Enabling precision photometric SN Ia cosmology with machine learning</em></li>
+      <li>The discovery of the accelerating expansion of the universe has led to increasing interest in probing the nature of dark energy. As very bright standardizable candles, type Ia supernovae (SNe Ia) are used to measure precise distances on cosmological scales and thus have been instrumental to this effort. Building a robust dataset of SNe Ia across a wide range of redshifts will allow for the construction of an accurate Hubble diagram, enrich our understanding of the expansion history of the universe, as well as place constraints on the dark energy equation of state. However, much of our analysis pipeline will be overwhelmed by the data deluge of the LSST era. In this talk, I will present recent improvements on two key pieces of SN Ia cosmology analysis: the purity of the photometric SNe Ia sample and the redshift identification accuracy for these SNe. To address the SNe Ia purity problem, I will present SCONE (Supernova Classification with a Convolutional Neural Network), a deep learning-based approach to early and full lightcurve photometric SN classification. On the redshift estimation front, I will present work on characterizing inaccurate redshifts due to SN host galaxy mismatch and its effect on cosmology, as well as Photo-zSNthesis, a machine learning algorithm that uses SN photometry to directly estimate redshift. As long as logistical challenges prevent the spectroscopic follow-up of most detected SNe, a reliable photometric SN classification algorithm and redshift estimation strategy will allow us to tap into the vast potential of the photometric dataset.</li>
+      <li><a href="https://drive.google.com/file/d/1_qdq5K8a8CAh8CgreMcvyGGn06ILn0Br/view?usp=drive_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://lsstdiscoveryalliance.org/programs/lincc-frameworks/team/alex-malz/">Alex Malz</a>, LINCC Frameworks Project Scientist, Carnegie Mellon University</strong>
+    <ul>
+      <li><strong>Tuesday, January 16, 2024, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Data processing challenges for real-time observational astrophysics</em></li>
+      <li>Astronomical transient and variable events comprise the things that go boom in the night, or otherwise vary in brightness or color over time, and are among the most powerful phenomena of the universe, providing a window into energy scales inaccessible to any laboratory on Earth. The fundamental physics determining the time-series light curves of these astronomical objects, which include exploding stars and black hole mergers, is key to understanding the nature of the dark energy driving the accelerating expansion of the universe, the dark matter guiding the formation and clustering of massive structures, and ultimately our place in the cosmos. During its ten-year mission beginning in 2025, the Legacy Survey of Space and Time (LSST) on the Vera C. Rubin Observatory will observe hundreds of millions of such transient and variable sources, up from the mere millions known to date, by making a ten-year 3D movie of the night sky. In doing so, it will revolutionize astronomy with a deluge of data that could enable boundless discoveries, conditioned on meeting the challenges of the data’s nontrivial noise properties; the scale of the anticipated data is a direct corollary to the strategy of collecting less informative photometric data rather than high-fidelity, resource-intensive spectroscopy. In this talk, I will introduce open problems and evolving data-driven solutions for several interesting aspects of the systems for processing and interpreting the anticipated data.</li>
+      <li><a href="https://iaifi.org/">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="fall-2023">Fall 2023</h3>
+
+<ul>
+  <li><strong><a href="https://scholar.google.com/citations?user=G6Wyw4QAAAAJ&amp;hl=en">Neill Warrington</a>, Postdoc, MIT</strong>
+    <ul>
+      <li><strong>Tuesday, November 28, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Thimbology and The Sign Problem</em></li>
+      <li>I will talk about thimbology, a technique for taming sign problems in lattice field theory, where the domain of integration of path integral is deformed into complex field space. Machine learning contours proves useful for certain problems and is now a common technique. I’ll review the idea for a general audience, then share some recent results.</li>
+      <li><a href="https://drive.google.com/file/d/1TjJ9OThsOlVLKJ1cT9aSANoc_UEPgoos/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://sites.tufts.edu/nutufts/people/">Zeviel Imani</a>, Graduate Student, Tufts</strong>
+    <ul>
+      <li><strong>Tuesday, November 14, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Score-based Diffusion Models for Generating LArTPC Images</em></li>
+      <li>Modern generative modeling has demonstrated remarkable success in the realm of natural images. However, these approaches do not necessarily generalize to all image domains. In neutrino physics experiments, our Liquid Argon Time Project Chamber (LArTPC) particle detectors produce images that are globally sparse but locally dense. We have found that some generation algorithms, such as GANs and VQ-VAE, are unable to reproduce these image characteristics. Recently, we have successfully generated high-fidelity images of track and shower particle event types using a score-based diffusion model. In this talk, I will outline the methodology underlying this type of model, explore our quality metrics for these generated images, and discuss planned extensions and applications of this work.</li>
+      <li><a href="https://drive.google.com/file/d/1NPpF2DO0Wqk0_DbBCv4z53Hd1rU87VjZ/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://github.com/munozariasjm">Jose Miguel Munoz Arias</a>, Graduate Student, MIT</strong>
+    <ul>
+      <li><strong>Tuesday, November  7, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>lie-nn: Pioneering lie G-equivariant Neural Networks for Cross-Domain Scientific Applications</em></li>
+      <li>This talk explores a novel Equivariant Neural Network architecture that respects symmetries of finite-dimensional representations of any reductive Lie Group G. These groups span several scientific domains, from high energy physics to computer vision. We extend ACE and MACE frameworks to data equivariant to a reductive Lie group action. We present lie-nn, a software library for building G-equivariant neural networks that simplifies the application to varied problems by decomposing tensor products into irreducible representations. We illustrate the adaptability and effectiveness of our approach with top quark decay tagging and shape recognition applications. We demonstrate that acknowledging these symmetries can boost prediction accuracy while using less training data. Our study represents a significant step towards generating interactive representations of geometric point clouds, offering a fresh problem-solving framework across scientific fields.</li>
+      <li><a href="https://drive.google.com/file/d/1lmDfR4psA4aaAPITTRkG4lseZl7Vb020/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.uu.se/kontakt-och-organisation/personal?query=N22-2651">Thorsten Glüsenkamp</a>, Postdoc, Uppsala University</strong>
+    <ul>
+      <li><strong>Tuesday, October 31, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Conditional normalizing flows for IceCube event reconstruction</em></li>
+      <li>In this seminar, I will talk about normalizing flows (NFs), in particular about the types that are useful for high-energy neutrino event reconstruction in IceCube. First, I will give an introduction that focuses on essentially two different classes of flows which have quite a citation disparity in the literature: 1)  normalizing flows in high dimensions (D&gt;~100), which typically have high citation counts, and 2) normalizing flows in low dimensions (D = 1 - 100),  which are typically cited less frequently. I discuss the reasons why I think this latter class, which is often less known, is in particular useful for high-energy physicists, and then briefly review two examples of that class: specific Gaussianization flows (2003.01941) , and exponential-map flows (0906.0874/2002.02428). Finally, I discuss a recent application of these particular flows as  conditional NFs for neutrino event econstruction in the IceCube detector (2309.16380).</li>
+      <li><a href="https://drive.google.com/file/d/1-zjK7tYNmdPVX7VHAc6FeONJ67oCeeIz/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://www.linkedin.com/in/ryan-raikman">Ryan Raikman</a>, Undergraduate, Carnegie Mellon University (currently working with LIGO), MIT LIGO</strong>
+    <ul>
+      <li><strong>Tuesday, October 24, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>GWAK: Gravitational Wave Anomalous Knowledge with Recurrent Autoencoders</em></li>
+      <li>Matched-filtering detection techniques for gravitational-wave (GW) signals in ground-based interferometers rely on having well-modeled templates of the GW emission. Such techniques have been traditionally used in searches for compact binary coalescences (CBCs), and have been employed in all known GW detections so far. However, interesting science cases aside from compact mergers do not yet have accurate enough modeling to make matched filtering possible, including core-collapse supernovae and sources where stochasticity may be involved. Therefore the development of techniques to identify sources of these types is of significant interest. In this paper, we present a method of anomaly detection based on deep recurrent autoencoders to enhance the search region to unmodeled transients. We use a semi-supervised strategy that we name Gravitational Wave Anomalous Knowledge (GWAK). While the semi-supervised nature of the problem comes with a cost in terms of accuracy as compared to supervised techniques, there is a qualitative advantage in generalizing experimental sensitivity beyond pre-computed signal templates. We construct a low-dimensional embedded space using the GWAK method, capturing the physical signatures of distinct signals on each axis of the space. By introducing signal priors that capture some of the salient features of GW signals, we allow for the recovery of sensitivity even when an unmodeled anomaly is encountered. We show that regions of the GWAK space can identify CBCs, detector glitches and also a variety of unmodeled astrophysical sources.</li>
+      <li><a href="https://drive.google.com/file/d/1ZxXpd0FMLdCuPHxz0wjeCAF1GKuZW9rR/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://lppc.physics.harvard.edu/people/miaochen-andy-jin">Andy Jin</a>, Graduate Student, Harvard University</strong>
+    <ul>
+      <li><strong>Tuesday, October 17, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Two Watts is All You Need: Low-Power Machine Learning on TPU for Neutrino Telescopes</em></li>
+      <li>In neutrino experiments, we have seen machine learning software methods to boost our abilities of physics discovery given the hardware experimental setups. Currently, we face upgrades and new telescopes and experimental hardware expecting more statistics as well as more complicated data signals. This calls out for an upgrade on the software side as well for handling the more complex data in a more efficient way. Specifically, we need low power and fast software methods in order to achieve real time signal processing, where current machine learning base methods are too expensive to be deployed in the commonly power-restricted regions where these experiments are located. In this talk, I will present the first attempt at and a proof of concept for enabling machine learning methods to be deployed live in under water/ice neutrino telescopes via quantization and deployment on Tensor Processing Units (TPUs). We use an LSTM-based recursive neural network with residual convolution-based data encoding, combined with specifically tailored data pre-processing and quantization aware training methods for deployment on the Google Edge TPU. This algorithm can achieve state-of-the-art angular resolution in reconstruction with a real-time inference frequency of 100 Hz/Watts in a TPU accelerator at only 2 Watts of power consumption. This opens up a world of chances to integrate machine learning capacity into detectors and electronics deep into even the most power-restricted environments.</li>
+      <li><a href="https://drive.google.com/file/d/1chx6Sgora2Oh9U5LP6jMVWfSjxWCR55j/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://manosth.github.io">Manos Theodosis</a>, Graduate Student, Harvard</strong>
+    <ul>
+      <li><strong>Tuesday, October  3, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Learning Group Representations in Neural Networks</em></li>
+      <li>Employing equivariance in neural networks leads to greater parameter efﬁciency via parameter sharing and improved generalization performance through the encoding of domain knowledge in the architecture; however, the majority of existing approaches require an a priori speciﬁcation of the data symmetries. We present a neural network architecture, Group Representation Networks (GRNs), that learns symmetries on the weight space of neural networks without any supervision or knowledge of the hidden symmetries in the data. Beyond their interpretability, GRNs’ learned representations distill symmetries of the data domain and the downstream task, which are incorporated when training networks on different datasets. The key idea behind GRNs relates weights in neural networks via a cyclic action whose group representation depends on the data domain, and is learned in an unsupervised manner. Our experiments underline the ability of GRNs to correctly recover symmetries in the data, show competitive performance when GRNs are used as a drop-in replacement for conventional layers, and highlight the ability to transfer learned representations across tasks and datasets.</li>
+      <li><a href="https://drive.google.com/file/d/16wtWnTyPaclbD4ch9yK2CkgGPKfSpdkO/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://lppc.physics.harvard.edu/people/jeffrey-lazar">Jeffrey Lazar</a>, Graduate Student, Harvard</strong>
+    <ul>
+      <li><strong>Tuesday, September 26, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Open-Source Simulation and Machine Learning for Neutrino Telescopes</em></li>
+      <li>In the last decade, the filed of neutrino astronomy has made major strides, culminating of the definitive detection of galactic and extragalactic components of the astrophysical neutrino flux. We can now  begin characterizing these astrophysical beams and pursuing new physics through them. Machine learning techniques have played an integral part in these recent advances, and while these current efforts have been impressive, it is clear that there is room to improve. This face, along with the growing, global network of neutrino telescopes, drives the need for open-source tools to use all person power and avoid reduplicating effort. In this talk I will present Prometheus, the first open-source, end-to-end simulation for neutrino telescopes. Furthermore, I will show a recent example of Prometheus to develop machine learning techniques capable of running at typical neutrino telescope trigger rates.</li>
+      <li><a href="https://drive.google.com/file/d/1PzyVn9lFn8-DLU3IJ8fEh4tWav09DNS9/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="https://inspirehep.net/authors/2049582">Tony Menzo</a>, Graduate Assistant, University of Cincinnati</strong>
+    <ul>
+      <li><strong>Tuesday, September 19, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Towards a data-driven model of hadronization</em></li>
+      <li>We will discuss recent and ongoing developments at the intersection of machine learning and simulated hadronization. Specifically, we’ll focus on some of the major challenges presented when attempting to build a data-driven model of hadronization that utilizes experimental data during training. Solutions to some of these challenges will be presented in the context of invertible neural networks or normalizing flows including the introduction of a new paradigm that allows for the training of microscopic hadronization dynamics from macroscopic event-level observables.</li>
+      <li><a href="https://drive.google.com/file/d/1V4wpRljqdt9gjtq61GxA2Ca6lV0gMuBq/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="spring-2023">Spring 2023</h3>
+
+<ul>
+  <li><strong><a href="https://iaifi.org/current-fellows.html#di-luo">Di Luo</a>, Postdoctoral Fellow, IAIFI</strong>
+    <ul>
+      <li><strong>Tuesday, April 25, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Multi-legged Robot Locomotion via Spin Models Duality</em></li>
+      <li>Contact planning is crucial in locomoting systems. Specifically, appropriate contact planning can enable versatile behaviors (e.g., sidewinding in limbless locomotors) and facilitate speed-dependent gait transitions (e.g., walk-trot-gallop in quadrupedal locomotors). The challenges of contact planning include determining not only the sequence by which contact is made and broken between the locomotor and the environments, but also the sequence of internal shape changes (e.g., body bending and limb shoulder joint oscillation). Most state-of-art contact planning algorithms focused on conventional robots (e.g. biped and quadruped) and conventional tasks (e.g. forward locomotion), and there is a lack of study on general contact planning in multi-legged robots. In this talk, I am going to discuss that using geometric mechanics framework, we can obtain the global optimal contact sequence given the internal shape changes sequence. Therefore, we simplify the contact planning problem to a graph optimization problem to identify the internal shape changes. Taking advantage of the spatio-temporal symmetry in locomotion, we map the graph optimization problem to special cases of spin models, which allows us to obtain the global optima in polynomial time. We apply our approach to develop new forward and sidewinding behaviors in a hexapod and a 12-legged centipede. We verify our predictions using numerical and robophysical models, and obtain novel and effective locomotion behaviors.</li>
+      <li><a href="https://drive.google.com/file/d/1l8uWeXrgZaZ5m44hrbwLUBurWqukAij0/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Ziming Liu</a>, Grad Student, MIT</strong>
+    <ul>
+      <li><strong>Tuesday, April 25, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Physics-inspired generative models</em></li>
+      <li>It might be surprising and delightful to physicists that physics has been playing a huge role in diffusion models. In fact, the evolution of our physical world can be viewed as a generation process. In this journal club, I will first review diffusion models, the more recent PFGM/PFGM++ inspired from electrostatics, and then introduce the GenPhys framework which manages to convert even more physical processes to generative models.</li>
+      <li><a href="https://drive.google.com/file/d/1ya9nXg_oJX9wZYzB9AHtc0jBUVEifk6o/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Asem Wardak</a>, Research Fellow, Harvard</strong>
+    <ul>
+      <li><strong>Tuesday, April 11, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Extended Anderson Criticality in Heavy-Tailed Neural Networks</em></li>
+      <li>This talk focuses on nonlinearly interacting systems with random, heavy-tailed connectivity. We show how heavy-tailed connectivity gives rise to an extended critical regime of spatially multifractal fluctuations between the quiescent and active phases. This phase differs from the edge of chaos in classical networks by the appearance of universal hallmarks of the Anderson transition in condensed matter physics over an extended region in phase space. We then investigate some consequences of the multifractal Anderson regime for performing persistent computations.</li>
+      <li><a href="https://drive.google.com/file/d/1yo-x-axFISmZSKefSFDuZg5UGMIPGkud/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Joshua Villarreal</a>, Grad Student, MIT</strong>
+    <ul>
+      <li><strong>Tuesday, April  4, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Surrogate Modeling of Particle Accelerators</em></li>
+      <li>The design, construction, and fine-tuning of particle accelerators has never been easy. Each is a technical challenge in and of itself, and the need to repeatedly run accurate, high-fidelity simulations of the beam traversing the device can slow development. This is especially true for many modern-day particle accelerators, whose beam dynamics tend to observe more nonlinear effects like those arising from space charge, making their simulation more computationally expensive. Thus, there is demand to develop machine learning and statistical learning models that can reproduce these beam dynamic simulations with orders-of-magnitude improvements in runtime. In this talk, I present an overview of recent efforts to build such accelerator surrogate models, which can be used for the design optimization and real-time commissioning, tuning, and running of the accelerator they aim to replicate. As an example, I also present the status of IsoDAR’s work to build a surrogate model for a Radio-Frequency Quadrupole accelerator, a vital component to IsoDAR’s groundbreaking design. I outline challenges of these and other virtual accelerators, and present future plans to make these surrogate models ubiquitous in future development of accelerator experiments of all kinds.</li>
+      <li><a href="https://drive.google.com/file/d/1rumOzVCo6j8lFo1ZmS9mMmmM1w7bJ5qb/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Daniel Murnane</a>, Postdoc Researcher, Berkeley Lab</strong>
+    <ul>
+      <li><strong>Tuesday, March 21, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Multi-Tasking ML for Point Clouds at the LHC</em></li>
+      <li>The Large Hadron Collider is one of the world’s most data-intensive experiments. Every second, millions of collisions are processed, each one resembling a jigsaw puzzle with thousands of pieces. With the upcoming upgrade to the High Luminosity LHC, this problem will only become more complex. To make sense of this data, deep learning techniques are increasingly being used. For example, graph neural networks and transformers have proven effective at handling point cloud tasks such as track reconstruction and jet tagging. In this talk, I will review the point cloud problems in collider physics and recent deep learning solutions investigated by the Exatrkx project - an initiative to implement innovative algorithms for HEP at exascale. These architectures can accurately perform tracking and tagging with low latency, even in the high luminosity regime. Additionally, I will explore how multi-tasking and multi-modal networks can combine several of these different tasks.</li>
+      <li><a href="https://drive.google.com/file/d/1XiSb3X4NWcD5yf13MkAt7BvWMzYWziKc/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Manuel Szewc</a>, Postdoc, University of Cincinnati</strong>
+    <ul>
+      <li><strong>Tuesday, March 14, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Modeling Hadronization with Machine Learning</em></li>
+      <li>A fundamental part of event generation, hadronization is currently simulated with the help of fine-tuned empirical models. In this talk, I’ll present MLHAD, a proposed alternative for hadronization where the empirical model is replaced by a surrogate Machine Learning-based model to be ultimately data-trainable. I’ll detail the current stage of development and discuss possible ways forward.</li>
+      <li><a href="https://drive.google.com/file/d/1-fdoYOech0muQzE7JHXDavJwI76xtUoe/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Max Tegmark</a>, Professor, MIT</strong>
+    <ul>
+      <li><strong>Tuesday, February 28, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Mechanistic interpretability</em></li>
+      <li>Mechanistic interpretability aims to reverse-engineer trained neural networks to distill out the algorithms they have discovered for performing various tasks. Although such ‘artificial neuroscience’ is hard and fun, it’s easier than conventional neuroscience since you have complete knowledge of what every neuron and synapse is doing.</li>
+      <li><a href="https://drive.google.com/file/d/1gEDzE9zF3dWT6GnOe-m7a0rQ4PH_-fi2/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Liping Liu</a>, Assistant Professor, Tufts University</strong>
+    <ul>
+      <li><strong>Tuesday, February 14, 2023, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Address combinatorial graph problems with learning methods</em></li>
+      <li>There are plenty of hard combinatorial problems defined on graphs. Recently learning algorithms have been used to speed up the search for approximate solutions to these problems. This talk will start with an introduction to hard problems on graphs and traditional algorithms, then it will give an overview of learning algorithms for solving combinatorial problems on graphs. The second part of the talk will focus on two specific problems, graph matching and subgraph distance calculation, and discuss neural methods for these two problems. Finally, it will conclude with open questions: why and when can neural networks help to solve combinatorial problems?</li>
+      <li><a href="https://drive.google.com/file/d/1jNBRcVDmMGiZDztMHmZ2Bo67klkrG0sd/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="fall-2022">Fall 2022</h3>
+
+<ul>
+  <li><strong><a href="">Anna Golubeva, IAIFI Fellow and Matt Schwartz</a>, Professor, Harvard</strong>
+    <ul>
+      <li><strong>Tuesday, November 29, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Should artificial intelligence be interpretable to humans?</em></li>
+      <li></li>
+      <li><a href="https://www.nature.com/articles/s42254-022-00538-z.epdf?sharing_token=3J2X15FrSE4DX0-C4wy1WNRgN0jAjWel9jnR3ZoTv0OFWnX9fRT21Uquw1b6H6Uwdyiv6G2YbqpT_Vajh5RO07uuYzVKSwxqjGcOXKm1_MY4fr_liHzLlaBNHy4GXn2lUCIv0J8bXJTJ1_hqEzfrwjUZfC1BXzy8Su9RPY9xz5Y%3D">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Michael Toomey</a>, PhD Student, Brown University</strong>
+    <ul>
+      <li><strong>Tuesday, November 15, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Deep Learning the Dark Sector</em></li>
+      <li>One of the most pressing questions in physics today is the microphysical origin of dark matter. While there have been numerous experimental programs aimed at detecting its interactions with the Standard Model, all efforts to date have come up empty. An alternative method to constrain dark matter is purely based on its gravitational interactions. In particular, gravitational lensing can be very sensitive to the distribution and morphology of dark matter substructure which can vary appreciably between different models. However, the complexity of data sets, systematics, and large volumes of data make the dimensionality of this problem difficult to approach from more traditional methods. Thankfully, this is a task ideally suited for machine learning. In this talk we will demonstrate how machine learning will play a critical role in distinguishing between models of dark matter and constraining model parameters in lensing data. We will additionally discuss techniques unique to ML for transferring the knowledge accumulated by models in the controlled setting of simulation to real data sets utilizing unsupervised domain adaptation.</li>
+      <li><a href="https://drive.google.com/file/d/1hzKARxgLJ9QgcfB_X2CmLmFtb7B9qW3D/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Ziming Liu</a>, PhD Student, MIT</strong>
+    <ul>
+      <li><strong>Tuesday, November  8, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Toy Models of Superposition</em></li>
+      <li>It would be very convenient if the individual neurons of artificial neural networks corresponded to cleanly interpretable features of the input. For example, in an “ideal” ImageNet classifier, each neuron would fire only in the presence of a specific visual feature, such as the color red, a left-facing curve, or a dog snout. But it isn’t always the case that features correspond so cleanly to neurons, especially in large language models where it actually seems rare for neurons to correspond to clean features. I will present a recent paper ‘Toy Models of Superposition’ from Anthropic, aiming to answer these questions: Why is it that neurons sometimes align with features and sometimes don’t? Why do some models and tasks have many of these clean neurons, while they’re vanishingly rare in others?</li>
+      <li><a href="https://drive.google.com/file/d/17LPLsDVGrr8ZD0yXJNFiVn-4sIgObGre/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Sona Najafi</a>, Researcher, IBM</strong>
+    <ul>
+      <li><strong>Tuesday, October 25, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Quantum machine learning from algorithms to hardware</em></li>
+      <li>The rapid progress of technology over the past few decades has led to the emergence of two powerful computational paradigms known as quantum computing and machine learning. While machine learning tries to learn the solutions from data, quantum computing harnesses the quantum laws for more powerful computation compared to classical computers. In this talk, I will discuss three domains of quantum machine learning, each harnessing a particular aspect of quantum computers and targeting specific problems. The first domain scrutinizes the power of quantum computers to work with high-dimensional data and speed-up algebra, but raises the caveat of input/output due to the quantum measurement rules. The second domain circumvents this problem by using a hybrid architecture, performing optimization on a classical computer while evaluating parameterized states on a quantum circuit, chosen based on a particular issue. Finally, the third domain is inspired by brain-like computation and uses a given quantum system’s natural interaction and unitary dynamic as a source for learning.</li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Kim Nicoli</a>, Grad Student, Technical University of Berlin</strong>
+    <ul>
+      <li><strong>Tuesday, October 18, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Deep Learning approaches in lattice quantum field theory: recent advances and future challenges</em></li>
+      <li>Normalizing flows are deep generative models that leverage the change of variable formula to map simple base densities to arbitrary complex target distributions. Recent works have shown the potential of such methods in learning normalized Boltzmann densities in many fields ranging from condensed matter physics to molecular science to lattice field theory. Though sampling from a flow-based density comes with many advantages over standard MCMC sampling, it is known that these methods still suffer from several limitations. In my talk, I will start to give an overview on how to deploy deep generative models to learn Boltzmann densities in the context of a phi^4 lattice field theory. Specifically, I’ll focus on how these methods open up the possibility to estimate thermodynamic observables, i.e., physical observables which depend on the partition function and hence are not straightforward to estimate using standard MCMC methods. In the second part of my talk, I will present two ideas that have been proposed to mitigate the well-known problem of mode-collapse which often occurs when normalizing flows are trained to learn a multimodal target density. More specifically I’ll talk about a novel “mode-dropping estimator” and path gradients. In the last part of my talk, I’ll present a new idea which aims at using flow-based methods to mitigate the sign problem.</li>
+      <li><a href="https://drive.google.com/file/d/10Xi0kKV0fyqbdtdZcJi2wSskyB1tyRJs/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Adriana Dropulic</a>, Grad Student, Princeton</strong>
+    <ul>
+      <li><strong>Tuesday, October  4, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Machine Learning the 6th Dimension: Stellar Radial Velocities from 5D Phase-Space Correlations</em></li>
+      <li>The Gaia satellite will observe the positions and velocities of over a billion Milky Way stars. In the early data releases, most observed stars do not have complete 6D phase-space information. We demonstrate the ability to infer the missing line-of-sight velocities until more spectroscopic observations become available. We utilize a novel neural network architecture that, after being trained on a subset of data with complete phase-space information, takes in a star’s 5D astrometry (angular coordinates, proper motions, and parallax) and outputs a predicted line-of-sight velocity with an associated uncertainty. Working with a mock Gaia catalog, we show that the network can successfully recover the distributions and correlations of each velocity component for stars that fall within ~5 kpc of the Sun. We also demonstrate that the network can accurately reconstruct the velocity distribution of a kinematic substructure in the stellar halo that is spatially uniform, even when it comprises a small fraction of the total star count. We apply the neural network to real Gaia data and discuss how the inferred information augments our understanding of the Milky Way’s formation history.</li>
+      <li><a href="https://drive.google.com/file/d/1Y8zu457kF-_7RANQThgrqlm7IZzp-bFi/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Iris Cong</a>, Grad Student, Harvard</strong>
+    <ul>
+      <li><strong>Tuesday, September 27, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Quantum Convolutional Neural Networks</em></li>
+      <li>Convolutional neural networks (CNNs) have recently proven successful for many complex applications ranging from image recognition to precision medicine. In the first part of my talk, motivated by recent advances in realizing quantum information processors, I introduce and analyze a quantum circuit-based algorithm inspired by CNNs. Our quantum convolutional neural network (QCNN) uses only O(log(N)) variational parameters for input sizes of N qubits, allowing for its efficient training and implementation on realistic, near-term quantum devices. To explicitly illustrate its capabilities, I show that QCNN can accurately recognize quantum states associated with a one-dimensional symmetry-protected topological phase, with performance surpassing existing approaches. I further demonstrate that QCNN can be used to devise a quantum error correction (QEC) scheme optimized for a given, unknown error model that substantially outperforms known quantum codes of comparable complexity. The design of such error correction codes is particularly important for near-term experiments, whose error models may be different from those addressed by general-purpose QEC schemes. If time permits, I will also present our latest results on generalizing the QCNN framework to more accurately and efficiently identify two-dimensional topological phases of matter.</li>
+      <li><a href="https://docs.google.com/document/d/1W44NYu7-R8jfxp1DnJ7eW77IYt3fmxPGfPTRWxEbejg/edit?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Miles Cranmer</a>, Grad Student, Princeton</strong>
+    <ul>
+      <li><strong>Tuesday, September 20, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Interpretable Machine Learning for Physics</em></li>
+      <li>Would Kepler have discovered his laws if machine learning had been around in 1609? Or would he have been satisfied with the accuracy of some black box regression model, leaving Newton without the inspiration to find the law of gravitation? In this talk I will present a review of some industry-oriented machine learning algorithms, and discuss a major issue facing their use in the natural sciences: a lack of interpretability. I will then outline several approaches I have created with collaborators to help address these problems, based largely on a mix of structured deep learning and symbolic methods. This will include an introduction to the PySR software (https://astroautomata.com/PySR), a Python/Julia package for high-performance symbolic regression. I will conclude by demonstrating applications of such techniques and how we may gain new insights from such results.</li>
+      <li><a href="https://drive.google.com/file/d/176ynOd7WzIY2zCWYuFF3WfNGyHi0ptJv/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Anindita Maiti</a>, Grad Student, Northeastern</strong>
+    <ul>
+      <li><strong>Tuesday, September 13, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>A Study of Neural Network Field Theories</em></li>
+      <li>I will present a systematic exploration of field theories arising in Neural Networks, using a dual framework given by Neural Network parameters. The infinite width limit of NN architectures, combined with i.i.d. parameters, lead to Gaussian Processes in Neural Networks by the Central Limit Theorem (CLT), corresponding to generalized free field theories. Small and large violations of the CLT respectively lead to weakly coupled and non-perturbative non-Lagrangian field theories in Neural Networks. Non-Gaussianity, locality (via cluster decomposition), and symmetries can be specified by corresponding field theory terms. We identify scaling laws with parameters and identify ‘critical regimes’ in parameter space that mimic transitions from trivial to nontrivial theories in physics.</li>
+      <li><a href="https://drive.google.com/file/d/1WsbFwGsV8NBcVMTAs3UBUjZgQ3XLTb4U/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="spring-2022">Spring 2022</h3>
+
+<ul>
+  <li><strong><a href="">Manami Kanemura</a>, Undergraduate Student, Northeastern University (completed co-op with Bryan Ostdiek)</strong>
+    <ul>
+      <li><strong>Thursday, May 26, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Using Soft-Introspection to improve anomaly detection at LHC</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/2012.13253">Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder</a>; <a href="https://arxiv.org/abs/2110.06948">Challenges for Unsupervised Anomaly Detection in Particle Physics</a></li>
+      <li><a href="https://drive.google.com/file/d/1A4oijQ-rRR3NhSTka0Mw5nD5yzULb-W-/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Mark Hamilton</a>, Graduate Student, MIT</strong>
+    <ul>
+      <li><strong>Thursday, May 12, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Unsupervised Semantic Segmentation by Distilling Feature Correspondences</em></li>
+      <li>Resources: <a href="https://mhamilton.net/stego.html">Website</a>; <a href="https://arxiv.org/abs/2203.08414">Paper</a>; <a href="https://aka.ms/stego-code">Code</a></li>
+      <li><a href="https://drive.google.com/file/d/1LtKWMFvDBzRG774w12BSQmREqit0gw1-/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Dylan Hadfield</a>, Assistant Professor, MIT</strong>
+    <ul>
+      <li><strong>Thursday, May  5, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Overoptimization, Incompleteness, and Goodhart’s Law</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/1611.08219">https://arxiv.org/abs/1611.08219</a>; <a href="https://arxiv.org/abs/1705.09990">https://arxiv.org/abs/1705.09990</a>; <a href="https://arxiv.org/abs/2102.03896">https://arxiv.org/abs/2102.03896</a></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Benjamin Fuks</a>, Professor, Sorbonne University</strong>
+    <ul>
+      <li><strong>Thursday, April 28, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Precision simulations for new physics</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/1907.04898">Precision simulations for new physics (JHEP 12 (2019) 008)</a>; <a href="https://arxiv.org/abs/1901.09937">How precision allows us to design new variables to look for signals (Phys. Rev. D 100, 074010 (2019)</a>; <a href="https://arxiv.org/abs/2109.11815">Trying to do better with boosted decision trees on the basis of tree-level simulations  (JHEP 04 (2022) 015)</a></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Carolina Cuesta</a>, PhD Student, Durham University &amp; Incoming IAIFI Fellow</strong>
+    <ul>
+      <li><strong>Thursday, April 21, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Equivariant normalizing flows and their application to cosmology</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/2202.05282">https://arxiv.org/abs/2202.05282</a>; <a href="https://arxiv.org/abs/2105.09016">https://arxiv.org/abs/2105.09016</a></li>
+      <li><a href="https://docs.google.com/document/d/1bU_ZsQkFuMsx00uCf3U_KeqLMF_NU6nW_qVvsdEoMlQ/edit?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Anatoly Dymarsky</a>, Associate Professor, University of Kentucky</strong>
+    <ul>
+      <li><strong>Thursday, April 14, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Tensor network to learn the wave function of data</em></li>
+      <li>We use tensor network-based architecture to train a network which simultaneously accomplishes two tasks: image classification and image sampling. We argue that simultaneous performance of these tasks means our network has successfully learned the whole ‘manifold of data’ (using the terminology from the literature) - namely all possible images of a particular kind. We use a black and white version of MNIST, hence our network learns all possible images depicting a particular digit. We access global properties of the ‘manifold of data’ by calculating its size. Thus, we found there are 2^72 possible images of digit 3. We explain this number is robust and largely independent of the details of training process etc. Resources: <a href="https://arxiv.org/abs/2111.08014">Tensor network to learn the wavefunction of data</a></li>
+      <li><a href="https://drive.google.com/file/d/1zStOMyUi3aCk9a43zGxXkCEz_phd_Dmc/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Yin Lin</a>, Postdoctoral Researcher, MIT</strong>
+    <ul>
+      <li><strong>Thursday, April  7, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Accelerating Dirac equation solves in lattice QFT with neural-network preconditioners</em></li>
+      <li>Resources: <a href="https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf">An Introduction to the Conjugate Gradient Method Without the Agonizing Pain</a>; <a href="https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf">Iterative Methods for Sparse Linear Systems</a>; <a href="https://arxiv.org/abs/1906.06925">Deep Learning of Preconditioners for Conjugate Gradient Solvers in Urban Water Related Problems</a>; <a href="https://arxiv.org/abs/2003.12230">Learning to Optimize Non-Rigid Tracking</a></li>
+      <li><a href="https://drive.google.com/file/d/1q9udj9V_LTJFY7ATFGU35sjwVzmpXinB/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Denis Boyda</a>, Postdoctoral Appointee, Argonne National Laboratory &amp; Incoming IAIFI Fellow</strong>
+    <ul>
+      <li><strong>Thursday, March 17, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Overview of some popular Machine Learning frameworks for data parallelism</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/2006.15704">PyTorch Distributed: Experiences on Accelerating Data Parallel Training</a>; <a href="https://arxiv.org/abs/1802.05799">Horovod: fast and easy distributed deep learning in TensorFlow</a>; <a href="https://arxiv.org/abs/1910.02054">ZeRO: Memory Optimizations Toward Training Trillion Parameter Models</a></li>
+      <li><a href="https://drive.google.com/file/d/14x1xuW2iSsGbEvrrZB-xfc5Np6ID3Wnt/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Jessie Micallef</a>, PhD Student, Michigan State University &amp; Incoming IAIFI Fellow</strong>
+    <ul>
+      <li><strong>Thursday, March 10, 2022, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Adapting CNNs to Reconstruct Sparse, GeV-Scale IceCube Neutrino Events</em></li>
+      <li>Resources: <a href="https://pos.sissa.it/395/1053/pdf">Reconstructing Neutrino Energy using CNNs for GeV Scale IceCube Events</a>; <a href="https://pos.sissa.it/395/1054/pdf">Direction Reconstruction using a CNN for GeV-Scale Neutrinos in IceCube</a></li>
+      <li><a href="https://drive.google.com/file/d/1jDfgHtzJK6tstCXS22_l5mmKhbiZOWJN/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="fall-2021">Fall 2021</h3>
+
+<ul>
+  <li><strong><a href="">Murphy Niu</a>, Research Scientist, Google Quantum AI</strong>
+    <ul>
+      <li><strong>Friday, December  3, 2021, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Entangling Quantum Generative Adversarial Networks using Tensorflow Quantum</em></li>
+      <li>Resources: <a href="https://arxiv.org/pdf/2105.00080.pdf">Entangling Quantum GANs</a>; <a href="https://arxiv.org/pdf/2003.02989.pdf">Related research</a></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Eric Michaud</a>, PhD Student, MIT</strong>
+    <ul>
+      <li><strong>Thursday, November 18, 2021, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Curious Properties of Neural Networks</em></li>
+      <li>In this informal talk/discussion, I will highlight some facts about neural networks which I find to be particularly fun and surprising. Possible topics could include the Lottery Ticket Hypothesis, Double Descent, and ‘grokking’. There will be time for discussion and for attendees to bring up their own favorite surprising facts about deep learning. Resources: <a href="https://arxiv.org/abs/1803.03635">Lottery Ticket Hypothesis</a>; <a href="https://arxiv.org/abs/1912.02292">Double Descent</a>; <a href="https://mathai-iclr.github.io/papers/papers/MATHAI_29_paper.pdf">Grokking</a></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Ge Yang</a>, Postdoctoral Fellow, IAIFI</strong>
+    <ul>
+      <li><strong>Thursday, October 21, 2021, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Learning and Generalization: Revisiting Neural Representations</em></li>
+      <li>Understanding how deep neural networks learn and generalize has been a central pursuit of intelligence research. This is because we want to build agents that can learn quickly from a small amount of data, that also generalizes to a wider set of scenarios. In this talk, we take a systems approach by identifying key bottleneck components that limits learning and generalization. We will present two key results — overcoming the simplicity bias of neural value approximation via random Fourier features and going beyond the training distribution via invariance through inference.</li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Ziming Liu</a>, Grad Student, MIT</strong>
+    <ul>
+      <li><strong>Thursday, October  7, 2021, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Dynamics in Modern Deep Learning Models</em></li>
+      <li>Resources: <a href="https://arxiv.org/pdf/2106.03181.pdf">Transient Chaos in BERT</a>; <a href="https://arxiv.org/pdf/2107.01390.pdf">Memory and attention in deep learning</a>; <a href="https://arxiv.org/pdf/2107.05264.pdf">The Brownian motion in the transformer mode</a></li>
+      <li><a href="https://drive.google.com/file/d/1Wirl7WS1Wg1i_b0hVDxv1El1PrbsZ-Zm/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Michael Douglas</a>, Researcher, Harvard CMSA</strong>
+    <ul>
+      <li><strong>Thursday, September 23, 2021, 11:00am–12:00pm, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Solving Combinatorial Problems using AI/ML</em></li>
+      <li>Resources: Bright et al 1907.04408](https://arxiv.org/abs/1907.04408); <a href="https://arxiv.org/abs/1905.10192">Heule et al 1905.10192</a>; <a href="https://arxiv.org/abs/1903.11616">Halverson et al 1903.11616</a>; <a href="https://arxiv.org/abs/1805.07470">McAleer et al 1805.07470</a>; <a href="https://arxiv.org/abs/2010.16263">Gukov et al 2010.16263</a>; <a href="https://www.davidsilver.uk/teaching">General sources on reinforcement learning</a>;<a href="https://uwaterloo.ca/mathcheck">The MathCheck SAT+CAS system</a></li>
+      <li><a href="https://drive.google.com/file/d/18QpLIp1gwf1Qp8Qhjb4TUJnar-KFGSXC/view?usp=share_link">Talk Slides</a> (for IAIFI members only)</li>
+    </ul>
+  </li>
+  <li><strong><a href="">Dan Roberts</a>, Research Affiliate, MIT</strong>
+    <ul>
+      <li><strong>Wednesday, December  2, 2020, 12:00am–12:00am, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Effective Theory of Deep Learning</em></li>
+      <li>Resource: <a href="https://arxiv.org/abs/2106.10165">The Principles of Deep Learning Theory</a></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Ziming Liu</a>, Grad Student, MIT</strong>
+    <ul>
+      <li><strong>Wednesday, November 18, 2020, 12:00am–12:00am, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Scaling Laws of Learning</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/2010.14701">Scaling Laws of Learning 1</a>; <a href="https://arxiv.org/abs/2004.10802">Scaling Laws of Learning 2</a>; <a href="https://arxiv.org/abs/2001.08361">Scaling Laws of Learning 3</a></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Andrew Tan</a>, Grad Student, MIT</strong>
+    <ul>
+      <li><strong>Wednesday, November  4, 2020, 12:00am–12:00am, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Estimating Mutual Information</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/1905.06922">Estimating Mutual Information</a></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Bhairav Mehta</a>, Grad Student, MIT</strong>
+    <ul>
+      <li><strong>Tuesday, October 20, 2020, 12:00am–12:00am, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Learning Invariances</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/2009.00329">Learning Invariances</a></li>
+      <li></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="spring-2021">Spring 2021</h3>
+
+<ul>
+  <li><strong><a href="">Siddharth Mishra-Sharma</a>, Postdoctoral Fellow, IAIFI</strong>
+    <ul>
+      <li><strong>Tuesday, May 11, 2021, 12:00am–12:00am, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Simulation-Based Inference Focusing on Astrophysical Applications</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/1911.01429">Simulation-Based Inference</a>; <a href="https://arxiv.org/abs/1909.02005">Astrophysical Applications</a></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Anna Golubeva</a>, Postdoctoral Fellow, IAIFI</strong>
+    <ul>
+      <li><strong>Tuesday, April 27, 2021, 12:00am–12:00am, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Are Wider Nets Better Given the Same Number of Parameters?</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/2010.14495">Are Wider Nets Better Given the Same Number of Parameters?</a></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Di Luo</a>, Postdoctoral Fellow, IAIFI</strong>
+    <ul>
+      <li><strong>Tuesday, April  6, 2021, 12:00am–12:00am, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Simulating Quantum Many-Body Physics with Neural Network Representation</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/1807.10770">Simulating Quantum Many-Body Physics</a>; <a href="https://arxiv.org/pdf/1912.11052.pdf">Related research 1</a>; <a href="https://arxiv.org/abs/2012.05232">Related research 2</a></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Jacob Zavatone-Veth</a>, Grad Student, Harvard</strong>
+    <ul>
+      <li><strong>Tuesday, March  2, 2021, 12:00am–12:00am, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Non-Gaussian Processes and Neural Networks at Finite Widths</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/1910.00019">Non-Gaussian Processes and Neural Networks at Finite Widths</a></li>
+      <li></li>
+    </ul>
+  </li>
+  <li><strong><a href="">Anindita Maiti</a>, Grad Student, Northeastern</strong>
+    <ul>
+      <li><strong>Wednesday, February 17, 2021, 12:00am–12:00am, MIT LNS Conference Room (26-528)</strong></li>
+      <li><em>Neural Networks and Quantum Field Theory</em></li>
+      <li>Resources: <a href="https://arxiv.org/abs/2008.08601">Neural Networks and Quantum Field Theory</a></li>
+      <li></li>
+    </ul>
+  </li>
+</ul>
+
+</div><div class="d-print-none"><footer class="article__footer"><!-- start custom article footer snippet -->
+
+<!-- end custom article footer snippet -->
+</footer>
+</div>
+
+</div>
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    $(function() {
+      var $this ,$scroll;
+      var $articleContent = $('.js-article-content');
+      var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+      var scroll = hasSidebar ? '.js-page-main' : 'html, body';
+      $scroll = $(scroll);
+
+      $articleContent.find('.highlight').each(function() {
+        $this = $(this);
+        $this.attr('data-lang', $this.find('code').attr('data-lang'));
+      });
+      $articleContent.find('h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]').each(function() {
+        $this = $(this);
+        $this.append($('<a class="anchor d-print-none" aria-hidden="true"></a>').html('<i class="fas fa-anchor"></i>'));
+      });
+      $articleContent.on('click', '.anchor', function() {
+        $scroll.scrollToAnchor('#' + $(this).parent().attr('id'), 400);
+      });
+    });
+  });
+})();
+</script>
+</div><section class="page__comments d-print-none"></section></article><!-- start custom main bottom snippet -->
+
+<!-- end custom main bottom snippet -->
+</div>
+            </div></div></div><div class="page__footer d-print-none">
+<footer class="footer py-4 js-page-footer">
+  <div class="main">
+<div class="site-info mt-2">
+
+<p style="text-align:center;"><a href="mailto:iaifi@mit.edu"><img src="images/email-icon.svg" style="max-width:50px;width:5%" hspace="20"></a> <a href="https://twitter.com/iaifi_news"><img src="images/twitter-icon-circle-blue-logo-preview-400x400.png" style="max-width:400px;width:5%" hspace="20"></a> <a href="https://www.linkedin.com/company/iaifi/"><img src="images/In-Blue-40.png" style="max-width:40px;width:4%" hspace="20"></a>
+</p>
+
+<table width=100%>
+  <tr>
+    <td valign="center"> <img src="/nsf-logo-128.png" height="40rem"></td>
+    <td align="left" valign="top">
+This project is supported by National Science Foundation under Cooperative Agreement PHY-2019786. Any opinions, findings, conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+</td>
+</tr>
+</table>
+
+</div>
+<!--
+    <div class="site-info mt-2">
+      <div>© NSF IAIFI ,
+        Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
+        title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
+      </div>
+    </div>
+  -->
+  </div>
+</footer>
+</div></div>
+    </div><script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $body = $('body'), $window = $(window);
+    var $pageRoot = $('.js-page-root'), $pageMain = $('.js-page-main');
+    var activeCount = 0;
+    function modal(options) {
+      var $root = this, visible, onChange, hideWhenWindowScroll = false;
+      var scrollTop;
+      function setOptions(options) {
+        var _options = options || {};
+        visible = _options.initialVisible === undefined ? false : show;
+        onChange = _options.onChange;
+        hideWhenWindowScroll = _options.hideWhenWindowScroll;
+      }
+      function init() {
+        setState(visible);
+      }
+      function setState(isShow) {
+        if (isShow === visible) {
+          return;
+        }
+        visible = isShow;
+        if (visible) {
+          activeCount++;
+          scrollTop = $(window).scrollTop() || $pageMain.scrollTop();
+          $root.addClass('modal--show');
+          $pageMain.scrollTop(scrollTop);
+          activeCount === 1 && ($pageRoot.addClass('show-modal'), $body.addClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.on('scroll', hide);
+          $window.on('keyup', handleKeyup);
+        } else {
+          activeCount > 0 && activeCount--;
+          $root.removeClass('modal--show');
+          $window.scrollTop(scrollTop);
+          activeCount === 0 && ($pageRoot.removeClass('show-modal'), $body.removeClass('of-hidden'));
+          hideWhenWindowScroll && window.hasEvent('touchstart') && $window.off('scroll', hide);
+          $window.off('keyup', handleKeyup);
+        }
+        onChange && onChange(visible);
+      }
+      function show() {
+        setState(true);
+      }
+      function hide() {
+        setState(false);
+      }
+      function handleKeyup(e) {
+        // Char Code: 27  ESC
+        if (e.which ===  27) {
+          hide();
+        }
+      }
+      setOptions(options);
+      init();
+      return {
+        show: show,
+        hide: hide,
+        $el: $root
+      };
+    }
+    $.fn.modal = modal;
+  });
+})();
+</script><div class="modal modal--overflow page__search-modal d-print-none js-page-search-modal"></div></div>
+
+
+<script>(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function scrollToAnchor(anchor, duration, callback) {
+      var $root = this;
+      $root.animate({ scrollTop: $(anchor).position().top }, duration, function() {
+        window.history.replaceState(null, '', window.location.href.split('#')[0] + anchor);
+        callback && callback();
+      });
+    }
+    $.fn.scrollToAnchor = scrollToAnchor;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function affix(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroll,
+        offsetBottom = 0, scrollTarget = window, scroll = window.document, disabled = false, isOverallScroller = true,
+        rootTop, rootLeft, rootHeight, scrollBottom, rootBottomTop,
+        hasInit = false, curState;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.offsetBottom && (offsetBottom = _options.offsetBottom);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroll && (scroll = _options.scroll);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $scrollTarget = $(scrollTarget);
+        isOverallScroller = window.isOverallScroller($scrollTarget[0]);
+        $scroll = $(scroll);
+      }
+      function preCalc() {
+        top();
+        rootHeight = $root.outerHeight();
+        rootTop = $root.offset().top + (isOverallScroller ? 0 :  $scrollTarget.scrollTop());
+        rootLeft = $root.offset().left;
+      }
+      function calc(needPreCalc) {
+        needPreCalc && preCalc();
+        scrollBottom = $scroll.outerHeight() - offsetBottom - rootHeight;
+        rootBottomTop = scrollBottom - rootTop;
+      }
+      function top() {
+        if (curState !== 'top') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: 0
+          });
+          curState = 'top';
+        }
+      }
+      function fixed() {
+        if (curState !== 'fixed') {
+          $root.addClass('fixed').css({
+            left: rootLeft + 'px',
+            top: 0
+          });
+          curState = 'fixed';
+        }
+      }
+      function bottom() {
+        if (curState !== 'bottom') {
+          $root.removeClass('fixed').css({
+            left: 0,
+            top: rootBottomTop + 'px'
+          });
+          curState = 'bottom';
+        }
+      }
+      function setState() {
+        var scrollTop = $scrollTarget.scrollTop();
+        if (scrollTop >= rootTop && scrollTop <= scrollBottom) {
+          fixed();
+        } else if (scrollTop < rootTop) {
+          top();
+        } else {
+          bottom();
+        }
+      }
+      function init() {
+        if(!hasInit) {
+          var interval, timeout;
+          calc(true); setState();
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState();
+          });
+          $window.on('resize', function() {
+            disabled || (calc(true), setState());
+          });
+          hasInit = true;
+        }
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions,
+        refresh: function() {
+          calc(true, { animation: false }); setState();
+        }
+      };
+    }
+    $.fn.affix = affix;
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    function toc(options) {
+      var $root = this, $window = $(window), $scrollTarget, $scroller, $tocUl = $('<ul class="toc toc--ellipsis"></ul>'), $tocLi, $headings, $activeLast, $activeCur,
+        selectors = 'h1,h2,h3', container = 'body', scrollTarget = window, scroller = 'html, body', disabled = false,
+        headingsPos, scrolling = false, hasRendered = false, hasInit = false;
+
+      function setOptions(options) {
+        var _options = options || {};
+        _options.selectors && (selectors = _options.selectors);
+        _options.container && (container = _options.container);
+        _options.scrollTarget && (scrollTarget = _options.scrollTarget);
+        _options.scroller && (scroller = _options.scroller);
+        _options.disabled !== undefined && (disabled = _options.disabled);
+        $headings = $(container).find(selectors).filter('[id]');
+        $scrollTarget = $(scrollTarget);
+        $scroller = $(scroller);
+      }
+      function calc() {
+        headingsPos = [];
+        $headings.each(function() {
+          headingsPos.push(Math.floor($(this).position().top));
+        });
+      }
+      function setState(element, disabled) {
+        var scrollTop = $scrollTarget.scrollTop(), i;
+        if (disabled || !headingsPos || headingsPos.length < 1) { return; }
+        if (element) {
+          $activeCur = element;
+        } else {
+          for (i = 0; i < headingsPos.length; i++) {
+            if (scrollTop >= headingsPos[i]) {
+              $activeCur = $tocLi.eq(i);
+            } else {
+              $activeCur || ($activeCur = $tocLi.eq(i));
+              break;
+            }
+          }
+        }
+        $activeLast && $activeLast.removeClass('active');
+        ($activeLast = $activeCur).addClass('active');
+      }
+      function render() {
+        if(!hasRendered) {
+          $root.append($tocUl);
+          $headings.each(function() {
+            var $this = $(this);
+            $tocUl.append($('<li></li>').addClass('toc-' + $this.prop('tagName').toLowerCase())
+              .append($('<a></a>').text($this.text()).attr('href', '#' + $this.prop('id'))));
+          });
+          $tocLi = $tocUl.children('li');
+          $tocUl.on('click', 'a', function(e) {
+            e.preventDefault();
+            var $this = $(this);
+            scrolling = true;
+            setState($this.parent());
+            $scroller.scrollToAnchor($this.attr('href'), 400, function() {
+              scrolling = false;
+            });
+          });
+        }
+        hasRendered = true;
+      }
+      function init() {
+        var interval, timeout;
+        if(!hasInit) {
+          render(); calc(); setState(null, scrolling);
+          // run calc every 100 millisecond
+          interval = setInterval(function() {
+            calc();
+          }, 100);
+          timeout = setTimeout(function() {
+            clearInterval(interval);
+          }, 45000);
+          window.pageLoad.then(function() {
+            setTimeout(function() {
+              clearInterval(interval);
+              clearTimeout(timeout);
+            }, 3000);
+          });
+          $scrollTarget.on('scroll', function() {
+            disabled || setState(null, scrolling);
+          });
+          $window.on('resize', window.throttle(function() {
+            if (!disabled) {
+              render(); calc(); setState(null, scrolling);
+            }
+          }, 100));
+        }
+        hasInit = true;
+      }
+
+      setOptions(options);
+      if (!disabled) {
+        init();
+      }
+      $window.on('resize', window.throttle(function() {
+        init();
+      }, 200));
+      return {
+        setOptions: setOptions
+      };
+    }
+    $.fn.toc = toc;
+  });
+})();
+/*(function () {
+
+})();*/
+</script><script>
+  /* toc must before affix, since affix need to konw toc' height. */(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  var TOC_SELECTOR = window.TEXT_VARIABLES.site.toc.selectors;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $window = $(window);
+    var $articleContent = $('.js-article-content');
+    var $tocRoot = $('.js-toc-root'), $col2 = $('.js-col-aside');
+    var toc;
+    var tocDisabled = false;
+    var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+    var hasToc = $articleContent.find(TOC_SELECTOR).length > 0;
+
+    function disabled() {
+      return $col2.css('display') === 'none' || !hasToc;
+    }
+
+    tocDisabled = disabled();
+
+    toc = $tocRoot.toc({
+      selectors: TOC_SELECTOR,
+      container: $articleContent,
+      scrollTarget: hasSidebar ? '.js-page-main' : null,
+      scroller: hasSidebar ? '.js-page-main' : null,
+      disabled: tocDisabled
+    });
+
+    $window.on('resize', window.throttle(function() {
+      tocDisabled = disabled();
+      toc && toc.setOptions({
+        disabled: tocDisabled
+      });
+    }, 100));
+
+  });
+})();
+(function() {
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    var $window = $(window), $pageFooter = $('.js-page-footer');
+    var $pageAside = $('.js-page-aside');
+    var affix;
+    var tocDisabled = false;
+    var hasSidebar = $('.js-page-root').hasClass('layout--page--sidebar');
+
+    affix = $pageAside.affix({
+      offsetBottom: $pageFooter.outerHeight(),
+      scrollTarget: hasSidebar ? '.js-page-main' : null,
+      scroller: hasSidebar ? '.js-page-main' : null,
+      scroll: hasSidebar ? $('.js-page-main').children() : null,
+      disabled: tocDisabled
+    });
+
+    $window.on('resize', window.throttle(function() {
+      affix && affix.setOptions({
+        disabled: tocDisabled
+      });
+    }, 100));
+
+    window.pageAsideAffix = affix;
+  });
+})();
+</script><script>
+  window.Lazyload.js(['https://unpkg.com/jquery@3.3.1/dist/jquery.min.js', 'https://unpkg.com/chart.js@2.7.2/dist/Chart.min.js'], function() {
+    var $canvas = null, $this = null, _ctx = null, _text = '';
+    $('.language-chart').each(function(){
+      $this = $(this);
+      $canvas = $('<canvas></canvas>');
+      _text = $this.text();
+      $this.text('').append($canvas);
+      _ctx = $canvas.get(0).getContext('2d');
+      (_ctx && _text) && (new Chart(_ctx, JSON.parse(_text)) && $this.attr('data-processed', true));
+    });
+  });
+</script>
+<script type="text/x-mathjax-config">
+	var _config = { tex2jax: {
+		inlineMath: [['$','$'], ['\\(','\\)']]
+	}};MathJax.Hub.Config(_config);
+</script>
+<script type="text/javascript" src="https://unpkg.com/mathjax@2.7.4/unpacked/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
+
+    </div>
+    <script>(function () {
+  var $root = document.getElementsByClassName('root')[0];
+  if (window.hasEvent('touchstart')) {
+    $root.dataset.isTouch = true;
+    document.addEventListener('touchstart', function(){}, false);
+  }
+})();
+</script>
+  </body>
+</html>
+

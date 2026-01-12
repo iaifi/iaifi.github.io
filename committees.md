@@ -32,11 +32,11 @@ The Committees meet on an as-needed basis and are typically organized around tem
 * At-a-glance: Serves as an advisory body to IAIFI Management on aspects related to ethics.
 * Current members: Lisa Barsotti, MIT (Chair); David Kaiser, MIT; Diego Vasquez, UPRM; Lesbia Lopez, UPRM; Vinicius Da Silva, Tufts; Marisa LaFleur, IAIFI Managing Director; Thomas Bradford, IAIFI Project Coordinator
 
-## Journal Club
-* At-a-glance: Schedules and coordinates the IAIFI Journal Club and introduces Journal Club presenters
-* Current Journal Club Organizers: Sean Benevedes, MIT; Victoria Zhang, MIT
-* See past [Journal Club Talks](/journal-club.html)
-* Past Journal Club Organizers: Alexander Gagliano, John Martyn, Andrew Tan, Rikab Gambhir
+## Lunch Discussions (formerly Journal Club)
+* At-a-glance: Schedules and coordinates the IAIFI Lunch Discussions
+* Current Lunch Discussion Organizers: Sean Benevedes, MIT; Victoria Zhang, MIT
+* See past [Lunch Discussions and Journal Club Club Talks](/lunch-discussions.html)
+* Past Lunch Discussion Organizers: Alexander Gagliano, John Martyn, Andrew Tan, Rikab Gambhir
 
 ## Summer School & Workshop
 * At-a-glance: Plans and coordinates the IAIFI Summer School and Workshop, including identifying and inviting lecturers and plenary speakers, developing the schedule, and reviewing applicants to the Summer School. 

@@ -100,8 +100,8 @@ aside:
       <li><a href="/current-fellows.html">IAIFI Fellows:</a> Details about current and past IAIFI Fellows</li>
       <li><a href="/phd-summer-school.html">IAIFI Summer School:</a> Details about our annual Summer School for early career researchers at the intersection of AI and Physics</li>
       <li><a href="/ecec.html">Early Career and Ethics:</a> Details about our approaches to these important topics for the IAIFI community and beyond.</li>
-      <li><a href="/journal-club.html">Journal Club:</a> Weekly talks given by early career researchers for early career researchers</li>
-      <li><a href="/education.html">Education: Includes details of courses and other university-level education efforts</a></li>
+      <li><a href="/lunch-discussions.html">Lunch Discussions:</a> Weekly discussion sessions led by early career researchers for early career researchers; formerly the IAIFI Journal Club</li>
+      <li><a href="/education.html">Education:</a> Includes details of courses and other university-level education efforts</li>
       <li><a href="/career-support.html">Career Support:</a> Advice, resources, and events to help support early career researchers interested in AI+Physics</li>
       <li><a href="/job-board.html">Job Board:</a> Jobs of relevance to the AI+Physics community</li>
       <li><a href="/funding-opportunities.html">Funding Opportunities:</a> Grant, fellowship, and other funding opportunities of relevance to the AI+Physics community</li>
