@@ -2,15 +2,15 @@
 layout: article
 header: false
 footer: false
-title: "Announcing IAIFI Summer School and Workshop 2026"
+title: "IAIFI Summer School and Workshop 2026"
 show_title: false
 --- 
 
 <img src="https://iaifi.org/images/phd-summer-school-logo-2026.png" align="center" style="max-width:3600px;width:100%">
 
-## IAIFI Summer School 2026: Applications Open, Due February 9, 2026!
+## IAIFI Summer School 2026: Applications Due February 9, 2026!
 
-We are pleased to announce that registration is now open for the 2026 IAIFI Summer School, featuring lectures, hands-on tutorials, lightning talks, a hackathon, and networking events.
+Registration is open for the 2026 IAIFI Summer School, featuring lectures, hands-on tutorials, lightning talks, a hackathon, and networking events.
 
 [Apply to the 2026 IAIFI Summer School](https://iaifi.org/phd-summer-school){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -22,7 +22,7 @@ We are pleased to announce that registration is now open for the 2026 IAIFI Summ
 
 ## Save the Date: IAIFI Summer Workshop 2026
 
-We hope you can also save the date for IAIFI Summer Workshop, which will be held August 10-14, 2026 in Boston, MA. More details will be provided early in 2026.
+We hope you can also save the date for IAIFI Summer Workshop, which will be held August 10-14, 2026 in Boston, MA. More details will be provided in the coming weeks.
 
 [IAIFI Summer Workshop Updates](https://iaifi.org/summer-workshop){:.button.button--outline-primary.button--pill.button--lg}
 

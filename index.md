@@ -170,10 +170,13 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
   <a href="/member-resources.html" class="button button--outline-primary button--pill button--lg">For Members</a>
 </div>
 
-<!--
+
 ### IAIFI Jobs
 
+***Applications are open for the MIT Summer Research Program (MSRP).*** Undergraduate students (sophomore, junior, or non-graduating seniors) who might benefit from spending a summer on MIT’s campus, conducting research under the guidance of MIT faculty members, postdoctoral fellows, and advanced graduate students, are invited to apply to MSRP. [Apply by January 20, 2026](https://oge.mit.edu/msrp/) and indicate interest in IAIFI in your application!
+{:.success}
 
+<!--
 ***Applications are now closed for the 2026–2029 IAIFI Fellowship search.*** Learn more about the [IAIFI Fellowship program here](https://iaifi.org/fellows). 
 {:.success}
 -->
