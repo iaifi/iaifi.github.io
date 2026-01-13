@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-01-09
+title: "String Theory from Infinite Width Neural Networks"
+authors: "Samuel Frank, James Halverson"
+abstract: "We realize bosonic string theory with ensembles of infinite width neural networks. The string tension is tuned by the variance of the output weights. The construction provides a new computation of the foundational Virasoro-Shapiro and Veneziano amplitudes as neural network correlators."
+arxiv: "2601.06249"
+date-updated: 2026-01-13
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article@{frank2026stringtheoryinfinitewidth,
+      title={String Theory from Infinite Width Neural Networks},
+      author={Samuel Frank and James Halverson},
+      year={2026},
+      eprint={2601.06249},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2601.06249},
+  }
