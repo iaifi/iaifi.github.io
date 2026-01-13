@@ -29,13 +29,13 @@
 - type: "forum"
   event-name: "IAIFI Community Forum"
   event-committee: ""
-  event-post-date: "2025-11-23"
-  start-date-time: "2025-12-04 11:00"
-  end-date-time: "2025-12-04 12:00"
+  event-post-date: "2026-01-18"
+  start-date-time: "2026-01-29 15:00"
+  end-date-time: "2026-01-29 16:00"
   talk-location: "Zoom"
   talk-zoom: https://mit.zoom.us/j/93955670791?pwd=sTjnl6p9WTPRbmEFnTLMSgux5BZGl4.1
   event-details: "The IAIFI Community Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to building a dynamic AI+Physics community, including social events, industry-academia collaboration, public engagement, etc. The agenda for this week includes: <br>- IAIFI CSAIL board game night on December 12 <br>-Presidential Artificial Intelligence Challenge<br>- Social media engagement<br>- SceneCraft (https://engageai.org/scenecraft/)"
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2lxYnF0dDYwNTBkZDVpYWFhaHRscW11cGwgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2I5Zm9yM3IzMjFhbW5ndGlydHBwYWliZ2EgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://docs.google.com/document/d/1Rht-4gEcX-yStVuzDKLNZYE9U_3FQgDp_lA9eURZwD8/edit?usp=sharing
   priority: high
