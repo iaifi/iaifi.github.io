@@ -8,9 +8,9 @@ show_title: false
 
 <img src="https://iaifi.org/images/phd-summer-school-logo-2026.png" align="center" style="max-width:3600px;width:100%">
 
-## IAIFI Summer School 2026: Applications Due February 9, 2026!
+## Reminder: IAIFI Summer School 2026 Applications are Due February 9, 2026!
 
-Registration is open for the 2026 IAIFI Summer School, featuring lectures, hands-on tutorials, lightning talks, a hackathon, and networking events.
+The 2026 IAIFI Summer School will feature lectures, hands-on tutorials, lightning talks, a hackathon, and networking events.
 
 [Apply to the 2026 IAIFI Summer School](https://iaifi.org/phd-summer-school){:.button.button--outline-primary.button--pill.button--lg}
 
