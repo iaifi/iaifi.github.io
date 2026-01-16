@@ -11,12 +11,12 @@
 {% endif %}
 
 {% assign start_date = talk.start-date-time | date: "%A, %B %e, %Y" %}
-{% assign end_date = talk.end-date-time | date: "%A, %B %e, %Y" %}
+{% assign end_date   = talk.end-date-time   | date: "%A, %B %e, %Y" %}
 {% assign start_time = talk.start-date-time | date: "%l:%M%P" %}
-{% assign end_time = talk.end-date-time | date: "%l:%M%P" %}
+{% assign end_time   = talk.end-date-time   | date: "%l:%M%P" %}
 
-<!-- Determining zoom link-->
-{% assign zoom_link = %}
+<!-- Determining zoom link -->
+{% assign zoom_link = nil %}
 {% if talk.talk-zoom %}
   {% assign zoom_link = talk.talk-zoom %}
 {% elsif site.data.talk-categories[talk.type].zoom %}
@@ -25,21 +25,71 @@
 
 <!-- Event information - only display if matches target day -->
 {% if matches_target_day %}
+  <div style="margin-bottom: 24px;">
+    <!-- Event name (standalone line) -->
+    <p>
+      <strong>
+        {% if talk.event-name %}
+          {{ talk.event-name }}
+        {% else %}
+          {{ site.data.talk-categories[talk.type].name }}
+        {% endif %}
+      </strong>
+      {% if talk.speaker-name %}
+        <strong>:
+          {% if talk.speaker-website %}
+            <a href="{{ talk.speaker-website }}">{{ talk.speaker-name }}</a>
+          {% else %}
+            {{ talk.speaker-name }}
+          {% endif %}
+          ({{ talk.speaker-affiliation }})
+        </strong>
+      {% endif %}
+    </p>
 
-* {%- if talk.event-name %} **{{talk.event-name}}** {% else %} **{{site.data.talk-categories[talk.type].name}}**{%- endif -%}{%- if talk.speaker-name %}**: <a href="{{talk.speaker-website}}">{{talk.speaker-name}}</a> ({{talk.speaker-affiliation}})**
-{%- endif %}
-  * **{{ start_date }}, {{ start_time }} – {{ end_time }},** **{{talk.talk-location}}**
-{%- if talk.talk-title %}
-  * *{{talk.talk-title}}*
-{%- endif %}
-{%- if talk.talk-abstract %}
-  * Abstract: *{{talk.talk-abstract}}*
-{%- endif -%}
-{%- if talk.event-details %}
-  * {{talk.event-details}}
-{%- endif -%}
-{%- if talk.rsvp-link or zoom_link or talk.calendar-link or talk.more-info-link %}
-<br>
-  {% if talk.rsvp-link %}[RSVP/Sign Up]({{talk.rsvp-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if zoom_link %}[Join on Zoom]({{zoom_link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if talk.calendar-link %} [Add to Calendar]({{talk.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %} {% if talk.more-info-link %}[More Details]({{talk.more-info-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}
-{%- endif %}
+    <!-- Bulleted details -->
+    <ul style="list-style-type: disc; margin: 0.5rem 0; padding-left: 1.5rem;">
+      <li>
+        <strong>{{ start_date }}, {{ start_time }} – {{ end_time }},</strong>
+        <strong>{{ talk.talk-location }}</strong>
+      </li>
+
+      {% if talk.talk-title %}
+        <li><em>{{ talk.talk-title }}</em></li>
+      {% endif %}
+
+      {% if talk.talk-abstract %}
+        <li>Abstract: <em>{{ talk.talk-abstract }}</em></li>
+      {% endif %}
+
+      {% if talk.event-details %}
+        <li>{{ talk.event-details }}</li>
+      {% endif %}
+    </ul>
+
+    {% if talk.rsvp-link or zoom_link or talk.calendar-link or talk.more-info-link %}
+      <p>
+        {% if talk.rsvp-link %}
+          <a href="{{ talk.rsvp-link }}" class="button button--outline-primary button--pill button--sm">
+            RSVP/Sign Up
+          </a>
+        {% endif %}
+        {% if zoom_link %}
+          <a href="{{ zoom_link }}" class="button button--outline-primary button--pill button--sm">
+            Join on Zoom
+          </a>
+        {% endif %}
+        {% if talk.calendar-link %}
+          <a href="{{ talk.calendar-link }}" class="button button--outline-primary button--pill button--sm">
+            Add to Calendar
+          </a>
+        {% endif %}
+        {% if talk.more-info-link %}
+          <a href="{{ talk.more-info-link }}" class="button button--outline-primary button--pill button--sm">
+            More Details
+          </a>
+        {% endif %}
+      </p>
+    {% endif %}
+  </div>
 {% endif %}
