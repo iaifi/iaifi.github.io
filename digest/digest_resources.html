@@ -14,14 +14,11 @@
 {% assign digest-number = numerator | divided_by: denominator %}
 {% assign resources = site.data.member-resources %}
 
-<!-- Assembling the research spotlight -->
+<!-- Assembling the resource spotlight -->
 {% for resource in resources %}
     {% if resource.order == digest-number %}
-### \*\**New\*\** Resource Spotlight: {{resource.title}}
-{{resource.description}}<br>
-
-***Going forward, we will be sharing a rotating set of reminders about resources for IAIFI members. If there are resources you are looking for that we have not spotlighted, let us know!***
-
+### Resource Spotlight: {{resource.title}}
+{{resource.description}}<br><br>
 [Provide feedback to IAIFI](https://forms.gle/hk2mrqjaLY8nCZrE6){:.button.button--outline-primary.button--pill.button--sm}
     {% endif %}
 {% endfor %}
