@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-11-13
+title: "Hydrogen-Poor Superluminous Supernovae in the Nebular Phase: Spectral Diversity Due to Ejecta Ionization as a Probe of the Power Source"
+authors: "Peter K. Blanchard, Edo Berger, Sebastian Gomez, Matt Nicholl, Ryan Chornock, Harsh Kumar, Raffaella Margutti, Daichi Hiramatsu, Huei Sears"
+abstract: "We present a large sample of 39 nebular-phase optical spectra of 25 hydrogen-poor superluminous supernovae (SLSNe-I) and jointly analyze them with previously published spectra of 12 events. We measure the properties of key emission features, namely those at 6300, 7300, and 7774 angstroms (associated with [O I], [Ca II]/[O II], and O I, respectively), and find that SLSNe exhibit much wider spectral diversity than normal SNe Ic, primarily in the line ratio , which is highly sensitive to ejecta ionization. Some events exhibit weak [O I] and a clear [O II] contribution to the 7300 angstrom feature, enhancing the ratio, along with [O III] lines at 4363 and 5007 angstroms. Other SLSNe show weak or no lines of ionized oxygen. Moreover, we find that the population exhibits decreasing  over time, while a few outliers instead display sustained high or increasing ratios for extended periods. The ratio  is also correlated with the rise and decline times of the light curves, with slower events exhibiting higher ionization, the first robust connection between early light curve and late-time spectral properties, likely due to the magnetar's impact: slower-evolving SLSNe are generally powered by engines with longer spin-down timescales, which deposit more energy at later phases. Among the events with decreasing , SLSNe with high ionization are on average powered by magnetars with higher thermalized spin-down power, a correlation that is most significant for events with  M. The ionization in the outliers with increasing  may be due to late CSM interaction.  and its evolution are therefore key diagnostics of SLSN engines and progenitor mass loss."
+arxiv: "2511.10747"
+date-updated: 2026-01-20
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{blanchard2025hydrogenpoorsuperluminoussupernovaenebular,
+      title={Hydrogen-Poor Superluminous Supernovae in the Nebular Phase: Spectral Diversity Due to Ejecta Ionization as a Probe of the Power Source},
+      author={Peter K. Blanchard and Edo Berger and Sebastian Gomez and Matt Nicholl and Ryan Chornock and Harsh Kumar and Raffaella Margutti and Daichi Hiramatsu and Huei Sears},
+      year={2025},
+      eprint={2511.10747},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2511.10747},
+  }

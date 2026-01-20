@@ -4,18 +4,23 @@ title: "Towards Universal Unfolding of Detector Effects in High-Energy Physics u
 authors: Camila Pazos, Shuchin Aeron, Pierre-Hugues Beauchemin, Vincent Croft, Martin Klassen, Taritree Wongjirad
 abstract: "The unfolding of detector effects in experimental data is critical for enabling precision measurements in high-energy physics. However, traditional unfolding methods face challenges in scalability, flexibility, and dependence on simulations. We introduce a novel unfolding approach using conditional Denoising Diffusion Probabilistic Models (cDDPM). Our method utilizes the cDDPM for a non-iterative, flexible posterior sampling approach, which exhibits a strong inductive bias that allows it to generalize to unseen physics processes without explicitly assuming the underlying distribution. We test our approach by training a single cDDPM to perform multidimensional particle-wise unfolding for a variety of physics processes, including those not seen during training. Our results highlight the potential of this method as a step towards a 'universal' unfolding tool that reduces dependence on truth-level assumptions."
 arxiv: "2406.01507"
-journal:
-doi: 
+date-updated: 2026-01-20
+journal: "SciPost Phys. Core 8, 064 (2025)"
+doi: "https://doi.org/10.21468/SciPostPhysCore.8.4.064"
 nsf-par:
-code: 
-publication-date: 
+code:
+publication-date: 2025-10-02
 bib-tex: |
-  @article{pazos2024universalunfoldingdetectoreffects,
-      title={Towards Universal Unfolding of Detector Effects in High-Energy Physics using Denoising Diffusion Probabilistic Models},
-      author={Camila Pazos and Shuchin Aeron and Pierre-Hugues Beauchemin and Vincent Croft and Martin Klassen and Taritree Wongjirad},
-      year={2024},
-      eprint={2406.01507},
-      archivePrefix={arXiv},
-      primaryClass={physics.data-an},
-      url={https://arxiv.org/abs/2406.01507},
+  @article{10.21468/SciPostPhysCore.8.4.064,
+        title={{Towards universal unfolding of detector effects in high-energy physics using denoising diffusion probabilistic models}},
+        author={Camila Pazos and Shuchin Aeron and Pierre-Hugues Beauchemin and Vincent Croft and Zhengyan Huan and Martin Klassen and Taritree Wongjirad},
+        journal={SciPost Phys. Core},
+        volume={8},
+        pages={064},
+        year={2025},
+        publisher={SciPost},
+        doi={10.21468/SciPostPhysCore.8.4.064},
+        url={https://scipost.org/10.21468/SciPostPhysCore.8.4.064},,
+  eprint={2406.01507},
+  archivePrefix={arXiv},
   }

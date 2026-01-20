@@ -4,18 +4,21 @@ title: "Conformal Fields from Neural Networks"
 authors: "James Halverson, Joydeep Naskar, Jiahua Tian"
 abstract: "We use the embedding formalism to construct conformal fields in D dimensions, by restricting Lorentz-invariant ensembles of homogeneous neural networks in (D+2) dimensions to the projective null cone. Conformal correlators may be computed using the parameter space description of the neural network. Exact four-point correlators are computed in a number of examples, and we perform a 4D conformal block decomposition that elucidates the spectrum. In some examples the analysis is facilitated by recent approaches to Feynman integrals. Generalized free CFTs are constructed using the infinite-width Gaussian process limit of the neural network, enabling a realization of the free boson. The extension to deep networks constructs conformal fields at each subsequent layer, with recursion relations relating their conformal dimensions and four-point functions. Numerical approaches are discussed."
 arxiv: "2409.12222"
-journal:
-doi:
+date-updated: 2026-01-20
+journal: "J. High Energ. Phys. Volume 2025, article number 39, (2025)"
+doi: "https://doi.org/10.1007/JHEP10(2025)039"
 nsf-par:
-code: 
-publication-date:
+code:
+publication-date: 2025-10-03
 bib-tex: |
-  @article{halverson2024conformalfieldsneuralnetworks,
-      title={Conformal Fields from Neural Networks},
-      author={James Halverson and Joydeep Naskar and Jiahua Tian},
-      year={2024},
-      eprint={2409.12222},
-      archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2409.12222},
+  @article{JHEP10(2025)039,
+  title={Conformal fields from neural networks},
+  author={James Halverson, Joydeep Naskar, Jiahua Tian},
+  year={2025},
+  volume={2025},
+  url={https://doi.org/10.1007/JHEP10(2025)039},
+  journal={Journal of High Energy Physics},
+  eprint={2409.12222},
+  DOI={10.1007/JHEP10(2025)039},
+  archivePrefix={arXiv},
   }

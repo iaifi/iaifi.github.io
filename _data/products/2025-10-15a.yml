@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-10-15
+title: "Constraining Power of Wavelet vs. Power Spectrum Statistics for CMB Lensing and Weak Lensing with Learned Binning"
+authors: "Kyle Boone, Georgios Valogiannis, Marco Gatti, Cora Dvorkin"
+abstract: "We present forecasts for constraints on the matter density () and the amplitude of matter density fluctuations at 8hMpc () from CMB lensing convergence maps and galaxy weak lensing convergence maps. For CMB lensing convergence auto statistics, we compare the angular power spectra ('s) to the wavelet scattering transform (WST) coefficients. For CMB lensing convergence  galaxy weak lensing convergence statistics, we compare the cross angular power spectra to wavelet phase harmonics (WPH). This work also serves as the first application of WST and WPH to these probes. For CMB lensing convergence, we find that WST and 's yield similar constraints in forecasts for the  Observatory and the South Pole Telescope. However, WST gives a tighter constraint on  by a factor of  for  data. When CMB lensing convergence is crossed with galaxy weak lensing convergence projected from  Data Release 2 (DR2), we find that WPH outperforms cross-'s by factors between  and  for individual parameter constraints. To compare these different summary statistics we develop a novel learned binning approach. This method compresses summary statistics while maintaining interpretability. We find this leads to improved constraints compared to more naive binning schemes for 's, WST, and most significantly WPH. By learning the binning and measuring constraints on distinct data sets, our method is robust to overfitting by construction."
+arxiv: "2510.13968"
+date-updated: 2026-01-20
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{boone2025constrainingpowerwaveletvs,
+      title={Constraining Power of Wavelet vs. Power Spectrum Statistics for CMB Lensing and Weak Lensing with Learned Binning},
+      author={Kyle Boone and Georgios Valogiannis and Marco Gatti and Cora Dvorkin},
+      year={2025},
+      eprint={2510.13968},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2510.13968},
+  }

@@ -4,18 +4,26 @@ title: "Learning Efficient Representations of Neutrino Telescope Events"
 authors: "Felix J. Yu, Nicholas Kamp, Carlos A. Argüelles"
 abstract: "Neutrino telescopes detect rare interactions of particles produced in some of the most extreme environments in the Universe. This is accomplished by instrumenting a cubic-kilometer volume of naturally occurring transparent medium with light sensors. Given their substantial size and the high frequency of background interactions, these telescopes amass an enormous quantity of large variance, high-dimensional data. These attributes create substantial challenges for analyzing and reconstructing interactions, particularly when utilizing machine learning (ML) techniques. In this paper, we present a novel approach, called om2vec, that employs transformer-based variational autoencoders to efficiently represent neutrino telescope events by learning compact and descriptive latent representations. We demonstrate that these latent representations offer enhanced flexibility and improved computational efficiency, thereby facilitating downstream tasks in data analysis."
 arxiv: "2410.13148"
-journal:
-doi:
+date-updated: 2026-01-20
+journal: "Journal of Instrumentation, Volume 20, December 2025"
+doi: "https://doi.org/10.1088/1748-0221/20/12/P12010"
 nsf-par:
-code: https://github.com/felixyu7/om2vec
-publication-date:
+code: "https://github.com/felixyu7/om2vec"
+publication-date: 2025-12-05
 bib-tex: |
-  @article{yu2024learningefficientrepresentationsneutrino,
-      title={Learning Efficient Representations of Neutrino Telescope Events},
-      author={Felix J. Yu and Nicholas Kamp and Carlos A. Argüelles},
-      year={2024},
-      eprint={2410.13148},
-      archivePrefix={arXiv},
-      primaryClass={hep-ex},
-      url={https://arxiv.org/abs/2410.13148},
+  @article{Yu_2025,
+  doi = {10.1088/1748-0221/20/12/P12010},
+  url = {https://doi.org/10.1088/1748-0221/20/12/P12010},
+  year = {2025},
+  month = {dec},
+  publisher = {IOP Publishing},
+  volume = {20},
+  number = {12},
+  pages = {P12010},
+  author = {Yu, Felix J. and Kamp, Nicholas and Arg√ºelles, Carlos A.},
+  title = {Learning efficient representations of neutrino telescope events},
+  journal = {Journal of Instrumentation},
+  abstract = {Neutrino telescopes detect rare interactions of particles produced in some of the most extreme environments in the Universe. This is accomplished by instrumenting a cubic-kilometer scale volume of naturally occurring transparent medium with light sensors.  Given their substantial size and the high frequency of background interactions, these telescopes amass an enormous quantity of large variance, high-dimensional data.  These attributes create substantial challenges for analyzing and reconstructing interactions, particularly when utilizing machine learning (ML) techniques.  In this paper, we present a novel approach, called om2vec, that employs transformer-based variational autoencoders to efficiently represent the detected photon arrival time distributions of neutrino telescope events by learning compact and descriptive latent representations.  We demonstrate that these latent representations offer enhanced flexibility and improved computational efficiency, thereby facilitating downstream tasks in data analysis.},
+  eprint={2410.13148},
+  archivePrefix={arXiv},
   }
