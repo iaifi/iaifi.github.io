@@ -10,6 +10,19 @@
   event-details: "We’re excited to announce an upcoming workshop: Statistical Physics for Ambitious Interpretability, hosted by Principles of Intelligence (PIBBSS), a non-profit AI safety research organization. We are excited to expand upon our first workshop, held in October, which brought together researchers in physics, CS, AI safety, and neuroscience and resulted in several exciting new directions. At this event, you can expect seminar-style talks, collaborative breakout sessions, and plenty of time for focused discussions. The workshop is free to attend, and space is limited to ensure production discussions. Please apply at the provided link."
   calendar-link:
   rsvp-link: "https://docs.google.com/forms/d/e/1FAIpQLScP_zb5jO0jyO6GPQvgWLL23mnoJK5s2F2nUoYEDDFxUoc2AQ/viewform?usp=header"
+  
+- type: "external-workshop"
+  event-name: "VERaIPHY initiative (Validation & Evaluation for Robust AI in PHYsics)"
+  event-organizer: "the PHYSTAT Organizing Committee, including Gaia Grosso (IAIFI Fellow)"
+  more-info-link: "https://indico.cern.ch/event/1617006/"
+  event-post-date: "2026-01-18"
+  start-date-time: "2026-02-16 09:00"
+  end-date-time: "2026-02-17 17:00"
+  talk-location: "Hybrid (Amsterdam and remote options)"
+  talk-zoom:
+  event-details: "We are pleased to announce the Second PHYSTAT Workshop on “Statistics meets Machine Learning” in Particle Physics & Astrophysics (February 16–17), presenting the VERaIPHY initiative (Validation & Evaluation for Robust AI in PHYsics). Following the first PHYSTAT workshop on this topic, VERaIPHY has emerged as a coordinated community effort bringing together physicists, statisticians, and ML researchers to develop principled tools to assess the statistical validity, robustness, uncertainty, and interpretability of ML methods in the physical sciences. This second workshop will build on that progress and focus on topics including: (1) training and generalization properties of machine learning methods; (2) uncertainty quantification and robustness; (3) inference and parameter estimation; (4) generative models and statistical validation; (5) anomaly detection and discovery; (6) interpretability and explainability; (7) data representation and information theory. **Registration is required for all participants.**"
+  calendar-link:
+  rsvp-link: "https://indico.cern.ch/event/1617006/"
 
 - type: "external-event"
   event-name: "AstroAI Talk"

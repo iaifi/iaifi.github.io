@@ -4,7 +4,7 @@ title: Events Calendar
 ---
 
 * All [IAIFI public events](https://iaifi.org/events.html) are listed in blue. 
-* All internal IAIFI events (such as [thematic discussions](https://iaifi.org/lightning-talks.html) and [journal clubs](https://iaifi.org/journal-club.html)) are listed in maroon. 
+* All internal IAIFI events (such as [thematic discussions](https://iaifi.org/lightning-talks.html) and [lunch discussions](https://iaifi.org/lunch-discussions.html)) are listed in maroon. 
 * All [IAIFI social events](https://iaifi.org/social-events.html) are listed in pink. 
 * All [related events external to IAIFI](https://iaifi.org/related-events.html) are listed in brown. 
 

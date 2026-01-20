@@ -10,7 +10,7 @@ We are in the process of developing partnerships across both industry and academ
 
 ## Industry Visits
 
-* **Google Quantum AI:** Murphy Niu, of Google Quantum AI presented a [Journal Club on December 3, 2021](/journal-club.html#fall-2021-journal-clubs) to share [resources that are available to IAIFI members](https://docs.google.com/document/d/1Xq5buOxookA7kqecAyUVQC1ug5B-Iar_jGqjbKBzF7I/edit?usp=sharing) through Google Quantum AI. 
+* **Google Quantum AI:** Murphy Niu, of Google Quantum AI presented a [Journal Club on December 3, 2021](/lunch-discussions.html#fall-2021) to share [resources that are available to IAIFI members](https://docs.google.com/document/d/1Xq5buOxookA7kqecAyUVQC1ug5B-Iar_jGqjbKBzF7I/edit?usp=sharing) through Google Quantum AI. 
 
 Beginning in Fall 2022, we have been hosting semi-regular lunch seminars with industry professionals to share career tips, their experience, and network with our junior members. These lunches have included: 
 * **QuEra:** Fangli Lu, Pedro Lopes, Tommaso Macri, Shengtao Wang, Resesarch Scientists (October 19, 2022)
