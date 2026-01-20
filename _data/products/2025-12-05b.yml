@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-12-05
+title: "Lattice field theory for superconducting circuits"
+authors: "Joshua Lin, Max Hays, Stephen Sorokanich III, Julian Bender, Phiala E. Shanahan, Neill C. Warrington"
+abstract: "Large superconducting quantum circuits have a number of important applications in quantum computing. Accurately predicting the performance of these devices from first principles is challenging, as it requires solving the many-body Schrödinger equation. This work introduces a new, general ab-initio method for analyzing large quantum circuits based on lattice field theory, a tool commonly applied in nuclear and particle physics. This method is competitive with state-of-the-art techniques such as tensor networks, but avoids introducing systematic errors due to truncation of the infinite-dimensional Hilbert space associated with superconducting phases. The approach is applied to fluxonium, a specific many-component superconducting qubit with favorable qualities for quantum computation. A systematic study of the influence of impedance on fluxonium is conducted that parallels previous experimental studies, and ground capacitance effects are explored. The qubit frequency and charge noise dephasing rate are extracted from statistical analyses of charge noise, where thousands of instantiations of charge disorder in the Josephson junction array of a fixed fluxonium qubit are explicitly averaged over at the microscopic level. This is difficult to achieve with any other existing method"
+arxiv: "2512.05851"
+date-updated: 2026-01-20
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{lin2025latticefieldtheorysuperconducting,
+      title={Lattice field theory for superconducting circuits},
+      author={Joshua Lin and Max Hays and Stephen Sorokanich III and Julian Bender and Phiala E. Shanahan and Neill C. Warrington},
+      year={2025},
+      eprint={2512.05851},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2512.05851},
+  }

@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-12-05
+title: "SN 2024afav: A Superluminous Supernova with Multiple Light Curve Bumps and Spectroscopic Signatures of Circumstellar Interaction"
+authors: "Harsh Kumar, Peter K. Blanchard, Edo Berger, Wasundara Athukoralalage, Daichi Hiramatsu, Sebastian Gomez, Moira Andrews, K. Azalee Bostroem, Joseph R. Farah, D. Andrew Howell, Curtis McCully"
+abstract: "We present a comprehensive optical and near-infrared spectroscopic study of SN 2024afav - a hydrogen-poor superluminous supernova (SLSN-I) that peaks at  -20.7 mag and exhibits an unusual multi-bumped light curve. Our spectroscopic observations, spanning phases of -14 to +160 d, reveal several unusual features: (i) a narrow (1,800 km s) and blueshifted (11,000 km s) absorption from H starting at +20 d; (ii) persistent optical and NIR He I lines at all available phases, showing double absorption structure in NIR spectra at +23 d, with a high velocity component at a similar velocity to H; (iii) early appearance of nebular [O III] emission starting at  +50 d; and (iv) strong [O II] + [Ca II] 7300 Å emission complex starting at  +110 d. These unusual features, and their onset at the time of the light curve bumps, provide compelling evidence of circumstellar interaction between the SN ejecta and a nearby hydrogen-rich shell, as well as the presence of helium in both the outer layers of the progenitor star and in the circumstellar medium. A comparison of SN 2024afav to other SLSNe-I showing bumpy light curves and similar spectral properties (PTF10hgi, SN 2017egm, SN 2019hge), points to a rare sub-group of SLSNe-I in which CSM interaction provides an important modulation to the energy input."
+arxiv: "2512.06067"
+date-updated: 2026-01-20
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{kumar2025sn2024afavsuperluminoussupernova,
+      title={SN 2024afav: A Superluminous Supernova with Multiple Light Curve Bumps and Spectroscopic Signatures of Circumstellar Interaction},
+      author={Harsh Kumar and Peter K. Blanchard and Edo Berger and Wasundara Athukoralalage and Daichi Hiramatsu and Sebastian Gomez and Moira Andrews and K. Azalee Bostroem and Joseph R. Farah and D. Andrew Howell and Curtis McCully},
+      year={2025},
+      eprint={2512.06067},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.SR},
+      url={https://arxiv.org/abs/2512.06067},
+  }
