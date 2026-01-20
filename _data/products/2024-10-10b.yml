@@ -1,22 +1,23 @@
 type: paper
 iaifi-thrust: F
 arxiv-date: 2024-10-10
-title: "Generalization from Starvation: Hints of Universality in LLM Knowledge Graph Learning"
+title: "Investigating Representation Universality: Case Study on Genealogical Representations"
 authors: "David D. Baek, Yuxiao Li, Max Tegmark"
 abstract: "Motivated by interpretability and reliability, we investigate how neural networks represent knowledge during graph learning, We find hints of universality, where equivalent representations are learned across a range of model sizes (from 102 to 109 parameters) and contexts (MLP toy models, LLM in-context learning and LLM training). We show that these attractor representations optimize generalization to unseen examples by exploiting properties of knowledge graph relations (e.g. symmetry and meta-transitivity). We find experimental support for such universality by showing that LLMs and simpler neural networks can be stitched, i.e., by stitching the first part of one model to the last part of another, mediated only by an affine or almost affine transformation. We hypothesize that this dynamic toward simplicity and generalization is driven by 'intelligence from starvation': where overfitting is minimized by pressure to minimize the use of resources that are either scarce or competed for against other tasks."
 arxiv: "2410.08255"
-journal:
-doi:
+date-updated: 2026-01-20
+journal: "NeurIPS 2025"
+doi: "https://openreview.net/forum?id=kecLW1WPC1"
 nsf-par:
 code:
-publication-date:
+publication-date: 2025-11-08
 bib-tex: |
-  @article{baek2024generalizationstarvationhintsuniversality,
-      title={Generalization from Starvation: Hints of Universality in LLM Knowledge Graph Learning},
-      author={David D. Baek and Yuxiao Li and Max Tegmark},
-      year={2024},
-      eprint={2410.08255},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.08255},
+  @inproceedings{baek2025investigating,
+  title={Investigating Representation Universality: Case Study on Genealogical Representations},
+  author={David D. Baek and Yuxiao Li and Max Tegmark},
+  booktitle={Socially Responsible and Trustworthy Foundation Models at NeurIPS 2025},
+  year={2025},
+  url={https://openreview.net/forum?id=kecLW1WPC1},
+  eprint={2410.08255},
+  archivePrefix={arXiv},
   }

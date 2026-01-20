@@ -5,18 +5,26 @@ title: "A Detection of Helium in the Bright Superluminous Supernova SN 2024rmj"
 authors: "Harsh Kumar, Edo Berger, Peter K. Blanchard, Sebastian Gomez, Daichi Hiramatsu, Alex Gagliano, Moira Andrews, K. Azalee Bostroem, Joseph Farah, D. Andrew Howell, Curtis McCully"
 abstract: "We present extensive ultraviolet (UV), optical, and near-infrared (NIR) photometric and spectroscopic observations of the nearby hydrogen-poor superluminous supernova (SLSN-I) SN2024rmj at z = 0.1189. SN 2024rmj reached a peak absolute magnitude of Mg ≈ -21.9, placing it at the luminous end of the SLSN-I distribution. The light curve exhibits a pronounced pre-peak bump (≈ 60 d before the main peak) and a post-peak bump (≈ 55 d after the main peak). The bulk of the light curve is otherwise well fit by a magnetar spin-down model, with typical values (spin: ≈ 2.1 ms; magnetic field: ≈ 6 × 1013 G; ejecta mass: ≈ 12 M⊙). The optical spectra exhibit characteristic SLSN-I features and evolution, but with a relatively high velocity of ≈ 8,000 km s−1 post-peak. Most significantly, we find a clear detection of helium in the NIR spectra at He I λ1.083 μm and λ2.058 μm, blueshifted by ≈ 15,000 km s−1 (13 d before peak) and ≈ 13,000 km s−1 (40 d after peak), indicating that helium is confined to the outermost ejecta; based on these NIR detections, we also identify likely contribution from He I λ5876 Å in the optical spectra on a similar range of timescales. This represents the most definitive detection of helium in a bright SLSN-I to date, and indicates that progenitors with a thin helium layer can still explode as SLSNe."
 arxiv: "2506.06417"
-journal:
-doi:
+date-updated: 2026-01-20
+journal: "The Astrophysical Journal, 2025, Volume 992, Number 1"
+doi: "https://doi.org/10.3847/1538-4357/adff7e"
 nsf-par:
 code:
-publication-date:
+publication-date: 2025-10-09
 bib-tex: |
-  @article{kumar2025detectionheliumbrightsuperluminous,
-      title={A Detection of Helium in the Bright Superluminous Supernova SN 2024rmj},
-      author={Harsh Kumar and Edo Berger and Peter K. Blanchard and Sebastian Gomez and Daichi Hiramatsu and Alex Gagliano and Moira Andrews and K. Azalee Bostroem and Joseph Farah and D. Andrew Howell and Curtis McCully},
-      year={2025},
-      eprint={2506.06417},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.HE},
-      url={https://arxiv.org/abs/2506.06417},
+  @article{Kumar_2025,
+  doi = {10.3847/1538-4357/adff7e},
+  url = {https://doi.org/10.3847/1538-4357/adff7e},
+  year = {2025},
+  month = {oct},
+  publisher = {The American Astronomical Society},
+  volume = {992},
+  number = {1},
+  pages = {122},
+  author = {Kumar, Harsh and Berger, Edo and Blanchard, Peter K. and Hiramatsu, Daichi and Gomez, Sebastian and Gagliano, Alex and Andrews, Moira and Bostroem, K. Azalee and Farah, Joseph and Howell, D. Andrew and McCully, Curtis},
+  title = {A Detection of Helium in the Bright Superluminous Supernova SN 2024rmj},
+  journal = {The Astrophysical Journal},
+  abstract = {We present extensive ultraviolet, optical, and near-infrared (NIR) photometric and spectroscopic observations of the nearby hydrogen-poor superluminous supernova (SLSN-I) SN 2024rmj at z = 0.1189. SN 2024rmj reached a peak absolute magnitude of Mg¬†‚âà¬†‚àí21.9, placing it at the luminous end of the SLSN-I distribution. The light curve exhibits a pronounced prepeak bump (‚âà60 days before the main peak) and a postpeak bump (‚âà55 days after the main peak). The bulk of the light curve is otherwise well fit by a magnetar spin-down model, with typical values (spin: ‚âà2.1 ms; magnetic field: ‚âà6¬†√ó¬†1013 G; ejecta mass: ‚âà12 M‚äô). The optical spectra exhibit characteristic SLSN-I features and evolution, but with a relatively high velocity of ‚âà8000 km s‚àí1 postpeak. Most significantly, we find a clear detection of helium in the NIR spectra at He iŒª1.083 Œºm and Œª2.058 Œºm, blueshifted by ‚âà15,000 km s‚àí1 (13 days before peak) and ‚âà13,000 km s‚àí1 (40 days after peak), indicating that helium is confined to the outermost ejecta; based on these NIR detections, we also identify likely contribution from He iŒª5876 in the optical spectra on a similar range of timescales. This represents the most definitive detection of helium in a bright SLSN-I to date, and indicates that progenitors with a thin helium layer can still explode as SLSNe.},
+  eprint={2506.06417},
+  archivePrefix={arXiv},
   }
