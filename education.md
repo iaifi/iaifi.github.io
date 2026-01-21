@@ -43,7 +43,7 @@ Many IAIFI faculty are developing courses at the intersection of physics and com
 
 ### MIT
 
-* **9.522: Statistical Reinforcement Learning and Decision Making**: Prof. Alexander Rakhlin
+* **[Fall 2025] 9.522: Statistical Reinforcement Learning and Decision Making**: Prof. Alexander Rakhlin
 
 The course will focus on the statistical and algorithmic foundations of decision making and reinforcement learning. Special attention will be paid to function approximation and flexible model classes such as neural networks. Topics covered include multi-armed and contextual bandits, structured bandits, and reinforcement learning. The course will present a unifying framework for addressing the exploration-exploitation dilemma using both frequentist and Bayesian approaches, with connections and parallels between supervised learning/estimation and decision making as an overarching theme.
 
@@ -51,30 +51,41 @@ This year, we will devote special attention to Large Language Models (LLMs) and 
 
 [View course details](https://www.mit.edu/~rakhlin/course-decision-making-f25.html){:.button.button--outline-primary.button--pill.button--sm}
 
-* **8.16/8.316: Data Science in Physics**: Prof. Phil Harris
+* **[Spring 2026] 8.16/8.316: Computational Data Science in Physics**: Prof. Phil Harris
 
 Aims to present modern computational methods by providing realistic, contemporary examples of how these computational methods apply to physics research. Designed around research modules in which each module provides experience with a specific scientific challenge. Modules include: analyzing LIGO open data; measuring electroweak boson to quark decays; understanding the cosmic microwave background; and lattice QCD/Ising model. Experience in Python helpful but not required. Lectures are viewed outside of class; in-class time is dedicated to problem- solving and discussion. Students taking graduate version will complete additional assignments.
 
-[View course details](http://student.mit.edu/catalog/viewcookie.cgi){:.button.button--outline-primary.button--pill.button--sm}
+[View course details](https://student.mit.edu/catalog/m8a.html#8.16){:.button.button--outline-primary.button--pill.button--sm}
 
-* **6.7970 Symmetry and its Application to Machine Learning and Scientific Computing**: Prof. Tess Smidt
+* **[Spring 2026] 6.7970 Symmetry and its Application to Machine Learning and Scientific Computing**: Prof. Tess Smidt
 
 Introduces the use of group representation theory to construct symmetry-preserving algorithms for machine learning. Emphases the connection between topics in math and physics and machine learning. Students will implement core mathematical concepts in code to build algorithms that can operate on graphs, geometry, scientific data, and other structured data to preserve the symmetries of these domains. Topics covered include: Euclidean and permutation groups, group representations: regular, reducible, and irreducible, tensor products, statistics and sampling of group representation vector spaces, and symmetry-breaking mechanisms.
 
-[View course details](https://www.eecs.mit.edu/academics/subject-updates/subject-updates-spring-2024/){:.button.button--outline-primary.button--pill.button--sm}
+[View course details](https://student.mit.edu/catalog/search.cgi?search=6.7970){:.button.button--outline-primary.button--pill.button--sm}
 
-* **2.c01/2.c51 Physical Systems Modeling and Design using Machine Learning**: Prof. George Barbastathis and Prof. Sherrie Wang
+* **[Spring 2026] 2.c01/2.c51 Physical Systems Modeling and Design using Machine Learning**: Prof. George Barbastathis and Prof. Sherrie Wang
 
 Introduces the fundamentals and explores applications at the fruitful intersection between the physical sciences and machine learning. While relying heavily on the basics of machine learning taught in the gateway class 6.c01 / 6.c51, we emphasize how these superimpose on dynamical principles from physical, chemical, biological and societal systems. The course will be organized as: one hour common lecture for the undergraduate and graduate students, followed by one hour of separate recitaIons. All students will parIcipate in team projects on topics of their own choice, in consultation with the instructors.
 
 [View course details](https://student.mit.edu/catalog/m2c.html#2.C51){:.button.button--outline-primary.button--pill.button--sm}
 
 ### Northeastern
-* **PHYS 7321 Computational Physics**: Prof. Jim Halverson
+* **[Fall 2024] PHYS 7321 Computational Physics**: Prof. Jim Halverson
 
 Covers basic numerical methods for differentiation, integration, and matrix operations used in linear algebra problems, discrete Fourier transforms, and standard and stochastic ordinary and partial differential equations. Specific applications of these methods may include classical chaos, computation of eigenstates of simple quantum systems, classical phase transitions, boundary value problems, pattern formation, and molecular dynamics and classical/quantum Monte Carlo methods to simulate the equilibrium and nonequilibrium properties of condensed phases.
 
 [View course details](https://www.coursicle.com/neu/courses/PHYS/7321/){:.button.button--outline-primary.button--pill.button--sm}
+
+### Boston University
+* **[Spring 2026] CDS DS 595 AI Methods for Science**: Prof. Siddharth Mishra-Sharma
+
+AI methods are increasingly central to how science gets done, spanning simulation, experiment, theory, and observation. This course aims to equip students with the methods to understand and carry out research at the intersection of AI and the natural sciences. Topics include probabilistic inference, neural networks that encode physical symmetries and domain knowledge, generative models for scientific data, and simulation-based inference. While framed in terms of scientific applications, the methods discussed extend well beyond scientific research, with broad applicability across industry and general AI R&D.
+
+A major focus of the course is on large language models and their emerging role in science. As LLMs become more capable of scientific reasoning and operating autonomously, understanding how to evaluate, adapt, and collaborate with these systems is becoming essential. We explore what it means to work alongside AI scientists, and how to critically assess their capabilities as well as limitations.
+
+Applications are drawn from domains including physics, materials science, and biology. The course involves two assignments emphasizing method design and critical analysis in collaboration with AI tools, plus two projects: a midterm applying AI methods to a scientific problem, and a final project finetuning an LLM to elicit a scientific capability.
+
+[View course details](https://smsharma.io/teaching/ds595-ai4science.html){:.button.button--outline-primary.button--pill.button--sm}
 
 ## Other Educational Resources
 ### AIVO Education Portal
