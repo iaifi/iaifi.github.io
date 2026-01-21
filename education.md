@@ -57,7 +57,7 @@ Aims to present modern computational methods by providing realistic, contemporar
 
 [View course details](http://student.mit.edu/catalog/viewcookie.cgi){:.button.button--outline-primary.button--pill.button--sm}
 
-* **6.S966 Symmetry and its Application to Machine Learning and Scientific Computing**: Prof. Tess Smidt
+* **6.7970 Symmetry and its Application to Machine Learning and Scientific Computing**: Prof. Tess Smidt
 
 Introduces the use of group representation theory to construct symmetry-preserving algorithms for machine learning. Emphases the connection between topics in math and physics and machine learning. Students will implement core mathematical concepts in code to build algorithms that can operate on graphs, geometry, scientific data, and other structured data to preserve the symmetries of these domains. Topics covered include: Euclidean and permutation groups, group representations: regular, reducible, and irreducible, tensor products, statistics and sampling of group representation vector spaces, and symmetry-breaking mechanisms.
 
