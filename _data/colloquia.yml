@@ -38,11 +38,11 @@
   
 - type: "colloquium"
   semester: "spring-2026"
-  speaker-name: "Speaker to be announced"
-  speaker-title: "Title to come"
-  speaker-affiliation: "Affiliation to come"
-  speaker-website: ""
-  speaker-photo-location: ""
+  speaker-name: "Carlo V. Cannistraci"
+  speaker-title: "Chair Professor"
+  speaker-affiliation: "Tsinghua Laboratory of Brain and Intelligence (THBI)"
+  speaker-website: "https://brain.tsinghua.edu.cn/en/info/1010/1003.htm"
+  speaker-photo-location: "images/small-photo-carlo-cannistraci.jpg"
   start-date-time: "2026-03-13 14:00"
   end-date-time: "2026-03-13 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -51,7 +51,7 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjAzMTNUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
-  speaker-thrust: "astrophysics"
+  speaker-thrust: "foundational ai"
   speaker-gender: "man"
   talk-attendance: 0 in person, 0 virtual
   
