@@ -15,14 +15,14 @@ aside:
 <!---We are happy to have the opportunity this year to partner with the MIT Schwarzman College of Computing through their inaugural [Tayebati Fellowship](https://computing.mit.edu/tayebati-postdoctoral-fellowship-program/).
 --->
 
-### [Berthy Feng](mailto:berthyf96@gmail.com) (IAIFI/Tayebati Fellow)
+### [Berthy Feng](mailto:berthy@mit.edu) (IAIFI/Tayebati Fellow)
 <img src="images/small-photo-berthy-feng.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Berthy Feng works on computational imaging, computer vision, and machine learning. She is primarily interested in developing data-driven and physics-based methods for scientific imaging. During her PhD, she developed a method for solving inverse imaging problems using diffusion models as priors and used this approach to image black holes from Event Horizon Telescope data. She also created physics-based methods for estimating material properties from video and established a way to constrain deep generative models according to physics constraints. Going forward, she would like to further improve this approach to impose hard constraints on generative models. She is also interested in designing interpretable methods for uncertainty quantification in the imaging process. More broadly, she is excited to tackle the most challenging scientific imaging problems (e.g., black-hole video reconstruction, 3D protein imaging, exoplanet imaging) by blending physics-based and data-driven methods.
 
 **Biographical Sketch**: Berthy Feng is completing her PhD in Computing and Mathematical Sciences at Caltech, where she is advised by Prof. Katie Bouman. She received her undergraduate degree in Computer Science at Princeton University. Berthy grew up in the suburbs of Cleveland, Ohio, and enjoys playing guitar, playing tennis, and going for runs in her free time.
 
-### [Mathis Gerdes](mailto:m.gerdes@uva.nl)
+### [Mathis Gerdes](mailto:mgerdes@mit.edu)
 <img src="images/small-photo-mathis-gerdes.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Mathis Gerdes is interested in developing machine learning tools to address foundational challenges in theoretical physics. His work focuses on complex sampling problems, applying generative models to lattice quantum field theory and exploring how physical principles can inform advancements in machine learning. He has pioneered methods for learning Ricci-flat metrics on Calabi-Yau manifolds and contributed to simulation-based inference techniques for studying stellar streams, which may provide insights into the distribution of dark matter in the galaxy.
@@ -32,28 +32,28 @@ aside:
 
 ## 2024-2027 IAIFI Fellows
 
-### [Michael Albergo](mailto:michaelsalbergo@gmail.com) (IAIFI Fellow/Harvard Society of Fellows)
+### [Michael Albergo](mailto:malbergo@mit.edu) (IAIFI Fellow/Harvard Society of Fellows)
 <img src="images/small-photo-michael-albergo.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Michael Albergo has broad interests at the intersection of generative modeling and statistical physics, with a focus on designing machine learning methods to advance scientific computing. To explore these topics, he relies on tools from machine learning, applied probability, and numerical analysis. Along the way, he is curious how these new methods can be applied to various topics across the sciences and beyond.
 
 **Biographical Sketch**: Prior to coming to Boston, Michael received his PhD at New York University, where he had to the privilege to learn across disciplines from a wonderful set of physicists, mathematicians, and computer scientists. He received his MPhil at the University of Cambridge, and his AB at Harvard University. In addition to his participation in IAIFI, Michael is a Junior Fellow at the Society of Fellows at Harvard.
 
-### [Samuel Bright-Thonney](mailto:skb93@cornell.edu)
+### [Samuel Bright-Thonney](mailto:sambt@mit.edu)
 <img src="images/small-photo-samuel-bright-thonney.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Sam works on developing novel machine learning tools to maximize the discovery potential of collider experiments. He is particularly interested in physics- and symmetry-aware algorithms that are robust when trained on noisy or mis-modeled simulations. He hopes to apply this work towards building self-supervised foundation models for collider physics, which will greatly accelerate downstream classification and generative tasks. Sam’s doctoral work focused on dark matter searches and model-independent anomaly detection, and he looks forward to building deep learning-based reconstruction algorithms to power a new generation of low-mass dark photon searches.
 
 **Biographical Sketch**: Sam received his PhD in Physics from Cornell University in 2024, where he worked on experimental particle physics in the CMS collaboration. Previously, he worked with his LHC colleagues in the ATLAS collaboration while pursuing undergraduate degrees in Physics and Applied Mathematics from UC Berkeley (2018). Sam grew up in England and Northern California, and enjoys playing music, hiking in the mountains, and browsing used bookstores.
 
-### [Akshunna Dogra](mailto:adogra@nyu.edu)
+### [Akshunna Dogra](mailto:adogra@mit.edu)
 <img src="images/small-photo-akshunna-dogra.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Akshunna's interests are rooted in mathematical and computational physics, with principled model design serving as his most used research vehicle, and Dynamical Systems, Fundamental Physics, and Machine Learning (ML) serving as the most visited topics. The versatility of their applications has allowed him to build models for problems in fluid dynamics, ML optimization, and quantum information. His generic approach to scientific model building is rooted in biasing the optimization dynamics towards optimal or near optimal solution models by leveraging known constraints and results on the problems and embedding them appropriately into the models. His doctoral work has been focused on providing unifying perspectives on the convergence regimes of ML models. He hopes to characterize the search phase of optimization as part of his fellowship and leverage such results for the creation of solution models for complex problems in QFT and String Theory.
 
 **Biographical Sketch**: Akshunna is currently finishing his PhD at the Dept. of Mathematics, Imperial College London, building a rigorous framework for Machine Learning (ML) based scientific modeling. He previously obtained a Bachelors of Arts in Mathematics and Physics from New York University. He was raised in a village nestled within the Indian Himalayan foothills. He is also the proud owner of a subsistence farming operation that produces the best ghee on the planet!
 
-### [Thomas Harvey](mailto:thomas.harvey@balliol.ox.ac.uk)
+### [Thomas Harvey](mailto:trharvey@mit.edu)
 <img src="images/small-photo-thomas-harvey.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Most of Thomas’ research comes under the umbrella term of String Phenomenology: The study of relating string theory to low energy particle physics and cosmology. In recent years machine learning methods have provided new tools in exploring the string landscape, and Thomas has been at the forefront of this work. In particular, genetic algorithms and reinforcement learning can be used for solving the large systems of Diophantine equations that arise in constructing string compactifications leading to the correct particle spectrum in 4D. At the same time, numerical metrics (represented by neural networks) of Calabi-Yau manifolds enable the calculation of more precise aspects of the resulting 4D theories, such as Yukawa couplings.

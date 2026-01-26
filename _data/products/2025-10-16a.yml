@@ -5,7 +5,7 @@ title: "Hierarchical Simulation-Based Inference of Supernova Power Sources and t
 authors: "Edgar P. Vidal, Alexander T. Gagliano, Carolina Cuesta-Lazaro"
 abstract: "Time domain surveys such as the Vera C. Rubin Observatory are projected to annually discover millions of astronomical transients. This and complementary programs demand fast, automated methods to constrain the physical properties of the most interesting objects for spectroscopic follow up. Traditional approaches to likelihood-based inference are computationally expensive and ignore the multi-component energy sources powering astrophysical phenomena. In this work, we present a hierarchical simulation-based inference model for multi-band light curves that 1) identifies the energy sources powering an event of interest, 2) infers the physical properties of each subclass, and 3) separates physical anomalies in the learned embedding space. Our architecture consists of a transformer-based light curve summarizer coupled to a flow-matching regression module and a categorical classifier for the physical components. We train and test our model on 150k synthetic light curves generated with . Our network achieves a 90% classification accuracy at identifying energy sources, yields well-calibrated posteriors for all active components, and detects rare anomalies such as tidal disruption events (TDEs) through the learned latent space. This work demonstrates a scalable joint framework for population studies of known transients and the discovery of novel populations in the era of Rubin"
 arxiv: "2510.14202"
-date-updated: 2026-01-20
+date-updated: 2026-02-03
 journal:
 doi:
 nsf-par:

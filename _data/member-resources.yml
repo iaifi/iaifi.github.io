@@ -14,8 +14,8 @@
   order: 3
   
 - type: "member-resource"
-  title: "Book a Penthouse Desk"
-  description: "Want to book a desk at the Penthouse (MIT 26-648), either for a short stint or for a semester or more? [Fill out the form here](https://app.smartsheet.com/b/form/49c21bb886164fc1a51f1ef6e9e130a8). Note that this is only available to Junior Investigators. See more resources in the [IAIFI README.](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing)"
+  title: "Book a Penthouse Desk (for IAIFI Junior Investigators)"
+  description: "Want to book a desk at the Penthouse (MIT 26-648), either for a short stint or for a semester or more? [Fill out the form here](https://app.smartsheet.com/b/form/49c21bb886164fc1a51f1ef6e9e130a8). Note that this is only available to Junior Investigators. Find more resources in the [IAIFI README.](https://docs.google.com/document/d/1RjddJR6ER4mlXq438C5RkAIv-ZisUPwibTm52-2o_Yw/edit?usp=sharing)"
   order: 4
   
 - type: "member-resource"

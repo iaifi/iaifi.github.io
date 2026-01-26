@@ -5,7 +5,7 @@ title: "Seafloor Topography Enhances KM3NeT Sensitivity to ANITA-like Events"
 authors: "Carlos A. Argüelles, Toni Bertólez-Martínez, Alba Burgos-Mondéjar, Anne-Katherine Burns, Jacobo Lopez-Pavon, Jordi Salvado"
 abstract: "In this article, we introduce the concept of \textit{topographic enhancement} in the context of ultra-high-energy neutrino detection by underwater neutrino telescopes. We demonstrate that the local topography around KM3NeT/ARCA can increase the detection efficiency in scenarios involving long-lived particles by up to a factor of  due to the presence of an underwater mountain range in the direction of Malta. We consider a simplified model-independent approach that parametrizes the new physics able to generate both track-like and cascade-like signals in neutrino telescopes. When explaining the KM3-230213A event with a diffuse dark flux hypothesis, including its azimuthal direction--in addition to the zenith angle--provides additional constraints on the parameter space. In this effective model, the observations by KM3NeT and ANITA-IV can be simultaneously explained and the global tension with the lack of a corresponding detection in IceCube is reduced to 2.4 sigma. This work underscores the importance of incorporating topographic effects in the design and optimization of next-generation neutrino telescopes, as is done in the context of mountain-based detectors such as TAMBO. We present a numerical code which can be used to easily extend this topographical analysis to other experiments."
 arxiv: "2510.21929"
-date-updated: 2026-01-20
+date-updated: 2026-01-27
 journal:
 doi:
 nsf-par:
