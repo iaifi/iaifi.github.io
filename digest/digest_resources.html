@@ -18,7 +18,8 @@
 {% for resource in resources %}
     {% if resource.order == digest-number %}
 ### Resource Spotlight: {{resource.title}}
-{{resource.description}}<br><br>
+{{resource.description}}
+{:.success}
 [Provide feedback to IAIFI](https://forms.gle/hk2mrqjaLY8nCZrE6){:.button.button--outline-primary.button--pill.button--sm}
     {% endif %}
 {% endfor %}

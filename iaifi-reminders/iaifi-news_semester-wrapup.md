@@ -183,7 +183,7 @@ Senior Researchers include faculty members and senior research scientists with P
 ### Junior Researchers in the Boston Area
 Junior Researchers include undergraduate students, graduate students, postdocs, and research scientists without PI status. If you are interested in getting more involved in IAIFI as a junior researcher, complete the [Junior Researcher Interest Form](https://iaifi.org/junior-interest.html). 
 
-[Details for Junior Researchers](https://iaifi.org/junior-researchers.html){:.button.button--outline-primary.button--pill.button--sm}
+[Details for Junior Researchers](https://iaifi.org/junior-interest.html){:.button.button--outline-primary.button--pill.button--sm}
 
 <style>
   .image-row {
