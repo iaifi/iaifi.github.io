@@ -5,7 +5,7 @@ title: "Self-lensing flares from black hole binaries V: systematic searches in L
 authors: "Kevin Park, Zoltan Haiman, Chengcheng Xin, Tzuken Shen, Ashley Villar, Jordy Davelaar"
 abstract: "The Vera C. Rubin Observatory has now seen first light, and over a 10 year duration, LSST is projected to catalogue tens of millions of quasars, many of which are expected to be associated with sub-parsec supermassive black hole binaries (SMBHBs). Out of these SMBHBs, up to thousands of relatively massive binary-quasars are expected to exhibit gravitational self-lensing flares (SLFs) that last for at least 20-30 days. We assess the effectiveness of the Lomb-Scargle (LS) periodogram and matched filters (MFs) as methods for systematic searches for these binaries, using toy-models of hydrodynamical, Doppler, and self-lensing variability from equal-mass, eccentric SMBHBs. We inject SLFs into random realizations of damped random walk (DRW) lightcurves, representing stochastic quasar variability, and compute the LS periodogram with and without the SLF. We find that periodograms of SLF+DRW light-curves do not have maximum peak heights that could not arise from DRW-only periodograms. On the other hand, the matched filter signal-to-noise ratio (SNR) can distinguish SLFs from noise even with LSST-like cadences and DRW noise. Furthermore, we develop a three-step procedure with matched filters, which can also recover injected binary parameters from these light-curves. We expect this method to be computationally efficient enough to be applicable to millions of quasar light-curves in LSST."
 arxiv: "2512.08427"
-date-updated: 2026-01-20
+date-updated: 2026-01-27
 journal:
 doi:
 nsf-par:

@@ -14,13 +14,18 @@
 
 - type: "forum"
   event-name: "IAIFI Talent Forum"
-  event-committee: ""
   event-post-date: "2026-01-18"
   start-date-time: "2026-01-30 11:00"
   end-date-time: "2026-01-30 12:00"
   talk-location: "Zoom"
   talk-zoom: https://mit.zoom.us/j/93434176251?pwd=zD9grb7X6eoabIRrZ62MmCP47FgyJh.1
-  event-details: "The IAIFI Talent Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to empowering the next generation of AI+Physics talent, including career support, mentoring, computing resources, etc."
+  event-details: "The IAIFI Talent Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to empowering the next generation of AI+Physics talent, including career support, mentoring, computing resources, etc. The agenda for this week includes: <br>
+    - Upcoming Industry Lunch Talks<br>
+    - IAIFI Industry Day<br>
+    - Career Advice Panel<br>
+    - Job search workshop<br>
+    - Computing resources<br>
+    - Public engagement opportunity: MERSD K-12 STEAM Showcase"
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NTlwZHM1aDQwcXIxaDRiYTRqZXMwaGtidjAgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://docs.google.com/document/d/1iXjgoch8ovxIqbZTooCzR6HHG76iGykJP5PuTUWRcyw/edit?usp=sharing
@@ -28,13 +33,17 @@
   
 - type: "forum"
   event-name: "IAIFI Community Forum"
-  event-committee: ""
   event-post-date: "2026-01-18"
   start-date-time: "2026-01-29 15:00"
   end-date-time: "2026-01-29 16:00"
   talk-location: "Zoom"
   talk-zoom: https://mit.zoom.us/j/93955670791?pwd=sTjnl6p9WTPRbmEFnTLMSgux5BZGl4.1
-  event-details: "The IAIFI Community Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to building a dynamic AI+Physics community, including social events, industry-academia collaboration, public engagement, etc."
+  event-details: "The IAIFI Community Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to building a dynamic AI+Physics community, including social events, industry-academia collaboration, public engagement, etc. The agenda for this week includes: <br>
+    - Member-led social events and activities<br>
+    - Journal Club & Coffee Hours timing for Spring 2026<br>
+    - Spring Social on April 3<br>
+    - IAIFI Industry Day<br>
+    - Summer School Social"
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2I5Zm9yM3IzMjFhbW5ndGlydHBwYWliZ2EgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://docs.google.com/document/d/1Rht-4gEcX-yStVuzDKLNZYE9U_3FQgDp_lA9eURZwD8/edit?usp=sharing
@@ -42,7 +51,6 @@
   
 - type: "forum"
   event-name: "IAIFI Research Forum"
-  event-committee: ""
   event-post-date: "2026-01-18"
   start-date-time: "2026-01-26 11:00"
   end-date-time: "2026-01-26 12:00"

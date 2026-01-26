@@ -5,7 +5,7 @@ title: "Refining Heuristic Predictors of Fractional Chern Insulators using Machi
 authors: "Oriol Mayné i Comas, André Grossi Fonseca, Sachin Vaidya, Marin Soljačić"
 abstract: "We develop an interpretable, data-driven framework to quantify how single-particle band geometry governs the stability of fractional Chern insulators (FCIs). Using large-scale exact diagonalization, we evaluate an FCI metric that yields a continuous spectral measure of FCI stability across parameter space. We then train Kolmogorov-Arnold networks (KANs) -- a recently developed interpretable neural architecture -- to regress this metric from two band-geometric descriptors: the trace violation  and the Berry curvature fluctuations . Applied to spinless fermions at filling  in models on the checkerboard and kagome lattices, our approach yields compact analytical formulas that predict FCI stability with over  accuracy in both regression and classification tasks, and remain reliable even in data-scarce regimes. The learned relations reveal model-dependent trends, clarifying the limits of Landau-level-mimicking heuristics. Our framework provides a general method for extracting simple, phenomenological 'laws' that connect many-body phase stability to chosen physical descriptors, enabling rapid hypothesis formation and targeted design of quantum phases."
 arxiv: "2512.01873"
-date-updated: 2026-01-20
+date-updated: 2026-02-03
 journal:
 doi:
 nsf-par:

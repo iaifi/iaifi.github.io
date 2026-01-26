@@ -5,7 +5,7 @@ title: "Matching the Optimal Denoiser in Point Cloud Diffusion with (Improved) R
 authors: "Ameya Daigavane, YuQing Xie, Bodhi P. Vani, Saeed Saremi, Joseph Kleinhenz, Tess Smidt"
 abstract: "Diffusion models are a popular class of generative models trained to reverse a noising process starting from a target data distribution. Training a diffusion model consists of learning how to denoise noisy samples at different noise levels. When training diffusion models for point clouds such as molecules and proteins, there is often no canonical orientation that can be assigned. To capture this symmetry, the true data samples are often augmented by transforming them with random rotations sampled uniformly over . Then, the denoised predictions are often rotationally aligned via the Kabsch-Umeyama algorithm to the ground truth samples before computing the loss. However, the effect of this alignment step has not been well studied. Here, we show that the optimal denoiser can be expressed in terms of a matrix Fisher distribution over . Alignment corresponds to sampling the mode of this distribution, and turns out to be the zeroth order approximation for small noise levels, explaining its effectiveness. We build on this perspective to derive better approximators to the optimal denoiser in the limit of small noise. Our experiments highlight that alignment is often a `good enough' approximation for the noise levels that matter most for training diffusion models."
 arxiv: "2510.03335"
-date-updated: 2026-01-20
+date-updated: 2026-02-03
 journal:
 doi:
 nsf-par:
