@@ -213,7 +213,11 @@ defaults:
       show_edit_on_github: false
       show_subscribe: false
       pageview: true
-
+      
+collections:
+  blog_posts:
+    output: false
+    permalink: /blog/:name
 
 ## => Plugins
 ##############################
