@@ -218,6 +218,8 @@ collections:
   blog_posts:
     output: false
     permalink: /blog/:name
+  hidden_blog_review:
+    output: false
 
 ## => Plugins
 ##############################
