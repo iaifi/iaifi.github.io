@@ -1,5 +1,6 @@
 ---
 title: IAIFI AI+Physics Blog
+subtitle: Deep learning + deep thinking = deeper understanding
 ---
 
 <style>
@@ -44,10 +45,12 @@ img {
 
 </style>
 
-<div style="display: flex; gap: 2rem;">
+<div style="display: flex; gap: 2rem; flex-wrap: wrap;">
 
   <!-- Main Content -->
-  <main style="flex: 1;">
+  <main style="flex: 1; min-width: 0;">
+
+    <p style="font-size: 1.3rem; color: #666; margin-bottom: 2rem;"><em>{{ page.subtitle }}</em></p>
 
 {% assign sorted_posts = site.blog_posts | sort: 'date' | reverse %}
 {% for post in sorted_posts %}
@@ -110,3 +113,24 @@ img {
     </ul>
   </aside>
 </div>
+
+<style>
+@media (max-width: 768px) {
+  div {
+    flex-direction: column;
+  }
+  
+  aside {
+    flex: 1 !important;
+    position: static !important;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  h3 {
+    font-size: 1.1rem;
+  }
+}
+</style>
