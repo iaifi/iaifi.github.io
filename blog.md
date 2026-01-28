@@ -116,21 +116,23 @@ img {
 
 <style>
 @media (max-width: 768px) {
-  div {
-    flex-direction: column;
+  div[style*="display: flex"] {
+    flex-direction: column !important;
+  }
+  
+  main {
+    padding: 0 1rem;
+    max-width: 600px;
   }
   
   aside {
+    padding: 0 1rem;
     flex: 1 !important;
     position: static !important;
   }
   
-  h2 {
-    font-size: 1.5rem;
-  }
-  
-  h3 {
-    font-size: 1.1rem;
+  .blog-post {
+    margin-left: 0 !important;
   }
 }
 </style>
