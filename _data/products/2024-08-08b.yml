@@ -1,0 +1,24 @@
+type: paper
+iaifi-thrust: T
+title: "Finite temperature at finite places"
+authors: "An Huang, Christian Baadsgaard Jepsen"
+abstract: "This paper studies AdS/CFT in its p-adic version (at the “finite place”) in the setting where the bulk geometry is made up of the Tate curve, a discrete quotient of the Bruhat-Tits tree. Generalizing a classic result due to Zabrodin, the boundary dual of the free massive bulk theory is explicitly derived. Introducing perturbative interactions, the Witten diagrams for the two-point and three-point correlators are computed for generic scaling dimensions at one-loop and tree level respectively. The answers obtained demonstrate how p-adic AdS/CFT on the Tate curve provides a useful toy model for real CFTs at finite temperature."
+arxiv: "2408.04199"
+journal: "Journal of High Energy Physics, 2025, Volume 2025, article number 97"
+date-updated: 2026-01-30
+doi: "https://doi.org/10.1007/JHEP03(2025)097"
+nsf-par:
+code:
+publication-date: 2025-03-13
+bib-tex: |
+  @article{10.1007/JHEP03(2025)097,
+  title={Finite temperature at finite places},
+  author={An Huang, Christian Baadsgaard Jepsen},
+  year={2025},
+  volume={2025},
+  url={https://doi.org/10.1007/JHEP03(2025)097},
+  journal={Journal of High Energy Physics},
+  eprint={2408.04199},
+  DOI={10.1007/JHEP03(2025)097},
+  archivePrefix={arXiv},
+  }

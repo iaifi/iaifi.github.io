@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-12-22
+title: "Entanglement cohomology for GHZ and W states"
+authors: "Christian Ferko, Keiichiro Furuya"
+abstract: "Entanglement cohomology assigns a graded cohomology ring to a multipartite pure state, providing homological invariants that are stable under local unitaries and characterize inequivalent patterns of entanglement. In this work we derive exact expressions for the dimensions of these cohomology groups in two canonical entanglement classes, generalized GHZ and W states on an arbitrary number of parties and local Hilbert space dimensions, thus proving conjectures of arXiv:1901.02011. Using the additional structure of the Hodge star and wedge product operations, we propose two new classes of local unitary invariants: the spectrum of the natural Laplacian acting on entanglement k-forms, and the intersection numbers obtained from wedge products of representatives for cohomology classes. We present numerical experiments which investigate these invariants in particular states, suggesting that they may provide useful quantities for describing multipartite entanglement."
+arxiv: "2512.19889"
+date-updated: 2026-01-30
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ferko2025entanglementcohomologyghzw,
+      title={Entanglement cohomology for GHZ and W states},
+      author={Christian Ferko and Keiichiro Furuya},
+      year={2025},
+      eprint={2512.19889},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2512.19889},
+  }
