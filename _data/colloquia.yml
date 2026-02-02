@@ -8,8 +8,8 @@
   start-date-time: "2026-02-13 14:00"
   end-date-time: "2026-02-13 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come.<br><br>"
-  talk-abstract:
+  talk-title: "Language Models for Quantum Simulation"
+  talk-abstract: "In the last few years, generative models have demonstrated a striking ability to scale, driving the rapid rise of GPT-like large language models. Over the same period, experimental quantum devices have advanced rapidly, with the simulation of quantum phases and phase transitions emerging as a key application of today's quantum hardware. The growing availability of projective measurements from quantum simulators opens the exciting possibility of training custom generative models directly on quantum data. In this talk, I will demonstrate how such models can uncover hidden structures in quantum states, infer emergent properties, and predict outcomes of future experiments. I speculate on how these and other AI tools might ultimately contribute to the challenge of scaling up quantum simulations, with the goal of discovering new physics in complex quantum many-body systems."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjAyMTNUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
