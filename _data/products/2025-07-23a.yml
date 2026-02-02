@@ -5,18 +5,21 @@ title: "Analytic Regression of Feynman Integrals from High-Precision Numerical S
 authors: "Oscar Barrera, Aurélien Dersy, Rabia Husain, Matthew D. Schwartz, Xiaoyuan Zhang"
 abstract: "In mathematics or theoretical physics one is often interested in obtaining an exact analytic description of some data which can be produced, in principle, to arbitrary accuracy. For example, one might like to know the exact analytical form of a definite integral. Such problems are not well-suited to numerical symbolic regression, since typical numerical methods lead only to approximations. However, if one has some sense of the function space in which the analytic result should lie, it is possible to deduce the exact answer by judiciously sampling the data at a sufficient number of points with sufficient precision. We demonstrate how this can be done for the computation of Feynman integrals. We show that by combining high-precision numerical integration with analytic knowledge of the function space one can often deduce the exact answer using lattice reduction. A number of examples are given as well as an exploration of the trade-offs between number of datapoints, number of functional predicates, precision of the data, and compute. This method provides a bottom-up approach that neatly complements the top-down Landau-bootstrap approach of trying to constrain the exact answer using the analytic structure alone. Although we focus on the application to Feynman integrals, the techniques presented here are more general and could apply to a wide range of problems where an exact answer is needed and the function space is sufficiently well understood."
 arxiv: "2507.17815"
-journal:
-doi:
+date-updated: 2026-01-30
+journal: Journal of High Energy Physics, 2026, Volume 2026, article number 14
+doi: https://doi.org/10.1007/JHEP01(2026)014
 nsf-par:
 code:
-publication-date:
+publication-date: 2026-01-02
 bib-tex: |
-  @article{barrera2025analyticregressionfeynmanintegrals,
-      title={Analytic Regression of Feynman Integrals from High-Precision Numerical Sampling},
-      author={Oscar Barrera and Aurélien Dersy and Rabia Husain and Matthew D. Schwartz and Xiaoyuan Zhang},
-      year={2025},
-      eprint={2507.17815},
-      archivePrefix={arXiv},
-      primaryClass={hep-th},
-      url={https://arxiv.org/abs/2507.17815},
+  @article{10.1007/JHEP01(2026)014,
+  title={Analytic regression of Feynman integrals from high-precision numerical sampling},
+  author={Oscar Barrera, Aurélien Dersy, Rabia Husain, Matthew D. Schwartz, Xiaoyuan Zhang},
+  year={2026},
+  volume={2026},
+  url={https://doi.org/10.1007/JHEP01(2026)014},
+  journal={Journal of High Energy Physics},
+  eprint={2507.17815},
+  DOI={10.1007/JHEP01(2026)014},
+  archivePrefix={arXiv},
   }

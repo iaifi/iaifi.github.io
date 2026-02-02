@@ -1,0 +1,8 @@
+type: industry
+title: Data Reduction Physicist
+employer: CERN, Geneva, Switzerland
+post-date: 2026-01-29
+deadline: 2026-02-19
+expire: 2026-02-20
+link: https://careers.cern/jobs/data-reduction-physicist/
+details: "​The NGT Real-time Reconstruction Revolution will transform the CMS High-Level Trigger into an offline-quality reconstruction facility processing up to 750 kHz of events. To make this sustainable, you will lead the design of two complementary data tiers: a low-level reconstructed format that enables trigger rates several times higher than conventional raw-data output while preserving the the option for future reprocessing, and a compact analysis format to save the full 750 kHz stream of online reconstructed events."

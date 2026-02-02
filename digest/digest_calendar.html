@@ -164,23 +164,17 @@ Save the date for these events (and check to see if you need to register)!
 
 <!-- Past Events -->
 ## In Case You Missed It
-### MIT AI+Physics Courses in Spring 2026
-- [Symmetry and its Applications to Machine Learning (6.7970)](https://student.mit.edu/catalog/search.cgi?search=6.7970&style=verbatim); taught by Tess Smidt, IAIFI Senior Investigator<br>
-*This course is cross-listed in Physics and EECS.*
-- [Computational Data Science in Physics (8.16/8.316)](https://student.mit.edu/catalog/m8a.html#8.16); taught by Phil Harris, IAIFI Senior Investigator<br>
-*This course is open to both undergraduate and graduate students.*
-
-### BU AI+Physics Course in Spring 2026
-- [AI Methods for Science](https://smsharma.io/teaching/ds595-ai4science.html); taught by Siddharth Mishra-Sharma, former IAIFI Fellow, current Assistant Professor of Computing & Data Sciences and Physics at Boston University, and Member of Technical Staff at Anthropic
 
 {% assign events_last_week = '' %}
 {% for talk in event_list %}
 {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
- {% if site.data.talk-categories[talk.type].hide_on_past or site.data.talk-categories[talk.type].category=="external" -%}{% continue %}{% endif %}
+ {% if site.data.talk-categories[talk.type].hide_on_past -%}{% continue %}{% endif %}
  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
  {% unless start_date_time_in_seconds < digest_start_in_seconds and start_date_time_in_seconds >= digest_past_in_seconds%}{% continue %}{% endunless %}
+  {% if talk.slides-link or talk.youtube-link %}
   {% assign events_last_week = 'true' %} <!-- Mark that there is at least one event -->
  {% include_relative digest_event_item.html talk=talk is_last_week=true anchor=this_anchor %}
+  {% endif %}
 {% endfor %}
 
 {% if events_last_week == '' %} *No past events to share.* {% endif %}

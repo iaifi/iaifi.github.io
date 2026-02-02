@@ -8,7 +8,7 @@ arxiv: "2509.19431"
 journal:
 doi:
 nsf-par:
-code:
+code: https://zenodo.org/records/16986897
 publication-date:
 bib-tex: |
   @article{gambhir2025paretofrontierresilientjet,

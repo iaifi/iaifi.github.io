@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-12-26
+title: "Machine Learning Invariants of Tensors"
+authors: "Athithan Elamaran, Christian Ferko, Sterling Scarlett"
+abstract: "We propose a data-driven approach to identifying the functionally independent invariants that can be constructed from a tensor with a given symmetry structure. Our algorithm proceeds by first enumerating graphs, or tensor networks, that represent inequivalent contractions of a product of tensors, computing instances of these scalars using randomly generated data, and then seeking linear relations between invariants using numerical linear algebra. Such relations yield syzygies, or functional dependencies relating different invariants. We apply this approach in an extended case study of the independent invariants that can be constructed from an antisymmetric 3-form Hμνρ in six dimensions, finding five independent invariants. This result confirms that the most general Lagrangian for such a 3-form, which depends on Hμνρ but not its derivatives, is an arbitrary function of five variables, and we give explicit formulas relating other invariants to the five independent scalars in this generating set."
+arxiv: "2512.23750"
+date-updated: 2026-01-30
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{elamaran2025machinelearninginvariantstensors,
+      title={Machine Learning Invariants of Tensors},
+      author={Athithan Elamaran and Christian Ferko and Sterling Scarlett},
+      year={2025},
+      eprint={2512.23750},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2512.23750},
+  }
