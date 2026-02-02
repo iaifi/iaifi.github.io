@@ -164,18 +164,17 @@ Save the date for these events (and check to see if you need to register)!
 
 <!-- Past Events -->
 ## In Case You Missed It
-### Seminar by Former IAIFI Fellow Jessie Micallef (Tufts/MIT/IAIFI)
-Last week, Jessie Micallef (former IAIFI Fellow, current Postdoctoral Scholar at Tufts University and IAIFI Junior Investigator) gave a seminar at CERN: "MicroBooNE’s Search for a Single Sterile Neutrino using Two Beams." Check it out at the links below!
-<br>[Learn More](https://indico.cern.ch/event/1638777/){:.button.button--outline-primary.button--pill.button--sm} [View Recording](https://videos.cern.ch/record/3020538){:.button.button--outline-primary.button--pill.button--sm}
 
 {% assign events_last_week = '' %}
 {% for talk in event_list %}
 {% capture this_anchor %}event_{{forloop.index}}{% endcapture %}
- {% if site.data.talk-categories[talk.type].hide_on_past or site.data.talk-categories[talk.type].category=="external" -%}{% continue %}{% endif %}
+ {% if site.data.talk-categories[talk.type].hide_on_past -%}{% continue %}{% endif %}
  {% assign start_date_time_in_seconds = talk.start-date-time | date: '%s' | plus: 0 %}
  {% unless start_date_time_in_seconds < digest_start_in_seconds and start_date_time_in_seconds >= digest_past_in_seconds%}{% continue %}{% endunless %}
+  {% if talk.slides-link or talk.youtube-link %}
   {% assign events_last_week = 'true' %} <!-- Mark that there is at least one event -->
  {% include_relative digest_event_item.html talk=talk is_last_week=true anchor=this_anchor %}
+  {% endif %}
 {% endfor %}
 
 {% if events_last_week == '' %} *No past events to share.* {% endif %}
