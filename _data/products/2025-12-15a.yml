@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-12-15
+title: "Bridging Simulations and EFT: A Hybrid Model of the Lyman-Alpha Forest Field"
+authors: "Roger de Belsunce, Boryana Hadzhiyska, Mikhail M. Ivanov"
+abstract: "The Lyman-alpha (Lya) forest is a unique probe of cosmology and the intergalactic medium at high redshift and small scales. The statistical power of the ongoing Dark Energy Spectroscopic Instrument (DESI) demands precise theoretical tools to model the Lya forest. We present a hybrid effective field theory (HEFT) forward model in redshift space that leverages the accuracy of non-linear particle displacements computed using the N-body simulation suite AbacusSummit with the predictive power of an analytical, perturbative bias forward model in the framework of the effective field theory (EFT). The residual noise between the model and the simulated Lya field has a nearly white (scale-and orientation-independent) power spectrum on quasi-linear scales, substantially simplifying its modeling compared to a purely perturbative description. As a consequence of the improved control over the 3D Lya forest stochasticity, we find agreement between the modeled and the true power spectra at the 5 per cent level down to scales of k <= 1 h/Mpc. This procedure offers a promising path toward constructing efficient and accurate emulators to predict large-scale clustering summary statistics for full-shape cosmological analyses of Lya forest data from both DESI and its successor, DESI-II."
+arxiv: "2512.13681"
+date-updated: 2026-02-02
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{debelsunce2025bridgingsimulationsefthybrid,
+      title={Bridging Simulations and EFT: A Hybrid Model of the Lyman-Alpha Forest Field},
+      author={Roger de Belsunce and Boryana Hadzhiyska and Mikhail M. Ivanov},
+      year={2025},
+      eprint={2512.13681},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2512.13681},
+  }

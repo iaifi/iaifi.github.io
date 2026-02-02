@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-01-20
+title: "Universality of Neural Network Field Theory"
+authors: "Christian Ferko, James Halverson, Aaron Mutchler"
+abstract: "We prove that any quantum field theory, or more generally any probability distribution over tempered distributions in ℝd, admits a neural network description with a countable infinity of parameters. As an example, we realize the 2d Liouville theory as a neural network and numerically compute the three-point function of vertex operators, finding agreement with the DOZZ formula."
+arxiv: "2601.14453"
+date-updated: 2026-02-02
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ferko2026universalityneuralnetworkfield,
+      title={Universality of Neural Network Field Theory},
+      author={Christian Ferko and James Halverson and Aaron Mutchler},
+      year={2026},
+      eprint={2601.14453},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2601.14453},
+  }

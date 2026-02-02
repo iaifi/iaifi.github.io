@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-01-07
+title: "A glimpse into the Ultrametric spectrum"
+authors: "An Huang, Christian B. Jepsen"
+abstract: "The non-relativistic string spectrum is built from integer-spaced energy quanta in such a way that the high-temperature asymptotics, via the Hardy-Ramanujan formula for integer partitions, reduces to standard two-dimensional thermodynamics. Here we explore deformed realizations of this behavior motivated by p-adic string theory and Lorentzian versions thereof with a non-trivial spectrum. We study the microstate scaling that results on associating quantum harmonic oscillators to the normal modes of tree-graphs rather than string graphs and observe that Hardy-Ramanujan scaling is not realized. But by computing the eigenvalues of the derivative operator on the p-adic circle and by determining the eigenspectrum of the Neumann-to-Dirichlet operator, we uncover a spectrum of exponentially growing energies but with exponentially growing degeneracies balanced in such a way that Hardy-Ramanujan scaling is realized, but modulated with log-periodic fluctuations."
+arxiv: "2601.03738"
+date-updated: 2026-02-02
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{huang2026glimpseultrametricspectrum,
+      title={A glimpse into the Ultrametric spectrum},
+      author={An Huang and Christian B. Jepsen},
+      year={2026},
+      eprint={2601.03738},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2601.03738},
+  }

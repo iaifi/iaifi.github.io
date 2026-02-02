@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-12-31
+title: "Green's function on the Tate curve"
+authors: "An Huang, Rebecca Rohrlich, Yaojia Sun, Eric Whyman"
+abstract: "Motivated by the question of defining a p-adic string worldsheet action in genus one, we define a Laplacian operator on the Tate curve, and study its Green's function. We show that the Green's function exists. We provide an explicit formula for the Green's function, which turns out to be a non-Archimedean counterpart of the Archimedean Green's function on a flat torus."
+arxiv: "2512.24935"
+date-updated: 2026-02-02
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{huang2025greensfunctiontatecurve,
+      title={Green's function on the Tate curve},
+      author={An Huang and Rebecca Rohrlich and Yaojia Sun and Eric Whyman},
+      year={2025},
+      eprint={2512.24935},
+      archivePrefix={arXiv},
+      primaryClass={math.NT},
+      url={https://arxiv.org/abs/2512.24935},
+  }

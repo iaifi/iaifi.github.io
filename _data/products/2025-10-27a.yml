@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-10-27
+title: "The Compressed 3D Lyman-Alpha Forest Bispectrum"
+authors: "Roger de Belsunce, James M. Sullivan, Patrick McDonald"
+abstract: "Cosmological studies of the Lyman-Alpha (Lya) forest typically constrain parameters using two-point statistics. However, higher-order statistics, such as the three-point function (or its Fourier counterpart, the bispectrum) offer additional information and help break the degeneracy between the mean flux and power spectrum amplitude, albeit at a significant computational cost. To address this, we extend an existing highly informative compression of the bispectrum, the skew spectra, to the Lya forest. We derive the tree-level bispectrum of Lya forest fluctuations in the framework of effective field theory (EFT) directly in redshift space and validate our methodology on synthetic Lya forest data. We measure the anisotropic cross-spectra between the transmitted flux fraction and all quadratic operators arising in the bispectrum, yielding a set of 26 skew spectra. Using idealized 3D Gaussian smoothing (R=10 Mpc/h), we find good agreement (1-2 sigma level based on the statistical errors of the mocks) with the theoretical tree-level bispectrum prediction for monopole and quadrupole up to k <= 0.17 h/Mpc. To enable the cosmological analysis of Lya forest data from the currently observing Dark Energy Spectroscopic Instrument (DESI), where we cannot do 3D smoothing, we use a line-of-sight smoothing and introduce a new statistic, the shifted skew spectra. These probe non-squeezed bispectrum triangles and avoid locally applying quadratic operators to the field by displacing one copy of the field in the radial direction. Using a fixed displacement of 40 Mpc/h (and line-of-sight smoothing of 10 Mpc/h) yields a similar agreement with the theory prediction. For the special case of correlating the squared (and displaced) field with the original one, we analytically forward model the window function making this approach readily applicable to DESI data."
+arxiv: "2510.23597"
+date-updated: 2026-02-02
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{debelsunce2025compressed3dlymanalphaforest,
+      title={The Compressed 3D Lyman-Alpha Forest Bispectrum},
+      author={Roger de Belsunce and James M. Sullivan and Patrick McDonald},
+      year={2025},
+      eprint={2510.23597},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2510.23597},
+  }
