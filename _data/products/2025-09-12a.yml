@@ -5,6 +5,7 @@ title: "Gradient-based search of quantum phases: discovering unconventional frac
 authors: "André Grossi Fonseca, Eric Wang, Sachin Vaidya, Patrick J. Ledwith, Ashvin Vishwanath, Marin Soljačić"
 abstract: "The discovery and understanding of new quantum phases has time and again transformed both fundamental physics and technology, yet progress often relies on slow, intuition-based theoretical considerations or experimental serendipity. Here, we introduce a general gradient-based framework for targeted phase discovery. We define a differentiable function, dubbed 'target-phase loss function', which encodes spectral fingerprints of a quantum state, thereby recasting phase search as a tractable optimization problem in Hamiltonian space. The method is broadly applicable to phases characterized by ground-state degeneracy and can be extended to a wide range of symmetry-broken and topological orders. As a demonstration, we apply it to spinless fermions on the kagome lattice and discover two distinctive fractional Chern insulators (FCIs), verified through detailed exact diagonalization: (i) at filling ν=1/3, a 'non-ideal' Abelian FCI whose band geometry lies far beyond the Landau-level mimicry paradigm and all recent generalizations; and (ii) at ν=1/2, a non-Abelian FCI stabilized purely by finite-range two-body interactions. These results provide the first explicit realization of such types of FCIs and establish a versatile paradigm for systematic quantum-phase discovery."
 arxiv: "2509.10438"
+date-updated: 2026-02-02
 journal:
 doi:
 nsf-par:

@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-11-11
+title: "Electronic crystals and quasicrystals in semiconductor quantum wells: an AI-powered discovery"
+authors: "Filippo Gaggioli, Pierre-Antoine Graham, Liang Fu"
+abstract: "The homogeneous electron gas is a cornerstone of quantum condensed matter physics, providing the foundation for developing density functional theory and understanding electronic phases in semiconductors. However, theoretical understanding of strongly-correlated electrons in realistic semiconductor systems remains limited. In this work, we develop a neural network based variational approach to study quantum wells in three dimensional geometry for a variety of electron densities and well thicknesses. Starting from first principles, our unbiased AI-powered method reveals metallic and crystalline phases with both monolayer and bilayer charge distributions. In the emergent bilayer, we discover a new quantum phase of matter: the electronic quasicrystal."
+arxiv: "2512.10909"
+date-updated: 2026-02-02
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{gaggioli2025electroniccrystalsquasicrystalssemiconductor,
+      title={Electronic crystals and quasicrystals in semiconductor quantum wells: an AI-powered discovery},
+      author={Filippo Gaggioli and Pierre-Antoine Graham and Liang Fu},
+      year={2025},
+      eprint={2512.10909},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.str-el},
+      url={https://arxiv.org/abs/2512.10909},
+  }

@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2025-12-19
+title: "Constraining primordial non-Gaussianity from DESI DR1 quasars and Planck PR4 CMB Lensing"
+authors: "Sofia Chiarenza, Alex Krolewski, Marco Bonici, Edmond Chaussidon, Roger de Belsunce, Will Percival, Jessica Nicole Aguilar, Steven Ahlen, Anton Baleato Lizancos, Davide Bianchi, David Brooks, Todd Claybaugh, Andrei Cuceu, Kyle Dawson, Axel de la Macorra, Peter Doel, Simone Ferraro, Andreu Font-Ribera, Jaime E. Forero-Romero, Enrique Gaztañaga, Satya Gontcho A Gontcho, Gaston Gutierrez, Hiram K. Herrera-Alcantar, Klaus Honscheid, Dragan Huterer, Mustapha Ishak, Dick Joyce, David Kirkby, Anthony Kremin, Ofer Lahav, Claire Lamman, Martin Landriau, Laurent Le Guillou, Michael Levi, Marc Manera, Paul Martini, Aaron Meisner, Ramon Miquel, Seshadri Nadathur, Jeffrey A. Newman, Gustavo Niz, Nathalie Palanque-Delabrouille, Claire Poppett, Francisco Prada, Ignasi Pérez-Ràfols, Graziano Rossi, Eusebio Sanchez, David Schlegel, Michael Schubnell, Hee-Jong Seo, Joseph Harry Silber, David Sprayberry, Gregory Tarlé, Benjamin Alan Weaver, Christophe Yèche, Rongpu Zhou, Hu Zou"
+abstract: "We present the first measurement of local-type primordial non-Gaussianity from the cross-correlation between 1.2 million spectroscopically confirmed quasars from the first data release (DR1) of the Dark Energy Spectroscopic Instrument (DESI) and the Planck PR4 CMB lensing reconstructions. The analysis is performed in three tomographic redshift bins covering 0.8<z<3.5, covering a sky fraction of ∼20%. We adopt a catalog-based pseudo-Cℓ estimator and apply linear imaging weights validated on noiseless mocks. Compared to previous analyses using photometric quasar samples, our results benefit from the high purity of the DESI spectroscopic sample, the reduced noise of PR4 lensing, and the absence of excess large-scale power in the spectroscopic quasar auto-correlation. Fitting simultaneously for the non-Gaussianity parameter fNL and the linear bias amplitude in each redshift bin, we obtain fNL=2+28−34 for a response parameter p=1.6, and fNL=6+20−24 for p=1.0. These results improve the constraints on fNL by ∼35% compared to the previous analysis based on the Legacy Imaging Survey DR9. Our results demonstrate the statistical power of DESI quasars for probing inflationary physics, and highlight the promise of future DESI data releases."
+arxiv: "2512.17865"
+date-updated: 2026-02-02
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{chiarenza2025constrainingprimordialnongaussianitydesi,
+      title={Constraining primordial non-Gaussianity from DESI DR1 quasars and Planck PR4 CMB Lensing},
+      author={Sofia Chiarenza and Alex Krolewski and Marco Bonici and Edmond Chaussidon and Roger de Belsunce and Will Percival and Jessica Nicole Aguilar and Steven Ahlen and Anton Baleato Lizancos and Davide Bianchi and David Brooks and Todd Claybaugh and Andrei Cuceu and Kyle Dawson and Axel de la Macorra and Peter Doel and Simone Ferraro and Andreu Font-Ribera and Jaime E. Forero-Romero and Enrique Gaztañaga and Satya Gontcho A Gontcho and Gaston Gutierrez and Hiram K. Herrera-Alcantar and Klaus Honscheid and Dragan Huterer and Mustapha Ishak and Dick Joyce and David Kirkby and Anthony Kremin and Ofer Lahav and Claire Lamman and Martin Landriau and Laurent Le Guillou and Michael Levi and Marc Manera and Paul Martini and Aaron Meisner and Ramon Miquel and Seshadri Nadathur and Jeffrey A. Newman and Gustavo Niz and Nathalie Palanque-Delabrouille and Claire Poppett and Francisco Prada and Ignasi Pérez-Ràfols and Graziano Rossi and Eusebio Sanchez and David Schlegel and Michael Schubnell and Hee-Jong Seo and Joseph Harry Silber and David Sprayberry and Gregory Tarlé and Benjamin Alan Weaver and Christophe Yèche and Rongpu Zhou and Hu Zou},
+      year={2025},
+      eprint={2512.17865},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2512.17865},
+  }

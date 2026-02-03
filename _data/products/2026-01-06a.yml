@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2026-01-06
+title: "MARVEL: A Multi Agent-based Research Validator and Enabler using Large Language Models"
+authors: "Nikhil Mukund, Yifang Luo, Fan Zhang, Lisa Barsotti, Erik Katsavounidis"
+abstract: "We present MARVEL (https://ligogpt.mit.edu/marvel/), a locally deployable, open-source framework for domain-aware question answering and assisted scientific research. It is designed to address the increasing demands of a digital assistant for scientific groups that can read highly technical data, cite precisely, and operate within authenticated networks. MARVEL combines a fast path for straightforward queries with a more deliberate DeepSearch mode that integrates retrieval-augmented generation and Monte Carlo Tree Search. It explores complementary subqueries, allocates more compute to promising branches, and maintains a global evidence ledger that preserves sources during drafting. We applied this framework in the context of gravitational-wave research related to the Laser Interferometer Gravitational-wave Observatory. Answers are grounded in a curated semantic index of research literature, doctoral theses, LIGO documents, and long-running detector electronic logbooks, with targeted web searches when appropriate. Because direct benchmarking against commercial LLMs cannot be performed on private data, we evaluated MARVEL on two publicly available surrogate datasets that capture comparable semantic and technical characteristics. On these benchmarks, MARVEL matches a GPT-4o mini baseline on literature-centric queries and substantially outperforms it on detector-operations content, where domain retrieval and guided reasoning are decisive. By making the complete framework and evaluation datasets openly available, we aim to provide a reproducible foundation for developing domain-specific scientific assistants."
+arxiv: "2601.03436"
+date-updated: 2026-02-02
+journal:
+doi:
+nsf-par:
+code: https://github.com/Nikhil-Mukund/marvel
+publication-date:
+bib-tex: |
+  @article{mukund2026marvelmultiagentbasedresearch,
+      title={MARVEL: A Multi Agent-based Research Validator and Enabler using Large Language Models},
+      author={Nikhil Mukund and Yifang Luo and Fan Zhang and Lisa Barsotti and Erik Katsavounidis},
+      year={2026},
+      eprint={2601.03436},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM},
+      url={https://arxiv.org/abs/2601.03436},
+  }

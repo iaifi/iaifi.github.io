@@ -130,7 +130,7 @@ for filename in products:
 # Closing all of the output files
 for thrust in ['T','E','A','F']:
   for status in ['submitted','published']:
-    for year in ['Y0','Y1','Y2','Y3','Y4','Y5']:
+    for year in ['Y0','Y1','Y2','Y3','Y4','Y5','Y6']:
       for quarter in ['Q1','Q2','Q3','Q4']:
 
         datename = year + "_" + quarter

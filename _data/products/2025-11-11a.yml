@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2025-11-11
+title: "Distance by de-correlation: Computing distance with heterogeneous grid cells"
+authors: "Pritipriya Dasbehera, Akshunna S. Dogra, William T. Redman"
+abstract: "Encoding the distance between locations in space is essential for accurate navigation. Grid cells, a functional class of neurons in medial entorhinal cortex, are believed to support this computation. However, existing theories of how populations of grid cells code distance rely on complex coding schemes, with assumptions that may not be met by anatomical constraints. Inspired by recent work finding grid cells to have small, but robust heterogeneity in their grid properties, we hypothesize that distance coding can be achieved by a simple de-correlation of population activity. We develop a mathematical theory for describing this de-correlation in one-dimension, showing that its predictions are consistent with simulations of noisy grid cells. Our simulations highlight a non-intuitive prediction of such a distance by de-correlation framework. Namely, that some further distances are better encoded than some nearer distances. We find evidence of this 'sweet spot' in previously published rodent behavioral experiments and demonstrate that a decoder which estimates distance from the de-correlation of populations of simulated noisy grid cells leads to a similar pattern of errors. Finally, by simulating noisy grid cells in two-dimensions, we find that there exists a trade-off between the range of distances that can be encoded by de-correlation of population activity and the distinguishability of different distances, which is controlled by the amount of variability in grid properties. We show that the previously observed average amount of grid property variability strikes a balance between the two, enabling the encoding of distances up to several meters. Our work provides new insight on how grid cells can underlie the coding of distance, without the assumptions previously needed, and why grid cells may have small amounts of heterogeneity in their grid properties."
+arxiv: "2511.08292"
+date-updated: 2026-02-03
+journal:
+doi:
+nsf-par:
+code: https://github.com/MathePhysics/GriDDE
+publication-date:
+bib-tex: |
+  @article{dasbehera2025distancedecorrelationcomputingdistance,
+      title={Distance by de-correlation: Computing distance with heterogeneous grid cells},
+      author={Pritipriya Dasbehera and Akshunna S. Dogra and William T. Redman},
+      year={2025},
+      eprint={2511.08292},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.NC},
+      url={https://arxiv.org/abs/2511.08292},
+  }

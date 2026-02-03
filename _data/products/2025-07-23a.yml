@@ -14,7 +14,7 @@ publication-date: 2026-01-02
 bib-tex: |
   @article{10.1007/JHEP01(2026)014,
   title={Analytic regression of Feynman integrals from high-precision numerical sampling},
-  author={Oscar Barrera, Aurélien Dersy, Rabia Husain, Matthew D. Schwartz, Xiaoyuan Zhang},
+  author={Barrera, Oscar and Dersy, Aurélien and Husain, Rabia and Schwartz, Matthew D. and Zhang, Xiaoyuan},
   year={2026},
   volume={2026},
   url={https://doi.org/10.1007/JHEP01(2026)014},
