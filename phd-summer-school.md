@@ -49,17 +49,19 @@ Students for the Summer School have the option to reserve dorm rooms. IAIFI will
 
 Lecturer: TBA
 
-### Topic: Symbolic Regression
+<img class="image" src="images/christoph-weniger-photo.png" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+### Topic: Simulation-Based Inference
 
-Lecturer: TBA
+Lecturer: [Christoph Weniger](https://www.christophweniger.com), Associate Professor, University of Amsterdam
 
 ### Topic: Computer Vision
 
 Lecturer: TBA
 
-### Topic: Simulation-Based Inference
+<img class="image" src="images/small-photo-miles-cranmer.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+### Topic: Symbolic Regression
 
-Lecturer: TBA
+Lecturer: [Miles Cranmer](https://www.maths.cam.ac.uk/person/mc2473), Assistant Professor, University of Cambridge
 
 
 ## Tutorial Leads
