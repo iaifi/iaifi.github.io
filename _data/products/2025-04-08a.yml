@@ -7,7 +7,7 @@ abstract: "Properly estimating correlations between objects at different spatial
 arxiv: "2504.06174"
 journal: "The Open Journal of Astrophysics, 2025, Volume 8"
 doi: https://doi.org/10.33232/001c.144313
-nsf-par:
+nsf-par: 10664241
 code: "https://github.com/EdwardBerman/cosmo-corr"
 publication-date: 2025-09-12
 bib-tex: |

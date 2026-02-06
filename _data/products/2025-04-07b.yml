@@ -7,7 +7,7 @@ abstract: "The intrinsic alignments (IA) of galaxies, a key contaminant in weak 
 arxiv: "2504.05235"
 journal: "The Open Journal of Astrophysics, 2025, Volume 8"
 doi: https://doi.org/10.33232/001c.151749
-nsf-par:
+nsf-par: 10654246
 code: https://github.com/snehjp2/IAEmu
 publication-date: 2025-12-02
 bib-tex: |
