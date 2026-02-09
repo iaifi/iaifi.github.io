@@ -1,0 +1,8 @@
+type: postdoc
+title: Post doctor (2 years) within data privacy and machine learning
+employer: Umeå University, Sweden
+post-date: 2026-02-08
+deadline: 2026-02-17
+expire: 2026-02-18
+link: https://umu.varbi.com/en/what:job/jobID:895019/
+details: "​The project will develop privacy-aware machine learning (ML) models. We are interested in data driven models for complex data, including temporal data. We are interested in both data-driven models as well as models built from synthetic data. Within privacy, we are interested in different types of privacy measures and models (differential and integral privacy, k-anonymity), different scenarios (centralized and decentralized data; local and global privacy). For decentralized data, we consider federated learning. We are interested in privacy-preserving machine learning at a scale."

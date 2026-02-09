@@ -56,6 +56,9 @@
 {%- if talk.event-details %}
   * {{talk.event-details}}
 {%- endif -%}
+{%- if talk.registration-deadline %}
+  * Registration Deadline: {{talk.registration-deadline | date: '%B %#d, %Y' %}}
+{%- endif -%}
 <br>
 {%- if is_this_week or is_next_week or is_upcoming or is_future %}
   {% if talk.rsvp-link %}[RSVP/Sign Up]({{talk.rsvp-link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if zoom_link %}[Join on Zoom]({{zoom_link}}){:.button.button--outline-primary.button--pill.button--sm}{% endif %} {% if talk.calendar-link %} [Add to Calendar]({{talk.calendar-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %} {% if talk.more-info-link %}[More Details]({{talk.more-info-link}}){:.button.button--outline-primary.button--pill.button--sm} {% endif %}

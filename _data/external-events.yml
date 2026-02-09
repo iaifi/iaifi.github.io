@@ -1,3 +1,26 @@
+- type: "external-event"
+  event-name: "Princeton ML Theory Summer School"
+  more-info-link: "http://mlschool.princeton.edu/"
+  event-post-date: "2026-02-08"
+  start-date-time: "2026-08-03 9:00"
+  end-date-time: "2026-08-14 17:00"
+  talk-location: "Princeton University"
+  talk-zoom:
+  event-details: "The primary goal is to showcase, through four main courses, a range of exciting recent developments in the subject. The primary focus this year is on theoretical advances in deep learning. An important secondary goal is to connect young researchers and foster community within theoretical machine learning."
+  calendar-link:
+  registration-deadline: 2026-03-31
+  
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-02-08"
+  start-date-time: "2026-02-09 12:00"
+  end-date-time: "2026-02-09 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Ming-Shau Liu (Flatiron Institute)<br>Title: Continuous representations of baryonic feedback for robust inference<br>Abstract: Modelling baryonic feedback in cosmology is a nontrivial problem, and different simulation suites offer varied subgrid physics descriptions and parameterisations. We introduce a machine learning pipeline that captures a representation of the baryonic feedback, allowing for marginalisation over the theoretical uncertainties introduced by the simulation suites."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2V2cmRtMXZpNTRxYW9xNDV0ZmwxYWpudGcgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
 - type: "external-workshop"
   event-name: "Statistical Physics for Ambitious Interpretability"
   event-organizer: "Principles of Intelligence (PIBBSS)"

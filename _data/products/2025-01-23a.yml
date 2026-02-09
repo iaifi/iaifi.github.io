@@ -7,7 +7,7 @@ abstract: "Modern neural networks (NNs) often do not generalize well in the pres
 arxiv: "2501.14048"
 journal: "Machine Learning: Science and Technology, 2025, Volume 6, Number 3"
 doi: https://doi.org/10.1088/2632-2153/adf701
-nsf-par:
+nsf-par: 10664239
 code: https://github.com/deepskies/SIDDA
 publication-date: 2025-08-14
 bib-tex: |

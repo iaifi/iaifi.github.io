@@ -8,7 +8,7 @@ arxiv: "2508.08370"
 date-updated: 2026-01-30
 journal: ICCV 2025
 doi: https://openaccess.thecvf.com/content/ICCV2025/html/Damaraju_CObL_Toward_Zero-Shot_Ordinal_Layering_without_User_Prompting_ICCV_2025_paper.html
-nsf-par:
+nsf-par: 10664244
 code: https://github.com/aneeldamaraju/cobl
 publication-date: 2025-10-19
 bib-tex: |
