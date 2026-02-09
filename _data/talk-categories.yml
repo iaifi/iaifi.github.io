@@ -13,11 +13,11 @@ thematic-discussion:
   webpage: "https://iaifi.org/lightning-talks"
 
 journal-club:
-  name: "Journal Club"
+  name: "Lunch Discussion"
   category: "internal"
   zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
   button_type: button--outline-primary
-  webpage: "https://iaifi.org/journal-club"
+  webpage: "https://iaifi.org/lunch-discussions"
 
 industry-lunch:
   name: "Industry Lunch"

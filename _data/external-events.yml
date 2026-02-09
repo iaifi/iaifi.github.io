@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "Princeton ML Theory Summer School"
+  more-info-link: "http://mlschool.princeton.edu/"
+  event-post-date: "2026-02-08"
+  start-date-time: "2026-08-03 9:00"
+  end-date-time: "2026-08-14 17:00"
+  talk-location: "Princeton University"
+  talk-zoom:
+  event-details: "The primary goal is to showcase, through four main courses, a range of exciting recent developments in the subject. The primary focus this year is on theoretical advances in deep learning. An important secondary goal is to connect young researchers and foster community within theoretical machine learning."
+  calendar-link:
+  registration-deadline: 2026-03-31
+  
+- type: "external-event"
   event-name: "AstroAI Lunch Talk"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2026-02-08"

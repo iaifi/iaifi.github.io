@@ -22,7 +22,7 @@
   
 - type: "thematic-discussion"
   semester: "spring-2026"
-  speaker-names-affiliations: "Speakers TBA"
+  speaker-names-affiliations: "Led by Nikhil Mukund (MIT/LIGO), Speakers TBA"
   speaker-title:
   speaker-affiliation:
   speaker-website:
@@ -30,7 +30,7 @@
   start-date-time: "2026-02-20 14:00"
   end-date-time: "2026-02-20 15:00"
   talk-location: "IT Kolker Room, 26-414"
-  talk-title: "Title to come."
+  talk-title: "LLMs for Science"
   talk-abstract: "Details to come."
   slides-link:
   youtube-link:
