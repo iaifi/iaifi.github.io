@@ -16,6 +16,25 @@
   speaker-gender:
   talk-attendance:  0 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjAyMTJUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2026"
+  speaker-name: "Speaker TBA"
+  speaker-title: "Title TBA"
+  speaker-affiliation: "Affiliation TBA"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2026-02-19 13:00"
+  end-date-time: "2026-02-19 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title TBA"
+  talk-abstract: "Details to come"
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjAyMTlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
 
 - type: "journal-club"
   semester: "fall-2025"
