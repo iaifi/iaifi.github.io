@@ -19,21 +19,21 @@
   
 - type: "colloquium"
   semester: "spring-2026"
-  speaker-name: "Speaker to be announced"
-  speaker-title: "Title to come"
-  speaker-affiliation: "Affiliation to come"
-  speaker-website: ""
-  speaker-photo-location: ""
+  speaker-name: "Andrew Gordon Wilson"
+  speaker-title: "Professor"
+  speaker-affiliation: "NYU"
+  speaker-website: "https://cims.nyu.edu/~andrewgw/"
+  speaker-photo-location: "images/small-photo-andrew-wilson.jpg"
   start-date-time: "2026-02-27 14:00"
   end-date-time: "2026-02-27 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
+  talk-title: "From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence"
   talk-abstract:
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjAyMjdUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "foundational AI"
+  speaker-gender: "man"
   talk-attendance: 0 in person, 0 virtual
   
 - type: "colloquium"
