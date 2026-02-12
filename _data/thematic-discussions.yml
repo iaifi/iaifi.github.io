@@ -22,16 +22,16 @@
   
 - type: "thematic-discussion"
   semester: "spring-2026"
-  speaker-names-affiliations: "Led by Nikhil Mukund (MIT/LIGO), Speakers TBA"
+  speaker-names-affiliations: "Nikhil Mukund (MIT/LIGO), Thomas Harvey (IAIFI Fellow), additional speaker to be announced"
   speaker-title:
   speaker-affiliation:
   speaker-website:
   speaker-photo-location:
   start-date-time: "2026-02-20 14:00"
   end-date-time: "2026-02-20 15:00"
-  talk-location: "IT Kolker Room, 26-414"
-  talk-title: "LLMs for Science"
-  talk-abstract: "Led by Nikhil Mukund (MIT/LIGO). Details to come."
+  talk-location: "MIT Kolker Room, 26-414"
+  talk-title: "LLMs and VLMs for Science"
+  talk-abstract: "Large language models (LLMs) and vision-language models (VLMs) are becoming part of everyday scientific work. They are used for literature search, technical Q&A with grounding, code generation and inspection, and tool use with simulators. In some cases, they are beginning to interact directly with hardware. Their reasoning ability is also being explored for physics- and math-heavy problems, including suggesting derivations and proposing analytic forms consistent with known constraints. This session will begin with three lightning talks (10 minutes each, plus short Q&A) that illustrate a few of these directions.<br>We will then open a guided discussion on other LLM-assisted efforts across IAIFI. Possible themes include domain-specific foundation models, joint multimodal embeddings, and VLMs for robotics, among others. The goal is to share lessons learned and discuss challenges such as reliability, verification, and handling out-of-distribution behavior. We will also explore more ambitious directions, including automatic hypothesis generation and testing to accelerate scientific discovery."
   slides-link:
   youtube-link:
   speaker-thrust:
