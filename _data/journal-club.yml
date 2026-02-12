@@ -19,22 +19,41 @@
   
 - type: "journal-club"
   semester: "spring-2026"
-  speaker-name: "Speaker TBA"
-  speaker-title: "Title TBA"
-  speaker-affiliation: "Affiliation TBA"
-  speaker-website:
+  speaker-name: "Max Geier"
+  speaker-title: "Postdoctoral Researcher"
+  speaker-affiliation: "MIT"
+  speaker-website: "https://www.linkedin.com/in/max-geier-8733ab340/"
   speaker-photo-location:
   start-date-time: "2026-02-19 13:00"
   end-date-time: "2026-02-19 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title TBA"
-  talk-abstract: "Details to come"
+  talk-title: "Predicting magnetism with first-principles AI"
+  talk-abstract: "We will discuss our recent results showing how to employ neural-network variational Monte Carlo to efficiently discover magnetism in materials by solving the Schroedinger equation from first principles. Beyond the physical results, we will discuss the numerical technique, how to treat spin systems, and what our results imply for solving more general spin systems. Reference: arXiv:2602.09093"
   slides-link:
   youtube-link:
-  speaker-thrust:
+  speaker-thrust: "physics theory"
   speaker-gender:
   talk-attendance:  0 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjAyMTlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2026"
+  speaker-name: "Speaker TBA"
+  speaker-title: "Title TBA"
+  speaker-affiliation: "Affiliation TBA"
+  speaker-website: ""
+  speaker-photo-location:
+  start-date-time: "2026-02-26 13:00"
+  end-date-time: "2026-02-26 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come"
+  talk-abstract: "Abstract to come"
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender:
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjAyMjZUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
 
 - type: "journal-club"
   semester: "fall-2025"
