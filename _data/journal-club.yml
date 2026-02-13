@@ -54,6 +54,44 @@
   speaker-gender:
   talk-attendance:  0 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjAyMjZUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2026"
+  speaker-name: "Hosea Siu"
+  speaker-title: "Technical Staff"
+  speaker-affiliation: "MIT Lincoln Laboratory"
+  speaker-website: "https://www.linkedin.com/in/hosea-siu/"
+  speaker-photo-location:
+  start-date-time: "2026-04-30 13:00"
+  end-date-time: "2026-04-30 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: "Man"
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjA0MzBUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2026"
+  speaker-name: "Rikab Gambhir"
+  speaker-title: "Postdoctoral Fellow"
+  speaker-affiliation: "University of Cincinnati"
+  speaker-website: "http://rikabgambhir.com"
+  speaker-photo-location:
+  start-date-time: "2026-04-16 13:00"
+  end-date-time: "2026-04-16 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Interpreting Interpretability and Explaining Explainability in Physics + ML"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics experiment"
+  speaker-gender: "Man"
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjA0MTZUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
 
 - type: "journal-club"
   semester: "fall-2025"
