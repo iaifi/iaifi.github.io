@@ -1,4 +1,28 @@
 - type: "external-event"
+  event-name: "SkAI Institute Colloquium"
+  more-info-link: "https://app.smartsheet.com/b/form/394c04426221442ba148c3311a292823"
+  event-post-date: "2026-02-12"
+  start-date-time: "2026-02-18 11:00"
+  end-date-time: "2026-02-18 11:55"
+  talk-location:
+  talk-zoom:
+  event-details: "Title: Taming Priors for Scientific Computational Imaging. Register in advance to receive Zoom link."
+  calendar-link:
+  registration-deadline: 2026-02-16
+  
+- type: "external-workshop"
+  event-name: "SkAI Institute Colloquium"
+  more-info-link: "https://whova.com/web/kKQFoCZ5SJYlTZ-6iLu3HFqMlnT5gcJkcVPy-6q8Urc%3D/"
+  event-post-date: "2026-02-12"
+  start-date-time: "2026-07-14 9:00"
+  end-date-time: "2026-07-16 6:00"
+  talk-location: "NRAO, Charlottesville, Virginia"
+  talk-zoom:
+  event-details: "AI-Powered Insights Into the Universe: Bringing together researchers who are actively developing and applying AI/ML methods in astronomy. Abstract submissions close April 1, 2026. Early bird registration closes May 15, 2026."
+  calendar-link:
+  registration-deadline: 2026-06-29
+
+- type: "external-event"
   event-name: "Princeton ML Theory Summer School"
   more-info-link: "http://mlschool.princeton.edu/"
   event-post-date: "2026-02-08"

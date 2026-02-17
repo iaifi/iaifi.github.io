@@ -17,13 +17,13 @@ title: IAIFI Summer School
 The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. 
 
 * **August 3–7, 2026**
-* **Boston/Cambridge, MA (exact location TBA)**
+* **University of Massachusetts, Boston**
 
 The Summer School is followed by the [IAIFI Summer Workshop](/summer-workshop), which is open to researchers of all career stages. 
 
 <br><br><br>
 
-[Apply](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845){:.button.button--outline-primary.button--pill.button--lg}[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
+[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
 
 
 ## About 
@@ -31,12 +31,12 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ## Apply
 
-**Applications are now open for the 2026 IAIFI Summer School.** Space is limited and applications are due by February 9, 2026. Applicants will be notified of their status by February 16, 2026.
+**Applications are now closed for the 2026 IAIFI Summer School.** Please email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu) if you would like the opportunity to attend virtually
 
 [Apply](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Accommodations
-Students for the Summer School have the option to reserve dorm rooms. IAIFI will reimburse the cost of 5 nights in the dorms after the Summer School, contingent upon attendance. Instructions for this will be provided to students upon acceptance.
+Students for the Summer School have the option to reserve dorm rooms. IAIFI will reimburse the cost of 5 nights in the dorms after the Summer School, contingent upon attendance. Instructions for this will be provided to attendees in March.
 
 ## Costs
 * There is no registration fee for the Summer School. Costs of dorm accommodations will be reimbursed by IAIFI, contingent upon attendance. Students for the Summer School are expected to cover the cost of travel. 
@@ -54,9 +54,10 @@ Lecturer: TBA
 
 Lecturer: [Christoph Weniger](https://www.christophweniger.com), Associate Professor, University of Amsterdam
 
+<img class="image" src="images/small-photo-berthy-feng.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Computer Vision
 
-Lecturer: TBA
+Lecturer: [Berthy Feng](https://www.berthyfeng.com), IAIFI/Tayebati Fellow
 
 <img class="image" src="images/small-photo-miles-cranmer.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Symbolic Regression
