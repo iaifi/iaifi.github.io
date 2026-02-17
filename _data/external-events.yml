@@ -1,4 +1,28 @@
 - type: "external-event"
+  event-name: "SDSCon 2026"
+  event-organizer:
+  more-info-link: "https://sdscon.mit.edu/"
+  event-post-date: "2026-02-15"
+  start-date-time: "2026-04-10 09:00"
+  end-date-time: "2026-04-10 16:00"
+  talk-location: "MIT Bldg. 45, 8th Floor"
+  talk-zoom:
+  event-details: "SDSCon 2026 will take place this year on Friday, April 10th, 2026, and we are seeking submissions from students, postdocs and researchers for a poster session and selection of lightning talks. Please find here the link to submit a title and abstract: https://forms.gle/QR1ToSwjmYoEF2Js6"
+  calendar-link: 
+
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2026-02-15"
+  start-date-time: "2026-02-17 16:00"
+  end-date-time: "2026-02-17 17:00"
+  talk-location: "MIT Room 32-G575"
+  talk-zoom: https://mit.zoom.us/j/97936282050?pwd=jQFjXRoby8o3e0K3kIsRzS629aIzBh.1
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker: Jason Liu <br>Title: Robotic Language Grounding through Structured Representation<br>Abstract: Natural language provides an intuitive and flexible way for humans to communicate with robots. However, understanding diverse, ambiguous language commands is challenging. Grounding language to structured task specifications enables autonomous robots to understand a broad range of natural language and solve long-horizon tasks with safety guarantees. Linear temporal logic (LTL) provides unambiguous semantics for language grounding, and its compositionality can induce skill transfer.<br>In this talk, I will first propose two language grounding systems. 1) Lang2LTL is a modular system that uses large language models (LLMs) to ground navigation commands with diverse temporal patterns to LTL task specifications in novel environments without retraining. 2) Improved upon its predecessor, Lang2LTL-2 uses LLMs and a pretrained vision-language model to ground spatiotemporal navigation commands. By translating language to LTL, both systems can detect infeasible task specifications and abort execution when necessary. 3) Next, I will introduce LTL-Transfer, a zero-shot transfer algorithm that leverages the compositionality of LTL to reuse learned skills to solve novel tasks without violating any safety constraints. In future work, I want to develop robotic systems that produce robust and verifiable behavior by integrating multimodal grounding and human-robot dialogue."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTc0ZHF0YjF1bnRtaHVqMTNkMXF1NHV0ZTQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
+- type: "external-event"
   event-name: "SkAI Institute Colloquium"
   more-info-link: "https://app.smartsheet.com/b/form/394c04426221442ba148c3311a292823"
   event-post-date: "2026-02-12"
