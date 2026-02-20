@@ -29,11 +29,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Predicting magnetism with first-principles AI"
   talk-abstract: "We will discuss our recent results showing how to employ neural-network variational Monte Carlo to efficiently discover magnetism in materials by solving the Schroedinger equation from first principles. Beyond the physical results, we will discuss the numerical technique, how to treat spin systems, and what our results imply for solving more general spin systems. Reference: arXiv:2602.09093"
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1v_SDfw3JeGupEdK-AiTbbXklVy7aE-zF/view?usp=drive_link
   youtube-link:
   speaker-thrust: "physics theory"
-  speaker-gender:
-  talk-attendance:  0 in person, 0 virtual
+  speaker-gender: "man"
+  talk-attendance:  7 in person, 4 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjAyMTlUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
