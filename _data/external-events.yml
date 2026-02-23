@@ -1,4 +1,17 @@
 - type: "external-event"
+  event-name: "Women in Data Science Conference Cambridge 2026"
+  event-organizer:
+  more-info-link: "https://www.widscambridge.org"
+  event-post-date: "2026-02-17"
+  start-date-time: "2026-03-06 08:00"
+  end-date-time: "2026-03-06 14:30"
+  talk-location: "Microsoft New England (NERD Center) 1 Memorial Drive, Cambridge, MA 02142"
+  talk-zoom:
+  event-details: "For the tenth year, MIT and Microsoft New England are proud to collaborate with Women in Data Science (WiDS) Worldwide to bring the WiDS regional conference to Cambridge, Massachusetts. This one-day conference will feature an all-female lineup of speakers and panelists from academia and industry to talk about the latest data science and AI-related research in a number of domains, and to learn how leading-edge researchers and companies are leveraging data science for success."
+  registration-deadline: 2026-02-27
+  calendar-link:
+
+- type: "external-event"
   event-name: "SDSCon 2026"
   event-organizer:
   more-info-link: "https://sdscon.mit.edu/"

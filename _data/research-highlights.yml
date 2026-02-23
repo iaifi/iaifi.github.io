@@ -1,4 +1,15 @@
 - type: "research-highlight"
+  domain: "Foundational AI"
+  title: "L<sup>2</sup>M: Mutual Information Scaling Law for Long-Context Language Modeling"
+  authors: Zhuo Chen, Oriol Mayné i Comas, Zhuotao Jin, Di Luo, Marin Soljacic
+  date-added: 2026-02-18
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vS874FHvvnjxIuT5KpIJYTCkv3Q_6RxN5B_AVLWy-_mhM126XWC7k1m24pzdmbqdkC2vDaLBH8mLCPR/pubembed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1BCQtqqlWEYKqlaEkvuSPY_hm0CB4pCGdLWMlRbsPYzI/edit?usp=sharing"
+  overview-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTHFHcNFAy08CQyC6OYTclfWu2MWxggIqq0HvpsN5km9I2C-69198pN4s3OsxjQEASnuiCJKY6v6gHJ/pubembed?start=false&loop=false&delayms=3000"
+  overview-link: "https://docs.google.com/presentation/d/10lxvTY3RvBt562HTytRQe6SIzxU9z08ihwISqfEZCdI/edit?usp=sharing"
+  screenshot: ResearchHighlight_202602_Chen.png
+
+- type: "research-highlight"
   domain: "Astrophysics"
   title: "Detecting model misspecification in cosmology with scale-dependent normalizing flows"
   authors: Aizhan Akhmetzhanova, Carolina Cuesta-Lazaro, Siddharth Mishra-Sharma
