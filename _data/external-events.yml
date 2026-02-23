@@ -1,4 +1,17 @@
 - type: "external-event"
+  event-name: "Statistics and Data Science Seminar"
+  event-organizer:
+  more-info-link: "https://stat.mit.edu/seminars/upcoming/"
+  event-post-date: "2026-02-22"
+  start-date-time: "2026-02-27 11:00"
+  end-date-time: "2026-02-27 12:00"
+  talk-location: "MIT E18-304"
+  talk-zoom:
+  event-details: "Speaker: Michael Albergo, Harvard University <br> Title: Frontiers of dynamical control of generative models <br> Abstract: Flow and diffusion models have become cornerstones of both scientific and industrial generative AI research. These methods work by construction of a dynamics that maps samples from a reference distribution to samples from a target distribution known empirically through data. An open question is how to best control and modify these dynamics so as to satisfy specified target sampling constraints, often specified by a reward or tilting function. I will provide an overview of the mathematics underlying this construction and discuss some of our recent efforts to make this sort of reward alignment highly scalable, both during training via fine-tuning and during inference via steering. Along the way, I will argue that the flow map — the solution operator of these dynamics — is essential to performing efficient and scalable alignment, and, time permitting, I will discuss recent efforts to bring these advances to language modeling."
+  registration-deadline:
+  calendar-link:
+  
+- type: "external-event"
   event-name: "Women in Data Science Conference Cambridge 2026"
   event-organizer:
   more-info-link: "https://www.widscambridge.org"
