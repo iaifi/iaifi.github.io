@@ -57,6 +57,25 @@
   
 - type: "journal-club"
   semester: "spring-2026"
+  speaker-name: "Speaker to be announced (TBA)"
+  speaker-title: "Title TBA"
+  speaker-affiliation: "Affiliation TBA"
+  speaker-website: ""
+  speaker-photo-location:
+  start-date-time: "2026-03-05 13:00"
+  end-date-time: "2026-03-05 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title TBA"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender:
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjAzMDVUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2026"
   speaker-name: "Hosea Siu"
   speaker-title: "Technical Staff"
   speaker-affiliation: "MIT Lincoln Laboratory"
@@ -733,7 +752,7 @@
   speaker-title: LINCC Frameworks Project Scientist
   speaker-affiliation: Carnegie Mellon University
   speaker-website: "https://lsstdiscoveryalliance.org/programs/lincc-frameworks/team/alex-malz/"
-  speaker-photo-location: 
+  speaker-photo-location:
   talk-date-time: "Tuesday, January 16, 2024, 11:00 am–12:00 pm"
   start-date-time: "2024-01-16 11:00"
   end-date-time: "2024-01-16 12:00"
@@ -752,7 +771,7 @@
   speaker-title: Grad Student
   speaker-affiliation: University of Pennsylvania
   speaker-website: "https://helenqu.com"
-  speaker-photo-location: 
+  speaker-photo-location:
   talk-date-time: "Tuesday, February 6, 2024, 11:00 am–12:00 pm"
   start-date-time: "2024-02-06 11:00"
   end-date-time: "2024-02-06 12:00"
@@ -771,14 +790,14 @@
   speaker-title: Postdoctoral Associate
   speaker-affiliation: Rutgers University
   speaker-website: "http://cgisvr.physics.rutgers.edu/cgi-bin/physdb/genpip.pl?FaroughyD"
-  speaker-photo-location: 
+  speaker-photo-location:
   talk-date-time: "Tuesday, February 20, 2024, 11:00 am–12:00 pm"
   start-date-time: "2024-02-20 11:00"
   end-date-time: "2024-02-20 12:00"
   talk-location: "MIT LNS Conference Room (26-528)"
   talk-title: Is flow-matching an alternative to diffusion?
-  talk-abstract: We discuss flow-matching (2210.02747), a recently proposed objective for training continuous normalizing flows inspired by diffusion models. As a generative model, flow-matching can produce state-of-the-art samples for images and other data representations. More interestingly, flow-matching can be used to go beyond generative modeling by learning to approximate the optimal transport map between two arbitrary data distributions. The JC is meant to be an interactive blackboard talk discussing the method. At the end, I'll flash a few slides illustrating its usefulness for generating jets as particle clouds (2310.00049).  
-  slides-link: 
+  talk-abstract: We discuss flow-matching (2210.02747), a recently proposed objective for training continuous normalizing flows inspired by diffusion models. As a generative model, flow-matching can produce state-of-the-art samples for images and other data representations. More interestingly, flow-matching can be used to go beyond generative modeling by learning to approximate the optimal transport map between two arbitrary data distributions. The JC is meant to be an interactive blackboard talk discussing the method. At the end, I'll flash a few slides illustrating its usefulness for generating jets as particle clouds (2310.00049).
+  slides-link:
   youtube-link:
   speaker-thrust: "physics theory"
   speaker-gender: "Man"
@@ -825,7 +844,7 @@
   semester: "spring-2024"
   speaker-name: Katherine Fraser
   speaker-title: Graduate Student
-  speaker-affiliation: Harvard University 
+  speaker-affiliation: Harvard University
   speaker-website: "https://projects.iq.harvard.edu/kfraser/home"
   speaker-photo-location:
   start-date-time: "2024-03-19 11:00"

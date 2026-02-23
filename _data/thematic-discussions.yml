@@ -32,12 +32,12 @@
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "LLMs and VLMs for Science"
   talk-abstract: "Large language models (LLMs) and vision-language models (VLMs) are becoming part of everyday scientific work. They are used for literature search, technical Q&A with grounding, code generation and inspection, and tool use with simulators. In some cases, they are beginning to interact directly with hardware. Their reasoning ability is also being explored for physics- and math-heavy problems, including suggesting derivations and proposing analytic forms consistent with known constraints. This session will begin with three lightning talks (10 minutes each, plus short Q&A) that illustrate a few of these directions.<br>We will then open a guided discussion on other LLM-assisted efforts across IAIFI. Possible themes include domain-specific foundation models, joint multimodal embeddings, and VLMs for robotics, among others. The goal is to share lessons learned and discuss challenges such as reliability, verification, and handling out-of-distribution behavior. We will also explore more ambitious directions, including automatic hypothesis generation and testing to accelerate scientific discovery."
-  slides-link:
-  youtube-link:
+  slides-link: https://drive.google.com/drive/folders/1Qkx826-inLQ4L-Gb5n6qfylqhxgE3jjd?usp=drive_link
+  youtube-link: https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?tab=t.0#heading=h.po6bcea3xsea
   speaker-thrust:
-  speaker-gender:
-  talk-attendance-in-person:
-  talk-attendance-virtual:
+  speaker-gender: man
+  talk-attendance-in-person: 15
+  talk-attendance-virtual: 10
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDBtdmIwcGtpdmg1ZWhvMHFsbDJpM212MDZfMjAyNjAyMjBUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
 
 - type: "thematic-discussion"
