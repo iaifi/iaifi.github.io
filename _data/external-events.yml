@@ -21,7 +21,41 @@
   talk-location: "MIT Bldg. 45, 8th Floor"
   talk-zoom:
   event-details: "SDSCon 2026 will take place this year on Friday, April 10th, 2026, and we are seeking submissions from students, postdocs and researchers for a poster session and selection of lightning talks. Please find here the link to submit a title and abstract: https://forms.gle/QR1ToSwjmYoEF2Js6"
-  calendar-link: 
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "New Seminar Series from the Poggio Lab at MIT: AI: Foundations for Academia (and Startups)"
+  more-info-link: https://docs.google.com/document/d/1c8SC4zQrxkQfB_aem4PxM1rvo2rxehTDhv1kLTmclGk/edit?usp=sharing
+  event-post-date: "2026-02-22"
+  start-date-time: "2026-03-02 16:00"
+  end-date-time: "2026-03-02 17:00"
+  talk-location: "The McGovern Reading Room (MIT 46-5165), and Zoom"
+  talk-zoom:  https://mit.zoom.us/j/6098650159
+  event-details: "Speaker: Tomaso Poggio<br>Title:  Principles of Deep Learning<br>Seminar Overview: The landscape of AI research is shifting. Many problems that once defined academia are now dominated by scale, data, and incumbent advantage. Yet the most important questions remain open. What are the fundamental principles of intelligence, and how can they guide systems that learn efficiently, generalize robustly, and create real societal and economic value? This seminar argues that academia remains the place to identify and test principles of intelligence. Startups remain the place to turn those principles into systems that matter. We convene the MIT-area community to identify foundational principles that are shared by biological and artificial intelligence, and translate them into deployable, venture-scale technologies. We will connect empirical evidence from cognitive development, systems neuroscience, and modern AI systems with formal structure in learning and reasoning, including sample efficiency, sparse compositionality, invariances, memory, optimization dynamics, and generalization. By the end of the series, we will have identified and tested key conjectures about intelligence and built new collaborations between labs and startups."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXAwZWk2dHRwZDVoMnNpcjE1ajNuYTlwbnYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-02-22"
+  start-date-time: "2026-02-24 12:00"
+  end-date-time: "2026-02-24 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Nolan Koblischke (University of Toronto)<br>Title: AION-Search: Semantic search for 100M+ galaxy images using AI-generated captions<br>Abstract: Finding scientifically interesting phenomena in billions of galaxy images currently relies on slow manual labeling campaigns. We build a semantic search engine from completely unlabeled image data by leveraging Vision-Language Models (VLMs) to generate descriptions for galaxy images, then contrastively align a pre-trained astronomy foundation model with these embedded descriptions. We find that current VLMs generate descriptions that are sufficiently informative to train a semantic search model that has strong zero-shot performance on rare phenomena despite no deliberate curation for rare cases during training. We further introduce a VLM-based re-ranking method that nearly doubles recall for our most challenging targets. AION-Search enables flexible semantic search for 100 million galaxy images, and our approach generalizes to making large unlabeled scientific image archives semantically searchable across domains."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDRrMnFyZGNycWNhZ2dmajJydTE0N29sNXAgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2026-02-22"
+  start-date-time: "2026-02-23 16:00"
+  end-date-time: "2026-02-23 17:00"
+  talk-location: "Zoom (Password: 715142)"
+  talk-zoom: https://mit.zoom.us/j/94522935423?pwd=KcuQLhugywabcUm2EZSaNjcirx8OzQ.1
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker 1: Iris Xu <br>Title: Discovering Hierarchical Software Engineering Agents via Bandit Optimization<br>Abstract: Large language models (LLMs) have shown strong reasoning and coding capabilities, yet they struggle to generalize to real-world software engineering (SWE) problems that are long-horizon and out of distribution. Existing systems often rely on a single agent to handle the entire workflow-interpreting issues, navigating large codebases, and implementing fixes-within one reasoning chain. Such monolithic designs force the model to retain irrelevant context, leading to spurious correlations and poor generalization. Motivated by how human engineers decompose complex problems, we propose structuring SWE agents as orchestrators coordinating specialized sub-agents for sub-tasks such as localization, editing, and validation. The challenge lies in discovering effective hierarchies automatically: as the number of sub-agents grows, the search space becomes combinatorial, and it is difficult to attribute credit to individual sub-agents within a team. We address these challenges by formulating hierarchy discovery as a multi-armed bandit (MAB) problem, where each arm represents a candidate sub-agent and the reward measures its helpfulness when collaborating with others. This framework, termed Bandit Optimization for Agent Design (BOAD), enables efficient exploration of sub-agent designs under limited evaluation budgets. On SWE-bench-Verified, BOAD outperforms single-agent and manually designed multi-agent systems. On SWE-bench-Live, featuring more recent and out-of-distribution issues, our 36B system ranks second on the leaderboard at the time of evaluation, surpassing larger models such as GPT-4 and Claude. These results demonstrate that automatically discovered hierarchical multi-agent systems significantly improve generalization on challenging long-horizon SWE tasks.<br><br>Speaker 2: Parmida Davarmanesh <br>Title: Efficient and accurate steering of Large Language Models through attention-guided feature learning<br>Abstract: Steering, or direct manipulation of internal activations to guide LLM responses toward specific semantic concepts, is emerging as a promising avenue for both understanding how semantic concepts are stored within LLMs and advancing LLM capabilities. Yet, existing steering methods are remarkably brittle, with seemingly non-steerable concepts becoming completely steerable based on subtle algorithmic choices in how concept-related features are extracted. In this work, we introduce an attention-guided steering framework that overcomes three core challenges associated with steering: (1) automatic selection of relevant token embeddings for extracting concept-related features; (2) accounting for heterogeneity of concept-related features across LLM activations; and (3) identification of layers most relevant for steering. Across a steering benchmark of 512 semantic concepts, our framework substantially improved steering over previous state-of-the-art (nearly doubling the number of successfully steered concepts) across model architectures and sizes (up to 70 billion parameter models). Furthermore, we use our framework to shed light on the distribution of concept-specific features across LLM layers. Overall, our framework opens further avenues for developing efficient, highly-scalable fine-tuning algorithms for industry-scale LLMs."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWVyNmhjNW10MXE0MHYxa281cjkycXBhdm4gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
 
 - type: "external-event"
   event-name: "ML Tea Talk"
@@ -1598,7 +1632,7 @@
   end-date-time: "2023-11-10 17:00"
   talk-location: DESY
   talk-zoom:
-  event-details: 
+  event-details:
   calendar-link:
   
 - type: "external-workshop"
