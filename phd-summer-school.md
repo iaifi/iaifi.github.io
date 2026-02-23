@@ -45,11 +45,12 @@ Students for the Summer School have the option to reserve dorm rooms. IAIFI will
 
 ## Lecturers
 
+<img class="image" src="images/photo-jun-yan-zhu.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Generative Modeling/Diffusion
 
-Lecturer: TBA
+Lecturer: [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), Assistant Professor, Carnegie Mellon University
 
-<img class="image" src="images/christoph-weniger-photo.png" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
+<img class="image" src="images/small-photo-christoph-weniger.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Simulation-Based Inference
 
 Lecturer: [Christoph Weniger](https://www.christophweniger.com), Associate Professor, University of Amsterdam
