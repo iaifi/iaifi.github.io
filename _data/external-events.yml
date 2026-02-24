@@ -1,6 +1,6 @@
 - type: "external-event"
   event-name: "Statistics and Data Science Seminar"
-  event-organizer:
+  event-organizer: "the MIT Statistics and Data Science Center"
   more-info-link: "https://stat.mit.edu/seminars/upcoming/"
   event-post-date: "2026-02-22"
   start-date-time: "2026-02-27 11:00"
@@ -13,7 +13,7 @@
   
 - type: "external-event"
   event-name: "Women in Data Science Conference Cambridge 2026"
-  event-organizer:
+  event-organizer: "MIT and Microsoft New England"
   more-info-link: "https://www.widscambridge.org"
   event-post-date: "2026-02-17"
   start-date-time: "2026-03-06 08:00"
@@ -26,7 +26,7 @@
 
 - type: "external-event"
   event-name: "SDSCon 2026"
-  event-organizer:
+  event-organizer: "the Statistics and Data Science Center"
   more-info-link: "https://sdscon.mit.edu/"
   event-post-date: "2026-02-15"
   start-date-time: "2026-04-10 09:00"
@@ -37,7 +37,8 @@
   calendar-link:
   
 - type: "external-event"
-  event-name: "New Seminar Series from the Poggio Lab at MIT: AI: Foundations for Academia (and Startups)"
+  event-name: "New Seminar Series: AI: Foundations for Academia (and Startups)"
+  event-organizer: "the Poggio Lab at MIT"
   more-info-link: https://docs.google.com/document/d/1c8SC4zQrxkQfB_aem4PxM1rvo2rxehTDhv1kLTmclGk/edit?usp=sharing
   event-post-date: "2026-02-22"
   start-date-time: "2026-03-02 16:00"
@@ -84,6 +85,7 @@
 
 - type: "external-event"
   event-name: "SkAI Institute Colloquium"
+  event-organizer: "SkAI Institute"
   more-info-link: "https://app.smartsheet.com/b/form/394c04426221442ba148c3311a292823"
   event-post-date: "2026-02-12"
   start-date-time: "2026-02-18 11:00"
@@ -95,9 +97,10 @@
   registration-deadline: 2026-02-16
   
 - type: "external-workshop"
-  event-name: "SkAI Institute Colloquium"
+  event-name: "2nd Annual Cosmic Horizons Conference"
+  event-organizer: "the NSF-Simons AI Institute for Cosmic Origins (CosmicAI)"
   more-info-link: "https://whova.com/web/kKQFoCZ5SJYlTZ-6iLu3HFqMlnT5gcJkcVPy-6q8Urc%3D/"
-  event-post-date: "2026-02-12"
+  event-post-date: "2026-3-01"
   start-date-time: "2026-07-14 9:00"
   end-date-time: "2026-07-16 6:00"
   talk-location: "NRAO, Charlottesville, Virginia"
@@ -108,6 +111,7 @@
 
 - type: "external-event"
   event-name: "Princeton ML Theory Summer School"
+  event-organizer: "Boris Hanin (Princeton ORFE)"
   more-info-link: "http://mlschool.princeton.edu/"
   event-post-date: "2026-02-08"
   start-date-time: "2026-08-03 9:00"
@@ -138,7 +142,7 @@
   end-date-time: "2026-04-17 17:00"
   talk-location: "Cambridge, MA (exact location TBD)"
   talk-zoom:
-  event-details: "We’re excited to announce an upcoming workshop: Statistical Physics for Ambitious Interpretability, hosted by Principles of Intelligence (PIBBSS), a non-profit AI safety research organization. We are excited to expand upon our first workshop, held in October, which brought together researchers in physics, CS, AI safety, and neuroscience and resulted in several exciting new directions. At this event, you can expect seminar-style talks, collaborative breakout sessions, and plenty of time for focused discussions. The workshop is free to attend, and space is limited to ensure production discussions. Please apply at the provided link."
+  event-details: "We’re excited to announce an upcoming workshop: Statistical Physics for Ambitious Interpretability, hosted by Principles of Intelligence (PIBBSS), a non-profit AI safety research organization. We are excited to expand upon our first workshop, held in October, which brought together researchers in physics, CS, AI safety, and neuroscience and resulted in several exciting new directions. At this event, you can expect seminar-style talks, collaborative breakout sessions, and plenty of time for focused discussions. The workshop is free to attend, and space is limited to ensure production discussions. Please apply at the provided link: https://docs.google.com/forms/d/e/1FAIpQLScP_zb5jO0jyO6GPQvgWLL23mnoJK5s2F2nUoYEDDFxUoc2AQ/viewform"
   calendar-link:
   rsvp-link: "https://docs.google.com/forms/d/e/1FAIpQLScP_zb5jO0jyO6GPQvgWLL23mnoJK5s2F2nUoYEDDFxUoc2AQ/viewform?usp=header"
   

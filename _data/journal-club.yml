@@ -76,6 +76,44 @@
   
 - type: "journal-club"
   semester: "spring-2026"
+  speaker-name: "Speaker to be announced (TBA)"
+  speaker-title: "Title TBA"
+  speaker-affiliation: "Affiliation TBA"
+  speaker-website: ""
+  speaker-photo-location:
+  start-date-time: "2026-03-12 13:00"
+  end-date-time: "2026-03-12 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title TBA"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender:
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjAzMTJUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2026"
+  speaker-name: "Speaker to be announced (TBA)"
+  speaker-title: "Title TBA"
+  speaker-affiliation: "Affiliation TBA"
+  speaker-website: ""
+  speaker-photo-location:
+  start-date-time: "2026-03-19 13:00"
+  end-date-time: "2026-03-19 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title TBA"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender:
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=YWJyOTU4aTQzbHVlYzE2M3JvMDUzYTVjMnNfMjAyNjAzMTlUMTgwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2026"
   speaker-name: "Hosea Siu"
   speaker-title: "Technical Staff"
   speaker-affiliation: "MIT Lincoln Laboratory"

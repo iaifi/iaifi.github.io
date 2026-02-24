@@ -39,6 +39,26 @@
   talk-attendance-in-person: 15
   talk-attendance-virtual: 10
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDBtdmIwcGtpdmg1ZWhvMHFsbDJpM212MDZfMjAyNjAyMjBUMTkwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  
+- type: "thematic-discussion"
+  semester: "spring-2026"
+  speaker-names-affiliations: "Akshunna Dogra (IAIFI Fellow), Sam Bright-Thonney (IAIFI Fellow), other speakers to be announced"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2026-03-20 14:00"
+  end-date-time: "2026-03-20 15:00"
+  talk-location: "MIT Kolker Room, 26-414"
+  talk-title: "Geometric Deep Learning"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance-in-person:
+  talk-attendance-virtual:
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDBtdmIwcGtpdmg1ZWhvMHFsbDJpM212MDZfMjAyNjAzMjBUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
 
 - type: "thematic-discussion"
   semester: "fall-2025"
