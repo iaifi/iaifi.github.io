@@ -14,7 +14,7 @@ title: IAIFI Summer School
 
 <img src="images/2025-summer-school-group-photo.jpeg" align="right" style="max-width:936px;width:50%" hspace="10" vspace="10"> 
 
-The mission of the IAIFI PhD Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. 
+The mission of the IAIFI Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. 
 
 * **August 3–7, 2026**
 * **University of Massachusetts, Boston**
