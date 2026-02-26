@@ -43,33 +43,14 @@
   speaker-affiliation: "Harvard University"
   speaker-website: "https://acrodrig98.github.io/"
   speaker-photo-location:
-  start-date-time: "2026-02-26 13:00"
-  end-date-time: "2026-02-26 14:00"
+  start-date-time: "2026-03-05 13:00"
+  end-date-time: "2026-03-05 14:00"
   talk-location: "IAIFI Penthouse"
   talk-title: "Extracting Meaning from Ultra-low Resolution Astronomical Spectroscopy with Deep Learning"
   talk-abstract: "The origin and evolution of magnetism in low-mass stars is a key question in stellar astronomy, with implications extending from exoplanetary habitability to interior stellar dynamos. In binary stars, mass transfer produces some of the most exotic star systems which serve as natural high-energy laboratories of particle acceleration and plasma physics. In both cases, such systems can be discovered through the emission of the H-alpha line of the Balmer series. The Gaia mission has released an ultra-low-resolution spectroscopic catalog (Gaia XP) of 220 million objects, most of which are stars, though at a resolution tens to hundreds of times lower than traditional large-scale spectroscopic surveys (SDSS, DESI, LAMOST, etc.). In contrast, SDSS, DESI, and LAMOST have surveyed at most 20 million objects, with the majority being extragalactic objects and not the above targets of interest. In this talk, I will introduce a deep-learning classifier that can detect H-alpha emission in ultra-low-resolution spectroscopy by first training on SDSS medium-resolution data.  I will show why deep-learning outperforms any other method, including manual labeling of ultra-low-resolution spectroscopy, and how I am constructing the largest dataset of magnetically active stars and mass-transferring binaries as a result. I will conclude the talk by outlining how this method can be applied to future Gaia data releases, which will release ultra-low-spectroscopy of billions of objects, including time-domain spectroscopy."
   slides-link:
   youtube-link:
   speaker-thrust: "astrophysics"
-  speaker-gender:
-  talk-attendance:  0 in person, 0 virtual
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjAyMjZUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
-  
-- type: "journal-club"
-  semester: "spring-2026"
-  speaker-name: "Speaker to be announced (TBA)"
-  speaker-title: "Title TBA"
-  speaker-affiliation: "Affiliation TBA"
-  speaker-website: ""
-  speaker-photo-location:
-  start-date-time: "2026-03-05 13:00"
-  end-date-time: "2026-03-05 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title TBA"
-  talk-abstract: "Details to come."
-  slides-link:
-  youtube-link:
-  speaker-thrust: ""
   speaker-gender:
   talk-attendance:  0 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjAzMDVUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
