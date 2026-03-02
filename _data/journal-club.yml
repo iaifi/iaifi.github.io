@@ -57,15 +57,15 @@
   
 - type: "journal-club"
   semester: "spring-2026"
-  speaker-name: "Speaker to be announced (TBA)"
-  speaker-title: "Title TBA"
-  speaker-affiliation: "Affiliation TBA"
+  speaker-name: "Sean Benevedes and Victoria Zhang"
+  speaker-title: "Graduate Students"
+  speaker-affiliation: "MIT"
   speaker-website: ""
   speaker-photo-location:
   start-date-time: "2026-03-12 13:00"
   end-date-time: "2026-03-12 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title TBA"
+  talk-title: "AI+Science: Unpopular Opinions"
   talk-abstract: "Details to come."
   slides-link:
   youtube-link:

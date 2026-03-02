@@ -10,6 +10,43 @@
   event-details: "Advanced statistical and computational insights are transforming all aspects of physics. The goal of Physics and AI (PAI) 2026 is to bring together physics/statistics/data science/computer science researchers, practitioners, and educators who are developing and using AI. Physics here is broadly defined and includes related fields within the physical sciences. The conference will include both work that views physics through the lens of AI as well as research that views AI through the lens of physics. "
   calendar-link:
   registration-deadline: 2026-04-29
+  
+- type: "external-workshop"
+  event-name: "Large Language Model Distributed Inference Virtual Workshop"
+  event-organizer: "The Kempner Institute"
+  more-info-link: "https://kempnerinstitute.harvard.edu/events/distributed-inference-workshop/"
+  event-post-date: "2026-03-01"
+  start-date-time: "2026-03-26 9:30"
+  end-date-time: "2026-03-26 12:30"
+  talk-location: "Virtual"
+  talk-zoom:
+  event-details: "This hands-on, virtual workshop covers highperformance LLM inference using vLLM. You will work with leading open-weight models like Qwen and LLaMA to gain practical, real-world experience hosting and running inference for large language models that exceed the memory capacity of a single GPU."
+  calendar-link:
+  rsvp-link: "https://docs.google.com/forms/d/e/1FAIpQLSfMEU_N2QfqOC__sLXAIr672vYslgy_K5u79p7xIzTqAJFWfg/viewform"
+  
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2026-03-01"
+  start-date-time: "2026-03-02 16:00"
+  end-date-time: "2026-03-02 17:00"
+  talk-location: "MIT Room 32-G449 (Kiva), and Zoom (Password: 908660)"
+  talk-zoom: https://mit.zoom.us/j/94123871363?pwd=p8sY8EVy8uE93kD72pNYSV3eHu7uYR.1
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker 1: Hannah Lawrence <br>Title: When Symmetries Break: From Dataset Bias to Positional Encodings<br>Abstract: Symmetry-aware methods for machine learning encourage model invariance to transformations like permutations and rotations for domains with structured data, e.g. molecules. These methods can improve generalization and sample efficiency, so long as (1) the transformed datapoints remain highly probable under the test distribution, and (2) the symmetry genuinely holds. In this talk, we critically evaluate both assumptions. First, we propose a neural classifier test for quantifying symmetry bias, i.e. whether all symmetry transformations are equally likely in a given dataset. Surprisingly, we uncover high degrees of symmetry bias in many benchmark point cloud datasets. Theoretically and empirically, this bias can prevent invariant methods from performing optimally, even when the underlying function is truly invariant. Second, we study positional encodings as a more general mechanism for modulating symmetries when a given model architecture is overconstrained. While best known for breaking the permutational symmetry of the attention mechanism in transformers, we demonstrate that positional encodings can be extended to strategically break symmetries in a variety of practically-motivated settings."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzcxbXJha2kwM3NiaGdiNGUyMGl2czNtbzMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
+
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-03-01"
+  start-date-time: "2026-03-02 12:00"
+  end-date-time: "2026-03-02 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Karthik Yadavalli (Harvard)<br>Title: Uncovering the Physics of Supernovae Using Simulations and ML Methods<br> Abstract: The specifics of the final-stage evolution and death of a massive star are not perfectly known. In particular, how the population of stars that lead to type Ib and Ic SNe (SNe Ib/c) experience core-collapse and ultimately explode as supernovae is so poorly known that a diversity of possible energy sources have been proposed to power SNe Ib/c. Although SNe Ib/c are canonically powered by the radioactive decay of nickel-56, other engines have been proposed as additional sources of energy in these supernovae, including the spindown of a rapidly rotating magnetar and accretion onto a compact object. As such, better understanding the underlying physics of SNe Ib/c light curves will place better constraints on their progenitors, and ultimately will inform our understanding of massive stellar evolution. To that end, we use the Monte Carlo code SEDONA to generate one-dimensional radiative transfer simulations to explore the diversity of SNe Ib/c light curves. We construct a grid of models for SNe Ib/c by varying the nickel-56 mass distribution, overall mass distribution, velocity profile, and abundance profile  within the ejecta, all of which are sampled from a grid of mass-losing Helium stars that were evolved from birth until the onset of core collapse. We utilize  a generative autoencoder to sample from this space of possible ejecta profiles and to explore the full range of possible ejecta profiles. We find that both the velocity gradient, density gradient, and the abundance profile of the ejecta influence the light curve of a SNe Ib/c in a highly coupled and complex  manner that results in substantial differences with semi-analytical one-zone models of SN light curves. We find the velocity gradient, nickel-56 mass, and ejecta mass all can be constrained to various degrees just from the multiband light curve.  Especially in the era of LSST, with the overabundance of SNe Ib/c light curves, we will be able to more sensitively probe the physical origins of these explosions."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3N2OTkxZDA1dmphZ2Qxa[…]msrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
 
 - type: "external-event"
   event-name: "Statistics and Data Science Seminar"
