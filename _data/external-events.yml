@@ -1,3 +1,16 @@
+- type: "external-workshop"
+  event-name: "2026 Conference on Physics and AI"
+  event-organizer: "Center for Decoding the Universe, Stanford University"
+  more-info-link: "https://datascience.stanford.edu/events/center-decoding-universe/2026-conference-physics-and-ai-pai26"
+  event-post-date: "2026-03-01"
+  start-date-time: "2026-06-10 9:00"
+  end-date-time: "2026-06-12 6:00"
+  talk-location: "Stanford, CA"
+  talk-zoom:
+  event-details: "Advanced statistical and computational insights are transforming all aspects of physics. The goal of Physics and AI (PAI) 2026 is to bring together physics/statistics/data science/computer science researchers, practitioners, and educators who are developing and using AI. Physics here is broadly defined and includes related fields within the physical sciences. The conference will include both work that views physics through the lens of AI as well as research that views AI through the lens of physics. "
+  calendar-link:
+  registration-deadline: 2026-04-29
+
 - type: "external-event"
   event-name: "Statistics and Data Science Seminar"
   event-organizer: "the MIT Statistics and Data Science Center"
