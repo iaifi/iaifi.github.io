@@ -83,6 +83,30 @@ In addition to these resources, the Early Career and Ethics Committee has compil
 * [Engineering and Technology Rotational Programs](https://careers.tufts.edu/resources/rotational-programs-engineering-technology/): Positions that allow you to gain insight and experience by rotating through a variety of areas within a company over a two to three-year period
 * [International center](https://icenter.tufts.edu/)
     * [F-1 International Organization Internship](https://icenter.tufts.edu/immigration/f1-students/f1-employment/f1-international-organization/)
+    
+## Mentorship Resources
+An important element of supporting early career researchers is mentorship. There are a number of resources available online and through IAIFI universities to help students and postdocs make the most of their mentorship relationships. Most of these resources are openly available regardless of which university you are affiliated with. 
+
+### General Resources
+* [The Center for the Improvement of Mentored Experiences in Research (CIMER)](https://cimerproject.org/) provides [curricula](https://cimerproject.org/curricula-overview/) and [mentor/mentee support resources](https://cimerproject.org/mentor-mentee-support-resources/)
+* [Mentorship Worksheet and Slide Deck](https://drive.google.com/drive/folders/11D2FNAZZpKGZBdjbCSW1-W2vQf7sQN5A?usp=drive_link) from IAIFI's Mentorship Workshop on April 22, 2025. 
+
+### MIT
+* [Postdoctoral Mentoring and Advising Toolkit](https://postdocs.mit.edu/mentoring-and-advising/postdoctoral-mentoring-and-advising-toolkit) for both mentors and mentees
+* [Research Mentoring Certificate](https://capd.mit.edu/pd-certificates/) provides an opportunity for grad students and postdocs to develop their mentoring skills (for MIT community only)
+
+### Harvard
+* [Office of Undergraduate Research and Fellowships Advice for Mentor Relationships](https://uraf.harvard.edu/work-with-faculty/getting-started) offers guidance on identifying mentors and establishing and maintaining the relationship
+
+### Northeastern 
+* [Mentor and Mentee Toolkit](https://faculty.northeastern.edu/wp-content/uploads/sites/5/2021/04/Mentoring-Panel-Toolkit-FINAL.pdf) provides guidance on making the most of mentoring relationships
+* [Mentor Training](https://faculty.northeastern.edu/advance/mentor-training/) via workshops based on CIMER curriculum (for Northeastern community only)
+
+### Tufts
+* [Mentor Guide](https://cdn.careers.tufts.edu/wp-content/uploads/sites/100/2024/04/Tufts-Mentor-Guide.pdf)
+* [Mentee Guide](https://cdn.careers.tufts.edu/wp-content/uploads/sites/100/2024/04/Tufts-Mentee-Guide.pdf)
+* [Alumni Mentoring Programs](https://careers.tufts.edu/resources/tufts-mentorship-programs/) (for Tufts community only)
+* [Postdoc Mentoring Program](https://tufts.qualtrics.com/jfe/form/SV_0uruqgfbEAHUOtT) (for Tufts community only)
 
 ## Finding jobs/internships
 

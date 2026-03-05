@@ -1,66 +1,67 @@
 ---
 layout: article
-title: Early Career and Ethics
+title: Ethical and Social Responsibility
 aside:
   toc: true
 ---
 
-## Early Career and Ethics Committee
+## Ethical and Social Responsibility Committee (ESRC)
 
-The Early Career & Ethics Committee (ECEC) serves as an advisory body to IAIFI Management on aspects related to early career researchers, as well as to oversee the well-being and working environment of all IAIFI members. Their goal is to create a welcoming, and enjoyable place of work, where people of all backgrounds and career stages can feel supported to do their best work and advance forward in their careers in an environment free from discrimination and injustice.
+The Ethical and Social Responsibility Committee (ESRC) serves in an advisory capacity to IAIFI Management and Forums on issues related to ethics, including the well-being and fair treatment of IAIFI members per the IAIFI Code of Conduct, and research-related ethics considerations, particularly in AI. This also includes gathering feedback from IAIFI members about the IAIFI environment and triaging follow-up actions to IAIFI Management and Forums.
 
-* [View the IAIFI Code of Conduct](/code-of-conduct.html), developed by the ECEC
-* [View the ECEC expectations](https://docs.google.com/document/d/1wmjxpPnLZgVaDj4W_JUr7mtnSFZ9tlfv29GqlE2E1Rg/edit?usp=share_link)
-* 2021 ECEC: Tracy Slatyer (Chair), Edo Berger, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Siddharth Mishra-Sharma
-* 2022 ECEC: Tracy Slatyer (Chair), Edo Berger, Sean Benevedes, Mehmet Demirtas, Anindita Maiti, Rashmish Mishra, Siddharth Mishra-Sharma
-* 2023 ECEC: Edo Berger (Chair), Tess Smidt, Sean Benevedes, Carolina Cuesta-Lazaro, Mehmet Demirtas, Zeviel Imani, Jessie Micallef, Rashmish Mishra
-* 2024 ECEC: Lisa Barsotti (Chair), Tess Smidt, Carolina Cuesta-Lazaro, Jessie Micallef, Elyssa Hofgard, Zeviel Imani, Leo Yang, Marisa LaFleur
+* [View the IAIFI Code of Conduct](/code-of-conduct.html), annually reviewed and updated by the ESRC.
+<!--* [View the ECEC expectations](https://docs.google.com/document/d/1wmjxpPnLZgVaDj4W_JUr7mtnSFZ9tlfv29GqlE2E1Rg/edit?usp=share_link) -->
+* Fall 2025 - Summer 2026 ESRC: Lisa Barsotti, MIT (Chair); David Kaiser, MIT; Diego Vasquez, UPRM; Lesbia Lopez, UPRM; Vinicius Da Silva, Tufts; Marisa LaFleur, IAIFI Managing Director; Thomas Bradford, IAIFI Project Coordinator
 * 2025 ECEC: Lisa Barsotti (Chair), Carolina Cuesta-Lazaro, Zeviel Imani, Yiding Song, Jamie Sullivan, Leo Yang, Marisa LaFleur, Thomas Bradford
-* The ECEC will rotate membership in January 2025. [Email Lisa Barsotti](mailto:lisabar@mit.edu) if you'd like to learn more. 
-* [Learn more about all IAIFI Committees](/committees.html)
+* 2024 ECEC: Lisa Barsotti (Chair), Tess Smidt, Carolina Cuesta-Lazaro, Jessie Micallef, Elyssa Hofgard, Zeviel Imani, Leo Yang, Marisa LaFleur
+* 2023 ECEC: Edo Berger (Chair), Tess Smidt, Sean Benevedes, Carolina Cuesta-Lazaro, Mehmet Demirtas, Zeviel Imani, Jessie Micallef, Rashmish Mishra
+* 2022 ECEC: Tracy Slatyer (Chair), Edo Berger, Sean Benevedes, Mehmet Demirtas, Anindita Maiti, Rashmish Mishra, Siddharth Mishra-Sharma
+* 2021 ECEC: Tracy Slatyer (Chair), Edo Berger, Harold Erbin, Katherine Fraser, Jasmine Gill, Anindita Maiti, Siddharth Mishra-Sharma
+* [Email Lisa Barsotti](mailto:lisabar@mit.edu) if you'd like to learn more. 
+* [Learn more about all IAIFI Committees and Forums](/committees.html)
 
 ## Mentorship Resources
-An important element of supporting early career researchers is mentorship. There are a number of resources available online and through IAIFI universities to help students and postdocs make the most of their mentorship relationships. Most of these resources are openly available regardless of which university you are affiliated with. 
+Check out the resources we have compiled on the [Career Support Page](https://iaifi.org/career-support.html#mentorship-resources).
 
-### General Resources
-* [The Center for the Improvement of Mentored Experiences in Research (CIMER)](https://cimerproject.org/) provides [curricula](https://cimerproject.org/curricula-overview/) and [mentor/mentee support resources](https://cimerproject.org/mentor-mentee-support-resources/)
-* [Mentorship Worksheet and Slide Deck](https://drive.google.com/drive/folders/11D2FNAZZpKGZBdjbCSW1-W2vQf7sQN5A?usp=drive_link) from IAIFI's Mentorship Workshop on April 22, 2025. 
+## Ethics and Social Responsibility
 
-### MIT
-* [Postdoctoral Mentoring and Advising Toolkit](https://postdocs.mit.edu/mentoring-and-advising/postdoctoral-mentoring-and-advising-toolkit) for both mentors and mentees
-* [Research Mentoring Certificate](https://capd.mit.edu/pd-certificates/) provides an opportunity for grad students and postdocs to develop their mentoring skills (for MIT community only)
-
-### Harvard
-* [Office of Undergraduate Research and Fellowships Advice for Mentor Relationships](https://uraf.harvard.edu/work-with-faculty/getting-started) offers guidance on identifying mentors and establishing and maintaining the relationship
-
-### Northeastern 
-* [Mentor and Mentee Toolkit](https://faculty.northeastern.edu/wp-content/uploads/sites/5/2021/04/Mentoring-Panel-Toolkit-FINAL.pdf) provides guidance on making the most of mentoring relationships
-* [Mentor Training](https://faculty.northeastern.edu/advance/mentor-training/) via workshops based on CIMER curriculum (for Northeastern community only)
-
-### Tufts
-* [Mentor Guide](https://cdn.careers.tufts.edu/wp-content/uploads/sites/100/2024/04/Tufts-Mentor-Guide.pdf)
-* [Mentee Guide](https://cdn.careers.tufts.edu/wp-content/uploads/sites/100/2024/04/Tufts-Mentee-Guide.pdf)
-* [Alumni Mentoring Programs](https://careers.tufts.edu/resources/tufts-mentorship-programs/) (for Tufts community only)
-* [Postdoc Mentoring Program](https://tufts.qualtrics.com/jfe/form/SV_0uruqgfbEAHUOtT) (for Tufts community only)
-
-## Ethics
-
-The IAIFI appreciates that the responsible and ethical conduct of research is critical, not only for scientific excellence, but also to maintain the public's trust in science. This goes beyond generating and disseminating knowledge with rigor and integrity; it also includes protecting intellectual property from inappropriate disclosure and treating everyone involved in the scientific process fairly and with respect.
+IAIFI appreciates that the responsible and ethical conduct of research is critical, not only for scientific excellence, but also to maintain the public's trust in science. This goes beyond generating and disseminating knowledge with rigor and integrity; it also includes protecting intellectual property from inappropriate disclosure and treating everyone involved in the scientific process fairly and with respect.
 
 ### Responsible Conduct of Research
 All IAIFI Junior Investigators are required to complete an online training course in the responsible conduct of research (RCR).
 
-### Ethics-related IAIFI talks
-Each semester we hold at least one ethics-related IAIFI talk (colloquium, seminar, or journal club). Past events include:
-* April 22, 2021: IAIFI Seminar with [David Kaiser](https://web.mit.edu/dikaiser/www/) (MIT), "Social and Ethical Responsibilities of Computing (SERC): New Activities at MIT";
-*  December 3, 2021: IAIFI Seminar with [Harini Suresh](https://harinisuresh.com) (MIT), "Understanding Sources of Harm through the Machine Learning Life Cycle".
-* May 5, 2022: IAIFI Journal Club with [Dylan Hadfield](https://people.csail.mit.edu/dhm/) (MIT), "Overoptimization, Incompleteness, and Goodhart’s Law"
-* November 29, 2022: IAIFI Journal Club with [Anna Golubeva](https://annagolubeva.github.io) (IAIFI Fellow) and [Matt Schwartz](https://www.physics.harvard.edu/people/facpages/schwartz) (Harvard), "Should artificial intelligence be interpretable to humans?"
-* December 16, 2022: IAIFI seminar with [Aleksander Madry](https://madry.mit.edu) (MIT), "What (and how) the ML models learn";
-* March 24, 2023: IAIFI Seminar with [Brian Nord](http://briandnord.com/bio) (Fermilab/MIT MLK Scholar), "How do we build trustworthy AI models for physics?"
-
-### Resources
+### Resources [This section is a work in progress]
+#### General Resources
 * [IAIFI Code of Conduct](/code-of-conduct.html)
-* [MIT Case Studies in Social and Ethical Responsibilities of Computing](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/serc-cases-studies/) (SERC)
+* [Protecting scientific integrity in an age of generative AI](https://www.pnas.org/doi/abs/10.1073/pnas.2407886121?af=R)
+
+#### MIT
+* [MIT Case Studies in Social and Ethical Responsibilities of Computing (SERC)](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/serc-cases-studies/), from the MIT Schwartzman College of Computing
+* [Responsible AI](https://sloanreview.mit.edu/big-ideas/responsible-ai/), from MIT Sloan
+* [The sAIpien program](https://www.media.mit.edu/groups/saipien/overview/), from the MIT Media Lab
+* [Ethics & AI @ MIT](https://philosophy.mit.edu/ethicsandai/), from MIT Philosophy
+
+#### Harvard
+*Details to come*
+
+#### Northeastern
+*Details to come*
+
+#### Tufts
+* [How Do We Make Sure AI Is Fair, Safe, and Secure?](https://now.tufts.edu/2026/01/20/how-do-we-make-sure-ai-fair-safe-and-secure), with perspective from Ken Archer, A96, head of responsible AI at Microsoft 
+* [AI Ethics](https://aiethicscourse.org/), A Collection of Lectures on the Ethical implications of Data and Artificial Intelligence from Different Perspectives
+
+### IAIFI Talks related to Ethics and Social Responsibility
+IAIFI regularly holds ethics-related IAIFI talks and events. Past events include:
+* October 2025: IAIFI Journal Club with [David Kaiser (MIT)](https://web.mit.edu/dikaiser/www/), "Generative AI and the Natural Sciences: Opportunities and Continuing Challenges"; [View Slides (IAIFI Members Only)](https://drive.google.com/file/d/1SgBfQICSFgXm2Y93xuPXqowTpGefnwP0/view?usp=sharing)
+* April 2025: IAIFI Thematic Discussion Session with [Ziming Liu (MIT)](https://kindxiaoming.github.io/), [Matthew Schwartz (Harvard)](https://schwartz.scholars.harvard.edu/), and [Naomi Saphra (Harvard)](https://nsaphra.net/), "Interpretable AI"; [View Recording (IAIFI Members Only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=sharing); [View Slides (IAIFI Members Only)](https://drive.google.com/drive/folders/16cb5OUKPtK1RjB1FJU3-am7NloNIYXE2?usp=drive_link);
+* October 2024: IAIFI Colloquium with [Fernanda Viégas (Harvard University)](http://www.fernandaviegas.com/) and [Martin Wattenberg (Harvard University)](https://www.bewitched.com/about.html), "From Victorian trains to chatbots, via high-dimensional geometry"; [View Recording](https://www.youtube.com/live/A3BpKPW1rYU?feature=shared); [View Slides](https://www.dropbox.com/scl/fi/q6ywgbwz2fgo3vzc4umcb/2024_10_25_IAIFI_Colloquium_Viegas.pdf?rlkey=ivwvp7ezwk2jj7bvsx01xozfi&st=9ffb8a4y&dl=0);
+* August 2024: IAIFI Summer Workshop Plenary Talk with [David Kaiser (MIT)](https://web.mit.edu/dikaiser/www/), "Generative AI and the Natural Sciences: Opportunities and Continuing Challenges"; [View Recording](https://youtu.be/Y8zn-60J5hk?si=4j5EjXF1sXbOIcsz);
+* March 24, 2023: IAIFI Seminar with [Brian Nord](http://briandnord.com/bio) (Fermilab/MIT MLK Scholar), "How do we build trustworthy AI models for physics?"
+* December 16, 2022: IAIFI seminar with [Aleksander Madry](https://madry.mit.edu) (MIT), "What (and how) the ML models learn";
+* November 29, 2022: IAIFI Journal Club with [Anna Golubeva](https://annagolubeva.github.io) (IAIFI Fellow) and [Matt Schwartz](https://www.physics.harvard.edu/people/facpages/schwartz) (Harvard), "Should artificial intelligence be interpretable to humans?"
+* May 5, 2022: IAIFI Journal Club with [Dylan Hadfield](https://people.csail.mit.edu/dhm/) (MIT), "Overoptimization, Incompleteness, and Goodhart’s Law"
+*  December 3, 2021: IAIFI Seminar with [Harini Suresh](https://harinisuresh.com) (MIT), "Understanding Sources of Harm through the Machine Learning Life Cycle".
+* April 22, 2021: IAIFI Seminar with [David Kaiser](https://web.mit.edu/dikaiser/www/) (MIT), "Social and Ethical Responsibilities of Computing (SERC): New Activities at MIT";
 
 
