@@ -12,6 +12,17 @@
   registration-deadline: 2026-04-29
 
 - type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-03-08"
+  start-date-time: "2026-03-09 12:00"
+  end-date-time: "2026-03-09 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street, Cambridge, and Zoom"
+  talk-zoom:  https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Nicolo Pinciroli (AstroAI/Politecnico di Milano)<br>Title: Making discoveries with multimodal astrophysics<br> Abstract: Astrophysical surveys generate unprecedented quantities of multimodal data, including spectra, images and time series. Scientists interpret the data and write scientific papers and textual summaries. This presentation investigates how multimodal deep learning can reveal new information about astrophysical sources, with a focus on transient processes and gravitational lensing systems. This work shows a progression from unimodal representational learning of X-ray spectra to multimodal contrastive alignment with text and spatio-temporal analysis of gravitationally-lensed supernovae. The results reveal that while spectral data contains a limited amount of information, considering additional modalities allows a more comprehensive analysis and discovers rare phenomena. The proposed architectures achieve state-of-the-art performance on test metrics and are able to identify and analyze candidate gravitational lenses and candidate pulsating ultraluminous X-ray sources in real observations."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NHE1MGt0dDl2YnJ1NDMzamhsOGJiY2ZjdmYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
   event-name: "ML Tea Talk"
   event-organizer: "ML Tea"
   more-info-link: "https://projects.csail.mit.edu/ml-tea/"
