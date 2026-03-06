@@ -10,7 +10,19 @@
   event-details: "Advanced statistical and computational insights are transforming all aspects of physics. The goal of Physics and AI (PAI) 2026 is to bring together physics/statistics/data science/computer science researchers, practitioners, and educators who are developing and using AI. Physics here is broadly defined and includes related fields within the physical sciences. The conference will include both work that views physics through the lens of AI as well as research that views AI through the lens of physics. "
   calendar-link:
   registration-deadline: 2026-04-29
-  
+
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2026-03-08"
+  start-date-time: "2026-03-09 16:00"
+  end-date-time: "2026-03-09 17:00"
+  talk-location: "MIT Room 32-G449 (Kiva), and Zoom"
+  talk-zoom: https://mit.zoom.us/j/98356094310
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker 1: Dhruv Rohatgi (MIT) <br>Title: Designing Principled ML Algorithms via Modularity<br>Abstract: Designing the right algorithm for a problem requires modelling the problem well. But modern machine learning increasingly tackles problems that appear far too complex to mathematically model: empirical successes are driven by elusive properties of natural data, as well as significant engineering expertise. Can we still develop theory to help illuminate the space of possible algorithms for these problems? In this talk, I will argue the benefits of a modular approach to theory-building, where instead of defining 'natural data' explicitly, we define what machine learning can already do with it. More precisely, we take existing building blocks of machine learning -- classifiers, regressors, even generative models -- as given, and we ask: how should we use these building blocks to provably solve more complex problems?<br>I will apply this lens at several stages of the language model pipeline -- fine-tuning, reinforcement learning, and generation -- to prototype principled new algorithms and illuminate fundamental limits. Throughout, a key theme will be understanding when and how the 'curse of horizon' -- a folklore principle throughout machine learning, that long decision-making horizons tend to amplify learning errors -- can be algorithmically mitigated."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gwaXM3ZDV2Mzl0bzYxOW83ZTFnbjloaHEgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
 - type: "external-workshop"
   event-name: "Large Language Model Distributed Inference Virtual Workshop"
   event-organizer: "The Kempner Institute"
