@@ -13,6 +13,7 @@
 
 - type: "external-event"
   event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2026-03-08"
   start-date-time: "2026-03-09 12:00"
@@ -108,6 +109,54 @@
   talk-zoom:
   event-details: "SDSCon 2026 will take place this year on Friday, April 10th, 2026, and we are seeking submissions from students, postdocs and researchers for a poster session and selection of lightning talks. Please find here the link to submit a title and abstract: https://forms.gle/QR1ToSwjmYoEF2Js6"
   calendar-link:
+  
+- type: "external-event"
+  event-name: "AI: Foundations for Academia (and Startups)"
+  event-organizer: "The Poggio Lab at MIT"
+  more-info-link: https://docs.google.com/document/d/1c8SC4zQrxkQfB_aem4PxM1rvo2rxehTDhv1kLTmclGk/edit?usp=sharing
+  event-post-date: "2026-03-07"
+  start-date-time: "2026-04-27 16:00"
+  end-date-time: "2026-04-27 17:00"
+  talk-location: "The McGovern Reading Room (MIT 46-5165), and Zoom"
+  talk-zoom:  https://mit.zoom.us/j/6098650159
+  event-details: "Speaker: Ed Boyden<br>Title:  New Brain Mapping Tools: How Might Molecularly Annotated Connectomes Contribute to AI<br>Seminar Overview: The landscape of AI research is shifting. Many problems that once defined academia are now dominated by scale, data, and incumbent advantage. Yet the most important questions remain open. What are the fundamental principles of intelligence, and how can they guide systems that learn efficiently, generalize robustly, and create real societal and economic value? This seminar argues that academia remains the place to identify and test principles of intelligence. Startups remain the place to turn those principles into systems that matter. We convene the MIT-area community to identify foundational principles that are shared by biological and artificial intelligence, and translate them into deployable, venture-scale technologies. We will connect empirical evidence from cognitive development, systems neuroscience, and modern AI systems with formal structure in learning and reasoning, including sample efficiency, sparse compositionality, invariances, memory, optimization dynamics, and generalization. By the end of the series, we will have identified and tested key conjectures about intelligence and built new collaborations between labs and startups."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjF1M2FwZ2RhcXA4NmJ0dm1hNmJvOGk0azYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "AI: Foundations for Academia (and Startups)"
+  event-organizer: "The Poggio Lab at MIT"
+  more-info-link: https://docs.google.com/document/d/1c8SC4zQrxkQfB_aem4PxM1rvo2rxehTDhv1kLTmclGk/edit?usp=sharing
+  event-post-date: "2026-03-07"
+  start-date-time: "2026-03-30 16:00"
+  end-date-time: "2026-03-30 17:00"
+  talk-location: "The McGovern Reading Room (MIT 46-5165), and Zoom"
+  talk-zoom:  https://mit.zoom.us/j/6098650159
+  event-details: "Speaker: Joe Bates<br>Title:  Billion Core Science<br>Seminar Overview: The landscape of AI research is shifting. Many problems that once defined academia are now dominated by scale, data, and incumbent advantage. Yet the most important questions remain open. What are the fundamental principles of intelligence, and how can they guide systems that learn efficiently, generalize robustly, and create real societal and economic value? This seminar argues that academia remains the place to identify and test principles of intelligence. Startups remain the place to turn those principles into systems that matter. We convene the MIT-area community to identify foundational principles that are shared by biological and artificial intelligence, and translate them into deployable, venture-scale technologies. We will connect empirical evidence from cognitive development, systems neuroscience, and modern AI systems with formal structure in learning and reasoning, including sample efficiency, sparse compositionality, invariances, memory, optimization dynamics, and generalization. By the end of the series, we will have identified and tested key conjectures about intelligence and built new collaborations between labs and startups."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXAwZWk2dHRwZDVoMnNpcjE1ajNuYTlwbnYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+
+- type: "external-event"
+  event-name: "AI: Foundations for Academia (and Startups)"
+  event-organizer: "The Poggio Lab at MIT"
+  more-info-link: https://docs.google.com/document/d/1c8SC4zQrxkQfB_aem4PxM1rvo2rxehTDhv1kLTmclGk/edit?usp=sharing
+  event-post-date: "2026-03-07"
+  start-date-time: "2026-03-16 16:00"
+  end-date-time: "2026-03-16 17:00"
+  talk-location: "The McGovern Reading Room (MIT 46-5165), and Zoom"
+  talk-zoom:  https://mit.zoom.us/j/6098650159
+  event-details: "Speaker: Blaise Agüera y Arcas<br>Title:  Intelligence as Prediction: Cybernetics, LLMs, and Sociality<br>Seminar Overview: The landscape of AI research is shifting. Many problems that once defined academia are now dominated by scale, data, and incumbent advantage. Yet the most important questions remain open. What are the fundamental principles of intelligence, and how can they guide systems that learn efficiently, generalize robustly, and create real societal and economic value? This seminar argues that academia remains the place to identify and test principles of intelligence. Startups remain the place to turn those principles into systems that matter. We convene the MIT-area community to identify foundational principles that are shared by biological and artificial intelligence, and translate them into deployable, venture-scale technologies. We will connect empirical evidence from cognitive development, systems neuroscience, and modern AI systems with formal structure in learning and reasoning, including sample efficiency, sparse compositionality, invariances, memory, optimization dynamics, and generalization. By the end of the series, we will have identified and tested key conjectures about intelligence and built new collaborations between labs and startups."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXAwZWk2dHRwZDVoMnNpcjE1ajNuYTlwbnYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
+  event-name: "AI: Foundations for Academia (and Startups)"
+  event-organizer: "The Poggio Lab at MIT"
+  more-info-link: https://docs.google.com/document/d/1c8SC4zQrxkQfB_aem4PxM1rvo2rxehTDhv1kLTmclGk/edit?usp=sharing
+  event-post-date: "2026-03-07"
+  start-date-time: "2026-03-09 16:00"
+  end-date-time: "2026-03-09 17:00"
+  talk-location: "The McGovern Reading Room (MIT 46-5165), and Zoom"
+  talk-zoom:  https://mit.zoom.us/j/6098650159
+  event-details: "Speaker: Adam Marblestone<br>Title:  The Missing Fundamentals<br>Seminar Overview: The landscape of AI research is shifting. Many problems that once defined academia are now dominated by scale, data, and incumbent advantage. Yet the most important questions remain open. What are the fundamental principles of intelligence, and how can they guide systems that learn efficiently, generalize robustly, and create real societal and economic value? This seminar argues that academia remains the place to identify and test principles of intelligence. Startups remain the place to turn those principles into systems that matter. We convene the MIT-area community to identify foundational principles that are shared by biological and artificial intelligence, and translate them into deployable, venture-scale technologies. We will connect empirical evidence from cognitive development, systems neuroscience, and modern AI systems with formal structure in learning and reasoning, including sample efficiency, sparse compositionality, invariances, memory, optimization dynamics, and generalization. By the end of the series, we will have identified and tested key conjectures about intelligence and built new collaborations between labs and startups."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXAwZWk2dHRwZDVoMnNpcjE1ajNuYTlwbnYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
   event-name: "New Seminar Series: AI: Foundations for Academia (and Startups)"
