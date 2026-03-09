@@ -21,9 +21,12 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field.
 
 
-<!--
+
 ## Agenda
 
+Agenda to be announced in Spring 2026.
+
+<!--
 <img src="images/2025-summer-workshop.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
 
 ### Monday, August 11, 2025
@@ -731,41 +734,55 @@ Eluned Smith, MIT
 
 Closing
 
-
+-->
 ## Speakers
+Additional speakers will be added as they are confirmed. 
+
+<div class="card-columns">
+  <!--<div class="row">-->
+    
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-berthy-feng.jpg" alt="Berthy Feng" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.berthyfeng.com">Berthy Feng</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> IAIFI Fellow </em> <br>
+         </div>
+         </div>
+       </div>
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-miles-cranmer.jpg" alt="Miles Cranmer" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.maths.cam.ac.uk/person/mc2473">Miles Cranmer</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> University of Cambridge </em> <br>
+         </div>
+         </div>
+       </div>
+</div>
+
+<br>
 
 ## Accommodations
-We have established discounted rates for August 10–August 16, 2025 at the following hotels:
+Hotel options will be provided by mid-March 2026.
 
-* <b>Porter Square Hotel</b>, 1924 Massachusetts Avenue, Cambridge, MA 02142. 
-    
-    $235-275 nightly rate (1-2 people per room)
-    
-    Deadline to book: First come, first served
+<!--
+We have established discounted rates for August 9–August 15, 2026 at the following hotels:
 
-    To book, call 617-499-3399 and reference code 141315.
+* <b>Le Meridien</b>, 20 Sydney St, Cambridge, MA 02139. 
     
-* <b>Hotel 1868</b>, 1868 Massachusetts Avenue, Cambridge, MA 02142. 
+    $199 nightly rate
     
-    $225-265 nightly rate (1-2 people per room)
-    
-    Deadline to book: First come, first served
+    Deadline to book: July 9, 2026
 
-    To book, call 617-499-3399 and reference code 141315.
-    
-Other area hotels include: 
-* <b>[Charles Hotel](https://www.charleshotel.com)</b>
-* <b>[Harvard Square Hotel](https://www.harvardsquarehotel.com)</b>
-* <b>[Irving House at Harvard](https://www.irvinghouse.com)</b>
-* <b>[Prentiss House](https://prentisshouse.com)</b>
-    
-Workshop attendees are also welcome to book dorms for a discounted rate at Harvard University: 
-* <b>Harvard University Dorms, 36 Oxford Street, Cambridge, MA 02138</b>
+    [Book online](link will go here)
+--> 
 
-    $110 nightly rate (1 person per room only) 
-
-    **Note: Dorm booking is now closed.**
--->
 
 ## FAQ 
 * *Who can attend the Summer Workshop?* Any researcher working at or interested in the intersection of physics and AI is encouraged to attend the Summer Workshop. 
