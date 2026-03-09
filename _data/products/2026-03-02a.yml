@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-03-02
+title: "Naturalness and Fisher Information"
+authors: "James Halverson, Thomas R. Harvey, Michael Nee"
+abstract: "Fine-tuning and naturalness, the sensitivity of low-energy observables to small changes in the fundamental parameters of a theory, are cornerstones of physics beyond the Standard Model. We propose a new measure of fine-tuning based on information theory. To each point in parameter space we associate a probability distribution over observables. Divergence measures encode the sensitivity of observables to model parameters and determine a Riemannian metric on parameter space. By Chentsov's theorem, the physically motivated metric is the Fisher information metric, up to scaling. We propose a rescaled fine-tuning matrix ij derived from the Fisher information matrix, whose non-zero eigenvalues serve as our measure of fine-tuning. When the number of observables exceeds the number of parameters, ij admits a natural geometric interpretation as the pullback of the Euclidean metric from observable space to the submanifold of admissible predictions, with large eigenvalues corresponding to highly stretched directions and indicative of fine-tuning. Our measure reproduces the familiar Barbieri--Giudice criterion as a special case, while generalising it to multiple correlated parameters. We illustrate its behaviour on dimensional transmutation, the Wilson--Fisher fixed point, a simple model of the hierarchy problem, and the electron Yukawa coupling, finding agreement with physical intuition in each case."
+arxiv: "2603.01411"
+date-updated: 2026-03-09
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{halverson2026naturalnessfisherinformation,
+      title={Naturalness and Fisher Information},
+      author={James Halverson and Thomas R. Harvey and Michael Nee},
+      year={2026},
+      eprint={2603.01411},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2603.01411},
+  }
