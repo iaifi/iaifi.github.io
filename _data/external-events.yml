@@ -7,7 +7,7 @@
   end-date-time: "2026-06-12 6:00"
   talk-location: "Stanford, CA"
   talk-zoom:
-  event-details: "Advanced statistical and computational insights are transforming all aspects of physics. The goal of Physics and AI (PAI) 2026 is to bring together physics/statistics/data science/computer science researchers, practitioners, and educators who are developing and using AI. Physics here is broadly defined and includes related fields within the physical sciences. The conference will include both work that views physics through the lens of AI as well as research that views AI through the lens of physics. "
+  event-details: "Advanced statistical and computational insights are transforming all aspects of physics. The goal of Physics and AI (PAI) 2026 is to bring together physics/statistics/data science/computer science researchers, practitioners, and educators who are developing and using AI. Physics here is broadly defined and includes related fields within the physical sciences. The conference will include both work that views physics through the lens of AI as well as research that views AI through the lens of physics."
   calendar-link:
   registration-deadline: 2026-04-29
 
@@ -113,7 +113,7 @@
 - type: "external-event"
   event-name: "AI: Foundations for Academia (and Startups)"
   event-organizer: "The Poggio Lab at MIT"
-  more-info-link: https://docs.google.com/document/d/1c8SC4zQrxkQfB_aem4PxM1rvo2rxehTDhv1kLTmclGk/edit?usp=sharing
+  more-info-link: https://poggio-lab.mit.edu/#seminar
   event-post-date: "2026-03-07"
   start-date-time: "2026-04-27 16:00"
   end-date-time: "2026-04-27 17:00"
@@ -125,7 +125,7 @@
 - type: "external-event"
   event-name: "AI: Foundations for Academia (and Startups)"
   event-organizer: "The Poggio Lab at MIT"
-  more-info-link: https://docs.google.com/document/d/1c8SC4zQrxkQfB_aem4PxM1rvo2rxehTDhv1kLTmclGk/edit?usp=sharing
+  more-info-link: https://poggio-lab.mit.edu/#seminar
   event-post-date: "2026-03-07"
   start-date-time: "2026-03-30 16:00"
   end-date-time: "2026-03-30 17:00"
@@ -137,7 +137,7 @@
 - type: "external-event"
   event-name: "AI: Foundations for Academia (and Startups)"
   event-organizer: "The Poggio Lab at MIT"
-  more-info-link: https://docs.google.com/document/d/1c8SC4zQrxkQfB_aem4PxM1rvo2rxehTDhv1kLTmclGk/edit?usp=sharing
+  more-info-link: https://poggio-lab.mit.edu/#seminar
   event-post-date: "2026-03-07"
   start-date-time: "2026-03-16 16:00"
   end-date-time: "2026-03-16 17:00"
@@ -149,7 +149,7 @@
 - type: "external-event"
   event-name: "AI: Foundations for Academia (and Startups)"
   event-organizer: "The Poggio Lab at MIT"
-  more-info-link: https://docs.google.com/document/d/1c8SC4zQrxkQfB_aem4PxM1rvo2rxehTDhv1kLTmclGk/edit?usp=sharing
+  more-info-link: https://poggio-lab.mit.edu/#seminar
   event-post-date: "2026-03-07"
   start-date-time: "2026-03-09 16:00"
   end-date-time: "2026-03-09 17:00"
@@ -161,7 +161,7 @@
 - type: "external-event"
   event-name: "New Seminar Series: AI: Foundations for Academia (and Startups)"
   event-organizer: "the Poggio Lab at MIT"
-  more-info-link: https://docs.google.com/document/d/1c8SC4zQrxkQfB_aem4PxM1rvo2rxehTDhv1kLTmclGk/edit?usp=sharing
+  more-info-link: https://poggio-lab.mit.edu/#seminar
   event-post-date: "2026-02-22"
   start-date-time: "2026-03-02 16:00"
   end-date-time: "2026-03-02 17:00"
