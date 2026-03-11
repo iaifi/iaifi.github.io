@@ -1,4 +1,18 @@
 - type: "external-workshop"
+  event-name: "Advancing AI Jobs, Skills, and Pathways Workshop Series"
+  event-organizer: "Research Coordination Network on Assessing and Predicting Jobs Outcomes in AI"
+  more-info-link: https://www.aijobsrcn.org/
+  rsvp-link: https://howard.zoom.us/meeting/register/FPvkbORSREWpUIObPIO3wA#/registration
+  event-post-date: "2026-03-15"
+  start-date-time: "2026-03-24 16:00"
+  end-date-time: "2026-03-26 17:30"
+  talk-location: "Zoom"
+  talk-zoom:
+  event-details: "The series brings together participants from industry, startups, academia, government, workforce organizations, nonprofits, and regional innovation ecosystems to explore how artificial intelligence is reshaping work, workforce skills, and education pathways. Workshops are open to individuals 18 years of age and older who are interested in contributing perspectives from their professional or organizational contexts. Each 90-minute session will include brief framing remarks, breakout discussions, and collaborative synthesis. Participants are welcome to attend one session or the full series."
+  calendar-link:
+  registration-deadline: 
+
+- type: "external-workshop"
   event-name: "2026 Conference on Physics and AI"
   event-organizer: "Center for Decoding the Universe, Stanford University"
   more-info-link: "https://datascience.stanford.edu/events/center-decoding-universe/2026-conference-physics-and-ai-pai26"
