@@ -42,7 +42,7 @@
   
 - type: "thematic-discussion"
   semester: "spring-2026"
-  speaker-names-affiliations: "Akshunna Dogra (IAIFI Fellow), Sam Bright-Thonney (IAIFI Fellow), other speakers to be announced"
+  speaker-names-affiliations: "Akshunna Dogra (IAIFI Fellow), Melanie Weber (Harvard, IAIFI Affiliate), Jie Xu (Northeastern)"
   speaker-title:
   speaker-affiliation:
   speaker-website:
@@ -51,8 +51,8 @@
   end-date-time: "2026-03-20 15:00"
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "Geometric Deep Learning"
-  talk-abstract: "Details to come."
-  slides-link:
+  talk-abstract: "This session will begin with three lightning talks (10 minutes each, plus short Q&A) regarding different aspects of Geometric Deep Learning, followed by a guided discussion. Speakers will include: Akshunna Dogra (IAIFI Fellow), “Man, Machine, and Mathematics”; Melanie Weber (Harvard, IAIFI Affiliate), talk details to come; and Jie Xu (Northeastern), “The Geometry of Unlabeled Networks”. Check out the details for each lightning talk here: https://tinyurl.com/49dc3ex4"
+  slides-link: https://drive.google.com/drive/folders/1N9FAGbr0Rc5Jn2iSFzZspTG5d3I4yIbz?usp=drive_link
   youtube-link:
   speaker-thrust:
   speaker-gender:
