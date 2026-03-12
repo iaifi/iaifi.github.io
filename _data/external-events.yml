@@ -5,16 +5,16 @@
   event-post-date: "2026-03-15"
   start-date-time: "2026-03-16 16:00"
   end-date-time: "2026-03-16 17:00"
-  talk-location: "MIT Room 32-G449 (Kiva), and Zoom https://mit.zoom.us/j/99164465915"
-  talk-zoom: https://mit.zoom.us/j/99164465915
+  talk-location: "MIT Room 32-G449 (Kiva), and Zoom"
+  talk-zoom: "https://mit.zoom.us/j/99164465915"
   event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker 1: Tian Jin <br>Title: Planned Diffusion<br>Abstract: A central challenge in large language model inference is the trade-off between generation speed and output quality. Autoregressive models produce high-quality text but generate tokens sequentially. Diffusion models can generate tokens in parallel but often need many iterations to match the same quality. We propose planned diffusion, a hybrid method that combines the strengths of both paradigms. Planned diffusion works in two stages: first, the model creates a short autoregressive plan that breaks the output into smaller, independent spans. Second, the model generates these spans simultaneously using diffusion. This approach expands the speed-quality Pareto frontier and provides a practical path to faster, high-quality text generation. On AlpacaEval, a suite of 805 instruction-following prompts, planned diffusion achieves Pareto-optimal trade-off between quality and latency, achieving 1.27x to 1.81x speedup over autoregressive generation with only 0.87% to 5.4% drop in win rate, respectively. Our sensitivity analysis shows that the planning mechanism of planned diffusion is minimal and reliable, and simple runtime knobs exist to provide flexible control of the quality-latency trade-off."
-  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXBhZTVwOG8wdnVtMHBuN2wyZTA3ZWV0MWYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXBhZTVwOG8wdnVtMHBuN2wyZTA3ZWV0MWYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
   
-  - type: "external-workshop"
+- type: "external-workshop"
   event-name: "Advancing AI Jobs, Skills, and Pathways Workshop Series"
   event-organizer: "Research Coordination Network on Assessing and Predicting Jobs Outcomes in AI"
-  more-info-link: https://www.aijobsrcn.org/
-  rsvp-link: https://howard.zoom.us/meeting/register/FPvkbORSREWpUIObPIO3wA#/registration
+  more-info-link: "https://www.aijobsrcn.org/"
+  rsvp-link: "https://howard.zoom.us/meeting/register/FPvkbORSREWpUIObPIO3wA#/registration"
   event-post-date: "2026-03-15"
   start-date-time: "2026-03-24 16:00"
   end-date-time: "2026-03-26 17:30"
