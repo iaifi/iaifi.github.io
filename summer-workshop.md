@@ -740,7 +740,31 @@ Additional speakers will be added as they are confirmed.
 
 <div class="card-columns">
   <!--<div class="row">-->
-    
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-yasaman-bahri.jpg" alt="Yasaman Bahri" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://sites.google.com/view/yasamanbahri/home/">Yasaman Bahri</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Google DeepMind </em> <br>
+         </div>
+         </div>
+       </div>
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-yilun-du.jpg" alt="Yilun Du" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://yilundu.github.io">Yilun Du</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Harvard Kempner Institute </em> <br>
+         </div>
+         </div>
+       </div>
+
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-berthy-feng.jpg" alt="Berthy Feng" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
@@ -764,14 +788,25 @@ Additional speakers will be added as they are confirmed.
          </div>
          </div>
        </div>
+       
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-zongyi-li.jpg" alt="Zongyi Li" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://zongyi-li.github.io">Zongyi Li</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> MIT </em> <br>
+         </div>
+         </div>
+       </div>
+       
 </div>
 
 <br>
 
 ## Accommodations
-Hotel options will be provided by mid-March 2026.
 
-<!--
 We have established discounted rates for August 9–August 15, 2026 at the following hotels:
 
 * <b>Le Meridien</b>, 20 Sydney St, Cambridge, MA 02139. 
@@ -780,8 +815,9 @@ We have established discounted rates for August 9–August 15, 2026 at the follo
     
     Deadline to book: July 9, 2026
 
-    [Book online](link will go here)
---> 
+    [Book online](https://app.marriott.com/reslink?id=1773329890905&key=GRP&app=resvlink)
+
+* *More to be added*
 
 
 ## FAQ 
