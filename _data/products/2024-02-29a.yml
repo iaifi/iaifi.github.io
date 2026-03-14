@@ -4,18 +4,26 @@ title: "New Pathways in Neutrino Physics via Quantum-Encoded Data Analysis"
 authors: Jeffrey Lazar, Santiago Giner Olavarrieta, Giancarlo Gatti, Carlos A. Argüelles, Mikel Sanz
 abstract: 'Ever-increasing amount of data is produced by particle detectors in their quest to unveil the laws of Nature. The large data rate requires the use of specialized triggers that promptly reduce the data rate to a manageable level; however, in doing so, unexpected new phenomena may escape detection. Additionally, the large data rate is increasingly difficult to analyze effectively, which has led to a recent revolution on machine learning techniques. Here, we present a methodology based on recent quantum compression techniques that has the capacity to store exponentially more amount of information than classically available methods. To demonstrate this, we encode the full neutrino telescope event information using parity observables in an IBM quantum processor using 8 qubits. Then we show that we can recover the information stored on the quantum computer with a fidelity of 84%. Finally, we illustrate the use of our protocol by performing a classification task that separates electron-neutrino events to muon-neutrinos events in a neutrino telescope. This new capability would eventually allow us to solve the street light effect in particle physics, where we only record signatures of particles with which we are familiar.'
 arxiv: "2402.19306"
-journal:
-doi: 
+date-updated: 2026-03-30
+journal: "Physical Review Research, 2025, Volume 7, Issue 4"
+doi: "https://doi.org/10.1103/j7gt-zm6f"
 nsf-par:
-code: 
-publication-date: 
+code:
+publication-date: 2025-11-24
 bib-tex: |
-  @article{lazar2024newpathwaysneutrinophysics,
-      title={New Pathways in Neutrino Physics via Quantum-Encoded Data Analysis},
-      author={Jeffrey Lazar and Santiago Giner Olavarrieta and Giancarlo Gatti and Carlos A. Argüelles and Mikel Sanz},
-      year={2024},
-      eprint={2402.19306},
-      archivePrefix={arXiv},
-      primaryClass={hep-ex},
-      url={https://arxiv.org/abs/2402.19306},
+  @article{j7gt-zm6f,
+  title = {Pathways in neutrino physics via quantum-encoded data analysis},
+  author = {Lazar, Jeffrey and Giner Olavarrieta, Santiago and Gatti, Giancarlo and Arg\""""uelles, Carlos A. and Sanz, Mikel},
+  journal = {Phys. Rev. Res.},
+  volume = {7},
+  issue = {4},
+  pages = {043216},
+  numpages = {14},
+  year = {2025},
+  month = {Nov},
+  publisher = {American Physical Society},
+  doi = {10.1103/j7gt-zm6f},
+  url = {https://link.aps.org/doi/10.1103/j7gt-zm6f},
+  eprint={2402.19306},
+  archivePrefix={arXiv},
   }
