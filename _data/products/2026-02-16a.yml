@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2026-02-16
+title: "UV and Optical Signatures of Late-time Disk Instabilities in Tidal Disruption Events"
+authors: "Daichi Tsuna, V. Ashley Villar, Anthony L. Piro, Samantha C. Wu"
+abstract: "Tidal disruption events (TDEs) are unique probes of evolving accretion in supermassive black holes. Recent models of TDE disks show that they undergo brief thermal instabilities with temporal superEddington accretion at late times, which has been suggested as a possibility to explain the ubiquitous late radio emergence in TDEs. We model the ultraviolet (UV) and optical signatures of such disk instabilities, expected from the accretion power being reprocessed by the optically-thick outflow following super-Eddington accretion. Our model predicts brief UV-bright transients lasting for days, with luminosities of 1042–1043 erg s−1 in near-UV and 1041–1042 erg s−1 in optical for a typical TDE by a 106 M⊙ black hole. These could be detectable by near-future surveys such as ULTRASAT, Vera C. Rubin Observatory and Argus Array, for TDEs of redshifts out to ≈ 0.1. We further conduct a search for these transients in existing nearby TDEs using data from the Zwicky Transient Facility, placing upper limits on the flare rate for each TDE of 1–2 yr−1 dependent on the outflow mass. In the era of future surveys, combined UV/optical and radio monitoring would be an important test to the disk instability phenomena, as well as its explanation for the late-time radio emission in TDEs"
+arxiv: "2602.15103"
+date-updated: 2026-03-16
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{tsuna2026uvopticalsignatureslatetime,
+      title={UV and Optical Signatures of Late-time Disk Instabilities in Tidal Disruption Events},
+      author={Daichi Tsuna and V. Ashley Villar and Anthony L. Piro and Samantha C. Wu},
+      year={2026},
+      eprint={2602.15103},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2602.15103},
+  }

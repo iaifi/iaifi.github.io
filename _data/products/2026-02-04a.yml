@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-02-04
+title: "Does SGD Seek Flatness or Sharpness? An Exactly Solvable Model"
+authors: "Yizhou Xu, Pierfrancesco Beneventano, Isaac Chuang, Liu Ziyin"
+abstract: "A large body of theory and empirical work hypothesizes a connection between the flatness of a neural network's loss landscape during training and its performance. However, there have been conceptually opposite pieces of evidence regarding when SGD prefers flatter or sharper solutions during training. In this work, we partially but causally clarify the flatness-seeking behavior of SGD by identifying and exactly solving an analytically solvable model that exhibits both flattening and sharpening behavior during training. In this model, the SGD training has no \textit{a priori} preference for flatness, but only a preference for minimal gradient fluctuations. This leads to the insight that, at least within this model, it is data distribution that uniquely determines the sharpness at convergence, and that a flat minimum is preferred if and only if the noise in the labels is isotropic across all output dimensions. When the noise in the labels is anisotropic, the model instead prefers sharpness and can converge to an arbitrarily sharp solution, depending on the imbalance in the noise in the labels spectrum. We reproduce this key insight in controlled settings with different model architectures such as MLP, RNN, and transformers."
+arxiv: "2602.05065"
+date-updated: 2026-04-27
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{xu2026doessgdseekflatness,
+      title={Does SGD Seek Flatness or Sharpness? An Exactly Solvable Model},
+      author={Yizhou Xu and Pierfrancesco Beneventano and Isaac Chuang and Liu Ziyin},
+      year={2026},
+      eprint={2602.05065},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.05065},
+  }

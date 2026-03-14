@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-02-01
+title: "High-accuracy sampling for diffusion models and log-concave distributions"
+authors: "Fan Chen, Sinho Chewi, Constantinos Daskalakis, Alexander Rakhlin"
+abstract: "We present algorithms for diffusion model sampling which obtain δ-error in polylog(1/δ) steps, given access to O˜(δ)-accurate score estimates in L2. This is an exponential improvement over all previous results. Specifically, under minimal data assumptions, the complexity is O˜(dpolylog(1/δ)) where d is the dimension of the data; under a non-uniform L-Lipschitz condition, the complexity is O˜(dL‾‾‾√polylog(1/δ)); and if the data distribution has intrinsic dimension d⋆, then the complexity reduces to O˜(d⋆polylog(1/δ)). Our approach also yields the first polylog(1/δ) complexity sampler for general log-concave distributions using only gradient evaluations."
+arxiv: "2602.01338"
+date-updated: 2026-04-14
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{chen2026highaccuracysamplingdiffusionmodels,
+      title={High-accuracy sampling for diffusion models and log-concave distributions},
+      author={Fan Chen and Sinho Chewi and Constantinos Daskalakis and Alexander Rakhlin},
+      year={2026},
+      eprint={2602.01338},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.01338},
+  }

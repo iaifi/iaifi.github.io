@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-02-05
+title: "Smoothness Errors in Dynamics Models and How to Avoid Them"
+authors: "Edward Berman, Luisa Li, Jung Yeon Park, Robin Walters"
+abstract: "Modern neural networks have shown promise for solving partial differential equations over surfaces, often by discretizing the surface as a mesh and learning with a mesh-aware graph neural network. However, graph neural networks suffer from oversmoothing, where a node's features become increasingly similar to those of its neighbors. Unitary graph convolutions, which are mathematically constrained to preserve smoothness, have been proposed to address this issue. Despite this, in many physical systems, such as diffusion processes, smoothness naturally increases and unitarity may be overconstraining. In this paper, we systematically study the smoothing effects of different GNNs for dynamics modeling and prove that unitary convolutions hurt performance for such tasks. We propose relaxed unitary convolutions that balance smoothness preservation with the natural smoothing required for physical systems. We also generalize unitary and relaxed unitary convolutions from graphs to meshes. In experiments on PDEs such as the heat and wave equations over complex meshes and on weather forecasting, we find that our method outperforms several strong baselines, including mesh-aware transformers and equivariant neural networks."
+arxiv: "2602.05352"
+date-updated: 2026-03-30
+journal:
+doi:
+nsf-par:
+code: "https://github.com/EdwardBerman/rayleigh_analysis"
+publication-date:
+bib-tex: |
+  @article{berman2026smoothnesserrorsdynamicsmodels,
+      title={Smoothness Errors in Dynamics Models and How to Avoid Them},
+      author={Edward Berman and Luisa Li and Jung Yeon Park and Robin Walters},
+      year={2026},
+      eprint={2602.05352},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.05352},
+  }
