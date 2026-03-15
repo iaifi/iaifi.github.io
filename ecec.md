@@ -30,26 +30,31 @@ IAIFI appreciates that the responsible and ethical conduct of research is critic
 ### Responsible Conduct of Research
 All IAIFI Junior Investigators are required to complete an online training course in the responsible conduct of research (RCR).
 
-### Resources [This section is a work in progress]
+### Resources
 #### General Resources
 * [IAIFI Code of Conduct](/code-of-conduct.html)
 * [Protecting scientific integrity in an age of generative AI](https://www.pnas.org/doi/abs/10.1073/pnas.2407886121?af=R)
 
 #### MIT
-* [MIT Case Studies in Social and Ethical Responsibilities of Computing (SERC)](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/serc-cases-studies/), from the MIT Schwartzman College of Computing
+* [Case Studies in Social and Ethical Responsibilities of Computing (SERC)](https://mit-serc.pubpub.org/), from the Schwarzman College of Computing
+* [Ethics & AI @ MIT](https://philosophy.mit.edu/ethicsandai/), from MIT Philosophy
 * [Responsible AI](https://sloanreview.mit.edu/big-ideas/responsible-ai/), from MIT Sloan
 * [The sAIpien program](https://www.media.mit.edu/groups/saipien/overview/), from the MIT Media Lab
-* [Ethics & AI @ MIT](https://philosophy.mit.edu/ethicsandai/), from MIT Philosophy
 
 #### Harvard
-*Details to come*
+* [Embedded EthiCS](https://embeddedethics.seas.harvard.edu)
+* [Ethics and Governance of AI](https://cyber.harvard.edu/topics/ethics-and-governance-ai), from the Berkman Klein Center
+* [Ethics in AI: Why It Matters](https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/#Meet-Our-Expert), from the Division of Continuing Education
 
 #### Northeastern
-*Details to come*
+* [AI, Information & Data Ethics](https://cssh.northeastern.edu/ethics/ai-information-data-ethics/), from the Ethics Institute
+* [Governance and ethics](https://www.northeastern.edu/ai/ai-ethics-governance/)
+* [Information Ethics in the Khoury College of Computer Sciences Curriculum](https://cssh.northeastern.edu/informationethics/information-ethics-in-the-khoury-curriculum/), from the Khoury College of Computer Sciences
+
 
 #### Tufts
-* [How Do We Make Sure AI Is Fair, Safe, and Secure?](https://now.tufts.edu/2026/01/20/how-do-we-make-sure-ai-fair-safe-and-secure), with perspective from Ken Archer, A96, head of responsible AI at Microsoft 
 * [AI Ethics](https://aiethicscourse.org/), A Collection of Lectures on the Ethical implications of Data and Artificial Intelligence from Different Perspectives
+* [How Do We Make Sure AI Is Fair, Safe, and Secure?](https://now.tufts.edu/2026/01/20/how-do-we-make-sure-ai-fair-safe-and-secure), with perspective from Ken Archer, A96, head of responsible AI at Microsoft 
 
 ### IAIFI Talks related to Ethics and Social Responsibility
 IAIFI regularly holds ethics-related IAIFI talks and events. Past events include:
