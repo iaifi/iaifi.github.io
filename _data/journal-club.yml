@@ -69,23 +69,23 @@
   talk-abstract: "Artificial intelligence is rapidly transforming how science is conducted, including assisting in writing, performing data analysis, and even guiding experimental design. Amid such rapid changes, conversations about AI’s role in science have become increasingly polarized: some argue AI will replace researchers and revolutionize scientific discovery, while others hold strong beliefs about its limitations, risks, and unintended consequences for society. Recent events surrounding OpenAI, Anthropic, and the Department of Defense exemplify this atmosphere.<br>Building on previous discussions about AI, this event invites participants to share their “unpopular opinions” about AI in science. The goal is not to reach a consensus but rather to generate thoughtful discourse and uncover surprising perspectives through an open dialogue."
   slides-link:
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender:
-  talk-attendance:  0 in person, 0 virtual
+  speaker-thrust: 2 theory
+  speaker-gender: 1 man, 1 woman
+  talk-attendance:  13 in person, 4 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjAzMTJUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
   semester: "spring-2026"
-  speaker-name: "Speaker to be announced (TBA)"
-  speaker-title: "Title TBA"
-  speaker-affiliation: "Affiliation TBA"
+  speaker-name: "Lunch Hour"
+  speaker-title: ""
+  speaker-affiliation: "IAIFI"
   speaker-website: ""
   speaker-photo-location:
   start-date-time: "2026-03-19 13:00"
   end-date-time: "2026-03-19 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title TBA"
-  talk-abstract: "Details to come."
+  talk-title: "Lunch Hour (In-person only)"
+  talk-abstract: "We will host an informal Lunch Hour at 1:00pm, followed by the Coffee Hour at 2:00pm. There will not be a talk today; all IAIFI members are welcome to come to the Penthouse for catered sandwiches and refreshments during those times. Hope to see you there! Our regular Lunch Discussions will resume on Thursday, April 2 with Noah Wolfe (MIT), 'Neural Bayesian updates to populations with growing gravitational-wave catalogs.'"
   slides-link:
   youtube-link:
   speaker-thrust: ""
