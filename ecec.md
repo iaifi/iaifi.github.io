@@ -23,7 +23,7 @@ The Ethical and Social Responsibility Committee (ESRC) serves in an advisory cap
 ## Mentorship Resources
 Check out the resources we have compiled on the [Career Support Page](https://iaifi.org/career-support.html#mentorship-resources).
 
-## Ethics and Social Responsibility
+## Ethical and Social Responsibility
 
 IAIFI appreciates that the responsible and ethical conduct of research is critical, not only for scientific excellence, but also to maintain the public's trust in science. This goes beyond generating and disseminating knowledge with rigor and integrity; it also includes protecting intellectual property from inappropriate disclosure and treating everyone involved in the scientific process fairly and with respect.
 
@@ -56,7 +56,7 @@ All IAIFI Junior Investigators are required to complete an online training cours
 * [AI Ethics](https://aiethicscourse.org/), A Collection of Lectures on the Ethical implications of Data and Artificial Intelligence from Different Perspectives
 * [How Do We Make Sure AI Is Fair, Safe, and Secure?](https://now.tufts.edu/2026/01/20/how-do-we-make-sure-ai-fair-safe-and-secure), with perspective from Ken Archer, A96, head of responsible AI at Microsoft 
 
-### IAIFI Talks related to Ethics and Social Responsibility
+### IAIFI Talks related to Ethical and Social Responsibility
 IAIFI regularly holds ethics-related IAIFI talks and events. Past events include:
 * October 2025: IAIFI Journal Club with [David Kaiser (MIT)](https://web.mit.edu/dikaiser/www/), "Generative AI and the Natural Sciences: Opportunities and Continuing Challenges"; [View Slides (IAIFI Members Only)](https://drive.google.com/file/d/1SgBfQICSFgXm2Y93xuPXqowTpGefnwP0/view?usp=sharing)
 * April 2025: IAIFI Thematic Discussion Session with [Ziming Liu (MIT)](https://kindxiaoming.github.io/), [Matthew Schwartz (Harvard)](https://schwartz.scholars.harvard.edu/), and [Naomi Saphra (Harvard)](https://nsaphra.net/), "Interpretable AI"; [View Recording (IAIFI Members Only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=sharing); [View Slides (IAIFI Members Only)](https://drive.google.com/drive/folders/16cb5OUKPtK1RjB1FJU3-am7NloNIYXE2?usp=drive_link);
