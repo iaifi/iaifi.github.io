@@ -189,7 +189,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 {:.success}
 -->
 
-***Our [IAIFI Colloquium series](events.html) will continue on Friday, March 13, 2026 with Carlo V. Cannistraci (Tsinghua Laboratory of Brain and Intelligence (THBI)).*** Watch live on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue on Friday, April 10, 2026 with Tommaso Dorigo (INFN).*** Watch live on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>
