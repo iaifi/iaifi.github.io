@@ -1,0 +1,30 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2025-09-10
+title: "Characterizing Supernova Host Galaxies with FrankenBlast: A Scalable Tool for Transient Host Galaxy Association, Photometry, and Stellar Population Modeling"
+authors: "Anya E. Nugent, V. Ashley Villar, Alex Gagliano, David O. Jones, Asaf Horowicz, Kaylee de Soto, Bingjie Wang, and Ben Margalit"
+abstract: "We present FrankenBlast, a customized and improved version of the Blast web application. FrankenBlast associates transients to their host galaxies, performs host photometry, and runs a innovative spectral energy distribution fitting code to constrain host stellar population properties—all within minutes per object. We test FrankenBlast on 14,432 supernovae (SNe), ≈half of which are spectroscopically classified, and are able to constrain host properties for 9262 events. When contrasting the host stellar masses (M*), specific star formation rates (sSFR), and host dust extinction (AV) between spectroscopically and photometrically classified SNe Ia, Ib/c, II, and IIn, we determine that deviations in these distributions are primarily due to misclassified events contaminating the photometrically classified sample. We further show that the higher redshifts of the photometrically classified sample also force their M* and sSFR distributions to deviate from those of the spectroscopically classified sample, as these properties are redshift-dependent. We compare host properties between spectroscopically classified SN populations and determine if they primarily trace M* or SFR. We find that all SN populations seem to both depend on M* and SFR, with SNe II and IIn somewhat more SFR-dependent than SNe Ia and Ib/c, and SNe Ia more M*-dependent than all other classes. We find the difference in the SNe Ib/c and II hosts to be the most intriguing and speculate that SNe Ib/c must be more dependent on higher M* and more evolved environments for the right conditions for progenitor formation. All data products and FrankenBlast are publicly a"
+arxiv: "2509.08874"
+date-updated: 2026-05-21
+journal: "The Astrophysical Journal, 2026, Volume 997, Issue 38"
+doi: "https://doi.org/10.3847/1538-4357/ae247b"
+nsf-par:
+code: "https://github.com/anugent96/frankenblast-host"
+publication-date: 2026-01-13
+bib-tex: |
+  @article{Nugent_2026,
+  doi = {10.3847/1538-4357/ae247b},
+  url = {https://doi.org/10.3847/1538-4357/ae247b},
+  year = {2026},
+  month = {jan},
+  publisher = {The American Astronomical Society},
+  volume = {997},
+  number = {1},
+  pages = {38},
+  author = {Nugent, Anya E. and Villar, V. Ashley and Gagliano, Alex and Jones, David O. and Horowicz, Asaf and de Soto, Kaylee and Wang, Bingjie and Margalit, Ben},
+  title = {Characterizing Supernova Host Galaxies with FrankenBlast: A Scalable Tool for Transient Host Galaxy Association, Photometry, and Stellar Population Modeling},
+  journal = {The Astrophysical Journal},
+  abstract = {We present FrankenBlast, a customized and improved version of the Blast web application. FrankenBlast associates transients to their host galaxies, performs host photometry, and runs a innovative spectral energy distribution fitting code to constrain host stellar population properties‚Äîall within minutes per object. We test FrankenBlast on 14,432 supernovae (SNe), ‚âàhalf of which are spectroscopically classified, and are able to constrain host properties for 9262 events. When contrasting the host stellar masses (M*), specific star formation rates (sSFR), and host dust extinction (AV) between spectroscopically and photometrically classified SNe Ia, Ib/c, II, and IIn, we determine that deviations in these distributions are primarily due to misclassified events contaminating the photometrically classified sample. We further show that the higher redshifts of the photometrically classified sample also force their M* and sSFR distributions to deviate from those of the spectroscopically classified sample, as these properties are redshift-dependent. We compare host properties between spectroscopically classified SN populations and determine if they primarily trace M* or SFR. We find that all SN populations seem to both depend on M* and SFR, with SNe II and IIn somewhat more SFR-dependent than SNe Ia and Ib/c, and SNe Ia more M*-dependent than all other classes. We find the difference in the SNe Ib/c and II hosts to be the most intriguing and speculate that SNe Ib/c must be more dependent on higher M* and more evolved environments for the right conditions for progenitor formation. All data products and FrankenBlast are publicly available, along with a developing FrankenBlast version intended for Rubin Observatory science products.},
+  eprint={2509.08874},
+  archivePrefix={arXiv},
+  }

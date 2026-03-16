@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2026-02-10
+title: "The Landscape of Unstable Mass Transfer in Interacting Binaries and Its Imprint on the Population of Luminous Red Novae"
+authors: "Angela A. G. Twum, Alejandro Vigna-Gómez, Morgan MacLeod, Rosa Wallace Everson, Ricardo Yarza, V. Ashley Villar, Enrico Ramirez-Ruiz"
+abstract: "A common-envelope (CE) phase occurs when a star engulfs its companion and is widely considered the primary channel for producing Luminous Red Novae (LRNe). In this study, we combine binarypopulation synthesis with stellar-evolution calculations to systematically estimate the mass, velocity, and launching radius of ejecta produced during coalescence across a range of binary configurations. Our aim is to quantify how unstable mass-transfer dynamics in binaries at various evolutionary stages shape CE outcomes, enabling a predictive framework for modeling the LRN luminosity function. We find a bimodal distribution of plateau luminosities with significant implications for binary mass stability criteria that can be tested with forthcoming LSST observations. This bimodality emerges from differing mass-ejection outcomes during common-envelope interactions, which can lead either to stellar mergers, often accompanied by tidal disruption of the companion, or to successful envelope ejection. Although our predicted plateau luminosities and timescales broadly match existing observations, the models underpredict the number of LRNe with long-duration plateaus (tp ≳ 100 d) by about a third. We propose that these long-duration events arise from highly extended progenitors whose envelopes are ejected over multiple orbits (i.e., non-impulsively), producing relatively faint, long-lived transients. By constraining ejecta properties and incorporating pre-outburst progenitor imaging, we show how our models can clarify the physical processes that drive unstable mass transfer in these events. Finally, we argue that common-envelope interactions involving white-dwarf accretors can yield exotic outcomes, including red giants containing embedded white dwarfs that resemble Th"
+arxiv: "2602.10211"
+date-updated: 2026-03-31
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{twum2026landscapeunstablemasstransfer,
+      title={The Landscape of Unstable Mass Transfer in Interacting Binaries and Its Imprint on the Population of Luminous Red Novae},
+      author={Angela A. G. Twum and Alejandro Vigna-Gómez and Morgan MacLeod and Rosa Wallace Everson and Ricardo Yarza and V. Ashley Villar and Enrico Ramirez-Ruiz},
+      year={2026},
+      eprint={2602.10211},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.SR},
+      url={https://arxiv.org/abs/2602.10211},
+  }

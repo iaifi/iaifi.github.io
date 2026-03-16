@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-02-25
+title: "Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics"
+authors: "YuQing Xie, Ameya Daigavane, Mit Kotak, Tess Smidt"
+abstract: "E(3)-equivariant neural networks have proven to be effective in a wide range of 3D modeling tasks. A fundamental operation of such networks is the tensor product, which allows interaction between different feature types. Because this operation scales poorly, there has been considerable work towards accelerating this interaction. However, recently citet{xieprice} have pointed out that most speedups come from a reduction in expressivity rather than true algorithmic improvements on computing Clebsch-Gordan tensor products. A modification of Gaunt tensor product citep{gaunt} can give a true asymptotic speedup but is incomplete and misses many interactions. In this work, we provide the first complete algorithm which truly provides asymptotic benefits Clebsch-Gordan tensor products. For full CGTP, our algorithm brings runtime complexity from the naive O(L6) to O(L4log2L), close to the lower bound of O(L4). We first show how generalizing fast Fourier based convolution naturally leads to the previously proposed Gaunt tensor product citep{gaunt}. To remedy antisymmetry issues, we generalize from scalar signals to irrep valued signals, giving us tensor spherical harmonics. We prove a generalized Gaunt formula for the tensor harmonics. Finally, we show that we only need up to vector valued signals to recover the missing interactions of Gaunt tensor product."
+arxiv: "2602.21466"
+date-updated: 2026-03-22
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{xie2026asymptoticallyfastclebschgordantensor,
+      title={Asymptotically Fast Clebsch-Gordan Tensor Products with Vector Spherical Harmonics},
+      author={YuQing Xie and Ameya Daigavane and Mit Kotak and Tess Smidt},
+      year={2026},
+      eprint={2602.21466},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.21466},
+  }

@@ -11,7 +11,7 @@ Thank you for your interest in getting involved with IAIFI! If you are intereste
 
 ## Faculty/Senior Researchers
 
-[Download senior researcher info sheet](images/IAIFI_Senior-Info_2022.pdf){:.button.button--outline-primary.button--pill.button--lg}
+[Download senior researcher info sheet](https://drive.google.com/drive/folders/1FIA5iGID_40Kr7f4I7Jd427pQ9HTBwRW?usp=drive_link){:.button.button--outline-primary.button--pill.button--lg}
 
 ### Apply to be an IAIFI Affiliate
 <details>
@@ -46,6 +46,8 @@ If your situation does not fall into any of the above categories, please contact
 
 
 ## Postdocs/Students
+
+[Download junior researcher info sheet](https://drive.google.com/drive/folders/1FIA5iGID_40Kr7f4I7Jd427pQ9HTBwRW?usp=drive_link){:.button.button--outline-primary.button--pill.button--lg}
 
 ### Apply to be a Friend of IAIFI
 <details>

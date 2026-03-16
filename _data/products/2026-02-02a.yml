@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2026-02-02
+title: "Physics-Informed Neural Networks for Modeling Galactic Gravitational Potentials"
+authors: "Charlotte Myers, Nathaniel Starkman, Lina Necib"
+abstract: "We introduce a physics-informed neural framework for modeling static and time-dependent galactic gravitational potentials. The method combines data-driven learning with embedded physical constraints to capture complex, small-scale features while preserving global physical consistency. We quantify predictive uncertainty through a Bayesian framework, and model time evolution using a neural ODE approach. Applied to mock systems of varying complexity, the model achieves reconstruction errors at the sub-percent level (0.14% mean acceleration error) and improves dynamical consistency compared to analytic baselines. This method complements existing analytic methods, enabling physics-informed baseline potentials to be combined with neural residual fields to achieve both interpretable and accurate potential models."
+arxiv: "2602.01806"
+date-updated: 2026-06-11
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{myers2026physicsinformedneuralnetworksmodeling,
+      title={Physics-Informed Neural Networks for Modeling Galactic Gravitational Potentials},
+      author={Charlotte Myers and Nathaniel Starkman and Lina Necib},
+      year={2026},
+      eprint={2602.01806},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.GA},
+      url={https://arxiv.org/abs/2602.01806},
+  }

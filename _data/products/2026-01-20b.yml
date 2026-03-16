@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-01-20
+title: "Meta Flow Maps enable scalable reward alignment"
+authors: "Peter Potaptchik, Adhi Saravanan, Abbas Mammadov, Alvaro Prat, Michael S. Albergo, Yee Whye Teh"
+abstract: "Controlling generative models is computationally expensive. This is because optimal alignment with a reward function--whether via inference-time steering or fine-tuning--requires estimating the value function. This task demands access to the conditional posterior p1|t(x1|xt), the distribution of clean data x1 consistent with an intermediate state xt, a requirement that typically compels methods to resort to costly trajectory simulations. To address this bottleneck, we introduce Meta Flow Maps (MFMs), a framework extending consistency models and flow maps into the stochastic regime. MFMs are trained to perform stochastic one-step posterior sampling, generating arbitrarily many i.i.d. draws of clean data x1 from any intermediate state. Crucially, these samples provide a differentiable reparametrization that unlocks efficient value function estimation. We leverage this capability to solve bottlenecks in both paradigms: enabling inference-time steering without inner rollouts, and facilitating unbiased, off-policy fine-tuning to general rewards. Empirically, our single-particle steered-MFM sampler outperforms a Best-of-1000 baseline on ImageNet across multiple rewards at a fraction of the compute."
+arxiv: "2601.14430"
+date-updated: 2026-06-11
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{potaptchik2026metaflowmapsenable,
+      title={Meta Flow Maps enable scalable reward alignment},
+      author={Peter Potaptchik and Adhi Saravanan and Abbas Mammadov and Alvaro Prat and Michael S. Albergo and Yee Whye Teh},
+      year={2026},
+      eprint={2601.14430},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2601.14430},
+  }
