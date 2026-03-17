@@ -206,22 +206,22 @@ Break
 
 *Plenary Talk*
 
+**4:45–5:30 pm ET**
+
+*Concluding Workshop Remarks*
+
 
 ### Friday, August 14, 2026
 
-#### [IAIFI Industry Day](https://iaifi.org/industry-day)
+#### IAIFI Industry Day
 
-**9:00–9:30 am ET**
+**10:00–10:15 am ET**
 
-*Concluding Workshop Remarks and Industry Day Introduction*
+*Industry Day Introduction*
 
-**9:00–9:30 am ET**
+**10:15–11:00 am ET**
 
 *Keynote Speaker*
-
-**10:30–11:00 am ET**
-
-Break
 
 **11:00 am–12:30 pm ET**
 
@@ -235,12 +235,24 @@ Networking Lunch (food provided)
 
 Industry Partner Expo and Reception
 
-## Speakers
+## Plenary Speakers
 Additional speakers will be added as they are confirmed. 
 
 <div class="card-columns">
   <!--<div class="row">-->
 
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-saul-alonso-monsalve.jpg" alt="Saúl Alonso-Monsalve" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://samprd.ethz.ch">Saúl Alonso-Monsalve</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> ETH Zurich </em> <br>
+         </div>
+         </div>
+       </div>
+       
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-yasaman-bahri.jpg" alt="Yasaman Bahri" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
