@@ -18,7 +18,7 @@ We are also accepting [submissions for contributed talks and posters](https://ap
 
 * **When:** August 10–14, 2026 
 * **Where:** MIT, Cambridge, MA
-* **What:** The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. The first four days will include plenary talks, a poster session, parallel sessions for contributed talks, and a workshop dinner. On Friday, August 14, Workshop attendees are invited to [IAIFI industry day](https://iaifi.org/industry-day), which will feature IAIFI industry partners and an opportunity to network with both IAIFI members and representatives from industry.
+* **What:** The IAIFI Summer Workshop brings together researchers from across Physics and AI for presentations, poster sessions, and networking to promote research at the intersection of Physics and AI. The first four days will include plenary talks, a poster session, parallel sessions for contributed talks, and a workshop dinner. On Friday, August 14, Workshop attendees are invited to [IAIFI Industry Day](https://iaifi.org/summer-workshop.html#iaifi-industry-day), which will feature IAIFI industry partners and an opportunity to network with both IAIFI members and representatives from industry.
 * **Who:** Researchers of all career stages interested in interdisciplinary AI+Physics research. 
 
 {% include_relative iaifi-reminder_footer.html %}
