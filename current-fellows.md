@@ -76,6 +76,8 @@ aside:
 
 **Biographical Sketch**: Alex Gagliano completed his Ph.D. in Astronomy at the University of Illinois at Urbana-Champaign, where he was an NSF Graduate Research Fellow. Previously, he worked as a pre-doctoral fellow at the Flatiron Institute's Center for Computational Astrophysics (2022) and as a post-baccalaureate fellow at Los Alamos National Laboratory (2018). Alex completed an undergraduate degree in Computational Modeling and Data Analytics at Virginia Tech in 2017. 
 
+*After his IAIFI Fellowship, Alex began a role in 2026 as a Research Scientist at PSI.*
+
 ## 2022-2025 IAIFI Fellows
 
 ### [Denis Boyda](mailto:boyda@mit.edu)
