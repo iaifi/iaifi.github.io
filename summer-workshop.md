@@ -8,7 +8,7 @@ title:
 
 The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. We will also accept submissions for contributed talks and/or posters.
 
-**Registration and abstract submissions are now open for the 2026 IAIFI Summer Workshop.** [Register here](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r) and [submit a talk or poster here](https://app.smartsheet.com/b/form/019cf72596b5790ca38a933e4d7b226a). 
+**Registration and abstract submissions are now open for the 2026 IAIFI Summer Workshop.** [Register here](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r) by July 31, 2026 and [submit a talk or poster here](https://app.smartsheet.com/b/form/019cf72596b5790ca38a933e4d7b226a) by June 1, 2026. 
 {:.success}
 
 
