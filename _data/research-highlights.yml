@@ -1,5 +1,16 @@
 - type: "research-highlight"
   domain: "Foundational AI"
+  title: "Training a Foundation Model for Materials on a Budget"
+  authors: Teddy Koker, Mit Kotak, Tess Smidt
+  date-added: 2026-03-20
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQXz6mjqN5FpxWomxYnW5KP1CWsXU46RZG9Vt7DaZEhfj9fPsGLsgFyZFjjgWk5x6bjYqN7dlgXnnhB/pubembed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1dsY1-o6fjSXTXCvaU1UCqhlDBCdztnbfIQ90YMgNspw/edit?usp=sharing"
+  overview-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQaH8a2Gt2ooE0_8J8azZyVmF-gOIo_iXxsKjIGUZX-UgrFED3nly2vmIqPcmSyBW7VlsWN7XA4wCdK/pubembed?start=false&loop=false&delayms=3000"
+  overview-link: "https://docs.google.com/presentation/d/1y6gtw_QrM17JpqoiNgjD_xyZX0A8z47eBcO8RkE82mY/edit?usp=sharing"
+  screenshot: ResearchHighlight_202603_Koker.png
+
+- type: "research-highlight"
+  domain: "Foundational AI"
   title: "L<sup>2</sup>M: Mutual Information Scaling Law for Long-Context Language Modeling"
   authors: Zhuo Chen, Oriol Mayné i Comas, Zhuotao Jin, Di Luo, Marin Soljacic
   date-added: 2026-02-18
