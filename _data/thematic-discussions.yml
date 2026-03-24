@@ -1,6 +1,6 @@
 - type: "thematic-discussion"
   semester: "spring-2026"
-  speaker-names-affiliations: "IAIFI Fellows: Akshunna Dogra, Berthy Feng, and Mathis Gerdes"
+  speaker-names-affiliations: "Featured Fellows: Akshunna Dogra, Berthy Feng, and Mathis Gerdes"
   speaker-title:
   speaker-affiliation:
   speaker-website:
@@ -34,7 +34,7 @@
   talk-abstract: "Large language models (LLMs) and vision-language models (VLMs) are becoming part of everyday scientific work. They are used for literature search, technical Q&A with grounding, code generation and inspection, and tool use with simulators. In some cases, they are beginning to interact directly with hardware. Their reasoning ability is also being explored for physics- and math-heavy problems, including suggesting derivations and proposing analytic forms consistent with known constraints. This session will begin with three lightning talks (10 minutes each, plus short Q&A) that illustrate a few of these directions.<br>We will then open a guided discussion on other LLM-assisted efforts across IAIFI. Possible themes include domain-specific foundation models, joint multimodal embeddings, and VLMs for robotics, among others. The goal is to share lessons learned and discuss challenges such as reliability, verification, and handling out-of-distribution behavior. We will also explore more ambitious directions, including automatic hypothesis generation and testing to accelerate scientific discovery."
   slides-link: https://drive.google.com/drive/folders/1Qkx826-inLQ4L-Gb5n6qfylqhxgE3jjd?usp=drive_link
   youtube-link: https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?tab=t.0#heading=h.po6bcea3xsea
-  speaker-thrust:
+  speaker-thrust: 1 Astrophysics, 1 Experiment, 1 Theory
   speaker-gender: man
   talk-attendance-in-person: 15
   talk-attendance-virtual: 10
@@ -54,10 +54,10 @@
   talk-abstract: "This session will begin with three lightning talks (10 minutes each, plus short Q&A) regarding different aspects of Geometric Deep Learning, followed by a guided discussion. Speakers will include: Akshunna Dogra (IAIFI Fellow), “Man, Machine, and Mathematics”; Melanie Weber (Harvard, IAIFI Affiliate), talk details to come; and Jie Xu (Northeastern), “The Geometry of Unlabeled Networks”. Check out the details for each lightning talk here: https://tinyurl.com/49dc3ex4"
   slides-link: https://drive.google.com/drive/folders/1N9FAGbr0Rc5Jn2iSFzZspTG5d3I4yIbz?usp=drive_link
   youtube-link: https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?tab=t.0#heading=h.po6bcea3xsea
-  speaker-thrust:
+  speaker-thrust: 2 Foundational AI, 1 Unknown
   speaker-gender: 2 man, 1 woman
-  talk-attendance-in-person:
-  talk-attendance-virtual:
+  talk-attendance-in-person: 16
+  talk-attendance-virtual: 6
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDBtdmIwcGtpdmg1ZWhvMHFsbDJpM212MDZfMjAyNjAzMjBUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
 
 - type: "thematic-discussion"
