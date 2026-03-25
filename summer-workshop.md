@@ -276,6 +276,18 @@ Additional speakers will be added as they are confirmed.
          </div>
          </div>
        </div>
+       
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-lance-dixon.jpg" alt="Lance Dixon" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://faculty.slac.stanford.edu/person/lance-dixon">Lance Dixon</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> SLAC </em> <br>
+         </div>
+         </div>
+       </div>
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-yilun-du.jpg" alt="Yilun Du" height="210rem" style="object-fit: cover;">
@@ -288,6 +300,18 @@ Additional speakers will be added as they are confirmed.
          </div>
          </div>
        </div>
+       
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-lisa-everett.jpg" alt="Lisa Everett" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://www.physics.wisc.edu/directory/everett-lisa-l/">Lisa Everett</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> University of Wisconsin-Madison </em> <br>
+         </div>
+         </div>
+       </div>
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-berthy-feng.jpg" alt="Berthy Feng" height="210rem" style="object-fit: cover;">
@@ -297,18 +321,6 @@ Additional speakers will be added as they are confirmed.
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> IAIFI Fellow </em> <br>
-         </div>
-         </div>
-       </div>
-
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-lisa-everett.jpg" alt="Lisa Everett" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.physics.wisc.edu/directory/everett-lisa-l/">Lisa Everett</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> University of Wisconsin-Madison </em> <br>
          </div>
          </div>
        </div>
