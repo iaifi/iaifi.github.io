@@ -56,7 +56,7 @@ header:
       - title: Overview
         url: /research.html
       - title: Research Explorer
-        url: https://iaifi-research-blog.vercel.app
+        url: https://research.iaifi.org
       - title: Research by Domain
         url: /domain-research.html
       - title: Papers and Code
