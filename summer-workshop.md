@@ -341,7 +341,7 @@ Additional speakers will be added as they are confirmed.
          <img class="my-card-img-top" src="images/small-photo-rahul-kulkarni.jpg" alt="Rahul Kulkarni" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.umb.edu/directory/rahulkulkarni/">Rahul Kulkarni</a>
+         <a href="https://blogs.umb.edu/rahulkulkarni/">Rahul Kulkarni</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> UMass Boston </em> <br>

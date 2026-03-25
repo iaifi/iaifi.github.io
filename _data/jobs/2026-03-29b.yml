@@ -1,0 +1,8 @@
+type: postdoc
+title: Darmstadt, Germany
+post-date: 2026-03-29
+deadline: 
+expire: 2026-04-29
+link: https://pearl-lab.com/open-positions/
+details: "We are seeking highly motivated PhD Students and Postdoctoral Researchers to join the PEARL Lab (https://pearl-lab.com) at TU Darmstadt, Germany, led by Prof. Georgia Chalvatzaki.<BR>Our Research Vision
+Our research focuses on structured robot learning and embodied AI. We aim to enable robots to perceive, reason, and act in open-ended environments by leveraging the underlying structure of robot–environment systems. Our approach moves beyond black-box policies toward composable, adaptive, and robust behaviors that generalize across tasks, supporting grounded, language-guided decision-making and intuitive human-robot interaction.<BR>Key Research Directions <BR>We are particularly looking for candidates interested in: <BR>Grounding for Embodied AI: Connecting language and high-level plans to structured perception, affordances, and executable actions.<BR>Grounded World Models: Learning structured representations of geometry, semantics, and dynamics for prediction and interaction.<BR>Foundation Models for Robotics: Multimodal models (VLA) for long-horizon decision-making, interfacing with structured control modules, memory, and composable low-level skills.<BR>Reinforcement Learning: Structure-aware policy learning with efficient long-horizon credit assignment and RL-based fine-tuning for offline-to-online adaptation.<BR>Mobile Manipulation: Embodied decision-making for whole-body, contact-rich interaction and bimanual coordination in dynamic environments."
