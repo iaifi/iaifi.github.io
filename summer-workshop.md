@@ -396,6 +396,18 @@ Additional speakers will be added as they are confirmed.
          </div>
          </div>
        </div>
+
+    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-todd-zickler.jpg" alt="Todd Zickler" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://seas.harvard.edu/person/todd-zickler">Todd Zickler</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Harvard University </em> <br>
+         </div>
+         </div>
+       </div>
        
 </div>
 
