@@ -2,6 +2,18 @@
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-03-29"
+  start-date-time: "2026-03-30 12:00"
+  end-date-time: "2026-03-16 13:00"
+  talk-location: "Pratt conference room, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Christopher Lovell (University of Cambridge)<br>Title: Novel forward and inverse approaches to modelling the observable Universe<br>Abstract: Just as people living in busy cities experience life differently from those in rural villages, galaxies evolve dramatically differently depending on their surroundings. Some galaxies live in crowded cosmic metropolises, massive clusters containing thousands of galactic neighbors, while others exist in nearly empty cosmic countryside. New observatories, such as Euclid, are currently mapping billions of galaxies, offering an unprecedented opportunity to understand these cosmic environments. We rely on simulations to understand and interpret data from these modern instruments, but current models face a fundamental limitation: they can either simulate small cosmic regions in exquisite detail, or vast volumes of space, but not both simultaneously. It's like trying to understand New York by either examining individual streets with a magnifying glass or viewing the entire city from space; neither approach alone tells the complete story."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjczZGhmOGNxOHZ0YnQ4djEzMGxvM3RoaTUgeWlsZGl6QG1pdC5lZHU&tmsrc=yildiz%40mit.edu
+  
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2026-03-15"
   start-date-time: "2026-03-16 12:00"
   end-date-time: "2026-03-16 13:00"
