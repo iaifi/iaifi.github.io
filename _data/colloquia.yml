@@ -65,8 +65,8 @@
   start-date-time: "2026-04-10 14:00"
   end-date-time: "2026-04-10 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
-  talk-abstract:
+  talk-title: "Co-Deslgn: the Second AI Revolution in Fundamental Science"
+  talk-abstract: "The success of automatic methods for image classification in 2012 mark a phase transition in the performance of machine learning algorithms; those developments have led to a revolution in the way the extraction of information from complex data is operated in fundamental science experiments. A second AI-powered revolution is under way now, thanks to the development of more advanced, powerful algorithms and methods; its end goal is the assistance of humans in the optimal design of scientific experiments.<br>The large dimensionality of the parameter space describing apparata such as particle collider detectors, the stochasticity of the physical processes generating relevant data in those systems, and the complexity of the objective function of multi-target experiments can now be handled by hybrid optimization techniques, multi-modal systems, generative AI, and AI agents. In particular, the concept of co-design of hardware and software gains prominence for its crucial tackling of the misalignment between the design of hardware systems and the choice and tuning of software methods for inference extraction. In this presentation I will discuss the state of the art of research in this thriving subject."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjA0MTBUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
