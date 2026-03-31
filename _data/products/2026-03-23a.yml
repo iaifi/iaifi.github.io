@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2026-03-23
+title: "A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems"
+authors: "Seou Choi, Sachin Vaidya, Caio Silva, Shiekh Zia Uddin, Sajib Biswas Shuvo, Shrish Choudhary, Marin Soljačić"
+abstract: "Robotic automation has transformed scientific workflows in domains such as chemistry and materials science, yet free-space optics, which is a high precision domain, remains largely manual. Optical systems impose strict spatial and angular tolerances, and their performance is governed by tightly coupled physical parameters, making generalizable automation particularly challenging. In this work, we present a robotics framework for the autonomous construction, alignment, and maintenance of precision optical systems. Our approach integrates hierarchical computer vision systems, optimization routines, and custom-built tools to achieve this functionality. As a representative demonstration, we perform the fully autonomous construction of a tabletop laser cavity from randomly distributed components. The system performs several tasks such as laser beam centering, spatial alignment of multiple beams, resonator alignment, laser mode selection, and self-recovery from induced misalignment and disturbances. By achieving closed-loop autonomy for highly sensitive optical systems, this work establishes a foundation for autonomous optical experiments for applications across technical domains."
+arxiv: "2603.21496"
+date-updated: 2026-03-31
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{choi2026frameworkclosedlooproboticassembly,
+      title={A Framework for Closed-Loop Robotic Assembly, Alignment and Self-Recovery of Precision Optical Systems},
+      author={Seou Choi and Sachin Vaidya and Caio Silva and Shiekh Zia Uddin and Sajib Biswas Shuvo and Shrish Choudhary and Marin Soljačić},
+      year={2026},
+      eprint={2603.21496},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2603.21496},
+  }

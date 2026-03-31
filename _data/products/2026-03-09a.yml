@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-03-09
+title: "Explicit or Implicit? Encoding Physics at the Precision Frontier"
+authors: "Victor Breso-Pla, Kevin Greif, Vinicius Mikuni, Benjamin Nachman, Tilman Plehn, Tanvi Wamorkar, Daniel Whiteson"
+abstract: "High-performance machine learning tools in particle physics rest on two complementary directions: encoding symmetries explicitly in the architecture, and implicitly learning the structure of the data through large-scale (pre-) training. We compare the performance of the representative L-GATr and OmniLearn models on three especially challenging tasks: reweighting-based unfolding, likelihood-ratio estimation, and weakly supervised anomaly detection. Across all benchmarks, both methods achieve comparable performance given the statistical precision of the finetuning datasets, suggesting that the significant efficiency gains from encoding known particle physics structures are largely method-independent."
+arxiv: "2603.08802"
+date-updated: 2026-03-31
+journal:
+doi:
+nsf-par:
+code: https://github.com/stanford-ai4physics/physics-priors
+publication-date:
+bib-tex: |
+  @article{bresopla2026explicitimplicitencodingphysics,
+      title={Explicit or Implicit? Encoding Physics at the Precision Frontier},
+      author={Victor Breso-Pla and Kevin Greif and Vinicius Mikuni and Benjamin Nachman and Tilman Plehn and Tanvi Wamorkar and Daniel Whiteson},
+      year={2026},
+      eprint={2603.08802},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2603.08802},
+  }
