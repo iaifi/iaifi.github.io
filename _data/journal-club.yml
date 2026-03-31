@@ -117,38 +117,19 @@
   speaker-name: "Filippo Gaggioli"
   speaker-title: "Postdoctoral Fellow"
   speaker-affiliation: "MIT"
-  speaker-website: "https://filippogaggioli.webflow.io/"
+  speaker-website: "https://filippogaggioli.webflow.io"
   speaker-photo-location:
   start-date-time: "2026-04-09 13:00"
   end-date-time: "2026-04-09 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Details to come."
-  talk-abstract: 
+  talk-title: "Electronic crystals and quasicrystals in semiconductor quantum wells: an AI-powered discovery"
+  talk-abstract: "AI-powered discovery of a new electronic phase of matter in an archetypal condensed matter system: the homogeneous electron gas."
   slides-link:
   youtube-link:
-  speaker-thrust: ""
+  speaker-thrust: "Physics Theory"
   speaker-gender: "Man"
   talk-attendance:  0 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjA0MDlUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
-  
-- type: "journal-club"
-  semester: "spring-2026"
-  speaker-name: "Hosea Siu"
-  speaker-title: "Technical Staff"
-  speaker-affiliation: "MIT Lincoln Laboratory"
-  speaker-website: "https://www.linkedin.com/in/hosea-siu/"
-  speaker-photo-location:
-  start-date-time: "2026-04-30 13:00"
-  end-date-time: "2026-04-30 14:00"
-  talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Details to come."
-  slides-link:
-  youtube-link:
-  speaker-thrust: ""
-  speaker-gender: "Man"
-  talk-attendance:  0 in person, 0 virtual
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjA0MzBUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
   semester: "spring-2026"
@@ -168,6 +149,44 @@
   speaker-gender: "Man"
   talk-attendance:  0 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjA0MTZUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2026"
+  speaker-name: "Ludvig Doeser"
+  speaker-title: "Research Analyst"
+  speaker-affiliation: "Flatiron Institute"
+  speaker-website: "https://ludvigdoeser.github.io/"
+  speaker-photo-location:
+  start-date-time: "2026-04-23 13:00"
+  end-date-time: "2026-04-23 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Field-level neural emulators vs field-level neural optimizers in cosmology"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: "Astrophysics"
+  speaker-gender: "Man"
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjA0MjNUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "spring-2026"
+  speaker-name: "Hosea Siu"
+  speaker-title: "Technical Staff"
+  speaker-affiliation: "MIT Lincoln Laboratory"
+  speaker-website: "https://www.linkedin.com/in/hosea-siu/"
+  speaker-photo-location:
+  start-date-time: "2026-04-30 13:00"
+  end-date-time: "2026-04-30 14:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Title to come."
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: "Man"
+  talk-attendance:  0 in person, 0 virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjA0MzBUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
 
 - type: "journal-club"
   semester: "fall-2025"
