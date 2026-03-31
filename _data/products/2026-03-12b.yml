@@ -1,0 +1,24 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-03-12
+title: "Thermodynamics of Reinforcement Learning Curricula"
+authors: "Jacob Adamczyk, Juan Sebastian Rojas, Rahul V Kulkarni"
+abstract: "Connections between statistical mechanics and machine learning have repeatedly proven fruitful, providing insight into optimization, generalization, and representation learning. In this work, we follow this tradition by leveraging results from non-equilibrium thermodynamics to formalize curriculum learning in reinforcement learning (RL). In particular, we propose a geometric framework for RL by interpreting reward parameters as coordinates on a task manifold. We show that, by minimizing the excess thermodynamic work, optimal curricula correspond to geodesics in this task space. As an application of this framework, we provide an algorithm, 'MEW' (Minimum Excess Work), to derive a principled schedule for temperature annealing in maximum-entropy RL."
+arxiv: "2603.12324"
+date-updated: 2026-03-31
+journal: "SciForDL 2026"
+doi: https://openreview.net/forum?id=cG7DgnDZ5q
+nsf-par:
+code: https://github.com/JacobHA/MEW
+publication-date: 2026-03-02
+bib-tex: |
+  @inproceedings{
+  adamczyk2026thermodynamics,
+  title={Thermodynamics of Reinforcement Learning Curricula},
+  author={Jacob Adamczyk and Juan Sebastian Rojas and Rahul V Kulkarni},
+  booktitle={Workshop on Scientific Methods for Understanding Deep Learning},
+  year={2026},
+  url={https://openreview.net/forum?id=cG7DgnDZ5q},,
+  eprint={2603.12324},
+  archivePrefix={arXiv},
+  }
