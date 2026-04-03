@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-03-12
+title: "Maximum Entropy Exploration Without the Rollouts"
+authors: "Jacob Adamczyk, Adam Kamoski, Rahul V. Kulkarni"
+abstract: "Efficient exploration remains a central challenge in reinforcement learning, serving as a useful pretraining objective for data collection, particularly when an external reward function is unavailable. A principled formulation of the exploration problem is to find policies that maximize the entropy of their induced steady-state visitation distribution, thereby encouraging uniform long-run coverage of the state space. Many existing exploration approaches require estimating state visitation frequencies through repeated on-policy rollouts, which can be computationally expensive. In this work, we instead consider an intrinsic average-reward formulation in which the reward is derived from the visitation distribution itself, so that the optimal policy maximizes steady-state entropy. An entropy-regularized version of this objective admits a spectral characterization: the relevant stationary distributions can be computed from the dominant eigenvectors of a problem-dependent transition matrix. This insight leads to a novel algorithm for solving the maximum entropy exploration problem, EVE (EigenVector-based Exploration), which avoids explicit rollouts and distribution estimation, instead computing the solution through iterative updates, similar to a value-based approach. To address the original unregularized objective, we employ a posterior-policy iteration (PPI) approach, which monotonically improves the entropy and converges in value. We prove convergence of EVE under standard assumptions and demonstrate empirically that it efficiently produces policies with high steady-state entropy, achieving competitive exploration performance relative to rollout-based baselines in deterministic grid-world environments."
+arxiv: "2603.12325"
+date-updated: 2026-03-31
+journal:
+doi:
+nsf-par:
+code: https://github.com/JacobHA/EVE
+publication-date:
+bib-tex: |
+  @article{adamczyk2026maximumentropyexplorationrollouts,
+      title={Maximum Entropy Exploration Without the Rollouts},
+      author={Jacob Adamczyk and Adam Kamoski and Rahul V. Kulkarni},
+      year={2026},
+      eprint={2603.12325},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2603.12325},
+  }

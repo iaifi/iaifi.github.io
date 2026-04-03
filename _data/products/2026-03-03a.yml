@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-03-03
+title: "Variance reduction in lattice QCD observables via normalizing flows"
+authors: "Ryan Abbott, Denis Boyda, Yang Fu, Daniel C. Hackett, Gurtej Kanwar, Fernando Romero-López, Phiala E. Shanahan, Julian M. Urban"
+abstract: "Normalizing flows can be used to construct unbiased, reduced-variance estimators for lattice field theory observables that are defined by a derivative with respect to action parameters. This work implements the approach for observables involving gluonic operator insertions in the SU(3) Yang-Mills theory and two-flavor Quantum Chromodynamics (QCD) in four space-time dimensions. Variance reduction by factors of 10-60 is achieved in glueball correlation functions and in gluonic matrix elements related to hadron structure, with demonstrated computational advantages. The observed variance reduction is found to be approximately independent of the lattice volume, so that volume transfer can be utilized to minimize training costs."
+arxiv: "2603.02984"
+date-updated: 2026-03-31
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{abbott2026variancereductionlatticeqcd,
+      title={Variance reduction in lattice QCD observables via normalizing flows},
+      author={Ryan Abbott and Denis Boyda and Yang Fu and Daniel C. Hackett and Gurtej Kanwar and Fernando Romero-López and Phiala E. Shanahan and Julian M. Urban},
+      year={2026},
+      eprint={2603.02984},
+      archivePrefix={arXiv},
+      primaryClass={hep-lat},
+      url={https://arxiv.org/abs/2603.02984},
+  }
