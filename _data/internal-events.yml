@@ -101,6 +101,33 @@
 #Above this are very high-priority or standing events, such as the Forums, the semesterly Social, and the Summer School & Workshop.
 
 - type: "social"
+  event-name: "Post-Discussion Social"
+  event-committee: "IAIFI Community Forum"
+  event-post-date: "2026-04-05"
+  start-date-time: "2026-04-17 15:00"
+  end-date-time: "2026-04-17 16:00"
+  talk-location: "IAIFI Penthouse"
+  talk-zoom:
+  event-details: "After today's Thematic Discussion Session, refreshments will be provided at the IAIFI Penthouse for informal networking and further discussion."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNjA0MTdUMTkwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "the IAIFI Community Forum"
+  event-post-date: "2026-04-12"
+  start-date-time: "2026-04-16 14:00"
+  end-date-time: "2026-04-16 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=YWJyOTU4aTQzbHVlYzE2M3JvMDUzYTVjMnNfMjAyNjA0MTZUMTgwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
+
+- type: "social"
   event-name: "Coffee Hour with Prospective MIT Physics Grad Students"
   event-committee: "the IAIFI Community Forum"
   event-post-date: "2026-03-29"

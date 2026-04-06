@@ -11,14 +11,34 @@
   talk-title: "IAIFI Fellows Showcase (followed by IAIFI Fall Social, 4:00–6:00 pm)"
   event-details: "This special lightning talk session will showcase IAIFI Fellows discussing their research interests, current projects, and opportunities for collaboration! The event will include individual presentations from the Fellows, as well as a panel with opportunity for open Q&A from the audience. The speakers will include Akshunna Dogra, Berthy Feng, and Mathis Gerdes, and the showcase will be followed by the IAIFI Spring Social. Check out the details for each lightning talk: https://tinyurl.com/yprvk5w4"
   talk-abstract: "This special lightning talk session will showcase IAIFI Fellows discussing their research interests, current projects, and opportunities for collaboration! The event will include individual presentations from the Fellows, as well as a panel with opportunity for open Q&A from the audience. The speakers will include Akshunna Dogra, Berthy Feng, and Mathis Gerdes, and the showcase will be followed by the IAIFI Spring Social. Check out the details for each lightning talk: https://tinyurl.com/yprvk5w4"
-  slides-link:
-  youtube-link:
+  slides-link: https://drive.google.com/drive/folders/16sF_OrMB4DNXPhjkmQOGV9hq0aLATO6V?usp=drive_link
+  youtube-link: https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=sharing
   speaker-thrust: "All"
   speaker-gender: "All"
-  talk-attendance-in-person:
-  talk-attendance-virtual:
+  talk-attendance-in-person: 27
+  talk-attendance-virtual: 6
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NHRpbGdidWlncnVsdWFvdjZzcDlrOTRjMzggcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   priority: high
+  
+- type: "thematic-discussion"
+  semester: "spring-2026"
+  speaker-names-affiliations: "Thomas Harvey (IAIFI Fellow), Jacob Adamczyk (IAIFI Junior Investigator, UMass Boston), Christina Reissel (IAIFI Fellow), Fabian Ruehle (Senior Investigator, Northeastern)"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2026-04-17 14:00"
+  end-date-time: "2026-04-17 15:00"
+  talk-location: "MIT Kolker Room, 26-414"
+  talk-title: "Reinforcement Learning"
+  talk-abstract: "Details to come."
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender: man
+  talk-attendance-in-person:
+  talk-attendance-virtual:
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDBtdmIwcGtpdmg1ZWhvMHFsbDJpM212MDZfMjAyNjA0MTdUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   
 - type: "thematic-discussion"
   semester: "spring-2026"
