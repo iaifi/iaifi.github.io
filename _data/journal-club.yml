@@ -90,7 +90,7 @@
   youtube-link:
   speaker-thrust: ""
   speaker-gender:
-  talk-attendance:  0 in person, 0 virtual
+  talk-attendance:
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=YWJyOTU4aTQzbHVlYzE2M3JvMDUzYTVjMnNfMjAyNjAzMTlUMTgwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
   
 - type: "journal-club"
@@ -105,11 +105,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Neural Bayesian updates to populations with growing gravitational-wave catalogs"
   talk-abstract: "As gravitational-wave catalogs grow, they will become increasingly computationally expensive to analyze in their entirety, especially when inferring astrophysical source populations with high-dimensional, flexible models. Bayesian statistics offers a natural remedy, letting us update our knowledge of physical models as new data arrive, without re-analyzing existing data. However, doing so requires the posterior probability density of model parameters for previous observations, which is typically intractable. Here, we use variational neural posterior estimation to rapidly update the inferred population of binary black holes as data are observed in gravitational-wave detectors. We apply this approach to real and simulated catalogs analyzed with both low- and high-dimensional population models, testing the reliability of three update cadences: with new catalogs of sources, month by month during an observing run, and as each new signal arrives. We investigate the success and failure modes of neural sequential updates, finding that the robustness of updating is sensitive to the information contained in each update and that updating is most effective when performed with larger segments of data. We outline one additional scientific application enabled by Bayesian updating: identification of events that are individually informative about the population. Neural Bayesian updates to astrophysical population models also provide efficient likelihood representations for joint analyses with other data, e.g., standard-siren cosmology, and similar methods can be used to perform Bayesian stochastic background searches."
-  slides-link:
+  slides-link: https://drive.google.com/file/d/129lknuFcnpQqwFNVtHVjzpCEcWvu45GW/view?usp=drive_link
   youtube-link:
   speaker-thrust: "Astrophysics"
   speaker-gender: "Man"
-  talk-attendance:  0 in person, 0 virtual
+  talk-attendance:  14 in person, 4 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjA0MDJUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"

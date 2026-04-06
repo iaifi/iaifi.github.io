@@ -1,4 +1,54 @@
 - type: "external-event"
+  event-name: "UMB Physics Colloquium: Liang Fu (IAIFI Affiliate)"
+  event-organizer: "UMass Boston"
+  more-info-link: "https://sites.google.com/view/upcomingseminarsumbphysics/home"
+  event-post-date: "2026-04-05"
+  start-date-time: "2026-05-12 11:00"
+  end-date-time: "2026-05-12 12:00"
+  talk-location: "ISC-1200"
+  talk-zoom:
+  event-details: "Talk details to come."
+  calendar-link:
+
+- type: "external-event"
+  event-name: "UMB Physics Colloquium: Berthy Feng (IAIFI Fellow)"
+  event-organizer: "UMass Boston"
+  more-info-link: "https://sites.google.com/view/upcomingseminarsumbphysics/home"
+  event-post-date: "2026-04-05"
+  start-date-time: "2026-04-21 11:00"
+  end-date-time: "2026-04-21 12:00"
+  talk-location: "ISC-1200"
+  talk-zoom:
+  event-details: "Talk details to come."
+  calendar-link:
+
+- type: "external-event"
+  event-name: "Learning at the Frontier: Advanced School on Machine Learning for Particle Physics"
+  event-organizer: "the Marie Skłodowska-Curie Actions Doctoral Network AIPHY"
+  more-info-link: "https://indico.physi.uni-heidelberg.de/event/1332/"
+  event-post-date: "2026-04-05"
+  start-date-time: "2026-06-16 18:00"
+  end-date-time: "2026-06-26 15:30"
+  talk-location: "Institut Pascal - Université Paris-Saclay"
+  talk-zoom:
+  event-details: "Welcome to the 'Learning at the Frontier' advanced school on machine learning in particle physics. During the course, you will learn about advanced machine learning techniques and how they are applied in particle physics. You will also gain hands-on experience by applying these techniques in accompanying exercise sessions.<br>The school is aimed at PhD students in particle physics and computer science who wish to develop their knowledge of advanced machine learning approaches and ways of thinking. Advanced Master's students with relevant backgrounds are also encouraged to apply."
+  calendar-link:
+  rsvp-link: https://indico.physi.uni-heidelberg.de/event/1332/registrations/44/
+  
+
+- type: "external-event"
+  event-name: "Agentic AI + Science fest at Harvard"
+  event-organizer: "Harvard"
+  more-info-link: "https://www.fas.harvard.edu/event/doing-science-agentic-ai"
+  event-post-date: "2026-04-05"
+  start-date-time: "2026-04-16 16:30"
+  end-date-time: "2026-04-16 17:45"
+  talk-location: "Science Center Hall C, Harvard University"
+  talk-zoom:
+  event-details: "AI agents can now do real science — suggest and correct research directions, do challenging multistep technical computations, write and run code in any programming language, perform deep literature reviews, and teach us. We’ll show some examples of agentic AI tackling genuine state-of-the-art scientific problems, and how Harvard researchers are speeding up their workflows by a factor of 10 or more. Join the FAS and SEAS for a panel discussion with audience Q&A."
+  calendar-link:
+
+- type: "external-event"
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
@@ -20,7 +70,7 @@
   talk-location: "MIT Room 32-G449 (Kiva), and Zoom"
   talk-zoom: "https://mit.zoom.us/j/98356094310"
   event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker 1: Qidong Yang<br>Title: Conformal Prediction for Generative Models via Adaptive Cluster-Based Density Estimation<br>Abstract: Conditional generative models map input variables to complex, high-dimensional distributions, enabling realistic sample generation in a diverse set of domains. A critical challenge with these models is the absence of calibrated uncertainty, which undermines trust in individual outputs for high-stakes applications. To address this issue, we propose a systematic conformal prediction approach tailored to conditional generative models, leveraging density estimation on model-generated samples. We introduce a novel method called CP4Gen, which utilizes clustering-based density estimation to construct prediction sets that are less sensitive to outliers, more interpretable, and of lower structural complexity than existing methods. Extensive experiments on synthetic datasets and real-world applications, including climate emulation tasks, demonstrate that CP4Gen consistently achieves superior performance in terms of prediction set volume and structural simplicity. Our approach offers practitioners a powerful tool for uncertainty estimation associated with conditional generative models, particularly in scenarios demanding rigorous and interpretable prediction sets.<br>Speaker 2: Fathima Zarin Faizal<br>Title: On Local Policies for Graph-Structured Markov Decision Processes?<br>Abstract: We study a cooperative form of multi-agent reinforcement learning with state space dynamics and agent interaction controlled by an underlying graph. Each agent has a local state and action, the evolution of the local state depends only on the states and actions in the 1-hop neighborhood defined by the graph. Structured dynamics of this type arise in various applications, including network resource allocation, co-operative games, epidemic control, causal inference and wireless scheduling. The global state-action space scales exponentially in the number of agents, so computing global optimal policies is intractable in the worst-case. By controlling the propagation of influences via a Dobrushin-type stability matrix, we establish conditions under which local cooperative policies are approximately globally optimal, and provide an efficient procedure by which these local cooperative policies can be computed."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGNiN2dpY28wbWFhaWF2MzdyZ2YyaDQ3cWogZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGZ0cXJrcTM2ZzI2Y2twamt2NjdkMmczdWQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
   
 - type: "external-event"
   event-name: "ML Tea Talk"
