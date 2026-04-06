@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-04-05"
+  start-date-time: "2026-04-06 12:00"
+  end-date-time: "2026-04-06 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Noah Wolfe (MIT)<br>Title: Neural Bayesian updates to populations with growing gravitational-wave catalogs<br>Abstract: As gravitational-wave catalogs grow, they will become increasingly computationally expensive to analyze in their entirety, especially when inferring astrophysical source populations with high-dimensional, flexible models. Bayesian statistics offers a natural remedy, letting us update our knowledge of physical models as new data arrive, without re-analyzing existing data. However, doing so requires the posterior probability density of model parameters for previous observations, which is typically intractable. Here, we use variational neural posterior estimation to rapidly update the inferred population of binary black holes as data are observed in gravitational-wave detectors. We apply this approach to real and simulated catalogs analyzed with both low- and high-dimensional population models, testing the reliability of three update cadences: with new catalogs of sources, month by month during an observing run, and as each new signal arrives. We investigate the success and failure modes of neural sequential updates, finding that the robustness of updating is sensitive to the information contained in each update and that updating is most effective when performed with larger segments of data. We outline one additional scientific application enabled by Bayesian updating: identification of events that are individually informative about the population. Neural Bayesian updates to astrophysical population models also provide efficient likelihood representations for joint analyses with other data, e.g., standard-siren cosmology, and similar methods can be used to perform Bayesian stochastic background searches."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N280ODYyYWI2Z3Exbm8wZWpnZnFlajByYjcgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
   event-name: "ML Tea Talk"
   event-organizer: "ML Tea"
   more-info-link: "https://projects.csail.mit.edu/ml-tea/"
