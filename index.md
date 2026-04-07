@@ -230,6 +230,9 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+  ***Inspired by the white paper on the future of AI+Science (recently published in [Machine Learning: Science and Technology](https://iopscience.iop.org/article/10.1088/2632-2153/ae3e4e)), IAIFI Director Jesse Thaler shared his thoughts on this topic with MIT News.*** [Read the MIT News article here.](https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311) *March 11, 2026*
+  {:.info}
+    
   ***IAIFI Junior Investigator Christian Ferko receives Museum of Science digital communication fellowship.*** As a [2026 Museum of Science, Boston Digital Science Communication Fellow](https://www.linkedin.com/feed/update/urn:li:activity:7404902033381560321), Christian will participate in specialized training in strategic storytelling, digital content creation, civic trust, and evidence-based communication.  *December 11, 2025*
   {:.info}
     
