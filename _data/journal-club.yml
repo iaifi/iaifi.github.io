@@ -141,8 +141,8 @@
   start-date-time: "2026-04-16 13:00"
   end-date-time: "2026-04-16 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Interpreting Interpretability and Explaining Explainability in Physics + ML"
-  talk-abstract: "Details to come."
+  talk-title: "Interpreting  'Interpretability' and Explaining 'Explainability' in Machine Learning and Physics"
+  talk-abstract: "We review the concepts of interpretability and explainability as they apply to machine learning in physics. We define interpretability as concerning the structural transparency of a model (the ability to understand or approximate its inner workings) and explaining as concerning the scientific content of a model (the ability to map it onto domain knowledge). We discuss the trade-offs each entails (interpretability vs. expressivity; explainability vs. adaptability), the contexts in which each is needed, and the intrinsic and post-hoc tools available for achieving them. Throughout, we emphasize that ML models are subject to the same scientific questions as classical models, differing only in scale, and that interpretability and explainability are best understood as deliberate modeling choices rather than inherent properties. We also emphasize the importance of task specification and intervention plans as a core aspect of model design."
   slides-link:
   youtube-link:
   speaker-thrust: "physics experiment"
