@@ -22,7 +22,7 @@
   
 - type: "thematic-discussion"
   semester: "spring-2026"
-  speaker-names-affiliations: "Thomas Harvey (IAIFI Fellow), Jacob Adamczyk (IAIFI Junior Investigator, UMass Boston), Christina Reissel (IAIFI Fellow), Fabian Ruehle (Senior Investigator, Northeastern)"
+  speaker-names-affiliations: "Organized by Thomas Harvey (IAIFI Fellow); speakers including Jacob Adamczyk (IAIFI Junior Investigator, UMass Boston), Christina Reissel (IAIFI Fellow), and Fabian Ruehle (Senior Investigator, Northeastern)"
   speaker-title:
   speaker-affiliation:
   speaker-website:
@@ -31,11 +31,11 @@
   end-date-time: "2026-04-17 15:00"
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "Reinforcement Learning"
-  talk-abstract: "Details to come."
+  talk-abstract: "This session will begin with three lightning talks (10 minutes each, plus short Q&A) regarding different aspects of Reinforcement Learning, followed by a guided discussion. Speakers will include: Jacob Adamczyk (IAIFI Junior Investigator, UMass Boston), 'Statistical Mechanics and Reinforcement Learning'; Christina Reissel (IAIFI Fellow), 'Reinforcement Learning for Experimental Control: Taming the Tremors at LIGO'; and Fabian Ruehle (Senior Investigator, Northeastern), 'Gamifying Mathematics.' Check out the details for each lightning talk here: https://tinyurl.com/yaa2ae43 "
   slides-link:
   youtube-link:
   speaker-thrust:
-  speaker-gender: man
+  speaker-gender: 2 man, 1 woman
   talk-attendance-in-person:
   talk-attendance-virtual:
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NDBtdmIwcGtpdmg1ZWhvMHFsbDJpM212MDZfMjAyNjA0MTdUMTgwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
