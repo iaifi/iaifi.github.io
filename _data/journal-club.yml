@@ -124,11 +124,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Electronic quasicrystals in semiconductor quantum wells: an AI-powered discovery"
   talk-abstract: "The homogeneous electron gas is a cornerstone of quantum condensed matter physics, providing the foundation for developing density functional theory and understanding electronic phases in semiconductors. However, theoretical understanding of strongly-correlated electrons in realistic semiconductor systems remains limited. In this work, we develop a neural network based variational approach to study quantum wells in three dimensional geometry for a variety of electron densities and well thicknesses. Starting from first principles, our unbiased AI-powered method reveals metallic and crystalline phases with both monolayer and bilayer charge distributions. In the emergent bilayer, we discover a new quantum phase of matter: the electron quasicrystal. [1] ArXiv: 2512.10909"
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1L357v49AJyTgG-yIsdftqwo98STmoif3/view?usp=drive_link
   youtube-link:
   speaker-thrust: "Physics Theory"
   speaker-gender: "Man"
-  talk-attendance:  0 in person, 0 virtual
+  talk-attendance:  10 in person, 4 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjA0MDlUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
