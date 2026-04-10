@@ -36,7 +36,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 [Apply](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Accommodations
-Students for the Summer School have the option to reserve dorm rooms. IAIFI will reimburse the cost of 5 nights in the dorms after the Summer School, contingent upon attendance. Instructions for this will be provided to attendees in March.
+Students for the Summer School have the option to reserve dorm rooms. IAIFI will reimburse the cost of 5 nights in the dorms after the Summer School, contingent upon attendance. Instructions for this will be provided to attendees in April.
 
 ## Costs
 * There is no registration fee for the Summer School. Costs of dorm accommodations will be reimbursed by IAIFI, contingent upon attendance. Students for the Summer School are expected to cover the cost of travel. 
