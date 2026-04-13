@@ -1,3 +1,17 @@
+- type: "external-workshop"
+  event-name: "AstroAI Workshop 2026"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/workshop2026/details.html"
+  rsvp-link: "https://www.etix.com/ticket/p/85803898/"
+  event-post-date: "2026-04-12"
+  start-date-time: "2026-06-15 09:00"
+  end-date-time: "2026-06-18 17:00"
+  talk-location: "60 Garden Street, Cambridge, MA 02138"
+  talk-zoom:
+  event-details: "The AstroAI Workshop is designed to foster an environment of learning, collaboration, and innovation. Over the course of four days, participants will engage in a series of lectures and discussions led by experts in the fields of AI/ML and astrophysics, hands on sessions, talks by early career scientists in the field, and networking events. This workshop is an opportunity for early career scientists to deepen their understanding of foundational AI/ML models for astrophysical research, and their potential in unraveling the mysteries of the universe."
+  calendar-link:
+  registration-deadline:
+
 - type: "external-event"
   event-name: "UMB Physics Colloquium: Liang Fu (IAIFI Affiliate)"
   event-organizer: "UMass Boston"
@@ -47,6 +61,43 @@
   talk-zoom:
   event-details: "AI agents can now do real science — suggest and correct research directions, do challenging multistep technical computations, write and run code in any programming language, perform deep literature reviews, and teach us. We’ll show some examples of agentic AI tackling genuine state-of-the-art scientific problems, and how Harvard researchers are speeding up their workflows by a factor of 10 or more. Join the FAS and SEAS for a panel discussion with audience Q&A."
   calendar-link:
+  
+- type: "external-event"
+  event-name: "Open to MIT students: Q&A with Lovable co-founders Anton Osika and Fabian Hedin"
+  event-organizer: "MIT Generative AI Lab (15.S04)"
+  more-info-link: "https://mit-lovable-registration.lovable.app/"
+  event-post-date: "2026-04-12"
+  start-date-time: "2026-04-16 16:30"
+  end-date-time: "2026-04-16 17:30"
+  talk-location: "MIT Room 34-101"
+  talk-zoom:
+  event-details: "Lovable co-founders Anton Osika and Fabian Hedin are visiting MIT. Course 15.S04 - Generative AI Lab is hosting Lovable co-founders Anton Osika (CEO) and Fabian Hedin (CTO) in person for a talk on campus on Thursday, April 16. While the 15.S04 students have a guaranteed spot we are also opening the talk to the wider campus until it fills up. You can register here (https://mit-lovable-registration.lovable.app/). There will be a good amount of time for direct Q&A with the mics so we definitely encourage anyone interested in agentic app layer products, the startup itself, or their founder journey to becoming the fastest growing startup of all time ($100M+ ARR in < 8 months) to attend."
+  rsvp-link: https://mit-lovable-registration.lovable.app/
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2026-04-12"
+  start-date-time: "2026-04-13 16:00"
+  end-date-time: "2026-04-13 17:00"
+  talk-location: "MIT Room 32-G449 (Kiva), and Zoom"
+  talk-zoom: "https://mit.zoom.us/j/98356094310"
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker 1: Linghao Kongbr>Title: Negative Pre-activations Differentiate Syntax<br>Abstract: Modern large language models increasingly use smooth activation functions such as GELU or SiLU, allowing negative pre-activations to carry both signal and gradient. Nevertheless, many neuron-level interpretability analyses have historically focused on large positive activations, often implicitly treating the negative region as less informative, a carryover from the ReLU-era. We challenge this assumption and ask whether and how negative pre-activations are functionally utilized. We address this question by studying a sparse subpopulation of Wasserstein neurons whose output distributions deviate strongly from a Gaussian baseline and that functionally differentiate similar inputs. We show that this negative region plays a functional role rather than reflecting a mere gradient optimization side effect. A minimal, sign-specific intervention that zeroes only the negative pre-activations of a small set of Wasserstein neurons substantially increases perplexity and sharply degrades grammatical performance on BLiMP and TSE, whereas both random and perplexity-matched ablations of many more non-Wasserstein neurons in their negative pre-activations leave grammatical performance largely intact. Conversely, on a suite of non-grammatical benchmarks, the perplexity-matched control ablation is more damaging than the Wasserstein neuron ablation, yielding a double dissociation between syntax and other capabilities. Part-of-speech analysis localizes the excess surprisal to syntactic scaffolding tokens, layer-specific interventions show that small local degradations accumulate across depth, and training-dynamics analysis reveals that the same sign-specific ablation becomes more harmful as Wasserstein neurons emerge and stabilize. Together, these results identify negative pre-activations in a sparse subpopulation of Wasserstein neurons as an actively used substrate for syntax in smooth-activation language models. <br>Speaker 2: Ekaterina Federova<br>Title: Can Users Fix Algorithms? A Game-Theoretic Analysis of Collective Content Amplification in Recommender Systems<br>Abstract: Users of social media platforms based on recommendation systems (RecSys) (e.g. TikTok, X, YouTube) strategically interact with platform content to influence future recommendations. On some such platforms, users have been documented to form large-scale grassroots movements encouraging others to purposefully interact with algorithmically suppressed content in order to counteractively 'boost' its recommendation. However, despite widespread documentation of this phenomenon, there is little theoretical work analyzing its impact on the platform or users themselves. We study a game between users and a RecSys, where users (potentially strategically) interact with the content available to them, and the RecSys---limited by preference learning ability---provides each user her approximately most-preferred item. We compare recommendations and social welfare when users interact with content according to their personal interests and when a collective of users intentionally interacts with an otherwise suppressed item. We provide sufficient conditions to ensure a pareto improvement in recommendations and strict increases in user social welfare under collective interaction, and provide a robust algorithm to find an effective collective strategy. Interestingly, despite the intended algorithmic protest of these movements, we show that for commonly assumed recommender utility functions, effective collective strategies also improve the utility of the RecSys. Our theoretical analysis is complemented by empirical results of effective collective interaction strategies on the GoodReads dataset and an online survey on how real-world users attempt to influence others' recommendations on RecSys platforms. Our findings examine how and when platforms' recommendation algorithms may incentivize users to collectivize and interact with content in algorithmic protest as well as what this collectivization means for the platform."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdyODE5MzAxNGVoY240c3ZhbjJ2bDlsMTMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-04-12"
+  start-date-time: "2026-04-13 12:00"
+  end-date-time: "2026-04-13 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Aryana Haghjoo (UC Riverside)<br>Title: Learning to See Sharper: A Physics-Informed Artificial Intelligence Framework for Super-Resolving Galaxy Spectra<br>Abstract: The information recoverable from galaxy spectra depends fundamentally on spectral resolution, yet assembling large samples at high resolution remains observationally expensive. We present a deep-learning framework for spectral super-resolution that enhances low-resolution galaxy spectra by a factor of ∼10 in resolving power (R ∼ 100 to R ∼ 1000). The model is trained on 1,187 paired JWST/NIRSpec observations from the JADES program, where low-resolution prism spectra are matched with medium-resolution grating spectra (G140M, G235M, G395M) combined into a unified reference covering 1–5μm. Our three-stage architecture performs an initial super-resolution, infers the redshift from the coarse reconstruction, and then applies a physics-informed residual refinement that uses attention across emission-line tokens to learn inter-line relationships and predict parametric line profiles, alongside a convolutional branch for continuum corrections. Evaluated on a 20% held-out sample, the model achieves noise-limited residuals over most of the spectral range and systematically improves the signal-to-noise ratio of key diagnostic lines including [O II], Hβ, [O III], and Hα, often by factors of several. The super-resolved spectra successfully deblend features that are entirely unresolved at prism resolution, such as the [O III] λλ4959, 5007 doublet and Hβ. As a proof of concept using JWST data, this approach is readily extensible to the low-resolution grism spectroscopy that will be delivered by Euclid and the Roman Space Telescope, potentially enabling population-level diagnostics across millions of galaxy spectra that would otherwise be inaccessible at low-resolution."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGhvNzg2dTMyZWNyZG9qaTNkODdmY2NkMzMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
 
 - type: "external-event"
   event-name: "AstroAI Lunch Talk"
