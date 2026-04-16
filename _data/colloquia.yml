@@ -84,8 +84,8 @@
   start-date-time: "2026-04-24 14:00"
   end-date-time: "2026-04-24 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
-  talk-abstract:
+  talk-title: "LLM Processes: Incorporating Expert Priors into Scientific Modeling via Natural Language"
+  talk-abstract: "Scientists and machine learning practitioners often struggle to formally integrate prior knowledge into predictive models, with probabilistic modeling expertise typically limited to specialists. In this talk, we present a regression model that processes numerical data and makes probabilistic predictions guided by natural language descriptions of prior knowledge. Large Language Models (LLMs) provide an ideal foundation for this tool, allowing experts to incorporate their domain-specific understanding and empirical insights through natural language, while leveraging the LLM's latent problem-relevant knowledge. We explore strategies for eliciting explicit numerical predictive distributions from LLMs, which we call LLM Processes, and the rich hypothesis space implicitly encoded in LLMs."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjA0MjRUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
