@@ -8,7 +8,7 @@ arxiv: "2505.16777"
 date-updated: 2026-03-31
 journal: Journal of Instrumentation, Volume 21, February 2026
 doi: https://doi.org/10.1088/1748-0221/21/02/P02020
-nsf-par:
+nsf-par: 10668687
 code: https://github.com/jessimic/LowEnergyNeuralNetwork
 publication-date:
 bib-tex: |

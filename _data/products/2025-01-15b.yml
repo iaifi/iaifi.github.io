@@ -7,7 +7,7 @@ abstract: "The average-reward formulation of reinforcement learning (RL) has dra
 arxiv: "2501.09080"
 journal: "Reinforcement Learning Journal, 2025"
 doi: https://openreview.net/pdf?id=ywygpSXlHG
-nsf-par:
+nsf-par: 10677537
 date-updated: 2026-03-31
 code:
 publication-date: 2025-05-09
