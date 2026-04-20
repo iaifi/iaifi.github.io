@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2026-04-09
+title: "High-dimensional inference for the γ-ray sky with differentiable programming"
+authors: "Siddharth Mishra-Sharma, Tracy R. Slatyer, Yitian Sun, Yuqing Wu"
+abstract: "We motivate the use of differentiable probabilistic programming techniques in order to account for the large model-space inherent to astrophysical γ-ray analyses. Targeting the longstanding Galactic Center γ-ray Excess (GCE) puzzle, we construct differentiable forward model and likelihood that make liberal use of GPU acceleration and vectorization in order to simultaneously account for a continuum of possible spatial morphologies consistent with the GCE emission in a fully probabilistic manner. Our setup allows for efficient inference over the large model space using variational methods. Beyond application to γ-ray data, a goal of this work is to showcase how differentiable probabilistic programming can be used as a tool to enable flexible analyses of astrophysical datasets."
+arxiv: "2604.08648"
+date-updated: 2026-04-20
+journal:
+doi:
+nsf-par:
+code: https://github.com/smsharma/fermi-prob-prog
+publication-date:
+bib-tex: |
+  @article{mishrasharma2026highdimensionalinferencegammaraysky,
+      title={High-dimensional inference for the $\gamma$-ray sky with differentiable programming},
+      author={Siddharth Mishra-Sharma and Tracy R. Slatyer and Yitian Sun and Yuqing Wu},
+      year={2026},
+      eprint={2604.08648},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2604.08648},
+  }
