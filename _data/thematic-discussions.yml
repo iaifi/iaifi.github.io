@@ -32,9 +32,9 @@
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "Reinforcement Learning"
   talk-abstract: "This session will begin with three lightning talks (10 minutes each, plus short Q&A) regarding different aspects of Reinforcement Learning, followed by a guided discussion. Speakers will include: Jacob Adamczyk (UMass Boston), 'Statistical Mechanics and Reinforcement Learning'; Christina Reissel (IAIFI Fellow), 'Reinforcement Learning for Experimental Control: Taming the Tremors at LIGO'; and Fabian Ruehle (Northeastern), 'Gamifying Mathematics.' Check out the details for each lightning talk here: https://tinyurl.com/yaa2ae43 "
-  slides-link:
-  youtube-link:
-  speaker-thrust:
+  slides-link: https://drive.google.com/drive/folders/1HNGCk9TiPOgtUA0w3EOKujT3eC9yGXvH?usp=drive_link
+  youtube-link: https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=sharing
+  speaker-thrust: 
   speaker-gender: 2 man, 1 woman
   talk-attendance-in-person:
   talk-attendance-virtual:
