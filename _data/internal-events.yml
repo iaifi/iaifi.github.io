@@ -44,17 +44,14 @@
   
 - type: "forum"
   event-name: "IAIFI Community Forum"
-  event-post-date: "2026-03-01"
-  start-date-time: "2026-03-12 15:00"
-  end-date-time: "2026-03-12 16:00"
+  event-post-date: "2026-04-19"
+  start-date-time: "2026-04-29 14:00"
+  end-date-time: "2026-04-29 15:00"
   talk-location: "Zoom"
-  talk-zoom: https://mit.zoom.us/j/93955670791?pwd=sTjnl6p9WTPRbmEFnTLMSgux5BZGl4.1
+  talk-zoom:
   event-details: "The IAIFI Community Forum is open to any members of IAIFI to contribute ideas or feedback on topics related to building a dynamic AI+Physics community, including social events, industry-academia collaboration, public engagement, etc. The agenda for this week includes: <br>
-    - April 3 Spring Social<br>
-    - Summer School Social in August<br>
-    - Member-led Social Events<br>
-    - IAIFI Industry Day on August 14"
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MTBybTBjb2ptcnRua25ja3BmNWJqOGVyaXUgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+    - Details to come"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MHRsZjZyNDUxaWNxcjNuM2ZrY2ZybjNwZnEgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   rsvp-link:
   more-info-link: https://docs.google.com/document/d/1Rht-4gEcX-yStVuzDKLNZYE9U_3FQgDp_lA9eURZwD8/edit?usp=sharing
   priority: high
@@ -74,6 +71,47 @@
   priority: high
   
 #Above this are very high-priority or standing events, such as the Forums, the semesterly Social, and the Summer School & Workshop.
+
+- type: "industry-lunch"
+  event-name: "Industry Lunch with Rick Grinnell (Glasswing Ventures)"
+  event-committee: "the IAIFI Talent Forum"
+  event-post-date: "2026-04-19"
+  start-date-time: "2026-05-01 12:30"
+  end-date-time: "2026-05-01 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom: https://mit.zoom.us/j/91321571982?pwd=azFxU2U1WHdJS2ZsaFhMRENSb2FRUT09
+  event-details: "During this lunch, Rick will discuss his path from an electrical engineering background to venture capital and share his perspective on how AI is reshaping both enterprise infrastructure and cybersecurity. Rick is the Founder and Managing Partner of Glasswing Ventures, a firm he co-founded in 2016 focused on AI-enabled security and enterprise infrastructure.<br>He holds BS and MS degrees in Electrical Engineering from MIT and an MBA from Harvard Business School. Prior to Glasswing, he was a Managing Director at Fairhaven Capital, where he led investments in great companies like EqualLogic (acquired by Dell) and Resilient Systems (acquired by IBM).<br>Rick will also reflect on how technical training informs early-stage investing, the intersection of AI across enterprise and security domains, and which skills from academia translate most directly into building and evaluating technology companies."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2hxajJhdGkxdGkwY2diaGlrbTM4NGJidGVfMjAyNjA1MDFUMTYzMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link: https://www.linkedin.com/in/rickgrinnell/
+  attendance: 0 in person, 0 online
+
+- type: "social"
+  event-name: "IAIFI Co-Working Session"
+  event-committee: "the IAIFI Community Forum"
+  event-post-date: "2026-04-19"
+  start-date-time: "2026-05-01 14:00"
+  end-date-time: "2026-05-01 16:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "This is an opportunity for IAIFI members to meet up for an informal co-working session. The Penthouse space will be set up for collaboration and conversation, along with refreshments. Feel free to stop by for a short time, or stay for the whole session."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2gzZmxsamZxa3VvMWh2MTlzdGxsaTJsanNfMjAyNjA1MDFUMTkwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+  
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "the IAIFI Community Forum"
+  event-post-date: "2026-04-26"
+  start-date-time: "2026-04-30 14:00"
+  end-date-time: "2026-04-30 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=YWJyOTU4aTQzbHVlYzE2M3JvMDUzYTVjMnNfMjAyNjA0MzBUMTgwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  more-info-link:
 
 - type: "social"
   event-name: "Post-Colloquium Social"
