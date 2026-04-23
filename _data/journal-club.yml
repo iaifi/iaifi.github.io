@@ -174,16 +174,16 @@
   speaker-name: "Hosea Siu"
   speaker-title: "Technical Staff"
   speaker-affiliation: "MIT Lincoln Laboratory"
-  speaker-website: "https://www.linkedin.com/in/hosea-siu/"
+  speaker-website: "https://www.ll.mit.edu/biographies/ho-chit-siu"
   speaker-photo-location:
   start-date-time: "2026-04-30 13:00"
   end-date-time: "2026-04-30 14:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Title to come."
-  talk-abstract: "Details to come."
+  talk-title: "How Interpretable Is 'Interpretable' Machine Learning?"
+  talk-abstract: "The modern machine learning (ML) revolution has led to ML systems deployed at scale for the first time, substantially impacting society beyond computer science experts. It is critical that these systems are integrated appropriately with minimal negative side effects, and an important component of this goal is identifying whether these tools are interpretable by humans. Formal methods is a computer science discipline that may address this problem via mathematically grounded techniques for specifying and verifying the desired operation of software and hardware systems. In the ML context, ML systems may be designed to output a set of formal specifications that describe precisely what they learned, which can then be translated into a set of natural language rules. A widespread belief in the formal methods community is that the use of their approaches in machine learning lends interpretability to systems, making their reasoning understandable by humans. We evaluate the claim that formal specifications are interpretable by humans via an experiment with sixty-two participants. We describe the format of the study, provide statistical analysis of the results, and recommend modifications to researchers’ claims and ergonomic improvements to data presentation and validation training. We also describe one method based on crowd voting that helps ameliorate many of these issues under specific circumstances."
   slides-link:
   youtube-link:
-  speaker-thrust: ""
+  speaker-thrust: "foundational ai"
   speaker-gender: "Man"
   talk-attendance:  0 in person, 0 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjA0MzBUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
