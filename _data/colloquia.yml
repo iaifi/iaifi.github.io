@@ -87,11 +87,11 @@
   talk-title: "LLM Processes: Incorporating Expert Priors into Scientific Modeling via Natural Language"
   talk-abstract: "Scientists and machine learning practitioners often struggle to formally integrate prior knowledge into predictive models, with probabilistic modeling expertise typically limited to specialists. In this talk, we present a regression model that processes numerical data and makes probabilistic predictions guided by natural language descriptions of prior knowledge. Large Language Models (LLMs) provide an ideal foundation for this tool, allowing experts to incorporate their domain-specific understanding and empirical insights through natural language, while leveraging the LLM's latent problem-relevant knowledge. We explore strategies for eliciting explicit numerical predictive distributions from LLMs, which we call LLM Processes, and the rich hypothesis space implicitly encoded in LLMs."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjA0MjRUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
-  slides-link:
-  youtube-link:
+  slides-link: https://www.dropbox.com/scl/fi/7cblgbcr2rfem5xd8lyxh/2026_04_24_IAIFIColloquium_Requeima.pdf?rlkey=gp4z86qy50ciivpy8pc33mbym&st=apl19ig2&dl=0
+  youtube-link: https://www.youtube.com/live/rZRJsJ63C5I?si=hudVC9eatWp0MFgf
   speaker-thrust: "foundational AI"
   speaker-gender: "man"
-  talk-attendance: 0 in person, 0 virtual
+  talk-attendance: 24 in person, 32 virtual
   
 - type: "colloquium"
   semester: "spring-2026"
