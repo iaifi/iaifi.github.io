@@ -441,7 +441,15 @@ We have established discounted rates for August 9–August 15, 2026 at the follo
 
   [Book online](https://www.marriott.com/event-reservations/reservation-link.mi?id=1775327335150&key=GRP&app=resvlink&_branch_match_id=1559583832159949376&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uamxkbmxsamhqYFadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAY%2BYmpGAAAAA%3D)
   
-* *More to be added*
+    [Book online](https://www.marriott.com/event-reservations/reservation-link.mi?id=1774637159492&key=GRP&app=resvlink&_branch_match_id=1559583832159949376&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uYmZsbmhqaWJpZFadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioA1OpqWGAAAAA%3D)
+
+* <b>Hyatt Regency<b>, 575 Memorial Drrive, Cambridge, Massachusetts, 02139-4896.
+    
+    $219 nightly rate
+    
+    Deadline to book; 11:59 PM on Thursday, 06/25/2026
+
+  [Book online]([https://www.marriott.com/event-reservations/reservation-link.mi?id=1775327335150&key=GRP&app=resvlink&_branch_match_id=1559583832159949376&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uamxkbmxsamhqYFadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAY%2BYmpGAAAAA%3D](https://www.hyatt.com/events/en-US/group-booking/BOSRC/G-IAIF))
 
 
 ## FAQ 
