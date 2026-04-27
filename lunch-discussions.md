@@ -7,7 +7,7 @@ aside:
 <!-- Note that this pulls data from the journal-club.yml file, as of January 2026. There is no lunch-discussions.yml file.-->
 The IAIFI Lunch Discussions are open to IAIFI members and affiliates. *Formerly called the IAIFI Journal Club.*
 
-[Suggest a discussion topic, or sign up to lead a discussion!](https://forms.gle/zfpT4QQdXg8tu6VB7)
+[Suggest a discussion topic, or sign up to lead a discussion.](https://forms.gle/zfpT4QQdXg8tu6VB7)
 
 {% assign now = 'now' | date: '%s' | plus: 0 %}
 
