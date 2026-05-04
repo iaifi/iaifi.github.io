@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-04-29
+title: "Man, Machine, and Mathematics"
+authors: "Akshunna S. Dogra"
+abstract: "Nonlinear models and optimization methods have successfully tackled a rapidly growing set of problems in recent years. Indeed, a relatively small toolbox of such models and methods can provide sufficient performance across a large landscape of tasks: deep learning alone has made significant recent contributions in scientific modelling, natural language processing, visual analysis, etc. A similar relationship exists between physical theories and phenomena, where many applications and observations emerge neatly from remarkably minimal foundations. It is natural to wonder if sparse unified frameworks could be built to steer discussion and discovery in the fields concerned with learning, optimization, and modelling. In this work, we posit and examine a possible outline for such a unified theory, interpreting the notion of ''learning'' in a broad sense. In particular, we pursue our goals by viewing learning as an inter-connected process on multiple levels: problem setup, choosing methods, and the analysis of their interplay via imposed optimisation dynamics. We begin by proposing a precise yet versatile definition for ''solvable'' problems. We then define the ''parametrised methods'' by which their solution(s) may be ''learned''. Our goal is to sketch a ''universal convergence theorem'', specifying how and when solvable problems become amenable to the methods chosen for them. We find these constructions reduce the study of learning down to remarkably few ideas and tools - many of which are simply adapted from existing ones in dynamical systems theory, geometry, and fundamental physics."
+arxiv: "2604.27052"
+date-updated: 2026-05-04
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{dogra2026manmachinemathematics,
+      title={Man, Machine, and Mathematics},
+      author={Akshunna S. Dogra},
+      year={2026},
+      eprint={2604.27052},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2604.27052},
+  }
