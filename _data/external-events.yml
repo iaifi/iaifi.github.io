@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "ML Tea Talk"
+  event-organizer: "ML Tea"
+  more-info-link: "https://projects.csail.mit.edu/ml-tea/"
+  event-post-date: "2026-05-11"
+  start-date-time: "2026-05-11 16:00"
+  end-date-time: "2026-05-11 17:00"
+  talk-location: "MIT Room G449 (Kiva), and Zoom"
+  talk-zoom: "https://mit.zoom.us/j/93991762609"
+  event-details: "ML Tea Talks are informal sessions featuring members of MIT’s machine learning community sharing their latest research and ideas. Everyone is welcome to attend!<br>Speaker: Jianming Tong<br>Title: Enabling ASIC AI Chips for Cryptography Primitives<br>Abstract: ECryptography-based applications powered a $3.5T market in 2025, yet demand for cryptographic computation already outpaces today’s available compute by roughly 10x. Closing this gap will require not just more hardware, but a new way to unlock far more performance from the hardware we already have. In this talk, we will introduce CROSS[HPCA’26] and MORPH[DAC’26], which develop compiler transformations that map cryptographic workloads—homomorphic encryption (HE) for privacy-preserving AI and zero-knowledge proofs (ZKP) for cryptocurrency—onto AI ASICs (Google TPUs), achieving up-to 10x higher throughput than SoTA GPUs/FPGAs, without hardware changes. More broadly, our insight is that dedicated hardware (ASICs such as Google’s TPU) shouldn’t be pigeonholed by their original intent (“AI-only”), but by their computational capabilities (high-throughput matrix/vector engines and coarse-grained memory reordering). A compiler can systematically retarget non-AI domains onto these capabilities, expanding what “AI ASICs” can accelerate."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjRmbzMyYzlrMnVjNW00aGg1ODlxOGRwdDUgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "Special cosmology seminar/practice job talk"
   event-organizer: "Roger de Belsunce (CTP-LI)"
   more-info-link:
