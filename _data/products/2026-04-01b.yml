@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-04-01
+title: "Descending into the Modular Bootstrap"
+authors: "Nathan Benjamin, A. Liam Fitzpatrick, Wei Li, Jesse Thaler"
+abstract: "In this paper, we attempt to explore the landscape of two-dimensional conformal field theories (2d CFTs) by efficiently searching for numerical solutions to the modular bootstrap equation using machine-learning-style optimization. The torus partition function of a 2d CFT is fixed by the spectrum of its primary operators and its chiral algebra, which we take to be the Virasoro algebra with c>1. We translate the requirement that this partition function is modular invariant into a loss function, which we then minimize to identify possible primary spectra. Our approach involves two technical innovations that facilitate finding reliable candidate CFTs. The first is a strategy to estimate the uncertainty associated with truncating the spectrum to the lowest dimension operators. The second is the use of a new singular-value-based optimizer (Sven) that is more effective than gradient descent at navigating the hierarchical structure of the loss landscape. We numerically construct candidate truncated CFT partition functions with central charges between 1 and 87, a range devoid of known examples, and argue that these candidates likely come from a continuous space of modular bootstrap solutions. We also provide evidence for a more stringent constraint on the spectral gap near c=1 than the existing bound of Δgap≤c6+13."
+arxiv: "2604.01275"
+date-updated: 2026-05-10
+journal:
+doi:
+nsf-par:
+code: http://github.com/jdthaler/modular-bootstrap
+publication-date:
+bib-tex: |
+  @article{benjamin2026descendingmodularbootstrap,
+      title={Descending into the Modular Bootstrap},
+      author={Nathan Benjamin and A. Liam Fitzpatrick and Wei Li and Jesse Thaler},
+      year={2026},
+      eprint={2604.01275},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2604.01275},
+  }

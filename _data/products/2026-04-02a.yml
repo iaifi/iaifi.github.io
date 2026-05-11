@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2026-04-02
+title: "Many Wrongs Make a Right: Leveraging Biased Simulations Towards Unbiased Parameter Inference"
+authors: "Ezequiel Alvarez, Sean Benevedes, Manuel Szewc, Jesse Thaler"
+abstract: "In particle physics, as in many areas of science, parameter inference relies on simulations to bridge the gap between theory and experiment. Recent developments in simulation-based inference have boosted the sensitivity of analyses; however, biases induced by simulation-data mismodeling can be difficult to control within standard inference pipelines. In this work, we propose a Template-Adapted Mixture Model to confront this problem in the context of signal fraction estimation: inferring the population proportion of signal in a mixed sample of signal and background, both of which follow arbitrarily complex distributions. We harness many biased simulations to perform data-driven estimates of each process distribution in the signal region, substantially reducing the bias on the signal fraction due to the domain shift between simulation and reality. We explore different methodological choices, including model selection, feature representation, and statistical method, and apply them to a Gaussian toy example and to a semi-realistic di-Higgs measurement. We find that the presented methods successfully leverage the biased simulations to provide estimates with well-calibrated uncertainties."
+arxiv: "2604.02219"
+date-updated: 2026-05-10
+journal:
+doi:
+nsf-par:
+code: https://github.com/sequi76/TAMM
+publication-date:
+bib-tex: |
+  @article{alvarez2026wrongsmakerightleveraging,
+      title={Many Wrongs Make a Right: Leveraging Biased Simulations Towards Unbiased Parameter Inference},
+      author={Ezequiel Alvarez and Sean Benevedes and Manuel Szewc and Jesse Thaler},
+      year={2026},
+      eprint={2604.02219},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2604.02219},
+  }
