@@ -11,6 +11,17 @@ aside:
 --->
 ## 2026–2029 IAIFI Fellows
 
+### [Adrian Bayer](mailto:abayer@princeton.edu)
+<img src="images/small-photo-adrian-bayer.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Adrian works at the intersection of cosmology, statistical inference, and machine learning, developing methods to extract fundamental physics from large-scale structure and cosmic microwave background surveys. His research focuses on field-level inference: analyzing cosmological data directly at the level of maps and three-dimensional density fields, rather than only through compressed summary statistics. This enables the reconstruction of the Universe’s initial conditions, the end-to-end propagation of survey systematics, and access to information that is otherwise lost in traditional analyses.
+
+Adrian’s work combines differentiable physical simulations, simulation-based inference, and symmetry-aware neural networks to build machine-learning methods that are powerful, robust, and physically interpretable. Adrian is actively applying and extending these methods to baryon acoustic oscillation reconstruction, weak gravitational lensing, and CMB analyses, to build unified, physics-informed AI tools for Stage-IV surveys. Across these efforts, he is especially focused on multi-probe and multimodal inference: developing methods that can jointly analyze galaxies, lensing, and the CMB to extract sharper constraints on neutrino masses, dark energy, and other signatures of fundamental physics, while maximizing the scientific return of next-generation cosmological data.
+
+He is also broadly interested in applying machine learning and AI throughout physics, including the development of AI agents to accelerate scientific discovery.
+
+**Biographical Sketch**: Adrian is primarily a cosmologist who specializes in simulating and analyzing the large-scale structure of the universe and the cosmic microwave background. Before joining IAIFI, Adrian was a joint postdoctoral fellow at the Center for Computational Astrophysics at the Flatiron Institute and Princeton University. Previously, he completed his PhD in Physics at UC Berkeley, after a Master's in Applied Mathematics at the University of Cambridge, and an undergraduate degree in Physics at Imperial College London. Adrian grew up in the UK and spends his time outside of research enjoying film, music, hiking, and sports (especially football/soccer). During his time at IAIFI, Adrian will hold a joint fellowship position with the Perimeter Institute for Theoretical Physics. 
+
 ### [Akshunna Dogra](mailto:adogra@mit.edu)
 <img src="images/small-photo-akshunna-dogra.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
@@ -24,6 +35,27 @@ aside:
 **Research Interests**: Mathis Gerdes is interested in developing machine learning tools to address foundational challenges in theoretical physics. His work focuses on complex sampling problems, applying generative models to lattice quantum field theory and exploring how physical principles can inform advancements in machine learning. He has pioneered methods for learning Ricci-flat metrics on Calabi-Yau manifolds and contributed to simulation-based inference techniques for studying stellar streams, which may provide insights into the distribution of dark matter in the galaxy.
 
 **Biographical Sketch**: Mathis Gerdes is currently finishing his PhD in theoretical physics at the University of Amsterdam. His research spans lattice quantum field theory, Calabi-Yau geometry, and statistical inference leveraging machine learning methods. Previously, he earned an MSc in Theoretical and Mathematical Physics from LMU Munich and an MSc in artificial intelligence from the University of Edinburgh, following undergraduate studies in physics at the University of Göttingen.
+
+### [Nicole Hartman](mailto:nicole.hartman@tum.de)
+<img src="images/small-photo-nicole-hartman.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Nicole Hartman is a particle physicist working with data from the Large Hadron Collider. Her research interests include scaling up ML models and training datasets, and building a foundation model for particle physics with interpretable building blocks. She is excited to use this particle physics foundation model to understand the Higgs boson and help obtain the first evidence for the Higgs self-coupling, which governs the stability of the universe.
+
+**Biographical Sketch**: Nicole originally hails from Dallas, TX, with a bachelor's degree from Southern Methodist University. Her PhD brought her to Stanford, California, with a three-year stint in Geneva, Switzerland, to work at CERN and traipse through the Swiss Alps. She’s since done a post-doc at the ORIGINS Science Lab in Munich, Germany.  Research and life are like a book that you read and write at the same time. Nicole also loves dancing, reading, hiking, traveling, meeting new people, and connecting with old friends.
+
+### [Jacob Nibauer](mailto:jnibauer@princeton.edu)
+<img src="images/small-photo-jacob-nibauer.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Jacob Nibauer is interested in astrophysical probes of dark matter, and has developed flexible methods to map dark matter using stellar stream dynamics. During his PhD, he developed physics-informed neural networks to infer the galactic acceleration field from stellar stream data, finding that the inner dark matter halo of the Galaxy is misaligned with the disk. Jacob has utilized advancements in machine learning, particularly automatic differentiation, to develop efficient perturbative descriptions of stellar stream morphology across distinct dark matter theories. By leveraging the structure of Milky Way streams, he aims to infer the abundance of dark matter substructure in the galaxy and thereby constrain the nature of the dark matter particle. Beyond his core astrophysics research, Jacob develops machine learning methods for scientific inference, including simulation-based inference, physics-informed density field modeling with neural ordinary differential equations, and differentiable physics simulations.
+
+**Biographical Sketch**: Jacob Nibauer is finishing his PhD in Astrophysical Sciences at Princeton University, where he has worked with a wide variety of physicists, dynamicists, and cosmologists to advance stellar streams as precision dynamical probes of dark matter. He received a Bachelor of Arts in physics from the University of Pennsylvania, and has greatly enjoyed developing statistical and machine learning-based methods for modeling astrophysical systems. In addition to his participation at IAIFI, Jacob is also a fellow at the Institute for Theory and Computation at Harvard.
+
+### [Christina Reissel](mailto:creissel@mit.edu)
+<img src="images/small-photo-christina-reissel-spring2026.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
+
+**Research Interests**: Christina Reissel works at the intersection of gravitational-wave astronomy, particle physics, and AI, focusing on time series analysis: separating structure from noise, inferring dynamical processes, and identifying rare events in data from some of the world's most sensitive instruments. Her vision is to embed AI deep into the data-taking chain, enabling real-time autonomous optimization that drives current and future observatories toward their fundamental sensitivity limits.
+
+**Biographical Sketch**: Christina Reissel completed her Ph.D. in Particle Physics at ETH Zürich in 2024. She holds an M.Sc. in Physics from ETH Zürich and a B.Sc. in Physics from the University of Göttingen, Germany. Prior to becoming an IAIFI Fellow, Christina was a Postdoctoral Fellow at MIT supported by the Swiss National Science Foundation's Postdoc.Mobility Fellowship.
 
 ## 2025–2028 IAIFI Fellows
 
