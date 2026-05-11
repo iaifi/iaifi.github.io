@@ -16,7 +16,7 @@ We are pleased to share that we will have [four new Fellows](https://iaifi.org/c
 <img src="https://iaifi.org/images/small-photo-adrian-bayer.jpg" align="left" style="max-width:5990px;width:20%" hspace="10" vspace="5"> 
 **Adrian Bayer**
 
-Before joining IAIFI, Adrian was a joint postdoctoral fellow at the Center for Computational Astrophysics at the Flatiron Institute and Princeton University. Adrian's research interests include cosmology, astrophysics, machine learning, and agentic AI. His work is at the intersection of cosmology, statistical inference, and machine learning, developing methods to extract fundamental physics from large-scale structure and cosmic microwave background surveys.
+Before joining IAIFI, Adrian was a joint postdoctoral fellow at the Center for Computational Astrophysics at the Flatiron Institute and Princeton University. Adrian's work is at the intersection of cosmology, statistical inference, and machine learning, developing methods to extract fundamental physics from large-scale structure and cosmic microwave background surveys.
 
 <br>
 
@@ -30,7 +30,7 @@ Nicole is a particle physicist working with data from the Large Hadron Collider.
 <img src="https://iaifi.org/images/small-photo-jacob-nibauer.jpg" align="left" style="max-width:5990px;width:20%" hspace="10" vspace="5"> 
 **Jacob Nibauer**
 
-Jacob is finishing his PhD in Astrophysical Sciences at Princeton University, where he has worked with a wide variety of physicists, dynamicists, and cosmologists to advance stellar streams as precision dynamical probes of dark matter. His research interests include dark matter, dynamical systems, and particle astrophysics. During his PhD, he developed physics-informed neural networks to infer the galactic acceleration field from stellar stream data, finding that the inner dark matter halo of the Galaxy is misaligned with the disk.
+Jacob is finishing his PhD in Astrophysical Sciences at Princeton University, where he has worked with a wide variety of physicists, dynamicists, and cosmologists to advance stellar streams as precision dynamical probes of dark matter. During his PhD, he developed physics-informed neural networks to infer the galactic acceleration field from stellar stream data, finding that the inner dark matter halo of the Galaxy is misaligned with the disk.
 
 <br>
 
@@ -39,7 +39,7 @@ Jacob is finishing his PhD in Astrophysical Sciences at Princeton University, wh
 
 Prior to becoming an IAIFI Fellow, Christina was a Postdoctoral Fellow at MIT supported by the Swiss National Science Foundation's Postdoc.Mobility Fellowship. She works at the intersection of gravitational-wave astronomy, particle physics, and AI, focusing on time series analysis: separating structure from noise, inferring dynamical processes, and identifying rare events in data from some of the world's most sensitive instruments. 
 
-<br>
+<br><br>
 
 We look forward to welcoming our incoming Fellows in Fall 2026!
 
