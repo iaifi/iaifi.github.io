@@ -127,9 +127,9 @@
   event-post-date: "2026-04-05"
   start-date-time: "2026-05-12 11:00"
   end-date-time: "2026-05-12 12:00"
-  talk-location: "ISC-1200"
+  talk-location: "UMass Boston, ISC-1200"
   talk-zoom:
-  event-details: "Talk details to come."
+  event-details: "Title: AI from First-Principles: a Foundation Model for Quantum Matter<br>Abstract: The properties of all materials—from semiconductors to superconductors—ultimately emerge from quantum mechanics at the microscopic scale. Can AI learn directly from the laws of physics without training data and predict material properties? In this talk, I will present a neural-network approach that variationally solves the many-electron Schrödinger equation and uncovers diverse quantum phases of matter. Using a single, provably universal Fermi architecture, this approach has led to the discovery of a quantum electron quasicrystal and the crystallization of fractional quantum Hall liquids. I will also discuss the prospect of a Large Electron Model: a foundation model for matter, with applications spanning molecules, materials, and quantum hardware."
   calendar-link:
 
 - type: "external-event"
