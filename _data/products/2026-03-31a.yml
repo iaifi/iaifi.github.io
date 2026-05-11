@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2026-03-31
+title: "Improving parton shower predictions via precision moments of energy flow polynomials"
+authors: "Benoît Assi, Kyle Lee, Jesse Thaler"
+abstract: "In this paper, we study various conceptual and practical aspects of using maximum-entropy reweighting to upgrade parton-shower event samples based on higher-accuracy theoretical constraints. Our approach produces strictly positive per-event weights that improve parton-shower predictions while preserving full event-level exclusivity, allowing any observable to be computed on the reweighted sample without rebinning or regeneration. On the conceptual side, we explain how theoretical principles can help determine which constraints to use and which kinds of priors lead to efficient reweighting. On the practical side, we perform a proof-of-concept study with hemisphere observables in e+e−→ hadrons, and show that even when the parton-shower prior is purposefully degraded by removing the non-singular parts of the QCD splitting functions, a small set of precision calculations can nevertheless restore the desired physical behavior. We use energy flow polynomials (EFPs) as a systematic basis to organize infrared- and collinear-safe constraints, and study how information transfers from constrained observables to unconstrained ones. We find rapid information saturation, where constraints from a compact set of EFP moments achieve broad improvements across observable space, including for standard hemisphere observables never used in training. Physics-motivated basis reductions guided by collinear power counting achieve comparable performance to complete bases, and mixed moments combining polynomial and logarithmic terms outperform pure alternatives. These results suggest a systematic approach to improving parton-shower event generators, where theoretical constraints of highest accuracy can be translated into full phase-space predictions of experimental relevance."
+arxiv: "2604.00084"
+date-updated: 2026-05-10
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{assi2026improvingpartonshowerpredictions,
+      title={Improving parton shower predictions via precision moments of energy flow polynomials},
+      author={Benoît Assi and Kyle Lee and Jesse Thaler},
+      year={2026},
+      eprint={2604.00084},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2604.00084},
+  }

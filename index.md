@@ -189,8 +189,12 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 {:.success}
 -->
 
-***Our [IAIFI Colloquium series](events.html) will continue on Friday, May 8, 2026 with Yury Polyanskiy (MIT).*** Watch live on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue in Fall 2026.*** Watch past colloquia on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
+
+<!--***Our [IAIFI Colloquium series](events.html) will continue on Friday, May 8, 2026 with Yury Polyanskiy (MIT).*** Watch live on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+{:.success}
+-->
 
 <style>
 .calendar-container{

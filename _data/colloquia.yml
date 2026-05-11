@@ -107,10 +107,10 @@
   talk-abstract: "Modern LLMs store information in high-dimensional vectors rather inefficiently. For example, a sequence of tokens (18-bit integers) is mapped to 2-5k dimensional vectors stored as 16-bit floats — roughly a 18 → 100,000 bit expansion per token. Given this redundancy, it is unsurprising that LLMs tolerate substantial reductions in the precision of their basic operations (matrix multiplication) without catastrophic loss. A voluminous literature has emerged on this topic over the past five years. Despite significant algorithmic progress, however, our understanding of the fundamental limits — lower bounds — remains nascent.<br>In this talk I will present our initial results on the information-theoretic tradeoffs arising in quantized matrix multiplication. I will also show how information-theoretic insights enable the design of more efficient quantization algorithms for real-world LLMs, achieving state-of-the-art performance at 2–4 bits per parameter (NestQuant, WaterSIC)."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDdjYzkxdmJjOTF2aGNkY3BjcHZ1NWZjNnNfMjAyNjA1MDhUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
-  youtube-link:
+  youtube-link: https://www.youtube.com/live/DCsbXV2uOGI?si=fyjE5c8i68ZZJrJM
   speaker-thrust: "foundational ai"
   speaker-gender: "man"
-  talk-attendance: 0 in person, 0 virtual
+  talk-attendance: 39 in person, 34 virtual
 
 - type: "colloquium"
   semester: "fall-2025"
