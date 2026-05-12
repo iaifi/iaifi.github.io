@@ -19,7 +19,7 @@ In IAIFI’s next phase, we will continue to develop AI aimed at deepening our u
 
 None of this would be possible without the vibrant community that has grown around IAIFI. Whether you are a researcher, student, industry partner, or simply curious about the future of AI and science, we are grateful for your support and engagement. **Thank you for being part of the IAIFI community!**
 
-For more details, including information about the new NSF AI Institute PATH (Institute for Physical and Adaptive Intelligence in Health), [**please see the official press release**](https://iaifi.org/). 
+For more details, including information about the new NSF AI Institute PATH (Institute for Physical and Adaptive Intelligence in Health), [**read the official press release here**](https://iaifi.org/). 
 
 Also check out related articles released at each of IAIFI’s core universities, linked below.
 
