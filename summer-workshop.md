@@ -349,7 +349,19 @@ Additional speakers will be added as they are confirmed.
          </div>
        </div>
 
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-gregor-kasieczka.jpg" alt="Gregor Kasieczka" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="[https://www.physik.uni-hamburg.de/en/iexp/gruppe-kasieczka/personen/kasieczka-gregor.html]">Gregor Kasieczka</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Universitat Hamburg </em> <br>
+         </div>
+         </div>
+       </div>
+       
+       <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-rahul-kulkarni.jpg" alt="Rahul Kulkarni" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -361,7 +373,7 @@ Additional speakers will be added as they are confirmed.
          </div>
        </div>
        
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+       <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-zongyi-li.jpg" alt="Zongyi Li" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -373,7 +385,7 @@ Additional speakers will be added as they are confirmed.
          </div>
        </div>
 
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+       <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-shivam-pandey.jpg" alt="Shivam Pandey" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -385,7 +397,7 @@ Additional speakers will be added as they are confirmed.
          </div>
        </div>
 
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+       <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-eva-silverstein.jpg" alt="Eva Silverstein" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -397,19 +409,7 @@ Additional speakers will be added as they are confirmed.
          </div>
        </div>
 
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-todd-zickler.jpg" alt="Todd Zickler" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://seas.harvard.edu/person/todd-zickler">Todd Zickler</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Harvard University </em> <br>
-         </div>
-         </div>
-       </div>
-
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+       <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
         <img class="my-card-img-top" src="images/small-photo-daniel-whiteson.jpg" alt="Daniel Whiteson" height="210rem" style="object-fit: cover;">
        <div class="card-body d-flex flex-column">
        <div class="card-text" style="text-align: center; min-height: 2rem;">
@@ -420,7 +420,19 @@ Additional speakers will be added as they are confirmed.
        </div>
        </div>
      </div>
-
+     
+        <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+         <img class="my-card-img-top" src="images/small-photo-todd-zickler.jpg" alt="Todd Zickler" height="210rem" style="object-fit: cover;">
+         <div class="card-body d-flex flex-column">
+         <div class="card-text" style="text-align: center; min-height: 2rem;">
+         <a href="https://seas.harvard.edu/person/todd-zickler">Todd Zickler</a>
+         </div>
+         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+         <em> Harvard University </em> <br>
+         </div>
+         </div>
+       </div>
+       
 </div>
 <br>
 
