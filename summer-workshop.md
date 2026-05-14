@@ -401,10 +401,10 @@ Additional speakers will be added as they are confirmed.
          <img class="my-card-img-top" src="images/small-photo-sung-hak-lim.jpg" alt="Sung Hak Lim" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.linkedin.com/in/sung-hak-lim-4a8163136/">Sung Hak Lim</a>
+         <a href="https://inspirehep.net/authors/1309390">Sung Hak Lim</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Center for Theoretical Physics of the Universe (CTPU-PTC), Institute for Basic Science (IBS) </em> <br>
+         <em> IBS, Daejeon, CTPU. hep-ex and hep-ph and astro-ph </em> <br>
          </div>
          </div>
        </div>
