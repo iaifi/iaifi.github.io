@@ -223,7 +223,7 @@
   youtube-link:
   speaker-thrust: 2 theory
   speaker-gender: 1 man, 1 woman
-  talk-attendance:
+  talk-attendance: 7 in person, 4 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=czNwbDIwYzlyZGk2YjdiMWp1ZDhzcXY4NHZfMjAyNjA1MTRUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
 
 - type: "journal-club"
