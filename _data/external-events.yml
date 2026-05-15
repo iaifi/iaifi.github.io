@@ -2,6 +2,18 @@
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-05-17"
+  start-date-time: "2026-05-18 12:00"
+  end-date-time: "2026-05-18 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Rafael Martínez-Galarza (AstroAI/SAO)<br>Title: The Transient Universe: A Multi-wavelength, Data-driven Approach to New Science<br>Abstract: The era of large time-domain surveys is finally here, and with it comes a new opportunity to better understand the physics of some of the most exotic explosive phenomena in the Universe. From Super-Luminous Supernovae (SLSNe) and Fast Blue Optical Transients (FBOTs) to Fast X-ray Transients (FXTs) and Tidal Disruption Events (TDEs), a trove of new observational data will soon allow us to put constraints on the evolutionary paths of their progenitors, the environments near the accretion flow of intermediate mass black holes and super massive black holes, as well as the physics of neutron star binary mergers. In this talk, I will give a high-level overview of our current understanding of these transients, with a particular emphasis on what submillimeter and radio signatures are expected and in what timescales. I will then discuss how algorithms of automatic learning such as autoencoders, transformers, and neural density estimators, can assist in three downstream tasks of relevance for the physics of these phenomena: classification of transients, anomaly detection, and parameter inference. Finally, I will provide a short perspective on how machine learning can help design strategies for effective submillimeter and radio follow ups of transient alerts."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGltcmE2MG1iZmFtdHEwZ2hocW9pZ3RwZGcgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2026-05-10"
   start-date-time: "2026-05-11 12:00"
   end-date-time: "2026-05-11 13:00"
