@@ -2,14 +2,14 @@
 layout: article
 header: false
 footer: false
-title: "IAIFI Grant Renewed by the NSF"
+title: "IAIFI Funding Renewed by the NSF"
 show_title: false
 --- 
 
 
 {% include_relative iaifi-reminder_header.html %}
 
-## IAIFI Grant Renewed by the NSF
+## IAIFI Funding Renewed by the NSF
 
 We are thrilled to announce that **IAIFI has been awarded a five-year renewal from the National Science Foundation's AI Institutes program!** This renewed investment will allow IAIFI to continue pioneering research at the intersection of artificial intelligence and physics, while expanding our reach and impact in exciting new ways.
 
