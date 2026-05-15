@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-05-08
+title: "Neural Operators as Efficient Function Interpolators"
+authors: "Vasilis Niarchos, Angelos Sirbu, Sokratis Trifinopoulos"
+abstract: "Neural operators (NOs) are designed to learn maps between infinite-dimensional function spaces. We propose a novel reframing of their use. By introducing an auxiliary base-space, any finite-dimensional function can be viewed as an operator acting by composition on functions of the base-space. Through a range of benchmarks on analytic functions of increasing complexity and dimensionality, we demonstrate that NOs can match or outperform standard multilayer perceptrons and Kolmogorov--Arnold Networks in accuracy while requiring significantly fewer parameters and training time. As a real-world application, we apply a two-dimensional Tensorized Fourier Neural Operator (TFNO) to the nuclear chart, learning a correction to state-of-the-art nuclear mass models as a partially observed residual field. A TFNO ensemble reaches a held-out root-mean-square error of 198.2 keV, placing it among the best recent neural-network approaches while retaining high parameter efficiency and short training times. More broadly, these results introduce NOs as a scalable framework for finite-dimensional function interpolation, from analytic benchmarks to structured scientific data."
+arxiv: "2605.07792"
+date-updated: 2026-05-15
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{niarchos2026neuraloperatorsefficientfunction,
+      title={Neural Operators as Efficient Function Interpolators},
+      author={Vasilis Niarchos and Angelos Sirbu and Sokratis Trifinopoulos},
+      year={2026},
+      eprint={2605.07792},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2605.07792},
+  }
