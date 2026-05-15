@@ -30,7 +30,7 @@ Nicole is a particle physicist working with data from the Large Hadron Collider.
 <img src="https://iaifi.org/images/small-photo-jacob-nibauer.jpg" align="left" style="max-width:5990px;width:20%" hspace="10" vspace="5"> 
 **Jacob Nibauer**
 
-Jacob is finishing his PhD in Astrophysical Sciences at Princeton University, where he has worked with a wide variety of physicists, dynamicists, and cosmologists to advance stellar streams as precision dynamical probes of dark matter. During his PhD, he developed physics-informed neural networks to infer the galactic acceleration field from stellar stream data, finding that the inner dark matter halo of the Galaxy is misaligned with the disk.
+Jacob is completing his PhD in Astrophysical Sciences at Princeton University. His research combines analytical, numerical, and machine learning methods to advance stellar streams as precision dynamical probes of dark matter. He is broadly interested in constructing fast and flexible models for inference on dynamical systems.
 
 <br>
 
