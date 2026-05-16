@@ -338,7 +338,7 @@ Additional speakers will be added as they are confirmed.
        </div>
 
      <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-surya.ganguli.jpg" alt="Surya Ganguli" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-surya-ganguli.jpg" alt="Surya Ganguli" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          <a href="https://ganguli-gang.stanford.edu/surya.html">Surya Ganguli</a>
@@ -386,7 +386,7 @@ Additional speakers will be added as they are confirmed.
        </div>
 
       <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-erik.katsavounidis.jpg" alt="Erik Katsavounidis" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-erik-katsavounidis.jpg" alt="Erik Katsavounidis" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          <a href="https://www.mit.edu/~kats/">Erik Katsavounidis</a>
@@ -422,7 +422,7 @@ Additional speakers will be added as they are confirmed.
        </div>
 
        <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-sung-hak-lim.jpg" alt="Sung Hak Lim" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-sung-hak-lim..jpg" alt="Sung Hak Lim" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          <a href="https://inspirehep.net/authors/1309390">Sung Hak Lim</a>
@@ -446,7 +446,7 @@ Additional speakers will be added as they are confirmed.
        </div>
 
       <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-tilman.plehn.jpg" alt="Tilman Plehn" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-tilman-plehn.jpg" alt="Tilman Plehn" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          <a href="https://inspirehep.net/authors/993181">Tilman Plehn</a>
@@ -470,7 +470,7 @@ Additional speakers will be added as they are confirmed.
        </div>
 
       <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-        <img class="my-card-img-top" src="images/small-photo-christoph.weniger.jpg" alt="Christoph Weniger" height="210rem" style="object-fit: cover;">
+        <img class="my-card-img-top" src="images/small-photo-christoph-weniger.jpg" alt="Christoph Weniger" height="210rem" style="object-fit: cover;">
         <div class="card-body d-flex flex-column">
         <div class="card-text" style="text-align: center; min-height: 2rem;">
         <a href="https://www.christophweniger.com/">Christoph Weniger</a>
