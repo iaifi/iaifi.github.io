@@ -1,4 +1,15 @@
 - type: "research-highlight"
+  domain: "Theoretical Physics"
+  title: "Quantum mechanics and neural networks"
+  authors: Christian Ferko, James Halverson
+  date-added: 2026-05-21
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vRAQP29RSpj5v_ZzjSSI18VXMyX--II9lPbJrQV8up7xGC1DjxrodL0TtB9NnXPo3KYdJV62AVstNzS/pubembed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1dOneEa429VvRNNAjiiiDk_gCoNViNOgPaKUMx12txzg/edit?usp=sharing"
+  overview-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vQORxxhfJFpZ_CDcWOBQBdE_j_0GbEG_pMYSD-J-okfqD0nSlxveZL2zg8277SCaJSGyllfaidS7-gS/pubembed?start=false&loop=false&delayms=3000"
+  overview-link: "https://docs.google.com/presentation/d/1tB5g7HEyr50_iPJ3XvnWnrM1pvXoNVx_WP58SItS0_k/edit?usp=sharing"
+  screenshot: ResearchHighlight_202605_Ferko.png
+
+- type: "research-highlight"
   domain: "Foundational AI"
   title: "Training a Foundation Model for Materials on a Budget"
   authors: Teddy Koker, Mit Kotak, Tess Smidt
