@@ -246,9 +246,9 @@ If you are interested in providing financial support for the Summer School, plea
 ## 2026 Organizing Committee 
 * Will Detmold, Co-Chair (MIT)
 * Bill Freeman, Co-Chair (MIT) 
-* Akshunna Dogra (Incoming IAIFI Fellow)
+* Akshunna Dogra (IAIFI Fellow)
 * Berthy Feng (IAIFI Fellow)
-* Mathis Gerdes (Incoming IAIFI Fellow)
+* Mathis Gerdes (IAIFI Fellow)
 * Juvenal Bassa (UPRM)
 * Yize Dong (Harvard)
 * Franc O (Northeastern)
