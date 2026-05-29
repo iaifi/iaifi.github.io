@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "SPECIAL SEMINAR: Beyond Expectations: Machine Learning Anomalies in High-Energy Collisions"
+  event-organizer: "Benedikt Maier, Imperial College London"
+  more-info-link: 
+  event-post-date: "2026-05-31"
+  start-date-time: "2026-06-01 16:00"
+  end-date-time: 
+  talk-location: Kolker Room, Rm 26-414, Building 26 MIT
+  talk-zoom: https://mit.zoom.us/j/99963678487
+  event-details: "Anomaly detection techniques are playing an increasingly central role in the search for new physics at the Large Hadron Collider (LHC), where the rarity and unpredictability of signals beyond the Standard Model challenge traditional analysis strategies. In this talk, I will present recent developments in machine learning–based anomaly detection for high-energy physics, with a focus on model-agnostic approaches that aim to uncover unexpected signatures in collision data. I will discuss how these algorithms are currently being used to probe the Standard Model at the LHC, and how next-generation and future searches might be deploying such algorithms, from FPGA- accelerated algorithms to quantum computing strategies."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzYxZDgxdDQwOGMzaDNyODl1Z290aHM3dTQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "Boston Symmetry Day- Swedish Collaboration Poster Session"
   event-organizer: "The Boston Symmetry Group"
   more-info-link: https://neu.co1.qualtrics.com/jfe/form/SV_77zy6FGyhe4SjGu
@@ -7,7 +19,7 @@
   end-date-time: "2026-06-09 17:00"
   talk-location: "Raytheon Ampitheater | 120 Forsyth Street, Boston, MA 02115"
   talk-zoom: 
-  event-details: "The Boston Symmetry Group is organizing a poster session and social at Northeastern in the Raytheon Amphitheater space on June 9th! The event will be a great opportunity to meet other folks in the local equivariance and geometric deep learning community, as well as to share ideas. In addition, there will be a visiting group of attendees from the wasp Geometric Deep Learning reading group from Sweden, and therefore the event will be a unique opportunity to engage in discussion with colleagues they would not otherwise have the chance to meet! We will officially kick things off around 4pm but we have the space reserved a little in advanced if people want to come a bit early.."
+  event-details: "The Boston Symmetry Group is organizing a poster session and social at Northeastern in the Raytheon Amphitheater space on June 9th! The event will be a great opportunity to meet other folks in the local equivariance and geometric deep learning community, as well as to share ideas. In addition, there will be a visiting group of attendees from the wasp Geometric Deep Learning reading group from Sweden, and therefore the event will be a unique opportunity to engage in discussion with colleagues they would not otherwise have the chance to meet! We will officially kick things off around 4pm but we have the space reserved a little in advanced if people want to come a bit early."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzVhMWk2bHNvbnZhMGJpYmY2cGlzNnJrNWQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
   
 - type: "external-event"
