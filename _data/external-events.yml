@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "Boston Symmetry Day- Swedish Collaboration Poster Session"
+  event-organizer: "The Boston Symmetry Group"
+  more-info-link: https://neu.co1.qualtrics.com/jfe/form/SV_77zy6FGyhe4SjGu
+  event-post-date: "2026-05-31"
+  start-date-time: "2026-06-09 15:00"
+  end-date-time: "2026-06-09 17:00"
+  talk-location: "Raytheon Ampitheater | 120 Forsyth Street, Boston, MA 02115"
+  talk-zoom: 
+  event-details: "The Boston Symmetry Group is organizing a poster session and social at Northeastern in the Raytheon Amphitheater space on June 9th! The event will be a great opportunity to meet other folks in the local equivariance and geometric deep learning community, as well as to share ideas. In addition, there will be a visiting group of attendees from the wasp Geometric Deep Learning reading group from Sweden, and therefore the event will be a unique opportunity to engage in discussion with colleagues they would not otherwise have the chance to meet! We will officially kick things off around 4pm but we have the space reserved a little in advanced if people want to come a bit early.."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzVhMWk2bHNvbnZhMGJpYmY2cGlzNnJrNWQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
