@@ -2,7 +2,7 @@
 layout: article
 header: false
 footer: false
-title: "IAIFI Spring 2026 Wrap-Up"
+title: "IAIFI Fall 2025 Wrap-Up"
 show_title: false
 --- 
 <div align="center"  markdown="1">
@@ -12,7 +12,7 @@ show_title: false
 <img src="https://iaifi.org/images/iaifi-pressimage-horizontalcrop-smaller.jpg" align="center" style="max-width:5990px;width:100%" hspace="10" vspace="10"> 
 </p>
 
-# IAIFI Spring 2026 Wrap-Up
+# IAIFI Fall 2025 Wrap-Up
 
 [IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [Event Highlights and News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Follow IAIFI](#contact-and-follow-iaifi){:.button.button--outline-primary.button--pill.button--sm}
 
