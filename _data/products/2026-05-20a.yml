@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-05-20
+title: "An Exponential Sample-Complexity Advantage for Coherent Quantum Inference"
+authors: "Zhaoyi Li, Elias Theil, Aram W. Harrow, Isaac Chuang"
+abstract: "Standard quantum inference converts quantum data into classical outputs. We study an alternative inference setting in which the desired output is quantum, preserving coherence. Such settings include quantum purity amplification (QPA), mixed-state approximate purification or cloning, and density matrix exponentiation. We show that such protocols can achieve exponentially lower sample complexity than incoherent, measurement-mediated protocols. For QPA with principal eigenstate targets and d-dimensional inputs, coherent processing achieves error ε using O(1/ε) copies, versus the Ω(d/ε) copies required by any incoherent protocol. Together, these sharp coherent-incoherent separations seed a theory of coherent quantum inference, with an entanglement-breaking limit identifying the optimal incoherent counterpart of each coherent protocol."
+arxiv: "2605.21457"
+date-updated: 2026-06-01
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{li2026exponentialsamplecomplexityadvantagecoherent,
+      title={An Exponential Sample-Complexity Advantage for Coherent Quantum Inference},
+      author={Zhaoyi Li and Elias Theil and Aram W. Harrow and Isaac Chuang},
+      year={2026},
+      eprint={2605.21457},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2605.21457},
+  }
