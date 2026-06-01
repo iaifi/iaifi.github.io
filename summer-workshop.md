@@ -473,7 +473,7 @@ Additional speakers will be added as they are confirmed.
      <img class="my-card-img-top" src="images/small-photo-ben-wandelt.jpg" alt="Ben Wandelt" height="210rem" style="object-fit: cover;">
      <div class="card-body d-flex flex-column">
      <div class="card-text" style="text-align: center; min-height: 2rem;">
-     <a href="https://samprd.ethz.ch">Ben Wandelt</a>
+     <a href="https://benwandelt.org/">Ben Wandelt</a>
      </div>
      <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
      <em> Johns Hopkins University </em> <br>
@@ -482,6 +482,18 @@ Additional speakers will be added as they are confirmed.
    </div>
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
+     <img class="my-card-img-top" src="images/small-photo-gordon-watts.jpg" alt="Gordon Watts" height="210rem" style="object-fit: cover;">
+     <div class="card-body d-flex flex-column">
+     <div class="card-text" style="text-align: center; min-height: 2rem;">
+     <a href="https://phys.washington.edu/people/gordon-watts">Gordon Watts</a>
+     </div>
+     <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
+     <em> University of Washington </em> <br>
+     </div>
+     </div>
+   </div>
+   
+   <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
         <img class="my-card-img-top" src="images/small-photo-christoph-weniger.jpg" alt="Christoph Weniger" height="210rem" style="object-fit: cover;">
         <div class="card-body d-flex flex-column">
         <div class="card-text" style="text-align: center; min-height: 2rem;">
