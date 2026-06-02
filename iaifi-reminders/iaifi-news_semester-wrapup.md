@@ -59,11 +59,9 @@ Thank you to our speakers for this term:
 
 IAIFI regularly posts research highlights on our website, showcasing the innovative work of IAIFI investigators. View our Summer 2025 and Fall 2025 research highlights below!
 
-- [AutoSciDACT: Automated Scientific Discovery through Contrastive Embedding and Hypothesis Testing](https://iaifi.org/research.html#autoscidact-automated-scientific-discovery-through-contrastive-embedding-and-hypothesis-testing)
-- [Evidence for an Instability-induced Binary Merger in the Double-peaked, Helium-rich Type IIn Supernova 2023zkd](https://iaifi.org/research.html#evidence-for-an-instability-induced-binary-merger-in-the-double-peaked-helium-rich-type-iin-supernova-2023zkd)
-- [Enhancing events in neutrino telescopes through deep-learning-driven superresolution](https://iaifi.org/research.html#enhancing-events-in-neutrino-telescopes-through-deep-learning-driven-superresolution)
-- [Remove Symmetries to Control Model Expressivity and Improve Optimization](https://iaifi.org/research.html#remove-symmetries-to-control-model-expressivity-and-improve-optimization)
-- [LEAPS: A discrete neural sampler via locally equivariant networks](https://iaifi.org/research.html#leaps-a-discrete-neural-sampler-via-locally-equivariant-networks)
+- [Quantum mechanics and neural networks](https://iaifi.org/research.html#quantum-mechanics-and-neural-networks)
+- [Training a Foundation Model for Materials on a Budget](https://iaifi.org/research.html#training-a-foundation-model-for-materials-on-a-budget)
+- [L2M: Mutual Information Scaling Law for Long-Context Language Modeling](https://iaifi.org/research.html#"l2m-mutual-information-scaling-law-for-long-context-language-modeling")
 
 [View all Research Highlights](https://iaifi.org/research.html#highlights){:.button.button--outline-primary.button--pill.button--sm}
 
@@ -86,23 +84,14 @@ We had the opportunity to collaborate on two public engagement projects to commu
 
 ### IAIFI News
 
-- **IAIFI Junior Investigator Christian Ferko receives Museum of Science digital communication fellowship.** As a [2026 Museum of Science, Boston Digital Science Communication Fellow](https://www.linkedin.com/feed/update/urn:li:activity:7404902033381560321), Christian will participate in specialized training in strategic storytelling, digital content creation, civic trust, and evidence-based communication.  *December 11, 2025*
-    
-- **IAIFI Investigators honored by Schmidt Sciences as 2025 Early Career Fellows.** IAIFI Fellow/Harvard Society of Fellows' Michael Albergo and IAIFI Senior Investigator/MIT Professor Tess Smidt were selected for the [AI2050 Early Career Fellowship](https://ai2050.schmidtsciences.org/fellows/), which is an enabling fellowship to encourage postdoctoral and pre-tenure researchers from around the world to pursue bold and ambitious work on hard problems in AI. *November 17, 2025*
 
-- **IAIFI alum Ziming Liu featured in the NSF AI Institutes Virtual Organization (AIVO) Student Spotlights.** [The article](https://aiinstitutes.org/student-spotlight-ziming-liu/) focuses on Ziming's groundbreaking research in AI+Science. *September 19, 2025*
-  
-- **IAIFI Senior Investigators collaborate with other interdisciplinary researchers on community white paper exploring "The Future of AI and the Mathematical and Physical Sciences."** The [white paper](https://arxiv.org/abs/2509.02661), which developed out of an NSF-funded Workshop held in March 2025, presents how the MPS domains (Astronomy, Chemistry, Materials Research, Mathematical Sciences, and Physics) can best capitalize on, and contribute to, the future of AI. *September 4, 2025*
-  
-- **IAIFI Summer School sponsor FirstPrinciples summarizes the impact of the School**. Read [Bridging Minds and Disciplines: The IAIFI Summer School and the Future of Collaborative Science](https://www.firstprinciples.org/article/bridging-minds-and-disciplines-the-iaifi-summer-school-and-the-future-of-collaborative-science?utm_source=linkedin&utm_medium=hub_post&utm_campaign=iaifi_summer_school). *August 15, 2025*
-  
-- **IAIFI Researchers and Collaborators Discover New Type of Supernova**. [Read about the discovery](https://www.cfa.harvard.edu/news/ai-helps-astronomers-discover-new-type-supernova), led by IAIFI Fellow Alex Gagliano along with IAIFI Senior Investigator Ashley Villar and their collaborators. *August 13, 2025*
-  
-- **IAIFI Deputy Director Mike Williams participates on panel at AI+Science Summit**. The panel, "[Powering Innovation at the Intersection of AI & Science: NSF’s AI Institutes](https://youtu.be/RlzN7UhuHL0?si=3C6cqb4SbP_IfX1B)" was hosted by the Special Competitive Studies Project at their AI+Science Summit. *July 23, 2025*
-  
-- **IAIFI Fellow Jessie Micallef receives Impact Award from MicroBooNE expirement**. Jessie received the award for contributions to the experiment. *July 20, 2025*
+
+- **IAIFI Senior Investigator Tess Smidt contributed an essay to the Daedalus journal’s Winter/Spring 2026 issue on AI & Science. Check out her essay here, titled ‘Physics Is Different: Context, Culture & Craft in Effective AI for Physics.’** AI & Science: What Is the Future of Discovery?(https://www.amacad.org/daedalus/ai-science-what-is-the-future-of-discovery) *May, 2026*
     
-- **Marisa LaFleur promoted from IAIFI Project Manager to IAIFI Managing Director**. As IAIFI Managing Director, Marisa will continue to oversee the implementation of IAIFI activities and to expand her responsibilities related to IAIFI’s long-term strategy and funding. *July 9, 2025*
+- **A new white paper, co-authored by IAIFI Managing Director Marisa LaFleur, examines what it takes to coordinate large AI research teams such as IAIFI. Drawing on input from project managers across 25 AI Institutes, the paper offers recommendations for funders, universities, and research organizations. Read it here:.** ‘Project Managers Facilitate Interdisciplinary Collaboration in AI Research.’ (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6361038). *April 6, 2026*
+
+- **Inspired by the white paper on the future of AI+Science (recently published in Machine Learning: Science and Technology), IAIFI Director Jesse Thaler shared his thoughts on this topic with MIT News. Read the MIT News article here.** [3 Questions: On the future of AI and the mathematical and physical sciences](https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311). *March 11, 2026*
+  
 
 [View all IAIFI News](https://iaifi.org/#iaifi-news){:.button.button--outline-primary.button--pill.button--sm}
 
