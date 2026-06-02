@@ -24,7 +24,7 @@ Thank you to everyone who attended our events this Spring and otherwise engaged 
 
 <img src="https://iaifi.org/images/phd-summer-school-logo-2026.png" align="center" style="float: right;max-width:5990px;width:50%" hspace="10" vspace="10"> 
 
-### IAIFI Summer Workshop
+### IAIFI Summer Workshop August, 2026
 This August, we will hold our fifth annual Summer School (applications now closed) and Summer Workshop at MIT (https://iaifi.org/summer-workshop). The Summer Workshop will feature plenary talks, poster sessions, and networking events. We are also excited to partner again with the Boston Museum of Science for our Summer Workshop dinner, where we will host a [planetarium show about AI and the search for dark matter](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai). 
 
 **Summer Workshop Details:**
