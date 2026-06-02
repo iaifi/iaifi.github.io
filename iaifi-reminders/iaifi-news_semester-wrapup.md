@@ -41,16 +41,11 @@ This August, we will hold our fifth annual Summer School (applications now close
 
 Applications now closed for the MIT Summer Research Program (MSRP); Undergraduate students (sophomore, junior, or non-graduating seniors) who might benefit from spending a summer on MIT’s campus, conducting research under the guidance of MIT faculty members, postdoctoral fellows, and advanced graduate students, are invited to apply annually to the [MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/) and can indicate interest in working with IAIFI researchers. 
 
-
-
 ## IAIFI Colloquium Series
 
 <img src="https://iaifi.org/images/2025-fall-colloquium.jpeg" align="center" style="float: right; max-width:3024px;width:35%" hspace="10" vspace="0"> 
 
-Thank you to our speakers for this term: [Francisco Villaescusa-Navarro](https://franciscovillaescusa.github.io/), [Berthy Feng](https://www.berthyfeng.com/), [Peter Lu](https://petery.lu/), [Andy Keller](https://akandykeller.github.io/), [Melanie Weber](https://melanie-weber.com/), and [T. Konstantin Rusch](https://camail.org/)! 
-
-
-The IAIFI Colloquium series will continue in Spring 2026 with the following speakers:
+Thank you to our speakers for this term: 
 - February 13: [Roger Melko (University of Waterloo)](https://rgmelko.github.io/)
 - February 27: [Lisa Everett (University of Wisconsin-Madison)](https://home.physics.wisc.edu/leverett/)
 - March 13: [Roberto Trotta (SISSA)](https://robertotrotta.com/)
@@ -58,7 +53,7 @@ The IAIFI Colloquium series will continue in Spring 2026 with the following spea
 - April 24: [James Requeima (Google DeepMind)](https://jamesr.info/)
 - May 8: [Yury Polyanskiy (MIT)](https://people.lids.mit.edu/yp/homepage/)
 
- If you missed any of this semester's colloquia, you can watch recordings of all [Fall 2025 colloquia](https://youtube.com/playlist?list=PLBY0ED2StbGaFMHOCrNUFmQyobejsegHT&si=yfomkBIPFhGDPyvv) on our YouTube channel, as well as [recordings from previous semesters](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared).
+ If you missed any of this semester's colloquia, you can watch recordings of all [Spring 2025 colloquia]([https://youtube.com/playlist?list=PLBY0ED2StbGaFMHOCrNUFmQyobejsegHT&si=yfomkBIPFhGDPyvv](https://www.youtube.com/playlist?list=PLBY0ED2StbGbvCRPINeDNJnPgvUYhH75K)) on our YouTube channel, as well as [recordings from previous semesters](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared).
 
 ## IAIFI Research Highlights
 
