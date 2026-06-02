@@ -33,5 +33,5 @@ Industry Partner Expo and Reception
 
 ## Speakers
 
-Speakers will be announced later in Spring 2026.
+To be announced.
 
