@@ -18,31 +18,23 @@ show_title: false
 
 ## News from IAIFI Management
 
-Thank you to everyone who attended our events this Fall and otherwise engaged with IAIFI on our research and activities at the intersection of AI and Physics! We have summarized some highlights and information from IAIFI for Fall 2025. Please feel free to reach out to us with questions or comments about any of the below. Best wishes for a safe and pleasant holiday season!
+Thank you to everyone who attended our events this Spring and otherwise engaged with IAIFI on our research and activities at the intersection of AI and Physics! We have summarized some highlights and information from IAIFI for Spring 2025. Please feel free to reach out to us with questions or comments about any of the below. Best wishes for a safe and pleasant summer!
 
 ## IAIFI Opportunities
 
 <img src="https://iaifi.org/images/phd-summer-school-logo-2026.png" align="center" style="float: right;max-width:5990px;width:50%" hspace="10" vspace="10"> 
 
-### IAIFI Summer School
+### IAIFI Summer Workshop
+This August, we will hold our fifth annual Summer School (applications now closed) and Workshop at MIT. The Summer Workshop will feature plenary talks, poster sessions, and networking events. We are also excited to partner again with the Boston Museum of Science for our Summer Workshop dinner, where we will host a [planetarium show about AI and the search for dark matter](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai). 
 
-Apply for our [2026 IAIFI Summer School](https://iaifi.org/phd-summer-school.html#summer-school-2026), featuring lectures and events that illustrate interdisciplinary research at the intersection AI and Physics and encourage global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice, and a hackathon project provides an opportunity for students to collaborate and apply what they’ve learned. The mission of the IAIFI Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development.
-
-**Application details:**
-- The [application deadline](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845) is **February 9, 2026**. Applicants will be notified of their status by February 16, 2026.
-- There is no registration fee for the Summer School. Costs of dorm accommodations will be reimbursed by IAIFI, contingent upon attendance. Students for the Summer School are expected to cover the cost of travel.
-- Lunch each day, as well as coffee and snacks at breaks, will be provided during the Summer School, along with at least one dinner during the Summer School.
-- Virtual attendance can be accomodated.
-
-
-**Summer School Details:**
-- When: August 3–August 7, 2026
-- Where: Boston/Cambridge, MA (exact location TBA)
+**Summer Workshop Details:**
+- When: August 10 –August 14, 2026
+- Where: Boston/Cambridge, MA (MIT)
 - What: View the agenda [on the Summer School webpage](https://iaifi.org/phd-summer-school.html#lecturers). Lecturer details will be added as they are confirmed by the organizing committee.
 - See [FAQs](https://iaifi.org/phd-summer-school.html#faq) on the Summer School webpage
 
 <img src="https://iaifi.org/images/summer-workshop-logo_2026.png" align="left" style="float: left;max-width:5990px;width:30%" hspace="10" vspace="10"> 
-**Also save the date for the [IAIFI Summer Workshop 2026](https://iaifi.org/summer-workshop), which will be held August 10–14, 2026 in Boston/Cambridge (exact location TBA)! Registration will open in January 2026.**
+**Also save the date for the [IAIFI Summer Workshop 2026](https://iaifi.org/summer-workshop), which will be held August 10–14, 2026 in Boston/Cambridge (MIT)! Registration will open in January 2026.**
 
 <br>
 
@@ -50,9 +42,9 @@ Apply for our [2026 IAIFI Summer School](https://iaifi.org/phd-summer-school.htm
 
 <img src="https://iaifi.org/images/small-photo-2025-msrp-lunch..jpg" align="center" style="float: right; max-width:5990px;width:35%" hspace="10" vspace="0"> 
 
-Undergraduate students (sophomore, junior, or non-graduating seniors) who might benefit from spending a summer on MIT’s campus, conducting research under the guidance of MIT faculty members, postdoctoral fellows, and advanced graduate students, are invited to apply to the [MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/) and can indicate interest in working with IAIFI researchers. 
+Applications now closed for the MIT Summer Research Program (MSRP); Undergraduate students (sophomore, junior, or non-graduating seniors) who might benefit from spending a summer on MIT’s campus, conducting research under the guidance of MIT faculty members, postdoctoral fellows, and advanced graduate students, are invited to apply annually to the [MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/) and can indicate interest in working with IAIFI researchers. 
 
-**Apply by January 20, 2026 and indicate interest in IAIFI in your application.**
+
 
 ## IAIFI Colloquium Series
 
@@ -87,55 +79,6 @@ IAIFI regularly posts research highlights on our website, showcasing the innovat
 
 [Learn More about IAIFI Public Engagement Activities](https://iaifi.org/outreach.html){:.button.button--outline-primary.button--pill.button--sm}
 
-### MIT Splash 2025
-**November 22, 2025**
-
-<img src="https://iaifi.org/images/small-photo-splash2025-joydeep.jpg" align="center" style="float: right; max-width:5990px;width:35%" hspace="10" vspace="0"> 
-
-IAIFI was pleased to participate in [MIT's Splash program](https://esp.mit.edu/learn/Splash/index.html) this year! IAIFI members Christian Ferko (Northeastern), Christina Reissel (MIT), Jamie Sullivan (MIT), and Joydeep Naskar (Northeastern) shared an overview of their work at the intersection of AI and Physics and held a Q&A with a group of around 100 high school students!
-
-<br><br>
-
-### Cambridge Science Carnival 2025
-**September 21, 2025**
-
-<img src="https://iaifi.org/images/small-photo-2025-cambridgesciencecarnival.jpg" align="center" style="float: right; max-width:5990px;width:35%" hspace="10" vspace="0"> 
-
-We hosted a booth at the [Cambridge Science Carnival](https://cambridgesciencefestival.org) for the fourth year in a row! This included several AI+Physics activities for all ages, and IAIFI members were able to chat with more than 500 community members over the course of the afternoon. 
-<br><br>
-
-### Summer School and Workshop
-**August 2025**
-
-In August 2025, we held our fourth annual Summer School and Workshop at Harvard. The Summer School included lectures, hands-on tutorials, lightning talks, networking events, etc. The Summer Workshop featured plenary talks, poster sessions, and networking events. We were also excited to partner with the Boston Museum of Science for our Summer Workshop dinner, when we also hosted a [planetarium show about AI and the search for dark matter](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai), led by IAIFI Senior Investigator Lina Necib.
-
-[Watch the 2025 Workshop Talks on YouTube](https://youtube.com/playlist?list=PLBY0ED2StbGYicBdodtC3QqVVnwhr758-&si=kEw4EHgQHkfCFIbg){:.button.button--outline-primary.button--pill.button--sm}  [Apply for the 2026 Summer School](https://iaifi.org/phd-summer-school.html#apply){:.button.button--outline-primary.button--pill.button--sm}
-
-<style>
-  .image-row {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    margin: 10px 0;
-  }
-  .image-row img {
-    width: 45%;
-    max-width: 5990px;
-    height: auto;
-    flex-shrink: 0; 
-    object-fit: contain; 
-  }
-</style>
-
-<div class="image-row">
-  <img src="https://iaifi.org/images/2025-summer-school-group-photo.jpeg" alt="Group photo">
-  <img src="https://iaifi.org/images/small-photo-2025-summer-school-lecture.jpg" alt="Lecture">
-</div>
-
-<div class="image-row">
-  <img src="https://iaifi.org/images/small-photo-2025-workshop-dinner.jpg" alt="Dinner">
-  <img src="https://iaifi.org/images/Workshop-2025_Sokratis.jpg" alt="Workshop">
-</div>
 
 ### AI+Physics Science Communication
 
