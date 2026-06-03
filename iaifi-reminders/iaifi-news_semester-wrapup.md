@@ -63,7 +63,7 @@ IAIFI regularly posts research highlights on our website, showcasing the innovat
 - [Training a Foundation Model for Materials on a Budget](https://iaifi.org/research.html#training-a-foundation-model-for-materials-on-a-budget)
 - [L2M: Mutual Information Scaling Law for Long-Context Language Modeling](https://iaifi.org/research.html#"l2m-mutual-information-scaling-law-for-long-context-language-modeling")
 
-[View all Research Highlights](https://iaifi.org/research.html#highlights){:.button.button--outline-primary.button--pill.button--sm}
+[View all Research Highlights](https://iaifi.org/research.html#highlights)
 
 ## In Case You Missed It
 
