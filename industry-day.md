@@ -33,5 +33,7 @@ Industry Partner Expo and Reception
 
 ## Speakers
 
-To be announced.
+Details be announced.
+
+Current participating organizations include: Engine Ventures, FirstPrinciples, Glasswing Ventures, and Quera Computing
 
