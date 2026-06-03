@@ -18,7 +18,7 @@ show_title: false
 
 ## News from IAIFI Management
 
-Thank you to everyone who attended our events this Spring and otherwise engaged with IAIFI on our research and activities at the intersection of AI and Physics! We have summarized some highlights and information from IAIFI for Spring 2025. Please feel free to reach out to us with questions or comments about any of the below. Best wishes for a safe and pleasant summer!
+Thank you to everyone who attended our events this Spring and otherwise engaged with IAIFI on our research and activities at the intersection of AI and Physics! We have summarized some highlights and information from IAIFI for Spring 2026. Please feel free to reach out to us with questions or comments about any of the below. Best wishes for a safe and pleasant summer!
 
 ## IAIFI Opportunities
 
