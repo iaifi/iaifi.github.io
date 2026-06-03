@@ -33,5 +33,7 @@ Industry Partner Expo and Reception
 
 ## Speakers
 
-Speakers will be announced later in Spring 2026.
+Details be announced.
+
+Current participating organizations include: Engine Ventures, FirstPrinciples, Glasswing Ventures, and Quera Computing
 
