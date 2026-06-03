@@ -67,24 +67,9 @@ IAIFI regularly posts research highlights on our website, showcasing the innovat
 
 ## In Case You Missed It
 
-[Learn More about IAIFI Public Engagement Activities](https://iaifi.org/outreach.html){:.button.button--outline-primary.button--pill.button--sm}
-
-
-### AI+Physics Science Communication
-
-We had the opportunity to collaborate on two public engagement projects to communicate AI+Physics to the general public: 
-
-* **Discovery Engines Podcast:** IAIFI Director Jesse Thaler chatted with host Nabil Laoudji about how AI is reshaping physics discovery and how physicists are reshaping AI. 
-
-[Watch the episode on YouTube](https://youtu.be/FQJPvVhriYo){:.button.button--outline-primary.button--pill.button--sm}
-
-* **ScienceClic Educational Video:** IAIFI Investigators collaborated with popular science YouTube channel ScienceClic on a video covering "The Physics of AI," which explores the connections between AI and Physics as related to the 2024 Nobel Prize in Physics, and the link between neural networks and quantum fields. 
-
-[Watch the video on YouTube](https://youtu.be/dRkehLL19Wo?si=0J-6Sw5PhUq5n5ei){:.button.button--outline-primary.button--pill.button--sm}
+[Learn More about IAIFI Public Engagement Activities](https://iaifi.org/outreach.html)
 
 ### IAIFI News
-
-
 
 - **IAIFI Senior Investigator Tess Smidt contributed an essay to the Daedalus journal’s Winter/Spring 2026 issue on AI & Science. Check out her essay here, titled ‘Physics Is Different: Context, Culture & Craft in Effective AI for Physics.’** AI & Science: What Is the Future of Discovery?(https://www.amacad.org/daedalus/ai-science-what-is-the-future-of-discovery) *May, 2026*
     
