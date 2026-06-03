@@ -53,7 +53,7 @@ Thank you to our speakers for this term:
 - April 24: [James Requeima (Google DeepMind)](https://jamesr.info/)
 - May 8: [Yury Polyanskiy (MIT)](https://people.lids.mit.edu/yp/homepage/)
 
- If you missed any of this semester's colloquia, you can watch recordings of all [Spring 2025 colloquia]([https://youtube.com/playlist?list=PLBY0ED2StbGaFMHOCrNUFmQyobejsegHT&si=yfomkBIPFhGDPyvv](https://www.youtube.com/playlist?list=PLBY0ED2StbGbvCRPINeDNJnPgvUYhH75K)) on our YouTube channel, as well as [recordings from previous semesters](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared).
+ If you missed any of this semester's colloquia, you can watch recordings of all [Spring 2026 colloquia]([https://youtube.com/playlist?list=PLBY0ED2StbGaFMHOCrNUFmQyobejsegHT&si=yfomkBIPFhGDPyvv](https://www.youtube.com/playlist?list=PLBY0ED2StbGbvCRPINeDNJnPgvUYhH75K)) on our YouTube channel, as well as [recordings from previous semesters](https://youtube.com/@iaifiinstituteforaifundame3333?feature=shared).
 
 ## IAIFI Research Highlights
 
