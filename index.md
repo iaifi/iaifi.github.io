@@ -234,7 +234,10 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
-  ***IAIFI Senior Investigator Tess Smidt contributed an essay to the Daedalus journal's Winter/Spring 2026 issue on AI & Science.*** Check out her essay here, titled ['Physics Is Different: Context, Culture & Craft in Effective AI for Physics.'](https://www.amacad.org/daedalus/ai-science-what-is-the-future-of-discovery) *May 2026*
+***We are thrilled to announce that IAIFI has been awarded a five-year renewal from the National Science Foundation's AI Institutes program!*** [Read more in our official announcement.](https://iaifi.org/iaifi-reminders/renewal-announcement) *June 5, 2026*
+{:.info}
+
+***IAIFI Senior Investigator Tess Smidt contributed an essay to the Daedalus journal's Winter/Spring 2026 issue on AI & Science.*** Check out her essay here, titled ['Physics Is Different: Context, Culture & Craft in Effective AI for Physics.'](https://www.amacad.org/daedalus/ai-science-what-is-the-future-of-discovery) *May 2026*
 {:.info}
 
 ***A new white paper, co-authored by IAIFI Managing Director Marisa LaFleur, examines what it takes to coordinate large AI research teams such as IAIFI.*** Drawing on input from project managers across 25 AI Institutes, the paper offers recommendations for funders, universities, and research organizations. Read it here: ['Project Managers Facilitate Interdisciplinary Collaboration in AI Research.'](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6361038) *April 6, 2026*
