@@ -15,11 +15,12 @@
   event-organizer: "The Boston Symmetry Group"
   more-info-link: https://neu.co1.qualtrics.com/jfe/form/SV_77zy6FGyhe4SjGu
   event-post-date: "2026-05-31"
-  start-date-time: "2026-06-09 15:00"
-  end-date-time: "2026-06-09 17:00"
+  start-date-time: "2026-06-09 16:00"
+  end-date-time: "2026-06-09 17:30"
   talk-location: "Raytheon Ampitheater (120 Forsyth Street, Boston, MA 02115)"
   talk-zoom:
-  event-details: "The Boston Symmetry Group is organizing a poster session and social at Northeastern in the Raytheon Amphitheater space on June 9th! The event will be a great opportunity to meet other folks in the local equivariance and geometric deep learning community, as well as to share ideas. In addition, there will be a visiting group of attendees from the wasp Geometric Deep Learning reading group from Sweden, and therefore the event will be a unique opportunity to engage in discussion with colleagues they would not otherwise have the chance to meet! We will officially kick things off around 4pm but we have the space reserved a little in advanced if people want to come a bit early."
+  event-details: "The Boston Symmetry Group is excited to host a poster session and social at 4pm on Tuesday, June 9th, at Northeastern University! Located at the Raytheon Amphitheater within the Egan Research Center (120 Forsyth St in Boston, right next to the Ruggles T stop), we'll start with a casual poster session 4-5:30pm, before walking together to a nearby social with light bites. This is a great opportunity to connect with researchers interested in the intersection of symmetries and machine learning, including a group of visiting PhD students from Sweden! All are welcome to attend this free event, even if you have not worked on this topic before, and we encourage those with relevant prior work to bring a poster to seed discussion with other attendees. All posters relevant to the themes of geometry and symmetry in machine learning are welcome, including those that have appeared at prior conferences."
+  rsvp-link: https://neu.co1.qualtrics.com/jfe/form/SV_77zy6FGyhe4SjGu
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzVhMWk2bHNvbnZhMGJpYmY2cGlzNnJrNWQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
   
 - type: "external-event"
