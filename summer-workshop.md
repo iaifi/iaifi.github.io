@@ -422,7 +422,7 @@ Additional speakers will be added as they are confirmed.
        </div>
 
       <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-sung-hak-lim.jpg" alt="Sung Hak Lim" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-sung-hak-lim..jpg" alt="Sung Hak Lim" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          <a href="https://inspirehep.net/authors/1309390">Sung Hak Lim</a>
@@ -482,7 +482,7 @@ Additional speakers will be added as they are confirmed.
    </div>
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-     <img class="my-card-img-top" src="images/small-photo-gordon-watts.jpg" alt="Gordon Watts" height="210rem" style="object-fit: cover;">
+     <img class="my-card-img-top" src="images/small-photo-gordon-watts-2026.jpg" alt="Gordon Watts" height="210rem" style="object-fit: cover;">
      <div class="card-body d-flex flex-column">
      <div class="card-text" style="text-align: center; min-height: 2rem;">
      <a href="https://phys.washington.edu/people/gordon-watts">Gordon Watts</a>
