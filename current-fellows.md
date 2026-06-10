@@ -11,7 +11,7 @@ aside:
 --->
 ## 2026–2029 IAIFI Fellows
 
-### [Adrian Bayer](mailto:abayer@princeton.edu)
+### [Adrian Bayer](mailto:abayer@mit.edu)
 <img src="images/small-photo-adrian-bayer.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Adrian works at the intersection of cosmology, statistical inference, and machine learning, developing methods to extract fundamental physics from large-scale structure and cosmic microwave background surveys. His research focuses on field-level inference: analyzing cosmological data directly at the level of maps and three-dimensional density fields, rather than only through compressed summary statistics. This enables the reconstruction of the Universe’s initial conditions, the end-to-end propagation of survey systematics, and access to information that is otherwise lost in traditional analyses.
