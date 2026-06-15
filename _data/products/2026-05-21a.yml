@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-05-21
+title: "Concatenating Algebraic Codes over High-Rate Quantum LDPC Codes"
+authors: "Adam Wills, Michael E. Beverland, Lev S. Bishop, Jay M. Gambetta, Patrick Rall, Vikesh Siddhu, Andrew W. Cross"
+abstract: "Different quantum error correction schemes trade off overhead, error suppression, and hardware connectivity. Code concatenation can relax these tradeoffs by using an outer code whose non-local connectivity is supplied by logical operations of an inner code rather than directly by hardware. Prior works showed that this can reduce memory overhead for local low-rate inner codes such as the surface code. Here, we study concatenation over non-local, high-rate inner codes. Such inner codes experience correlated errors among the many logical qubits in a single codeblock. We handle this by treating each block as a single logical Galois qudit, enabling concatenation with algebraic outer codes with excellent parameters and, crucially, list decoders. In particular, we consider a memory system formed by concatenating quantum Reed-Solomon outer codes over the gross code. For fault-tolerant syndrome extraction, we develop a Galois qudit Shor scheme using 'time-like' Reed-Solomon protection against measurement errors. Interestingly, a lightweight fault tolerance scheme, that would fail for qubits, works well for large-alphabet qudits, suggesting a very different theory of fault tolerance for such qudits. The whole protocol is optimised via improved bicycle instruction logical error rates, novel compilation strategies, and recent decoder post-selection rules. At uniform 10−3 physical noise, the concatenated gross code reaches the teraquop regime, which it previously could not access, with a lower space overhead than the 288-qubit two-gross code, while offering several advantages from the engineering standpoint. Beyond our main case study, we believe the core ideas of Galois qudits, quantum Reed-Solomon outer codes, and list decoding, will prove generically powerful and highly transferable ideas across high-rate quantum architectures."
+arxiv: "2605.21898"
+date-updated: 2026-06-15
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{wills2026concatenatingalgebraiccodeshighrate,
+      title={Concatenating Algebraic Codes over High-Rate Quantum LDPC Codes},
+      author={Adam Wills and Michael E. Beverland and Lev S. Bishop and Jay M. Gambetta and Patrick Rall and Vikesh Siddhu and Andrew W. Cross},
+      year={2026},
+      eprint={2605.21898},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2605.21898},
+  }
