@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-05-19
+title: "Forced Gap Post-Selection for Quantum LDPC Codes and their Operations"
+authors: "Adam Wills, Theodore J. Yoder, Isaac Chuang"
+abstract: "We develop a simple and general post-selection strategy for high-rate quantum codes that is transferrable across decoders. After an initial baseline run, the decoder is re-run once per logical observable, and forced in these latter runs to provide a solution where the given observable has the complementary outcome. Shots are rejected that find logically complementary solutions with similar likelihoods compared to the baseline. Using the Relay-BP decoder, we benchmark the strategy on the 72-qubit and 144-qubit bivariate bicycle codes, as well as surgery gadgets for the latter. In comparison to previous post-selection strategies, our results offer an improved logical error rate by over a factor of 4 on the same circuit and physical error rate, and at the same rate of post-selection. Our strategies are also lightweight, relying only on FPGA-friendly belief propagation, whereas the previous best used repeated rounds of a high-latency BP-OSD decoder."
+arxiv: "2605.20346"
+date-updated: 2026-06-15
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{wills2026forcedgappostselectionquantum,
+      title={Forced Gap Post-Selection for Quantum LDPC Codes and their Operations},
+      author={Adam Wills and Theodore J. Yoder and Isaac Chuang},
+      year={2026},
+      eprint={2605.20346},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2605.20346},
+  }
