@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "Nuclear Physics at the Quantum-AI Frontier (NuQAI 2026)"
+  event-organizer: "Benedikt Maier, Imperial College London"
+  more-info-link: "https://indico.mit.edu/event/2177/"
+  event-post-date: "2026-06-21"
+  start-date-time: "2026-08-03 08:00"
+  end-date-time: "2026-08-04 18:00"
+  talk-location: Building 36, 50 Vassar St, MIT
+  talk-zoom: 
+  event-details: "We are happy to announce the “Nuclear Physics at the Quantum-AI Frontier (NuQAI 2026)” workshop to take place at MIT on August 3–4, 2026. This two-day intensive "town hall" style workshop will bring together leaders across the five DOE National Quantum Information Science Research Centers, NSF AI Institutes, and industry. Our primary objective is to align technical goals and catalyze strategic teaming for the DOE’s Genesis initiative, harnessing AI and quantum computing for breakthroughs to advance scientific frontiers, with a particular focus on nuclear and high-energy physics. The workshop will culminate in a co-authored technical roadmap and a briefing to the Department of Energy. The workshop is organized jointly by the Co-design Center for Quantum Advantage (C2QA), the MIT Laboratory for Nuclear Science (LNS), and the NSF Institute for AI and Fundamental Interactions (AIFI).  You are welcome to register at: https://indico.mit.edu/event/2177/"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDduN2g5aWlvM2duaTVubHRpM3E1Ymh1ZnMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "SPECIAL SEMINAR: Beyond Expectations: Machine Learning Anomalies in High-Energy Collisions"
   event-organizer: "Benedikt Maier, Imperial College London"
   more-info-link: 
