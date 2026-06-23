@@ -564,7 +564,7 @@ We have established discounted rates for August 9–August 15, 2026 at the follo
     
     $219 nightly rate
     
-    Deadline to book; 11:59 PM on Thursday, 06/25/2026
+    Deadline to book; Friday, July 10, 2026
 
   [Book online](https://www.hyatt.com/events/en-US/group-booking/BOSRC/G-IAIF)
 
