@@ -1,4 +1,17 @@
 - type: "external-event"
+  event-name: "Workshop: Learning Dynamics in Natural and Artificial Intelligence"
+  event-organizer: "Kemner Institute, Harvard University"
+  more-info-link: "https://kempnerinstitute.harvard.edu/events/learning-dynamics-workshop-sep-2026/"
+  event-post-date: "2026-09-02"
+  start-date-time: "2026-09-04 10:00"
+  end-date-time: "2026-09-04 15:00"
+  talk-location: "David Rubenstein Treehouse at Harvard University"
+  talk-zoom:
+  rsvp-link: 
+  event-details: "The workshop will convene researchers from AI, neuroscience, cognitive science, and related disciplines to examine the principles governing learning and training dynamics accross natural and artificial systems. Organized around themes at the intersection of evolution, biological intelligence, and AI, the meeting will explore how biological and artificial systems each achieve— or fail to achieve— efficiency, flexibility, robustness and generalization."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDduN2g5aWlvM2duaTVubHRpM3E1Ymh1ZnMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "Nuclear Physics at the Quantum-AI Frontier (NuQAI 2026)"
   event-organizer: "Co-design Center for Quantum Advantage (C2QA), the MIT Laboratory for Nuclear Science (LNS), and the NSF Institute for AI and Fundamental Interactions (IAIFI)"
   more-info-link: "https://indico.mit.edu/event/2177/"
