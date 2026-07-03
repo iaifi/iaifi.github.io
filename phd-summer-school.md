@@ -68,26 +68,32 @@ Lecturer: [Miles Cranmer](https://www.maths.cam.ac.uk/person/mc2473), Assistant 
 
 ## Tutorial Leads
 
+<img class="image" src="images/small-photo-mathis-gerdes.jpg" align="right" style="max-width:226px;width:8%;clear:right" hspace="10" vspace="10"/>
 ### Topic: Generative Modeling/Diffusion
 
-Tutorial Lead: TBA
+Tutorial Lead: [Mathis Gerdes](https://www.mathisgerdes.com/), IAIFI Fellow
 
+<img class="image" src="images/jose-munoz-summer-school.png" align="right" style="max-width:226px;width:8%;clear:right" hspace="10" vspace="10"/>
 ### Topic: Symbolic Regression
 
-Tutorial Lead: TBA
+Tutorial Lead: [Jose Munoz](https://munozariasjm.github.io/), PhD Student, MIT
 
+<img class="image" src="images/small-photo-aneel-damaraju.jpg" align="right" style="max-width:226px;width:8%;clear:right" hspace="10" vspace="10"/>
 ### Topic: Computer Vision
 
-Tutorial Lead: TBA
+Tutorial Leads: Aneel Damaraju, PhD Student, Harvard, and Franc O, PhD Student, Northeastern
 
+<img class="image" src="images/small-photo-christina-reissel.jpg" align="right" style="max-width:226px;width:8%;clear:right" hspace="10" vspace="10"/>
 ### Topic: Simulation-Based Inference
 
-Tutorial Lead: TBA
+Tutorial Lead: [Christina Reissel](https://www.linkedin.com/in/christina-reissel-06bab818a/), IAIFI Fellow
 
 
 ## Agenda
 
-*The below is a sample agenda. The final agenda will be announced in Spring 2026.*
+*Details to be added in the coming weeks.*
+
+<!--
 
 ### Monday, August 3, 2026
 
@@ -237,6 +243,7 @@ Hackathon presentations
 
 Closing
 
+-->
 
 ## Financial Supporters
 The Summer School is funded primarily by support from the National Science Foundation under Cooperative Agreement PHY-2019786. Computing resources are provided by the NSF ACCESS program.
