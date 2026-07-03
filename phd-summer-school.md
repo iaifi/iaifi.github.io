@@ -23,8 +23,13 @@ The Summer School is followed by the [IAIFI Summer Workshop](/summer-workshop), 
 
 <br><br><br>
 
-[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg} [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
+[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Lecturers](#lecturers){:.button.button--outline-primary.button--pill.button--lg} [Tutorial Leads](#tutorial-leads){:.button.button--outline-primary.button--pill.button--lg} [Costs](#costs){:.button.button--outline-primary.button--pill.button--lg} [Sponsors](#financial-supporters){:.button.button--outline-primary.button--pill.button--lg} [FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg} [Past Schools](/past-summer-schools.html){:.button.button--outline-primary.button--pill.button--lg}
 
+<!--
+
+[Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}
+
+--> 
 
 ## About 
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The Summer School will include lectures and events that illustrate interdisciplinary research at the intersection AI and Physics, and encourage global networking. Hands-on code-based tutorials that build on foundational lecture materials help students put theory into practice, and a hackathon project provides an opportunity for students to collaborate and apply what they've learned.
@@ -35,8 +40,12 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 [Apply](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845){:.button.button--outline-primary.button--pill.button--lg}
 
+<!--
+
 ## Accommodations
 Students for the Summer School have the option to reserve dorm rooms. IAIFI will reimburse the cost of 5 nights in the dorms after the Summer School, contingent upon attendance. Instructions for this will be provided to attendees in April.
+
+-->
 
 ## Costs
 * There is no registration fee for the Summer School. Costs of dorm accommodations will be reimbursed by IAIFI, contingent upon attendance. Students for the Summer School are expected to cover the cost of travel. 
@@ -91,7 +100,9 @@ Tutorial Lead: [Christina Reissel](https://www.linkedin.com/in/christina-reissel
 
 ## Agenda
 
-*Details to be added in the coming weeks.*
+<img class="image" src="images/2026SummerSchoolSchedule.png" align="center" style="max-width:2158px;width:100%" hspace="10" vspace="10"/>
+
+*Agenda is subject to change. Further detail to be added in the coming weeks.*
 
 <!--
 
