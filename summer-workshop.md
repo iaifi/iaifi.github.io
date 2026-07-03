@@ -26,7 +26,9 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 *The schedule is subject to change. More details to be provided later in July.*
 
-<img src="images/2025-summer-workshop.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
+Regarding IAIFI Industry Day Day on Friday, August 14: This will be an excellent networking opportunity between Workshop attendees, IAIFI members, and industry partners. Industry participants will include employees of Glasswing Ventures, QuEra Computing, Stripe, Draper, Extropic, Amazon, MathWorks, Mitsubishi Electric Research Laboratories (MERL), Physical Superintelligence PBC, Agentoid, Fine Structure Ventures, Engine Ventures, Extropic, and First Principles.
+
+<img src="images/2026WorkshopSchedule.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
 
 <!--
 
