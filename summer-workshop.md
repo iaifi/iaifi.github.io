@@ -24,11 +24,13 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ## Agenda
 
-More details to come later in Spring 2026. The below schedule is tentative and subject to change.
+*The schedule is subject to change. More details to be provided later in July.*
+
+Regarding IAIFI Industry Day Day on Friday, August 14: This will be an excellent networking opportunity between Workshop attendees, IAIFI members, and industry partners. Industry participants will include employees of Glasswing Ventures, QuEra Computing, Stripe, Draper, Extropic, Amazon, MathWorks, Mitsubishi Electric Research Laboratories (MERL), Physical Superintelligence PBC, Agentoid, Fine Structure Ventures, Engine Ventures, Extropic, and First Principles.
+
+<img src="images/2026WorkshopSchedule.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
 
 <!--
-<img src="images/2025-summer-workshop.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
--->
 
 ### Monday, August 10, 2026
 **9:00-9:15 am ET**
@@ -234,6 +236,7 @@ Networking Lunch (food provided)
 **2:00–3:00 pm ET**
 
 Industry Partner Expo and Reception
+-->
 
 ## Plenary Speakers
 Additional speakers will be added as they are confirmed. 
@@ -252,15 +255,15 @@ Additional speakers will be added as they are confirmed.
          </div>
          </div>
        </div>
-       
+
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-yasaman-bahri.jpg" alt="Yasaman Bahri" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/small-photo-franc-o.jpg" alt="Giorgi Butbaia" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://sites.google.com/view/yasamanbahri/home/">Yasaman Bahri</a>
+         <a href="https://scholar.google.com/citations?user=FNLypywAAAAJ&hl=en">Giorgi Butbaia</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Google DeepMind </em> <br>
+         <em> Caltech </em> <br>
          </div>
          </div>
        </div>
@@ -345,18 +348,6 @@ Additional speakers will be added as they are confirmed.
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Standford University </em> <br>
-         </div>
-         </div>
-       </div>
-       
-       <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-sergei-gukov.jpg" alt="Sergei Gukov" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://www.gukov.caltech.edu">Sergei Gukov</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Caltech </em> <br>
          </div>
          </div>
        </div>
@@ -457,6 +448,8 @@ Additional speakers will be added as they are confirmed.
          </div>
        </div>
 
+<!--
+
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-eva-silverstein.jpg" alt="Eva Silverstein" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
@@ -468,6 +461,8 @@ Additional speakers will be added as they are confirmed.
          </div>
          </div>
        </div>
+       
+-->
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
      <img class="my-card-img-top" src="images/small-photo-ben-wandelt.jpg" alt="Ben Wandelt" height="210rem" style="object-fit: cover;">
