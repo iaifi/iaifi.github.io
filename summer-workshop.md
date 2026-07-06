@@ -257,7 +257,7 @@ Additional speakers will be added as they are confirmed.
        </div>
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-franc-o.jpg" alt="Giorgi Butbaia" height="210rem" style="object-fit: cover;">
+         <img class="my-card-img-top" src="images/photo-giorgi-butbaia.jpg" alt="Giorgi Butbaia" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
          <div class="card-text" style="text-align: center; min-height: 2rem;">
          <a href="https://scholar.google.com/citations?user=FNLypywAAAAJ&hl=en">Giorgi Butbaia</a>
