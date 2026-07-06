@@ -551,7 +551,7 @@ We have established discounted rates for August 9–August 15, 2026 at the follo
     
     $219 nightly rate
     
-    Deadline to book; Friday, July 10, 2026
+    Deadline to book; Tuesday, July 21, 2026
 
   [Book online]([https://www.marriott.com/event-reservations/reservation-link.mi?id=1775327335150&key=GRP&app=resvlink&_branch_match_id=1559583832159949376&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uamxkbmxsamhqYFadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAY%2BYmpGAAAAA%3D](https://www.marriott.com/event-reservations/reservation-link.mi?id=1775327335150&key=GRP&app=resvlink&_branch_match_id=1559583832159949376&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi0uy0wtN7IHytiCODmZedlqmSm2hubmpsZG5sbGpoamBmrZqZW27kEBanVFqWmpQO156fFJRfnlxalFts4ZRfm5qQAceJyzYQAAAA%3D%3D))
 
