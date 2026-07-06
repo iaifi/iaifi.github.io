@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-07-05"
+  start-date-time: "2026-07-06 12:00"
+  end-date-time: "2026-07-06 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Atilla Alkan (ADS/CfA)<br>Title: Beyond Abstracts and Full Text: Investigating Optimal Input Representations for Multi-Label Scientific Document Classification<br>Abstract: The NASA Science Explorer indexes millions of publications, and organizing this literature means assigning each paper concepts from the Unified Astronomy Thesaurus. This is an extreme multi-label classification problem: more than 2,000 concepts, with a severely long-tailed label distribution. A less discussed obstacle is the input itself. Abstracts fit standard encoder budgets but omit methods, data, and secondary topics. Full texts are complete, but far exceed what a BERT-class classifier can read. In this talk, I present an approach in which a large language model writes the classifier's input: full texts are compressed into guided summaries that are both compact and concept-complete. On AstroConcepts, a corpus of 21,702 UAT-annotated papers, guided summaries outperform abstracts, truncated full text, and complete full text under an identical training protocol, and the gains are largest on rare, tail concepts, where the evidence tends to sit outside the abstract. I will end with what this means for concept indexing at SciX scale and for distilling summary knowledge back into the encoder."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MmRjYzA3aTlhZmdndDNmZzNoMmNmc3BhM3EgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "Workshop: Learning Dynamics in Natural and Artificial Intelligence"
   event-organizer: "Kemner Institute, Harvard University"
   more-info-link: "https://kempnerinstitute.harvard.edu/events/learning-dynamics-workshop-sep-2026/"
