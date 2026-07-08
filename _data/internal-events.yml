@@ -74,8 +74,38 @@
   rsvp-link:
   more-info-link: https://docs.google.com/document/d/1vKdVzDqEZjWuNc54qTf1sFWoHOTNmHGTpeSgMmtJeGY/edit?usp=sharing
   priority: high
+
+- type: "social"
+  event-name: "2026 Summer School Social"
+  event-committee: "Community Building"
+  event-post-date: "2026-07-12"
+  start-date-time: "2026-08-06 18:00"
+  end-date-time: "2026-08-06 20:00"
+  talk-location: "Museum of Science Boston"
+  talk-zoom:
+  event-details: "All IAIFI members are invited to the 2026 IAIFI Summer School Social! The event (hosted by PDT Partners) will include a catered dinner from 6:00-8:00pm, including after-hours exhibit to the new Making Waves museum exhibit. If you are not attending the Summer School, please make sure to fill out the RSVP form if you want to attend."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDljanQwMjRzdmk1NWtzcXZxOTJiYmFuamkgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  attendance-in-person: 0 #TBD
+  attendance-virtual: 0 #There was no virtual attendance option
   
 #Above this are very high-priority or standing events, such as the Forums, the semesterly Social, and the Summer School & Workshop.
+
+- type: "social"
+  event-name: "IAIFI Summer Student Showcase and Pizza Lunch"
+  event-committee: "Community Building"
+  event-post-date: "2026-07-19"
+  start-date-time: "2026-07-30 14:00"
+  end-date-time: "2025-07-30 15:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "All IAIFI members are invited to attend this informal showcase for IAIFI's summer students through the MIT Summer Research Program (MSRP), Undergraduate Research Opportunities Program (UROP), and the Research Science Institute (RSI). The students will present posters about their work over the summer, and food and refreshments will be provided. This will be a great opportunity to celebrate the work that the students have done."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=YWJyOTU4aTQzbHVlYzE2M3JvMDUzYTVjMnNfMjAyNjA3MzBUMTgwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  rsvp-link:
+  more-info-link:
+  attendance-in-person: 0
+  attendance-virtual: 0 #There was no virtual attendance option
 
 - type: "social"
   event-name: "IAIFI Pizza & Co-Working Session"
