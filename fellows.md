@@ -4,45 +4,46 @@ title: IAIFI Fellows
 ---
 
 
-## Call for Applications for 2026-2029 IAIFI Fellows
-
+## Call for Applications for 2027-2030 IAIFI Fellows
+<!--
 **Applications are now closed for the sixth round of the IAIFI Fellowship search.**
 {:.info}
+-->
 <!--
 [Apply to be an IAIFI Fellow](https://academicjobsonline.org/ajo/jobs/30155){:.button.button--outline-primary.button--pill.button--lg} 
 -->
 
 The NSF Institute for Artificial Intelligence and Fundamental Interactions (IAIFI, pronounced /aɪ-faɪ/) is one of the inaugural NSF AI research institutes. The IAIFI is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. AI is transforming many aspects of society, including the ways that scientists are pursuing groundbreaking discoveries.
 
-To facilitate these advances, the IAIFI seeks a talented and interdisciplinary group of researchers at an early stage of their careers to join the IAIFI Fellowship program. The role of an IAIFI Fellow is to spark vital interdisciplinary, multi-investigator, multi-subfield collaborations across the primary IAIFI domains of theoretical physics, experimental physics, astrophysics, and foundational AI. Such collaborations have immense power to generate new ideas and approaches in both physics and AI, to facilitate abstracting physics challenges beyond their native domains to inform the development of cutting-edge AI tools, and to instill a common language across disciplines. Our program aims to appoint new postdoctoral IAIFI Fellows each academic year, for a three-year fellowship term each.
+To facilitate these advances, the IAIFI seeks a talented and interdisciplinary group of researchers at an early stage of their careers to join the IAIFI Fellowship program. The role of an IAIFI Fellow is to spark vital interdisciplinary, multi-investigator, multi-subfield collaborations across some of the primary IAIFI domains of theoretical physics, experimental physics, astrophysics, and foundational AI. Such collaborations have immense power to generate new ideas and approaches in both physics and AI, to facilitate abstracting physics challenges beyond their native domains to inform the development of cutting-edge AI tools, and to instill a common language across disciplines. 
 
-Offers for this position will be contingent on availability of funding. However, there may be other related opportunities available through IAIFI faculty, so the application allows you to opt in to have your materials shared with IAIFI faculty for that purpose.
+Our program aims to appoint new IAIFI Postdoctoral Fellows each academic year for three-year fellowship terms, contingent upon programmatic need and the availability of funding. In addition to the IAIFI Fellowships, related postdoctoral opportunities may be available with IAIFI faculty. Applicants may opt in to have their application materials shared with IAIFI faculty for consideration for these positions.
 
-Fellows will be selected through an annual application process. Applicants should have, or be expected to receive by the 1st of September 2026, a PhD in Physics, Statistics, Computer Science, or a related field. Complete applications must include:
+Fellows will be selected through an annual application process. Applicants should have, or be expected to receive by the 1st of September 2027, a PhD in Physics, Astrophysics, Statistics, Computer Science, or a related field. Complete applications must include:
 * Cover letter (no more than 1 page);
 * CV (1-2 pages recommended, but longer accepted);
 * Statement of research interests (no more than 2 pages);
 * List of publications;
 * Exactly three reference letters.
 
-**The deadline to receive all the materials (including all reference letters) is the 8th of October 2025.**
+**The deadline to receive all the materials (including all reference letters) is the 7th of October 2026.**
 
 The Fellows will have substantial freedom in choosing their research focus; each fellow will work with two IAIFI mentors – one from Physics and one from AI – to guide their choice of research topic and evaluate their research progress. Part of the application will include identifying IAIFI faculty whom you feel would be a good match for your research goals. The IAIFI is committed to building a vibrant intellectual community, and strongly encourages applications from interested researchers, regardless of background. Any inquiries about the program should be directed to [iaifi-fellows@mit.edu](mailto:iaifi-fellows@mit.edu). Answers to frequently asked questions can be found at [https://iaifi.org/fellows.html#faq](https://iaifi.org/fellows.html#faq).
 
-The IAIFI is a joint NSF-funded venture between MIT, Harvard, Northeastern, and Tufts. Fellows are encouraged to collaborate with other IAIFI members. All Fellows are granted work space at MIT. In addition, Fellows can be affiliated with and have work space at any of the four Boston-area IAIFI universities.
+The IAIFI is a joint NSF-funded venture between MIT, Harvard, Northeastern, Tufts, and Boston University. Fellows are encouraged to collaborate with other IAIFI members. All Fellows are granted work space at MIT. In addition, Fellows can be affiliated with and have work space at any of the other four Boston-area IAIFI universities.
 
-MIT is an equal employment opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, genetic information, veteran status, ancestry, or national or ethnic origin. MIT’s full policy on Nondiscrimination can be found [here](https://policies.mit.edu/policies-procedures/90-relations-and-responsibilities-within-mit-community/92-nondiscrimination).
+MIT is an equal opportunity employer. We strongly encourage applications from individuals from all identities and backgrounds. All qualified applicants will receive equitable consideration for employment based on their experience and qualifications and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, pregnancy, religion, disability, age, genetic information, veteran status, or national or ethnic origin. View [MIT Policy on Non Discrimination](https://policies.mit.edu/policies-procedures/70-general-employment-policies/71-equal-opportunity-affirmative-action) and [EEOC’s Know Your Rights](https://www.eeoc.gov/sites/default/files/2022-10/EEOC_KnowYourRights_screen_reader_10_20.pdf). Employment is contingent upon the completion of a satisfactory background check, including possible verification of any findings of misconduct (or pending investigations) from prior employers.
 
 ### FAQ
 
-*  **What is the anticipated start date for the 2026-2029 IAIFI Fellowship?**  The expected start date is September 1, 2026, but we will consider alternative start dates on a case by case basis.
+*  **What is the anticipated start date for the 2027-2030 IAIFI Fellowship?**  The expected start date is September 1, 2027, but we will consider alternative start dates on a case by case basis.
 *  **What is the timeline after I've submitted my application?** You will be notified about whether you have been shortlisted for an interview by mid-November to mid-December. Candidates on the shortlist will have one virtual interview and offers will be made by late December to early January. 
 *  **Will you sponsor visas for international applicants?**  If selected for an IAIFI Fellowship, we will work with the MIT International Scholars Office (ISchO) to determine the [appropriate visa for your situation](http://web.mit.edu/scholars/administrators/sponsorshippolicy.html#visaspon).
 *  **Am I still eligible for an IAIFI Fellowship if my research is only in Physics or only in AI?**  The aim of the IAIFI is to foster interdisciplinary research at the intersection of Physics and AI.  Even if your expertise is only in one area, your proposed research should aim to build bridges across disciplines.
 *  **What if I'm interested in having a mentor who is not on the list?** All IAIFI Fellows are expected to have one mentor in physics and one in AI. The list of options in the application includes all IAIFI Senior Investigators and Affiliates, so you must choose two from that list for the application, but alternative mentor options can be discussed if you move forward with the application. 
 *  **Do I need to contact potential mentors before I apply?** No, you do not need to contact any potential mentors before applying. Instead, indicate your desired mentors in your application.
 *  **Can my application include four reference letters?**  No, in order to keep the selection criteria uniform, each candidate can only have three reference letters in their application.
-*  **If I'm offered a fellowship, when would the decision deadline be for me to accept?** February 15, 2026 is the decision deadline, in line with similar searches in IAIFI-related fields. 
+*  **If I'm offered a fellowship, when would the decision deadline be for me to accept?** February 14, 2027 is the decision deadline, in line with similar searches in IAIFI-related fields. 
 *  **Are IAIFI Fellows required to have English language skills?** English language proficiency is required to obtain a J-1 Visa and therefore be employed by MIT if you are coming from outside the United States.
 *  **If I am chosen for the fellowship, do I need to be in the Boston area?** We expect our IAIFI Fellows to participate in the life of the institute, which includes working primarily in the Boston area. For certain life circumstances, we can be flexible, but at minimum, Fellows need to be residents of Massachusetts, as MIT will be their official employer.
 *  **Does the 2-page limit for the research statement include references and figures?** References in the research statement are optional and **will not** count against the page limit. Figures are also optional and **do** count against the page limit.
@@ -57,6 +58,8 @@ MIT is an equal employment opportunity employer. All qualified applicants will r
 * **Is there any requirement for the font size or paper margin?** There is no requirement for font size or paper margin as long as it is readable.
 * **What is the difference between the research statement and the cover letter?** In general, the primary evaluation will be based on the research statement.  The cover letter is a place to summarize the information in the rest of the file and perhaps add information that doesn't fit anywhere else.
 
+<!---
+
 ### Advertising the Fellowship
 We aim to spread the word about the Fellowship as widely as possible. In addition to sharing the announcement with individuals, we have posted the job in the following places:
 *  [AAS Job Register](https://jobregister.aas.org/ad/60ea22fb)
@@ -69,6 +72,8 @@ We aim to spread the word about the Fellowship as widely as possible. In additio
 *  [Women in Astronomy mailing list](https://jobregister.aas.org/ad/b6a19365)
 
 If you have suggestions for anywhere else where we should be sharing the announcement, please email [iaifi-fellows@mit.edu](mailto:iaifi-fellows@mit.edu).
+
+ --->
  
 <!---
 ### Call for Applications

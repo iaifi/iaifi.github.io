@@ -6,7 +6,7 @@ title: "IAIFI Events Reminder"
 show_title: false
 ---
 
-{% assign target_date = "2026-04-17" %}
+{% assign target_date = "2026-07-17" %}
 {% assign formatted_target = target_date | date: "%A, %B %e, %Y" %}
 
 Dear IAIFI,

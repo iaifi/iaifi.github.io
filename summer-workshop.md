@@ -448,8 +448,6 @@ Additional speakers will be added as they are confirmed.
          </div>
        </div>
 
-<!--
-
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
          <img class="my-card-img-top" src="images/small-photo-eva-silverstein.jpg" alt="Eva Silverstein" height="210rem" style="object-fit: cover;">
          <div class="card-body d-flex flex-column">
@@ -461,8 +459,6 @@ Additional speakers will be added as they are confirmed.
          </div>
          </div>
        </div>
-       
--->
 
     <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
      <img class="my-card-img-top" src="images/small-photo-ben-wandelt.jpg" alt="Ben Wandelt" height="210rem" style="object-fit: cover;">
