@@ -5,19 +5,26 @@ title: "Bridging Simulations and EFT: A Hybrid Model of the Lyman-Alpha Forest F
 authors: "Roger de Belsunce, Boryana Hadzhiyska, Mikhail M. Ivanov"
 abstract: "The Lyman-alpha (Lya) forest is a unique probe of cosmology and the intergalactic medium at high redshift and small scales. The statistical power of the ongoing Dark Energy Spectroscopic Instrument (DESI) demands precise theoretical tools to model the Lya forest. We present a hybrid effective field theory (HEFT) forward model in redshift space that leverages the accuracy of non-linear particle displacements computed using the N-body simulation suite AbacusSummit with the predictive power of an analytical, perturbative bias forward model in the framework of the effective field theory (EFT). The residual noise between the model and the simulated Lya field has a nearly white (scale-and orientation-independent) power spectrum on quasi-linear scales, substantially simplifying its modeling compared to a purely perturbative description. As a consequence of the improved control over the 3D Lya forest stochasticity, we find agreement between the modeled and the true power spectra at the 5 per cent level down to scales of k <= 1 h/Mpc. This procedure offers a promising path toward constructing efficient and accurate emulators to predict large-scale clustering summary statistics for full-shape cosmological analyses of Lya forest data from both DESI and its successor, DESI-II."
 arxiv: "2512.13681"
-date-updated: 2026-02-02
-journal:
-doi:
+date-updated: 2026-07-19
+journal: "Phys. Rev. D 113, 083529 (2026)"
+doi: "https://doi.org/10.1103/9h7x-2dx9"
 nsf-par:
 code:
-publication-date:
+publication-date: 2026-04-21
 bib-tex: |
-  @article{debelsunce2025bridgingsimulationsefthybrid,
-      title={Bridging Simulations and EFT: A Hybrid Model of the Lyman-Alpha Forest Field},
-      author={Roger de Belsunce and Boryana Hadzhiyska and Mikhail M. Ivanov},
-      year={2025},
-      eprint={2512.13681},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.CO},
-      url={https://arxiv.org/abs/2512.13681},
+  @article{9h7x-2dx9,
+  title = {Bridging simulations and EFT: A hybrid model of the Lyman-$\ensuremath{\alpha}$ forest field},
+  author = {de Belsunce, Roger and Hadzhiyska, Boryana and Ivanov, Mikhail M.},
+  journal = {Phys. Rev. D},
+  volume = {113},
+  issue = {8},
+  pages = {083529},
+  numpages = {15},
+  year = {2026},
+  month = {Apr},
+  publisher = {American Physical Society},
+  doi = {10.1103/9h7x-2dx9},
+  url = {https://link.aps.org/doi/10.1103/9h7x-2dx9},
+  eprint={2512.13681},
+  archivePrefix={arXiv},
   }
