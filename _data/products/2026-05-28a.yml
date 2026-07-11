@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-05-28
+title: "The Sample Complexity of Multiclass and Sparse Contextual Bandits"
+authors: "Liad Erez, Fan Chen, Alon Cohen, Tomer Koren, Yishay Mansour, Shay Moran, Alexander Rakhlin"
+abstract: "We study contextual bandits in the stochastic i.i.d.\ setting, where a learner observes contexts drawn from an unknown distribution, selects actions from a finite set A, and aims to identify an approximately optimal policy from a given class based on bandit feedback. Motivated by bandit multiclass classification with zero-one rewards, we focus on the \emph{s-sparse} setting in which, for every context, the reward vector has L1-norm at most s≪|A|. Our main result is the design of algorithms that, with high probability, output an ϵ-optimal policy compared to policy class Π using Õ ((s/ϵ2+|A|/ϵ)log|Π|/δ) samples. We extend this bound to general Natarajan classes and complement it with a matching lower bound (up to logarithmic factors), thereby closing a substantial gap left by prior work (Erez et al., 2024, 2025), which incurred an additional Θ(|A|9) dependence. We obtain these results via two complementary approaches. First, we analyze contextual bandits through the lens of contextual decision making with structured observations, designing an exploration-by-optimization algorithm whose sample complexity is governed by the \emph{decision-estimation coefficient} (DEC; Foster et al., 2021, 2022). We show that, with s-sparse rewards, the induced model class admits a sharp DEC bound that scales with s and directly yields the optimal rate. Since this approach is largely information-theoretic and involves solving complex min-max optimization problems, we also develop a second, more specialized algorithmic method based on a low-variance exploration technique. This approach leads to concrete, tractable algorithms and naturally extends to contextual combinatorial semi-bandits, leading to improved sample complexity guarantees for bandit multiclass list classification."
+arxiv: "2605.29645"
+date-updated: 2026-10-09
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{erez2026samplecomplexitymulticlasssparse,
+      title={The Sample Complexity of Multiclass and Sparse Contextual Bandits},
+      author={Liad Erez and Fan Chen and Alon Cohen and Tomer Koren and Yishay Mansour and Shay Moran and Alexander Rakhlin},
+      year={2026},
+      eprint={2605.29645},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2605.29645},
+  }

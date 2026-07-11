@@ -1,0 +1,27 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2026-04-17
+title: "Evidence for Environmental Stripping in the Coma Cluster"
+authors: "Richard T. Pomeroy, Juan P. Madrid, Conor R. O'Neill, Alexander T. Gagliano"
+abstract: "The stability and longevity of globular clusters (GCs) make them effective tracers of the dynamical histories of galaxies in cluster environments. We construct a catalog of 23,351 GC candidates in the Coma cluster using imaging from the Hubble Space Telescope Advanced Camera for Surveys. We cross-match galaxy data from the SIMBAD, NED, and SDSS archives to construct a galaxy sample and model their GC populations using the GC specific frequency. We find several galaxies with significantly smaller GC populations than expected from their luminosities, consistent with either tidal stripping or intrinsically low formation efficiencies. We analyze annular and Voronoi GC radial profiles of the BCGs (NGC 4874 and NGC 4889) and other Coma galaxies. A 2D Voronoi density mapping reveals GC populations with marked deficits compared to our modeled expectations, including galaxies in proximity to the BCGs (e.g., IC 3998, NGC 4875, NGC 4876) and others distributed across Coma (e.g., NGC~4908, NGC~4883, IC~4042). Azimuthal symmetry testing suggests past dynamical interactions may have truncated GC systems in some galaxies, while intrinsic deficits are probable in others (e.g., IC 3973, IC 3976, IC 4040, IC 4045). Our results show that GC deficits exist in several Coma galaxies and that the 2D density structure reveals environmental signatures, with asymmetry statistics consistent with directional stripping. These findings highlight GC populations as powerful probes of environmental processing and the dynamical histories of galaxies in dense cluster environments."
+arxiv: "2604.16619"
+date-updated: 2026-09-24
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{Pomeroy_2026,
+   title={Evidence for Environmental Stripping in the Coma Cluster},
+   volume={1002},
+   ISSN={1538-4357},
+   url={http://dx.doi.org/10.3847/1538-4357/ae6115},
+   DOI={10.3847/1538-4357/ae6115},
+   number={2},
+   journal={The Astrophysical Journal},
+   publisher={American Astronomical Society},
+   author={Pomeroy, Richard T. and Madrid, Juan P. and O’Neill, Conor R. and Gagliano, Alexander T.},
+   year={2026},
+   month=May, pages={211} }
+  }

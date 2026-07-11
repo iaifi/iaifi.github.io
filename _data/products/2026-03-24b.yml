@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-03-24
+title: "End-to-End Efficient RL for Linear Bellman Complete MDPs with Deterministic Transitions"
+authors: "Zakaria Mhammedi, Alexander Rakhlin, Nneka Okolo"
+abstract: "We study reinforcement learning (RL) with linear function approximation in Markov Decision Processes (MDPs) satisfying \emph{linear Bellman completeness} -- a fundamental setting where the Bellman backup of any linear value function remains linear. While statistically tractable, prior computationally efficient algorithms are either limited to small action spaces or require strong oracle assumptions over the feature space. We provide a computationally efficient algorithm for linear Bellman complete MDPs with \emph{deterministic transitions}, stochastic initial states, and stochastic rewards. For finite action spaces, our algorithm is end-to-end efficient; for large or infinite action spaces, we require only a standard argmax oracle over actions. Our algorithm learns an ε-optimal policy with sample and computational complexity polynomial in the horizon, feature dimension, and 1/ε."
+arxiv: "2603.23461"
+date-updated: 2026-09-28
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{mhammedi2026endtoendefficientrllinear,
+      title={End-to-End Efficient RL for Linear Bellman Complete MDPs with Deterministic Transitions},
+      author={Zakaria Mhammedi and Alexander Rakhlin and Nneka Okolo},
+      year={2026},
+      eprint={2603.23461},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2603.23461},
+  }

@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-04-24
+title: "GenMatter: Perceiving Physical Objects with Generative Matter Models"
+authors: "Eric Li, Arijit Dasgupta, Yoni Friedman, Mathieu Huot, Vikash Mansinghka, Thomas O'Connell, William T. Freeman, Joshua B. Tenenbaum"
+abstract: "Human visual perception offers valuable insights for understanding computational principles of motion-based scene interpretation. Humans robustly detect and segment moving entities that constitute independently moveable chunks of matter, whether observing sparse moving dots, textured surfaces, or naturalistic scenes. In contrast, existing computer vision systems lack a unified approach that works across these diverse settings. Inspired by principles of human perception, we propose a generative model that hierarchically groups low-level motion cues and high-level appearance features into particles (small Gaussians representing local matter), and groups particles into clusters capturing coherently and independently moveable physical entities. We develop a hardware-accelerated inference algorithm based on parallelized block Gibbs sampling to recover stable particle motion and groupings. Our model operates on different kinds of inputs (random dots, stylized textures, or naturalistic RGB video), enabling it to work across settings where biological vision succeeds but existing computer vision approaches do not. We validate this unified framework across three domains: on 2D random dot kinematograms, our approach captures human object perception including graded uncertainty across ambiguous conditions; on a Gestalt-inspired dataset of camouflaged rotating objects, our approach recovers correct 3D structure from motion and thereby accurate 2D object segmentation; and on naturalistic RGB videos, our model tracks the moving 3D matter that makes up deforming objects, enabling robust object-level scene understanding. This work thus establishes a general framework for motion-based perception grounded in principles of human vision."
+arxiv: "2604.22160"
+date-updated: 2026-09-10
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{li2026genmatterperceivingphysicalobjects,
+      title={GenMatter: Perceiving Physical Objects with Generative Matter Models},
+      author={Eric Li and Arijit Dasgupta and Yoni Friedman and Mathieu Huot and Vikash Mansinghka and Thomas O'Connell and William T. Freeman and Joshua B. Tenenbaum},
+      year={2026},
+      eprint={2604.22160},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.22160},
+  }

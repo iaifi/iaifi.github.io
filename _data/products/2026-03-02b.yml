@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-03-02
+title: "Large Electron Model: A Universal Ground State Predictor"
+authors: "Timothy Zaklama, Max Geier, Liang Fu"
+abstract: "We introduce Large Electron Model, a single neural network model that produces variational wavefunctions of interacting electrons over the entire Hamiltonian parameter manifold. Our model employs the Fermi Sets architecture, a universal representation of many-body fermionic wavefunctions, which is further conditioned on Hamiltonian parameter and particle number. For interacting electrons in a two-dimensional harmonic potential, a single trained model accurately predicts the ground state wavefunction while generalizing across unseen coupling strengths and particle-number sectors, producing both accurate real-space charge densities and ground state energies, even up to 50 particles. Our results establish a foundation model method for material discovery that is grounded in the variational principle, while accurately treating strong electron correlation beyond the capacity of density functional theory."
+arxiv: "2603.02346"
+date-updated: 2026-09-25
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{zaklama2026largeelectronmodeluniversal,
+      title={Large Electron Model: A Universal Ground State Predictor},
+      author={Timothy Zaklama and Max Geier and Liang Fu},
+      year={2026},
+      eprint={2603.02346},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.str-el},
+      url={https://arxiv.org/abs/2603.02346},
+  }

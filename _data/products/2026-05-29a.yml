@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2026-05-29
+title: "JWST Reveals Large Reservoirs of Dust and Ongoing Circumstellar Interaction in SN Ibn/Icn 2023xgo over a Year Post-Explosion"
+authors: "Kyle W. Davis, Kirsty Taggart, Samaporn Tinyanont, Ryan J. Foley, Jeonghee Rho, Katie Auchettl, Diego Farias, Ori D. Fox, Joel Johansson, Charles D. Kilpatrick, Kishore C. Patra, Craig Pellegrino, Enrico Ramirez-Ruiz, David A. Coulter, Yize Dong, Alexander T. Gagliano, T. R. Geballe, Wynn V. Jacobson-Galán, Jenna Karcheski, Ravjit Kaur, Ryan M. Lau, Thomas Moore, Seong Hyun Park, Armin Rest, Tamás Szalai, Qinan Wang"
+abstract: "We present infrared (IR) photometric and spectroscopic observations of SN 2023xgo, a recent and nearby Type Ibn/Icn supernova (SN Ibn/Icn) which shows shock interaction with a He/C-rich and H-poor circumstellar medium (CSM). Although interacting SNe are predicted to produce large amounts of dust, the rarity of SNe Ibn and Icn has resulted in few opportunities to observe these objects in the IR at late times. Here, we report observations of SN 2023xgo from JWST (NIRSpec and MIRI), WISE, and Gemini taken out to +377 days post-explosion. At +377 days, the JWST spectrum is consistent with both emission from cool (~300-600 K) silicate dust with M≳3×10−2 M⊙ at a radius similar to the shock radius (2.3×1016 cm), and optically thin carbonaceous dust with M=8×10−3 M⊙. We also detect narrow (FWHM = 520+/-130 km s−1) He I λ2.06 micron emission at +377 days, indicating that the SN shock continues to encounter material shed from the star to this late epoch. The emission line is blueshifted from the rest frame by 340+/-40 km s−1. The Gemini and WISE observations at ~70-100 days reveal emission from 6.8×10−5 M⊙ of hot (~1300 K) dust, which we interpret as a lower limit of the total dust mass at that phase. Molecular gas emission is not detected in any data, though emission line profiles in the optical and NIR taken at ~70 days after explosion show progressively less redshifted emission, attributed to attenuation from dust and suggesting that some dust is rapidly forming interior to the unshocked CSM. The large dust mass and rapid onset of dust formation observed in SN 2023xgo show that the unique physical environments of SNe Ibn/Icn facilitate substantial dust formation both before and after the SN."
+arxiv: "2606.00208"
+date-updated: 2026-10-07
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{davis2026jwstrevealslargereservoirs,
+      title={JWST Reveals Large Reservoirs of Dust and Ongoing Circumstellar Interaction in SN Ibn/Icn 2023xgo over a Year Post-Explosion},
+      author={Kyle W. Davis and Kirsty Taggart and Samaporn Tinyanont and Ryan J. Foley and Jeonghee Rho and Katie Auchettl and Diego Farias and Ori D. Fox and Joel Johansson and Charles D. Kilpatrick and Kishore C. Patra and Craig Pellegrino and Enrico Ramirez-Ruiz and David A. Coulter and Yize Dong and Alexander T. Gagliano and T. R. Geballe and Wynn V. Jacobson-Galán and Jenna Karcheski and Ravjit Kaur and Ryan M. Lau and Thomas Moore and Seong Hyun Park and Armin Rest and Tamás Szalai and Qinan Wang},
+      year={2026},
+      eprint={2606.00208},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.HE},
+      url={https://arxiv.org/abs/2606.00208},
+  }

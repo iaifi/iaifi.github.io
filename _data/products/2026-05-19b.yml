@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-05-19
+title: "Toric Landau-Ginzburg models in threefold divisorial contractions"
+authors: "Yang He, Artan Sheshmani"
+abstract: "We investigate quantum periods and toric Landau-Ginzburg models under divisorial contractions of terminal Fano threefolds. Let g:Y→X be a divisorial contraction between ℚ-factorial Fano threefolds with ordinary terminal singularities and E be the exceptional divisor. Assuming that the center of the contraction is either a smooth point, a terminal quotient point, a point of type cA/n, or a smooth curve with singularities of type cA or cA/n, we prove the regularized period identity limr→+∞Ĝ Y,rE(t)=Ĝ X(t) where Ĝ Y,rE(t) and Ĝ X(t) are the regularized quantum periods of (Y,rE) and X respectively. This gives a mirror approach to the computation of the Sarkisov links and higher syzygies of central models of dimension 3."
+arxiv: "2605.20126"
+date-updated: 2026-10-08
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{he2026toriclandauginzburgmodelsthreefold,
+      title={Toric Landau-Ginzburg models in threefold divisorial contractions},
+      author={Yang He and Artan Sheshmani},
+      year={2026},
+      eprint={2605.20126},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2605.20126},
+  }

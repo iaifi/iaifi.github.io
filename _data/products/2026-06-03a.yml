@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-06-03
+title: "Kaleidoscopes, Waves and the Prepotential"
+authors: "Rafael Álvarez-García, Fabian Ruehle"
+abstract: "Isomorphic flops are topology-changing transitions connecting two diffeomorphic families of Calabi-Yau threefolds. They correspond to the generators of certain Coxeter groups acting on the moduli space. As a consequence of these symmetries, the prepotential of 4D =2 Type IIA compactifications on such varieties must assemble into Coxeter-invariant functions. We construct a database of all Coxeter symmetries from isomorphic flops in Kähler-favorable CICYs. The action of the Coxeter group on the Kähler moduli space leaves a symmetric bilinear form invariant, which we interpret as a metric and construct its associated Laplace-Beltrami operator. We argue that the Coxeter-invariant functions featured in the prepotential solve the Helmholtz equation with this Laplacian, and that the prepotential can then be resummed into a decomposition in terms of eigenfunctions of the Laplace-Beltrami operator. The convergence rate of the raw orbit sums of worldsheet instanton contributions and the resummed expressions are complementary, with the latter sharply localizing around the first few terms in the interior of the moduli space."
+arxiv: "2606.05280"
+date-updated: 2026-08-25
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{álvarezgarcía2026kaleidoscopeswavesprepotential,
+      title={Kaleidoscopes, Waves and the Prepotential},
+      author={Rafael Álvarez-García and Fabian Ruehle},
+      year={2026},
+      eprint={2606.05280},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2606.05280},
+  }

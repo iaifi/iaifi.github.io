@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-06-02
+title: "Full Extractors for Logical Processing in Hypergraph Product Codes"
+authors: "John Blue, Zhiyang He, Hengyun Zhou, Isaac L. Chuang"
+abstract: "Quantum low-density parity-check (QLDPC) codes are promising candidates for practical low-overhead quantum memories. For large-scale fault-tolerant quantum computation, we further need logical processing methods for QLDPC codes. In this work, we construct full extractors -- surgery systems capable of measuring arbitrary logical Pauli operators on a code block -- for several hypergraph product (HGP) codes. These extractors enable logical processing via Pauli-based computation (PBC) without the compilation overhead observed in prior works. Moreover, our extractors have sizes between 50% and 80% of the base HGP codes, and the extractor-augmented codes can be supported on fixed connectivity hardware with maximum qubit degree ten. Our approach involves assembling many partial extractors with verifiable fault-tolerance into a single full extractor. For a distance 10 HGP code, circuit-level noise simulations yield logical measurement error rates of approximately 10−6 at a physical error rate of 0.1%. These results demonstrate that extractor architectures, when designed in the fixed-connectivity setting, can achieve the space efficiency of QLDPC codes without introducing compilation overhead compared to surface code PBC architectures."
+arxiv: "2606.03507"
+date-updated: 2026-07-15
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{blue2026extractorslogicalprocessinghypergraph,
+      title={Full Extractors for Logical Processing in Hypergraph Product Codes},
+      author={John Blue and Zhiyang He and Hengyun Zhou and Isaac L. Chuang},
+      year={2026},
+      eprint={2606.03507},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2606.03507},
+  }

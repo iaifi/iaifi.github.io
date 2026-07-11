@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-04-22
+title: "Learning to Emulate Chaos: Adversarial Optimal Transport Regularization"
+authors: "Gabriel Melo, Leonardo Santiago, Peter Y. Lu"
+abstract: "Chaos arises in many complex dynamical systems, from weather to power grids, but is difficult to accurately model with data-driven methods such as machine learning emulators. While emulators are promising tools for accelerating simulations and solving inverse problems, they still struggle to learn chaotic dynamics, where sensitivity to initial conditions renders exact long-term forecasts infeasible, especially given noisy data. Recent work instead trains emulators to match the statistical properties of chaotic attractors, but these approaches often rely on handcrafted summary statistics or large, diverse multi-environment datasets. In this work, we propose a family of adversarial optimal transport objectives that can jointly learn high-quality summary statistics and a physically consistent emulator from a single noisy trajectory. We theoretically analyze and experimentally validate a Sinkhorn divergence formulation (2-Wasserstein) and a WGAN-style dual formulation (1-Wasserstein) of our approach. Numerical experiments across a variety of chaotic systems, including ones with high-dimensional spatiotemporal chaos, show that emulators trained using our proposed objectives have significantly improved long-term statistical fidelity."
+arxiv: "2604.21097"
+date-updated: 2026-09-16
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{melo2026learningemulatechaosadversarial,
+      title={Learning to Emulate Chaos: Adversarial Optimal Transport Regularization},
+      author={Gabriel Melo and Leonardo Santiago and Peter Y. Lu},
+      year={2026},
+      eprint={2604.21097},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2604.21097},
+  }

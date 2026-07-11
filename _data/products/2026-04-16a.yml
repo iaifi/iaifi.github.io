@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-04-16
+title: "Computer vision and converse theorems"
+authors: "Yang-Hui He, Kyu-Hwan Lee, Thomas Oliver, Yidi Qi"
+abstract: "Random matrices provide a well-established statistical model for a range of arithmetic phenomena. In this paper, we investigate the extent to which one- and two-dimensional convolutional neural networks (CNNs) can distinguish between arithmetic data arising from elliptic curves with conductor in a fixed interval and random matrix data drawn from the same Sato-Tate distribution. Inspired by converse theorems in the Langlands program, we represent each elliptic curve together with its twists as a vector field and, subsequently, encode that vector field as a digital image. We observe that a two-dimensional CNN trained on this image data is better able to separate conductor families from random matrix data than a one-dimensional CNN trained on vectors of Frobenius traces without twisting data. We also observe that the same two-dimensional architecture can predict the analytic rank of an elliptic curve, and it does so by factoring through the (untwisted) Frobenius traces."
+arxiv: "2604.15155"
+date-updated: 2026-08-19
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{he2026computervisionconversetheorems,
+      title={Computer vision and converse theorems},
+      author={Yang-Hui He and Kyu-Hwan Lee and Thomas Oliver and Yidi Qi},
+      year={2026},
+      eprint={2604.15155},
+      archivePrefix={arXiv},
+      primaryClass={math.NT},
+      url={https://arxiv.org/abs/2604.15155},
+  }

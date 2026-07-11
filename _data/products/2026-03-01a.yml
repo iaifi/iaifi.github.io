@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-03-01
+title: "Microlocal index theorems and analytic torsion invariants in the geometric theory of partial differential equations"
+authors: "Jacob Kryczka, Vladimir Rubtsov, Artan Sheshmani, Shing-Tung Yau"
+abstract: "We develop a microlocal and derived-geometric framework for index theory and analytic torsion of nonlinear PDEs. By integrating Spencer hypercohomology, microlocal sheaf theory, and factorization algebras, we establish new connections between classical index theorems, BCOV invariants of Calabi-Yau manifolds, and the geometry of configuration spaces. We prove sheaf-theoretic index formulas for families of formally integrable PDEs, a microlocal index theorem for D-algebras generalizing Atiyah-Singer, and a mixed-type index theorem via microlocal stratification. We construct Ray-Singer analytic torsion for involutive systems and show that the BCOV invariant equals the Spencer torsion of the de Rham system. A categorical trace interpretation leads to a virtual index theory for derived moduli spaces of solutions. Finally, we extend the theory to configuration spaces using factorization algebras, with applications to renormalization and QFT. These results unify geometric perspectives on PDEs, torsion invariants, and moduli theory, with implications for mirror symmetry, quantum fields, and Calabi-Yau degenerations."
+arxiv: "2603.11198"
+date-updated: 2026-07-30
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{kryczka2026microlocalindextheoremsanalytic,
+      title={Microlocal index theorems and analytic torsion invariants in the geometric theory of partial differential equations},
+      author={Jacob Kryczka and Vladimir Rubtsov and Artan Sheshmani and Shing-Tung Yau},
+      year={2026},
+      eprint={2603.11198},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2603.11198},
+  }
