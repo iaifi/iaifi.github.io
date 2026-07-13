@@ -2,21 +2,25 @@
 layout: article
 header: false
 footer: false
-title: "Museum of Science Presentation August 2025"
+title: "Register for IAIFI Summer Workshop"
 show_title: false
 --- 
 
 
 {% include_relative iaifi-reminder_header.html %}
-<!-- #This is for Thomas' Aug 7 email
 <p style="text-align:center;">
-  <img src="https://iaifi.org/images/summer-workshop-logo_2025.png" style="max-width:5990px;width:85%; margin-bottom: 20px;">
+  <img src="https://iaifi.org/images/summer-workshop-logo_2026.png" style="max-width:5990px;width:85%; margin-bottom: 20px;">
 </p>
 
 ## Register for the Summer Workshop
-We hope you can join us for the 2025 IAIFI Summer Workshop! Please register by July 31, 2025 if possible, though we will continue to accept registrations until the start of the Workshop.
+We hope you can join us for the 2026 IAIFI Summer Workshop! Please register by July 31, 2026.
 
-[Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg}  [View Agenda](https://iaifi.org/summer-workshop.html#agenda){:.button.button--outline-primary.button--pill.button--lg}
+[Register](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r){:.button.button--outline-primary.button--pill.button--lg}  
+
+## Register for the Summer Workshop
+We are also happy to share the Summer Workshop’s agenda, including the full list of plenary speakers.
+
+[View Agenda](https://iaifi.org/summer-workshop.html#agenda){:.button.button--outline-primary.button--pill.button--lg}
 
 <!-- ## Summer Workshop Agenda Announced -->
 
@@ -35,17 +39,13 @@ We hope you can join us for the 2025 IAIFI Summer Workshop! Please register by J
 
 -->
 
-## Open to the Public: Museum of Science Presentation by an IAIFI Senior Investigator
+## Summer Workshop 2026 Details
 
-IAIFI is collaborating with the Museum of Science! Join MIT astrophysicist (and IAIFI Senior Investigator) Lina Necib for a "Beyond the Telescope" presentation at the Museum's planetarium!
-
-* **What:** *Beyond the Telescope: Unveiling the Invisible Milky Way with AI*; Take an AI-powered tour of the Milky Way in this immersive Planetarium program featuring MIT astrophysicist Lina Necib. Using real Gaia Space Observatory data and advanced machine learning technology, uncover the hidden forces shaping our galaxy—from epic cosmic collisions to the elusive nature of dark matter.
-* **Who:** Open to the public
-* **When:** August 13, 2025 at 7:00 pm
-* **Where:** Charles Hayden Planetarium, Museum of Science (1 Science Pk, Boston, MA 02114)
-* **How:** [Register for free](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai) 
-
-[More Information](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai){:.button.button--outline-primary.button--pill.button--lg} 
+* **When:** August 10–14, 2026 
+* **Where:** MIT, Cambridge, MA
+* **What:** The IAIFI Summer Workshop brings together researchers from across Physics and AI for presentations, poster sessions, and networking to promote research at the intersection of Physics and AI. The first four days will include plenary talks, a poster session, parallel sessions for contributed talks, and a workshop dinner. On Friday, August 14, Workshop attendees are invited to IAIFI Industry Day, which will feature IAIFI industry partners and an opportunity to network with both IAIFI members and representatives from industry.
+* **Who:** Researchers of all career stages interested in interdisciplinary AI+Physics research. 
+* **How:** [Register](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r) by July 31, 2026 ($200 registration fee)
 
 {% include_relative iaifi-reminder_footer.html %}
 
