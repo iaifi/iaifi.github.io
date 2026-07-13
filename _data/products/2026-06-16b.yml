@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-06-16
+title: "On the image of Hitchin morphism for some classical groups on algebraic surfaces"
+authors: "Artan Sheshmani, Jianping Wang, Xiaopeng Xia"
+abstract: "In this article, we study the image of the Hitchin morphism for some classical groups over an algebraic surface. The Hitchin morphism is a map from the moduli stack of G-Higgs bundles ℳX,G to the Hitchin base 𝒜X,G, where X is a smooth projective variety. In general, this morphism is not surjective when the dimension of X is greater than one. Chen and Ng{ô} showed that the Hitchin morphism factors through a closed subscheme ℬX,G of the Hitchin base, which is called the spectral base. They conjectured that the image of the Hitchin morphism is exactly the spectral base. When X is a smooth projective surface, we prove that this conjecture holds for the special linear algebraic group of odd rank. We also confirm this conjecture for the classical groups SLn and Sp2n when X is a product of smooth curves."
+arxiv: "2606.17505"
+date-updated: 2026-08-03
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{sheshmani2026imagehitchinmorphismclassical,
+      title={On the image of Hitchin morphism for some classical groups on algebraic surfaces},
+      author={Artan Sheshmani and Jianping Wang and Xiaopeng Xia},
+      year={2026},
+      eprint={2606.17505},
+      archivePrefix={arXiv},
+      primaryClass={math.AG},
+      url={https://arxiv.org/abs/2606.17505},
+  }

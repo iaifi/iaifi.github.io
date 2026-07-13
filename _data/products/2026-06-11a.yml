@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-06-11
+title: "Learning with Simulators: No Regret in a Computationally Bounded World"
+authors: "Sasha Voitovych, Abhishek Shetty, Noah Golowich, Alexander Rakhlin"
+abstract: "Understanding the minimal assumptions necessary for generalization is the fundamental question in learning theory. Unfortunately, most results rely heavily on independence (or some proxy thereof) of the data-generating process, while results for strongly dependent data are far more limited. Towards addressing this gap, we introduce the framework of simulatable processes, where the learner has access to a simulator that approximates the distribution generating the data (which may be an arbitrarily complex and dependent process). Surprisingly, given access to such a simulator, we show that we can recover the same learning guarantees as in the classical setting with independent data, namely, error bounds that depend on the VC dimension. Further, we use this framework to study the power of conditional sampling and show strict statistical and computational advantages in this setting. As a highlight of our framework, we exhibit a single algorithm that simultaneously learns any given VC class under all processes samplable in bounded polynomial time, with regret controlled by the time-bounded Kolmogorov complexity of the process. This provides a significant conceptual broadening of the classical PAC model."
+arxiv: "2606.13576"
+date-updated: 2026-10-07
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{voitovych2026learningsimulatorsregretcomputationally,
+      title={Learning with Simulators: No Regret in a Computationally Bounded World},
+      author={Sasha Voitovych and Abhishek Shetty and Noah Golowich and Alexander Rakhlin},
+      year={2026},
+      eprint={2606.13576},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2606.13576},
+  }

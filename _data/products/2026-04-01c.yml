@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-04-01
+title: "Affine Normal Directions via Log-Determinant Geometry: Scalable Computation under Sparse Polynomial Structure"
+authors: "Yi-Shuai Niu, Artan Sheshmani, Shing-Tung Yau"
+abstract: "Affine normal directions provide intrinsic affine-invariant descent directions derived from the geometry of level sets. Their practical use, however, has long been hindered by the need to evaluate third-order derivatives and invert tangent Hessians, which becomes computationally prohibitive in high dimensions. In this paper, we show that affine normal computation admits an exact reduction to second-order structure: the classical third-order contraction term is precisely the gradient of the log-determinant of the tangent Hessian. This identity replaces explicit third-order tensor contraction by a matrix-free formulation based on tangent linear solves, Hessian-vector products, and log-determinant gradient evaluation. Building on this reduction, we develop exact and stochastic matrix-free procedures for affine normal evaluation. For sparse polynomial objectives, the algebraic closure of derivatives further yields efficient sparse kernels for gradients, Hessian-vector products, and directional third-order contractions, leading to scalable implementations whose cost is governed by the sparsity structure of the polynomial representation. We establish end-to-end complexity bounds showing near-linear scaling with respect to the relevant sparsity scale under fixed stochastic and Krylov budgets. Numerical experiments confirm that the proposed MF-LogDet formulation reproduces the original autodifferentiation-based affine normal direction to near machine precision, delivers substantial runtime improvements in moderate and high dimensions, and exhibits empirical near-linear scaling in both dimension and sparsity. These results provide a practical computational route for affine normal evaluation and reveal a new connection between affine differential geometry, log-determinant curvature, and large-scale structured optimization."
+arxiv: "2604.01163"
+date-updated: 2026-08-27
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{niu2026affinenormaldirectionslogdeterminant,
+      title={Affine Normal Directions via Log-Determinant Geometry: Scalable Computation under Sparse Polynomial Structure},
+      author={Yi-Shuai Niu and Artan Sheshmani and Shing-Tung Yau},
+      year={2026},
+      eprint={2604.01163},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2604.01163},
+  }

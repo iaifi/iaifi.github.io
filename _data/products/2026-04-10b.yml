@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2026-04-10
+title: "Analytic compression of the effective field theory of the Lyman-alpha forest"
+authors: "N. G. Karaçaylı, M. Ivanov, R. de Belsunce, C. Ravoux, J. M. Sexton, Z. Lukić"
+abstract: "The 1D flux power spectrum (P1D) of the Lyα forest provides an exceptionally high-resolution probe of structure formation down to small scales (k≈1−10 h Mpc−1). These scales carry the imprints of massive neutrinos, warm dark matter, and the running of the primordial power spectrum spectral index. The effective field theory (EFT) is a promising perturbative approach to systematically and efficiently describe the Lyα forest, but it faces challenges in its application to P1D, as many EFT parameters become degenerate when projected along the line of sight. In addition, this projection generates new stochastic terms from the integration over small-scale modes. In this work, we address these issues by compressing the EFT model space using the Fisher matrix formalism and linearizing the resulting compression directions, enabling analytic template marginalization and significantly reducing the computational cost of likelihood evaluation. We use hydrodynamical simulations to obtain a baseline estimate of EFT parameters, and use the DESI DR1 P1D measurements to derive compression directions. We then marginalize over deviations from the baseline using these compression directions and forecast the constraining power of our formalism. We find that even in conservative scenarios where each data redshift bin requires its own set of EFT parameters, the cosmological constraints saturate with the linear bias, two leading-order 1D stochastic terms, and three principal combinations of the remaining EFT templates. In this case, our forecasted precision of the amplitude (Δ2p) and the logarithmic slope (np) of the linear matter power spectrum at the pivot scale (kp=0.7 Mpc−1) is 10% and 2.0%, respectively, which is similar to emulator-based analyses that include observational data systematics."
+arxiv: "2604.09407"
+date-updated: 2026-09-20
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{karaçaylı2026analyticcompressioneffectivefield,
+      title={Analytic compression of the effective field theory of the Lyman-alpha forest},
+      author={N. G. Karaçaylı and M. Ivanov and R. de Belsunce and C. Ravoux and J. M. Sexton and Z. Lukić},
+      year={2026},
+      eprint={2604.09407},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2604.09407},
+  }

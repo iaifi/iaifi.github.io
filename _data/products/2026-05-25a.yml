@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-05-25
+title: "Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution"
+authors: "Zixin Jessie Chen, Zhuo Chen, Archer Wang, Jeff Gore, William T. Freeman, Congyue Deng, Marin Soljačić"
+abstract: "Creating images from noise is image generation; reconstructing fine details from coarse inputs is super-resolution. Despite their practical differences, both can be understood as reversing information loss across scales. We introduce SKILD, a Scale-invariant K-Space Image Learning Diffusion model that unifies generation and continuous super-resolution within a single unconditional framework. Both natural images and critical physical systems exhibit scale invariance, and we leverage it to design a forward process that attenuates image content from fine to coarse scales while injecting spectrum-matched Gaussian noise, making scale an explicit coordinate of the diffusion dynamics. The same trained reverse process performs generation and continuous super-resolution by varying only the starting timestep: no task-specific architecture, no conditioning branch, no classifier-free guidance, no retraining per scale factor. Empirically, SKILD reaches FID 2.65 and Inception Score 9.63 on unconditional CIFAR-10, performs 2×--8× super-resolution on ImageNet from a single unconditional checkpoint while outperforming conditional models across perceptual metrics, and reconstructs critical Ising models whose connected four-point correlations closely track the ground truth."
+arxiv: "2605.26032"
+date-updated: 2026-09-26
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{chen2026scalescaleinvariantdiffusioncontinuous,
+      title={Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution},
+      author={Zixin Jessie Chen and Zhuo Chen and Archer Wang and Jeff Gore and William T. Freeman and Congyue Deng and Marin Soljačić},
+      year={2026},
+      eprint={2605.26032},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.26032},
+  }

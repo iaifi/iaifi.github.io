@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-06-11
+title: "Continuum Neural Momentum Eigenstate for Variationally Solving Quasiparticles"
+authors: "David D. Dai, Marin Soljačić"
+abstract: "We design the first neural quantum state for continuum particles that, for any chosen allowed momentum k, is by construction an exact eigenstate of total momentum with eigenvalue k. Our architecture, EVE, enables off-the-shelf VMC to solve for momentum-sector ground states. We test EVE on 2D bosons with mutual 1/r interactions, finding that a single unified ansatz is capable of describing four qualitatively different states: superfluid, roton, crystal, and phonon. At different densities, we extract the underlying phase of matter from the dispersion's shape. At rs=20.0, we see the roton minimum at finite k expected of a superfluid. At rs=100.0, we see striking zone folding indicative of crystalline order, with periodically spaced minima representing floating crystals connected by phonon arcs in between. Using density-density correlation functions, we confirm the phase diagnoses and probe the excitations' correlation structures. Finally, we analyze the roton's phase texture and find unexpected multi-particle phase strings, formed when several vortex dipoles merge, leaving two vortices connected by a phase slip."
+arxiv: "2606.12928"
+date-updated: 2026-08-01
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{dai2026continuumneuralmomentumeigenstate,
+      title={Continuum Neural Momentum Eigenstate for Variationally Solving Quasiparticles},
+      author={David D. Dai and Marin Soljačić},
+      year={2026},
+      eprint={2606.12928},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.quant-gas},
+      url={https://arxiv.org/abs/2606.12928},
+  }

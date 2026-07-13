@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-04-10
+title: "Discrete Flow Maps"
+authors: "Peter Potaptchik, Jason Yim, Adhi Saravanan, Peter Holderrieth, Eric Vanden-Eijnden, Michael S. Albergo"
+abstract: "The sequential nature of autoregressive next-token prediction imposes a fundamental speed limit on large language models. While continuous flow models offer a path to parallel generation, they traditionally demand expensive iterative integration. Flow Maps bypass this bottleneck by compressing generative trajectories into single-step mappings, theoretically enabling the generation of full text sequences from noise in a single forward pass. However, standard formulations rely on Euclidean regression losses that are geometrically ill-suited for discrete data. In this work, we resolve this conflict with Discrete Flow Maps, a framework that reconciles trajectory compression with the geometry of the probability simplex. We recast standard flow map training for the discrete domain, aligning the training dynamics with the discrete nature of language. Empirically, this strict geometric alignment allows our method to surpass previous state-of-the-art results in discrete flow modeling."
+arxiv: "2604.09784"
+date-updated: 2026-07-25
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{potaptchik2026discreteflowmaps,
+      title={Discrete Flow Maps},
+      author={Peter Potaptchik and Jason Yim and Adhi Saravanan and Peter Holderrieth and Eric Vanden-Eijnden and Michael S. Albergo},
+      year={2026},
+      eprint={2604.09784},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2604.09784},
+  }

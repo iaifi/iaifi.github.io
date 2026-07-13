@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: A
+arxiv-date: 2026-05-27
+title: "Photometry is all you need: supernova classification as a mixing problem"
+authors: "Ana Sofía M. Uzsoy, V. Ashley Villar"
+abstract: "In the era of large-scale photometric surveys, scalable and robust methods for classifying supernova (SN) populations are increasingly necessary. Often, spectroscopy is essential in addition to photometry to reliably classify SNe; however, complete spectroscopic follow-up is infeasible for all of the millions of transient light curves being collected by facilities such as the Vera C. Rubin Observatory. Using light curves of SNe Ia and Ibc observed with the Zwicky Transient Facility, we frame the classification of large SN populations as a mixing problem. We fit all objects using a semi-analytical SN model powered by radioactive decay, and we model the resulting distributions of fit parameters with a Gaussian Mixture model to optimize the shared population mixing fraction. This approach allows us to reliably constrain the ratio of the populations and classify SNe Ia and Ibc with ≥ 90% accuracy without any need for labeled training data, i.e., a spectroscopic dataset. We validate this method for varying population mixing fractions and explore the impact of including spectroscopic, photometric, or no redshift information, and a small amount of known labels. Overall, this method allows for fast and accurate SN classification and population characterization using only photometry."
+arxiv: "2605.28922"
+date-updated: 2026-09-06
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{uzsoy2026photometryneedsupernovaclassification,
+      title={Photometry is all you need: supernova classification as a mixing problem},
+      author={Ana Sofía M. Uzsoy and V. Ashley Villar},
+      year={2026},
+      eprint={2605.28922},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.IM},
+      url={https://arxiv.org/abs/2605.28922},
+  }

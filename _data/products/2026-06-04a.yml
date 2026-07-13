@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-06-04
+title: "What Matters When Cotraining Robot Manipulation Policies on Everyday Human Videos?"
+authors: "Richard Li, Aditya Prakash, Andrew Wen, Saurabh Gupta, Yilun Du, Pulkit Agrawal"
+abstract: "Human video datasets used for cotraining robot manipulation policies largely consist of curated demonstrations where motions are orchestrated to resemble robot behavior and 3D hand poses are captured with specialized hardware. A more plentiful source of data is everyday Internet video, but it is an open question what factors enable transfer from such videos to robots. We investigate this using a new dataset of 532 human videos with 28 hours of high-quality triangulated hand labels and natural motions. We find that hand pose quality affects transfer, but even with accurate hands, the inherent motion gap hinders transfer unless the vision and policy networks specialize to each embodiment. Our cotraining recipe yields consistent improvements, with an absolute success rate gain of 29.7% in the low-robot-data regime across six manipulation tasks."
+arxiv: "2606.06627"
+date-updated: 1899-12-30
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{li2026matterscotrainingrobotmanipulation,
+      title={What Matters When Cotraining Robot Manipulation Policies on Everyday Human Videos?},
+      author={Richard Li and Aditya Prakash and Andrew Wen and Saurabh Gupta and Yilun Du and Pulkit Agrawal},
+      year={2026},
+      eprint={2606.06627},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2606.06627},
+  }

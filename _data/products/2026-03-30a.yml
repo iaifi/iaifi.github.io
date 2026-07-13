@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-03-30
+title: "Yau's Affine Normal Descent: Algorithmic Framework and Convergence Analysis"
+authors: "Yi-Shuai Niu, Artan Sheshmani, Shing-Tung Yau"
+abstract: "We propose Yau's Affine Normal Descent (YAND), a geometric framework for smooth unconstrained optimization in which search directions are defined by the equi-affine normal of level-set hypersurfaces. The resulting directions are invariant under volume-preserving affine transformations and intrinsically adapt to anisotropic curvature. Using the analytic representation of the affine normal from affine differential geometry, we establish its equivalence with the classical slice-centroid construction under convexity. For strictly convex quadratic objectives, affine-normal directions are collinear with Newton directions, implying one-step convergence under exact line search. For general smooth (possibly nonconvex) objectives, we characterize precisely when affine-normal directions yield strict descent and develop a line-search-based YAND. We establish global convergence under standard smoothness assumptions, linear convergence under strong convexity and Polyak-Lojasiewicz conditions, and quadratic local convergence near nondegenerate minimizers. We further show that affine-normal directions are robust under affine scalings, remaining insensitive to arbitrarily ill-conditioned transformations. Numerical experiments illustrate the geometric behavior of the method and its robustness under strong anisotropic scaling."
+arxiv: "2603.28448"
+date-updated: 2026-07-13
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{niu2026yausaffinenormaldescent,
+      title={Yau's Affine Normal Descent: Algorithmic Framework and Convergence Analysis},
+      author={Yi-Shuai Niu and Artan Sheshmani and Shing-Tung Yau},
+      year={2026},
+      eprint={2603.28448},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2603.28448},
+  }

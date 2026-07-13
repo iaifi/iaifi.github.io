@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-05-21
+title: "Thermodynamic Irreversibility of Training Algorithms"
+authors: "Liu Ziyin, Yuanjie Ren, Adam Levine, Isaac Chuang"
+abstract: "The training algorithms for AI systems all introduce far-from-equilibrium dynamical processes, and understanding the irreversibility of these algorithms is a fundamental step towards understanding the learning dynamics of modern AI systems. In this work, we establish a general framework for defining and analyzing the irreversibility of training algorithms. We show that four different ways to characterize the irreversibility of dynamical processes are equivalent to leading order in the step size η: numerical backward error ϕDE, time-renormalized correction ϕTR, microscopic time reversal asymmetry ϕTA, and the (regularized) stochastic-thermodynamic entropy production ϕST. The irreversibility gives rise to a time-reversal-symmetry-breaking emergent force that generically breaks non-isometric continuous reparametrization symmetries, preserves orthogonal symmetries, and leads to a universal preference for those learning trajectories that minimize the entropy production rate."
+arxiv: "2605.21933"
+date-updated: 2026-07-24
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{ziyin2026thermodynamicirreversibilitytrainingalgorithms,
+      title={Thermodynamic Irreversibility of Training Algorithms},
+      author={Liu Ziyin and Yuanjie Ren and Adam Levine and Isaac Chuang},
+      year={2026},
+      eprint={2605.21933},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.stat-mech},
+      url={https://arxiv.org/abs/2605.21933},
+  }
