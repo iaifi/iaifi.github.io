@@ -2,6 +2,18 @@
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-07-12"
+  start-date-time: "2026-07-13 12:00"
+  end-date-time: "2026-07-13 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Manuel Pérez-Carrasco (CfA)<br>Title: Deep Learning for Clouds, Cloud Shadow and Plume Segmentation in Methane Satellite and Airborne Imaging Spectroscopy<br>Abstract: Accurate methane emission quantification from imaging spectroscopy depends on two segmentation problems: screening out clouds and cloud shadows that bias trace gas retrievals, and detecting the methane plumes themselves. In this talk, I present deep learning solutions to both challenges for MethaneSAT and its airborne companion, MethaneAIR. For cloud and shadow screening, I compare conventional classifiers against U-Net and a Spectral Channel Attention Network (SCAN), showing that a CNN-based ensemble of the two achieves the best performance across both sensors while remaining fast enough for operational deployment. For plume detection, I present an instance segmentation framework based on Mask R-CNN that addresses MethaneSAT label scarcity through cross-sensor transfer learning from MethaneAIR, combined with physics-informed postprocessing that yields two operational modes: high-sensitivity screening (recall 0.94) and high-precision source attribution (precision 0.92). Together, these results demonstrate how deep learning, cross-sensor transfer, and physical constraints can be combined into robust, scalable pipelines that enhance the emission quantification capacity of current and next-generation methane monitoring missions."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXFmOGxncG0xMWNvZW9wYnBuZnRvdm8ya3IgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2026-07-05"
   start-date-time: "2026-07-06 12:00"
   end-date-time: "2026-07-06 13:00"
