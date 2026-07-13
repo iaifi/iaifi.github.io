@@ -20,6 +20,8 @@ show_title: false
 
 Thank you to everyone who attended our events this Fall and otherwise engaged with IAIFI on our research and activities at the intersection of AI and Physics! We have summarized some highlights and information from IAIFI for Fall 2025. Please feel free to reach out to us with questions or comments about any of the below. Best wishes for a safe and pleasant holiday season!
 
+**Stay tuned for our Spring 2026 wrap-up in the coming weeks.**
+
 ## IAIFI Opportunities
 
 <img src="https://iaifi.org/images/phd-summer-school-logo-2026.png" align="center" style="float: right;max-width:5990px;width:50%" hspace="10" vspace="10"> 
