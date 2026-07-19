@@ -8,7 +8,7 @@ title:
 
 The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. We will also accept submissions for contributed talks and/or posters.
 
-**Registration and abstract submissions are now open for the 2026 IAIFI Summer Workshop.** [Register here](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r) by July 31, 2026 and [submit a talk or poster here](https://app.smartsheet.com/b/form/019cf72596b5790ca38a933e4d7b226a) by noon Boston time on June 8, 2026. 
+**Registration is open for the 2026 IAIFI Summer Workshop.** [Register here](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r) by July 31, 2026. 
 {:.success}
 
 
@@ -574,7 +574,6 @@ We have established discounted rates for August 9–August 15, 2026 at the follo
 ## 2026 Organizing Committee 
 * Will Detmold, Co-Chair (MIT)
 * Bill Freeman, Co-Chair (MIT) 
-* Sam Bright-Thonney (IAIFI Fellow)
 * Akshunna Dogra (IAIFI Fellow)
 * Berthy Feng (IAIFI Fellow)
 * Mathis Gerdes (IAIFI Fellow)
