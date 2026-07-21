@@ -310,6 +310,18 @@ Closing
 ## Financial Supporters
 The Summer School is funded primarily by support from the National Science Foundation under Cooperative Agreement PHY-2019786. Computing resources are provided by the NSF ACCESS program.
 
+<!--
+
+We extend a sincere thank you to the following financial supporters of this year's IAIFI Summer School:
+
+**Premier Sponsor**
+[<img src="images/HRT_logo.png" align="center" style="max-width:8080px;width:45%" hspace="0" vspace="10">](https://www.hudsonrivertrading.com/)
+
+**Additional Sponsors**
+[<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:45%" hspace="0" vspace="10">](https://pdtpartners.com) [<img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:20%" hspace="10" vspace="10">](https://deepmind.google) [<img src="images/glasswing-logo.jpg" align="center" style="max-width:10355px;width:20%" hspace="10" vspace="10">](https://deepmind.google) 
+
+-->
+
 If you are interested in providing financial support for the Summer School, please email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu).
 
 ## 2026 Organizing Committee 
