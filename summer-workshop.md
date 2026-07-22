@@ -28,7 +28,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 Regarding IAIFI Industry Day Day on Friday, August 14: This will be an excellent networking opportunity between Workshop attendees, IAIFI members, and industry partners. [See more about Industry Day here](https://iaifi.org/industry-day), including participating industry partners.
 
-<img src="images/2026WorkshopSchedule-updated.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
+<img src="images/20260722_SummerWorkshop.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
 
 <!--
 
@@ -323,7 +323,7 @@ Additional speakers will be added as they are confirmed.
          <a href="https://www.berthyfeng.com">Berthy Feng</a>
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> IAIFI Fellow </em> <br>
+         <em> IAIFI Fellow &<br>Incoming Assistant Professor at NYU starting September 2027 </em> <br>
          </div>
          </div>
        </div>
