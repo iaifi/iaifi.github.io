@@ -15,7 +15,7 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 * **The 2026 Summer Workshop will be held August 10–14, 2026**
 * **Location: MIT, Cambridge, MA**
 
-[Register](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r){:.button.button--outline-primary.button--pill.button--lg}[Submit a talk/poster](https://app.smartsheet.com/b/form/019cf72596b5790ca38a933e4d7b226a){:.button.button--outline-primary.button--pill.button--lg}[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg}  [Speakers](#plenary-speakers){:.button.button--outline-primary.button--pill.button--lg}   [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}[FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](/past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
+[Register](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r){:.button.button--outline-primary.button--pill.button--lg} [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg}  [Speakers](#plenary-speakers){:.button.button--outline-primary.button--pill.button--lg}   [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}[FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](/past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 
 ## About
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field.
@@ -24,7 +24,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ## Agenda
 
-*The schedule is subject to change. More details to be provided later in July.*
+*The schedule is subject to change. More details to be provided in the coming days.*
 
 Regarding IAIFI Industry Day Day on Friday, August 14: This will be an excellent networking opportunity between Workshop attendees, IAIFI members, and industry partners. [See more about Industry Day here](https://iaifi.org/industry-day), including participating industry partners.
 
@@ -264,18 +264,6 @@ Additional speakers will be added as they are confirmed.
          </div>
          <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
          <em> Caltech </em> <br>
-         </div>
-         </div>
-       </div>
-
-    <div class="card" style="width: 17rem; height: 20rem; justify-content: center;">
-         <img class="my-card-img-top" src="images/small-photo-francois-charton.jpg" alt="Francois Charton" height="210rem" style="object-fit: cover;">
-         <div class="card-body d-flex flex-column">
-         <div class="card-text" style="text-align: center; min-height: 2rem;">
-         <a href="https://f-charton.github.io/about/">Francois Charton</a>
-         </div>
-         <div class="card-text" style="text-align: center; min-height: 4rem; line-height: 140%">
-         <em> Axiom Math </em> <br>
          </div>
          </div>
        </div>
@@ -525,31 +513,13 @@ Additional speakers will be added as they are confirmed.
 
 ## Accommodations
 
-We have established discounted rates for August 9–August 15, 2026 at the following hotels:
+Recommended hotels in the area include: 
 
 * <b>Le Meridien</b>, 20 Sydney St, Cambridge, MA 02139. 
-    
-    $199 nightly rate
-    
-    Deadline to book: July 9, 2026
-
-    [Book online](https://app.marriott.com/reslink?id=1773329890905&key=GRP&app=resvlink)
 
 * <b>Boston Marriott Cambridge<b>, 50 Broadway, Cambridge, MA 02142.
-  
-    $219 nightly rate
-
-    Deadline to book; Friday, July 17, 2026
-
-    [Book online](https://www.marriott.com/event-reservations/reservation-link.mi?id=1774637159492&key=GRP&app=resvlink&_branch_match_id=1559583832159949376&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uYmZsbmhqaWJpZFadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioA1OpqWGAAAAA%3D)
 
 * <b>Residence Inn by Marriott<b>, 120 Broadway, Cambridge, MA 02142.
-    
-    $219 nightly rate
-    
-    Deadline to book; Tuesday, July 21, 2026
-
-  [Book online](https://www.marriott.com/event-reservations/reservation-link.mi?id=1775327335150&key=GRP&app=resvlink&_branch_match_id=1559583832159949376&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi0uy0wtN7IHytiCODmZedlqmSm2hubmpsZG5sbGpoamBmrZqZW27kEBanVFqWmpQO156fFJRfnlxalFts4ZRfm5qQAceJyzYQAAAA%3D%3D)
 
 <!--
 * <b>Hyatt Regency<b>, 575 Memorial Drrive, Cambridge, Massachusetts, 02139-4896.
