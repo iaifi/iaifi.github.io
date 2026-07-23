@@ -30,7 +30,7 @@ These will be brief, 5-minute self-introductions where industry partners will sh
 
 #### 2:15pm–3:45pm: Industry Partner Expo and Reception
 
-Participating industry partners will host booths.
+Participating industry partners will host tables at the expo.
 
 ## Industry Partners
 
