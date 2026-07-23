@@ -10,7 +10,7 @@ title:
 [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Industry Partners](#industry-partners){:.button.button--outline-primary.button--pill.button--lg} [RSVP](#RSVP){:.button.button--outline-primary.button--pill.button--lg} [IAIFI Summer Workshop](https://iaifi.org/summer-workshop){:.button.button--outline-primary.button--pill.button--lg}
 
 ## RSVP
-IAIFI Members [RSVP Here.](https://app.smartsheet.com/b/form/019f860306cc7383a9fe0299f408e0a9)
+IAIFI Members [RSVP Here.](https://app.smartsheet.com/b/form/2f20ada38f024577809106ad08188294)
 
 Summer Workshop Attendees: You will receive an RSVP link from the organizing committee.
 
