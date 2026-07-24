@@ -67,7 +67,7 @@ Lecturer: [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), Assistant Professor, 
 <img class="image" src="images/small-photo-berthy-feng.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Computer Vision
 
-Lecturer: [Berthy Feng](https://www.berthyfeng.com), IAIFI/Tayebati Fellow
+Lecturer: [Berthy Feng](https://www.berthyfeng.com), IAIFI/Tayebati Fellow, Incoming NYU Assistant Professor starting September 2027
 
 <img class="image" src="images/small-photo-christoph-weniger.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Simulation-Based Inference
