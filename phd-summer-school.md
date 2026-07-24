@@ -310,17 +310,13 @@ Closing
 ## Financial Supporters
 The Summer School is funded primarily by support from the National Science Foundation under Cooperative Agreement PHY-2019786. Computing resources are provided by the NSF ACCESS program.
 
-<!--
-
 We extend a sincere thank you to the following financial supporters of this year's IAIFI Summer School:
 
-**Premier Sponsor**
-[<img src="images/HRT_logo.png" align="center" style="max-width:8080px;width:45%" hspace="0" vspace="10">](https://www.hudsonrivertrading.com/)
+**Premier Sponsor**<br>
+[<img src="images/HRT_logo.png" align="center" style="max-width:8080px;width:20%" hspace="0" vspace="10">](https://www.hudsonrivertrading.com/)
 
-**Additional Sponsors**
-[<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:45%" hspace="0" vspace="10">](https://pdtpartners.com) [<img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:20%" hspace="10" vspace="10">](https://deepmind.google) [<img src="images/glasswing-logo.jpg" align="center" style="max-width:10355px;width:20%" hspace="10" vspace="10">](https://deepmind.google) 
-
--->
+**Financial Supporters**<br>
+[<img src="images/PSI_logo.png" align="center" style="max-width:8080px;width:30%" hspace="0" vspace="10">](https://www.psi.inc/) [<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:25%" hspace="0" vspace="10">](https://pdtpartners.com) [<img src="images/deepmind-logo.jpg" align="center" style="max-width:8080px;width:20%" hspace="10" vspace="10">](https://deepmind.google) <br>[<img src="images/GlasswingVentures_logo.png" align="center" style="max-width:8080px;width:20%;margin-right: 40px;" hspace="0" vspace="10">](https://glasswing.vc/)[<img src="images/MERL_logo.png" align="center" style="max-width:8080px;width:30%" hspace="0" vspace="10">](https://www.merl.com/)
 
 If you are interested in providing financial support for the Summer School, please email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu).
 
