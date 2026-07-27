@@ -67,7 +67,7 @@ Lecturer: [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), Assistant Professor, 
 <img class="image" src="images/small-photo-berthy-feng.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Computer Vision
 
-Lecturer: [Berthy Feng](https://www.berthyfeng.com), IAIFI/Tayebati Fellow
+Lecturer: [Berthy Feng](https://www.berthyfeng.com), IAIFI/Tayebati Fellow, Incoming NYU Assistant Professor starting September 2027
 
 <img class="image" src="images/small-photo-christoph-weniger.jpg" align="right" style="max-width:226px;width:8%" hspace="10" vspace="10"/>
 ### Topic: Simulation-Based Inference
@@ -101,11 +101,16 @@ Tutorial Lead: [Christina Reissel](https://www.linkedin.com/in/christina-reissel
 
 <img class="image" src="images/2026SummerSchoolSchedule.png" align="center" style="max-width:2158px;width:100%" hspace="10" vspace="10"/>
 
-*Agenda is subject to change. Further detail to be added in the coming weeks.*
+*Agenda is subject to change.*
 
-### Lecture Information
+### Monday, August 3, 2026
 
-#### Monday, August 3, 2026
+**9:00–9:30 am ET**
+
+Welcome/Introduction
+
+**9:30 am–12:00 pm ET**
+
 Lecture 1: Automatic Equation Discovery (Miles Cranmer, University of Cambridge)
 
 *Would Kepler have discovered his laws if machine learning had been around in 1609? Or would he have settled for the accuracy of a black box regression model, leaving Newton without the inspiration to find the law of gravitation? In this lecture I will introduce symbolic regression: a machine learning task with the objective of finding human-interpretable symbolic models. I will do a deep dive into PySR (github.com/astroautomata/PySR) and its Julia backend SymbolicRegression.jl, covering the internal multi-population evolutionary search, and various new features supporting scientific equation discovery. I will then discuss how to embed domain knowledge in the search, through operator constraints, custom loss functions, and template expressions, which enable learning within a specific functional form. Finally, I will cover symbolic regression as an interpretability tool for deep learning. The afternoon tutorial will provide hands-on practice with the full pipeline.*
@@ -121,71 +126,26 @@ Resources:
     - [code](https://github.com/astroautomata/SymTorch)
 - [The Next Great Scientific Theory is Hiding Inside a Neural Network (Simons Foundation Presidential Lecture)](https://www.youtube.com/watch?v=fk2r8y5TfNY)
 
-#### Tuesday, August 4, 2026
-Lecture 2: Efficient Diffusion Models (Jun-Yan Zhu, Carnegie Mellon University)
-
-*Diffusion models enable a wide range of applications, from images and video to scientific data, yet their inference remains slow, with computational costs scaling steeply with model size and resolution, posing a prohibitive memory and latency bottleneck for real-world deployment. In this lecture, we will introduce three complementary techniques for closing that gap: (1) few-step distillation, which distills a slow multi-step teacher into a one-step or few-step student using regression losses, adversarial training, or distribution matching; (2) quantization, which lowers weight and activation precision to reduce memory footprint and speed up inference; and (3) caching, a training-free technique that reuses previously computed outputs across denoising timesteps.*
-
-Resources:
-- [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890)
-- [Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)
-- [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940)
-
-#### Wednesday, August 5, 2026
-Lecture 3: Computer Vision & Physics (Berthy Feng, IAIFI/Tayebati Fellow)
-
-*Interpreting visual data is an essential part of scientific research. Computer vision enables computers to extract information about the world from visual data, typically images and videos. In this lecture, we will explore the connections between computer vision and science. We will focus on three case studies of how computer vision can be used to advance physics research. Through the three sections, we will learn about core computer vision tools, including phase-based motion processing, diffusion models, and coordinate-based neural networks.*
-
-1. *In Part 1, we look at a method for estimating interior material properties of objects from videos. Combining classical phase-based motion processing with solid mechanics, we apply a physics-based optimization approach to extract physical information that is hidden in plain sight.*
-2. *In Part 2, we learn how to use deep learning to solve image reconstruction problems. We explore how diffusion models can be used as sophisticated image priors for inferring images from sparse/noisy sensor measurements.*
-3. *In Part 3, we see an example of how computer vision can advance fundamental physics research. We highlight the problem of reconstructing the dynamic 3D gas near a black hole from Event Horizon Telescope (EHT) data, learning how to combine coordinate-based neural networks and physics assumptions to solve this highly ill-posed problem in astrophysics.*
-
-
-Resources:
-- It is recommended to set up a Google account if you don't already have one, for the purpose of running Colab notebooks.
-
-#### Thursday, August 6, 2026
-Lecture 4: Dynamic Simulation-Based Inference: Extracting Physics from Complex Data and Simulations (Christoph Weniger,  University of Amsterdam)
-
-*Our physical knowledge often lives inside simulators: forward models that encode our physical knowns and unknowns, but whose likelihoods may be intractable, from gravitational waveforms to cosmological surveys. Simulation-based inference (SBI) turns these simulators into inference engines, training neural networks to estimate posteriors directly from simulated data. We begin with the foundations of modern SBI and amortization, then turn to dynamic SBI: an active learning scheme that continuously focuses costly simulations on the parameter regions that matter. Examples are drawn from gravitational-wave astronomy. We discuss the FALCON framework for distributed dynamic SBI, which enables simultaneous inference of a multitude of parameters in complex forward models. We close with validation strategies, including coverage tests, rank-based diagnostics, and calibration.*
-
-Resources:
-- [Dynamic SBI: Round-free Sequential Simulation-Based Inference with Adaptive Datasets](https://arxiv.org/abs/2510.13997)
-- [Simulation-Based Inference: A Practical Guide](https://arxiv.org/abs/2508.12939)
-- [Awesome Neural SBI](https://github.com/smsharma/awesome-neural-sbi)
-- [Machine Learning for Astroparticle Physics](https://cweniger.github.io/teaching-2606-ICTP-SAIFR/)
-
-<!--
-
-### Monday, August 3, 2026
-
-**9:00–9:30 am ET**
-
-Welcome/Introduction
-
-**9:30 am–12:00 pm ET**
-
-Lecture 1: TBA
-
 **12:00–1:00 pm ET**
 
 Lunch 
 
 **1:00–3:30 pm ET**
 
-Tutorial 1: TBA
+Tutorial 1: Automatic Equation Discovery (Jose Munoz, MIT)
 
-**3:30–4:30 pm ET**
+**3:30–5:30 pm ET**
 
-Hackathon Introduction
+*Healthy Minds for Masterminds*<br>
+Mental Wellbeing Workshop by Sarah Speziali (King's College London)
 
-**5:00–5:30 pm ET**
+**5:30–6:00 pm ET**
 
 Break
 
-**5:30–7:30 pm ET**
+**6:00–8:00 pm ET**
 
-Welcome Dinner
+Welcome Dinner hosted by our sponsor Physical Superintelligence
 
 ### Tuesday, August 4, 2026
 
@@ -195,7 +155,15 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 2: TBA
+Lecture 2: Efficient Diffusion Models (Jun-Yan Zhu, Carnegie Mellon University)
+
+*Diffusion models enable a wide range of applications, from images and video to scientific data, yet their inference remains slow, with computational costs scaling steeply with model size and resolution, posing a prohibitive memory and latency bottleneck for real-world deployment. In this lecture, we will introduce three complementary techniques for closing that gap: (1) few-step distillation, which distills a slow multi-step teacher into a one-step or few-step student using regression losses, adversarial training, or distribution matching; (2) quantization, which lowers weight and activation precision to reduce memory footprint and speed up inference; and (3) caching, a training-free technique that reuses previously computed outputs across denoising timesteps.*
+
+Resources:
+- [The Principles of Diffusion Models](https://arxiv.org/abs/2510.21890)
+- [Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)
+- [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940)
+- [Generative models as transport](https://notes.mathisgerdes.com/posts/generative-models-as-transport/)
 
 **12:00–1:00 pm ET**
 
@@ -203,11 +171,11 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 2: TBA
+Tutorial 2: Efficient Diffusion Models (Mathis Gerdes, IAIFI)
 
 **3:30–4:30 pm ET**
 
-Breakout Sessions with Lecturers and Tutorial Leads 
+Hackathon Introduction 
 
 **4:30–6:00 pm ET**
 
@@ -221,7 +189,16 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 3:TBA
+Lecture 3: Computer Vision & Physics (Berthy Feng, IAIFI/Tayebati Fellow)
+
+*Interpreting visual data is an essential part of scientific research. Computer vision enables computers to extract information about the world from visual data, typically images and videos. In this lecture, we will explore the connections between computer vision and science. We will focus on three case studies of how computer vision can be used to advance physics research. Through the three sections, we will learn about core computer vision tools, including phase-based motion processing, diffusion models, and coordinate-based neural networks.*
+
+1. *In Part 1, we look at a method for estimating interior material properties of objects from videos. Combining classical phase-based motion processing with solid mechanics, we apply a physics-based optimization approach to extract physical information that is hidden in plain sight.*
+2. *In Part 2, we learn how to use deep learning to solve image reconstruction problems. We explore how diffusion models can be used as sophisticated image priors for inferring images from sparse/noisy sensor measurements.*
+3. *In Part 3, we see an example of how computer vision can advance fundamental physics research. We highlight the problem of reconstructing the dynamic 3D gas near a black hole from Event Horizon Telescope (EHT) data, learning how to combine coordinate-based neural networks and physics assumptions to solve this highly ill-posed problem in astrophysics.*
+
+Resources:
+- It is recommended to set up a Google account if you don't already have one, for the purpose of running Colab notebooks.
 
 **12:00–1:00 pm ET**
 
@@ -229,21 +206,14 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 3: TBA
+Tutorial 3: Computer Vision & Physics (Aneel Damaraju, Harvard, and Franc O, Northeastern)
 
-**3:30–4:30 pm ET**
+**3:30–6:00 pm ET**
 
-Career Panel
+Group work for hackathon
+**4:30–6:00 pm ET**
 
-**4:30–6:30 pm ET**
-
-Break
-
-**6:30–8:00 pm ET**
-
-Networking event with IAIFI
-
-### Thursday, August 7, 2025
+### Thursday, August 6, 2026
 
 **9:00–9:30 am ET**
 
@@ -251,7 +221,15 @@ Lightning Talks
 
 **9:30 am–12:00 pm ET**
 
-Lecture 4: TBA
+Lecture 4: Dynamic Simulation-Based Inference: Extracting Physics from Complex Data and Simulations (Christoph Weniger,  University of Amsterdam)
+
+*Our physical knowledge often lives inside simulators: forward models that encode our physical knowns and unknowns, but whose likelihoods may be intractable, from gravitational waveforms to cosmological surveys. Simulation-based inference (SBI) turns these simulators into inference engines, training neural networks to estimate posteriors directly from simulated data. We begin with the foundations of modern SBI and amortization, then turn to dynamic SBI: an active learning scheme that continuously focuses costly simulations on the parameter regions that matter. Examples are drawn from gravitational-wave astronomy. We discuss the FALCON framework for distributed dynamic SBI, which enables simultaneous inference of a multitude of parameters in complex forward models. We close with validation strategies, including coverage tests, rank-based diagnostics, and calibration.*
+
+Resources:
+- [Dynamic SBI: Round-free Sequential Simulation-Based Inference with Adaptive Datasets](https://arxiv.org/abs/2510.13997)
+- [Simulation-Based Inference: A Practical Guide](https://arxiv.org/abs/2508.12939)
+- [Awesome Neural SBI](https://github.com/smsharma/awesome-neural-sbi)
+- [Machine Learning for Astroparticle Physics](https://cweniger.github.io/teaching-2606-ICTP-SAIFR/)
 
 **12:00–1:00 pm ET**
 
@@ -259,17 +237,27 @@ Lunch
 
 **1:00–3:30 pm ET**
 
-Tutorial 4: TBa
+Tutorial 4: Dynamic Simulation-Based Inference: Extracting Physics from Complex Data and Simulations (Christina Reissel, IAIFI)
 
 **3:30–4:30 pm ET**
 
-Breakout Sessions with Lecturers and Tutorial Leads
+Career Panel
+- Berthy Feng (IAIFI)
+- Rick Grinnell (Glasswing Ventures)
+- Shamit Kachru (PDT Partners)
+- Ryan Krueger (Google Deepmind)
+- Alessandro Morari (Physical Superintelligence)
+- Jesse Thaler (MIT)
 
-**4:30–5:30 pm ET**
+**4:30–6:00 pm ET**
 
-Group work for hackathon
+Break
 
-### Friday, August 9, 2024
+**6:00–8:30 pm ET**
+
+Social event hosted by our sponsor, PDT Partners
+
+### Friday, August 7, 2026
 
 **9:00–9:30 am ET**
 
@@ -305,22 +293,16 @@ Hackathon presentations
 
 Closing
 
--->
-
 ## Financial Supporters
 The Summer School is funded primarily by support from the National Science Foundation under Cooperative Agreement PHY-2019786. Computing resources are provided by the NSF ACCESS program.
 
-<!--
-
 We extend a sincere thank you to the following financial supporters of this year's IAIFI Summer School:
 
-**Premier Sponsor**
-[<img src="images/HRT_logo.png" align="center" style="max-width:8080px;width:45%" hspace="0" vspace="10">](https://www.hudsonrivertrading.com/)
+**Premier Sponsor**<br>
+[<img src="images/HRT_logo.png" align="center" style="max-width:8080px;width:20%" hspace="0" vspace="10">](https://www.hudsonrivertrading.com/)
 
-**Additional Sponsors**
-[<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:45%" hspace="0" vspace="10">](https://pdtpartners.com) [<img src="images/deepmind-logo.jpg" align="center" style="max-width:10355px;width:20%" hspace="10" vspace="10">](https://deepmind.google) [<img src="images/glasswing-logo.jpg" align="center" style="max-width:10355px;width:20%" hspace="10" vspace="10">](https://deepmind.google) 
-
--->
+**Financial Supporters**<br>
+[<img src="images/PSI_logo.png" align="center" style="max-width:8080px;width:30%" hspace="0" vspace="10">](https://www.psi.inc/) [<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:25%" hspace="0" vspace="10">](https://pdtpartners.com) [<img src="images/deepmind-logo.jpg" align="center" style="max-width:8080px;width:20%" hspace="10" vspace="10">](https://deepmind.google) <br>[<img src="images/GlasswingVentures_logo.png" align="center" style="max-width:8080px;width:20%;margin-right: 40px;" hspace="0" vspace="10">](https://glasswing.vc/)[<img src="images/MERL_logo.png" align="center" style="max-width:8080px;width:30%" hspace="0" vspace="10">](https://www.merl.com/)
 
 If you are interested in providing financial support for the Summer School, please email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu).
 
