@@ -44,7 +44,7 @@ Rahul Kulkarni, University of Massachusetts Boston
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come.</em>
+<em>Reinforcement learning (RL) is a key field of research in AI that is increasingly being applied to complex optimization problems in science. In parallel, concepts from physics have contributed to important advances in RL with developments such as entropy-regularized RL. While the connections of AI to equilibrium statistical mechanics are well established, the interface with non-equilibrium statistical mechanics (NESM) is less explored. In recent work, we have established a mapping between entropy-regularized RL and research in non-equilibrium statistical mechanics focusing on Markovian processes conditioned on rare events. Using approaches from large deviation theory, we obtain analytical results for the optimal policy in Markov Decision Process (MDP) models of RL. The results obtained lead to a novel analytical and computational framework for entropy-regularized RL which is validated by simulations. This framework had led to new results for reward shaping and bounds in RL and the development of new algorithms for average-rewards RL with entropy regularization. The framework developed also leads to a unifying view of Generative Flow networks (Gflownets) from the perspective of nonequilibrium steady states. The mapping established thus connects current research in reinforcement learning and generative modeling to non-equilibrium statistical mechanics, thereby opening new avenues for the application of analytical and computational approaches from one field to cutting-edge problems in the other.</em>
 </details>
 
 **10:00–10:45 am ET**
