@@ -36,7 +36,13 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ## Apply
 
-**Applications are now closed for the 2026 IAIFI Summer School.** Please email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu) if you would like the opportunity to attend virtually
+**Applications are now closed for the 2026 IAIFI Summer School.** 
+
+<!--
+
+Please email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu) if you would like the opportunity to attend virtually
+
+-->
 
 [Apply](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845){:.button.button--outline-primary.button--pill.button--lg}
 
