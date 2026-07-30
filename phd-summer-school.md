@@ -334,7 +334,7 @@ If you are interested in providing financial support for the Summer School, plea
 * *Is there funding available to support my attendance at the Summer School?* IAIFI is covering the cost of the Summer School, including lunch each day. There is no support available for travel costs.
 * *If I come to the Summer School, can I also attend the Workshop?* Yes! We encourage you to stay for the [IAIFI Summer Workshop](/summer-workshop) and you can stay in the dorms for both events if you choose (at your own expense). Information about the Summer Workshop will be provided in early 2026. 
 * *Will the recordings of the lectures be available?* We expect to share recordings of the lectures after the Summer School.
-* *Will there be an option for virtual attendance?* Yes, there is an option for virtual attendance.
+* *Will there be an option for virtual attendance?* Applications for virtual attendance are now closed.
 * *How can I book a dorm for the IAIFI Summer School?* Information will be shared with accepted students about booking the dorms. 
 * *What if I need childcare in order to attend the Summer School?* We are prepared to work with attendees to help coordinate child care as needed. Please contact [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu) and/or indicate it in your application if you would like to discuss.
 
