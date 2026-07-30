@@ -36,7 +36,13 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ## Apply
 
-**Applications are now closed for the 2026 IAIFI Summer School.** Please email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu) if you would like the opportunity to attend virtually
+**Applications are now closed for the 2026 IAIFI Summer School.** 
+
+<!--
+
+Please email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu) if you would like the opportunity to attend virtually
+
+-->
 
 [Apply](https://app.smartsheet.com/b/form/019a9d12ef3e7cb4b5a3855a4c092845){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -302,7 +308,7 @@ We extend a sincere thank you to the following financial supporters of this year
 [<img src="images/HRT_logo.png" align="center" style="max-width:8080px;width:20%" hspace="0" vspace="10">](https://www.hudsonrivertrading.com/)
 
 **Financial Supporters**<br>
-[<img src="images/PSI_logo.png" align="center" style="max-width:8080px;width:30%" hspace="0" vspace="10">](https://www.psi.inc/) [<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:25%" hspace="0" vspace="10">](https://pdtpartners.com) [<img src="images/deepmind-logo.jpg" align="center" style="max-width:8080px;width:20%" hspace="10" vspace="10">](https://deepmind.google) <br>[<img src="images/GlasswingVentures_logo.png" align="center" style="max-width:8080px;width:20%;margin-right: 40px;" hspace="0" vspace="10">](https://glasswing.vc/)[<img src="images/MERL_logo.png" align="center" style="max-width:8080px;width:30%" hspace="0" vspace="10">](https://www.merl.com/)
+[<img src="images/PSI_logo.png" align="center" style="max-width:8080px;width:30%" hspace="0" vspace="10">](https://www.psi.inc/) [<img src="images/PDT_logo.png" align="center" style="max-width:8080px;width:25%" hspace="0" vspace="10">](https://pdtpartners.com) [<img src="images/deepmind-logo.jpg" align="center" style="max-width:8080px;width:20%" hspace="10" vspace="10">](https://deepmind.google) <br>[<img src="images/GlasswingVentures_logo.png" align="center" style="max-width:8080px;width:20%;margin-right: 40px;" hspace="0" vspace="10">](https://glasswing.vc/)[<img src="images/FirstPrinciples_Primary Logo_Black.png" align="center" style="max-width:8080px;width:20%;margin-right: 40px;" hspace="0" vspace="10">](https://firstprinciples.org)[<img src="images/MERL_logo.png" align="center" style="max-width:8080px;width:30%" hspace="0" vspace="10">](https://www.merl.com/)
 
 If you are interested in providing financial support for the Summer School, please email [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu).
 
@@ -328,7 +334,7 @@ If you are interested in providing financial support for the Summer School, plea
 * *Is there funding available to support my attendance at the Summer School?* IAIFI is covering the cost of the Summer School, including lunch each day. There is no support available for travel costs.
 * *If I come to the Summer School, can I also attend the Workshop?* Yes! We encourage you to stay for the [IAIFI Summer Workshop](/summer-workshop) and you can stay in the dorms for both events if you choose (at your own expense). Information about the Summer Workshop will be provided in early 2026. 
 * *Will the recordings of the lectures be available?* We expect to share recordings of the lectures after the Summer School.
-* *Will there be an option for virtual attendance?* Yes, there is an option for virtual attendance.
+* *Will there be an option for virtual attendance?* Applications for virtual attendance are now closed.
 * *How can I book a dorm for the IAIFI Summer School?* Information will be shared with accepted students about booking the dorms. 
 * *What if I need childcare in order to attend the Summer School?* We are prepared to work with attendees to help coordinate child care as needed. Please contact [iaifi-summer@mit.edu](mailto:iaifi-summer@mit.edu) and/or indicate it in your application if you would like to discuss.
 
