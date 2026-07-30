@@ -1,4 +1,21 @@
 - type: "external-event"
+  event-name: "Learning on Graphs Conference 2026"
+  more-info-link: "https://logconference.org/"
+  event-post-date: "2026-08-02"
+  start-date-time: "2026-11-20"
+  end-date-time: "2026-11-22"
+  talk-location: "Northeastern University, Boston, MA, USA"
+  talk-zoom:
+  event-details: "We are pleased to announce and invite submissions to LoG 2026, to be held on November 20–22, 2026, at Northeastern University in Boston, Massachusetts, USA. Learning on Graphs (LoG) is an annual research conference covering research broadly related to machine learning on graphs and geometry, with a special focus on review quality. The conference welcomes contributions spanning theory, algorithms, systems, and applications of graph and geometric machine learning, including connections to large language models and a wide range of scientific and industrial domains. We invite participation in multiple ways:
+<br>Call for Papers – Submit original research contributions. Due to popular demand, the abstract deadline has been extended to Aug 5, 2026 AOE, with full paper deadline Aug 7, 2026 AOE.
+<br>Call for Tutorials – Propose tutorials on topics of broad interest to the community.
+<br>Call for Sponsors – Support the conference and engage with the LoG research community.
+<br>Call for Reviewers – Join our reviewer pool and help maintain LoG's high standards for peer review.
+<br>Full details for each call, including submission instructions, important dates, and sponsorship opportunities, are available at:
+https://logconference.org/"
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3JybHVnZDc5Y2tmNzU2amFoOGlqOGU3YTQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  
+- type: "external-event"
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
