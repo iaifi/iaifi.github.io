@@ -474,7 +474,7 @@ Eva Silverstein, Stanford University
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come.</em>
+<em>The attention head carries a large group of rotational symmetries: a joint rotation of the query and key matrices, and separately of the value and output, leaves every activation and output unchanged, while shaping the learning dynamics through conserved angular momenta.  We break this symmetry with fixed, unlearned, batchwise query and value biases $\bQ,\bV$, providing the model with utility for the otherwise-extraneous direction.  With a nonzero mean $\mean{\bQ}$, the query bias enters attention as a multiplicative factor $e^{\,\bQ\cdot k}$, so by aligning a token class's key vectors $k=\WK x$ with $\mean{\bQ}$ the model amplifies that class's attention, and by anti-aligning them it suppresses it. That wandeltamplification is interpretable, and we explore how it can be used as a diagnostic and steering tool with an eye toward AI safety.</em>
 </details>
 
 **12:30–2:00 pm ET**
