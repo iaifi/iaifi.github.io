@@ -13,7 +13,7 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 
 
 * **The 2026 Summer Workshop will be held August 10–14, 2026**
-* **Location: MIT Schwarzman College of Computing (Building 45), 51 Vassar Street, Cambridge, MA | Room 45-230
+* **Location: MIT Schwarzman College of Computing (Building 45), 51 Vassar Street, Cambridge, MA; Room 45-230**
 
 [Register](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r){:.button.button--outline-primary.button--pill.button--lg} [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg}  [Speakers](#plenary-speakers){:.button.button--outline-primary.button--pill.button--lg}   [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}[FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](/past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 
