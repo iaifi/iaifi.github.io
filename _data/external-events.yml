@@ -16,6 +16,31 @@ https://logconference.org/"
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3JybHVnZDc5Y2tmNzU2amFoOGlqOGU3YTQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
+  event-name: "Topology, Algebra, and Geometry in Data Science (TAG-DS) 2026"
+  event-organizer: "TAG in DS, in collaboration with the Boston Symmetry Group"
+  more-info-link: https://www.tagds.com/events/tag-ds-2026
+  event-post-date: "2026-08-02"
+  start-date-time: "2026-08-18 08:00"
+  end-date-time: "2026-08-20 18:00"
+  talk-location: "Northeastern University in Boston, MA"
+  talk-zoom:
+  event-details: "Registration for our 3-day Boston Symmetry conference jointly organized with TagDS is open now! Check out our registration link and event details below. There will be contributed posters and talks, an array of invited speakers, a dinner social, and more!"
+  rsvp-link: https://commerce.cashnet.com/cashnetg/static/storefront/SFTAG/catalog
+  registration-deadline: 2026-08-11
+  
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-08-02"
+  start-date-time: "2026-08-03 12:00"
+  end-date-time: "2026-08-03 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Josh Speagle (U. Toronto)<br>Title: What exactly are we doing?<br>Abstract: The advent of AI, especially autonomous agentic systems, have transformed and will continue to transform learning, higher education, and research in profound ways. In this open-ended interactive talk, I will give a live demo where we will try to write an submittable ApJ paper in under an hour, during which we will confront and discuss hard questions such as: Why we are here? Why (and what) do we want to learn? What is the purpose of research and our role in it? And, maybe most important, what exactly we should be striving for? Throughout the discussion, I will try to highlight not only what is possible with these tools, but also how some of the history behind technological revolutions, the relationship between humans and technology, and the way we learn might together show us what things might be (or not be) different this time around."
+  calendar-link:
+  
+- type: "external-event"
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
