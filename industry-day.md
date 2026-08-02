@@ -18,6 +18,8 @@ Summer Workshop Attendees: You will receive an RSVP link from the organizing com
 
 ### Friday, August 14, 2026
 
+*Doors open 10:30am*
+
 #### 11:00am-11:50am: Flash talks from industry partners
 
 These will be brief, 5-minute self-introductions where industry partners will share about themselves and their work. This will directly lead into the networking portions of the day.

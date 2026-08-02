@@ -572,7 +572,9 @@ Yilun Du, Harvard
 
 #### IAIFI Industry Day
 
-All Industry Day events will take place at the MIT Samberg Conference Center. [See the full schedule here,](https://iaifi.org/industry-day) including the list of participating industry partners.
+All Industry Day events will take place at the MIT Samberg Conference Center, Dining Rooms 3&4 (on the 6th floor). [See the full schedule here,](https://iaifi.org/industry-day) including the list of participating industry partners.
+
+*Doors open: 10:30am*
 
 **11:00am–1:00pm ET**
 
