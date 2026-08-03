@@ -89,6 +89,21 @@
   attendance-in-person: 0 #TBD
   attendance-virtual: 0 #There was no virtual attendance option
   
+- type: "social"
+  event-name: "IAIFI Industry Day"
+  event-committee: "Talent"
+  event-post-date: "2026-08-02"
+  start-date-time: "2026-08-14 10:30"
+  end-date-time: "2026-08-14 16:00"
+  talk-location: "MIT Samberg Conference Center, Dining Rooms 3&4 (6th floor), 50 Memorial Dr, Cambridge, MA 02142"
+  talk-zoom:
+  event-details: "IAIFI is pleased to host our first 'IAIFI Industry Day' on Friday, August 14, 2026 at the MIT Samberg Conference Center. The goal of this event is to foster collaboration, awareness, and networking between IAIFI industry partners, IAIFI researchers, and attendees of the IAIFI Summer Workshop. The event will include brief self-introductions from industry partners, a networking lunch, and an industry partner expo and reception. Feel free to attend part or all of the event. See this link for more details: https://iaifi.org/industry-day"
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9mZzVmajNybjJjZnBiMmNxdXMwOTdwNWIgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  rsvp-link: https://app.smartsheet.com/b/form/2f20ada38f024577809106ad08188294
+  more-info-link:
+  attendance-in-person: 0 #TBD
+  attendance-virtual: 0 #There was no virtual attendance option
+  
 #Above this are very high-priority or standing events, such as the Forums, the semesterly Social, and the Summer School & Workshop.
 
 - type: "social"
