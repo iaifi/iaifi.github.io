@@ -30,7 +30,7 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 Regarding **IAIFI Industry Day Day on Friday, August 14**: This will be an excellent networking opportunity between Workshop attendees, IAIFI members, and industry partners. [See more about Industry Day here](https://iaifi.org/industry-day), including participating industry partners.
 
-<img src="images/20260803_SummerWorkshop.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
+<img src="images/20260804_SummerWorkshop.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
 
 
 ### Monday, August 10, 2026
