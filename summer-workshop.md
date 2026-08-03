@@ -13,7 +13,9 @@ The IAIFI Summer Workshop brings together researchers from across Physics and AI
 
 
 * **The 2026 Summer Workshop will be held August 10–14, 2026**
-* **Location: MIT Schwarzman College of Computing (Building 45), 51 Vassar Street, Cambridge, MA; Room 45-230**
+* **Location, August 10-13: MIT Schwarzman College of Computing (Building 45), 51 Vassar Street, Cambridge, MA; Room 45-230**
+* **Location, August 14: MIT Samberg Conference Center, 50 Memorial Dr, Cambridge, MA; Dining Rooms 3&4 (on the 6th floor)**
+
 
 [Register](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r){:.button.button--outline-primary.button--pill.button--lg} [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg}  [Speakers](#plenary-speakers){:.button.button--outline-primary.button--pill.button--lg}   [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}[FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](/past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -24,11 +26,11 @@ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) i
 
 ## Agenda
 
-*The schedule is subject to change. More details to be provided in the coming days.*
+*The schedule is subject to change.*
 
 Regarding **IAIFI Industry Day Day on Friday, August 14**: This will be an excellent networking opportunity between Workshop attendees, IAIFI members, and industry partners. [See more about Industry Day here](https://iaifi.org/industry-day), including participating industry partners.
 
-<img src="images/20260722_SummerWorkshop.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
+<img src="images/20260803_SummerWorkshop.png" align="left" style="max-width:2108px;width:100%" hspace="10" vspace="10">
 
 
 ### Monday, August 10, 2026
@@ -73,11 +75,22 @@ Christoph Weniger, University of Amsterdam
 <em>Much of our physical knowledge lives inside simulators: forward models that encode both established physics and the parameters we wish to infer, but whose likelihoods are often intractable — from gravitational waveforms to cosmological surveys. Simulation-based inference (SBI) turns these simulators into inference engines, training neural networks to estimate posteriors directly from simulated data. After introducing the foundations of modern SBI and amortization, we discuss dynamic SBI: an active learning scheme that continuously focuses costly simulations on the parameter regions that matter. We then present the FALCON framework for distributed dynamic SBI, which enables the simultaneous inference of a multitude of parameters in complex forward models. We demonstrate the approach on benchmark problems, ongoing LISA parameter estimation for massive black hole binaries, and discuss extensions towards field-level cosmological inference.</em>
 </details>
 
-**12:00–1:30 pm ET**
+**12:00-12:45 pm ET**
+
+*Simple yet predictive theories for how generative AI learns and imagines*
+
+Surya Ganguli, Stanford
+
+<details>
+<summary>Abstract</summary>
+<em>Details to come.</em>
+</details>
+
+**12:45–2:15 pm ET**
 
 Lunch Break
 
-**1:30–2:15 pm ET**
+**2:15–3:00 pm ET**
 
 *Hierarchical Reinforcement Learning for Sparse-Reward Search in Commutative Algebra*
 
@@ -88,7 +101,7 @@ Giorgi Butbaia, Caltech
 <em>Applying machine learning techniques to solving long-standing mathematical conjectures can be particularly challenging due to their extreme reward sparsity. As an illustrative example, we consider Kalai's algebraic Hirsch conjecture and recast the construction of its counterexamples as a sparse-reward reinforcement learning problem on graphs. In this talk, we propose a constrained options-based HRL framework with an equivariant graph neural network policy, which allows us to learn useful temporal abstractions for this task. We evaluate our approach over a wide range of degrees and demonstrate that it consistently outperforms classical RL algorithms as well as greedy search. By exploiting the hierarchical structure of the problem, we effectively provide a first-of-its-kind application of HRL to a problem in commutative algebra.</em>
 </details>
 
-**2:15–3:00 pm ET**
+**3:00–3:45 pm ET**
 
 *Generative Pretrained Neural Operators as Foundation Models for PDEs*
 
@@ -99,42 +112,9 @@ Zongyi Li, MIT
 <em>We present a generative neural operator for various partial differential equations. A single flow-matching transformer is trained jointly on 24 two-dimensional spatiotemporal systems spanning simulations, laboratory measurements, and global weather reanalysis. A canonical field representation with type-specific patchification maps different variables and resolutions into a shared token space, enabling one model and one compiled program across all systems. Through variable-length conditioning and masked generation, the same model supports forecasting, long rollouts, inverse prediction, missing-channel completion, super-resolution, and probabilistic ensembles without task-specific architectures. Joint training performs competitively with specialist models, improves transfer in data-limited settings, and continues to benefit from scaling up to 3.3 billion parameters. These results position generative modeling as a scalable and task-general foundation for learning PDE dynamics.</em>
 </details>
 
-**3:00–3:30 pm ET**
+**3:45–5:30 pm ET**
 
 Break
-
-**3:30–4:15 pm ET**
-
-*Imaging at the Edge of Science: Integrating Scientific Knowledge and AI to Recover Hidden Structure*
-
-Berthy Feng, MIT
-
-<details>
-<summary>Abstract</summary>
-<em>Images play a central role in scientific discovery. Whether it’s astronomical, biological, or materials systems, bringing complex phenomena into view enables scientists to probe, model, and fundamentally understand them. However, many of the most important scientific questions lie at the edge of what can be directly observed.
-
-<br><br>We can accomplish extreme imaging through computational methods, bringing the invisible into view by supplementing limited observable data with human-imposed assumptions, or priors. When imaging for science, the challenge is imposing just enough known assumptions to infer the unknown.
-
-<br><br>I create principled methods for bringing advanced priors, such as scientific knowledge and AI, into computational imaging. Using astrophysics as a running example, this talk presents my vision for a framework in which scientists systematically explore different priors, understand their effects on imaging, and extract scientific insights.
-
-<br><br>The talk is organized in three parts.
-<br>1. First, we understand the importance of priors in extreme scientific imaging. I present my work on leveraging generative AI to flexibly tune a knob between different priors and understand their effects on imaging. Applied to black-hole imaging, my approach lets us infer physical features of a real black hole by identifying image features that are robust to prior assumptions.
-<br>2. Second, we carefully balance scientific assumptions to solve an extreme imaging problem in astrophysics. I present Physics-informed Dynamic Emission Fields (PI-DEF), a method for imaging the dynamic 3D gas near a black hole. PI-DEF strikes a balance between known/unknown physics, imposing known physics as hard constraints on the solution while leaving room for learning unknown physics, such as the velocity field near the black hole.
-<br>3. Third, we open an efficient route for bringing in known physics across imaging problems. I present Neural Approximate Mirror Maps (NAMMs), which learn to automatically impose any desired physics constraint onto any image. With NAMMs, we can easily incorporate known constraints (e.g., conservation laws) into generated and reconstructed images.
-
-<br><br>The ideas of my talk naturally extend to many scientific domains, including biology, chemistry, and materials science.</em>
-</details>
-
-**4:15-5:00 pm ET**
-
-*Simple yet predictive theories for how generative AI learns and imagines*
-
-Surya Ganguli, Stanford
-
-<details>
-<summary>Abstract</summary>
-<em>Details to come.</em>
-</details>
 
 **5:30–8:00 pm ET**
 
@@ -304,17 +284,37 @@ Erik Katsavounidis, MIT
 
 ### Wednesday, August 12, 2026
 
-*Today will have a later start, at 9:45am.*
+**9:00-9:45am ET**
+
+*Imaging at the Edge of Science: Integrating Scientific Knowledge and AI to Recover Hidden Structure*
+
+Berthy Feng, MIT
+
+<details>
+<summary>Abstract</summary>
+<em>Images play a central role in scientific discovery. Whether it’s astronomical, biological, or materials systems, bringing complex phenomena into view enables scientists to probe, model, and fundamentally understand them. However, many of the most important scientific questions lie at the edge of what can be directly observed.
+
+<br><br>We can accomplish extreme imaging through computational methods, bringing the invisible into view by supplementing limited observable data with human-imposed assumptions, or priors. When imaging for science, the challenge is imposing just enough known assumptions to infer the unknown.
+
+<br><br>I create principled methods for bringing advanced priors, such as scientific knowledge and AI, into computational imaging. Using astrophysics as a running example, this talk presents my vision for a framework in which scientists systematically explore different priors, understand their effects on imaging, and extract scientific insights.
+
+<br><br>The talk is organized in three parts.
+<br>1. First, we understand the importance of priors in extreme scientific imaging. I present my work on leveraging generative AI to flexibly tune a knob between different priors and understand their effects on imaging. Applied to black-hole imaging, my approach lets us infer physical features of a real black hole by identifying image features that are robust to prior assumptions.
+<br>2. Second, we carefully balance scientific assumptions to solve an extreme imaging problem in astrophysics. I present Physics-informed Dynamic Emission Fields (PI-DEF), a method for imaging the dynamic 3D gas near a black hole. PI-DEF strikes a balance between known/unknown physics, imposing known physics as hard constraints on the solution while leaving room for learning unknown physics, such as the velocity field near the black hole.
+<br>3. Third, we open an efficient route for bringing in known physics across imaging problems. I present Neural Approximate Mirror Maps (NAMMs), which learn to automatically impose any desired physics constraint onto any image. With NAMMs, we can easily incorporate known constraints (e.g., conservation laws) into generated and reconstructed images.
+
+<br><br>The ideas of my talk naturally extend to many scientific domains, including biology, chemistry, and materials science.</em>
+</details>
 
 **9:45–10:30 am ET**
 
-*Title to come.*
+*AI for the Sky: SkAI Research and Physics-Informed Deep Learning for Stars*
 
 Vicky Kalogera, Northwestern University
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come.</em>
+<em>The coming decade of sky surveys will reveal the changing universe at a depth and scale we have never had. Meeting that opportunity takes more than better analysis — it reaches into how we choose what to observe, how we draw inference from what we collect, and how we model the physics underneath. I will introduce the NSF-Simons AI Institute for the Sky (SkAI), where astrophysicists, computer scientists, and statisticians are building AI that is shaped by physics from the start. I will then turn to one thread of that effort: stars. Interpreting stellar populations  requires simulating them by the millions, yet each detailed simulation takes hours or days. Advanced model emulators and embedding the equations of stellar structure directly into neural models offers a way through and I will discuss our recent results.</em>
 </details>
 
 **10:30-11:00 am ET**
