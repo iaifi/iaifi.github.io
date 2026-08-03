@@ -425,7 +425,7 @@ Panel: AI's Impact on Career Paths in Industry and Academia
 
 *Workshop Dinner*
 
-MIT Samberg Conference Center
+MIT Samberg Conference Center, Salons M&I (on the 7th floor)
 
 ### Thursday, August 13, 2026
 
