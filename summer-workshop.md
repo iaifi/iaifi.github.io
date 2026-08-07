@@ -418,8 +418,10 @@ Break
 **4:00–5:00 pm ET**
 
 Panel: AI's Impact on Career Paths in Industry and Academia
-
-*Details to come*
+- Alex Gagliano (Physical Superintelligence)
+- Peter Lu (Tufts University)
+- Shiloh Pitt (GAF)
+- Lindsey Raymond (MIT)
 
 **6:00–8:00 pm ET**
 
