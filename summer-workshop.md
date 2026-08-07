@@ -83,7 +83,7 @@ Surya Ganguli, Stanford
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come.</em>
+<em>Two major advances of the last decade in generative AI involve language models and diffusion models. However, the remarkable capabilities of such complex models often elude explanation through analytic theory. I will discuss several works in which simple analytic theories can quantitatively explain their performance characteristics. First, for language modeling, we can quantitatively predict for the first time, the power law exponents governing neural scaling laws relating loss to the amount of training data. We show these neural exponents are simply a function of two statistical properties of language itself. Second, for diffusion models, we develop an analytic theory of creativity that explains how they can generate exponentially many novel images from a finite training set by constructing patch mosaics of the training data.  Our analytic theory predicts individual image outputs of trained convolution only diffusion models with high fidelity. Moreover, it provides an exact information theoretic criterion for how much data a class of Bayesian diffusion models requires to avoid memorizing all the training data.</em>
 </details>
 
 **12:45–2:15 pm ET**
