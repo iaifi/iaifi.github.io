@@ -57,7 +57,7 @@ Sung Hak Lim, IBS CTPU-PTC
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come.</em>
+<em>Machine learning (ML) has become a powerful tool for scientific research, and its effectiveness can be further enhanced by incorporating physical knowledge directly into the learning process. Physics-informed machine learning is a broad class of ML methods in which such knowledge is embedded in the choice of inputs, model architecture, or learning objective. In this talk, I will present examples spanning very different physical scales, from particle collisions at the Large Hadron Collider to the dynamics of stars in galaxies. I will first discuss how physical information can be encoded in the inputs and architectures of ML models to characterize and classify jets initiated by different particles. I will then show how dynamical equations can be incorporated into the learning objective through physics-informed neural networks, using the estimation of local dark matter density in galaxies as an example. Extensions of these methods can also address incomplete observations, such as dust obscuration in the Milky Way and the limited phase-space information available for dwarf galaxies. Together, these examples demonstrate how combining flexible ML models with physical symmetries, constraints, and dynamical equations enables data-driven studies of fundamental physics, from colliders to galaxies.</em>
 </details>
 
 **10:45-11:15 am ET**
@@ -83,7 +83,7 @@ Surya Ganguli, Stanford
 
 <details>
 <summary>Abstract</summary>
-<em>Details to come.</em>
+<em>Two major advances of the last decade in generative AI involve language models and diffusion models. However, the remarkable capabilities of such complex models often elude explanation through analytic theory. I will discuss several works in which simple analytic theories can quantitatively explain their performance characteristics. First, for language modeling, we can quantitatively predict for the first time, the power law exponents governing neural scaling laws relating loss to the amount of training data. We show these neural exponents are simply a function of two statistical properties of language itself. Second, for diffusion models, we develop an analytic theory of creativity that explains how they can generate exponentially many novel images from a finite training set by constructing patch mosaics of the training data.  Our analytic theory predicts individual image outputs of trained convolution only diffusion models with high fidelity. Moreover, it provides an exact information theoretic criterion for how much data a class of Bayesian diffusion models requires to avoid memorizing all the training data.</em>
 </details>
 
 **12:45–2:15 pm ET**
@@ -223,9 +223,7 @@ More broadly, this work positions adaptive quantum sensing as a physically groun
 
 <details>
 <summary>Foundation model for stellar astronomy, Ilay Kamai (Technion)</summary>
-<em>Foundation models for science increasingly deliver transfer across fields and new ways to probe physics. Yet not all modalities are equally successful: astrophysical time-series observations, in particular, have so far seen little success inside foundation models, suggesting these challenging modalities need a different approach. Understanding why some modalities succeed while others fail calls for a general framework to characterize multimodal models for science.
-In this talk, I will review recent progress and the missing pieces in foundation models for astrophysics through the lens of a theoretical framework of signal and noise features in multimodal learning. The framework sheds light on when modalities should be cross-aligned, cross-predicted, or neither. I will also show that challenging time-series modalities, such as TESS light curves, fall into the third category, making naive alignment worse than unimodal models. This directly motivates our architecture.
-I will then present the first large-scale model to bring a time-series modality into a general, omnimodal setting for stellar astronomy, combining six surveys: TESS, Kepler, LAMOST, APOGEE, GALAH, and Gaia. A novel alignment module disentangles the latent space into a shared subspace, compressed through a Perceiver-like bottleneck, and modality-specific subspaces supervised with physical labels to preserve information that alignment would otherwise wash out. The result is a single general predictor for hard stellar parameters such as stellar age, magnetic activity, and binarity, at a scale and survey coverage not previously achieved.</em>
+<em>Foundation models for science increasingly deliver transfer across fields and new ways to probe physics. Yet not all modalities are equally successful: astrophysical time-series observations, in particular, have so far seen little success inside foundation models, suggesting these challenging modalities need a different approach. Understanding why some modalities succeed while others fail calls for a general framework to characterize multimodal models for science. In this talk, I will review recent progress and the missing pieces in foundation models for astrophysics through the lens of a theoretical framework of signal and noise features in multimodal learning. The framework sheds light on when modalities should be cross-aligned, cross-predicted, or neither. I will also show that challenging time-series modalities, such as TESS light curves, fall into the third category, making naive alignment worse than unimodal models. This directly motivates our architecture. I will then present the first large-scale model to bring a time-series modality into a general, omnimodal setting for stellar astronomy, combining six surveys: TESS, Kepler, LAMOST, APOGEE, GALAH, and Gaia. A novel alignment module disentangles the latent space into a shared subspace, compressed through a Perceiver-like bottleneck with a physics-inspired objective, and modality-specific subspaces supervised with physical labels to preserve information that alignment would otherwise wash out. I will show how the chosen objective shapes the geometry of the latent space and compare our model with other foundation models in the field.  The result is a single general predictor for hard stellar parameters such as stellar age, magnetic activity, and binarity, at a scale and survey coverage not previously achieved.</em>
 </details>
 <details>
 <summary>PDE Foundation Models: Scaling Beyond Single-Modality & Utility in Out-of-Distribution Downstream Tasks, Mahindra Rautela (Los Alamos National Laboratory)</summary>
@@ -420,8 +418,10 @@ Break
 **4:00–5:00 pm ET**
 
 Panel: AI's Impact on Career Paths in Industry and Academia
-
-*Details to come*
+- Alex Gagliano (Physical Superintelligence)
+- Peter Lu (Tufts University)
+- Shiloh Pitt (GAF)
+- Lindsey Raymond (MIT)
 
 **6:00–8:00 pm ET**
 
