@@ -32,6 +32,18 @@ https://logconference.org/"
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-08-09"
+  start-date-time: "2026-08-10 12:00"
+  end-date-time: "2026-08-10 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Zesen Huang (UCLA)<br>Title: AI Agents as Genies: Can Wish-Driven Research Really Work?<br>Abstract: What would it mean for every scientist to have a persistent, ever-evolving digital research team—a swarm of specialized AI agents that can divide work, develop expertise, and grow with every project? In this talk, I will present LingTai (lingtai.ai), a purpose-built multi-agent framework for wish-driven research. LingTai organizes specialized agents into a personal research team that persists across projects and continuously evolves by accumulating memory, skills, tools, and experience, while remaining under the researcher’s direction. I will describe how LingTai is constructed and how a high-level research “wish” can be developed into a tractable, inspectable workflow. The talk will cover task decomposition, agent specialization and delegation, context and memory management, model and tool routing, evidence checking, and human approval gates. Examples from heliophysics, scientific software, literature synthesis, data analysis, writing, and project coordination will illustrate typical workflows, practical techniques, and recurring failure modes. I will also discuss caveats around provenance, reproducibility, privacy, cost, and scientific accountability."
+  calendar-link:
+  
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2026-08-02"
   start-date-time: "2026-08-03 12:00"
   end-date-time: "2026-08-03 13:00"
