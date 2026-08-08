@@ -5,7 +5,7 @@ title:
 
 <img src="images/industry-day.png" align="left" style="max-width:2304px;width:100%" hspace="10" vspace="10">
 
-**IAIFI is pleased to host our first "IAIFI Industry Day" on Friday, August 14, 2026 at the MIT Samberg Conference Center.** The goal of this event is to foster collaboration, awareness, and networking between IAIFI industry partners, IAIFI researchers, and attendees of the IAIFI Summer Workshop.
+**IAIFI is pleased to host our first "IAIFI Industry Day" on Friday, August 14, 2026 at the MIT Samberg Conference Center [50 Memorial Dr, Cambridge, MA; Dining Rooms 3&4 (on the 6th floor)].** The goal of this event is to foster collaboration, awareness, and networking between IAIFI industry partners, IAIFI researchers, and attendees of the IAIFI Summer Workshop.
 
 [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Industry Partners](#industry-partners){:.button.button--outline-primary.button--pill.button--lg} [RSVP](#RSVP){:.button.button--outline-primary.button--pill.button--lg} [IAIFI Summer Workshop](https://iaifi.org/summer-workshop){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -44,11 +44,11 @@ Participating industry partners will host tables at the expo.
 |Engine Ventures|Alaina Hartnett   ||
 |Extropic   |Nahuel Freitas|✓| 
 |Fine Structure Ventures| Tobias Egle||
-|First Principles |*To be confirmed*|✓|
-|Glasswing Ventures   |*To be confirmed*|✓|
+|First Principles | Melissa Valdez|✓|
+|Glasswing Ventures   | Kleida Martiro|✓|
 |IBM Research   |Dongsung Huh   ||
 |Mitsubishi Electric Research Laboratories (MERL)|Petros Boufounos|✓|
 |MathWorks|Ari Biswas||
-|Physical Superintelligence   |*To be confirmed*|✓|
+|Physical Superintelligence   | Alex Wissner-Gross|✓|
 |QuEra Computing|Alan Bidart and Tommaso Macrì|✓|
 |Stripe |Shankar Krishnan| |
