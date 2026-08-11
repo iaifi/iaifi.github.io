@@ -8,32 +8,26 @@ show_title: false
 
 
 {% include_relative iaifi-reminder_header.html %}
-<!-- #This is for Thomas' Aug 7 email
+
 <p style="text-align:center;">
-  <img src="https://iaifi.org/images/summer-workshop-logo_2025.png" style="max-width:5990px;width:85%; margin-bottom: 20px;">
+  <img src="https://iaifi.org/images/summer-workshop-logo_2026.png" style="max-width:5990px;width:85%; margin-bottom: 20px;">
 </p>
 
-## Register for the Summer Workshop
-We hope you can join us for the 2025 IAIFI Summer Workshop! Please register by July 31, 2025 if possible, though we will continue to accept registrations until the start of the Workshop.
+## Welcome to the 2026 IAIFI Summer Workshop
 
-[Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb){:.button.button--outline-primary.button--pill.button--lg}  [View Agenda](https://iaifi.org/summer-workshop.html#agenda){:.button.button--outline-primary.button--pill.button--lg}
+The Summer Workshop begins today at 9 am at MIT's College of Computing (Building 45, 51 Vassar Street, Cambridge, MA), Room 45-230, (head up the stairs/elevator when you enter the building). 
 
-<!-- ## Summer Workshop Agenda Announced -->
+The Workshop will begin promptly at 9:00 am on Monday, August 10, so please arrive between 8:15 and 8:45 am to check in (coffee will be available). We will not have printed programs, but you can view the full agenda here: [https://iaifi.org/summer-workshop.html#agenda](https://iaifi.org/summer-workshop.html#agenda).
 
-<!-- ## Summer Workshop 2025 Details -->
+You can access MIT wifi by connecting to “MIT Guest.” Eduroam works as well.
 
-<!-- #This is for Thomas' Aug 7 email
+Tonight (Monday, August 10), we will host a poster session and reception from 5:30 to 8:00 pm in the lobby on the first floor of Building 45.
 
+There will be 90 minutes for lunch each day. We have compiled a [list of suggestions](https://docs.google.com/document/d/1GPbN2wWOgt3VPPA7htFgUzAOyokjxgaH/edit?usp=sharing&ouid=107650713859084891843&rtpof=true&sd=true) for places to eat (at lunchtime or otherwise).
 
-* **What:** The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI.
-* **Who:** Researchers of all career stages interested in interdisciplinary AI+Physics research. 
-* **When:** August 11–15, 2025
-* **Where:** Harvard University, Cambridge, MA
-* **How:** [Register](https://buy.stripe.com/fZe9Ci53xfX90eceVb) 
+[View Agenda](https://iaifi.org/summer-workshop.html#agenda){:.button.button--outline-primary.button--pill.button--lg} 
 
-[More Information](https://iaifi.org/summer-workshop.html){:.button.button--outline-primary.button--pill.button--lg} 
-
--->
+<!-- 
 
 ## 2025 IAIFI Summer Workshop Follow-Up
 
