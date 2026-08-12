@@ -24,9 +24,23 @@ Summer Workshop Attendees: You will receive an RSVP link from the organizing com
 
 These will be brief, 5-minute self-introductions where industry partners will share about themselves and their work. This will directly lead into the networking portions of the day.
 
+- Physical Superintelligence
+- Amazon AGI
+- Agentoid
+- Stripe
+- Mitsubishi Electric Research Laboratories (MERL)
+- Draper
+- IBM Research
+
 #### 11:50am-12:10pm: Coffee Break
 
 #### 12:10pm-1:00pm: Flash talks from industry partners, cont'd
+- QuEra Computing
+- Extropic
+- Glasswing Ventures
+- Engine Ventures
+- FirstPrinciples
+- Fine Structure Ventures
 
 #### 1:00pm-2:15pm: Networking Lunch
 
@@ -39,16 +53,15 @@ Participating industry partners will host tables at the expo.
 | Organization | Flash Talk Presenter | Expo Participation | 
 |------------------|------------------|:------------------:|
 |Agentoid   |Praneeth Vepakomma   |✓| 
-|Amazon   |Rahul Gupta   ||
+|Amazon AGI   |Rahul Gupta   ||
 |Draper   |Loyd Waites   ||
 |Engine Ventures|Alaina Hartnett   ||
 |Extropic   |Nahuel Freitas|✓| 
 |Fine Structure Ventures| Tobias Egle||
-|First Principles | Melissa Valdez|✓|
+|FirstPrinciples | Melissa Valdez|✓|
 |Glasswing Ventures   | Kleida Martiro|✓|
 |IBM Research   |Dongsung Huh   ||
 |Mitsubishi Electric Research Laboratories (MERL)|Petros Boufounos|✓|
-|MathWorks|Ari Biswas||
 |Physical Superintelligence   | Alex Wissner-Gross|✓|
 |QuEra Computing|Alan Bidart and Tommaso Macrì|✓|
 |Stripe |Shankar Krishnan| |
