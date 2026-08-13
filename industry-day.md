@@ -24,17 +24,18 @@ Summer Workshop Attendees: You will receive an RSVP link from the organizing com
 
 These will be brief, 5-minute self-introductions where industry partners will share about themselves and their work. This will directly lead into the networking portions of the day.
 
+- Welcome from IAIFI
 - Physical Superintelligence
 - Amazon AGI
 - Agentoid
 - Stripe
 - Mitsubishi Electric Research Laboratories (MERL)
 - Draper
-- Centaur AI Institute
 
 #### 11:50am-12:10pm: Coffee Break
 
 #### 12:10pm-1:00pm: Flash talks from industry partners, cont'd
+- Centaur AI Institute
 - QuEra Computing
 - Extropic
 - Glasswing Ventures
