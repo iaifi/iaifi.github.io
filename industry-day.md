@@ -30,7 +30,7 @@ These will be brief, 5-minute self-introductions where industry partners will sh
 - Stripe
 - Mitsubishi Electric Research Laboratories (MERL)
 - Draper
-- Centaur AI
+- Centaur AI Institute
 
 #### 11:50am-12:10pm: Coffee Break
 
@@ -54,7 +54,7 @@ Participating industry partners will host tables at the expo.
 |------------------|------------------|:------------------:|
 |Agentoid   |Praneeth Vepakomma   |✓| 
 |Amazon AGI   |Rahul Gupta   ||
-|Centaur AI   |Dongsung Huh   ||
+|Centaur AI Institute   |Dongsung Huh   ||
 |Draper   |Loyd Waites   ||
 |Engine Ventures|Alaina Hartnett   ||
 |Extropic   |Nahuel Freitas|✓| 
