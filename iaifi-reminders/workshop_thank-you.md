@@ -28,7 +28,7 @@ We want to hear how your experience was! Please [complete the survey](https://fo
 
 [Complete the Survey](https://forms.gle/Dxb2THw1sHU2Uawc6){:.button.button--outline-primary.button--pill.button--lg}
 
-### Stay Tuned for Recordings and Slides
+### Stay Tuned for Plenary and Contributed Talk Recordings and Slides
 
 In case you missed any of the plenary talks, we will be posting most of them on our YouTube channel in the coming weeks. 
 
