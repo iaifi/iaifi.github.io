@@ -7,12 +7,14 @@ title:
 
 **IAIFI is pleased to host our first "IAIFI Industry Day" on Friday, August 14, 2026 at the MIT Samberg Conference Center [50 Memorial Dr, Cambridge, MA; Dining Rooms 3&4 (on the 6th floor)].** The goal of this event is to foster collaboration, awareness, and networking between IAIFI industry partners, IAIFI researchers, and attendees of the IAIFI Summer Workshop.
 
-[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Industry Partners](#industry-partners){:.button.button--outline-primary.button--pill.button--lg} [RSVP](#RSVP){:.button.button--outline-primary.button--pill.button--lg} [IAIFI Summer Workshop](https://iaifi.org/summer-workshop){:.button.button--outline-primary.button--pill.button--lg}
+[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Slides](#slides){:.button.button--outline-primary.button--pill.button--lg} [Industry Partners](#industry-partners){:.button.button--outline-primary.button--pill.button--lg} [RSVP](#RSVP){:.button.button--outline-primary.button--pill.button--lg} [IAIFI Summer Workshop](https://iaifi.org/summer-workshop){:.button.button--outline-primary.button--pill.button--lg}
+
+## Slides
+[IAIFI Welcome Slides](https://docs.google.com/presentation/d/1trnOsrD48OOwqjESSLE-DXSsqpF4PrxF/edit?usp=sharing&ouid=113795742869595335302&rtpof=true&sd=true) {:.button.button--outline-primary.button--pill.button--lg} [Industry Speaker Slides](https://drive.google.com/drive/folders/1MJht1SF6cPbGOIXcypqwSegfL3SOJhTn?usp=sharing){:.button.button--outline-primary.button--pill.button--lg} 
 
 ## RSVP
-IAIFI Members [RSVP Here.](https://app.smartsheet.com/b/form/2f20ada38f024577809106ad08188294)
 
-Summer Workshop Attendees: You will receive an RSVP link from the organizing committee.
+RSVP is closed.
 
 ## Agenda 
 
