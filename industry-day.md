@@ -10,7 +10,7 @@ title:
 [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Slides](#slides){:.button.button--outline-primary.button--pill.button--lg} [Industry Partners](#industry-partners){:.button.button--outline-primary.button--pill.button--lg} [RSVP](#RSVP){:.button.button--outline-primary.button--pill.button--lg} [IAIFI Summer Workshop](https://iaifi.org/summer-workshop){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Slides
-[IAIFI Welcome Slides](https://docs.google.com/presentation/d/1trnOsrD48OOwqjESSLE-DXSsqpF4PrxF/edit?usp=sharing&ouid=113795742869595335302&rtpof=true&sd=true) {:.button.button--outline-primary.button--pill.button--lg} [Industry Speaker Slides](https://drive.google.com/drive/folders/1MJht1SF6cPbGOIXcypqwSegfL3SOJhTn?usp=sharing){:.button.button--outline-primary.button--pill.button--lg} 
+[IAIFI Welcome Slides](https://docs.google.com/presentation/d/1trnOsrD48OOwqjESSLE-DXSsqpF4PrxF/edit?usp=sharing&ouid=113795742869595335302&rtpof=true&sd=true){:.button.button--outline-primary.button--pill.button--lg} [Industry Speaker Slides](https://drive.google.com/drive/folders/1MJht1SF6cPbGOIXcypqwSegfL3SOJhTn?usp=sharing){:.button.button--outline-primary.button--pill.button--lg} 
 
 ## RSVP
 
