@@ -1,4 +1,24 @@
 - type: "colloquium"
+  semester: "fall-2026"
+  speaker-name: "Mike Williams"
+  speaker-title: "Director"
+  speaker-affiliation: "IAIFI"
+  speaker-website: "https://physics.mit.edu/faculty/michael-williams/"
+  speaker-photo-location: "images/small-photo-mike-williams.jpg"
+  start-date-time: "2026-10-26 16:00"
+  end-date-time: "2026-10-26 17:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "IAIFI-LNS Colloquium"
+  talk-abstract: "Details to come. This will be a joint colloquium with the Laboratory for Nuclear Science (LNS) at MIT.<br><br><br><br><br>"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3RlbmVzNTl2bjdmOW9laml1cTRjZ3Z2YnYgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics experiment"
+  speaker-gender: "man"
+  priority: high
+  talk-attendance: TBD in person, TBD virtual
+
+- type: "colloquium"
   semester: "spring-2026"
   speaker-name: "Roger Melko"
   speaker-title: "Professor"
