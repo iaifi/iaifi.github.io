@@ -12,7 +12,7 @@ title: IAIFI Summer School
 
 # Summer School 2026
 
-<img src="images/2025-summer-school-group-photo.jpeg" align="right" style="max-width:936px;width:50%" hspace="10" vspace="10"> 
+<img src="images/SummerSchool2026GroupPhoto.png" align="right" style="max-width:936px;width:50%" hspace="10" vspace="10"> 
 
 The mission of the IAIFI Summer School is to leverage the expertise of IAIFI researchers, affiliates, and partners toward promoting education and workforce development. 
 
