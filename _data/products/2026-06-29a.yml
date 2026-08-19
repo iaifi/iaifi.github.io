@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-06-29
+title: "Cosmological Concordance in an Especially Opaque Universe: A Tentative Cosmological Detection of Physical Neutrino Mass in ΛCDM"
+authors: "James M. Sullivan, Roger de Belsunce, Mikhail M. Ivanov"
+abstract: "The measurement of the sum of neutrino masses is among the primary promises of precision cosmology, achievable by combining complementary early- and late-Universe probes. However, these datasets currently exhibit mild-to-strong disagreements within ΛCDM and its simplest extensions, giving rise to multiple tensions, including the Hubble tension, the preference for 'negative' neutrino mass, and indications of evolving dark energy. It has recently been shown that these tensions can be alleviated by adopting a higher value of the optical depth to reionization parameter, τ, when large-scale cosmic microwave background (CMB) polarization data are ignored. We extend this proposal and show that an especially high prior on τ=0.11±0.006 simultaneously addresses all three of these tensions, significantly reducing the need for new physics beyond ΛCDM. We determine the 'concordance' value of τ by requiring physical neutrino mass and consistency of the Hubble constant, H0, inferred from the CMB and that preferred by the Dark Energy Spectroscopic Instrument (DESI) baryon acoustic oscillation (BAO) and full-shape measurements. Within this high-τ Universe, we obtain the first 2σ detection of a positive neutrino mass, Σmν=0.10+0.04−0.05~eV at 68% C.L., while restoring cosmological concordance between datasets within ΛCDM. In particular, low-redshift distance predictions are consistent with DESI BAO observations and the inferred dark-energy equation-of-state parameters are consistent with a cosmological constant, both with and without supernovae data. The concordance power of our τ prior further motivates new measurements of τ, e.g., through large angular scale CMB polarization observations with the LiteBIRD, CLASS, or proposed PICO experiments. (Abridged)"
+arxiv: "2606.30903"
+date-updated: 2026-08-26
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{sullivan2026cosmologicalconcordanceespeciallyopaque,
+      title={Cosmological Concordance in an Especially Opaque Universe: A Tentative Cosmological Detection of Physical Neutrino Mass in $\Lambda$CDM},
+      author={James M. Sullivan and Roger de Belsunce and Mikhail M. Ivanov},
+      year={2026},
+      eprint={2606.30903},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2606.30903},
+  }
