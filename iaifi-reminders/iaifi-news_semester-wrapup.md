@@ -14,7 +14,7 @@ show_title: false
 
 # IAIFI Spring 2026 Wrap-Up
 
-[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Follow IAIFI](#contact-and-follow-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Summer Workshop](IAIFI-Summer-Workshop-in-August){:.button.button--outline-primary.button--pill.button--sm} [See Past Semesterly Newsletters](https://docs.google.com/document/d/1e7kiw3MrGix_eKdWNbPBKp9blh3LjTqGkw1sNzkWR88/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--sm}
+[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Follow IAIFI](#contact-and-follow-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Summer Workshop](#summer-workshop-in-august){:.button.button--outline-primary.button--pill.button--sm} [See Past Semesterly Newsletters](https://docs.google.com/document/d/1e7kiw3MrGix_eKdWNbPBKp9blh3LjTqGkw1sNzkWR88/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--sm}
 
 ## News from IAIFI Management
 
@@ -25,7 +25,7 @@ Thank you to everyone who attended our events this Spring and otherwise engaged 
 <img src="https://iaifi.org/images/summer-workshop-logo_2026.png" align="center" style="float: right;max-width:5990px;width:50%" hspace="10" vspace="10"> 
 
 ### Summer Workshop in August
-This August, we will hold our fifth annual Summer School (applications now closed) and Summer Workshop at MIT (https://iaifi.org/summer-workshop). The Summer Workshop will feature plenary talks, poster sessions, and networking events. We are also excited to partner again with the Boston Museum of Science for our Summer Workshop dinner, where we will host a [planetarium show about AI and the search for dark matter](https://www.mos.org/events/beyond-telescope/unveiling-invisible-milky-way-ai). 
+This August, we will hold our fifth annual Summer School (applications now closed) and Summer Workshop at MIT (https://iaifi.org/summer-workshop). The Summer Workshop will feature plenary talks, poster sessions, and networking events, including our first [IAIFI Industry Day.](https://iaifi.org/industry-day)
 
 **Summer Workshop Details:**
 - When: August 10 –August 14, 2026
@@ -43,7 +43,7 @@ Applications now closed for the MIT Summer Research Program (MSRP); Undergraduat
 
 <img src="https://iaifi.org/images/2026-spring-colloquium.jpeg" align="center" style="float: right; max-width:3024px;width:35%" hspace="10" vspace="0"> 
 
-Thank you to our speakers for this term: 
+Thank you to our speakers for this term! 
 - February 13: [Roger Melko (University of Waterloo)](https://rgmelko.github.io/)
 - February 27: [Andrew Gordon Wilson (NYU)](https://cims.nyu.edu/~andrewgw/)
 - March 13: [Carlo V. Cannistraci (Tsinghua Laboratory of Brain and Intelligence (THBI))](https://brain.tsinghua.edu.cn/en/info/1010/1003.htm)
@@ -95,21 +95,22 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
   .image-row {
     display: flex;
     justify-content: center;
+    align-items: flex-start;
     gap: 10px;
     margin: 10px 0;
   }
   .image-row img {
-    width: 45%;
+    height: 300px;
+    width: auto;
     max-width: 5990px;
-    height: auto;
     flex-shrink: 0; 
     object-fit: contain; 
   }
 </style>
 
 <div class="image-row">
-  <img src="https://iaifi.org/images/2026-spring-showcase.jpeg" alt="Group photo">
-  <img src="https://iaifi.org/images/2026-spring-industry-lunch.jpeg" alt="Lecture">
+  <img src="https://iaifi.org/images/2026-spring-showcase.jpeg" alt="Spring Social">
+  <img src="https://iaifi.org/images/2026-spring-industry-lunch.jpeg" alt="Industry Lunch Talk">
 </div>
 
 *IAIFI members participate in a variety of events throughout the semester, including colloquia, industry lunch talks, and networking events.*
