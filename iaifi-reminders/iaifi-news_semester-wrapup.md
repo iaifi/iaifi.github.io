@@ -33,11 +33,9 @@ This August, we will hold our fifth annual Summer School (applications now close
 - What: View the agenda [on the Summer School webpage](https://iaifi.org/phd-summer-school.html#lecturers). Lecturer details will be added as they are confirmed by the organizing committee.
 - See [FAQs](https://iaifi.org/phd-summer-school.html#faq) on the Summer School webpage
 
-<br>
-
 ### MIT Summer Research Program (MSRP)
 
-<img src="https://iaifi.org/images/small-photo-2025-msrp-lunch..jpg" align="center" style="float: right; max-width:5990px;width:35%" hspace="10" vspace="0"> 
+<img src="https://iaifi.org/images/photo-2026-msrp-posters.jpeg" align="center" style="float: right; max-width:5990px;width:35%" hspace="10" vspace="0"> 
 
 Applications now closed for the MIT Summer Research Program (MSRP); Undergraduate students (sophomore, junior, or non-graduating seniors) who might benefit from spending a summer on MIT’s campus, conducting research under the guidance of MIT faculty members, postdoctoral fellows, and advanced graduate students, are invited to apply annually to the [MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/) and can indicate interest in working with IAIFI researchers. 
 
@@ -111,7 +109,7 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
 
 <div class="image-row">
   <img src="https://iaifi.org/images/2026-spring-showcase.jpeg" alt="Group photo">
-  <img src="https://iaifi.org/images/2026-industry-lunch.jpeg" alt="Lecture">
+  <img src="https://iaifi.org/images/2026-spring-industry-lunch.jpeg" alt="Lecture">
 </div>
 
 *IAIFI members participate in a variety of events throughout the semester, including colloquia, industry lunch talks, and networking events.*
