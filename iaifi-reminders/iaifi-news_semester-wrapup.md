@@ -30,7 +30,7 @@ This August, we will hold our fifth annual Summer School (applications now close
 **Summer Workshop Details:**
 - When: August 10 –August 14, 2026
 - Where: Boston/Cambridge, MA (MIT)
-- What: View the agenda [on the Summer School webpage](https://iaifi.org/phd-summer-school.html#lecturers). Lecturer details will be added as they are confirmed by the organizing committee.
+- What: View the agenda [on the Summer Workshop webpage](https://iaifi.org/summer-workshop.html#agenda). Lecturer details will be added as they are confirmed by the organizing committee.
 - See [FAQs](https://iaifi.org/phd-summer-school.html#faq) on the Summer School webpage
 
 ### MIT Summer Research Program (MSRP)
