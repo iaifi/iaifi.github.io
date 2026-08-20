@@ -1,21 +1,30 @@
 type: paper
 iaifi-thrust: F
+arxiv-date: 2026-03-25
 title: "Noisy dynamical systems evolve error correcting codes and modularity"
 authors: Trevor McCourt, Ila R. Fiete, Isaac L. Chuang
 abstract: 'There is an intimate connection between life (as we know it) and fault tolerance. Despite residing in the stochastic and complex physical world, biological systems execute functions that allow them to survive and thrive by maintaining their physical integrity. At the same time, biological systems are strikingly modular: parts responsible for different functions tend to be physically separate and easily distinguishable. In this work, through experiments in Boolean networks, we show that the simultaneous presence of fault tolerance and modularity in biological systems is no coincidence. Rather, it is a typical co-occurrence in dynamic systems undergoing adaptive evolution in noisy environments. From this, we deduce the principle of error correction enhanced evolvability: systems possessing error-correcting codes are more effectively improved by evolution than those without. Noise creates the evolutionary pressure to develop initial error-correcting codes, suggesting it plays a larger role in the evolution of complex structures than previously thought.'
 arxiv: "2303.14448"
-journal: 
-doi: 
+date-updated: 2026-08-19
+journal: PRX Life, 2026, Volume 4, Issue 2
+doi: https://doi.org/10.1103/7kcl-jshm
 nsf-par:
 code: https://github.com/trevormccrt/noise_emergence
-publication-date:
+publication-date: 2026-04-03
 bib-tex: |
-  @article{mccourt2023noisydynamicalsystemsevolve,
-      title={Noisy dynamical systems evolve error correcting codes and modularity},
-      author={Trevor McCourt and Ila R. Fiete and Isaac L. Chuang},
-      year={2023},
-      eprint={2303.14448},
-      archivePrefix={arXiv},
-      primaryClass={q-bio.PE},
-      url={https://arxiv.org/abs/2303.14448},
+  @article{7kcl-jshm,
+  title = {Noisy Dynamical Systems Evolve Error Correcting Codes and Modularity},
+  author = {McCourt, Trevor and Fiete, Ila R. and Chuang, Isaac L.},
+  journal = {PRX Life},
+  volume = {4},
+  issue = {2},
+  pages = {023002},
+  numpages = {9},
+  year = {2026},
+  month = {Apr},
+  publisher = {American Physical Society},
+  doi = {10.1103/7kcl-jshm},
+  url = {https://link.aps.org/doi/10.1103/7kcl-jshm},
+  eprint={2303.14448},
+  archivePrefix={arXiv},
   }

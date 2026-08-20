@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-07-09
+title: "Optimal-Transport-Based Cell Resampling for Negative and Pathological Event Weights"
+authors: "Regan Doherty, Lauren Hay, Rishabh Jain, Matt LeBlanc, Julia Marrinan, Camille Mauceri, Jennifer Roloff"
+abstract: "Negative and pathologically large Monte Carlo event weights strain the computing budgets of experiments at the Large Hadron Collider. Cell resampling algorithms locally redistribute event weights among nearby events in a metric space. We study the performance of metrics defined in terms of Optimal Transport, namely the Energy Mover's Distance and a spectral variant, in the context of such algorithms. As these metrics are insensitive to the addition of soft and collinear radiation, they may be applied directly to particles at any stage of event generation. When applied to samples simulated at next-to-leading-order in quantum chromodynamics, this approach reduces the observed bias relative to other cell resampling techniques presented in the literature. We also study the Cross-Section Mover's Distance as an unbinned, broadly-applicable figure of merit for quantifying the bias introduced by any full-phase-space reweighting."
+arxiv: "2607.08723"
+date-updated: 2026-08-19
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{doherty2026optimaltransportbasedcellresamplingnegative,
+      title={Optimal-Transport-Based Cell Resampling for Negative and Pathological Event Weights},
+      author={Regan Doherty and Lauren Hay and Rishabh Jain and Matt LeBlanc and Julia Marrinan and Camille Mauceri and Jennifer Roloff},
+      year={2026},
+      eprint={2607.08723},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2607.08723},
+  }

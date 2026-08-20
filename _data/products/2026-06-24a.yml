@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-06-24
+title: "Lyman-Alpha Forest and its Cross-Correlation with High-Redshift Galaxies in Effective Field Theory at the Field Level"
+authors: "Roger de Belsunce, Mikhail M. Ivanov, James M. Sullivan, Shi-Fan Chen, Kazuyuki Akitsu"
+abstract: "We present a field-level perturbative forward model for the Lyman-alpha (Lya) forest flux decrement. We validate it on two simulation suites: large-volume AbacusSummit N-body simulations with the Lya forest painted onto the dark matter field, and the Sherwood hydrodynamic simulations. Across the redshift range of the simulations (z=2.0-3.2), the 3D and 1D power spectra of the model match the simulated Lya fields at the 1% (5%) level up to k <= 0.3 (1.0) h/Mpc, with similar performance for the cross-correlation with massive dark matter halos. The counts-in-cells statistic shows excellent agreement down to cell radii of 2 Mpc/h. Leveraging cosmic variance cancellation, the model enables precision measurements of Lya bias parameters and robustly detects the full set of quadratic line-of-sight bias operators, consistent with the notion of naturalness in effective field theory (EFT). We quantify the stochasticity of the Lya forest (the analog to the one-halo term), and find it to be white (scale- and orientation-independent) on large scales, matching EFT predictions. We further find that phenomenological flux power spectrum models, based on modulations of the linear-theory power spectrum, fail at the field level even on quasi-linear scales. For the currently observing Dark Energy Spectroscopic Instrument (DESI), we generate large-scale clustering mocks of the Lya forest to validate cosmological parameter inference pipelines. Looking ahead to its successor, DESI-II, we produce large-volume mocks of representative samples of Lyman-break galaxies (LBGs) and Lya emitters (LAEs), calibrated on Astrid hydrodynamic simulations and matched to observations at z=3, enabling joint analyses of Lya forest and high-redshift galaxy data."
+arxiv: "2606.26234"
+date-updated: 2026-08-19
+journal:
+doi:
+nsf-par:
+code:
+publication-date:
+bib-tex: |
+  @article{debelsunce2026lymanalphaforestcrosscorrelationhighredshift,
+      title={Lyman-Alpha Forest and its Cross-Correlation with High-Redshift Galaxies in Effective Field Theory at the Field Level},
+      author={Roger de Belsunce and Mikhail M. Ivanov and James M. Sullivan and Shi-Fan Chen and Kazuyuki Akitsu},
+      year={2026},
+      eprint={2606.26234},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2606.26234},
+  }
