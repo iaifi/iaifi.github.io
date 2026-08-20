@@ -14,7 +14,7 @@ show_title: false
 
 # IAIFI Spring 2026 Wrap-Up
 
-[IAIFI Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm} [Join IAIFI](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Follow IAIFI](#contact-and-follow-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Summer Workshop](#summer-workshop-in-august){:.button.button--outline-primary.button--pill.button--sm} [See Past Semesterly Newsletters](https://docs.google.com/document/d/1e7kiw3MrGix_eKdWNbPBKp9blh3LjTqGkw1sNzkWR88/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--sm}
+[Opportunities](#iaifi-opportunities){:.button.button--outline-primary.button--pill.button--sm [Colloquia](#iaifi-colloquium-series){:.button.button--outline-primary.button--pill.button--sm} [Research Highlights](#iaifi-research-highlights){:.button.button--outline-primary.button--pill.button--sm} [News](#in-case-you-missed-it){:.button.button--outline-primary.button--pill.button--sm} [Join](#join-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Research Papers](#iaifi-research-on-arxiv){:.button.button--outline-primary.button--pill.button--sm} [Follow IAIFI](#contact-and-follow-iaifi){:.button.button--outline-primary.button--pill.button--sm} [Past Semesterly Newsletters](https://docs.google.com/document/d/1e7kiw3MrGix_eKdWNbPBKp9blh3LjTqGkw1sNzkWR88/edit?usp=sharing){:.button.button--outline-primary.button--pill.button--sm}
 
 ## News from IAIFI Management
 
@@ -100,7 +100,7 @@ Junior Researchers include undergraduate students, graduate students, postdocs, 
     margin: 10px 0;
   }
   .image-row img {
-    height: 300px;
+    height: 250px;
     width: auto;
     max-width: 5990px;
     flex-shrink: 0; 
