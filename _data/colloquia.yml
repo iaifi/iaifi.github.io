@@ -1,5 +1,62 @@
 - type: "colloquium"
   semester: "fall-2026"
+  speaker-name: "Adrian Bayer"
+  speaker-title: "Postdoctoral Fellow"
+  speaker-affiliation: "IAIFI Fellow"
+  speaker-website: "https://adrianbayer.github.io/"
+  speaker-photo-location: "images/small-photo-adrian-bayer.jpg"
+  start-date-time: "2026-09-25 14:00"
+  end-date-time: "2026-09-25 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come."
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjA5MjVUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "astrophysics"
+  speaker-gender: "man"
+  talk-attendance: TBD in person, TBD virtual
+  
+- type: "colloquium"
+  semester: "fall-2026"
+  speaker-name: "Speaker TBA"
+  speaker-title: "Title TBA"
+  speaker-affiliation: "Affiliation TBA"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2026-10-09 14:00"
+  end-date-time: "2026-10-09 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come."
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjEwMDlUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: TBD in person, TBD virtual
+  
+- type: "colloquium"
+  semester: "fall-2026"
+  speaker-name: "Speaker TBA"
+  speaker-title: "Title TBA"
+  speaker-affiliation: "Affiliation TBA"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2026-10-23 14:00"
+  end-date-time: "2026-10-23 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come."
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjEwMjNUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
+  talk-attendance: TBD in person, TBD virtual
+
+- type: "colloquium"
+  semester: "fall-2026"
   speaker-name: "Mike Williams"
   speaker-title: "Director"
   speaker-affiliation: "IAIFI"
@@ -8,14 +65,71 @@
   start-date-time: "2026-10-26 16:00"
   end-date-time: "2026-10-26 17:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "IAIFI-LNS Colloquium"
-  talk-abstract: "Details to come. This will be a joint colloquium with the Laboratory for Nuclear Science (LNS) at MIT.<br><br><br><br><br>"
+  talk-title: "IAIFI-LNS Joint Colloquium (Details to come)<br><br>"
+  talk-abstract:
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3RlbmVzNTl2bjdmOW9laml1cTRjZ3Z2YnYgYzZwNzIwMGRwbjE0c201M2owMWExZXZwODhAZw&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
   priority: high
+  talk-attendance: TBD in person, TBD virtual
+  
+- type: "colloquium"
+  semester: "fall-2026"
+  speaker-name: "David Pfau"
+  speaker-title: "Visiting Professor"
+  speaker-affiliation: "Imperial College London"
+  speaker-website: http://davidpfau.com/
+  speaker-photo-location: images/photo-david-pfau.png
+  start-date-time: "2026-11-06 14:00"
+  end-date-time: "2026-11-06 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come."
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjExMDZUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "foundational ai"
+  speaker-gender: "man"
+  talk-attendance: TBD in person, TBD virtual
+  
+- type: "colloquium"
+  semester: "fall-2026"
+  speaker-name: "Jake Nibauer"
+  speaker-title: "Postdoctoral Fellow"
+  speaker-affiliation: "IAIFI Fellow"
+  speaker-website: http://jnibauer.github.io
+  speaker-photo-location: images/small-photo-jacob-nibauer.jpg
+  start-date-time: "2026-11-20 14:00"
+  end-date-time: "2026-11-20 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come."
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjExMjBUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "foundational ai"
+  speaker-gender: "man"
+  talk-attendance: TBD in person, TBD virtual
+  
+- type: "colloquium"
+  semester: "fall-2026"
+  speaker-name: "Speaker TBA"
+  speaker-title: "Title TBA"
+  speaker-affiliation: "Affiliation TBA"
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2026-12-04 14:00"
+  end-date-time: "2026-12-04 15:00"
+  talk-location: "MIT Kolker Room (26-414)"
+  talk-title: "Details to come."
+  talk-abstract:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjEyMDRUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link:
+  youtube-link:
+  speaker-thrust: ""
+  speaker-gender: ""
   talk-attendance: TBD in person, TBD virtual
 
 - type: "colloquium"
