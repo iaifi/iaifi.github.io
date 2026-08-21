@@ -8,9 +8,9 @@ arxiv: "2601.10774"
 date-updated: 2026-08-20
 journal: ICML 2026
 doi: https://openreview.net/forum?id=9kkrASoSbp
-nsf-par:
-code: 
-publication-date:
+nsf-par: 10707676
+code: https://github.com/mathisgerdes/bijx
+publication-date: 2026-04-30
 bib-tex: |
   @inproceedings{gerdes2026analytic,
   title={Analytic Bijections for Smooth and Interpretable Normalizing Flows},

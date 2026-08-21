@@ -8,7 +8,7 @@ arxiv: "2511.09118"
 date-updated: 2026-08-20
 journal: Machine Learning Science and Technology, Volume 7, Number 4
 doi: https://doi.org/10.1088/2632-2153/ae73e3
-nsf-par:
+nsf-par: 10707677
 code: https://github.com/mletizia/learning-to-validate-nplm
 publication-date: 2026-07-07
 bib-tex: |

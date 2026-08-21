@@ -8,7 +8,7 @@ arxiv: "2410.20516"
 date-updated: 2026-08-20
 journal: LoG 2024
 doi: https://openreview.net/forum?id=t8yFkSAsLq
-nsf-par:
+nsf-par: 10707703
 code: "https://github.com/smsharma/eqnn-jax"
 publication-date: 2024-11-16
 bib-tex: |

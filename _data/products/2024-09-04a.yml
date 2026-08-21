@@ -7,7 +7,7 @@ arxiv: "2409.02980"
 date-updated: 2026-08-20
 journal: The Astrophysical Journal, Volume 997, Number 2
 doi: https://doi.org/10.3847/1538-4357/ae28dc
-nsf-par:
+nsf-par: 10705063
 code: https://github. com/trivnguyen/nehod_torch
 publication-date: 2026-01-30
 bib-tex: |
