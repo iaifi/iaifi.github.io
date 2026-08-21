@@ -4,18 +4,18 @@ title: "Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for Mo
 authors: Ameya Daigavane, Song Kim, Mario Geiger, Tess Smidt
 abstract: 'We present Symphony, an E(3)-equivariant autoregressive generative model for 3D molecular geometries that iteratively builds a molecule from molecular fragments. Existing autoregressive models such as G-SchNet and G-SphereNet for molecules utilize rotationally invariant features to respect the 3D symmetries of molecules. In contrast, Symphony uses message-passing with higher-degree E(3)-equivariant features. This allows a novel representation of probability distributions via spherical harmonic signals to efficiently model the 3D geometry of molecules. We show that Symphony is able to accurately generate small molecules from the QM9 dataset, outperforming existing autoregressive models and approaching the performance of diffusion models.'
 arxiv: "2311.16199"
-journal: 
-doi: 
+journal: ICLR 2024
+doi: https://openreview.net/forum?id=MIEnYtlGyv
 nsf-par:
 code: https://github.com/atomicarchitects/symphony
-publication-date: 
+publication-date: 2025-01-16
 bib-tex: |
-  @article{daigavane2024symphonysymmetryequivariantpointcenteredspherical,
-      title={Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for 3D Molecule Generation},
-      author={Ameya Daigavane and Song Kim and Mario Geiger and Tess Smidt},
-      year={2024},
-      eprint={2311.16199},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2311.16199},
+  @inproceedings{daigavane2024symphony,
+  title={Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for 3D Molecule Generation},
+  author={Ameya Daigavane and Song Eun Kim and Mario Geiger and Tess Smidt},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024},
+  url={https://openreview.net/forum?id=MIEnYtlGyv},
+  eprint={2311.16199},
+  archivePrefix={arXiv},
   }

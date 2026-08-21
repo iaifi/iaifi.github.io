@@ -5,19 +5,28 @@ title: "Learning to Validate Generative Models: a Goodness-of-Fit Approach"
 authors: "Pietro Cappelli, Gaia Grosso, Marco Letizia, Humberto Reyes-González, Marco Zanetti"
 abstract: "Generative models are increasingly central to scientific workflows, yet their systematic use and interpretation require a proper understanding of their limitations through rigorous validation. Classic approaches struggle with scalability, statistical power, or interpretability when applied to high-dimensional data, making it difficult to certify the reliability of these models in realistic, high-dimensional scientific settings. Here, we propose the use of the New Physics Learning Machine (NPLM), a learning-based approach to goodness-of-fit testing inspired by the Neyman--Pearson construction, to test generative networks trained on high-dimensional scientific data. We demonstrate the performance of NPLM for validation in two benchmark cases: generative models trained on mixtures of Gaussian models with increasing dimensionality, and a public end-to-end model, known as FlowSim, developed to generate high-energy physics collision events. We demonstrate that the NPLM can serve as a powerful validation method while also providing a means to diagnose sub-optimally modeled regions of the data."
 arxiv: "2511.09118"
-date-updated: 2026-01-27
-journal:
-doi:
+date-updated: 2026-08-20
+journal: Machine Learning Science and Technology, Volume 7, Number 4
+doi: https://doi.org/10.1088/2632-2153/ae73e3
 nsf-par:
-code:
-publication-date:
+code: https://github.com/mletizia/learning-to-validate-nplm
+publication-date: 2026-07-07
 bib-tex: |
-  @article{cappelli2025learningvalidategenerativemodels,
-      title={Learning to Validate Generative Models: a Goodness-of-Fit Approach},
-      author={Pietro Cappelli and Gaia Grosso and Marco Letizia and Humberto Reyes-González and Marco Zanetti},
-      year={2025},
-      eprint={2511.09118},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML},
-      url={https://arxiv.org/abs/2511.09118},
+  @article{Cappelli_2026,
+  doi = {10.1088/2632-2153/ae73e3},
+  url = {https://doi.org/10.1088/2632-2153/ae73e3},
+  year = {2026},
+  month = {jul},
+  publisher = {IOP Publishing},
+  volume = {7},
+  number = {4},
+  pages = {045011},
+  author = {Cappelli, Pietro and Grosso, Gaia and Letizia, Marco and Reyes-Gonz√°lez, Humberto and Zanetti, Marco},
+  title = {Learning to validate generative models: a goodness-of-fit approach},
+  journal = {Machine Learning: Science and Technology},
+  abstract = {Generative models are increasingly central to scientific workflows, yet their systematic use and interpretation require a proper understanding of their limitations through rigorous validation. Classic approaches struggle with scalability, statistical power, or interpretability when applied to high-dimensional data, making it difficult to certify the reliability of these models in realistic, high-dimensional scientific settings. Here, we propose the use of the New Physics Learning Machine (NPLM), a learning-based approach to goodness-of-fit testing inspired by the Neyman‚ÄìPearson construction, to test generative networks trained on high-dimensional scientific data. We demonstrate the performance of NPLM for validation in two benchmark cases: generative models trained on mixtures of Gaussian models with increasing dimensionality, and a public end-to-end model developed to generate high-energy physics collision events. We show that NPLM can serve as a powerful validation method while also providing a means to diagnose sub-optimally modeled regions of the data.},
+  eprint={2511.09118},
+  archivePrefix={arXiv},
   }
+
+

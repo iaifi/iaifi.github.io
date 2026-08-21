@@ -1,21 +1,26 @@
 type: paper
 iaifi-thrust: F
 arxiv-date: 2025-08-22
-title: "Training a Foundation Model for Materials on a Budget"
+title: "The Price of Freedom: Exploring Expressivity and Runtime Tradeoffs in Equivariant Tensor Products"
 authors: "Teddy Koker, Mit Kotak, Tess Smidt"
 abstract: "Foundation models for materials modeling are advancing quickly, but their training remains expensive, often placing state-of-the-art methods out of reach for many research groups. We introduce Nequix, a compact E(3)-equivariant potential that pairs a simplified NequIP design with modern training practices, including equivariant root-mean-square layer normalization and the Muon optimizer, to retain accuracy while substantially reducing compute requirements. Nequix has 700K parameters and was trained in 100 A100 GPU-hours. On the Matbench-Discovery and MDR Phonon benchmarks, Nequix ranks third overall while requiring a 20 times lower training cost than most other methods, and it delivers two orders of magnitude faster inference speed than the current top-ranked model."
 arxiv: "2508.16067"
-journal: "39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: AI for Accelerated Materials Design"
-doi: https://openreview.net/pdf?id=JYxeI4AwhQ
+date-updated: 2026-08-20
+journal: "ICML 2025"
+doi: https://openreview.net/forum?id=EvIwwGYTLc
 nsf-par: 10648732
 code: "https://github.com/atomicarchitects/nequix"
-publication-date: 2025-09-20
+publication-date: 2025-05-01
 bib-tex: |
   @inproceedings{
-    koker2025training,
-    title={Training a Foundation Model for Materials on a Budget},
-    author={Teddy Koker and Mit Kotak and Tess Smidt},
-    booktitle={AI for Accelerated Materials Design - NeurIPS 2025},
-    year={2025},
-    url={https://openreview.net/forum?id=JYxeI4AwhQ}
+  xie2025the,
+  title={The Price of Freedom: Exploring Expressivity and Runtime Tradeoffs in Equivariant Tensor Products},
+  author={YuQing Xie and Ameya Daigavane and Mit Kotak and Tess Smidt},
+  booktitle={Forty-second International Conference on Machine Learning},
+  year={2025},
+  url={https://openreview.net/forum?id=EvIwwGYTLc},
+  eprint={2508.16067},
+  archivePrefix={arXiv},
   }
+
+
