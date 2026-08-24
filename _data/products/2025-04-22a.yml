@@ -7,7 +7,7 @@ abstract: "Machine learning interatomic potentials, particularly those based on 
 arxiv: "2504.16068"
 journal: Digital Discovery (2026) 5 (4), 1558–1567.
 doi: https://doi.org/10.1039/d5dd00423c
-nsf-par:
+nsf-par: 10697087
 code: "https://github.com/mir-group/nequip"
 publication-date: 2026-03-26
 bib-tex: |

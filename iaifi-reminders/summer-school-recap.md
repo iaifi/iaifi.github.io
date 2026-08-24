@@ -10,8 +10,10 @@ show_title: false
 {% include_relative iaifi-reminder_header.html %}
 
 <p style="text-align:center;">
-  <img src="https://iaifi.org/images/phd-summer-school-logo-2025.png" style="max-width:5990px;width:85%; margin-bottom: 20px;">
+  <img src="https://iaifi.org/images/phd-summer-school-logo-2026.png" style="max-width:5990px;width:85%; margin-bottom: 20px;">
 </p>
+
+<!--
 
 ## IAIFI Summer School Recap
 We hope you enjoyed the the 2026 Summer School! Thank you for a great week of learning and science discussion!
@@ -54,3 +56,29 @@ Congratulations to our winners:
 Be sure to check out the slides to connect with any of our sponsors!
 [View Recording](https://www.dropbox.com/scl/fi/y1synjgwi6gdk5z7opk3u/2026-SS-Closing.mp4?rlkey=lujhaslestiw1qxm68x41jyn9&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Slides](https://docs.google.com/presentation/d/1t_gO3LMGRMtvS77IceW9uyT13CGt4JQ2/edit?usp=sharing&ouid=107650713859084891843&rtpof=true&sd=true){:.button.button--outline-primary.button--pill.button--lg}
 
+-->
+
+## IAIFI Summer School Recap Reminder
+A friendly reminder to check out the Summer School Survey and the lecture recordings from the IAIFI Summer School. Once you complete the brief survey, you will get a link to download a certificate of attendance for the Summer School. Your feedback helps us plan for future Summer Schools!
+
+### Summer School Survey
+
+[Complete the Survey](https://bit.ly/2026-post-summer-school){:.button.button--outline-primary.button--pill.button--lg}
+
+### Notes and Reminders
+
+* All lecture slides and tutorial materials from the Summer School can be found on the [IAIFI Summer School GitHub](https://github.com/iaifi/summer-school-2026).
+
+* Lecture and lightning talk recordings from the Summer School can be [viewed here](https://www.dropbox.com/scl/fo/9nxwuutx7x4vfdo5v72x9/AEIXwlG-VJQ_jyzMhYn7LaM?rlkey=01hlg02yx18urzfwhjvuqdyur&dl=0).
+
+* Photos from this week, including the [group photo](https://drive.google.com/file/d/1tyhcIg-06rwybbJnmJYHLlaJEvPuwwMO/view?usp=share_link), can be [viewed here](https://drive.google.com/drive/folders/1221NJHyhYMzRnvjRFTwTs1W7Z9i1p5fy?usp=share_link).
+
+* If you publish or present results that develop out of your hackathon project, please acknowledge IAIFI (and let us know!)
+
+### All Lightning Talks
+
+[View Recordings](https://www.dropbox.com/scl/fo/9nxwuutx7x4vfdo5v72x9/AEIXwlG-VJQ_jyzMhYn7LaM?rlkey=01hlg02yx18urzfwhjvuqdyur&e=1&dl=0){:.button.button--outline-primary.button--pill.button--lg}  [View Slides](https://drive.google.com/drive/folders/1hhGXDXWt1RVv2-2dYqDkd-WXGifWyoVj?usp=sharing){:.button.button--outline-primary.button--pill.button--lg}
+
+### Hackathon
+
+[View Recording](https://www.dropbox.com/scl/fi/q00szm4iei3q8m83xlg9v/2026-SS-Hackathon-Presentations.mp4?rlkey=1dhlb52fwsj86tbcf3vqt73yx&dl=0){:.button.button--outline-primary.button--pill.button--lg}
