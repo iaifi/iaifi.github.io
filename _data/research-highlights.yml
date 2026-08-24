@@ -1,4 +1,15 @@
 - type: "research-highlight"
+  domain: "Foundational AI"
+  title: "Smoothness Errors in Dynamics Models and How to Avoid Them"
+  authors: Edward Berman, Luisa Li, Jung Yeon Park, Robin Walters
+  date-added: 2026-08-24
+  technical-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vT-Wupjm2TtfGM4rYHkkZRFvwRQy3HXBvUKU2Kv85HJOIHOGgN0mHmbfIW8inpaTFArqBpL6WV4gO_j/pubembed?start=false&loop=false&delayms=3000"
+  technical-link: "https://docs.google.com/presentation/d/1SMAXZ7B2acWcw1-XACAf5E5-8XcxdBxVFqiGNfk7hYI/edit?usp=sharing"
+  overview-embed-link: "https://docs.google.com/presentation/d/e/2PACX-1vTJUg3IX0nUUiHZupQQwN_Ef5aNVUDNo_VGpZbrCXPSP1sFshd_SsgB79Ru8WheYmuQuVQZeIdYl1DE/pubembed?start=false&loop=false&delayms=3000"
+  overview-link: "https://docs.google.com/presentation/d/17FCYAwjJBF5qGlzKJWadOuEjYVGe3UJ6lxPUdTlc1EU/edit?usp=sharing"
+  screenshot: ResearchHighlight_202608_Berman.png
+
+- type: "research-highlight"
   domain: "Theoretical Physics"
   title: "Quantum mechanics and neural networks"
   authors: Christian Ferko, James Halverson
