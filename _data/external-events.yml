@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "Glasswing Test Flight"
+  event-organizer: "James Massaquoi"
+  more-info-link: "https://glasswing.vc/hackathon-2026/"
+  event-post-date: "2026-08-30"
+  start-date-time: "2026-09-26"
+  end-date-time: "2026-09-27"
+  talk-location: "275 Newbury St., Boston, MA"
+  talk-zoom:
+  event-details: "On September 26 and 27 we're hosting Test Flight, a two-day AI hackathon at our office at 275 Newbury, timed to Boston AI Week. Theme is enterprise-ready AI: teams of four build against real enterprise workflows Saturday, then present to judges Sunday afternoon. Free, in person, capped around 100 to 120 students, with roughly $300K in compute prizes anchored by Microsoft and AWS<br>Details: https://glasswing.vc/hackathon-2026/ <br>Registration: https://luma.com/gzpv85yq."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MThqOWVycDBsbjJpdjhqa3RpNGJmODdvbG0geWlsZGl6QG1pdC5lZHU&tmsrc=yildiz%40mit.edu"
+  
+- type: "external-event"
   event-name: "AI & Science: Evolution or Extinction? — NeurIPS 2026 Workshop"
   event-organizer: "neurIPS Atlanta, co-organizer Lauren Greenspan"
   more-info-link: "https://aiscik.github.io/"
