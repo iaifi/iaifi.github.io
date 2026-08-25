@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "AI & Science: Evolution or Extinction? — NeurIPS 2026 Workshop"
+  event-organizer: "neurIPS Atlanta, co-organizer Lauren Greenspan"
+  more-info-link: "https://aiscik.github.io/"
+  event-post-date: "2026-08-30"
+  start-date-time: "2026-12-12 OR 2026-12-13"
+  end-date-time: "2026-12-14"
+  talk-location: "Atlanta, Georgia"
+  talk-zoom:
+  event-details: "Hello all. I'm co-organizing a workshop at neurIPS Atlanta called AI & Science: Evolution or Extinction? We're aiming for epistemically diverse perspectives on the future of scientific practice, its impact on humanity, and the role we play in shaping that impact. Paper submissions are open, please consider joining us!"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NTZocDFqbDRrNGhzMmhpZGwycGVpYWk3bzUgeWlsZGl6QG1pdC5lZHU&tmsrc=yildiz%40mit.edu"
+  
+- type: "external-event"
   event-name: "Learning on Graphs Conference 2026"
   more-info-link: "https://logconference.org/"
   event-post-date: "2026-08-02"
