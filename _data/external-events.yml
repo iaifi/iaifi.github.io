@@ -8,7 +8,7 @@
   talk-location: "275 Newbury St., Boston, MA"
   talk-zoom:
   event-details: "On September 26 and 27 we're hosting Test Flight, a two-day AI hackathon at our office at 275 Newbury, timed to Boston AI Week. Theme is enterprise-ready AI: teams of four build against real enterprise workflows Saturday, then present to judges Sunday afternoon. Free, in person, capped around 100 to 120 students, with roughly $300K in compute prizes anchored by Microsoft and AWS<br>Details: https://glasswing.vc/hackathon-2026/ <br>Registration: https://luma.com/gzpv85yq."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MThqOWVycDBsbjJpdjhqa3RpNGJmODdvbG0geWlsZGl6QG1pdC5lZHU&tmsrc=yildiz%40mit.edu"
+  calendar-link: 
   
 - type: "external-event"
   event-name: "AI & Science: Evolution or Extinction? — NeurIPS 2026 Workshop"
@@ -20,7 +20,7 @@
   talk-location: "Atlanta, Georgia"
   talk-zoom:
   event-details: "Hello all. I'm co-organizing a workshop at neurIPS Atlanta called AI & Science: Evolution or Extinction? We're aiming for epistemically diverse perspectives on the future of scientific practice, its impact on humanity, and the role we play in shaping that impact. Paper submissions are open, please consider joining us!"
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NTZocDFqbDRrNGhzMmhpZGwycGVpYWk3bzUgeWlsZGl6QG1pdC5lZHU&tmsrc=yildiz%40mit.edu"
+  calendar-link: 
   
 - type: "external-event"
   event-name: "Learning on Graphs Conference 2026"
