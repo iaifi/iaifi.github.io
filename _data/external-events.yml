@@ -1,22 +1,37 @@
 - type: "external-event"
   event-name: "Glasswing Test Flight"
-  event-organizer: "James Massaquoi"
+  event-organizer: "Glasswing Ventures"
   more-info-link: "https://glasswing.vc/hackathon-2026/"
   event-post-date: "2026-08-30"
   start-date-time: "2026-09-26"
   end-date-time: "2026-09-27"
   talk-location: "275 Newbury St., Boston, MA"
   talk-zoom:
-  event-details: "On September 26 and 27 we're hosting Test Flight, a two-day AI hackathon at our office at 275 Newbury, timed to Boston AI Week. Theme is enterprise-ready AI: teams of four build against real enterprise workflows Saturday, then present to judges Sunday afternoon. Free, in person, capped around 100 to 120 students, with roughly $300K in compute prizes anchored by Microsoft and AWS<br>Details: https://glasswing.vc/hackathon-2026/ <br>Registration: https://luma.com/gzpv85yq."
-  calendar-link: 
+  event-details: "On September 26 and 27 we're hosting Test Flight, a two-day in-person AI hackathon, timed to Boston AI Week. Theme is enterprise-ready AI: teams of four build against real enterprise workflows Saturday, then present to judges Sunday afternoon. Free, in person, capped around 100 to 120 students, with roughly $300K in compute prizes anchored by Microsoft and AWS.**Application required to be considered for participation.**"
+  calendar-link:
+  rsvp-link: https://luma.com/gzpv85yq
+
+- type: "external-event"
+  event-name: "Agentic AI for BSM Event Generation and Analysis Workshop at the LPC"
+  event-organizer: "Fermilab"
+  more-info-link: "https://indico.fnal.gov/event/75639/"
+  event-post-date: "2026-08-30"
+  start-date-time: "2026-09-09 09:00"
+  end-date-time: "2026-09-11 17:00"
+  talk-location: "Fermilab"
+  talk-zoom:
+  event-details: "With the ubiquity of LLMs and agentic platforms, there is a pressing need to coordinate ongoing efforts across experiments and tools, and to build a shared community. This workshop focuses on the real-world problem of automating BSM event generation and experimental data analysis. "
+  calendar-link:
+  rsvp-link: https://indico.fnal.gov/event/75639/registrations/4899/
+  registration-deadline: 2026-09-01
   
 - type: "external-event"
   event-name: "AI & Science: Evolution or Extinction? — NeurIPS 2026 Workshop"
   event-organizer: "neurIPS Atlanta, co-organizer Lauren Greenspan"
   more-info-link: "https://aiscik.github.io/"
   event-post-date: "2026-08-30"
-  start-date-time: "2026-12-12 OR 2026-12-13"
-  end-date-time: "2026-12-14"
+  start-date-time: "2026-12-12"
+  end-date-time: "2026-12-13"
   talk-location: "Atlanta, Georgia"
   talk-zoom:
   event-details: "Hello all. I'm co-organizing a workshop at neurIPS Atlanta called AI & Science: Evolution or Extinction? We're aiming for epistemically diverse perspectives on the future of scientific practice, its impact on humanity, and the role we play in shaping that impact. Paper submissions are open, please consider joining us!"
@@ -24,6 +39,7 @@
   
 - type: "external-event"
   event-name: "Learning on Graphs Conference 2026"
+  event-organizer: "LoG Conference Organizing Committee"
   more-info-link: "https://logconference.org/"
   event-post-date: "2026-08-02"
   start-date-time: "2026-11-20"
