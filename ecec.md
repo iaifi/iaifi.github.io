@@ -31,33 +31,34 @@ IAIFI appreciates that the responsible and ethical conduct of research is critic
 All IAIFI Junior Investigators are required to complete an online training course in the responsible conduct of research (RCR).
 
 ### Resources
-#### General Resources
 * [IAIFI Code of Conduct](/code-of-conduct.html)
-* [Protecting scientific integrity in an age of generative AI](https://www.pnas.org/doi/abs/10.1073/pnas.2407886121?af=R)
 
-#### MIT
-* [Case Studies in Social and Ethical Responsibilities of Computing (SERC)](https://mit-serc.pubpub.org/), from the Schwarzman College of Computing
+#### Research Integrity
+* [Protecting scientific integrity in an age of generative AI](https://www.pnas.org/doi/abs/10.1073/pnas.2407886121?af=R), from PNAS 
+
+#### Case Studies & Teaching and Curriculum Materials 
+* [Case Studies in Social and Ethical Responsibilities of Computing (SERC)](https://mit-serc.pubpub.org/), from the Schwarzman College of Computing at MIT
+* [Embedded EthiCS](https://embeddedethics.seas.harvard.edu), from Harvard
+* [Information Ethics in the Khoury College of Computer Sciences Curriculum](https://cssh.northeastern.edu/informationethics/information-ethics-in-the-khoury-curriculum/), from the Khoury College of Computer Sciences at Northeastern
+* [AI Ethics](https://aiethicscourse.org/), A Collection of Lectures on the Ethical implications of Data and Artificial Intelligence from Different Perspectives, from Tufts
+
+#### Foundations of AI, Data & Information Ethics
 * [Ethics & AI @ MIT](https://philosophy.mit.edu/ethicsandai/), from MIT Philosophy
+* [AI, Information & Data Ethics](https://cssh.northeastern.edu/ethics/ai-information-data-ethics/), from the Ethics Institute at Northeastern
+* [Ethics in AI: Why It Matters](https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/#Meet-Our-Expert), from the Division of Continuing Education at Harvard
+
+#### Governance and Policy
+* [Ethics and Governance of AI](https://cyber.harvard.edu/topics/ethics-and-governance-ai), from the Berkman Klein Center at Harvard
+* [Governance and ethics](https://www.northeastern.edu/ai/ai-ethics-governance/), from Northeastern
+
+#### Responsible AI in Practice
 * [Responsible AI](https://sloanreview.mit.edu/big-ideas/responsible-ai/), from MIT Sloan
 * [The sAIpien program](https://www.media.mit.edu/groups/saipien/overview/), from the MIT Media Lab
-
-#### Harvard
-* [Embedded EthiCS](https://embeddedethics.seas.harvard.edu)
-* [Ethics and Governance of AI](https://cyber.harvard.edu/topics/ethics-and-governance-ai), from the Berkman Klein Center
-* [Ethics in AI: Why It Matters](https://professional.dce.harvard.edu/blog/ethics-in-ai-why-it-matters/#Meet-Our-Expert), from the Division of Continuing Education
-
-#### Northeastern
-* [AI, Information & Data Ethics](https://cssh.northeastern.edu/ethics/ai-information-data-ethics/), from the Ethics Institute
-* [Governance and ethics](https://www.northeastern.edu/ai/ai-ethics-governance/)
-* [Information Ethics in the Khoury College of Computer Sciences Curriculum](https://cssh.northeastern.edu/informationethics/information-ethics-in-the-khoury-curriculum/), from the Khoury College of Computer Sciences
-
-
-#### Tufts
-* [AI Ethics](https://aiethicscourse.org/), A Collection of Lectures on the Ethical implications of Data and Artificial Intelligence from Different Perspectives
 * [How Do We Make Sure AI Is Fair, Safe, and Secure?](https://now.tufts.edu/2026/01/20/how-do-we-make-sure-ai-fair-safe-and-secure), with perspective from Ken Archer, A96, head of responsible AI at Microsoft 
 
 ### IAIFI Talks related to Ethical and Social Responsibility
 IAIFI regularly holds ethics-related IAIFI talks and events. Past events include:
+* April 2026: IAIFI Lunch Discussion with [Hosea Siu (MIT Lincoln Laboratory)](https://www.ll.mit.edu/biographies/ho-chit-siu), "How Interpretable Is 'Interpretable' Machine Learning?"; [View Slides (IAIFI Members Only)](https://drive.google.com/file/d/1su6oEKmAcRh0sim1HXZxCnbQwI41kGWd/view?usp=sharing)
 * October 2025: IAIFI Journal Club with [David Kaiser (MIT)](https://web.mit.edu/dikaiser/www/), "Generative AI and the Natural Sciences: Opportunities and Continuing Challenges"; [View Slides (IAIFI Members Only)](https://drive.google.com/file/d/1SgBfQICSFgXm2Y93xuPXqowTpGefnwP0/view?usp=sharing)
 * April 2025: IAIFI Thematic Discussion Session with [Ziming Liu (MIT)](https://kindxiaoming.github.io/), [Matthew Schwartz (Harvard)](https://schwartz.scholars.harvard.edu/), and [Naomi Saphra (Harvard)](https://nsaphra.net/), "Interpretable AI"; [View Recording (IAIFI Members Only)](https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=sharing); [View Slides (IAIFI Members Only)](https://drive.google.com/drive/folders/16cb5OUKPtK1RjB1FJU3-am7NloNIYXE2?usp=drive_link);
 * October 2024: IAIFI Colloquium with [Fernanda Viégas (Harvard University)](http://www.fernandaviegas.com/) and [Martin Wattenberg (Harvard University)](https://www.bewitched.com/about.html), "From Victorian trains to chatbots, via high-dimensional geometry"; [View Recording](https://www.youtube.com/live/A3BpKPW1rYU?feature=shared); [View Slides](https://www.dropbox.com/scl/fi/q6ywgbwz2fgo3vzc4umcb/2024_10_25_IAIFI_Colloquium_Viegas.pdf?rlkey=ivwvp7ezwk2jj7bvsx01xozfi&st=9ffb8a4y&dl=0);
@@ -67,6 +68,6 @@ IAIFI regularly holds ethics-related IAIFI talks and events. Past events include
 * November 29, 2022: IAIFI Journal Club with [Anna Golubeva](https://annagolubeva.github.io) (IAIFI Fellow) and [Matt Schwartz](https://www.physics.harvard.edu/people/facpages/schwartz) (Harvard), "Should artificial intelligence be interpretable to humans?"
 * May 5, 2022: IAIFI Journal Club with [Dylan Hadfield](https://people.csail.mit.edu/dhm/) (MIT), "Overoptimization, Incompleteness, and Goodhart’s Law"
 *  December 3, 2021: IAIFI Seminar with [Harini Suresh](https://harinisuresh.com) (MIT), "Understanding Sources of Harm through the Machine Learning Life Cycle".
-* April 22, 2021: IAIFI Seminar with [David Kaiser](https://web.mit.edu/dikaiser/www/) (MIT), "Social and Ethical Responsibilities of Computing (SERC): New Activities at MIT";
+* April 22, 2021: IAIFI Seminar with [David Kaiser](https://web.mit.edu/dikaiser/www/) (MIT), "Social and Ethical Responsibilities of Computing (SERC): New Activities at MIT"
 
 

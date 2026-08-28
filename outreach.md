@@ -5,15 +5,30 @@ aside:
   toc: true
 ---
 
+# MIT Splash 2025
+**November 22, 2025**
+
+<img src="images/small-photo-splash2025-joydeep.jpg" align="right" style="max-width:1200px;width:30%" hspace="10" vspace="10">
+IAIFI was pleased to participate in MIT’s Splash program this year! IAIFI members Christian Ferko (Northeastern), Christina Reissel (MIT), Jamie Sullivan (MIT), and Joydeep Naskar (Northeastern) shared an overview of their work at the intersection of AI and Physics and held a Q&A with a group of around 100 high school students!
+
+[Learn More](https://esp.mit.edu/learn/Splash/index.html){:.button.button--outline-primary.button--pill.button--lg}
+
+# ScienceClic Educational Video
+**November 6, 2025**
+
+ IAIFI Investigators collaborated with popular science YouTube channel ScienceClic on a video covering “The Physics of AI,” which explores the connections between AI and Physics as related to the 2024 Nobel Prize in Physics, and the link between neural networks and quantum fields.
+ 
+ [Watch on YouTube](https://youtu.be/dRkehLL19Wo?si=0J-6Sw5PhUq5n5ei){:.button.button--outline-primary.button--pill.button--sm}
+
+
 # Cambridge Science Festival 2025
+**September 21, 2025**
 
-[<img src="images/CSF24-logo.png" align="left" style="max-width:2601px;width:10%" hspace="10" vspace="10">](https://cambridgesciencecarnival.org/)
+<img src="images/small-photo-2025-cambridgesciencecarnival.jpg" align="right" style="max-width:1200px;width:50%" hspace="10" vspace="10">
 
-
-IAIFI is excited to participate for the fourth year in a row at the Cambridge Science Festival! We will run a booth with interactive AI+Physics activites at the Cambridge Science Carnival **on September 21 in the Kendall/MIT Open Space, from 12:00-4:00pm**. For information on past activites, you can read about our participation in past festivals below. 
+We hosted a booth at the [Cambridge Science Carnival](https://cambridgesciencefestival.org) for the fourth year in a row! This included several AI+Physics activities for all ages, and IAIFI members were able to chat with more than 500 community members over the course of the afternoon. 
 
 [Learn More](https://cambridgesciencecarnival.org/){:.button.button--outline-primary.button--pill.button--lg}
-
 
 # Museum of Science Planetarium Event: *Beyond the Telescope: Unveiling the Invisible Milky Way with AI*
 
