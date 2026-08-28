@@ -1,4 +1,45 @@
 - type: "thematic-discussion"
+  semester: "fall-2026"
+  speaker-names-affiliations: "Speakers TBA"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2026-09-18 14:00"
+  end-date-time: "2025-09-18 15:00"
+  talk-location: "MIT Kolker Room, 26-414"
+  talk-title: "IAIFI Mini-Symposium with Senior Investigators and Affiliates"
+  talk-abstract: "IAIFI Senior Investigators and Affiliates will present 2-minute overview talks on their research, with the goal to spark collaborations across IAIFI. Refreshments will be provided!"
+  slides-link:
+  youtube-link:
+  speaker-thrust: "All"
+  speaker-gender: "All"
+  talk-attendance-in-person:
+  talk-attendance-virtual:
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXVlcmFrbHN2b2tiaTkyZzk3MDRuMmF1MmsgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+  
+- type: "thematic-discussion"
+  semester: "fall-2026"
+  speaker-names-affiliations: "Speakers TBA"
+  speaker-title:
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2026-09-18 15:00"
+  end-date-time: "2026-09-18 16:00"
+  talk-location: "IAIFI Penthouse, MIT 26-648"
+  talk-title: "Junior Member Poster Session"
+  talk-abstract: "After the Mini-Symposium, junior members will present posters on their work at the IAIFI Penthouse. Refreshments will be provided!"
+  rsvp-link:
+  slides-link:
+  youtube-link:
+  speaker-thrust: "All"
+  speaker-gender: "All"
+  talk-attendance-in-person:
+  talk-attendance-virtual:
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2pkNWxuMWI4M2NoYmlhYWZjczYyNzNldHAgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
+
+- type: "thematic-discussion"
   semester: "spring-2026"
   speaker-names-affiliations: "Featured Fellows: Akshunna Dogra, Berthy Feng, and Mathis Gerdes"
   speaker-title:
