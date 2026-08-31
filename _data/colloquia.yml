@@ -15,6 +15,7 @@
   youtube-link:
   speaker-thrust: "astrophysics"
   speaker-gender: "man"
+  priority: high
   talk-attendance: TBD in person, TBD virtual
   
 - type: "colloquium"
@@ -72,7 +73,7 @@
   youtube-link:
   speaker-thrust: "physics experiment"
   speaker-gender: "man"
-  priority: high
+  priority:
   talk-attendance: TBD in person, TBD virtual
   
 - type: "colloquium"
