@@ -1,4 +1,18 @@
 - type: "external-event"
+  event-name: "String Data 2026"
+  event-organizer: "Rak-Kyeong Seong"
+  more-info-link: "https://rakkyeongseong.github.io/stringdata2026/"
+  event-post-date: "2026-09-06"
+  start-date-time: "2026-12-09"
+  end-date-time: "2026-12-11"
+  talk-location: "Ulsan National Institute of Science and Technology (UNIST) in Ulsan, South Korea."
+  talk-zoom:
+  event-details: "The 10th International Conference on String Data <br>String Data 2026 marks the next chapter of the international conference series at the forefront of string theory, data science, and machine learning. Hosted for the first time in South Korea in December 2026, the meeting continues the tradition of bringing together leading researchers across theoretical physics, mathematics, and computer science to explore how modern computational methods and AI-driven approaches can shed light on fundamental questions in high-energy theory and quantum geometry. Submissions due October 2, 2026. Registration deadline October 24, 2026."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWJzaWw3Njh1Z28ybmw3NmJxNTA3NzY0cDMgeWlsZGl6QG1pdC5lZHU&tmsrc=yildiz%40mit.edu"
+  rsvp-link: "https://rakkyeongseong.github.io/stringdata2026/"
+  rsvp-deadline: "2026-10-24"
+  
+- type: "external-event"
   event-name: "Glasswing Test Flight"
   event-organizer: "Glasswing Ventures"
   more-info-link: "https://glasswing.vc/hackathon-2026/"
