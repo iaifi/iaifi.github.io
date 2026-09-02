@@ -36,14 +36,14 @@ He is also broadly interested in applying machine learning and AI throughout phy
 
 **Biographical Sketch**: Mathis received his PhD in theoretical physics from the University of Amsterdam in 2025. His research spans lattice quantum field theory, Calabi-Yau geometry, and statistical inference leveraging machine learning methods. Previously, he earned an MSc in Theoretical and Mathematical Physics from LMU Munich and an MSc in artificial intelligence from the University of Edinburgh, following undergraduate studies in physics at the University of Göttingen.
 
-### [Nicole Hartman](mailto:nicole.hartman@tum.de)
+### [Nicole Hartman](mailto:nicomh@mit.edu)
 <img src="images/small-photo-nicole-hartman.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Nicole Hartman is a particle physicist working with data from the Large Hadron Collider. Her research interests include scaling up ML models and training datasets, and building a foundation model for particle physics with interpretable building blocks. She is excited to use this particle physics foundation model to understand the Higgs boson and help obtain the first evidence for the Higgs self-coupling, which governs the stability of the universe.
 
 **Biographical Sketch**: Nicole originally hails from Dallas, TX, with a bachelor's degree from Southern Methodist University. Her PhD brought her to Stanford, California, with a three-year stint in Geneva, Switzerland, to work at CERN and traipse through the Swiss Alps. She’s since done a post-doc at the ORIGINS Science Lab in Munich, Germany.  Research and life are like a book that you read and write at the same time. Nicole also loves dancing, reading, hiking, traveling, meeting new people, and connecting with old friends.
 
-### [Jacob Nibauer](mailto:jnibauer@princeton.edu)
+### [Jacob Nibauer](mailto:nibauer@cfa.harvard.edu)
 <img src="images/small-photo-jacob-nibauer.jpg" align="right" style="max-width:300px;width:30%" hspace="20" vspace="20"/>
 
 **Research Interests**: Jacob Nibauer is interested in astrophysical probes of dark matter, and has developed flexible methods to map dark matter using stellar stream dynamics. During his PhD, he developed physics-informed neural networks to infer the galactic acceleration field from stellar stream data, finding that the inner dark matter halo of the Galaxy is misaligned with the disk. Jacob has utilized advancements in machine learning, particularly automatic differentiation, to develop efficient perturbative descriptions of stellar stream morphology across distinct dark matter theories. By leveraging the structure of Milky Way streams, he aims to infer the abundance of dark matter substructure in the galaxy and thereby constrain the nature of the dark matter particle. Beyond his core astrophysics research, Jacob develops machine learning methods for scientific inference, including simulation-based inference, physics-informed density field modeling with neural ordinary differential equations, and differentiable physics simulations.
