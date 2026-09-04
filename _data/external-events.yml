@@ -7,10 +7,8 @@
   end-date-time: "2026-10-29"
   talk-location: "Kresge Auditorium until 3:30PM and Stata Center 3:30-5:30PM"
   talk-zoom:
-  event-details: "MIT students or postdocs: Join us for the MIT Generative AI Impact Consortium’s second annual symposium, taking place Thursday, October 29th. The event will take place at Kresge Auditorium until 3:30pm and culminate in a student poster session at the Stata Center from 3:30pm-5:00pm."
-    calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MHJtaWZ0Zjc5cThjdGI3aGo1bTRhajV1dW4gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
-    rsvp-link: "https://airtable.com/appq1XU0uOjOUbZHh/pag1ANUkXcRQQganE/form"
-  rsvp-deadline: "2026-09-30"
+  event-details: "MIT students or postdocs: Join us for the MIT Generative AI Impact Consortium’s second annual symposium, taking place Thursday, October 29th. The event will take place at Kresge Auditorium until 3:30pm and culminate in a student poster session at the Stata Center from 3:30pm-5:00pm. Poster submission link due by Sept 30; "https://airtable.com/appq1XU0uOjOUbZHh/pag1ANUkXcRQQganE/form""
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MHJtaWZ0Zjc5cThjdGI3aGo1bTRhajV1dW4gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
   event-name: "String Data 2026"
