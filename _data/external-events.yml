@@ -1,13 +1,13 @@
 - type: "external-event"
-  event-name: "MIT Generative AI Impact Consortium’s second annual symposium"
-  event-organizer: 
-  more-info-link: "https://docs.google.com/document/d/1sIw3mJYEvAf-ogJ50c8mipEbp2zwllswCc64POFWlco/edit?usp=sharing"
+  event-name: "MIT Generative AI Impact Consortium Symposium"
+  event-organizer:
+  more-info-link: "https://genai.mit.edu/mit-generative-ai-symposium/"
   event-post-date: "2026-09-06"
   start-date-time: "2026-10-29"
   end-date-time: "2026-10-29"
-  talk-location: "Kresge Auditorium until 3:30PM and Stata Center 3:30-5:30PM"
+  talk-location: "Kresge Auditorium and Stata Center"
   talk-zoom:
-  event-details: "MIT students or postdocs: Join us for the MIT Generative AI Impact Consortium’s second annual symposium, taking place Thursday, October 29th. The event will take place at Kresge Auditorium until 3:30pm and culminate in a student poster session at the Stata Center from 3:30pm-5:00pm. Poster submission link due by Sept 30; "https://airtable.com/appq1XU0uOjOUbZHh/pag1ANUkXcRQQganE/form""
+  event-details: "The MIT Generative AI Impact Consortium’s second annual symposium will take place Thursday, October 29th at Kresge Auditorium until 3:30pm and culminate in a student poster session at the Stata Center from 3:30pm-5:00pm. Poster submissions due by Sept 30."
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MHJtaWZ0Zjc5cThjdGI3aGo1bTRhajV1dW4gZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
   
 - type: "external-event"
@@ -2336,19 +2336,6 @@ https://logconference.org/"
   talk-zoom:
   event-details: "IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer); IAIFI-sponsored"
   calendar-link:
-  - type: "external-event"
-  event-name: "String Data 2026"
-  event-organizer: "Rak-Kyeong Seong"
-  more-info-link: "https://rakkyeongseong.github.io/stringdata2026/"
-  event-post-date: "2026-09-06"
-  start-date-time: "2026-12-09"
-  end-date-time: "2026-12-11"
-  talk-location: "Ulsan National Institute of Science and Technology (UNIST) in Ulsan, South Korea."
-  talk-zoom:
-  event-details: "The 10th International Conference on String Data <br>String Data 2026 marks the next chapter of the international conference series at the forefront of string theory, data science, and machine learning. Hosted for the first time in South Korea in December 2026, the meeting continues the tradition of bringing together leading researchers across theoretical physics, mathematics, and computer science to explore how modern computational methods and AI-driven approaches can shed light on fundamental questions in high-energy theory and quantum geometry. Submissions due October 2, 2026. Registration deadline October 24, 2026."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWJzaWw3Njh1Z28ybmw3NmJxNTA3NzY0cDMgeWlsZGl6QG1pdC5lZHU&tmsrc=yildiz%40mit.edu"
-  rsvp-link: "https://rakkyeongseong.github.io/stringdata2026/"
-  rsvp-deadline: "2026-10-24"
   
 - type: "external-event"
   event-name: "Glasswing Test Flight"
@@ -2362,20 +2349,6 @@ https://logconference.org/"
   event-details: "On September 26 and 27 we're hosting Test Flight, a two-day in-person AI hackathon, timed to Boston AI Week. Theme is enterprise-ready AI: teams of four build against real enterprise workflows Saturday, then present to judges Sunday afternoon. Free, in person, capped around 100 to 120 students, with roughly $300K in compute prizes anchored by Microsoft and AWS.**Application required to be considered for participation.**"
   calendar-link:
   rsvp-link: https://luma.com/gzpv85yq
-
-- type: "external-event"
-  event-name: "Agentic AI for BSM Event Generation and Analysis Workshop at the LPC"
-  event-organizer: "Fermilab"
-  more-info-link: "https://indico.fnal.gov/event/75639/"
-  event-post-date: "2026-08-30"
-  start-date-time: "2026-09-09 09:00"
-  end-date-time: "2026-09-11 17:00"
-  talk-location: "Fermilab"
-  talk-zoom:
-  event-details: "With the ubiquity of LLMs and agentic platforms, there is a pressing need to coordinate ongoing efforts across experiments and tools, and to build a shared community. This workshop focuses on the real-world problem of automating BSM event generation and experimental data analysis. "
-  calendar-link:
-  rsvp-link: https://indico.fnal.gov/event/75639/registrations/4899/
-  registration-deadline: 2026-09-01
   
 - type: "external-event"
   event-name: "AI & Science: Evolution or Extinction? — NeurIPS 2026 Workshop"
