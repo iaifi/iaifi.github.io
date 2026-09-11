@@ -20,11 +20,11 @@
   
 - type: "colloquium"
   semester: "fall-2026"
-  speaker-name: "Speaker TBA"
-  speaker-title: "Title TBA"
-  speaker-affiliation: "Affiliation TBA"
-  speaker-website:
-  speaker-photo-location:
+  speaker-name: "Gurtej Kanwar"
+  speaker-title: "Chancellor's Fellow - AI and Datascience"
+  speaker-affiliation: "University of Edinburgh"
+  speaker-website: https://www.ph.ed.ac.uk/people/gurtej-kanwar
+  speaker-photo-location: "images/small-photo-gurtej-kanwar.jpg"
   start-date-time: "2026-10-09 14:00"
   end-date-time: "2026-10-09 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -33,17 +33,17 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjEwMDlUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "foundational AI"
+  speaker-gender: "man"
   talk-attendance: TBD in person, TBD virtual
   
 - type: "colloquium"
   semester: "fall-2026"
-  speaker-name: "Speaker TBA"
-  speaker-title: "Title TBA"
-  speaker-affiliation: "Affiliation TBA"
-  speaker-website:
-  speaker-photo-location:
+  speaker-name: "Nicole Hartman"
+  speaker-title: "Postdoctoral Fellow"
+  speaker-affiliation: "IAIFI"
+  speaker-website: https://nhartman94.github.io
+  speaker-photo-location: images/small-photo-nicole-hartman.jpg
   start-date-time: "2026-10-23 14:00"
   end-date-time: "2026-10-23 15:00"
   talk-location: "MIT Kolker Room (26-414)"
@@ -99,7 +99,7 @@
   semester: "fall-2026"
   speaker-name: "Jake Nibauer"
   speaker-title: "Postdoctoral Fellow"
-  speaker-affiliation: "IAIFI Fellow"
+  speaker-affiliation: "IAIFI and Harvard/Smithsonian Center for Astrophysics ITC"
   speaker-website: http://jnibauer.github.io
   speaker-photo-location: images/small-photo-jacob-nibauer.jpg
   start-date-time: "2026-11-20 14:00"
@@ -112,25 +112,6 @@
   youtube-link:
   speaker-thrust: "foundational ai"
   speaker-gender: "man"
-  talk-attendance: TBD in person, TBD virtual
-  
-- type: "colloquium"
-  semester: "fall-2026"
-  speaker-name: "Speaker TBA"
-  speaker-title: "Title TBA"
-  speaker-affiliation: "Affiliation TBA"
-  speaker-website:
-  speaker-photo-location:
-  start-date-time: "2026-12-04 14:00"
-  end-date-time: "2026-12-04 15:00"
-  talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
-  talk-abstract:
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjEyMDRUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
-  slides-link:
-  youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
   talk-attendance: TBD in person, TBD virtual
 
 - type: "colloquium"
