@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2026-09-10
+title: "Learning the Geometry of Collider Events with Metric-Aware Deep Sets"
+authors: "Lauren Hay, Rishabh Jain, Matt LeBlanc, Jennifer Roloff"
+abstract: "Optimal transport gives structured data a geometry, but exact evaluation is costly in large pairwise analyses that exploit relationships among distances. Learned surrogates are faster, but need not preserve this metric structure. We develop a Deep Sets surrogate for OT between variable-size weighted point clouds that enforces non-negativity, exchange symmetry, and zero self-distance, leaving the triangle inequality unconstrained. Applied to the Energy Mover's Distance between collider events in a particle physics application, the Metric-Aware Particle Flow Network achieves percent-level mean absolute percentage error while significantly improving inference throughput over other exact and approximate methods surveyed. The architectural constraints are found to improve properties that are not explicitly enforced: across 106 held-out event triplets, triangle-inequality violations fall from 199 for a matched unconstrained network to 2, and the maximum from 149.5 to 5.8 GeV. These results demonstrate that targeted inductive biases can yield fast neural surrogates with substantially improved geometric fidelity."
+arxiv: "2609.12024"
+date-updated: 2026-09-14
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @article{hay2026learninggeometrycolliderevents,
+      title={Learning the Geometry of Collider Events with Metric-Aware Deep Sets},
+      author={Lauren Hay and Rishabh Jain and Matt LeBlanc and Jennifer Roloff},
+      year={2026},
+      eprint={2609.12024},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2609.12024},
+    }
