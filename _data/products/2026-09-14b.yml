@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2026-09-10
+title: "Fast BIB simulation at a future Muon Collider with generative machine learning"
+authors: "Radha Mastandrea, Shiyu Peng, Benjamin Rosser, Matt LeBlanc"
+abstract: "Beam-induced background (BIB) from muon decay products will be an overwhelming and unavoidable background at a future Muon Collider. In order to develop robust event reconstruction algorithms, we need large amounts of accurate BIB simulation to test on. BIB simulation is currently compute-limited: the simulated sample presently used for BIB overlay, which statistically represents approximately 10% of a single unique event's worth of simulated BIB, requires on the order of 106 HS23⋅hours to generate and occupies approximately 100 GB on disk. In this work, we develop the first machine learning models for fast BIB generation in tracking detectors. We consider two classes of architectures: a slower but higher-fidelity tabular diffusion model, and a faster but lower fidelity circular spline flow model. We find that both classes of architectures produce BIB hits and tracks that closely resemble those of available full simulation hits and tracks, and that the machine learning models can produce BIB in over an order of magnitude less time than what is needed to produce full simulation BIB. We release the model weights with the paper so that the Muon Collider community can use these fast BIB hits for future R&D."
+arxiv: "2609.12054"
+date-updated: 2026-09-14
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @article{mastandrea2026fastbibsimulationfuture,
+      title={Fast BIB simulation at a future Muon Collider with generative machine learning},
+      author={Radha Mastandrea and Shiyu Peng and Benjamin Rosser and Matt LeBlanc},
+      year={2026},
+      eprint={2609.12054},
+      archivePrefix={arXiv},
+      primaryClass={physics.ins-det},
+      url={https://arxiv.org/abs/2609.12054},
+    }
