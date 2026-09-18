@@ -9,32 +9,26 @@ show_title: false
 
 {% include_relative iaifi-reminder_header.html %}
 
-## Thank you for attending the 2026 IAIFI Summer Workshop!
+## 2026 IAIFI Summer Workshop Follow-Up
 
-Thank you for a great week of stimulating discussion at the [2026 IAIFI Summer Workshop](https://iaifi.org/summer-workshop).
+We hope your summer wrapped up nicely and you have had a chance to follow up on some of the research you heard about at the [2026 IAIFI Summer Workshop](https://iaifi.org/summer-workshop)!
 
-### Industry Day on Friday, August 14, at the MIT Samberg Conference Center
+### Recordings now available!
 
-Tomorrow, IAIFI will be pleased to host its first Industry Day event at the MIT Samberg Conference Center. The goal of this event is to foster collaboration, awareness, and networking between IAIFI industry partners, IAIFI researchers, and attendees of the IAIFI Summer Workshop. If you are still in town tomorrow, we hope you can make it for part or all of the event.
+We have now posted most of the talk recordings on our [YouTube channel](https://www.youtube.com/playlist?list=PLTWir0mD34MA). Slides from 
+most of the talks have also been added to the [IAIFI Summer Workshop 
+Public Google Drive]( 
+https://drive.google.com/drive/folders/1lQ8NH6GIoiIR5DlhndvydcSJkJvpG77Y?usp=drive_link). 
+We will continue to add slides and recordings, so please continue to 
+check back if the one you are looking for is missing.
 
-* Where: 50 Memorial Dr, Cambridge, MA; Dining Rooms 3&4 (on the 6th floor)
-* Doors open: 10:30am
-* Events continue through 3:45pm
-* [Event details, including participating industry partners](https://iaifi.org/industry-day)
+[View Recordings](https://www.youtube.com/playlist?list=PLTWir0mD34MA){:.button.button--outline-primary.button--pill.button--lg} [View Slides](https://drive.google.com/drive/folders/1lQ8NH6GIoiIR5DlhndvydcSJkJvpG77Y?usp=drive_link){:.button.button--outline-primary.button--pill.button--lg}
 
-### Give us your feedback
+### Don't forget to give us your feedback!
 
-We want to hear how your experience was! Please [complete the survey](https://forms.gle/Dxb2THw1sHU2Uawc6) to share your feedback. Once you’ve submitted your survey, you will be given the option to enter a raffle for some IAIFI swag.
+We want to hear how your experience was! Please [complete the survey](https://forms.gle/Dxb2THw1sHU2Uawc6) to share your feedback. Once you’ve submitted your survey, you will be given the option to enter a raffle for some IAIFI swag!
 
 [Complete the Survey](https://forms.gle/Dxb2THw1sHU2Uawc6){:.button.button--outline-primary.button--pill.button--lg}
-
-### Stay Tuned for Plenary and Contributed Talk Recordings and Slides
-
-In case you missed any of the plenary talks, we will be posting most of them on our YouTube channel in the coming weeks. 
-
-Slides from most of the talks, including the contributed talks, will be shared with workshop attendees through Google Drive. 
-
-Stay tuned for a follow-up email with this information.
 
 <!--
 

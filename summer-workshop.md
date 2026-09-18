@@ -8,16 +8,21 @@ title:
 
 The IAIFI Summer Workshop brings together researchers from across Physics and AI for plenary talks, poster sessions, and networking to promote research at the intersection of Physics and AI. We will also accept submissions for contributed talks and/or posters.
 
+<!--
 **Registration is open for the 2026 IAIFI Summer Workshop.** [Register here](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r) by July 31, 2026. 
+{:.success}
+-->
+
+**Recordings from the 2026 IAIFI Summer Workshop are now available.** [Watch the recordings on YouTube](https://www.youtube.com/playlist?list=PLTWir0mD34MA). 
 {:.success}
 
 
-* **The 2026 Summer Workshop will be held August 10–14, 2026**
+* **The 2026 Summer Workshop was held August 10–14, 2026**
 * **Location, August 10-13: MIT Schwarzman College of Computing (Building 45), 51 Vassar Street, Cambridge, MA; Room 45-230**
 * **Location, August 14: MIT Samberg Conference Center, 50 Memorial Dr, Cambridge, MA; Dining Rooms 3&4 (on the 6th floor)**
 
 
-[Register](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r){:.button.button--outline-primary.button--pill.button--lg} [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg}  [Speakers](#plenary-speakers){:.button.button--outline-primary.button--pill.button--lg}   [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}[FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](/past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
+<!--[Register](https://buy.stripe.com/bJebJ15xqfTu4H87ax7Vm0r){:.button.button--outline-primary.button--pill.button--lg}--> [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg}  [Speakers](#plenary-speakers){:.button.button--outline-primary.button--pill.button--lg}   [Accommodations](#accommodations){:.button.button--outline-primary.button--pill.button--lg}[FAQ](#faq){:.button.button--outline-primary.button--pill.button--lg}  [Past Workshops](/past-workshops.html){:.button.button--outline-primary.button--pill.button--lg}
 
 ## About
 The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. The goal of the Workshop is to serve as a meeting place to facilitate advances and connections across this growing interdisciplinary field.
