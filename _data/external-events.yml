@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "David and Edith Harris Physics Colloquium Series"
+  event-organizer: "Misha Ivanov"
+  more-info-link: "https://docs.google.com/document/d/1uqdwEgEeDZLcHbOoC-wb3EdzCiNPxQu0prenqePx-88/edit?usp=sharing"
+  event-post-date: "2026-09-20"
+  start-date-time: "2026-09-24 16:00"
+  end-date-time: "2026-09-24 17:00"
+  talk-location: "in-person in 10-250"
+  talk-zoom:
+  event-details: "Speaker: Uros Seljak, UC Berkeley and LBNL Berkeley"<br>"Title: Using AI to advance understanding of our universe"<br>Abstract: "Ai has revolutionized many aspects of life, and impacted scientific research in several different areas. In cosmology its impact has so far been limited. I will argue that this is about to change, and AI can advance how we do research in cosmology, how we analyze the data, and how we interpret the observations. I will present a few examples ranging from galaxy clustering to weak lensing and cosmic microwave background that demonstrate the power of AI in cosmology. Refreshments at 3:30pm in 4-349 (Pappalardo Community Room)**There cannot be any eating or drinking in 10-250, so please plan to finish your food/drink in 4-349"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnZ2OW9zZDc2MzU1bjV1ZTNsMjc5MGZ1b2ogZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
