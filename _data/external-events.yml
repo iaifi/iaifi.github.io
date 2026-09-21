@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-09-20"
+  start-date-time: "2026-09-21 12:00"
+  end-date-time: "2026-09-21 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Speaker: Ryan Thill (Lium)"<br>"Title: AI Agents for Chandra and The Multimodal Universe"<br>Abstract: "What Chandra Taught Us About Agents: Building a Harness for Physical Data at Scale<br>Can language models help scientists reason over the complex data we collect from the physical world? We started with X-ray sources from Chandra, exploring how language models could work with scientific tools and specialized ML models to support complex analysis. That work informed the patterns we built into Lium: an agentic harness that handles much of the software engineering required to connect, process, and analyze physical data, while keeping scientists in control of the questions, methods, and interpretation. Through live examples starting with Chandra data and the Multimodal Universe, I’ll show how scientists can explore datasets, connect additional sources, and combine data across wavelengths and modalities to investigate questions that might otherwise require months of engineering work. I’ll also show how an analysis becomes a shared, reusable capability that colleagues can inspect, contribute to, and build on. The goal is to put powerful analysis directly in the hands of scientists, with their expertise guiding the work and each investigation creating a foundation for the next."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NTQzaWN0anVvNHI1Z2VtcjgzNDFrcjF0OGYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "Frequentist Uncertainties on Neural Density Ratios with wᵢfᵢ Ensembles"
   event-organizer: "Sean Benevedes (Georgia Tech)"
   more-info-link: "https://genai.mit.edu/mit-generative-ai-symposium/"
