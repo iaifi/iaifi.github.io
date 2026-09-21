@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "Frequentist Uncertainties on Neural Density Ratios with wᵢfᵢ Ensembles"
+  event-organizer: "Sean Benevedes (Georgia Tech)"
+  more-info-link: "https://genai.mit.edu/mit-generative-ai-symposium/"
+  event-post-date: "2026-09-20"
+  start-date-time: "2026-09-23 16:00"
+  end-date-time: "2026-09-23 17:00"
+  talk-location: "Zoom; passcode is 07630691"
+  talk-zoom: "https://cern.zoom.us/j/68793225561?pwd=MHBxOStiUnYvZitTRWdvZ05YdkZwUT09"
+  event-details: "Can neural likelihood-ratio estimators come with honest frequentist error bars? Sean will present the new wᵢfᵢ ("wifi") ensemble approach, designed to quantify and propagate uncertainties in neural density-ratio estimation."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWY4N2M0dG1kbGRkMHZ0N2ZwczFnNjNuOWggZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "MIT Generative AI Impact Consortium Symposium"
   event-organizer:
   more-info-link: "https://genai.mit.edu/mit-generative-ai-symposium/"
