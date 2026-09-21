@@ -7,7 +7,7 @@
   end-date-time: "2026-09-24 17:00"
   talk-location: "in-person in 10-250"
   talk-zoom:
-  event-details: "Speaker: Uros Seljak, UC Berkeley and LBNL Berkeley"<br>"Title: Using AI to advance understanding of our universe"<br>Abstract: "Ai has revolutionized many aspects of life, and impacted scientific research in several different areas. In cosmology its impact has so far been limited. I will argue that this is about to change, and AI can advance how we do research in cosmology, how we analyze the data, and how we interpret the observations. I will present a few examples ranging from galaxy clustering to weak lensing and cosmic microwave background that demonstrate the power of AI in cosmology. Refreshments at 3:30pm in 4-349 (Pappalardo Community Room)**There cannot be any eating or drinking in 10-250, so please plan to finish your food/drink in 4-349"
+  event-details: "Uros Seljak, UC Berkeley and LBNL Berkeley<br>Using AI to advance understanding of our universe<br>AI has revolutionized many aspects of life, and impacted scientific research in several different areas. In cosmology its impact has so far been limited. I will argue that this is about to change, and AI can advance how we do research in cosmology, how we analyze the data, and how we interpret the observations. I will present a few examples ranging from galaxy clustering to weak lensing and cosmic microwave background that demonstrate the power of AI in cosmology."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnZ2OW9zZDc2MzU1bjV1ZTNsMjc5MGZ1b2ogZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
   
 - type: "external-event"
@@ -19,19 +19,19 @@
   end-date-time: "2026-09-21 13:00"
   talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street and Zoom"
   talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
-  event-details: "Speaker: Ryan Thill (Lium)"<br>"Title: AI Agents for Chandra and The Multimodal Universe"<br>Abstract: "What Chandra Taught Us About Agents: Building a Harness for Physical Data at Scale<br>Can language models help scientists reason over the complex data we collect from the physical world? We started with X-ray sources from Chandra, exploring how language models could work with scientific tools and specialized ML models to support complex analysis. That work informed the patterns we built into Lium: an agentic harness that handles much of the software engineering required to connect, process, and analyze physical data, while keeping scientists in control of the questions, methods, and interpretation. Through live examples starting with Chandra data and the Multimodal Universe, I’ll show how scientists can explore datasets, connect additional sources, and combine data across wavelengths and modalities to investigate questions that might otherwise require months of engineering work. I’ll also show how an analysis becomes a shared, reusable capability that colleagues can inspect, contribute to, and build on. The goal is to put powerful analysis directly in the hands of scientists, with their expertise guiding the work and each investigation creating a foundation for the next."
+  event-details: "Ryan Thill (Lium)<br>AI Agents for Chandra and The Multimodal Universe<br>What Chandra Taught Us About Agents: Building a Harness for Physical Data at Scale<br>Can language models help scientists reason over the complex data we collect from the physical world? We started with X-ray sources from Chandra, exploring how language models could work with scientific tools and specialized ML models to support complex analysis. That work informed the patterns we built into Lium: an agentic harness that handles much of the software engineering required to connect, process, and analyze physical data, while keeping scientists in control of the questions, methods, and interpretation. Through live examples starting with Chandra data and the Multimodal Universe, I’ll show how scientists can explore datasets, connect additional sources, and combine data across wavelengths and modalities to investigate questions that might otherwise require months of engineering work. I’ll also show how an analysis becomes a shared, reusable capability that colleagues can inspect, contribute to, and build on. The goal is to put powerful analysis directly in the hands of scientists, with their expertise guiding the work and each investigation creating a foundation for the next."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NTQzaWN0anVvNHI1Z2VtcjgzNDFrcjF0OGYgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
   
 - type: "external-event"
-  event-name: "Frequentist Uncertainties on Neural Density Ratios with wᵢfᵢ Ensembles"
-  event-organizer: "Sean Benevedes (Georgia Tech)"
+  event-name: "PHYSTAT Seminar: Frequentist Uncertainties on Neural Density Ratios with wᵢfᵢ Ensembles"
+  event-organizer: "PHYSTAT"
   more-info-link: "https://genai.mit.edu/mit-generative-ai-symposium/"
   event-post-date: "2026-09-20"
-  start-date-time: "2026-09-23 16:00"
-  end-date-time: "2026-09-23 17:00"
+  start-date-time: "2026-09-23 10:00"
+  end-date-time: "2026-09-23 11:00"
   talk-location: "Zoom; passcode is 07630691"
   talk-zoom: "https://cern.zoom.us/j/68793225561?pwd=MHBxOStiUnYvZitTRWdvZ05YdkZwUT09"
-  event-details: "Can neural likelihood-ratio estimators come with honest frequentist error bars? Sean will present the new wᵢfᵢ ("wifi") ensemble approach, designed to quantify and propagate uncertainties in neural density-ratio estimation."
+  event-details: "Sean Benevedes (Georgia Tech)<br>Can neural likelihood-ratio estimators come with honest frequentist error bars? <br> Sean will present the new wᵢfᵢ ('wifi') ensemble approach, designed to quantify and propagate uncertainties in neural density-ratio estimation."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWY4N2M0dG1kbGRkMHZ0N2ZwczFnNjNuOWggZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
   
 - type: "external-event"
@@ -2372,19 +2372,6 @@ https://logconference.org/"
   talk-zoom:
   event-details: "IAIFI involvement: Siddharth Mishra-Sharma (Co-Organizer); IAIFI-sponsored"
   calendar-link:
-  
-- type: "external-event"
-  event-name: "Glasswing Test Flight"
-  event-organizer: "Glasswing Ventures"
-  more-info-link: "https://glasswing.vc/hackathon-2026/"
-  event-post-date: "2026-08-30"
-  start-date-time: "2026-09-26"
-  end-date-time: "2026-09-27"
-  talk-location: "275 Newbury St., Boston, MA"
-  talk-zoom:
-  event-details: "On September 26 and 27 we're hosting Test Flight, a two-day in-person AI hackathon, timed to Boston AI Week. Theme is enterprise-ready AI: teams of four build against real enterprise workflows Saturday, then present to judges Sunday afternoon. Free, in person, capped around 100 to 120 students, with roughly $300K in compute prizes anchored by Microsoft and AWS.**Application required to be considered for participation.**"
-  calendar-link:
-  rsvp-link: https://luma.com/gzpv85yq
   
 - type: "external-event"
   event-name: "AI & Science: Evolution or Extinction? — NeurIPS 2026 Workshop"

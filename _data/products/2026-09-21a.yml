@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: T
+arxiv-date: 2026-09-20
+title: "Calculating Axion-Matter Couplings in String Theory"
+authors: "Joshua N. Benabou, Naomi Gendler, Thomas R. Harvey, Jakob Moritz"
+abstract: "In this work we calculate, for the first time, the dominant perturbative contributions to axion--matter couplings explicitly in string theory. Concretely, we compute these couplings in Calabi--Yau compactifications of heterotic string theory where the vector bundle is a sum of line bundles. They are expressed as overlap integrals requiring the Ricci-flat metric, the Hermitian Yang-Mills bundle metric, and the matter field harmonic forms. We compute these by solving the corresponding coupled differential equations with neural networks. Our results establish a characteristic hierarchy of four-dimensional couplings: axions couple to fermions as ⊃cψ∂μafaψ†σ¯μψ with cψ an (1) function of Kähler moduli for the model-dependent axions, while the corresponding coupling for the model-independent axion is suppressed by αYM at the ultraviolet matching scale. The model-dependent axions thus couple to fermions similarly as DFSZ-like four-dimensional axions, whereas the model-independent axion's couplings are loop-suppressed as in KSVZ-like constructions. The methods developed here apply directly to the large class of heterotic line bundle models with realistic spectra, and can be adapted to type II constructions."
+arxiv: "2609.20911"
+date-updated: 2026-09-20
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @article{benabou2026calculatingaxionmattercouplingsstring,
+      title={Calculating Axion-Matter Couplings in String Theory},
+      author={Joshua N. Benabou and Naomi Gendler and Thomas R. Harvey and Jakob Moritz},
+      year={2026},
+      eprint={2609.20911},
+      archivePrefix={arXiv},
+      primaryClass={hep-th},
+      url={https://arxiv.org/abs/2609.20911},
+    }
