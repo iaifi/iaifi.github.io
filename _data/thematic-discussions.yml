@@ -1,6 +1,6 @@
 - type: "thematic-discussion"
   semester: "fall-2026"
-  speaker-names-affiliations: "Speakers TBA"
+  speaker-names-affiliations: Mike Williams (MIT), Phiala Shanahan (MIT), Robin Walters (Northeastern), Peter Lu (Tufts), Shuchin Aeron (Tufts), Fabian Ruehle (Northeastern), Phil Harris (MIT), Eluned Smith (MIT), Ronald Garcia Ruiz (MIT), Nima Deghani (MIT), Wati Taylor (MIT), Vidya Manian (UPRM), Melanie Weber (Harvard)
   speaker-title:
   speaker-affiliation:
   speaker-website:
@@ -10,17 +10,17 @@
   talk-location: "MIT Kolker Room, 26-414"
   talk-title: "IAIFI Mini-Symposium with Senior Investigators and Affiliates"
   talk-abstract: "IAIFI Senior Investigators and Affiliates will present 2-minute overview talks on their research, with the goal to spark collaborations across IAIFI. Refreshments will be provided!"
-  slides-link:
-  youtube-link:
+  slides-link: https://docs.google.com/presentation/d/1fZlKntJkzB0yOEANqHsl8m04t67wTDix5L4dthpzFSw/edit?usp=share_link
+  youtube-link: https://docs.google.com/document/d/12NfwUPl80GabPrkjrQxvYTbPoJmJ4amgJ2JM5WFEU34/edit?usp=sharing
   speaker-thrust: "All"
   speaker-gender: "All"
-  talk-attendance-in-person:
-  talk-attendance-virtual:
+  talk-attendance-in-person: 35
+  talk-attendance-virtual: 15
   calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXVlcmFrbHN2b2tiaTkyZzk3MDRuMmF1MmsgcDcxb2tybHAxZWJvazFpMjdtc2gzZm9kdThAZw&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com
   
 - type: "thematic-discussion"
   semester: "fall-2026"
-  speaker-names-affiliations: "Speakers TBA"
+  speaker-names-affiliations: Claire Schlesinger (Northeastern), Andrzej Novak (MIT), Adrian Bayer (IAIFI Fellow), Zev Imani (Tufts), David Baek (MIT), Adam Kamoski (UMass Boston), Saskia Poldmaa (MIT), Víctor Bresó Pla (Harvard), Pierre-Antoine Graham (MIT)
   speaker-title:
   speaker-affiliation:
   speaker-website:
