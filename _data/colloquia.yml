@@ -8,8 +8,8 @@
   start-date-time: "2026-09-25 14:00"
   end-date-time: "2026-09-25 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
-  talk-abstract:
+  talk-title: "Field-Level Inference in the Multimodal Cosmos: Scaling Scientific Discovery Across Fields with AI"
+  talk-abstract: "Modern cosmological surveys observe the Universe through increasingly diverse probes, including galaxy clustering, weak gravitational lensing, and the cosmic microwave background. Extracting their full scientific potential requires inference that can scale to high-dimensional data, incorporate expensive physical simulations, remain robust to complex observational systematics, and integrate multiple data modalities. In this talk, I will introduce field-level inference: an approach that compares models directly with observed cosmic fields, rather than compressing the data into a small set of summary statistics. By jointly reconstructing the initial conditions of the Universe and inferring its physical parameters, field-level methods can recover otherwise inaccessible information while providing new ways to test the consistency of our models and data. I will discuss approaches ranging from differentiable physical simulations to simulation-based inference and generative models, with examples motivated by DESI and the Simons Observatory. Throughout, I will highlight open problems and opportunities for connections across IAIFI, including how foundation models and AI agents could help transfer ideas across scientific domains and accelerate discovery."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjA5MjVUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
