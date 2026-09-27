@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "AI & Science: Evolution or Extinction? NeurIPS 2026 Workshop"
+  event-organizer: "Lauren Greenspan"
+  more-info-link: "https://aiscik.github.io/#about"
+  event-post-date: "2026-09-27"
+  start-date-time: "2026-12-12 08:15"
+  end-date-time: "2026-12-12 17:00"
+  talk-location: "Georgia World Congress Center, C201, Atlanta, Georgia"
+  talk-zoom:
+  event-details: "At AISciK, we will ask: as the integration of agentic AI into scientific practice accelerates, how can we preserve the standards and norms that uphold a scientific culture and the knowledge it produces? What does science lose when AI systems participate in scientific discovery, and how does that trade-off against the potential for progress? To what extent does our ability to evaluate, interpret, and trust them depend on discipline, and what does this mean about the nature of knowledge more generally.?"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWFidDZ2OGtiOTJ1OGZnbmFjaDY5MWduZDUgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "David and Edith Harris Physics Colloquium Series"
   event-organizer: "Misha Ivanov"
   more-info-link: "https://docs.google.com/document/d/1uqdwEgEeDZLcHbOoC-wb3EdzCiNPxQu0prenqePx-88/edit?usp=sharing"
