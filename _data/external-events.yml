@@ -1,4 +1,28 @@
 - type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-09-27"
+  start-date-time: "2026-09-28 12:00"
+  end-date-time: "2026-09-28 13:00"
+  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Leena Iwamoto (Harvard)<br>Learning to Jet: A Machine-Learning Subgrid Model for AGN Feedback in Cosmological Simulations<br>Active galactic nuclei (AGN) are crucial components in quenching star formation within galaxies, shaping their long-term evolution. While current cosmological simulations reproduce some observed galaxy properties, they fail to match others, especially at high redshift, suggesting that existing AGN feedback prescriptions are still missing essential physics. Here, we introduce a novel method for modeling AGN jet feedback: a generative flow-matching model with a 3D U-Net architecture, trained to predict AGN jet evolution across time intervals comparable to those used in cosmological simulations. Our model is trained on pairs of coarse-grained, high-resolution AGN jet simulations that resolve the turbulent medium within the central 1 kpc of the host galaxy. We aim to reproduce the spatial distribution of eight key physical parameters to evolve and reconstruct the full energy distribution. Our final model is able to predict jet evolution over large time-steps, with little compounding error over model “rollout,” or repeated applications of the model to its own output. At a computational cost more than five orders of magnitude faster than direct simulation, our model functions as a viable subgrid prescription for AGN jet feedback in cosmological simulations."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGt1YmJjbzg0ZmlmYjltZ282ajFjdTVmN2cgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+
+- type: "external-event"
+  event-name: "Information-Theoretic Methods for Learning Dynamics"
+  event-organizer: "Ilya Nemenman and Kristofer Bouchard"
+  more-info-link: "https://www.nitmb.org/event/image-based-scientific-machine-learning-for-theories-of-biological-dynamics-across-scales-information-theoretic-methods-for-learning-dynamics/"
+  event-post-date: "2026-09-27"
+  start-date-time: "2027-02-08"
+  end-date-time: "2027-02-12"
+  talk-location: "NITMB, Chicago, IL"
+  talk-zoom:
+  event-details: "AI for learning dynamics from data, with a focus on information-theoretic methods: predictive information, the information bottleneck, latent-variable models, entropy and mutual-information estimation, and world models of biological systems. It is part of the six-week NITMB program Image-Based Scientific Machine Learning for Theories of Biological Dynamics Across Scales (February 1 - March 12, 2027)."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWQzOHRtMWhyZHAzcnIwamxhMGdua2Q3ZnIgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "AI & Science: Evolution or Extinction? NeurIPS 2026 Workshop"
   event-organizer: "Lauren Greenspan"
   more-info-link: "https://aiscik.github.io/#about"
