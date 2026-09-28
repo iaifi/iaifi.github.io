@@ -167,6 +167,21 @@
 - type: "social"
   event-name: "IAIFI Student and Postdoc Networking Lunch with Colloquium Speaker"
   event-committee: "the IAIFI Community Forum"
+  event-post-date: "2026-09-27"
+  start-date-time: "2026-10-09 12:30"
+  end-date-time: "2026-10-09 13:30"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "IAIFI students and postdocs are invited to this informal, catered networking meetup with IAIFI's colloquium speaker. Lunch and refreshments will be provided."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3Vha3MyNGh0b2xoajAxZjdsYXJjNDg3NXZfMjAyNjEwMDlUMTYzMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com"
+  rsvp-link:
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+
+- type: "social"
+  event-name: "IAIFI Student and Postdoc Networking Lunch with Colloquium Speaker"
+  event-committee: "the IAIFI Community Forum"
   event-post-date: "2026-09-13"
   start-date-time: "2026-09-25 12:30"
   end-date-time: "2026-09-25 13:30"
