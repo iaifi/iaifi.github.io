@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "Information-Theoretic Methods for Learning Dynamics"
+  event-organizer: "Ilya Nemenman and Kristofer Bouchard"
+  more-info-link: "https://www.nitmb.org/event/image-based-scientific-machine-learning-for-theories-of-biological-dynamics-across-scales-information-theoretic-methods-for-learning-dynamics/"
+  event-post-date: "2026-09-27"
+  start-date-time: "2027-02-08"
+  end-date-time: "2027-02-12"
+  talk-location: "NITMB, Chicago, IL"
+  talk-zoom:
+  event-details: "AI for learning dynamics from data, with a focus on information-theoretic methods: predictive information, the information bottleneck, latent-variable models, entropy and mutual-information estimation, and world models of biological systems. It is part of the six-week NITMB program Image-Based Scientific Machine Learning for Theories of Biological Dynamics Across Scales (February 1 - March 12, 2027)."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NWQzOHRtMWhyZHAzcnIwamxhMGdua2Q3ZnIgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "AI & Science: Evolution or Extinction? NeurIPS 2026 Workshop"
   event-organizer: "Lauren Greenspan"
   more-info-link: "https://aiscik.github.io/#about"
