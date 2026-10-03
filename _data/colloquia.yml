@@ -28,8 +28,8 @@
   start-date-time: "2026-10-09 14:00"
   end-date-time: "2026-10-09 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
-  talk-abstract:
+  talk-title: "Learning the real-space renormalization group via the Jarzynski equality"
+  talk-abstract: "Lattice field theory plays a crucial role in systematic studies of strongly coupled systems across a variety of fields, including soft and condensed matter systems as well as fundamental particle physics. The key step in any lattice calculation is performing Monte Carlo sampling over the physical degrees of freedom, arranged in a regular grid in space or space-time. Unfortunately, state-of-the-art calculations face a rapidly growing computational cost as the resolution of the grid is made increasingly fine. I will discuss recent work using non-equilibrium and flow-based methods (in particular the Jarzynski equality) to resolve this slow-down by connecting to the renormalization group. This strategy uses intermediate coarse descriptions of the same theory to generate low-cost, unbiased results."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjEwMDlUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:

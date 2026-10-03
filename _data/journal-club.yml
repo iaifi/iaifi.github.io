@@ -56,6 +56,26 @@
   speaker-gender:
   talk-attendance:
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjEwMDhUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2026"
+  speaker-name: "Rishabh Jain"
+  speaker-title: "Grad Student"
+  speaker-affiliation: "Brown University"
+  speaker-website: ""
+  speaker-photo-location:
+  start-date-time: "2026-10-15 12:00"
+  end-date-time: "2026-10-15 13:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Learning the Geometry of Collider Events with Metric-Aware Deep Sets"
+  talk-abstract: >-
+    The Energy Mover's Distance (EMD) is a metric on the space of collider events and has seen wide usage. However, computing it numerically is very time consuming for high multiplicity processes. We introduce a Deep Sets based neural surrogate with built-in metric properties as a faster way to compute pairwise EMDs. This work was submitted to the NeurIPS GDDL workshop and is publicly available at this link: https://repository.library.brown.edu/studio/item/bdr:225wnyk6/
+  slides-link:
+  youtube-link:
+  speaker-thrust: "physics experiment"
+  speaker-gender:
+  talk-attendance:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjEwMTVUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
 
 - type: "journal-club"
   semester: "spring-2026"

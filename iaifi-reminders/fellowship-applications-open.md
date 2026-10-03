@@ -2,16 +2,16 @@
 layout: article
 header: false
 footer: false
-title: "IAIFI Fellowship Applications Open"
+title: "Reminder: IAIFI Fellowship Applications due October 7, 2026"
 show_title: false
 --- 
 
 
 {% include_relative iaifi-reminder_header.html %}
 
-## IAIFI Fellowship Applications Open
+## IAIFI Fellowship Applications due October 7, 2026
 
-We are pleased to announce this year’s IAIFI Postdoctoral Fellowship search for early-career scientists working at the intersection of Physics and AI. Applications for this seventh round of IAIFI Fellows are due on Wednesday, October 7, 2026.
+There is one week left to apply to the next round of the IAIFI Postdoctoral Fellowship search for early-career scientists working at the intersection of Physics and AI! Applications are due on Wednesday, October 7, 2026.
 
 [Apply on AJO](https://academicjobsonline.org/ajo/jobs/32251){:.button.button--outline-primary.button--pill.button--lg} [Learn more about the IAIFI Fellowship](https://iaifi.org/fellows){:.button.button--outline-primary.button--pill.button--lg}
 
