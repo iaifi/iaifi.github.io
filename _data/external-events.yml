@@ -5,9 +5,9 @@
   event-post-date: "2026-10-05"
   start-date-time: "2026-10-05 12:00"
   end-date-time: "2026-10-05 13:00"
-  talk-location: "The Phillips Auditorium, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-location: "Pratt, Center for Astrophysics, 60 Garden Street and Zoom"
   talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
-  event-details: "TBD"
+  event-details: "Marcelo Oyarzo (IGFAE/USC)<br>Solving gravitational equations with neural networks<br>We are interested in studying how black hole physics is modified by higher-curvature corrections to general relativity. In this talk, I will give a brief review of general relativity and its possible higher-curvature extensions. I will explain how spacetime geometry is described by the metric tensor and discuss different geometric ansatzs that are useful for solving the field equations. I will then introduce neural networks and the algorithms that we use to solve these equations, discussing their advantages and limitations compared with traditional numerical methods. Finally, I will present a concrete application to rotating black holes in Lovelock gravity."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGt1YmJjbzg0ZmlmYjltZ282ajFjdTVmN2cgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
   
 - type: "external-event"
