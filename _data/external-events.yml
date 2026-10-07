@@ -23,6 +23,42 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vNXJsanZpanBqdG5hZDVxbGE0c2s4c3UgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
   
 - type: "external-event"
+  event-name: "ScienceClaw Hackathon"
+  event-organizer: "ScienceClaw"
+  more-info-link: "https://scienceclawhack.ai/?referrer=luma&utm_source=luma#purpose"
+  event-post-date: "2026-10-04"
+  start-date-time: "2026-10-30 8:00"
+  end-date-time: "2026-11-01 17:00"
+  talk-location: "MIT Media Lab"
+  talk-zoom:
+  event-details: "A hackathon for building decentralized collectives of AI agents that solve real scientific and technical problems. Apply by October 16, 2026."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3JkYzAyaGlybDVndWlpNTdhb2pibDZxbnQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
+  event-name: "2026 Nano Summit"
+  event-organizer: "MIT.nano"
+  more-info-link: "https://mitnano.mit.edu/events/2026-nano-summit"
+  event-post-date: "2026-10-04"
+  start-date-time: "2026-10-29 8:30"
+  end-date-time: "2026-10-29 17:00"
+  talk-location: "MIT Schwarzman College of Computing, 8th Floor"
+  talk-zoom:
+  event-details: "The Nano Summit, MIT.nano's flagship conference, is delivered through the insights of leaders from academia, industry, government, and startups, who provide first looks into the science and technologies that will shape the next decade of innovation. The 2026 Nano Summit will focus on the convergence of nanoscience and engineering, artificial intelligence, and emerging technologies. Given MIT.nano’s central role in broadly enabling research, one session is dedicated to the role of shared research facilities in enabling progress that can scale."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vNXJsanZpanBqdG5hZDVxbGE0c2s4c3UgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
+  event-name: "QFI 2026: 1st Frontier Workshop on Quantum Foundations of Intelligence"
+  event-organizer: "Cross-AI Frontier Session Series"
+  more-info-link: "https://cross-ai.io/conference/2027/preconf/qfi-2026/"
+  event-post-date: "2026-10-04"
+  start-date-time: "2026-12-14 9:00"
+  end-date-time: "2026-12-16 17:00"
+  talk-location: "Online"
+  talk-zoom:
+  event-details: "The Quantum Foundations of Intelligence (QFI) workshop explores quantum information and computation not merely as technologies for accelerating existing machine learning workloads, but as sources of new mathematical and algorithmic principles for intelligence. We are particularly interested in how concepts from quantum theory, including non-commutativity, contextuality, superposition, entanglement, measurement, quantum probability, and quantum processes, can inspire new theories, representations, algorithms, and principles of computation and intelligence. Contributions may be theoretical, mathematical, computational, or empirical, including approaches implemented entirely on classical hardware."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXNzcGg5b2IzbHE5NmQwOTBvajFkMGJvNTMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
@@ -96,7 +132,7 @@
   
 - type: "external-event"
   event-name: "MIT Generative AI Impact Consortium Symposium"
-  event-organizer:
+  event-organizer: "MIT Generative AI Impact Consortium (MGAIC)"
   more-info-link: "https://genai.mit.edu/mit-generative-ai-symposium/"
   event-post-date: "2026-09-06"
   start-date-time: "2026-10-29"
