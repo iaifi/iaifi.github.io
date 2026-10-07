@@ -76,6 +76,25 @@
   speaker-gender:
   talk-attendance:
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjEwMTVUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2026"
+  speaker-name: "Kai Lehman"
+  speaker-title: "Grad Student"
+  speaker-affiliation: "LMU Munich"
+  speaker-website: "https://www.physik.lmu.de/observatory/en/people/contact-page/kai-lehman-1325a75b.html"
+  speaker-photo-location:
+  start-date-time: "2026-10-22 12:00"
+  end-date-time: "2026-10-22 13:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Details to come"
+  talk-abstract:
+  slides-link:
+  youtube-link:
+  speaker-thrust: "astrophysics"
+  speaker-gender:
+  talk-attendance:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjEwMjJUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
 
 - type: "journal-club"
   semester: "spring-2026"

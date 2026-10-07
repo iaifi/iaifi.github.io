@@ -2,7 +2,7 @@
 layout: article
 header: false
 footer: false
-title: "Reminder: IAIFI Fellowship Applications due October 7, 2026"
+title: "Reminder: IAIFI Fellowship Applications due Tomorrow!"
 show_title: false
 --- 
 
@@ -11,9 +11,9 @@ show_title: false
 
 ## IAIFI Fellowship Applications due October 7, 2026
 
-There is one week left to apply to the next round of the IAIFI Postdoctoral Fellowship search for early-career scientists working at the intersection of Physics and AI! Applications are due on Wednesday, October 7, 2026.
+**Applications are due tomorrow** for the next round of the IAIFI Postdoctoral Fellowship search for early-career scientists working at the intersection of Physics and AI! 
 
-[Apply on AJO](https://academicjobsonline.org/ajo/jobs/32251){:.button.button--outline-primary.button--pill.button--lg} [Learn more about the IAIFI Fellowship](https://iaifi.org/fellows){:.button.button--outline-primary.button--pill.button--lg}
+[Apply on AJO by October 7](https://academicjobsonline.org/ajo/jobs/32251){:.button.button--outline-primary.button--pill.button--lg} [Learn more about the IAIFI Fellowship](https://iaifi.org/fellows){:.button.button--outline-primary.button--pill.button--lg}
 
 The NSF Institute for Artificial Intelligence and Fundamental Interactions (IAIFI, pronounced /aɪ-faɪ/) is one of the inaugural NSF AI research institutes. The IAIFI is enabling physics discoveries and advancing foundational AI through the development of novel AI approaches that incorporate first principles, best practices, and domain knowledge from fundamental physics. AI is transforming many aspects of society, including the ways that scientists are pursuing groundbreaking discoveries.
 

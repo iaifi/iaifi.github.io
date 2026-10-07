@@ -23,6 +23,18 @@
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Nm9vNXJsanZpanBqdG5hZDVxbGE0c2s4c3UgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
   
 - type: "external-event"
+  event-name: "QFI 2026: 1st Frontier Workshop on Quantum Foundations of Intelligence"
+  event-organizer: "Cross-AI Frontier Session Series"
+  more-info-link: "https://cross-ai.io/conference/2027/preconf/qfi-2026/"
+  event-post-date: "2026-10-04"
+  start-date-time: "2026-12-14 9:00"
+  end-date-time: "2026-12-16 17:00"
+  talk-location: "Online"
+  talk-zoom:
+  event-details: "The Quantum Foundations of Intelligence (QFI) workshop explores quantum information and computation not merely as technologies for accelerating existing machine learning workloads, but as sources of new mathematical and algorithmic principles for intelligence. We are particularly interested in how concepts from quantum theory, including non-commutativity, contextuality, superposition, entanglement, measurement, quantum probability, and quantum processes, can inspire new theories, representations, algorithms, and principles of computation and intelligence. Contributions may be theoretical, mathematical, computational, or empirical, including approaches implemented entirely on classical hardware."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXNzcGg5b2IzbHE5NmQwOTBvajFkMGJvNTMgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
@@ -96,7 +108,7 @@
   
 - type: "external-event"
   event-name: "MIT Generative AI Impact Consortium Symposium"
-  event-organizer:
+  event-organizer: "MIT Generative AI Impact Consortium (MGAIC)"
   more-info-link: "https://genai.mit.edu/mit-generative-ai-symposium/"
   event-post-date: "2026-09-06"
   start-date-time: "2026-10-29"
