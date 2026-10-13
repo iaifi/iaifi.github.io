@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-10-08
+title: "Primal-Dual Flow Matching for Sample-Wise Constrained Generation"
+authors: "Zhengyan Huan, Peter Y. Lu, Shuchin Aeron"
+abstract: "We consider the problem of learning to generate data while satisfying a prescribed \emph{sample-wise} constraint with a user-specified probability of constraint satisfaction. Starting with a population-level constrained negative log-likelihood minimization and using a flow-matching (FM) parameterization, under regularity assumptions and sufficient expressivity of the velocity field family, we derive guarantees on the probability of constraint satisfaction for the corresponding primal-dual optimization algorithm. We provide a practical implementation of this approach, called Primal-Dual Flow Matching (PDFM), which has direct control over constraint satisfaction rate and requires only binary membership oracle feedback for constraint satisfaction, avoiding the need for differentiable distances, projections, or special structure of the constraint set, such as convexity. We show that PDFM improves constraint satisfaction over vanilla FM and achieves competitive performance against constraint-aware baselines while maintaining distributional fidelity. Our code is available at https://github.com/ZhengyanHuan/PDFM."
+arxiv: "2610.12699"
+date-updated: 2026-10-11
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @article{huan2026primaldualflowmatchingsamplewise,
+      title={Primal-Dual Flow Matching for Sample-Wise Constrained Generation},
+      author={Zhengyan Huan and Peter Y. Lu and Shuchin Aeron},
+      year={2026},
+      eprint={2610.12699},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2610.12699},
+    }

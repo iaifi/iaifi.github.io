@@ -14,7 +14,7 @@
   youtube-link:
   speaker-thrust:
   speaker-gender:
-  talk-attendance:
+  talk-attendance: 12 in person, 13 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjA5MjRUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
@@ -34,7 +34,7 @@
   youtube-link:
   speaker-thrust: "physics theory"
   speaker-gender:
-  talk-attendance:
+  talk-attendance: 10 in person, 11 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjEwMDFUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
@@ -50,11 +50,11 @@
   talk-title: "Foundation Models from Physics"
   talk-abstract: >-
     Build a AI model that is trained on either physics data, physics models, or physics insight. Predict new solutions for difficult systems to discover new physics using AI. (A. Foster, Z. Schatzle, P. B. Szabo, L. Cheng, J. Kohler, G. Cassalla, N. Gao, J. Li, F. Noe, and J. Hermann, An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking, arXiv preprint arXiv:2506.19960 (2025)., D. Pfau, J. S. Spencer, A. G. D. G. Matthews, and W. M. C. Foulkes, Ab initio solution of the many-electron Schr\”odinger equation with deep neural networks, Phys. Rev. Res. 2, 033429 (2020)., N. Gao and S. G¨unnemann, Generalizing neural wave functions, in Proceedings of the 40th International Conference on Machine Learning, ICML’23 (JMLR.org, 2023).)
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1nNWaI1B_R857cgiKkCA37DBBbBaDwk9p/view?usp=share_link
   youtube-link:
   speaker-thrust: "physics theory"
   speaker-gender:
-  talk-attendance:
+  talk-attendance: 12 in person, 12 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjEwMDhUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
@@ -87,8 +87,8 @@
   start-date-time: "2026-10-22 12:00"
   end-date-time: "2026-10-22 13:00"
   talk-location: "IAIFI Penthouse"
-  talk-title: "Details to come"
-  talk-abstract:
+  talk-title: "Beyond the Explicit Likelihood: Novel Methods for Simulation-Based Cosmology"
+  talk-abstract: "Modern cosmology has presented us with an immense volume of data, but we still lack the ability to take full advantage of it. Some current results hint at physics beyond the standard model, but we are not yet able to draw definitive conclusions. To resolve these questions, we need to exploit the full statistical power of our datasets with increasingly sophisticated models of complex physical and observational effects. While such models can often be simulated numerically, their likelihoods may be intractable to evaluate. Simulation-based inference (SBI) allows us to perform inference in this regime by using neural networks to learn the quantities needed for inference directly from simulations. Yet SBI also presents a new set of challenges: How do we retain a physical understanding of our inference pipelines when neural networks take over much of the inference machinery? How can we compare different models when the likelihood cannot be evaluated? I will present new methods addressing both challenges. First, I will show how physically informed machine-learning architectures can incorporate domain knowledge directly into SBI pipelines, retaining a connection between the learned inference and the underlying physics. Second, I will introduce novel methods for Bayesian model inference on the basis of the evidence without evaluating the likelihood. I will demonstrate the latter on DESI DR2 data, enabling rapid comparison of a range of cosmological models. Together, these approaches exploit the advantages of SBI and enable analyses that are intractable with traditional likelihood-based methods."
   slides-link:
   youtube-link:
   speaker-thrust: "astrophysics"
