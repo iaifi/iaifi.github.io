@@ -40,15 +40,15 @@
 - type: "colloquium"
   semester: "fall-2026"
   speaker-name: "Nicole Hartman"
-  speaker-title: ""
-  speaker-affiliation: "IAIFI Fellow"
+  speaker-title: "Postdoctoral Fellow"
+  speaker-affiliation: "IAIFI"
   speaker-website: https://nhartman94.github.io
   speaker-photo-location: images/small-photo-nicole-hartman.jpg
   start-date-time: "2026-10-23 14:00"
   end-date-time: "2026-10-23 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
-  talk-abstract:
+  talk-title: "Simulators + scale = science: Scaling deep learning models to unlock di-Higgs sensivity"
+  talk-abstract: "In our quest to understand the Standard Model and what might lie beyond, the Large Hadron collider (LHC) has now collected more than an exabyte of data. Central to understanding the Higgs boson is the accurate classification of its decay products, most often into collimated stream of particles, called jets. But the deep learning models deployed for LHC physics are trained on orders of magnitude less data would be available. <br> Scale and compute has fueled the recent rise large language models. We present recent work showing that neural scaling laws also hold for jet classification: larger models and with bigger datasets yield predictably better performance. We verify these performance gains by extrapolating to an order of magnitude larger dataset. A key question is if the performance gain in simulation transfers to real data, and we show, in simplified scenerios, that augmenting the training with a domain invaraince loss can help minimise such a sim-to-real gap. We conclude sharing the prospects for our physics target: searches for the Higgs self-interaction."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjEwMjNUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
