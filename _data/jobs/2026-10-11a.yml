@@ -1,0 +1,8 @@
+type: postdoc
+title: "Research Lead: Physics and Machine Learning"
+employer: DeepPsi
+post-date: 2026-10-11
+deadline:
+expire: 2026-11-11
+link: "https://docsend.com/view/fisqrfs38vue44xb"
+details: "DeepPsi is a physics spinout of Liang Fu's lab at MIT, so research is our bread and butter. We build foundation models trained on quantum mechanics. Our models learn from the Schrödinger equation alone, with no labeled data, and predict the full quantum state of systems with hundreds of interacting electrons. We apply them to semiconductors, quantum hardware, and chemistry. You will lead one of three research areas and set its technical direction as the team grows. The work runs from derivation to code: you formulate the physics, build the model, and scale it on GPUs."

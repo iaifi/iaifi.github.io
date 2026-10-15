@@ -32,10 +32,10 @@
   talk-abstract: "Lattice field theory plays a crucial role in systematic studies of strongly coupled systems across a variety of fields, including soft and condensed matter systems as well as fundamental particle physics. The key step in any lattice calculation is performing Monte Carlo sampling over the physical degrees of freedom, arranged in a regular grid in space or space-time. Unfortunately, state-of-the-art calculations face a rapidly growing computational cost as the resolution of the grid is made increasingly fine. I will discuss recent work using non-equilibrium and flow-based methods (in particular the Jarzynski equality) to resolve this slow-down by connecting to the renormalization group. This strategy uses intermediate coarse descriptions of the same theory to generate low-cost, unbiased results."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjEwMDlUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
-  youtube-link:
-  speaker-thrust: "foundational AI"
+  youtube-link: https://www.youtube.com/live/YsT6OT29je4?si=xDI7Ba81p73qUmii
+  speaker-thrust: "theoretical physics"
   speaker-gender: "man"
-  talk-attendance: TBD in person, TBD virtual
+  talk-attendance: 26 in person, 15 virtual
   
 - type: "colloquium"
   semester: "fall-2026"
@@ -47,13 +47,13 @@
   start-date-time: "2026-10-23 14:00"
   end-date-time: "2026-10-23 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
-  talk-abstract:
+  talk-title: "Simulators + scale = science: Scaling deep learning models to unlock di-Higgs sensivity"
+  talk-abstract: "In our quest to understand the Standard Model and what might lie beyond, the Large Hadron collider (LHC) has now collected more than an exabyte of data. Central to understanding the Higgs boson is the accurate classification of its decay products, most often into collimated stream of particles, called jets. But the deep learning models deployed for LHC physics are trained on orders of magnitude less data would be available. <br> Scale and compute has fueled the recent rise large language models. We present recent work showing that neural scaling laws also hold for jet classification: larger models and with bigger datasets yield predictably better performance. We verify these performance gains by extrapolating to an order of magnitude larger dataset. A key question is if the performance gain in simulation transfers to real data, and we show, in simplified scenerios, that augmenting the training with a domain invaraince loss can help minimise such a sim-to-real gap. We conclude sharing the prospects for our physics target: searches for the Higgs self-interaction."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjEwMjNUMTgwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
-  speaker-thrust: ""
-  speaker-gender: ""
+  speaker-thrust: "experimental physics"
+  speaker-gender: "woman"
   talk-attendance: TBD in person, TBD virtual
 
 - type: "colloquium"
@@ -102,10 +102,10 @@
   speaker-affiliation: "IAIFI and Harvard/Smithsonian Center for Astrophysics ITC"
   speaker-website: http://jnibauer.github.io
   speaker-photo-location: images/small-photo-jacob-nibauer.jpg
-  start-date-time: "2026-11-20 14:00"
-  end-date-time: "2026-11-20 15:00"
+  start-date-time: "2026-11-13 15:00"
+  end-date-time: "2026-11-13 16:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
+  talk-title: "<b>Note later start time than usual at 3:00 pm.</b> Details to come."
   talk-abstract:
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjExMjBUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:

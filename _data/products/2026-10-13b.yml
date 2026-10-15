@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: E
+arxiv-date: 2026-09-28
+title: "Covariant Contrastive Learning for Uncertainty-Aware Anomaly Detection"
+authors: "Shelley Tong, Philip Harris, Gaia Grosso"
+abstract: "Machine-learning-based anomaly detection (AD) offers a promising, model-agnostic alternative to traditional LHC analyses, allowing to search for many signals at once. Recent advances in representation learning motivate the use of neural embeddings to map high-dimensional physics observables into low-dimensional latent spaces better suited to statistical inference. However, the propagation of systematic uncertainty in embedded spaces remains poorly understood, severely limiting the application of these methods to real LHC analyses. We address this gap with a machine learning strategy that uses a likelihood-based regularization to improve the structure of embedded spaces. Building on previous work using supervised contrastive learning for physics-aware embeddings, our approach trains them jointly with a downstream parameterized classification task that incorporates continuous uncertainties as nuisance parameters. This method returns a latent space that covaries predictably with systematic shifts, and a model of such distortions that can be exploited in the downstream statistical test for anomaly detection. Using simulated CMS Level-1 trigger data, we show that our method successfully models continuous uncertainties in a 4D latent space with a linear parametric downstream classifier, improving both the interpretability and robustness of the statistical anomaly detection task. This framework offers a general way to study and control systematic uncertainties in latent spaces, opening the way to a new scalable statistical analysis workflow for anomaly detection at the LHC, and other high energy physics experiments."
+arxiv: "2609.35755"
+date-updated: 2026-10-11
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+  @article{tong2026covariantcontrastivelearninguncertaintyaware,
+      title={Covariant Contrastive Learning for Uncertainty-Aware Anomaly Detection},
+      author={Shelley Tong and Philip Harris and Gaia Grosso},
+      year={2026},
+      eprint={2609.35755},
+      archivePrefix={arXiv},
+      primaryClass={hep-ph},
+      url={https://arxiv.org/abs/2609.35755},
+    }
