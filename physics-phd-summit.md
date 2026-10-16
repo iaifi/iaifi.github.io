@@ -8,7 +8,7 @@ There is an urgent need for the physics community to address the impact of AI on
 * When: November 16–17, 2026 
 * Where: MIT
 
-[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Logistics](#logistics){:.button.button--outline-primary.button--pill.button--lg} [Working Groups](#working-groups){:.button.button--outline-primary.button--pill.button--lg} [Preparation](#preparation){:.button.button--outline-primary.button--pill.button--lg} [Organizers](#organizers){:.button.button--outline-primary.button--pill.button--lg}
+[Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Logistics](#logistics){:.button.button--outline-primary.button--pill.button--lg} [Working Groups](#working-groups){:.button.button--outline-primary.button--pill.button--lg} [Preparation](#preparation){:.button.button--outline-primary.button--pill.button--lg} [Participants](#participants){:.button.button--outline-primary.button--pill.button--lg} [Organizers](#organizers){:.button.button--outline-primary.button--pill.button--lg}
 
 ## Agenda
 
