@@ -247,6 +247,15 @@ Meals (two breakfasts, two lunches, and one dinner) will be provided.
       </div>
     </div>
   </div>
+  
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
+        <strong>University of Texas at Austin</strong>
+        <div>Andrew Loveridge</div>
+      </div>
+    </div>
+  </div>
 
   <div class="col">
     <div class="card h-100">
