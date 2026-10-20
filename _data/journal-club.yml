@@ -95,6 +95,25 @@
   speaker-gender:
   talk-attendance:
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjEwMjJUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+  
+- type: "journal-club"
+  semester: "fall-2026"
+  speaker-name: "Nakul Shenoy"
+  speaker-title: "Grad Student"
+  speaker-affiliation: "University of Chicago"
+  speaker-website: "https://www.linkedin.com/in/nakul-shenoy"
+  speaker-photo-location:
+  start-date-time: "2026-10-29 12:00"
+  end-date-time: "2026-10-29 13:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Recursive Self-Improvement: A Feedback-Loop Model and the Latest Evidence"
+  talk-abstract: "AI does a growing share of AI research, and may soon become capable enough to fully automate the research and training of the next generation of models. Will this feedback loop lead to an acceleration of AI progress beyond its already rapid pace, or will it be bottlenecked by compute, data, and diminishing returns? I will present the growth model proposed by [Cunningham et al. (2026)](https://elasticity.institute/rsi-paper.pdf), then review the current evidence on each of the model’s parameters, and discuss the implications of rapid acceleration in AI progress."
+  slides-link:
+  youtube-link:
+  speaker-thrust: "foundational AI"
+  speaker-gender:
+  talk-attendance:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjEwMjlUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
 
 - type: "journal-club"
   semester: "spring-2026"
