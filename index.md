@@ -127,6 +127,8 @@ article_header:
 
 The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(IAIFI, pronounced /aɪ-faɪ/)](/about.html) is one of the inaugural institutes of the U.S. National Science Foundation-led National Artificial Intelligence Research Institutes program. IAIFI is advancing physics knowledge -- from the smallest building blocks of nature to the largest structures in the Universe -- and galvanizing AI research innovation. A collaboration of [physics and AI researchers](/people.html) at MIT, Harvard, Northeastern, and Tufts, IAIFI's primary goals are to pioneer interdisciplinary AI+Physics **research**; empower the next generation of AI+Physics **talent**; and build a dynamic AI+Physics **community**.
 
+Learn more about the National AI Institutes program from the [AI Institutes Virtual Organization (AIVO)](https://aiinstitutes.org).
+
 
 <style>
 .button-container {
@@ -170,13 +172,12 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
   <a href="/member-resources.html" class="button button--outline-primary button--pill button--lg">For Members</a>
 </div>
 
-
+<!--
 ### IAIFI Jobs
 
 ***Applications are now open for the 2027–2030 IAIFI Fellowship search.*** Learn more about the [IAIFI Fellowship program here](https://iaifi.org/fellows). 
 {:.success}
 
-<!--
 ***Applications are open for the MIT Summer Research Program (MSRP).*** Undergraduate students (sophomore, junior, or non-graduating seniors) who might benefit from spending a summer on MIT’s campus, conducting research under the guidance of MIT faculty members, postdoctoral fellows, and advanced graduate students, are invited to apply to MSRP. [Apply by January 20, 2026](https://oge.mit.edu/msrp/) and indicate interest in IAIFI in your application!
 {:.success}
 -->
@@ -189,7 +190,7 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 {:.success}
 -->
 
-***Our [IAIFI Colloquium series](events.html) will continue on Friday, September 25 with Adrian Bayer (IAIFI Fellow).*** Watch live on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue on Friday, October 23 with Nicole Hartman (IAIFI Fellow).*** Watch live on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>
@@ -230,6 +231,10 @@ The NSF AI Institute for Artificial Intelligence and Fundamental Interactions [(
 <!---
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+
+***IAIFI researchers Phil Harris, Eric Moreno, and Nicole Hartman receive 2026 MIT Open Data Prize!*** The MIT School of Science and MIT Libraries selected them for their work on [COLLIDE-2V: an open, dual-view dataset of one billion simulated LHC collisions for machine learning](https://huggingface.co/datasets/fastmachinelearning/collide-1m). *October 19, 2026*
+{:.info}
+
 ***We are thrilled to announce that IAIFI has been awarded a five-year renewal from the National Science Foundation's AI Institutes program!*** [Read more in our official announcement.](https://iaifi.org/iaifi-reminders/renewal-announcement) *June 5, 2026*
 {:.info}
 
