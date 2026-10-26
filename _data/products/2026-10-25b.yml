@@ -1,0 +1,23 @@
+type: paper
+iaifi-thrust: F
+arxiv-date: 2026-10-21
+title: "Schrödinger-Bass Bridge Barycenter Models for Measure-Valued Data"
+authors: "Ngoc-Hai Nguyen, Thuan Nguyen, Prakash Ishwar, Shuchin Aeron"
+abstract: "Barycenter models, based on stochastic and deterministic optimal transport bridges between probability measures, have proven to be useful for supervised and unsupervised learning for (probability) measure-valued data. In this paper, we utilize the directional asymmetry and dual drift-diffusion control arising in the recently proposed Schrödinger-Bass Bridge (SBB) between two measures, and propose \textit{SBB-encoder}, \textit{SBB-decoder}, \textit{SBB-symmetric}, and \textit{SBB-Markovian} barycenter models. For each of these novel models, our first theoretical result establishes the existence of the SBB-barycenter under mild assumptions. Our second theoretical result characterizes the decoder SBB-barycenter of Gaussians where we show that for Gaussian input measures, the decoder formulation admits a Gaussian minimizer, reducing barycenter computation to a finite-dimensional optimization and yielding a compact algorithm. For general input measures, we derive a hybrid Wasserstein gradient particle descent scheme for all four formulations using the SBB dual representation. Finally, we utilize these algorithms for solving distributional-inverse/interpolation problems arising in the context of spatial images and single-cell RNA sequencing data, where we show that the SBB-decoder and Markovian barycenter allow us to interpolate between successive time points. Results show that our method outperforms existing barycenter models for measure interpolation and inference."
+arxiv: "2610.29227"
+date-updated: 2026-10-25
+journal:
+doi:
+nsf-par:
+code: 
+publication-date:
+bib-tex: |
+    @article{nguyen2026schrodingerbassbridgebarycentermodels,
+      title={Schr\"odinger-Bass Bridge Barycenter Models for Measure-Valued Data},
+      author={Ngoc-Hai Nguyen and Thuan Nguyen and Prakash Ishwar and Shuchin Aeron},
+      year={2026},
+      eprint={2610.29227},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2610.29227},
+    }

@@ -2,13 +2,25 @@
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-10-25"
+  start-date-time: "2026-10-26 12:00"
+  end-date-time: "2026-10-26 13:00"
+  talk-location: "Pratt, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Nicole Hartman (IAIFI Fellow)<br>To ℒ∞ and beyond: towards foundation models in particle physics<br>Big science necessitates big data sets, with particle and astrophysics championing scale both in terms of raw dataset sizes and sheer person-power.  And yet, to reap the benefit of the foundation models in the physical sciences, we need one more axis for scale: training time (compute). When GPU compute becomes the bottleneck, it becomes imperitive to judiciously choose which “large model” we’re going to train — especially when mistakes cost thousands of GPU hours (or tens of thousands of dollars). Neural scaling laws (Kaplan, 2020) allow us to predict the model’s performance through training a suite of smaller models.  At the Large Hadron collider, `jets’ refer to the collimated sprays of stable hadrons initiated by quarks and gluons. Jet classification poses a sufficiently challenging problem for a first large-scale test of neural scaling laws in particle physics. Here we present results for neural scaling laws for a transformer-based jet classification model, sharing both compute and loss-optimal trajectories. We then use these laws to train an optimally sized model on a 50x larger dataset (a gpt-2 sized training). The large scale training agrees nearly perfectly with the scaling law’s prediction. This allows us to also quantitatively answer the question: does injecting our physics knowledge help model performance? This line of work allows us to judiciously spend our human and compute resources to accelate our path to scientific discoveries. This talk mainly covers work in: [Carpe Datum](https://cds.cern.ch/record/2953659) (accepted at Neurips 2026) and [How to scale your HEP ML models](https://arxiv.org/abs/2610.06784)."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGt1YmJjbzg0ZmlmYjltZ282ajFjdTVmN2cgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2026-10-05"
   start-date-time: "2026-10-05 12:00"
   end-date-time: "2026-10-05 13:00"
   talk-location: "Pratt, Center for Astrophysics, 60 Garden Street and Zoom"
   talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
   event-details: "Marcelo Oyarzo (IGFAE/USC)<br>Solving gravitational equations with neural networks<br>We are interested in studying how black hole physics is modified by higher-curvature corrections to general relativity. In this talk, I will give a brief review of general relativity and its possible higher-curvature extensions. I will explain how spacetime geometry is described by the metric tensor and discuss different geometric ansatzs that are useful for solving the field equations. I will then introduce neural networks and the algorithms that we use to solve these equations, discussing their advantages and limitations compared with traditional numerical methods. Finally, I will present a concrete application to rotating black holes in Lovelock gravity."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGt1YmJjbzg0ZmlmYjltZ282ajFjdTVmN2cgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N3M2dDFjODBwaG45NHN1NGk2OTloYWVuM3MgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
   
 - type: "external-event"
   event-name: "NSF AI-SDM Seminar"
