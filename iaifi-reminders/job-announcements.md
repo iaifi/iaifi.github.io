@@ -13,36 +13,58 @@ show_title: false
 ## IAIFI-Adjacent Job Opportunities
 We are pleased to share several academic job openings at IAIFI-affiliated universities below. Researchers in these positions would have the opportunity to join and/or collaborate with IAIFI. 
 
-### MIT Assistant Professor, Artificial Intelligence (AI) and Physics 
+### MIT Assistant Professor, Center for Theoretical Physics — a Leinweber Institute
 
-The Department of Physics together with the Schwarzman College of Computing (SCC) at the Massachusetts Institute of Technology (MIT) located in Cambridge, MA, invites applications for a faculty position at the intersection of Artificial Intelligence (AI) and Physics at the level of tenure-track Assistant Professor beginning July 1, 2026 or as soon thereafter as possible. We encourage candidates doing relevant research on any aspect of AI and Physics, broadly defined, including using Physics principles and methodologies to understand and develop AI models and algorithms, and using AI to help solve problems in Physics. We particularly welcome candidates who would strengthen connections between AI, Physics, Computer Science, Mathematics, and/or Statistics.
+The Physics Department of the Massachusetts Institute of Technology, located in Cambridge, MA, invites applications for a tenure-track faculty position in theoretical high-energy, nuclear, gravitational, and/or quantum physics, beginning July 1, 2027 or as soon as possible thereafter. We encourage applicants doing relevant research at any energy scale, including particle theory in and beyond the Standard Model; nuclear astrophysics; cosmology, dark matter and astroparticle physics; quantum field theory; QCD and strong interactions; string theory, classical and quantum gravity, holography, and mathematical physics; and theoretical quantum information science.
 
-Applications submitted online to AcademicJobsOnline.org by December 1, 2025 will receive full consideration.
+The application deadline is December 1, 2026.
 
-[Apply on AJO](https://academicjobsonline.org/ajo/jobs/30892){:.button.button--outline-primary.button--pill.button--lg}
+[Apply on AJO](https://academicjobsonline.org/ajo/jobs/33025){:.button.button--outline-primary.button--pill.button--lg}
 
 ### MIT Schwarzman College of Computing Tayebati Postdoctoral Fellow
 
-The new Tayebati Postdoctoral Fellowship Program at MIT, sponsored by the MIT Schwarzman College of Computing, focuses on AI for addressing the most challenging problems in select scientific research areas, and AI for music composition and performance. The program concentrates on work that brings cutting-edge AI to bear on research in science or music, to advance both the research area and the development of relevant AI methods. Candidates will be working on projects at the forefront of one of the six disciplinary areas: Biology/Bioengineering; Brain and Cognitive Sciences; Chemistry/Chemical Engineering; Materials Science and Engineering; Music; or Physics.
+The Tayebati Postdoctoral Fellowship Program at MIT supports exceptional researchers whose work explores the transformative potential of artificial intelligence in select science and engineering fields or in music. Hosted by the MIT Schwarzman College of Computing, the program fosters research at the forefront of AI, where novel computational approaches can advance scientific discovery or expand the possibilities of music composition and performance. By encouraging ambitious, interdisciplinary scholarship, the fellowship seeks to generate meaningful progress both within these domains and in the development of new AI methods more broadly. Candidates should pursue research that combines AI with one of the following six disciplinary areas: biology or bioengineering, brain and cognitive sciences, chemistry or chemical engineering, materials science and engineering, music, or physics.
 
-To receive full consideration, all application materials (including letters of recommendation) must be submitted by December 1, 2025.
+Complete applications must be submitted by 11:59 pm on November 1, 2026.
 
-[Apply](https://mitfunding.infoready4.com/#freeformCompetitionDetail/1989450){:.button.button--outline-primary.button--pill.button--lg}
+[Apply](https://computing.mit.edu/research/postdoctoral-fellows-programs/tayebati-postdoctoral-fellowship-program/){:.button.button--outline-primary.button--pill.button--lg}
 
-### Northeastern Postdoc, Simons Collaboration on the Physics of Learning
+### MIT Kavli Institute Postdoctoral Fellowships
 
-Northeastern University in Boston has a Fall 2026 opening for a Postdoctoral Research Associate to work with the recently established Simons Collaboration on the Physics of Learning (physicsoflearning.org). The Simons Collaboration is harnessing the fundamental sciences to break AI out of its black box using techniques from mathematics and theoretical physics. The successful candidate is expected to contribute to the scientific mission of the collaboration, bringing their technical expertise to bear on problems in AI. Proposals for new scientific directions are welcomed, and the researcher will have an opportunity to collaborate with anyone in the Collaboration. The successful candidate will also have the opportunity to interact and collaborate with the NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI).
+The MIT Kavli Institute (MKI) for Astrophysics and Space Research invites applications for two fellowships, the MIT Kavli Postdoctoral Fellowship in Astrophysics and the Juan Carlos Torres Fellowship in Astrophysics. The appointment will be made to two outstanding researchers displaying significant promise in any area of astrophysics, including theory, observation, or instrumentation, and embodying core values of inclusion and belonging.
 
-The deadline to apply is December 15, 2025.
+The application deadline is December 11, 2026
 
-[Apply](https://academicjobsonline.org/ajo/jobs/31038){:.button.button--outline-primary.button--pill.button--lg}
+[Apply](https://academicjobsonline.org/ajo/jobs/32990){:.button.button--outline-primary.button--pill.button--lg}
 
-### Tufts Tenure-Track Faculty Position in Electrical and Computer Engineering
+### Harvard & Smithsonian Center for Astrophysics, Institute for Theory and Computation (ITC) Fellows
 
-The Department of Electrical and Computer Engineering (ECE) at Tufts University invites applications for tenure-track faculty positions in Electrical and Computer Engineering to begin in September 2026/7. We are seeking candidates at the rank of Assistant, Associate, or Full Professor. This search is part of a wider hiring campaign by the School of Engineering (SOE) to grow its research and educational capabilities in contemporary and emergent science and engineering domains. One immediate area of interest includes: Artificial Intelligence and Machine Learning with an emphasis on the mathematical and statistical foundations and the development of learning architectures and mechanisms driving today’s AI systems, including but not limited to graph learning, reinforcement learning, diffusion and other generative models, attention, physics-informed methods. 
+Applications are invited for a Postdoctoral Research Fellow position in the Institute for Theory and Computation (ITC) at the Harvard-Smithsonian Center for Astrophysics. One of the primary objectives of the ITC is to integrate conceptual theory with computational modeling. We are, therefore, interested in candidates working in any field related to theoretical and/or numerical astrophysics. The successful candidate will have access to our new computing facilities and will have the opportunity to interact and work with researchers in both the Harvard College Observatory (HCO) and the Smithsonian Astrophysical Observatory (SAO). We welcome applicants, who as a component of their research statement, discuss their experience in mentoring, outreach, and teaching.
 
-Applications received by December 1, 2025 will get full consideration, and applications arriving after this date will be considered on a rolling basis.
+Please submit applications by 6:00 PM EST November 1, 2026
 
-[Apply](https://apply.interfolio.com/175639){:.button.button--outline-primary.button--pill.button--lg}
+[Apply](https://academicpositions.harvard.edu/postings/16723){:.button.button--outline-primary.button--pill.button--lg}
+
+### Harvard & Smithsonian Center for Astrophysics, AstroAI Fellows
+
+The AstroAI Fellows program seeks to advance the integration of artificial intelligence in astrophysical research by attracting exceptional early-career researchers. Fellows will engage in innovative projects at the intersection of AI and astrophysics, fostering interdisciplinary, multi-investigator, and cross-subfield collaborations. AstroAI Fellows enjoy a high degree of academic freedom in defining their research directions within the broad AstroAI framework. While all innovative proposals at the intersection of AI and astrophysics are welcome, special consideration will be given to projects focused on (1) the search for biosignatures in exoplanet atmospheres, and (2) the development and application of Physical Generative AI models—AI generative models that respect fundamental physical principles. Each Fellow will be co-mentored by two advisors—one from astrophysics and one from AI—reflecting the program’s interdisciplinary mission.
+
+[Apply](https://www.cfa.harvard.edu/opportunities/fellowships-visiting-scientist-positions/astroai-fellowship){:.button.button--outline-primary.button--pill.button--lg}
+
+### Northeastern Assistant Professor, Khoury College of Computer Sciences
+
+The Khoury College of Computer Sciences at Northeastern University has multiple tenure-track/tenured faculty positions at all ranks (Assistant Professor, Associate Professor, Full Professor), beginning academic year 2027-28 or 2028-29.  The tenure home for this position will reside in the Khoury College of Computer Sciences, with a potential joint appointment in another Northeastern College (Bouvé College of Health Sciences; College of Art, Media, and Design; College of Engineering; College of Science; College of Social Sciences and Humanities; D'More-McKim School of Business; Mills College; School of Law), to be determined in consultation with the successful candidate.  Academic rank at the Associate Professor and Full Professor levels will be commensurate with experience and qualifications reflecting a record of demonstrated teaching and scholarly excellence. We  will consider candidates across all areas of computer science, whose research connects to the following sub-areas of AI: Physical AI; Human Centered AI; AI and Software Engineering; AI Safety, Security and Alignment. 
+
+Application review will begin November 15, 2026 and continue through the academic year until the search is completed.
+
+[Apply](https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Assistant-Associate-Full-Professor--Khoury-College-of-Computer-Sciences_R142434){:.button.button--outline-primary.button--pill.button--lg}
+
+### Boston University Assistant Professor in DS/AI for Science & Engineering
+
+Boston University (BU) invites applications for a tenure-track assistant professor position in the Faculty of Computing & Data Sciences (CDS). All candidates pursuing foundational or use-inspired Data Science (DS) or Artificial Intelligence (AI) research will be considered. Candidates working in one or more of the following broad areas of AI for Science research are especially encouraged to apply: DS/AI-driven Bioinformatics, Computational Biology, and Life Sciences; DS-AI-driven Natural, Physical, and Earth Sciences; DS/AI for science methodologies, frameworks, and platforms.
+
+Priority will be given to candidates who submit their application by December 1, 2026 but consideration and review of applications will continue on a rolling basis until April 30, 2027. 
+
+[Apply](https://www.bu.edu/cds-faculty/culture-community/join-us/faculty-positions/aise/){:.button.button--outline-primary.button--pill.button--lg}
 
 {% include_relative iaifi-reminder_footer.html %}
