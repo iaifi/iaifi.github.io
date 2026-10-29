@@ -86,8 +86,8 @@
   start-date-time: "2026-11-06 14:00"
   end-date-time: "2026-11-06 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
-  talk-abstract:
+  talk-title: "Attention isn't all you need to solve the correlated electron problem"
+  talk-abstract: "Deep learning has led to enormous advances in electronic structure calculations, especially via neural network ansatzes, which have turned variational quantum Monte Carlo from a cheap but inaccurate method into a competitive method that can often exceed the accuracy of "gold standard" methods like coupled cluster. The best neural network ansatzes that treat electrons in the continuum, like Psiformer and Orbformer, are based on the Transformer architecture that is now ubiquitous across AI. But what else is needed to enable them to tackle the hardest electronic structure problems? In the first part of this talk, I will survey how neural network ansatzes have developed over the last decade and how they have been applied to challenging problems in quantum chemistry and materials. In the second part of this talk, I'll focus on applications of neural network ansatzes to model problems in condensed matter physics like Wigner crystallization in the electron gas and superfluidity in the Fermi gas. Finally, I will discuss a recent line of work using neural network ansatzes to study the fractional quantum Hall effect, and discuss different ways of tackling the problem of anyons with deep learning, which could lead to new insights into the mysterious nu=5/2 FQHE state and non-abelian anyons."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjExMDZUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
