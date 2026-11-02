@@ -2,6 +2,18 @@
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-11-01"
+  start-date-time: "2026-11-02 12:00"
+  end-date-time: "2026-11-02 13:00"
+  talk-location: "Pratt, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "Siddharth Chaini (U. of Delaware)<br>Learning Probabilistic Distributions over the Transient Sky with Neural Processes & NightLANP<br>The sparse multiband light curves from large-sky surveys like the Vera C. Rubin Observatory’s Legacy Survey of Space and Time (LSST) are crucial for informing follow-up observations and enabling the discovery of novel astronomical events. However, a major challenge is the analysis of these light curves, with their long observational gaps, irregular sampling, and differing cadences across filters. While Gaussian Process (GP) regression is commonly used for interpolation, it requires specifying a kernel a priori, making assumptions about an object’s temporal behavior that may not hold across a diverse population of transients. GPs must also generally be fit to each light curve independently, transferring little information between objects and making them difficult to scale to the volume of the LSST alert stream. However, the sheer volume of LSST light curves may enable a data-driven approach. Neural Processes (NPs) are a family of models that learn distributions over functions, combining the probabilistic framework of GPs with the scalability and flexibility of neural networks. Instead of fitting to each transient light curve independently, NPs can meta-learn a shared prior across a population of light curves. In this talk, I will discuss how learned probabilistic representations of astronomical time series may enable downstream applications ranging from classification and anomaly detection to physical inference in the LSST era. I will introduce the neural process family for astronomical time-series modelling and present NightLANP, where we use Attentive Neural Processes for fast, probabilistic reconstruction of sparse and asynchronously sampled multiband transient light curves. A single model jointly reconstructs all six LSST filters in microseconds. I will talk about its performance on realistic LSST cadences across a diverse population of transients, as well as recent experiments on real data from Zwicky Transient Facility and LSST alerts. I will then connect this to downstream tasks with NAPTIME, which extends the use of NPs to classification under sparse and partial observational context."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2wwY2piYzJ0cTFqc3Zoc2s1OTk3Y2tkMTggZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+  
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2026-10-25"
   start-date-time: "2026-10-26 12:00"
   end-date-time: "2026-10-26 13:00"
