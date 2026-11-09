@@ -190,7 +190,7 @@ Learn more about the National AI Institutes program from the [AI Institutes Virt
 {:.success}
 -->
 
-***Our [IAIFI Colloquium series](events.html) will continue on Friday, October 23 with Nicole Hartman (IAIFI Fellow).*** Watch live on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue on Friday, November 13 with Deep Deka (Principal Research Scientist, MIT Energy Initiative).*** Watch live on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>
