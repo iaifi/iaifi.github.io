@@ -116,15 +116,6 @@ Meals (two breakfasts, two lunches, and one dinner) will be provided.
   <div class="col">
     <div class="card h-100">
       <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
-        <strong>Columbia University</strong>
-        <div>TBD</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card h-100">
-      <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
         <strong>Duke University</strong>
         <div>Divine Kumah</div>
       </div>
@@ -148,7 +139,16 @@ Meals (two breakfasts, two lunches, and one dinner) will be provided.
       </div>
     </div>
   </div>
-
+  
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
+        <strong>Johns Hopkins University</strong>
+        <div>Oleg Tchernyshyov</div>
+      </div>
+    </div>
+  </div>
+  
   <div class="col">
     <div class="card h-100">
       <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
@@ -163,6 +163,15 @@ Meals (two breakfasts, two lunches, and one dinner) will be provided.
       <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
         <strong>Northeastern University</strong>
         <div>Jim Halverson</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
+        <strong>Northwestern University</strong>
+        <div>Bennett Goldberg</div>
       </div>
     </div>
   </div>
@@ -207,7 +216,7 @@ Meals (two breakfasts, two lunches, and one dinner) will be provided.
     <div class="card h-100">
       <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
         <strong>University of Chicago</strong>
-        <div>TBD</div>
+        <div>Savan Kharel<br>Savdeep Sethi</div>
       </div>
     </div>
   </div>

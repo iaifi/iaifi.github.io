@@ -2,6 +2,18 @@
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
+  event-post-date: "2026-11-08"
+  start-date-time: "2026-11-09 12:00"
+  end-date-time: "2026-11-09 13:00"
+  talk-location: "Pratt, Center for Astrophysics, 60 Garden Street and Zoom"
+  talk-zoom: https://smithsonian.zoom.us/j/87210779695?pwd=eU5DNGY4eko1U04vRTF2eWRhcGkyQT09
+  event-details: "John Wenskovitch (Virginia Tech)<br>Beyond the Chatbot: AI Tools and Workflows for Scientific Research<br>Artificial intelligence is increasingly becoming part of the scientific research toolkit, offering capabilities that extend well beyond conversational chatbots and automated writing.  From discovering and synthesizing scientific literature to preparing datasets, developing analytical methods, exploring visualizations, and interpreting results, AI tools are creating new opportunities to support researchers throughout the research lifecycle.  This presentation explores the expanding landscape of AI for scientific research, drawing on both general-purpose generative AI systems and specialized machine-learning approaches.  It examines practical applications of large language models and AI assistants for literature discovery, research planning, scientific programming, data analysis, visualization, and scientific communication, alongside examples of AI being used directly as a scientific instrument for tasks such as astronomical object classification, anomaly detection, and the analysis of large observational datasets.  Alongside these opportunities, the presentation considers important limitations and challenges, including the reliability of AI-generated outputs, reproducibility, model bias and generalization, transparency, and the continued importance of human scientific judgment.  The goal is to provide researchers with a broader understanding of what contemporary AI tools can offer, how they might be incorporated into existing research practices, and where these technologies may be headed as part of the future of scientific discovery."
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2YwdmRzcTE5cGdya2U3dDB1b2lvaW1vaXUgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com"
+
+- type: "external-event"
+  event-name: "AstroAI Lunch Talk"
+  event-organizer: "AstroAI"
+  more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
   event-post-date: "2026-11-01"
   start-date-time: "2026-11-02 12:00"
   end-date-time: "2026-11-02 13:00"
@@ -2503,25 +2515,7 @@ https://logconference.org/"
   talk-location: "Atlanta, Georgia"
   talk-zoom:
   event-details: "Hello all. I'm co-organizing a workshop at neurIPS Atlanta called AI & Science: Evolution or Extinction? We're aiming for epistemically diverse perspectives on the future of scientific practice, its impact on humanity, and the role we play in shaping that impact. Paper submissions are open, please consider joining us!"
-  calendar-link: 
-  
-- type: "external-event"
-  event-name: "Learning on Graphs Conference 2026"
-  event-organizer: "LoG Conference Organizing Committee"
-  more-info-link: "https://logconference.org/"
-  event-post-date: "2026-08-02"
-  start-date-time: "2026-11-20"
-  end-date-time: "2026-11-22"
-  talk-location: "Northeastern University, Boston, MA, USA"
-  talk-zoom:
-  event-details: "We are pleased to announce and invite submissions to LoG 2026, to be held on November 20–22, 2026, at Northeastern University in Boston, Massachusetts, USA. Learning on Graphs (LoG) is an annual research conference covering research broadly related to machine learning on graphs and geometry, with a special focus on review quality. The conference welcomes contributions spanning theory, algorithms, systems, and applications of graph and geometric machine learning, including connections to large language models and a wide range of scientific and industrial domains. We invite participation in multiple ways:
-<br>Call for Papers – Submit original research contributions. Due to popular demand, the abstract deadline has been extended to Aug 5, 2026 AOE, with full paper deadline Aug 7, 2026 AOE.
-<br>Call for Tutorials – Propose tutorials on topics of broad interest to the community.
-<br>Call for Sponsors – Support the conference and engage with the LoG research community.
-<br>Call for Reviewers – Join our reviewer pool and help maintain LoG's high standards for peer review.
-<br>Full details for each call, including submission instructions, important dates, and sponsorship opportunities, are available at:
-https://logconference.org/"
-  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3JybHVnZDc5Y2tmNzU2amFoOGlqOGU3YTQgZjh2NnI1dWV1bDN1anBpbzFhN2IzdDB1MjhAZw&tmsrc=f8v6r5ueul3ujpio1a7b3t0u28%40group.calendar.google.com
+  calendar-link:
   
 - type: "external-event"
   event-name: "Topology, Algebra, and Geometry in Data Science (TAG-DS) 2026"
