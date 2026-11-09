@@ -1,3 +1,42 @@
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "IAIFI Community Forum"
+  event-post-date: "2026-11-08"
+  start-date-time: "2026-11-19 13:00"
+  end-date-time: "2026-11-19 14:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ODhncjFqY2VkbnFibG5iN3UxZmsxcGxhMTJfMjAyNjExMTlUMTgwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com&scp=ALL
+  more-info-link:
+
+- type: "social"
+  event-name: "Weekly Coffee Hour"
+  event-committee: "IAIFI Community Forum"
+  event-post-date: "2026-11-08"
+  start-date-time: "2026-11-12 13:00"
+  end-date-time: "2026-11-12 14:00"
+  talk-location: "IAIFI Penthouse (26-648)"
+  talk-zoom:
+  event-details: "Coffee and snacks provided. All are welcome, including guests."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ODhncjFqY2VkbnFibG5iN3UxZmsxcGxhMTJfMjAyNjExMTlUMTgwMDAwWiBjXzIyOWMwZDQ3MTFiMmU2ODM4Yjg1NmVmMTI3YTY2MmYxYmE4NTVkZmY5ZTY1YTgxYmUxZDUxOTI4YmQ0MjBlYzhAZw&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com&scp=ALL
+  more-info-link:
+
+- type: "social"
+  event-name: "IAIFI Fall 2026 Social"
+  event-committee: "Community Forum"
+  event-post-date: "2026-11-09"
+  start-date-time: "2026-11-20 17:00"
+  end-date-time: "2026-11-20 19:00"
+  talk-location: "Sacco's/American Flatbread (Davis Square)"
+  talk-zoom:
+  event-details: "All IAIFI members are invited to our Fall Social at Sacco's/American Flatbread in Davis Square. Food and beverages will be provided and candlepin bowling will be available! Guests (including children) welcome."
+  calendar-link: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXRoam52aTR0YzAydDVnZDZzODFmc3NuOW0gY18yMjljMGQ0NzExYjJlNjgzOGI4NTZlZjEyN2E2NjJmMWJhODU1ZGZmOWU2NWE4MWJlMWQ1MTkyOGJkNDIwZWM4QGc&tmsrc=c_229c0d4711b2e6838b856ef127a662f1ba855dff9e65a81be1d51928bd420ec8%40group.calendar.google.com
+  rsvp-link: https://app.smartsheet.com/b/form/01a1c11b1425707da44736b09b3565c1
+  more-info-link:
+  attendance-in-person:
+  attendance-virtual:
+
 - type: "internal-workshop"
   event-name: "IAIFI Summer Workshop"
   event-committee: "Summer School and Workshop Committee"

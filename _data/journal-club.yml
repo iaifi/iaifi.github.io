@@ -5,6 +5,25 @@
   speaker-affiliation: "IAIFI Lunch Discussion Organizers"
   speaker-website:
   speaker-photo-location:
+  start-date-time: "2026-11-19 12:00"
+  end-date-time: "2026-11-19 13:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "Scientific Publication in the Age of AI"
+  talk-abstract: "Details to come"
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance: TBD in person, TBD virtual
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjExMTlUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
+
+- type: "journal-club"
+  semester: "fall-2026"
+  speaker-name: "Victoria Zhang and Victor Breso Pla"
+  speaker-title: ""
+  speaker-affiliation: "IAIFI Lunch Discussion Organizers"
+  speaker-website:
+  speaker-photo-location:
   start-date-time: "2026-09-24 12:00"
   end-date-time: "2026-09-24 13:00"
   talk-location: "IAIFI Penthouse"
@@ -112,7 +131,7 @@
   youtube-link:
   speaker-thrust: "foundational AI"
   speaker-gender:
-  talk-attendance:
+  talk-attendance: 12 in person, 1 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjEwMjlUMTYwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
   
 - type: "journal-club"
@@ -127,11 +146,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "Round-table conversation on impact of generative AI in the IAIFI community"
   talk-abstract: "The Ethical and Social Responsibility Committee invites you for an informal conversation centered around the impact that generative AI is having on your professional life. Possible topics include the effect of AI on research practices and training, concerns about authorship and credit, changing expectations for productivity, and how to build scientific careers in a rapidly evolving landscape. This is intended as an open, exploratory conversation -- not a presentation or debate -- with space for candid questions, differing perspectives and ideas about how our community can navigate these changes thoughtfully."
-  slides-link:
+  slides-link: https://drive.google.com/file/d/1qVN6MAXKoGL_1h2KglXioFkob8vdJ7n8/view?usp=drive_link
   youtube-link:
   speaker-thrust: "foundational AI"
   speaker-gender:
-  talk-attendance:
+  talk-attendance: 16 in person, 1 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjExMDVUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
 
 - type: "journal-club"
