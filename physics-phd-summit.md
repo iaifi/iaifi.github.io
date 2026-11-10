@@ -74,7 +74,7 @@ Participants will be organized into the following three working groups:
 
 ## Preparation
 - Each representative should [complete this form](https://app.smartsheet.com/b/form/01a145538bb47a2ca292f881a30211e1) to book accommodations and communicate their working group preference.
--  We invite each institution to prepare one slide to share on the first day of the Summit. This could include experiences or innovations at your institution, results of a survey of your students or faculty, or any other perspective you would like to share. 
+-  We invite each institution to prepare one slide to share on the first day of the Summit. This could include experiences or innovations at your institution, results of a survey of your students or faculty, or any other perspective you would like to share. Slides should be [added to this deck](https://docs.google.com/presentation/d/1Y3VU8SNK5WLS56_hWWiVaARK5EoaRebXDJeuVLi78wQ/edit?usp=sharing). 
 
 ## Logistics
 Travel and accommodations will be covered for all invited participants. Travelers should book their own travel to and from Boston and submit for reimbursement. Accommodations will be booked by MIT directly. 
