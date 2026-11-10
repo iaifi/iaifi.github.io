@@ -18,15 +18,11 @@ There is an urgent need for the physics community to address the impact of AI on
 
 Breakfast and Introduction (coffee and pastries will be provided)
 
-**9:15–10:30 am ET**
+**9:15–11:15 am ET**
 
 Participant Overviews (one-slides)
 
-**10:30–10:45 am ET**
-
-Break
-
-**10:45–12:00 pm ET**
+**11:15–12:00 pm ET**
 
 Establishing Working Groups and Goals
 
@@ -34,19 +30,19 @@ Establishing Working Groups and Goals
 
 Lunch in Working Groups
 
-**1:00–4:00 pm ET**
+**1:00–3:30 pm ET**
 
 Working Group Discussion
 
-**4:00–5:00 pm ET**
+**3:30–5:00 pm ET**
 
 Working Group Report Out and Group Discussion
 
-**5:00–6:00 pm ET**
+**5:00–5:30 pm ET**
 
 Break
 
-**6:00–8:00 pm ET**
+**5:30–7:00 pm ET**
 
 Dinner at local restaurant
 
@@ -61,9 +57,12 @@ Working Group Discussion/Drafting
 
 Lunch in Working Groups
 
-**1:00–3:00 pm ET**
+**1:00–2:00 pm ET**
 
-Final Report out/Group Discussion and Next Steps
+Final Report out
+
+**2:00–3:00 pm ET**
+Group Discussion and Next Steps
 
 ## Working Groups
 
@@ -75,7 +74,7 @@ Participants will be organized into the following three working groups:
 
 ## Preparation
 - Each representative should [complete this form](https://app.smartsheet.com/b/form/01a145538bb47a2ca292f881a30211e1) to book accommodations and communicate their working group preference.
--  We invite each institution to prepare one slide to share on the first day of the Summit. This could include experiences or innovations at your institution, results of a survey of your students or faculty, or any other perspective you would like to share. 
+-  We invite each institution to prepare one slide to share on the first day of the Summit. This could include experiences or innovations at your institution, results of a survey of your students or faculty, or any other perspective you would like to share. Slides should be [added to this deck](https://docs.google.com/presentation/d/1Y3VU8SNK5WLS56_hWWiVaARK5EoaRebXDJeuVLi78wQ/edit?usp=sharing). 
 
 ## Logistics
 Travel and accommodations will be covered for all invited participants. Travelers should book their own travel to and from Boston and submit for reimbursement. Accommodations will be booked by MIT directly. 
@@ -89,8 +88,8 @@ Meals (two breakfasts, two lunches, and one dinner) will be provided.
   <div class="col">
     <div class="card h-100">
       <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
-        <strong>Brown University</strong>
-        <div style="line-height:140%">Loukas Gouskos<br>Vesna Mitrović</div>
+        <strong>American Physical Society</strong>
+        <div style="line-height:140%">Michael Wittmann</div>
       </div>
     </div>
   </div>
@@ -98,8 +97,8 @@ Meals (two breakfasts, two lunches, and one dinner) will be provided.
   <div class="col">
     <div class="card h-100">
       <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
-        <strong>California Institute of Technology</strong>
-        <div>Sergei Gukov</div>
+        <strong>Brown University</strong>
+        <div style="line-height:140%">Loukas Gouskos<br>Vesna Mitrović</div>
       </div>
     </div>
   </div>
@@ -135,7 +134,7 @@ Meals (two breakfasts, two lunches, and one dinner) will be provided.
     <div class="card h-100">
       <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
         <strong>Harvard University</strong>
-        <div>Doug Finkbeiner</div>
+        <div>Doug Finkbeiner<br>Jordan Cotler</div>
       </div>
     </div>
   </div>
@@ -162,7 +161,7 @@ Meals (two breakfasts, two lunches, and one dinner) will be provided.
     <div class="card h-100">
       <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
         <strong>Northeastern University</strong>
-        <div>Jim Halverson</div>
+        <div>Jim Halverson<br>Toyoko Orimoto</div>
       </div>
     </div>
   </div>
