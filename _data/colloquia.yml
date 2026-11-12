@@ -124,8 +124,8 @@
   start-date-time: "2026-11-20 14:00"
   end-date-time: "2026-11-20 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
-  talk-abstract:
+  talk-title: "Dark Matter, Dynamics, and Derivatives: Probing Sub-Galactic Structure with Stellar Streams"
+  talk-abstract: "The particle nature of dark matter leaves its imprint on small scales, from the shape of galactic halos to the abundance of dark subhalos too small to host stars. Stellar streams, the tidally disrupted remnants of satellite galaxies and globular clusters, offer a sensitive gravitational laboratory to probe these scales. In this talk, I will show how machine learning and differentiable programming are turning stellar streams into precision probes of dark matter, enabling detailed mass maps of the Milky Way and external galaxies alongside stringent constraints on the number, mass, and size of dark subhalos. These results rest on a suite of techniques that combine automatic differentiation with Hamiltonian perturbation theory, alongside classical mechanics and physics-informed machine learning, to make inference on Hamiltonian systems fast and scalable. I will highlight how machine learning provides a precise and robust path toward mapping sub-galactic structure and testing dark matter microphysics."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjExMjBUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
