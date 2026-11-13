@@ -1,4 +1,16 @@
 - type: "external-event"
+  event-name: "2nd PhyStat Advanced School of Statistics – 'Statistics in the Era of AI'"
+  event-organizer: "Phystat"
+  more-info-link: "https://indico.cern.ch/e/damp27"
+  event-post-date: "2026-11-13"
+  start-date-time: "2027-02-22 12:00"
+  end-date-time: "2027-03-02 13:00"
+  talk-location: "Damp, on Germany's Baltic Sea coast"
+  talk-zoom: 
+  event-details: "The 2nd PhyStat Advanced School of Statistics, organised jointly with the Terascale Alliance, will take place from February 22 to March 2, 2027, in Damp, on Germany's Baltic Sea coast. The goal of the school is to give participants a thorough understanding of statistical concepts and methods used in high-energy physics, from statistical foundations and inference to modern machine-learning approaches. The methods are also highly relevant to related fields such as astrophysics, cosmology and gravitational-wave physics. The programme combines lectures with extensive hands-on sessions, allowing participants to apply the methods to concrete problems. Invited lectures will highlight applications in current physics research. The school is organised by PhyStat in collaboration with the University of Hamburg and DESY. It is aimed at PhD students and postdocs, and we welcome applications from all countries and nationalities."
+  calendar-link: ""
+
+- type: "external-event"
   event-name: "AstroAI Lunch Talk"
   event-organizer: "AstroAI"
   more-info-link: "https://astroai.cfa.harvard.edu/lunch_talks/"
