@@ -6,7 +6,7 @@ title: Summit for Physics PhD Education in the Age of AI
 There is an urgent need for the physics community to address the impact of AI on physics PhD education. Inspired by the [recent white paper](https://cmsa.fas.harvard.edu/media/2026/09/Summit-on-PhD-Math-Education-in-the-Age-of-AI.pdf) released by the math community on this topic, IAIFI (with funding from the MIT School of Science and Department of Physics) will host a 2-day Summit on November 16–17, 2026, at MIT in Cambridge, MA. The Summit will invite diverse perspectives from leading physics departments at private and public universities in the U.S. with a goal of releasing a whitepaper shortly thereafter. This Summit is invite-only.
 
 * When: November 16–17, 2026 
-* Where: MIT
+* Where: MIT, [Pappalardo Community Room](https://whereis.mit.edu/?go=4) (4-349)
 
 [Agenda](#agenda){:.button.button--outline-primary.button--pill.button--lg} [Logistics](#logistics){:.button.button--outline-primary.button--pill.button--lg} [Working Groups](#working-groups){:.button.button--outline-primary.button--pill.button--lg} [Preparation](#preparation){:.button.button--outline-primary.button--pill.button--lg} [Participants](#participants){:.button.button--outline-primary.button--pill.button--lg} [Organizers](#organizers){:.button.button--outline-primary.button--pill.button--lg}
 
@@ -115,8 +115,8 @@ Meals (two breakfasts, two lunches, and one dinner) will be provided.
   <div class="col">
     <div class="card h-100">
       <div class="card-body d-flex flex-column align-items-center justify-content-center text-center py-2">
-        <strong>Duke University</strong>
-        <div>Divine Kumah</div>
+        <strong>Columbia University</strong>
+        <div>Abhay Pasupathy</div>
       </div>
     </div>
   </div>
