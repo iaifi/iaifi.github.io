@@ -107,9 +107,9 @@
   talk-location: "MIT Kolker Room (26-414)"
   talk-title: "Special ESRC Colloquium: Powering Intelligence: A Two-Way Relationship Between AI and the Energy Grid"
   talk-abstract: "Artificial intelligence is reshaping both how electricity systems are managed and how much is demanded of them. This talk explores that two-way relationship, AI for the grid and the grid for AI, through the lens of reliability, efficiency, and flexibility. AI for the grid. We discuss how surrogate models (fast, data-driven approximations of complex grid behavior) and data-driven optimization can accelerate power-system analysis and inform planning and operations. A central theme is combining the speed of learning-based methods with the physical constraints and reliability requirements of power systems, particularly under uncertainty in demand and renewable generation. The grid for AI. We then turn to the challenge of powering expanding AI infrastructure: rapidly growing electricity demand, long waits for grid interconnection, and fast swings in data-center load that can threaten grid stability. Two studies show how flexibility can address these challenges. The first examines how flexible grid connections, backup resources, and on-site generation can allow data centers to begin operating earlier, before transmission upgrades are complete. The second explores how coordinating computing workloads with battery storage can keep data centers within grid limits, meet computing needs, and provide services back to the grid."
-  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjExMjBUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
-  slides-link:
-  youtube-link:
+  calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjVidG9tMXZhaGhqNWIwZnBmbWhhdTJmZWFfMjAyNjExMjBUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
+  slides-link: "https://drive.google.com/file/d/1rWBk0o0LoLfALGtkYBqeBor0uqwm3VAS/view?usp=share_link"
+  youtube-link: "https://www.youtube.com/live/AGyXIWtNEM0?si=bsxHJj0L1NXhkHjA"
   speaker-thrust: "AI"
   speaker-gender: "man"
   talk-attendance: TBD in person, TBD virtual
@@ -124,8 +124,8 @@
   start-date-time: "2026-11-20 14:00"
   end-date-time: "2026-11-20 15:00"
   talk-location: "MIT Kolker Room (26-414)"
-  talk-title: "Details to come."
-  talk-abstract:
+  talk-title: "Dark Matter, Dynamics, and Derivatives: Probing Sub-Galactic Structure with Stellar Streams"
+  talk-abstract: "The particle nature of dark matter leaves its imprint on small scales, from the shape of galactic halos to the abundance of dark subhalos too small to host stars. Stellar streams, the tidally disrupted remnants of satellite galaxies and globular clusters, offer a sensitive gravitational laboratory to probe these scales. In this talk, I will show how machine learning and differentiable programming are turning stellar streams into precision probes of dark matter, enabling detailed mass maps of the Milky Way and external galaxies alongside stringent constraints on the number, mass, and size of dark subhalos. These results rest on a suite of techniques that combine automatic differentiation with Hamiltonian perturbation theory, alongside classical mechanics and physics-informed machine learning, to make inference on Hamiltonian systems fast and scalable. I will highlight how machine learning provides a precise and robust path toward mapping sub-galactic structure and testing dark matter microphysics."
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M3VoN2hvMWJjbmljOGNjNzJnYXYyOWlmNHZfMjAyNjExMjBUMTkwMDAwWiBjNnA3MjAwZHBuMTRzbTUzajAxYTFldnA4OEBn&tmsrc=c6p7200dpn14sm53j01a1evp88%40group.calendar.google.com"
   slides-link:
   youtube-link:
