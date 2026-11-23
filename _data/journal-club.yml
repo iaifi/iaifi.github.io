@@ -1,5 +1,24 @@
 - type: "journal-club"
   semester: "fall-2026"
+  speaker-name: "Speaker TBA"
+  speaker-title: ""
+  speaker-affiliation:
+  speaker-website:
+  speaker-photo-location:
+  start-date-time: "2026-12-03 12:00"
+  end-date-time: "2026-12-03 13:00"
+  talk-location: "IAIFI Penthouse"
+  talk-title: "How should science be communicated in the age of AI"
+  talk-abstract: "Details to come"
+  slides-link:
+  youtube-link:
+  speaker-thrust:
+  speaker-gender:
+  talk-attendance:  in person,  virtual
+  calendar-link: ""
+
+- type: "journal-club"
+  semester: "fall-2026"
   speaker-name: "Victoria Zhang and Victor Breso Pla"
   speaker-title: ""
   speaker-affiliation: "IAIFI Lunch Discussion Organizers"
@@ -10,11 +29,11 @@
   talk-location: "IAIFI Penthouse"
   talk-title: "How should science be communicated in the age of AI"
   talk-abstract: "AI tools can drastically accelerate the pace of research. One area where AI tools are increasingly used is in scientific publishing, from generating publication-worthy figures to the writing itself. In this new landscape, it is imperative to discuss the best practice of AI tools. In this Lunch Discussion, we discuss the shift towards automated workflows, the rising volume of 'AI slop,' and maintaining academic integrating."
-  slides-link:
+  slides-link: "https://drive.google.com/file/d/1sYqmKmSfX-i8wELCar1SvLCimidlpxlU/view?usp=drive_link"
   youtube-link:
   speaker-thrust:
   speaker-gender:
-  talk-attendance: TBD in person, TBD virtual
+  talk-attendance: 10 in person, 1 virtual
   calendar-link: "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzlhN21wdTFya3Y5MDQ0anV0a2xoNm90Y2pfMjAyNjExMTlUMTcwMDAwWiBwNzFva3JscDFlYm9rMWkyN21zaDNmb2R1OEBn&tmsrc=p71okrlp1ebok1i27msh3fodu8%40group.calendar.google.com"
 
 - type: "journal-club"
