@@ -190,7 +190,7 @@ Learn more about the National AI Institutes program from the [AI Institutes Virt
 {:.success}
 -->
 
-***Our [IAIFI Colloquium series](events.html) will continue on Friday, November 20 with Jake Nibauer (IAIFI/ITC Fellow).*** Watch live on our [YouTube channel](https://www.youtube.com/@iaifiinstituteforaifundame3333).
+***Our [IAIFI Colloquium series](events.html) will continue in February 2027.*** In the meantime, catch up on our Fall 2026 Colloquia on [YouTube](https://www.youtube.com/@iaifiinstituteforaifundame3333).
 {:.success}
 
 <style>
@@ -229,8 +229,12 @@ Learn more about the National AI Institutes program from the [AI Institutes Virt
 <!--For an archive of IAIFI news, see our [news page](/iaifi-news.html). To receive periodic announcements about IAIFI-related activities, [sign up for our mailing list](http://mailman.mit.edu/mailman/listinfo/iaifi-news) and follow us [on Twitter](http://www.twitter.com/iaifi_news) and [LinkedIn](https://www.linkedin.com/company/iaifi).-->
 
 <!---
-<a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platformß.twitter.com/widgets.js" charset="utf-8"></script>
 --->
+
+***IAIFI Deputy Director Phiala Shanahan, IAIFI Fellow Mathis Gerdes, and collaborators partner with Colfax on accelerating lattice QCD simulations.*** [Read the blog post](https://research.colfax-intl.com/accelerating-staple-networks-for-normalizing-flows-in-lattice-quantum-chromodynamics/) describing their use of CuTe DSL kernels to accelerate staple networks for normalizing flows in lattice quantum chromodynamics.
+*November 24, 2026*
+{:.info}
 
 ***IAIFI researchers Phil Harris, Eric Moreno, and Nicole Hartman receive 2026 MIT Open Data Prize!*** The MIT School of Science and MIT Libraries selected them for their work on [COLLIDE-2V: an open, dual-view dataset of one billion simulated LHC collisions for machine learning](https://huggingface.co/datasets/fastmachinelearning/collide-1m). *October 19, 2026*
 {:.info}
