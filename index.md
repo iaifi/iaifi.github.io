@@ -232,6 +232,8 @@ Learn more about the National AI Institutes program from the [AI Institutes Virt
 <a class="twitter-timeline" href="https://twitter.com/iaifi_news?ref_src=twsrc%5Etfw">Tweets by iaifi_news</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 --->
 
+***IAIFI researchers https://research.colfax-intl.com/accelerating-staple-networks-for-normalizing-flows-in-lattice-quantum-chromodynamics/
+
 ***IAIFI researchers Phil Harris, Eric Moreno, and Nicole Hartman receive 2026 MIT Open Data Prize!*** The MIT School of Science and MIT Libraries selected them for their work on [COLLIDE-2V: an open, dual-view dataset of one billion simulated LHC collisions for machine learning](https://huggingface.co/datasets/fastmachinelearning/collide-1m). *October 19, 2026*
 {:.info}
 
